@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+tmp_recent_top15.html
+top15_recent_audit.json

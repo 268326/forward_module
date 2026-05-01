@@ -1,0 +1,59 @@
+name: Refresh archive and current-year ranking
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 1 */4 * *'
+
+concurrency:
+  group: bangumi-data-refresh
+  cancel-in-progress: false
+
+jobs:
+  build-archive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run regression tests
+        run: |
+          python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Refresh current year ranking and archive data
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python scripts/build_data.py \
+            --output-dir . \
+            --current-year $(date +%Y) \
+            --archive-years $(python - <<'PY'
+from datetime import datetime
+now = datetime.utcnow().year
+print(','.join(str(y) for y in range(now - 1, max(now - 4, 1939), -1)))
+PY
+) \
+            --skip-recent \
+            --skip-daily \
+            --year-pages 1
+
+      - name: Commit generated data
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add recent_data.json archive/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh archive and yearly ranking"
+          git push
