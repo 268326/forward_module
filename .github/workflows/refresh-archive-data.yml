@@ -39,12 +39,7 @@ jobs:
           python scripts/build_data.py \
             --output-dir . \
             --current-year $(date +%Y) \
-            --archive-years $(python - <<'PY'
-from datetime import datetime
-now = datetime.utcnow().year
-print(','.join(str(y) for y in range(now - 1, max(now - 4, 1939), -1)))
-PY
-) \
+            --archive-years $(python -c "from datetime import datetime; now=datetime.utcnow().year; print(','.join(str(y) for y in range(now - 1, max(now - 4, 1939), -1)))") \
             --skip-recent \
             --skip-daily \
             --year-pages 1
