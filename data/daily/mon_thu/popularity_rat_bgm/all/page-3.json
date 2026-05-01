@@ -1,0 +1,62 @@
+[
+  {
+    "id": "639428",
+    "type": "link",
+    "title": "猪猪侠之功夫小英雄2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/3e/639428_4ZJn9.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/639428",
+    "bgm_id": "639428",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "638082",
+    "type": "link",
+    "title": "ほっかいどうぶつ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/84/3c/638082_O4xwE.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/638082",
+    "bgm_id": "638082",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "643061",
+    "type": "link",
+    "title": "小猫凯文",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/e8/643061_FEiYz.jpg",
+    "releaseDate": "2026-04-20",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/643061",
+    "bgm_id": "643061",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "643646",
+    "type": "link",
+    "title": "多美卡联合救援",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/2d/35/643646_6Ny1Y.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/643646",
+    "bgm_id": "643646",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  }
+]

@@ -2,22 +2,22 @@
 import json
 from pathlib import Path
 
-root = Path('/var/minis/workspace/bangumi-forward-rebuild')
+root = Path(__file__).resolve().parents[1]
 summary = {
     'files': [
-        'widget/Bangumi 热门榜单-即用版.js',
         'widget/Bangumi 热门榜单.js',
         'scripts/build_data.py',
+        'scripts/export_split_data.py',
         'README.md',
         'requirements.txt',
-        '.github/workflows/build-data.yml',
+        '.github/workflows/refresh-recent-data.yml',
+        '.github/workflows/refresh-archive-data.yml',
     ],
-    'immediate_use': 'widget/Bangumi 热门榜单-即用版.js',
-    'self_hosted_use': 'widget/Bangumi 热门榜单.js',
+    'hosted_use': 'widget/Bangumi 热门榜单.js',
     'notes': [
-        '即用版默认走动态抓取，不依赖 raw JSON',
-        '自托管版需要把 GITHUB_REPO 改成你自己的仓库',
-        'build_data.py 用于生成 recent_data.json 和 archive/*.json'
+        '严格托管模式：本地只读取远程分布式JSON',
+        '数据更新由GitHub Actions自动构建并提交',
+        'build_data.py 生成recent_data/archive，export_split_data.py 拆分为data目录'
     ]
 }
 print(json.dumps(summary, ensure_ascii=False, indent=2))

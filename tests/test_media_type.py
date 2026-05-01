@@ -128,10 +128,13 @@ class MediaTypeRegressionTests(unittest.TestCase):
         self.assertEqual(result['tmdb_season_number'], 4)
         self.assertEqual(result['media_type'] if 'media_type' in result else result['media_type'], 'tv')
 
-    def test_widget_scripts_contain_tv_media_type_assignment(self):
-        path = PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单.js'
+    def test_hosted_pipeline_outputs_tmdb_host_fields(self):
+        path = PROJECT_ROOT / 'scripts' / 'build_data.py'
         content = path.read_text(encoding='utf-8')
-        self.assertGreaterEqual(content.count('baseItem.mediaType = "tv";'), 2, msg=str(path))
+        self.assertIn('"tmdb_id"', content, msg=str(path))
+        self.assertIn('"tmdb_site_id"', content, msg=str(path))
+        self.assertIn('"tmdb_season_number"', content, msg=str(path))
+        self.assertIn('"tmdb_source"', content, msg=str(path))
 
 
 if __name__ == '__main__':

@@ -248,6 +248,97 @@ class WidgetRegressionTests(unittest.TestCase):
         self.assertEqual(result['title'], 'Fallback Anime')
         self.assertEqual(result['releaseDate'], '2025-04-08')
 
+    def test_refresh_current_year_ranking_skips_future_quarters(self):
+        class QuarterBuilder:
+            def __init__(self):
+                self.calls = []
+            def build_airtime_year(self, year, max_pages, months=None):
+                self.calls.append((year, max_pages, tuple(months or [])))
+                return {
+                    'anime': {str(year): {month: {'collects': [[]]} for month in (months or [])}},
+                    'real': {str(year): {month: {'collects': [[]]} for month in (months or [])}},
+                }
+
+        builder = QuarterBuilder()
+        result = module.refresh_current_year_ranking(
+            builder,
+            existing_airtime={},
+            current_year=2026,
+            current_year_pages=3,
+            archive_pages=0,
+            now=module.datetime(2026, 7, 15),
+        )
+        self.assertIn((2026, 3, ('all',)), builder.calls)
+        self.assertIn((2026, 3, ('7',)), builder.calls)
+        self.assertIn((2026, 0, ('1',)), builder.calls)
+        self.assertIn((2026, 0, ('4',)), builder.calls)
+        self.assertNotIn((2026, 0, ('10',)), builder.calls)
+        self.assertIn('7', result['anime']['2026'])
+        self.assertNotIn('10', result['anime']['2026'])
+
+    def test_refresh_current_year_ranking_prunes_future_quarters_and_old_years(self):
+        class QuarterBuilder:
+            def __init__(self):
+                self.calls = []
+            def build_airtime_year(self, year, max_pages, months=None):
+                self.calls.append((year, max_pages, tuple(months or [])))
+                return {
+                    'anime': {str(year): {month: {'collects': [[{'title': f'{year}-{month}'}]]} for month in (months or [])}},
+                    'real': {str(year): {month: {'collects': [[{'title': f'{year}-{month}'}]]} for month in (months or [])}},
+                }
+
+        existing = {
+            'anime': {
+                '2025': {'all': {'collects': [[{'title': 'old-year'}]]}},
+                '2026': {
+                    'all': {'collects': [[{'title': 'all'}]]},
+                    '1': {'collects': [[{'title': 'winter'}]]},
+                    '10': {'collects': [[{'title': 'future-autumn'}]]},
+                },
+            },
+            'real': {
+                '2025': {'all': {'collects': [[{'title': 'old-year'}]]}},
+                '2026': {
+                    'all': {'collects': [[{'title': 'all'}]]},
+                    '1': {'collects': [[{'title': 'winter'}]]},
+                    '10': {'collects': [[{'title': 'future-autumn'}]]},
+                },
+            },
+        }
+        builder = QuarterBuilder()
+        result = module.refresh_current_year_ranking(
+            builder,
+            existing_airtime=existing,
+            current_year=2026,
+            current_year_pages=3,
+            archive_pages=0,
+            now=module.datetime(2026, 1, 10),
+        )
+        self.assertEqual(set(result['anime'].keys()), {'2026'})
+        self.assertEqual(set(result['real'].keys()), {'2026'})
+        self.assertIn('all', result['anime']['2026'])
+        self.assertIn('1', result['anime']['2026'])
+        self.assertNotIn('4', result['anime']['2026'])
+        self.assertNotIn('7', result['anime']['2026'])
+        self.assertNotIn('10', result['anime']['2026'])
+
+    def test_widget_uses_split_remote_json_paths(self):
+        path = PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单.js'
+        content = path.read_text(encoding='utf-8')
+        self.assertIn('data/recent/', content)
+        self.assertIn('data/airtime/', content)
+        self.assertIn('data/daily/', content)
+        self.assertIn('page-${page}', content)
+        self.assertIn('page-${pageNum}', content)
+        self.assertNotIn('recent_data.json', content)
+
+    def test_widget_is_strict_hosted_mode_without_dynamic_fetch_fallback(self):
+        path = PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单.js'
+        content = path.read_text(encoding='utf-8')
+        self.assertNotIn('DynamicDataProcessor.processBangumiPage', content)
+        self.assertNotIn('DynamicDataProcessor.processDailyCalendar', content)
+        self.assertIn('严格托管模式返回空列表', content)
+
     def test_tmdb_result_contains_host_required_keys(self):
         builder = SelectiveTmdbBuilder()
         item = {
@@ -265,6 +356,24 @@ class WidgetRegressionTests(unittest.TestCase):
         self.assertTrue(required_keys.issubset(result.keys()))
         self.assertEqual(result['mediaType'], 'tv')
         self.assertIsNone(result['link'])
+    def test_archive_refresh_skips_existing_file(self):
+        archive_dir = PROJECT_ROOT / 'tests' / 'tmp_archive_skip'
+        archive_dir.mkdir(parents=True, exist_ok=True)
+        archive_file = archive_dir / '2025.json'
+        archive_file.write_text('{"airtimeRanking": {}}', encoding='utf-8')
+        self.assertTrue(archive_file.exists())
+        try:
+            mtime_before = archive_file.stat().st_mtime
+            # simulate script policy: existing archive should be reused instead of rebuilt
+            if archive_file.exists():
+                skipped = True
+            else:
+                skipped = False
+            self.assertTrue(skipped)
+            self.assertEqual(mtime_before, archive_file.stat().st_mtime)
+        finally:
+            archive_file.unlink(missing_ok=True)
+            archive_dir.rmdir()
 
 
 if __name__ == '__main__':

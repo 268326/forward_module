@@ -7,7 +7,7 @@ import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -43,8 +43,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", default=".", help="Repository root output directory")
     parser.add_argument("--current-year", type=int, default=current_year, help="Year stored in recent_data.json")
     parser.add_argument("--archive-years", default="", help="Comma separated archive years, e.g. 2024,2023")
-    parser.add_argument("--recent-pages", type=int, default=2, help="Prebuild page count for recent hot")
-    parser.add_argument("--year-pages", type=int, default=1, help="Prebuild page count per sort/month/year")
+    parser.add_argument("--recent-pages", type=int, default=2, help="Prebuild page count for recent hot (0 means all pages until empty)")
+    parser.add_argument("--year-pages", type=int, default=1, help="Prebuild page count for current-year ranking")
+    parser.add_argument("--archive-pages", type=int, default=0, help="Prebuild page count for archive ranking (0 means all pages until empty)")
     parser.add_argument("--max-workers", type=int, default=4, help="Parallel detail worker count")
     parser.add_argument("--request-delay", type=float, default=0.0, help="Optional delay between page requests")
     parser.add_argument("--skip-recent", action="store_true", help="Skip recent hot build")
@@ -268,32 +269,43 @@ class DataBuilder:
 
     def build_recent_hot(self, max_pages: int):
         pages = []
-        for page in range(1, max_pages + 1):
+        page = 1
+        page_limit = max_pages if max_pages > 0 else 200
+        while page <= page_limit:
             url = f"{BGM_BASE_URL}/anime/browser?sort=trends&page={page}"
             log(f"[recent] {url}")
             items = self.process_bangumi_page(url, "anime")
             if not items:
                 break
             pages.append(items)
+            page += 1
         return {"anime": pages}
 
-    def build_airtime_year(self, year: int, max_pages: int):
+    def build_airtime_month(self, category: str, year: int, month: str, max_pages: int):
+        month_data = {}
+        page_limit = max_pages if max_pages > 0 else 200
+        for sort in SORTS:
+            page_results = []
+            page = 1
+            while page <= page_limit:
+                url = f"{BGM_BASE_URL}/{category}/browser/airtime/{year}/{month}?sort={sort}&page={page}"
+                log(f"[airtime] {url}")
+                items = self.process_bangumi_page(url, category)
+                if not items:
+                    break
+                page_results.append(items)
+                page += 1
+            month_data[sort] = page_results
+        return month_data
+
+    def build_airtime_year(self, year: int, max_pages: int, months: list[str] | None = None):
         output = {}
+        target_months = months or YEAR_MONTHS
         for category in CATEGORIES:
             year_key = str(year)
             output[category] = {year_key: {}}
-            for month in YEAR_MONTHS:
-                output[category][year_key][month] = {}
-                for sort in SORTS:
-                    page_results = []
-                    for page in range(1, max_pages + 1):
-                        url = f"{BGM_BASE_URL}/{category}/browser/airtime/{year}/{month}?sort={sort}&page={page}"
-                        log(f"[airtime] {url}")
-                        items = self.process_bangumi_page(url, category)
-                        if not items:
-                            break
-                        page_results.append(items)
-                    output[category][year_key][month][sort] = page_results
+            for month in target_months:
+                output[category][year_key][month] = self.build_airtime_month(category, year, month, max_pages)
         return output
 
     def build_daily_calendar(self):
@@ -426,6 +438,75 @@ def has_current_year_ranking(data: dict, year: int) -> bool:
     return False
 
 
+def month_exists(airtime_ranking: dict, year: int, month: str) -> bool:
+    year_key = str(year)
+    return all(bool((((airtime_ranking.get(category) or {}).get(year_key) or {}).get(month))) for category in CATEGORIES)
+
+
+def merge_airtime_ranking(existing: dict, patch: dict) -> dict:
+    merged = dict(existing or {})
+    for category, category_data in (patch or {}).items():
+        target_category = dict(merged.get(category) or {})
+        for year_key, year_data in (category_data or {}).items():
+            target_year = dict(target_category.get(year_key) or {})
+            for month, month_data in (year_data or {}).items():
+                target_year[month] = month_data
+            target_category[year_key] = target_year
+        merged[category] = target_category
+    return merged
+
+
+def current_quarter_month(now: datetime) -> str:
+    if now.month <= 3:
+        return "1"
+    if now.month <= 6:
+        return "4"
+    if now.month <= 9:
+        return "7"
+    return "10"
+
+
+def months_up_to_current_quarter(now: datetime) -> list[str]:
+    quarter = current_quarter_month(now)
+    ordered = ["1", "4", "7", "10"]
+    return [month for month in ordered if int(month) <= int(quarter)]
+
+
+def allowed_months_for_current_year(now: datetime) -> set[str]:
+    return {"all", *months_up_to_current_quarter(now)}
+
+
+def prune_current_year_airtime(existing_airtime: dict, current_year: int, now: datetime | None = None) -> dict:
+    now = now or datetime.now(timezone.utc)
+    year_key = str(current_year)
+    allowed_months = allowed_months_for_current_year(now)
+    pruned: dict = {}
+    for category in CATEGORIES:
+        current_year_data = (((existing_airtime.get(category) or {}).get(year_key)) or {})
+        filtered_months = {month: value for month, value in current_year_data.items() if month in allowed_months}
+        pruned[category] = {year_key: filtered_months}
+    return pruned
+
+
+def refresh_current_year_ranking(builder: DataBuilder, existing_airtime: dict, current_year: int, current_year_pages: int, archive_pages: int, now: datetime | None = None) -> dict:
+    now = now or datetime.now(timezone.utc)
+    quarter = current_quarter_month(now)
+    available_months = months_up_to_current_quarter(now)
+    merged = prune_current_year_airtime(existing_airtime or {}, current_year, now)
+
+    # current year all-year ranking always refreshes
+    merged = merge_airtime_ranking(merged, builder.build_airtime_year(current_year, current_year_pages, months=["all"]))
+
+    # current quarter refreshes repeatedly; past quarters of current year only backfill once
+    merged = merge_airtime_ranking(merged, builder.build_airtime_year(current_year, current_year_pages, months=[quarter]))
+    for month in available_months:
+        if month == quarter:
+            continue
+        if not month_exists(merged, current_year, month):
+            merged = merge_airtime_ranking(merged, builder.build_airtime_year(current_year, archive_pages, months=[month]))
+    return merged
+
+
 def main() -> int:
     args = parse_args()
     output_dir = Path(args.output_dir).resolve()
@@ -443,15 +524,18 @@ def main() -> int:
 
     recent_data_path = output_dir / "recent_data.json"
     recent_data = load_existing_recent_data(recent_data_path)
-    bootstrap_current_year = args.skip_current_year and not has_current_year_ranking(recent_data, args.current_year)
-    if bootstrap_current_year:
-        log("[warn] current year ranking missing; bootstrapping current-year airtime ranking once")
 
     if not args.skip_recent:
         recent_data["recentHot"] = builder.build_recent_hot(args.recent_pages)
 
-    if not args.skip_current_year or bootstrap_current_year:
-        recent_data["airtimeRanking"] = builder.build_airtime_year(args.current_year, args.year_pages)
+    if not args.skip_current_year:
+        recent_data["airtimeRanking"] = refresh_current_year_ranking(
+            builder,
+            recent_data.get("airtimeRanking") or {},
+            args.current_year,
+            args.year_pages,
+            args.archive_pages,
+        )
 
     if not args.skip_daily:
         recent_data["dailyCalendar"]["all_week"] = builder.build_daily_calendar()
@@ -459,10 +543,14 @@ def main() -> int:
     write_json(recent_data_path, recent_data)
 
     for year in parse_archive_years(args.archive_years):
+        archive_path = archive_dir / f"{year}.json"
+        if archive_path.exists():
+            log(f"[archive] skip existing archive year {year}")
+            continue
         archive_data = {
-            "airtimeRanking": builder.build_airtime_year(year, args.year_pages)
+            "airtimeRanking": builder.build_airtime_year(year, args.archive_pages)
         }
-        write_json(archive_dir / f"{year}.json", archive_data)
+        write_json(archive_path, archive_data)
 
     return 0
 

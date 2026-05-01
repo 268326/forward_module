@@ -40,14 +40,15 @@ jobs:
             --output-dir . \
             --current-year $(date +%Y) \
             --skip-current-year \
-            --recent-pages 2 \
+            --recent-pages 0 \
             --year-pages 1
+          python scripts/export_split_data.py
 
       - name: Commit generated data
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add recent_data.json
+          git add recent_data.json data/
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh recent bangumi data"
           git push

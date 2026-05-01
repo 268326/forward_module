@@ -6,9 +6,17 @@
 
 - 宿主脚本：`widget/Bangumi 热门榜单.js`
 - GitHub 仓库：`268326/forward_module`
-- 宿主运行时直接读取：
-  - `https://raw.githubusercontent.com/268326/forward_module/main/recent_data.json`
-  - `https://raw.githubusercontent.com/268326/forward_module/main/archive/<year>.json`
+- 当前为**严格托管模式**：本地不再直接抓 Bangumi，不做本地 TMDB 反查；远程 JSON 没有的数据，本地直接不展示。
+- 当前为**分布式 JSON 模式**：宿主会按模块和参数请求不同的小 JSON，而不是先拉一个大 JSON。
+
+远程路径结构：
+- `data/recent/<category>/page-<n>.json`
+- `data/airtime/<category>/<year>/<month>/<sort>/page-<n>.json`
+- `data/daily/<scope>/<sort>/<region>/page-<n>.json`
+
+所有模块都按页按需加载：
+- 当前只看第 1 页，就只拉第 1 页 JSON
+- 不翻页，就不会继续拉后面的 JSON
 
 ## 自动更新
 
