@@ -210,21 +210,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "609183",
-    "type": "link",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/50/ac/609183_hr8ZH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "anime",
-    "rating": "5.2",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/609183",
-    "bgm_id": "609183",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 372,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "616378",
     "type": "link",
     "title": "小鲨鱼去郊游 第二季",
@@ -237,21 +222,6 @@
     "bgm_id": "616378",
     "bgm_score": 6.6,
     "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "616453",
-    "type": "link",
-    "title": "这样高大的女孩子你喜欢吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a4/3f/616453_q2e2i.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/616453",
-    "bgm_id": "616453",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 92,
     "bgm_weekday_id": 7
   },
   {

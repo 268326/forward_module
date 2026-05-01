@@ -10,6 +10,8 @@
     "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
     "link": null,
     "tmdb_id": "309163",
+    "tmdb_site_id": "tv/309163",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -24,6 +26,8 @@
     "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
     "link": null,
     "tmdb_id": "300126",
+    "tmdb_site_id": "tv/300126",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -39,7 +43,7 @@
     "link": "https://bgm.tv/subject/551918"
   },
   {
-    "id": "94404/season/2",
+    "id": "94404",
     "type": "tmdb",
     "title": "异兽魔都 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
@@ -48,7 +52,9 @@
     "rating": "7.5",
     "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
     "link": null,
-    "tmdb_id": "94404/season/2",
+    "tmdb_id": "94404",
+    "tmdb_site_id": "tv/94404/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -63,6 +69,8 @@
     "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
     "link": null,
     "tmdb_id": "284568",
+    "tmdb_site_id": "tv/284568",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -77,6 +85,8 @@
     "description": "12话 /  2026年4月5日 / 泉保良輔 / 前屋進（講談社「コミックDAYS」連載） / 阿部千秋",
     "link": null,
     "tmdb_id": "299134",
+    "tmdb_site_id": "tv/299134",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -91,6 +101,8 @@
     "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
     "link": null,
     "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -105,6 +117,8 @@
     "description": "12话 /  2026年4月2日 / 外山草 / 地球のお魚ぽんちゃん（リュエルコミックス／実業之日本社 刊） / 林奈美",
     "link": null,
     "tmdb_id": "303870",
+    "tmdb_site_id": "tv/303870",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -119,6 +133,8 @@
     "description": "2026年4月12日 / 龍輪直征 / 金田陽介（講談社「マガジンポケット」連載） / 小野田貴之",
     "link": null,
     "tmdb_id": "297557",
+    "tmdb_site_id": "tv/297557",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -133,19 +149,28 @@
     "description": "2026年4月2日 / 直谷たかし / てにをは（MF文庫J「また殺されてしまったのですね、探偵様」/KADOKAWA刊） / 熊田明子",
     "link": null,
     "tmdb_id": "312293",
+    "tmdb_site_id": "tv/312293",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "567418",
-    "type": "link",
+    "id": "316424",
+    "type": "tmdb",
     "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d5/a9/567418_LTStp.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
     "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "12话 /  2026年4月2日 / 星野美鈴 / 雨宮和希（HJ文庫／ホビージャパン） / 小野ひろみ",
-    "link": "https://bgm.tv/subject/567418"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
+    "link": null,
+    "tmdb_id": "316424",
+    "tmdb_site_id": "tv/316424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "316427",
@@ -158,6 +183,8 @@
     "description": "12话 /  2026年4月5日 / 所俊克 / 搾精研究所、漫画：丈山雄為 / 西本真吾",
     "link": null,
     "tmdb_id": "316427",
+    "tmdb_site_id": "tv/316427",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -172,6 +199,8 @@
     "description": "2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
     "link": null,
     "tmdb_id": "259819",
+    "tmdb_site_id": "tv/259819",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -186,6 +215,8 @@
     "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
     "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -200,6 +231,8 @@
     "description": "12话 /  2026年4月9日 / 田中孝行 / コトバノリアキ（講談社「別冊少年マガジン」連載） / 藤田真弓、畠山元；主要角色设定：菊池政芳",
     "link": null,
     "tmdb_id": "273467",
+    "tmdb_site_id": "tv/273467",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -214,6 +247,8 @@
     "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
     "link": null,
     "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -228,6 +263,8 @@
     "description": "13话 /  2026年1月4日 / 大城美幸 / ヤマシタトモコ（祥伝社 FEEL COMICS） / 羽山賢二",
     "link": null,
     "tmdb_id": "253476",
+    "tmdb_site_id": "tv/253476",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -238,10 +275,12 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/51/604307_0uM64.jpg",
     "releaseDate": "2026-04-01",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.3",
     "description": "12话 /  2026年4月1日 / オグロアキラ[小黒晃] / ももよ万葉（SQEXノベル／スクウェア・エニックス刊）；漫画：ながと牡蠣（マンガUP!／スクウェア・エニックス刊） / 鈴木勇",
     "link": null,
     "tmdb_id": "304820",
+    "tmdb_site_id": "tv/304820",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -256,6 +295,8 @@
     "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
     "link": null,
     "tmdb_id": "274622",
+    "tmdb_site_id": "tv/274622",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -270,6 +311,8 @@
     "description": "12话 /  2026年4月6日 / 山元隼一 / しき（アルファポリス刊）",
     "link": null,
     "tmdb_id": "288590",
+    "tmdb_site_id": "tv/288590",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -284,6 +327,8 @@
     "description": "13话 /  2026年4月7日 / 鈴木利正 / かっぴー / 福地祐香、玉井あかね",
     "link": null,
     "tmdb_id": "305567",
+    "tmdb_site_id": "tv/305567",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -298,11 +343,13 @@
     "description": "2026年4月2日 / 久藤瞬 / 小西幹久（マッグガーデン「月刊コミックガーデン」「マグコミ」連載） / 加藤春奈",
     "link": null,
     "tmdb_id": "261780",
+    "tmdb_site_id": "tv/261780",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "91768/season/2",
+    "id": "91768",
     "type": "tmdb",
     "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
@@ -311,7 +358,9 @@
     "rating": "7.0",
     "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
     "link": null,
-    "tmdb_id": "91768/season/2",
+    "tmdb_id": "91768",
+    "tmdb_site_id": "tv/91768/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -326,6 +375,8 @@
     "description": "12话 /  2026年4月9日 / 野亦則行 / 紺野アキラ（小学館「ゲッサン」連載） / 三橋桜子",
     "link": null,
     "tmdb_id": "283888",
+    "tmdb_site_id": "tv/283888",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

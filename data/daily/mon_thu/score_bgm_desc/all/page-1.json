@@ -351,7 +351,7 @@
     "link": null,
     "bgm_id": "537722",
     "bgm_score": 6.3,
-    "bgm_rating_total": 358,
+    "bgm_rating_total": 359,
     "bgm_weekday_id": 2,
     "tmdb_id": "284568",
     "tmdb_site_id": "tv/284568",
@@ -440,18 +440,25 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "406488",
-    "type": "link",
+    "id": "282136",
+    "type": "tmdb",
     "title": "将夜",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/12/ec/406488_YUXzx.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
     "releaseDate": "2026-04-23",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/406488",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
     "bgm_id": "406488",
     "bgm_score": 6.2,
     "bgm_rating_total": 16,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

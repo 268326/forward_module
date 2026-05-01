@@ -1,33 +1,47 @@
 [
   {
-    "id": "454438",
-    "type": "link",
-    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/50/ae/454438_Q43mf.jpg",
+    "id": "295357",
+    "type": "tmdb",
+    "title": "北斗神拳",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
     "releaseDate": "2026-04-10",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/454438",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
+    "link": null,
     "bgm_id": "454438",
     "bgm_score": 6.6,
     "bgm_rating_total": 75,
-    "bgm_weekday_id": 5
+    "bgm_weekday_id": 5,
+    "tmdb_id": "295357",
+    "tmdb_site_id": "tv/295357",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "456303",
-    "type": "link",
+    "id": "320598",
+    "type": "tmdb",
     "title": "开拍啦！怪兽大电影",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/36/ae/456303_bcCE2.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a8DLcMDcNDx31cKderfdGbKLBHk.jpg",
     "releaseDate": "2026-04-24",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/456303",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "随着小众的怪兽电影日趋没落，痴迷于怪兽片类型的导演——蒙奇，也对一直以来的坚持产生了迷惘……却没想到，有朝一日虚构的怪物竟然真实出现在他面前。为了能实现愿望，蒙奇决定与魔族少女莉雅合作，帮助她拍摄以魔族为主题的电影。然而跟随着拍摄进程，蒙奇却发现，异界的一切竟都与自己息息相关……",
+    "link": null,
     "bgm_id": "456303",
     "bgm_score": 6.8,
     "bgm_rating_total": 9,
-    "bgm_weekday_id": 5
+    "bgm_weekday_id": 5,
+    "tmdb_id": "320598",
+    "tmdb_site_id": "tv/320598",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "154743",
@@ -101,7 +115,7 @@
     "link": null,
     "bgm_id": "543360",
     "bgm_score": 7.5,
-    "bgm_rating_total": 2788,
+    "bgm_rating_total": 2789,
     "bgm_weekday_id": 5,
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",

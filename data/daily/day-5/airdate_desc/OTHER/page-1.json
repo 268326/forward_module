@@ -1,20 +1,5 @@
 [
   {
-    "id": "456303",
-    "type": "link",
-    "title": "开拍啦！怪兽大电影",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/36/ae/456303_bcCE2.jpg",
-    "releaseDate": "2026-04-24",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/456303",
-    "bgm_id": "456303",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "643086",
     "type": "link",
     "title": "机变苍穹 觉醒",
@@ -27,21 +12,6 @@
     "bgm_id": "643086",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "454438",
-    "type": "link",
-    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/50/ae/454438_Q43mf.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/454438",
-    "bgm_id": "454438",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 75,
     "bgm_weekday_id": 5
   },
   {
@@ -76,7 +46,7 @@
     "link": null,
     "bgm_id": "543360",
     "bgm_score": 7.5,
-    "bgm_rating_total": 2788,
+    "bgm_rating_total": 2789,
     "bgm_weekday_id": 5,
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",

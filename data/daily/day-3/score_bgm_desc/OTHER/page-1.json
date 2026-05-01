@@ -170,21 +170,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "621449",
-    "type": "link",
-    "title": "Candy Caries 蛀在糖糖里",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/70/621449_01rvb.jpg",
-    "releaseDate": "2026-04-15",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/621449",
-    "bgm_id": "621449",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 30,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "638494",
     "type": "link",
     "title": "Re：从零开始的休息时间4",
@@ -238,21 +223,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "625971",
-    "type": "link",
-    "title": "大贤者里德尔的时空逆行",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d8/34/625971_5wrja.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "anime",
-    "rating": "3.6",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/625971",
-    "bgm_id": "625971",
-    "bgm_score": 3.6,
-    "bgm_rating_total": 33,
-    "bgm_weekday_id": 3
   },
   {
     "id": "643646",

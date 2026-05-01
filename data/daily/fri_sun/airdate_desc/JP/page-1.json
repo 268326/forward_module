@@ -1,0 +1,112 @@
+[
+  {
+    "id": "295357",
+    "type": "tmdb",
+    "title": "北斗神拳",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
+    "link": null,
+    "bgm_id": "454438",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 75,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "295357",
+    "tmdb_site_id": "tv/295357",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "bgm_id": "609183",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 372,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316715",
+    "type": "tmdb",
+    "title": "这样高大的女孩子你喜欢吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/r3B29sbpSQL9IZ47Fs0Ftnz1Sj.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "“从今天起，你就是这里的宿舍管理员，兼任我们部的代理教练啦♪”\n\n因为姐姐薰的一句话，草太被迫成为了北英大学女子排球部的宿舍管理员兼教练。\n\n在那里，草太与初恋对象绫乃命运般地重逢了，然而……\n\n在女子宿舍！在体育馆！在酒店！？\n\n等待着他的是被一群身材比自己还高大的女孩子们耍得团圆转的日常！",
+    "link": null,
+    "bgm_id": "616453",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 92,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "316715",
+    "tmdb_site_id": "tv/316715",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "299144",
+    "type": "tmdb",
+    "title": "轻松熊",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9yethYrSRGDGqAMJPwFAMXyehNn.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "无论是怎样的每一天，「拉拉熊」都会陪在你的身边。\n\n这一次，它将跳出日常，走进悠然展开的动画世界。\n\n那一段令人心情放松的轻盈时光。\n\n不管在哪里、在做什么，\n\n拉拉熊都会与你相随。\n\n一段崭新的开始，令人雀跃的故事。\n\n2026年的春天，请一定要来和「拉拉熊」相见喔。",
+    "link": null,
+    "bgm_id": "520633",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299144",
+    "tmdb_site_id": "tv/299144",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "299962",
+    "type": "tmdb",
+    "title": "ねずみくんのチョッキ",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jci1UzaAZeT38UpakXIGvE9lGlC.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "582598",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299962",
+    "tmdb_site_id": "tv/299962",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

@@ -35,21 +35,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "405232",
-    "type": "link",
-    "title": "大道独行之蝶龙变",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b0/e1/405232_bUuUk.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "anime",
-    "rating": "4.4",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/405232",
-    "bgm_id": "405232",
-    "bgm_score": 4.4,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",

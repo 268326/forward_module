@@ -40,19 +40,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "454438",
-    "type": "link",
-    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/50/ae/454438_Q43mf.jpg",
+    "id": "295357",
+    "type": "tmdb",
+    "title": "北斗神拳",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
     "releaseDate": "2026-04-10",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/454438",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
+    "link": null,
     "bgm_id": "454438",
     "bgm_score": 6.6,
     "bgm_rating_total": 75,
-    "bgm_weekday_id": 5
+    "bgm_weekday_id": 5,
+    "tmdb_id": "295357",
+    "tmdb_site_id": "tv/295357",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "91801",
@@ -246,7 +253,7 @@
     "link": null,
     "bgm_id": "537722",
     "bgm_score": 6.3,
-    "bgm_rating_total": 358,
+    "bgm_rating_total": 359,
     "bgm_weekday_id": 2,
     "tmdb_id": "284568",
     "tmdb_site_id": "tv/284568",
@@ -395,34 +402,48 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "406488",
-    "type": "link",
+    "id": "282136",
+    "type": "tmdb",
     "title": "将夜",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/12/ec/406488_YUXzx.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
     "releaseDate": "2026-04-23",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/406488",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
     "bgm_id": "406488",
     "bgm_score": 6.2,
     "bgm_rating_total": 16,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "520633",
-    "type": "link",
+    "id": "299144",
+    "type": "tmdb",
     "title": "轻松熊",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/50/520633_szido.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9yethYrSRGDGqAMJPwFAMXyehNn.jpg",
     "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/520633",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "无论是怎样的每一天，「拉拉熊」都会陪在你的身边。\n\n这一次，它将跳出日常，走进悠然展开的动画世界。\n\n那一段令人心情放松的轻盈时光。\n\n不管在哪里、在做什么，\n\n拉拉熊都会与你相随。\n\n一段崭新的开始，令人雀跃的故事。\n\n2026年的春天，请一定要来和「拉拉熊」相见喔。",
+    "link": null,
     "bgm_id": "520633",
     "bgm_score": 6.2,
     "bgm_rating_total": 18,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299144",
+    "tmdb_site_id": "tv/299144",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "285818",

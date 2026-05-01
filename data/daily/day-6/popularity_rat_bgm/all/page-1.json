@@ -275,34 +275,48 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "520633",
-    "type": "link",
+    "id": "299144",
+    "type": "tmdb",
     "title": "轻松熊",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/50/520633_szido.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9yethYrSRGDGqAMJPwFAMXyehNn.jpg",
     "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/520633",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "无论是怎样的每一天，「拉拉熊」都会陪在你的身边。\n\n这一次，它将跳出日常，走进悠然展开的动画世界。\n\n那一段令人心情放松的轻盈时光。\n\n不管在哪里、在做什么，\n\n拉拉熊都会与你相随。\n\n一段崭新的开始，令人雀跃的故事。\n\n2026年的春天，请一定要来和「拉拉熊」相见喔。",
+    "link": null,
     "bgm_id": "520633",
     "bgm_score": 6.2,
     "bgm_rating_total": 18,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299144",
+    "tmdb_site_id": "tv/299144",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "582598",
-    "type": "link",
+    "id": "299962",
+    "type": "tmdb",
     "title": "ねずみくんのチョッキ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/a6/582598_ceE9s.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jci1UzaAZeT38UpakXIGvE9lGlC.jpg",
     "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "4.0",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期六]",
-    "link": "http://bgm.tv/subject/582598",
+    "link": null,
     "bgm_id": "582598",
     "bgm_score": 4.0,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299962",
+    "tmdb_site_id": "tv/299962",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "629167",
