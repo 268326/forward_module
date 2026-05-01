@@ -234,6 +234,8 @@ class DataBuilder:
                 "description": raw.get("overview") or base_item["description"],
                 "link": None,
                 "tmdb_id": str(resolved_match.get("tmdb_id")),
+                "tmdb_site_id": resolved_match.get("tmdb_site_id"),
+                "tmdb_season_number": resolved_match.get("tmdb_season_number"),
                 "tmdb_origin_countries": raw.get("origin_country") or [],
                 "tmdb_source": source,
             })
@@ -359,6 +361,8 @@ class DataBuilder:
                     "description": raw.get("overview") or base_item["description"],
                     "link": None,
                     "tmdb_id": str(resolved_match.get("tmdb_id")),
+                    "tmdb_site_id": resolved_match.get("tmdb_site_id"),
+                    "tmdb_season_number": resolved_match.get("tmdb_season_number"),
                     "tmdb_origin_countries": raw.get("origin_country") or [],
                     "tmdb_source": source,
                 })

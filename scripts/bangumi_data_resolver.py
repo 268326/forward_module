@@ -118,11 +118,29 @@ class BangumiDataResolver:
                 continue
             raw = str(site.get("id"))
             media_type = "movie" if raw.startswith("movie/") else "tv"
-            tmdb_id = raw.split("/", 1)[1] if "/" in raw else raw
+            tmdb_id = raw
+            tmdb_season_number = None
+
+            if media_type == "tv":
+                match = re.match(r"^tv/(\d+)(?:/season/(\d+))?$", raw)
+                if match:
+                    tmdb_id = match.group(1)
+                    if match.group(2):
+                        tmdb_season_number = int(match.group(2))
+                else:
+                    tmdb_id = raw.split("/", 1)[1] if "/" in raw else raw
+            else:
+                match = re.match(r"^movie/(\d+)$", raw)
+                if match:
+                    tmdb_id = match.group(1)
+                else:
+                    tmdb_id = raw.split("/", 1)[1] if "/" in raw else raw
+
             return {
                 "tmdb_site_id": raw,
                 "tmdb_id": tmdb_id,
                 "media_type": media_type,
+                "tmdb_season_number": tmdb_season_number,
                 "begin": normalize_date(item.get("begin")),
                 "title": item.get("title") or "",
             }

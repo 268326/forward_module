@@ -111,6 +111,23 @@ class MediaTypeRegressionTests(unittest.TestCase):
         self.assertEqual(first['tmdb_id'], '283905')
         self.assertEqual(first['mediaType'], 'tv')
 
+    def test_season_level_tmdb_path_is_normalized_to_series_id(self):
+        resolver = module.BangumiDataResolver(items=[
+            {
+                'title': '転生したらスライムだった件 第4期',
+                'titleTranslate': {'zh-Hans': ['关于我转生变成史莱姆这档事 第四季']},
+                'begin': '2026-04-03T00:00:00.000Z',
+                'sites': [
+                    {'site': 'tmdb', 'id': 'tv/82684/season/4'}
+                ],
+            }
+        ])
+        result = resolver.match('关于我转生变成史莱姆这档事 第四季', '転生したらスライムだった件 第4期', '2026-04-03')
+        self.assertEqual(result['tmdb_id'], '82684')
+        self.assertEqual(result['tmdb_site_id'], 'tv/82684/season/4')
+        self.assertEqual(result['tmdb_season_number'], 4)
+        self.assertEqual(result['media_type'] if 'media_type' in result else result['media_type'], 'tv')
+
     def test_widget_scripts_contain_tv_media_type_assignment(self):
         path = PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单.js'
         content = path.read_text(encoding='utf-8')
