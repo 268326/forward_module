@@ -1030,17 +1030,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "633886",
-                "type": "link",
-                "title": "文都六尺巷",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
-                "releaseDate": "2025-12-30",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
-                "link": "https://bgm.tv/subject/633886"
-              },
-              {
                 "id": "395223",
                 "type": "link",
                 "title": "仙剑奇侠传三",
@@ -1052,15 +1041,15 @@
                 "link": "https://bgm.tv/subject/395223"
               },
               {
-                "id": "616981",
+                "id": "633886",
                 "type": "link",
-                "title": "ZZZ动画 DreamArbeiter莫",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
-                "releaseDate": "2025-01-01",
+                "title": "文都六尺巷",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
+                "releaseDate": "2025-12-30",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
-                "link": "https://bgm.tv/subject/616981"
+                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
+                "link": "https://bgm.tv/subject/633886"
               },
               {
                 "id": "458926",
@@ -1074,15 +1063,15 @@
                 "link": "https://bgm.tv/subject/458926"
               },
               {
-                "id": "446289",
+                "id": "616981",
                 "type": "link",
-                "title": "火凤重天",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
-                "releaseDate": "2025-12-27",
+                "title": "ZZZ动画 DreamArbeiter莫",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
-                "link": "https://bgm.tv/subject/446289"
+                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
+                "link": "https://bgm.tv/subject/616981"
               },
               {
                 "id": "403731",
@@ -1094,6 +1083,39 @@
                 "rating": "4.9",
                 "description": "13话 /  2025年12月27日 / 郑佳",
                 "link": "https://bgm.tv/subject/403731"
+              },
+              {
+                "id": "446289",
+                "type": "link",
+                "title": "火凤重天",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
+                "releaseDate": "2025-12-27",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
+                "link": "https://bgm.tv/subject/446289"
+              },
+              {
+                "id": "605115",
+                "type": "link",
+                "title": "不洁之星",
+                "posterPath": "/img/no_icon_subject.png",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.2",
+                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
+                "link": "https://bgm.tv/subject/605115"
+              },
+              {
+                "id": "562099",
+                "type": "link",
+                "title": "谁是窃书之人",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.1",
+                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
+                "link": "https://bgm.tv/subject/562099"
               },
               {
                 "id": "544624",
@@ -1151,28 +1173,6 @@
                 "link": "https://bgm.tv/subject/588223"
               },
               {
-                "id": "605115",
-                "type": "link",
-                "title": "不洁之星",
-                "posterPath": "/img/no_icon_subject.png",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.2",
-                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
-                "link": "https://bgm.tv/subject/605115"
-              },
-              {
-                "id": "562099",
-                "type": "link",
-                "title": "谁是窃书之人",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.1",
-                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
-                "link": "https://bgm.tv/subject/562099"
-              },
-              {
                 "id": "520300",
                 "type": "link",
                 "title": "剑来 第二季",
@@ -1198,17 +1198,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "617321",
-                "type": "link",
-                "title": "今日をしるして",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
-                "releaseDate": "2025-12-23",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "1话 /  2025年12月23日",
-                "link": "https://bgm.tv/subject/617321"
-              },
-              {
                 "id": "619911",
                 "type": "link",
                 "title": "托尼托尼·乔巴",
@@ -1231,15 +1220,15 @@
                 "link": "https://bgm.tv/subject/449371"
               },
               {
-                "id": "547793",
+                "id": "617321",
                 "type": "link",
-                "title": "新时代·中国礼",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
-                "releaseDate": "2025-12-22",
+                "title": "今日をしるして",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
+                "releaseDate": "2025-12-23",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
-                "link": "https://bgm.tv/subject/547793"
+                "description": "1话 /  2025年12月23日",
+                "link": "https://bgm.tv/subject/617321"
               },
               {
                 "id": "609228",
@@ -1253,15 +1242,15 @@
                 "link": "https://bgm.tv/subject/609228"
               },
               {
-                "id": "616060",
+                "id": "547793",
                 "type": "link",
-                "title": "请吃红小豆吧！新年快乐",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
-                "releaseDate": "2025-12-21",
+                "title": "新时代·中国礼",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
+                "releaseDate": "2025-12-22",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "6话 /  2025年12月21日 / 林春柳",
-                "link": "https://bgm.tv/subject/616060"
+                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
+                "link": "https://bgm.tv/subject/547793"
               },
               {
                 "id": "449362",
@@ -1273,6 +1262,17 @@
                 "rating": "",
                 "description": "12话 /  2025年12月21日 / 陈俊、韩文献 / 仁山动漫《开局就有王者账号》 / RuaRua（总人物设计）",
                 "link": "https://bgm.tv/subject/449362"
+              },
+              {
+                "id": "616060",
+                "type": "link",
+                "title": "请吃红小豆吧！新年快乐",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
+                "releaseDate": "2025-12-21",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "6话 /  2025年12月21日 / 林春柳",
+                "link": "https://bgm.tv/subject/616060"
               }
             ]
           ],
@@ -2588,17 +2588,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "633886",
-                "type": "link",
-                "title": "文都六尺巷",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
-                "releaseDate": "2025-12-30",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
-                "link": "https://bgm.tv/subject/633886"
-              },
-              {
                 "id": "395223",
                 "type": "link",
                 "title": "仙剑奇侠传三",
@@ -2610,15 +2599,15 @@
                 "link": "https://bgm.tv/subject/395223"
               },
               {
-                "id": "616981",
+                "id": "633886",
                 "type": "link",
-                "title": "ZZZ动画 DreamArbeiter莫",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
-                "releaseDate": "2025-01-01",
+                "title": "文都六尺巷",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
+                "releaseDate": "2025-12-30",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
-                "link": "https://bgm.tv/subject/616981"
+                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
+                "link": "https://bgm.tv/subject/633886"
               },
               {
                 "id": "458926",
@@ -2632,15 +2621,15 @@
                 "link": "https://bgm.tv/subject/458926"
               },
               {
-                "id": "446289",
+                "id": "616981",
                 "type": "link",
-                "title": "火凤重天",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
-                "releaseDate": "2025-12-27",
+                "title": "ZZZ动画 DreamArbeiter莫",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
-                "link": "https://bgm.tv/subject/446289"
+                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
+                "link": "https://bgm.tv/subject/616981"
               },
               {
                 "id": "403731",
@@ -2652,6 +2641,39 @@
                 "rating": "4.9",
                 "description": "13话 /  2025年12月27日 / 郑佳",
                 "link": "https://bgm.tv/subject/403731"
+              },
+              {
+                "id": "446289",
+                "type": "link",
+                "title": "火凤重天",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
+                "releaseDate": "2025-12-27",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
+                "link": "https://bgm.tv/subject/446289"
+              },
+              {
+                "id": "605115",
+                "type": "link",
+                "title": "不洁之星",
+                "posterPath": "/img/no_icon_subject.png",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.2",
+                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
+                "link": "https://bgm.tv/subject/605115"
+              },
+              {
+                "id": "562099",
+                "type": "link",
+                "title": "谁是窃书之人",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.1",
+                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
+                "link": "https://bgm.tv/subject/562099"
               },
               {
                 "id": "544624",
@@ -2709,28 +2731,6 @@
                 "link": "https://bgm.tv/subject/588223"
               },
               {
-                "id": "605115",
-                "type": "link",
-                "title": "不洁之星",
-                "posterPath": "/img/no_icon_subject.png",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.2",
-                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
-                "link": "https://bgm.tv/subject/605115"
-              },
-              {
-                "id": "562099",
-                "type": "link",
-                "title": "谁是窃书之人",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.1",
-                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
-                "link": "https://bgm.tv/subject/562099"
-              },
-              {
                 "id": "520300",
                 "type": "link",
                 "title": "剑来 第二季",
@@ -2756,17 +2756,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "617321",
-                "type": "link",
-                "title": "今日をしるして",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
-                "releaseDate": "2025-12-23",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "1话 /  2025年12月23日",
-                "link": "https://bgm.tv/subject/617321"
-              },
-              {
                 "id": "619911",
                 "type": "link",
                 "title": "托尼托尼·乔巴",
@@ -2789,15 +2778,15 @@
                 "link": "https://bgm.tv/subject/449371"
               },
               {
-                "id": "547793",
+                "id": "617321",
                 "type": "link",
-                "title": "新时代·中国礼",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
-                "releaseDate": "2025-12-22",
+                "title": "今日をしるして",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
+                "releaseDate": "2025-12-23",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
-                "link": "https://bgm.tv/subject/547793"
+                "description": "1话 /  2025年12月23日",
+                "link": "https://bgm.tv/subject/617321"
               },
               {
                 "id": "609228",
@@ -2811,15 +2800,15 @@
                 "link": "https://bgm.tv/subject/609228"
               },
               {
-                "id": "616060",
+                "id": "547793",
                 "type": "link",
-                "title": "请吃红小豆吧！新年快乐",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
-                "releaseDate": "2025-12-21",
+                "title": "新时代·中国礼",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
+                "releaseDate": "2025-12-22",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "6话 /  2025年12月21日 / 林春柳",
-                "link": "https://bgm.tv/subject/616060"
+                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
+                "link": "https://bgm.tv/subject/547793"
               },
               {
                 "id": "449362",
@@ -2831,6 +2820,17 @@
                 "rating": "",
                 "description": "12话 /  2025年12月21日 / 陈俊、韩文献 / 仁山动漫《开局就有王者账号》 / RuaRua（总人物设计）",
                 "link": "https://bgm.tv/subject/449362"
+              },
+              {
+                "id": "616060",
+                "type": "link",
+                "title": "请吃红小豆吧！新年快乐",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
+                "releaseDate": "2025-12-21",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "6话 /  2025年12月21日 / 林春柳",
+                "link": "https://bgm.tv/subject/616060"
               }
             ]
           ],
@@ -4146,17 +4146,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "633886",
-                "type": "link",
-                "title": "文都六尺巷",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
-                "releaseDate": "2025-12-30",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
-                "link": "https://bgm.tv/subject/633886"
-              },
-              {
                 "id": "395223",
                 "type": "link",
                 "title": "仙剑奇侠传三",
@@ -4168,15 +4157,15 @@
                 "link": "https://bgm.tv/subject/395223"
               },
               {
-                "id": "616981",
+                "id": "633886",
                 "type": "link",
-                "title": "ZZZ动画 DreamArbeiter莫",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
-                "releaseDate": "2025-01-01",
+                "title": "文都六尺巷",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
+                "releaseDate": "2025-12-30",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
-                "link": "https://bgm.tv/subject/616981"
+                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
+                "link": "https://bgm.tv/subject/633886"
               },
               {
                 "id": "458926",
@@ -4190,15 +4179,15 @@
                 "link": "https://bgm.tv/subject/458926"
               },
               {
-                "id": "446289",
+                "id": "616981",
                 "type": "link",
-                "title": "火凤重天",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
-                "releaseDate": "2025-12-27",
+                "title": "ZZZ动画 DreamArbeiter莫",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
-                "link": "https://bgm.tv/subject/446289"
+                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
+                "link": "https://bgm.tv/subject/616981"
               },
               {
                 "id": "403731",
@@ -4210,6 +4199,39 @@
                 "rating": "4.9",
                 "description": "13话 /  2025年12月27日 / 郑佳",
                 "link": "https://bgm.tv/subject/403731"
+              },
+              {
+                "id": "446289",
+                "type": "link",
+                "title": "火凤重天",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
+                "releaseDate": "2025-12-27",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
+                "link": "https://bgm.tv/subject/446289"
+              },
+              {
+                "id": "605115",
+                "type": "link",
+                "title": "不洁之星",
+                "posterPath": "/img/no_icon_subject.png",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.2",
+                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
+                "link": "https://bgm.tv/subject/605115"
+              },
+              {
+                "id": "562099",
+                "type": "link",
+                "title": "谁是窃书之人",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.1",
+                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
+                "link": "https://bgm.tv/subject/562099"
               },
               {
                 "id": "544624",
@@ -4267,28 +4289,6 @@
                 "link": "https://bgm.tv/subject/588223"
               },
               {
-                "id": "605115",
-                "type": "link",
-                "title": "不洁之星",
-                "posterPath": "/img/no_icon_subject.png",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.2",
-                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
-                "link": "https://bgm.tv/subject/605115"
-              },
-              {
-                "id": "562099",
-                "type": "link",
-                "title": "谁是窃书之人",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.1",
-                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
-                "link": "https://bgm.tv/subject/562099"
-              },
-              {
                 "id": "520300",
                 "type": "link",
                 "title": "剑来 第二季",
@@ -4314,17 +4314,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "617321",
-                "type": "link",
-                "title": "今日をしるして",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
-                "releaseDate": "2025-12-23",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "1话 /  2025年12月23日",
-                "link": "https://bgm.tv/subject/617321"
-              },
-              {
                 "id": "619911",
                 "type": "link",
                 "title": "托尼托尼·乔巴",
@@ -4347,15 +4336,15 @@
                 "link": "https://bgm.tv/subject/449371"
               },
               {
-                "id": "547793",
+                "id": "617321",
                 "type": "link",
-                "title": "新时代·中国礼",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
-                "releaseDate": "2025-12-22",
+                "title": "今日をしるして",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
+                "releaseDate": "2025-12-23",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
-                "link": "https://bgm.tv/subject/547793"
+                "description": "1话 /  2025年12月23日",
+                "link": "https://bgm.tv/subject/617321"
               },
               {
                 "id": "609228",
@@ -4369,15 +4358,15 @@
                 "link": "https://bgm.tv/subject/609228"
               },
               {
-                "id": "616060",
+                "id": "547793",
                 "type": "link",
-                "title": "请吃红小豆吧！新年快乐",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
-                "releaseDate": "2025-12-21",
+                "title": "新时代·中国礼",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
+                "releaseDate": "2025-12-22",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "6话 /  2025年12月21日 / 林春柳",
-                "link": "https://bgm.tv/subject/616060"
+                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
+                "link": "https://bgm.tv/subject/547793"
               },
               {
                 "id": "449362",
@@ -4389,6 +4378,17 @@
                 "rating": "",
                 "description": "12话 /  2025年12月21日 / 陈俊、韩文献 / 仁山动漫《开局就有王者账号》 / RuaRua（总人物设计）",
                 "link": "https://bgm.tv/subject/449362"
+              },
+              {
+                "id": "616060",
+                "type": "link",
+                "title": "请吃红小豆吧！新年快乐",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
+                "releaseDate": "2025-12-21",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "6话 /  2025年12月21日 / 林春柳",
+                "link": "https://bgm.tv/subject/616060"
               }
             ]
           ],
@@ -5704,17 +5704,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "633886",
-                "type": "link",
-                "title": "文都六尺巷",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
-                "releaseDate": "2025-12-30",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
-                "link": "https://bgm.tv/subject/633886"
-              },
-              {
                 "id": "395223",
                 "type": "link",
                 "title": "仙剑奇侠传三",
@@ -5726,15 +5715,15 @@
                 "link": "https://bgm.tv/subject/395223"
               },
               {
-                "id": "616981",
+                "id": "633886",
                 "type": "link",
-                "title": "ZZZ动画 DreamArbeiter莫",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
-                "releaseDate": "2025-01-01",
+                "title": "文都六尺巷",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
+                "releaseDate": "2025-12-30",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
-                "link": "https://bgm.tv/subject/616981"
+                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
+                "link": "https://bgm.tv/subject/633886"
               },
               {
                 "id": "458926",
@@ -5748,15 +5737,15 @@
                 "link": "https://bgm.tv/subject/458926"
               },
               {
-                "id": "446289",
+                "id": "616981",
                 "type": "link",
-                "title": "火凤重天",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
-                "releaseDate": "2025-12-27",
+                "title": "ZZZ动画 DreamArbeiter莫",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
-                "link": "https://bgm.tv/subject/446289"
+                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
+                "link": "https://bgm.tv/subject/616981"
               },
               {
                 "id": "403731",
@@ -5768,6 +5757,39 @@
                 "rating": "4.9",
                 "description": "13话 /  2025年12月27日 / 郑佳",
                 "link": "https://bgm.tv/subject/403731"
+              },
+              {
+                "id": "446289",
+                "type": "link",
+                "title": "火凤重天",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
+                "releaseDate": "2025-12-27",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
+                "link": "https://bgm.tv/subject/446289"
+              },
+              {
+                "id": "605115",
+                "type": "link",
+                "title": "不洁之星",
+                "posterPath": "/img/no_icon_subject.png",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.2",
+                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
+                "link": "https://bgm.tv/subject/605115"
+              },
+              {
+                "id": "562099",
+                "type": "link",
+                "title": "谁是窃书之人",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.1",
+                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
+                "link": "https://bgm.tv/subject/562099"
               },
               {
                 "id": "544624",
@@ -5825,28 +5847,6 @@
                 "link": "https://bgm.tv/subject/588223"
               },
               {
-                "id": "605115",
-                "type": "link",
-                "title": "不洁之星",
-                "posterPath": "/img/no_icon_subject.png",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.2",
-                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
-                "link": "https://bgm.tv/subject/605115"
-              },
-              {
-                "id": "562099",
-                "type": "link",
-                "title": "谁是窃书之人",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.1",
-                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
-                "link": "https://bgm.tv/subject/562099"
-              },
-              {
                 "id": "520300",
                 "type": "link",
                 "title": "剑来 第二季",
@@ -5872,17 +5872,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "617321",
-                "type": "link",
-                "title": "今日をしるして",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
-                "releaseDate": "2025-12-23",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "1话 /  2025年12月23日",
-                "link": "https://bgm.tv/subject/617321"
-              },
-              {
                 "id": "619911",
                 "type": "link",
                 "title": "托尼托尼·乔巴",
@@ -5905,15 +5894,15 @@
                 "link": "https://bgm.tv/subject/449371"
               },
               {
-                "id": "547793",
+                "id": "617321",
                 "type": "link",
-                "title": "新时代·中国礼",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
-                "releaseDate": "2025-12-22",
+                "title": "今日をしるして",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
+                "releaseDate": "2025-12-23",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
-                "link": "https://bgm.tv/subject/547793"
+                "description": "1话 /  2025年12月23日",
+                "link": "https://bgm.tv/subject/617321"
               },
               {
                 "id": "609228",
@@ -5927,15 +5916,15 @@
                 "link": "https://bgm.tv/subject/609228"
               },
               {
-                "id": "616060",
+                "id": "547793",
                 "type": "link",
-                "title": "请吃红小豆吧！新年快乐",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
-                "releaseDate": "2025-12-21",
+                "title": "新时代·中国礼",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
+                "releaseDate": "2025-12-22",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "6话 /  2025年12月21日 / 林春柳",
-                "link": "https://bgm.tv/subject/616060"
+                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
+                "link": "https://bgm.tv/subject/547793"
               },
               {
                 "id": "449362",
@@ -5947,6 +5936,17 @@
                 "rating": "",
                 "description": "12话 /  2025年12月21日 / 陈俊、韩文献 / 仁山动漫《开局就有王者账号》 / RuaRua（总人物设计）",
                 "link": "https://bgm.tv/subject/449362"
+              },
+              {
+                "id": "616060",
+                "type": "link",
+                "title": "请吃红小豆吧！新年快乐",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
+                "releaseDate": "2025-12-21",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "6话 /  2025年12月21日 / 林春柳",
+                "link": "https://bgm.tv/subject/616060"
               }
             ]
           ],
@@ -7262,17 +7262,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "633886",
-                "type": "link",
-                "title": "文都六尺巷",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
-                "releaseDate": "2025-12-30",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
-                "link": "https://bgm.tv/subject/633886"
-              },
-              {
                 "id": "395223",
                 "type": "link",
                 "title": "仙剑奇侠传三",
@@ -7284,15 +7273,15 @@
                 "link": "https://bgm.tv/subject/395223"
               },
               {
-                "id": "616981",
+                "id": "633886",
                 "type": "link",
-                "title": "ZZZ动画 DreamArbeiter莫",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
-                "releaseDate": "2025-01-01",
+                "title": "文都六尺巷",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d0/633886_Qa6Jh.jpg",
+                "releaseDate": "2025-12-30",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
-                "link": "https://bgm.tv/subject/616981"
+                "description": "5话 /  2025年12月30日 / 葛海涛 / 形象设计：江波、胡启梦",
+                "link": "https://bgm.tv/subject/633886"
               },
               {
                 "id": "458926",
@@ -7306,15 +7295,15 @@
                 "link": "https://bgm.tv/subject/458926"
               },
               {
-                "id": "446289",
+                "id": "616981",
                 "type": "link",
-                "title": "火凤重天",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
-                "releaseDate": "2025-12-27",
+                "title": "ZZZ动画 DreamArbeiter莫",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/35/616981_3yz3w.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
-                "link": "https://bgm.tv/subject/446289"
+                "description": "2025-12-28 / 石ノ森章太郎 / 犬神リト",
+                "link": "https://bgm.tv/subject/616981"
               },
               {
                 "id": "403731",
@@ -7326,6 +7315,39 @@
                 "rating": "4.9",
                 "description": "13话 /  2025年12月27日 / 郑佳",
                 "link": "https://bgm.tv/subject/403731"
+              },
+              {
+                "id": "446289",
+                "type": "link",
+                "title": "火凤重天",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/fd/446289_81jPU.jpg",
+                "releaseDate": "2025-12-27",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "1话 /  2025年12月27日 / 浩克、唐亮、成宝钢",
+                "link": "https://bgm.tv/subject/446289"
+              },
+              {
+                "id": "605115",
+                "type": "link",
+                "title": "不洁之星",
+                "posterPath": "/img/no_icon_subject.png",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.2",
+                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
+                "link": "https://bgm.tv/subject/605115"
+              },
+              {
+                "id": "562099",
+                "type": "link",
+                "title": "谁是窃书之人",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "anime",
+                "rating": "6.1",
+                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
+                "link": "https://bgm.tv/subject/562099"
               },
               {
                 "id": "544624",
@@ -7383,28 +7405,6 @@
                 "link": "https://bgm.tv/subject/588223"
               },
               {
-                "id": "605115",
-                "type": "link",
-                "title": "不洁之星",
-                "posterPath": "/img/no_icon_subject.png",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.2",
-                "description": "4话 /  2025年12月26日 / 雷火剣 / 左藤空気『ケガレボシ』（Vパン'sエクスタシー）",
-                "link": "https://bgm.tv/subject/605115"
-              },
-              {
-                "id": "562099",
-                "type": "link",
-                "title": "谁是窃书之人",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ff/562099_1j3sS.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "anime",
-                "rating": "6.1",
-                "description": "1话 /  2025年12月26日 / 福岡大生 / 深緑野分（角川文庫/KADOKAWA刊） / 黒澤桂子",
-                "link": "https://bgm.tv/subject/562099"
-              },
-              {
                 "id": "520300",
                 "type": "link",
                 "title": "剑来 第二季",
@@ -7430,17 +7430,6 @@
                 "tmdb_source": "bangumi_data"
               },
               {
-                "id": "617321",
-                "type": "link",
-                "title": "今日をしるして",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
-                "releaseDate": "2025-12-23",
-                "mediaType": "anime",
-                "rating": "",
-                "description": "1话 /  2025年12月23日",
-                "link": "https://bgm.tv/subject/617321"
-              },
-              {
                 "id": "619911",
                 "type": "link",
                 "title": "托尼托尼·乔巴",
@@ -7463,15 +7452,15 @@
                 "link": "https://bgm.tv/subject/449371"
               },
               {
-                "id": "547793",
+                "id": "617321",
                 "type": "link",
-                "title": "新时代·中国礼",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
-                "releaseDate": "2025-12-22",
+                "title": "今日をしるして",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/0c/617321_qQrEG.jpg",
+                "releaseDate": "2025-12-23",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
-                "link": "https://bgm.tv/subject/547793"
+                "description": "1话 /  2025年12月23日",
+                "link": "https://bgm.tv/subject/617321"
               },
               {
                 "id": "609228",
@@ -7485,15 +7474,15 @@
                 "link": "https://bgm.tv/subject/609228"
               },
               {
-                "id": "616060",
+                "id": "547793",
                 "type": "link",
-                "title": "请吃红小豆吧！新年快乐",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
-                "releaseDate": "2025-12-21",
+                "title": "新时代·中国礼",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/8a/547793_EPV74.jpg",
+                "releaseDate": "2025-12-22",
                 "mediaType": "anime",
                 "rating": "",
-                "description": "6话 /  2025年12月21日 / 林春柳",
-                "link": "https://bgm.tv/subject/616060"
+                "description": "16话 /  2025年12月22日 / 边荣韬 / 《大头儿子和小头爸爸》原著：郑春华 / 造型设计：任萌；大头儿子、小头爸爸、围裙妈妈原造型设计：周一愚",
+                "link": "https://bgm.tv/subject/547793"
               },
               {
                 "id": "449362",
@@ -7505,6 +7494,17 @@
                 "rating": "",
                 "description": "12话 /  2025年12月21日 / 陈俊、韩文献 / 仁山动漫《开局就有王者账号》 / RuaRua（总人物设计）",
                 "link": "https://bgm.tv/subject/449362"
+              },
+              {
+                "id": "616060",
+                "type": "link",
+                "title": "请吃红小豆吧！新年快乐",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/98/616060_lXXT4.jpg",
+                "releaseDate": "2025-12-21",
+                "mediaType": "anime",
+                "rating": "",
+                "description": "6话 /  2025年12月21日 / 林春柳",
+                "link": "https://bgm.tv/subject/616060"
               }
             ]
           ],
@@ -8616,17 +8616,6 @@
           "date": [
             [
               {
-                "id": "609263",
-                "type": "link",
-                "title": "孤独的美食家 2025除夕特别篇",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "7.2",
-                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
-                "link": "https://bgm.tv/subject/609263"
-              },
-              {
                 "id": "619620",
                 "type": "link",
                 "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
@@ -8671,15 +8660,15 @@
                 "link": "https://bgm.tv/subject/331000"
               },
               {
-                "id": "617645",
+                "id": "609263",
                 "type": "link",
-                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
-                "releaseDate": "2025-12-30",
+                "title": "孤独的美食家 2025除夕特别篇",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
-                "rating": "",
-                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
-                "link": "https://bgm.tv/subject/617645"
+                "rating": "7.2",
+                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
+                "link": "https://bgm.tv/subject/609263"
               },
               {
                 "id": "485298",
@@ -8691,6 +8680,17 @@
                 "rating": "",
                 "description": "32话 /  2025-12-30 / 花箐 / 费达未、王小艾 / 霍建華、田雨、张雪迎、乔振宇、刘端端",
                 "link": "https://bgm.tv/subject/485298"
+              },
+              {
+                "id": "617645",
+                "type": "link",
+                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
+                "releaseDate": "2025-12-30",
+                "mediaType": "real",
+                "rating": "",
+                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
+                "link": "https://bgm.tv/subject/617645"
               },
               {
                 "id": "618753",
@@ -8803,28 +8803,6 @@
                 "link": "https://bgm.tv/subject/587300"
               },
               {
-                "id": "573894",
-                "type": "link",
-                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "",
-                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
-                "link": "https://bgm.tv/subject/573894"
-              },
-              {
-                "id": "410874",
-                "type": "link",
-                "title": "剧场版 紧急审讯室 THE FINAL",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "real",
-                "rating": "",
-                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
-                "link": "https://bgm.tv/subject/410874"
-              },
-              {
                 "id": "610854",
                 "type": "link",
                 "title": "二子多磨",
@@ -8858,15 +8836,26 @@
                 "link": "https://bgm.tv/subject/565287"
               },
               {
-                "id": "617766",
+                "id": "573894",
                 "type": "link",
-                "title": "亲亲我",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
-                "releaseDate": "2025-12-25",
+                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
                 "rating": "",
-                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
-                "link": "https://bgm.tv/subject/617766"
+                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
+                "link": "https://bgm.tv/subject/573894"
+              },
+              {
+                "id": "410874",
+                "type": "link",
+                "title": "剧场版 紧急审讯室 THE FINAL",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "real",
+                "rating": "",
+                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
+                "link": "https://bgm.tv/subject/410874"
               },
               {
                 "id": "617642",
@@ -8878,6 +8867,17 @@
                 "rating": "",
                 "description": "18话 /  2025-12-25 / 两人 / 倒霉死勒、史泽鲲",
                 "link": "https://bgm.tv/subject/617642"
+              },
+              {
+                "id": "617766",
+                "type": "link",
+                "title": "亲亲我",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
+                "releaseDate": "2025-12-25",
+                "mediaType": "real",
+                "rating": "",
+                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
+                "link": "https://bgm.tv/subject/617766"
               }
             ]
           ],
@@ -9970,17 +9970,6 @@
           "date": [
             [
               {
-                "id": "609263",
-                "type": "link",
-                "title": "孤独的美食家 2025除夕特别篇",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "7.2",
-                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
-                "link": "https://bgm.tv/subject/609263"
-              },
-              {
                 "id": "619620",
                 "type": "link",
                 "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
@@ -10025,15 +10014,15 @@
                 "link": "https://bgm.tv/subject/331000"
               },
               {
-                "id": "617645",
+                "id": "609263",
                 "type": "link",
-                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
-                "releaseDate": "2025-12-30",
+                "title": "孤独的美食家 2025除夕特别篇",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
-                "rating": "",
-                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
-                "link": "https://bgm.tv/subject/617645"
+                "rating": "7.2",
+                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
+                "link": "https://bgm.tv/subject/609263"
               },
               {
                 "id": "485298",
@@ -10045,6 +10034,17 @@
                 "rating": "",
                 "description": "32话 /  2025-12-30 / 花箐 / 费达未、王小艾 / 霍建華、田雨、张雪迎、乔振宇、刘端端",
                 "link": "https://bgm.tv/subject/485298"
+              },
+              {
+                "id": "617645",
+                "type": "link",
+                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
+                "releaseDate": "2025-12-30",
+                "mediaType": "real",
+                "rating": "",
+                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
+                "link": "https://bgm.tv/subject/617645"
               },
               {
                 "id": "618753",
@@ -10157,28 +10157,6 @@
                 "link": "https://bgm.tv/subject/587300"
               },
               {
-                "id": "573894",
-                "type": "link",
-                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "",
-                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
-                "link": "https://bgm.tv/subject/573894"
-              },
-              {
-                "id": "410874",
-                "type": "link",
-                "title": "剧场版 紧急审讯室 THE FINAL",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "real",
-                "rating": "",
-                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
-                "link": "https://bgm.tv/subject/410874"
-              },
-              {
                 "id": "610854",
                 "type": "link",
                 "title": "二子多磨",
@@ -10212,15 +10190,26 @@
                 "link": "https://bgm.tv/subject/565287"
               },
               {
-                "id": "617766",
+                "id": "573894",
                 "type": "link",
-                "title": "亲亲我",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
-                "releaseDate": "2025-12-25",
+                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
                 "rating": "",
-                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
-                "link": "https://bgm.tv/subject/617766"
+                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
+                "link": "https://bgm.tv/subject/573894"
+              },
+              {
+                "id": "410874",
+                "type": "link",
+                "title": "剧场版 紧急审讯室 THE FINAL",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "real",
+                "rating": "",
+                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
+                "link": "https://bgm.tv/subject/410874"
               },
               {
                 "id": "617642",
@@ -10232,6 +10221,17 @@
                 "rating": "",
                 "description": "18话 /  2025-12-25 / 两人 / 倒霉死勒、史泽鲲",
                 "link": "https://bgm.tv/subject/617642"
+              },
+              {
+                "id": "617766",
+                "type": "link",
+                "title": "亲亲我",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
+                "releaseDate": "2025-12-25",
+                "mediaType": "real",
+                "rating": "",
+                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
+                "link": "https://bgm.tv/subject/617766"
               }
             ]
           ],
@@ -11324,17 +11324,6 @@
           "date": [
             [
               {
-                "id": "609263",
-                "type": "link",
-                "title": "孤独的美食家 2025除夕特别篇",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "7.2",
-                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
-                "link": "https://bgm.tv/subject/609263"
-              },
-              {
                 "id": "619620",
                 "type": "link",
                 "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
@@ -11379,15 +11368,15 @@
                 "link": "https://bgm.tv/subject/331000"
               },
               {
-                "id": "617645",
+                "id": "609263",
                 "type": "link",
-                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
-                "releaseDate": "2025-12-30",
+                "title": "孤独的美食家 2025除夕特别篇",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
-                "rating": "",
-                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
-                "link": "https://bgm.tv/subject/617645"
+                "rating": "7.2",
+                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
+                "link": "https://bgm.tv/subject/609263"
               },
               {
                 "id": "485298",
@@ -11399,6 +11388,17 @@
                 "rating": "",
                 "description": "32话 /  2025-12-30 / 花箐 / 费达未、王小艾 / 霍建華、田雨、张雪迎、乔振宇、刘端端",
                 "link": "https://bgm.tv/subject/485298"
+              },
+              {
+                "id": "617645",
+                "type": "link",
+                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
+                "releaseDate": "2025-12-30",
+                "mediaType": "real",
+                "rating": "",
+                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
+                "link": "https://bgm.tv/subject/617645"
               },
               {
                 "id": "618753",
@@ -11511,28 +11511,6 @@
                 "link": "https://bgm.tv/subject/587300"
               },
               {
-                "id": "573894",
-                "type": "link",
-                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "",
-                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
-                "link": "https://bgm.tv/subject/573894"
-              },
-              {
-                "id": "410874",
-                "type": "link",
-                "title": "剧场版 紧急审讯室 THE FINAL",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "real",
-                "rating": "",
-                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
-                "link": "https://bgm.tv/subject/410874"
-              },
-              {
                 "id": "610854",
                 "type": "link",
                 "title": "二子多磨",
@@ -11566,15 +11544,26 @@
                 "link": "https://bgm.tv/subject/565287"
               },
               {
-                "id": "617766",
+                "id": "573894",
                 "type": "link",
-                "title": "亲亲我",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
-                "releaseDate": "2025-12-25",
+                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
                 "rating": "",
-                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
-                "link": "https://bgm.tv/subject/617766"
+                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
+                "link": "https://bgm.tv/subject/573894"
+              },
+              {
+                "id": "410874",
+                "type": "link",
+                "title": "剧场版 紧急审讯室 THE FINAL",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "real",
+                "rating": "",
+                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
+                "link": "https://bgm.tv/subject/410874"
               },
               {
                 "id": "617642",
@@ -11586,6 +11575,17 @@
                 "rating": "",
                 "description": "18话 /  2025-12-25 / 两人 / 倒霉死勒、史泽鲲",
                 "link": "https://bgm.tv/subject/617642"
+              },
+              {
+                "id": "617766",
+                "type": "link",
+                "title": "亲亲我",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
+                "releaseDate": "2025-12-25",
+                "mediaType": "real",
+                "rating": "",
+                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
+                "link": "https://bgm.tv/subject/617766"
               }
             ]
           ],
@@ -12678,17 +12678,6 @@
           "date": [
             [
               {
-                "id": "609263",
-                "type": "link",
-                "title": "孤独的美食家 2025除夕特别篇",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "7.2",
-                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
-                "link": "https://bgm.tv/subject/609263"
-              },
-              {
                 "id": "619620",
                 "type": "link",
                 "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
@@ -12733,15 +12722,15 @@
                 "link": "https://bgm.tv/subject/331000"
               },
               {
-                "id": "617645",
+                "id": "609263",
                 "type": "link",
-                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
-                "releaseDate": "2025-12-30",
+                "title": "孤独的美食家 2025除夕特别篇",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
-                "rating": "",
-                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
-                "link": "https://bgm.tv/subject/617645"
+                "rating": "7.2",
+                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
+                "link": "https://bgm.tv/subject/609263"
               },
               {
                 "id": "485298",
@@ -12753,6 +12742,17 @@
                 "rating": "",
                 "description": "32话 /  2025-12-30 / 花箐 / 费达未、王小艾 / 霍建華、田雨、张雪迎、乔振宇、刘端端",
                 "link": "https://bgm.tv/subject/485298"
+              },
+              {
+                "id": "617645",
+                "type": "link",
+                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
+                "releaseDate": "2025-12-30",
+                "mediaType": "real",
+                "rating": "",
+                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
+                "link": "https://bgm.tv/subject/617645"
               },
               {
                 "id": "618753",
@@ -12865,28 +12865,6 @@
                 "link": "https://bgm.tv/subject/587300"
               },
               {
-                "id": "573894",
-                "type": "link",
-                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "",
-                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
-                "link": "https://bgm.tv/subject/573894"
-              },
-              {
-                "id": "410874",
-                "type": "link",
-                "title": "剧场版 紧急审讯室 THE FINAL",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "real",
-                "rating": "",
-                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
-                "link": "https://bgm.tv/subject/410874"
-              },
-              {
                 "id": "610854",
                 "type": "link",
                 "title": "二子多磨",
@@ -12920,15 +12898,26 @@
                 "link": "https://bgm.tv/subject/565287"
               },
               {
-                "id": "617766",
+                "id": "573894",
                 "type": "link",
-                "title": "亲亲我",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
-                "releaseDate": "2025-12-25",
+                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
                 "rating": "",
-                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
-                "link": "https://bgm.tv/subject/617766"
+                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
+                "link": "https://bgm.tv/subject/573894"
+              },
+              {
+                "id": "410874",
+                "type": "link",
+                "title": "剧场版 紧急审讯室 THE FINAL",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "real",
+                "rating": "",
+                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
+                "link": "https://bgm.tv/subject/410874"
               },
               {
                 "id": "617642",
@@ -12940,6 +12929,17 @@
                 "rating": "",
                 "description": "18话 /  2025-12-25 / 两人 / 倒霉死勒、史泽鲲",
                 "link": "https://bgm.tv/subject/617642"
+              },
+              {
+                "id": "617766",
+                "type": "link",
+                "title": "亲亲我",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
+                "releaseDate": "2025-12-25",
+                "mediaType": "real",
+                "rating": "",
+                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
+                "link": "https://bgm.tv/subject/617766"
               }
             ]
           ],
@@ -14032,17 +14032,6 @@
           "date": [
             [
               {
-                "id": "609263",
-                "type": "link",
-                "title": "孤独的美食家 2025除夕特别篇",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "7.2",
-                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
-                "link": "https://bgm.tv/subject/609263"
-              },
-              {
                 "id": "619620",
                 "type": "link",
                 "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
@@ -14087,15 +14076,15 @@
                 "link": "https://bgm.tv/subject/331000"
               },
               {
-                "id": "617645",
+                "id": "609263",
                 "type": "link",
-                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
-                "releaseDate": "2025-12-30",
+                "title": "孤独的美食家 2025除夕特别篇",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/609263_mxzC4.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
-                "rating": "",
-                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
-                "link": "https://bgm.tv/subject/617645"
+                "rating": "7.2",
+                "description": "1话 /  2025-12-31 / 北畑龍一、井川尊史、中山大暉 / 田口佳宏 / 松重豊",
+                "link": "https://bgm.tv/subject/609263"
               },
               {
                 "id": "485298",
@@ -14107,6 +14096,17 @@
                 "rating": "",
                 "description": "32话 /  2025-12-30 / 花箐 / 费达未、王小艾 / 霍建華、田雨、张雪迎、乔振宇、刘端端",
                 "link": "https://bgm.tv/subject/485298"
+              },
+              {
+                "id": "617645",
+                "type": "link",
+                "title": "サ道 2025SP ～ぬくもりに思いを馳せ ととのう～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/7e/617645_c2U3d.jpg",
+                "releaseDate": "2025-12-30",
+                "mediaType": "real",
+                "rating": "",
+                "description": "2025年12月30日 / ⻑島翔 / 根本ノンジ / 原田泰造、三宅弘城",
+                "link": "https://bgm.tv/subject/617645"
               },
               {
                 "id": "618753",
@@ -14219,28 +14219,6 @@
                 "link": "https://bgm.tv/subject/587300"
               },
               {
-                "id": "573894",
-                "type": "link",
-                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
-                "releaseDate": "2025-01-01",
-                "mediaType": "real",
-                "rating": "",
-                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
-                "link": "https://bgm.tv/subject/573894"
-              },
-              {
-                "id": "410874",
-                "type": "link",
-                "title": "剧场版 紧急审讯室 THE FINAL",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
-                "releaseDate": "2025-12-26",
-                "mediaType": "real",
-                "rating": "",
-                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
-                "link": "https://bgm.tv/subject/410874"
-              },
-              {
                 "id": "610854",
                 "type": "link",
                 "title": "二子多磨",
@@ -14274,15 +14252,26 @@
                 "link": "https://bgm.tv/subject/565287"
               },
               {
-                "id": "617766",
+                "id": "573894",
                 "type": "link",
-                "title": "亲亲我",
-                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
-                "releaseDate": "2025-12-25",
+                "title": "『前橋ウィッチーズ』ライブ ～Welcome to WITCH-VERSE!!～",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/cd/573894_yi920.jpg",
+                "releaseDate": "2025-01-01",
                 "mediaType": "real",
                 "rating": "",
-                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
-                "link": "https://bgm.tv/subject/617766"
+                "description": "3话 /  2025-12-26 / 春日さくら、咲川ひなの、本村玲奈、三波春香、百瀬帆南",
+                "link": "https://bgm.tv/subject/573894"
+              },
+              {
+                "id": "410874",
+                "type": "link",
+                "title": "剧场版 紧急审讯室 THE FINAL",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d3/410874_ZJITj.jpg",
+                "releaseDate": "2025-12-26",
+                "mediaType": "real",
+                "rating": "",
+                "description": "1话 /  2025年12月26日 / 常廣丈太 / 井上由美子 / 天海祐希",
+                "link": "https://bgm.tv/subject/410874"
               },
               {
                 "id": "617642",
@@ -14294,6 +14283,17 @@
                 "rating": "",
                 "description": "18话 /  2025-12-25 / 两人 / 倒霉死勒、史泽鲲",
                 "link": "https://bgm.tv/subject/617642"
+              },
+              {
+                "id": "617766",
+                "type": "link",
+                "title": "亲亲我",
+                "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
+                "releaseDate": "2025-12-25",
+                "mediaType": "real",
+                "rating": "",
+                "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
+                "link": "https://bgm.tv/subject/617766"
               }
             ]
           ],
