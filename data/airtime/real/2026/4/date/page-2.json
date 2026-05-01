@@ -1,14 +1,14 @@
 [
   {
-    "id": "638983",
+    "id": "633558",
     "type": "link",
-    "title": "藁にもすがる獣たち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
-    "link": "https://bgm.tv/subject/638983"
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
+    "link": "https://bgm.tv/subject/633558"
   },
   {
     "id": "639664",
@@ -55,17 +55,6 @@
     "link": "https://bgm.tv/subject/628086"
   },
   {
-    "id": "526932",
-    "type": "link",
-    "title": "踊る大捜査線 N.E.W.",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/84/526932_BURnz.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
-    "link": "https://bgm.tv/subject/526932"
-  },
-  {
     "id": "580127",
     "type": "link",
     "title": "新版生化危机",
@@ -75,6 +64,17 @@
     "rating": "",
     "description": "2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams",
     "link": "https://bgm.tv/subject/580127"
+  },
+  {
+    "id": "526932",
+    "type": "link",
+    "title": "踊る大捜査線 N.E.W.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/84/526932_BURnz.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
+    "link": "https://bgm.tv/subject/526932"
   },
   {
     "id": "644128",
@@ -198,6 +198,17 @@
     "link": "https://bgm.tv/subject/641261"
   },
   {
+    "id": "635371",
+    "type": "link",
+    "title": "グノーシア　ザ・ライブプレイングシアター",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-08-21 / 松崎史也 / 池永英介",
+    "link": "https://bgm.tv/subject/635371"
+  },
+  {
     "id": "617152",
     "type": "link",
     "title": "热舞巨星☆光之美少年 The Stage PARTY",
@@ -220,17 +231,6 @@
     "link": "https://bgm.tv/subject/583191"
   },
   {
-    "id": "635371",
-    "type": "link",
-    "title": "グノーシア　ザ・ライブプレイングシアター",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-21 / 松崎史也 / 池永英介",
-    "link": "https://bgm.tv/subject/635371"
-  },
-  {
     "id": "632520",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
@@ -242,17 +242,6 @@
     "link": "https://bgm.tv/subject/632520"
   },
   {
-    "id": "632945",
-    "type": "link",
-    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-08-16 / 大塚剛央（アクア役）、 伊駒ゆりえ（ルビー役）、 潘めぐみ（有馬かな役）、 大久保瑠美（MEMちょ役） 伊東健人（ゴロー役）、 高柳知葉（さりな役）",
-    "link": "https://bgm.tv/subject/632945"
-  },
-  {
     "id": "639959",
     "type": "link",
     "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
@@ -262,5 +251,16 @@
     "rating": "",
     "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
     "link": "https://bgm.tv/subject/639959"
+  },
+  {
+    "id": "632945",
+    "type": "link",
+    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-08-16 / 大塚剛央（アクア役）、 伊駒ゆりえ（ルビー役）、 潘めぐみ（有馬かな役）、 大久保瑠美（MEMちょ役） 伊東健人（ゴロー役）、 高柳知葉（さりな役）",
+    "link": "https://bgm.tv/subject/632945"
   }
 ]

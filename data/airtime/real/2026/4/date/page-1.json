@@ -1,16 +1,5 @@
 [
   {
-    "id": "538498",
-    "type": "link",
-    "title": "SUKIYAKI 昂首向前走",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/b7/538498_mdPM3.jpg",
-    "releaseDate": "2026-12-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月25日 / 瀬々敬久 / 港岳彦 / 岡田准一",
-    "link": "https://bgm.tv/subject/538498"
-  },
-  {
     "id": "637146",
     "type": "link",
     "title": "BYE BYE LOVE 探偵はBARにいる",
@@ -20,6 +9,17 @@
     "rating": "",
     "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
     "link": "https://bgm.tv/subject/637146"
+  },
+  {
+    "id": "538498",
+    "type": "link",
+    "title": "SUKIYAKI 昂首向前走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/b7/538498_mdPM3.jpg",
+    "releaseDate": "2026-12-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月25日 / 瀬々敬久 / 港岳彦 / 岡田准一",
+    "link": "https://bgm.tv/subject/538498"
   },
   {
     "id": "645135",
@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "393438",
-    "type": "link",
-    "title": "复仇者联盟5：毁灭日",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
-    "link": "https://bgm.tv/subject/393438"
-  },
-  {
     "id": "494701",
     "type": "link",
     "title": "沙丘：第三部分",
@@ -53,6 +42,17 @@
     "rating": "",
     "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
     "link": "https://bgm.tv/subject/494701"
+  },
+  {
+    "id": "393438",
+    "type": "link",
+    "title": "复仇者联盟5：毁灭日",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
+    "link": "https://bgm.tv/subject/393438"
   },
   {
     "id": "612440",
@@ -265,14 +265,14 @@
     "link": "https://bgm.tv/subject/645791"
   },
   {
-    "id": "633558",
+    "id": "638983",
     "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
+    "title": "藁にもすがる獣たち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
-    "link": "https://bgm.tv/subject/633558"
+    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
+    "link": "https://bgm.tv/subject/638983"
   }
 ]

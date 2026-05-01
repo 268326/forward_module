@@ -1,5 +1,27 @@
 [
   {
+    "id": "628212",
+    "type": "link",
+    "title": "小黄人与大怪兽",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/40/628212_Yoo00.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月1日 / Pierre Coffin",
+    "link": "https://bgm.tv/subject/628212"
+  },
+  {
+    "id": "473416",
+    "type": "link",
+    "title": "永远的大和号 REBEL3199 第六章",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/b2/473416_rJKBk.jpg",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月26日",
+    "link": "https://bgm.tv/subject/473416"
+  },
+  {
     "id": "487782",
     "type": "link",
     "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
@@ -247,27 +269,5 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "633618",
-    "type": "link",
-    "title": "Unanswered//butterfly",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/4f/633618_zeK00.jpg",
-    "releaseDate": "2026-05-09",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年5月9日 / 吉平 ❝Tady❞ 直弘(吉平直弘)",
-    "link": "https://bgm.tv/subject/633618"
-  },
-  {
-    "id": "501729",
-    "type": "link",
-    "title": "剧场版 魔法科高校的劣等生 四叶继承篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/21/16/501729_9N17s.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "1话 /  2026年5月8日 / 佐島勤（電撃文庫刊）",
-    "link": "https://bgm.tv/subject/501729"
   }
 ]

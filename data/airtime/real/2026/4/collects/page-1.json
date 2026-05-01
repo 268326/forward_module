@@ -160,17 +160,6 @@
     "link": "https://bgm.tv/subject/547412"
   },
   {
-    "id": "620937",
-    "type": "link",
-    "title": "匹兹堡医护前线 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "15话 /  2026-01-08",
-    "link": "https://bgm.tv/subject/620937"
-  },
-  {
     "id": "638448",
     "type": "link",
     "title": "迈克尔·杰克逊：巨星之路",
@@ -182,6 +171,17 @@
     "link": "https://bgm.tv/subject/638448"
   },
   {
+    "id": "620937",
+    "type": "link",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "8.0",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
+  },
+  {
     "id": "620971",
     "type": "link",
     "title": "头号战队豪兽者VS奔奔者",
@@ -191,24 +191,6 @@
     "rating": "6.0",
     "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
     "link": "https://bgm.tv/subject/620971"
-  },
-  {
-    "id": "304194",
-    "type": "tmdb",
-    "title": "重启",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
-    "link": null,
-    "tmdb_id": "304194",
-    "tmdb_site_id": "tv/304194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "306207",
@@ -247,6 +229,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "304194",
+    "type": "tmdb",
+    "title": "重启",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
+    "link": null,
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "312723",
     "type": "tmdb",
     "title": "牙狼＜GARO＞ 东之界楼",
@@ -265,17 +265,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "617739",
-    "type": "link",
-    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "real",
-    "rating": "5.9",
-    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
-    "link": "https://bgm.tv/subject/617739"
-  },
-  {
     "id": "279388",
     "type": "tmdb",
     "title": "逐玉",
@@ -292,6 +281,17 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "617739",
+    "type": "link",
+    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
+    "link": "https://bgm.tv/subject/617739"
   },
   {
     "id": "303405",

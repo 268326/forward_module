@@ -77,15 +77,33 @@
     "link": "https://bgm.tv/subject/642935"
   },
   {
-    "id": "325767",
+    "id": "565701",
     "type": "link",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "anime",
     "rating": "",
+    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "link": "https://bgm.tv/subject/565701"
+  },
+  {
+    "id": "117120",
+    "type": "tmdb",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6zC4Jnicxa5X5E3ux4rSQF6IUDS.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": "https://bgm.tv/subject/325767"
+    "link": null,
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "607340",
@@ -108,6 +126,17 @@
     "rating": "",
     "description": "2026年7月5日 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊）",
     "link": "https://bgm.tv/subject/638497"
+  },
+  {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
   },
   {
     "id": "595106",
@@ -254,27 +283,5 @@
     "rating": "",
     "description": "2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
     "link": "https://bgm.tv/subject/511177"
-  },
-  {
-    "id": "628212",
-    "type": "link",
-    "title": "小黄人与大怪兽",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/40/628212_Yoo00.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月1日 / Pierre Coffin",
-    "link": "https://bgm.tv/subject/628212"
-  },
-  {
-    "id": "645350",
-    "type": "link",
-    "title": "フラチ",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年6月26日 / 『フラチ』（裏筋部屋 [裏筋侍]）",
-    "link": "https://bgm.tv/subject/645350"
   }
 ]
