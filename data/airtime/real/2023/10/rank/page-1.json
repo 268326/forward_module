@@ -11,26 +11,40 @@
     "link": "https://bgm.tv/subject/442025"
   },
   {
-    "id": "412118",
-    "type": "link",
-    "title": "虫王战队超王者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5a/aa/412118_99C3A.jpg",
+    "id": "227897",
+    "type": "tmdb",
+    "title": "与莫芬一起",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mRTRVhzR5LfKPmtNcftMD1Is6zC.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "8.4",
-    "description": "50话 /  2023-03-05 / 上堀内佳寿也、山口恭平、加藤弘之、茶谷和行、中澤祥次郎、坂本浩一 / 高野水登、金子香緒里 / 酒井大成、渡辺碧斗、村上愛花、平川結月、佳久創、池田匡志",
-    "link": "https://bgm.tv/subject/412118"
+    "mediaType": "tv",
+    "rating": "1.0",
+    "description": "动画短片",
+    "link": null,
+    "tmdb_id": "227897",
+    "tmdb_site_id": "tv/227897",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "431299",
-    "type": "link",
+    "id": "225008",
+    "type": "tmdb",
     "title": "漫长的季节",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/bd/431299_R8csy.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
     "releaseDate": "2023-04-22",
-    "mediaType": "real",
-    "rating": "8.5",
-    "description": "12话 /  2023年4月22日 / 于小千、潘依然、陈骥 / 范伟、秦昊、陈明昊、李庚希、刘奕铁、蒋奇明、刘琳、史彭元、侯岩松、林晓杰、王佳佳、杨一威、唐曾、王艺荻",
-    "link": "https://bgm.tv/subject/431299"
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "小城桦林，此时，出租司机王响做梦也没想到，他还有机会遇到一个他此生最想遇到，又最怕遇到的人。是仇人还是故人？遇到了，就得有交代，给自己，也给儿子。 小城桦林，彼时，火车司机王响意气风发，开的了二十挂的钢铁巨兽却管不好鸡毛蒜皮的三口小家，工厂摇摇欲坠，危机处处紧逼。 一包身份未明的碎尸像一块石头砸在桦林的水面上，也砸在王响的头脑里，这片涟漪一荡就是20年，荡到秋叶泛黄，从未停歇。 迷失的父亲，死亡的恋人、重逢的老友，因一个未解的谜题被困在三个不同的时代里，只为追寻一个跨越了过去、现在、未来的真相，当谜底揭开时，时空融为一体，在漫长的季节里只剩命运的挽歌。",
+    "link": null,
+    "tmdb_id": "225008",
+    "tmdb_site_id": "tv/225008",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "419950",
@@ -44,15 +58,22 @@
     "link": "https://bgm.tv/subject/419950"
   },
   {
-    "id": "407975",
-    "type": "link",
+    "id": "215197",
+    "type": "tmdb",
     "title": "重启人生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/02/d3/407975_nWsPR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/uaZXNusiStCwGMyUun97bysK774.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "10话 /  2023-01-08 / 水野格、狩山俊輔、松田健斗 / バカリズム / 安藤サクラ",
-    "link": "https://bgm.tv/subject/407975"
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "近藤麻美（安藤樱 饰）是个任职于地方市役所、生活非常平凡的33岁单身女性。某天一睁开眼，麻美发现自己居然带着记忆穿越到过去，人生更是从呱呱坠地的零岁重来一遍！意会过来的她，想起死后世界的引路人，以及自己希望再投胎为人类而选择一边积德、一边重新过上同样的人生。亲情、友情、恋情… 第二轮平凡的人生，开始！",
+    "link": null,
+    "tmdb_id": "215197",
+    "tmdb_site_id": "tv/215197",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "406066",
@@ -88,26 +109,40 @@
     "link": "https://bgm.tv/subject/421878"
   },
   {
-    "id": "215613",
-    "type": "link",
+    "id": "100088",
+    "type": "tmdb",
     "title": "最后生还者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/21/65/215613_55ttN.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ydyTjqxZsPlcFSTBNY2INYrmEvk.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "7.9",
-    "description": "9话 /  2023-01-15 / Craig Mazin / Neil Druckmann / Peter Hoar / Jeremy Webb / Jeremy Webb / Jasmila Žbanić / Liza Johnson / Ali Abbasi / Ali Abbasi / Craig Mazin & Neil Druckmann / Craig Mazin / Craig Mazin / Craig Mazin / Craig Mazin / Craig Mazin / Neil Druckmann / Craig Mazin / Craig Mazin & Neil Druckmann / Pedro Pascal / Bella Ramsey",
-    "link": "https://bgm.tv/subject/215613"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "在现代文明被摧毁的二十年后，人类因现代传染病而面临绝种危机，幸存的人类为了生存自相残杀。中年男性走私犯乔尔（佩德罗·帕斯卡饰）为了完成“火萤”组织首领玛琳（梅尔·丹德里奇饰）的托付，带着14岁少女艾莉（贝拉·拉姆齐饰）一同踏出由军队保护的疫情隔离区，穿越化为废墟丛林的大都会。面对病毒感染变种人类与其他幸存者集团威胁，展开了一场改变两人一生的深刻旅程。",
+    "link": null,
+    "tmdb_id": "100088",
+    "tmdb_site_id": "tv/100088",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "388982",
-    "type": "link",
+    "id": "204541",
+    "type": "tmdb",
     "title": "三体",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/57/410935_c58LD.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg",
     "releaseDate": "2023-01-15",
-    "mediaType": "real",
+    "mediaType": "tv",
     "rating": "7.8",
-    "description": "30话 /  2023年1月15日 / 杨磊 / 田良良 / 张鲁一、于和伟、陈瑾、王子文、林永健、李小冉",
-    "link": "https://bgm.tv/subject/388982"
+    "description": "　　2007年，地球基础科学出现了异常的扰动，一时间科学界风雨飘飘，人心惶惶。离奇自杀的科学家，近乎神迹的倒计时，行事隐秘的科学边界，神秘莫测的《三体》游戏。纳米科学家汪淼被警官史强带到联合作战中心，并潜入名为“科学边界”的组织协助调查。迷雾之中，汪淼接触到一个名为ETO的组织，发现其幕后统帅竟是自杀身亡的科学家杨冬的母亲叶文洁。随着ETO与作战中心你来我往的不断博弈，汪淼和史强逐渐确定《三体》游戏中的世界真实存在。而所有事件的源起，是两个文明为了生存空间，孤注一掷的生死相逐。在联合作战中心及科学家们的共同努力下，汪淼、史强等人坚定信念、重燃希望，带领大家继续准备着在今后与即将入侵的三体人展开殊死斗争。",
+    "link": null,
+    "tmdb_id": "204541",
+    "tmdb_site_id": "tv/204541",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "435916",
@@ -132,26 +167,40 @@
     "link": "https://bgm.tv/subject/469500"
   },
   {
-    "id": "431325",
-    "type": "link",
+    "id": "213442",
+    "type": "tmdb",
     "title": "布莱泽奥特曼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/4d/431325_B6vPB.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rQqMuz69A7WPhMrqlEdQjFXW41u.jpg",
     "releaseDate": "2023-07-08",
-    "mediaType": "real",
-    "rating": "7.6",
-    "description": "25话 /  2023年7月8日 / 田口清隆・辻本貴則・中川和博・越知靖・武居正能・宮崎龍太 / 小柳啓伍・継田淳・山崎太基・植竹須美男・足木淳一郎・中野貴雄・根元歳三；系列构成：小柳啓伍・田口清隆 / 蕨野友也",
-    "link": "https://bgm.tv/subject/431325"
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "在全球怪物灾难爆发后，世界各国于1966年成立了地球防卫队（GGF），以应对来自地球内外的怪物和外星生命的袭击。\n\n如今，人类对自然界的破坏和全球变暖现象日益严重。 一天晚上，宇宙甲壳怪物巴赞甲出现了。地球防卫队的清理行动遇到了困难，比留间弦人领导的特殊部队陷入了绝望的境地。 这时，一个神秘的巨人带着耀眼的光芒降临了。 这是一个身份不明的大型外星人，代号为“奥特曼”，几十年来在宇航员中一直有着他的传言。\n\n后来，弦人被传唤到指挥中心，突然接到成为特殊怪兽对应分遣队（SKaRD）指挥官的任务。SKaRD是一支秘密组织的特殊怪物反应分队。他指挥的这支特殊部队，以驾驶巨型怪物形状的机器人阿斯加隆为主来对抗怪物灾难。 同时，他还奉命调查在巴赞甲之战中出现的奥特曼是否为必须消灭的敌人。\n\n“我去解决”。\n\n现在，在布莱泽奥特曼之光的笼罩下，弦人队长将与新组织的SKaRD的特殊成员一起，投入到与怪兽的新战斗中，他的心中深藏着坚实的勇气和坚定的正义！",
+    "link": null,
+    "tmdb_id": "213442",
+    "tmdb_site_id": "tv/213442",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "431467",
-    "type": "link",
-    "title": "人选之人—造浪者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/55/431467_vB9wQ.jpg",
+    "id": "221869",
+    "type": "tmdb",
+    "title": "人选之人：造浪者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iLRqi5alfMMGMjU4CbRqxLX8fmH.jpg",
     "releaseDate": "2023-04-28",
-    "mediaType": "real",
-    "rating": "7.8",
-    "description": "8话 /  2023年4月28日",
-    "link": "https://bgm.tv/subject/431467"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "激烈选举风雨欲来。竞选团队面临各种艰难选择，应对政坛的惊涛骇浪。",
+    "link": null,
+    "tmdb_id": "221869",
+    "tmdb_site_id": "tv/221869",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "483528",
@@ -186,52 +235,82 @@
     "description": "8话 /  2023-04-21 / 住田崇、片山修、植田尚 / 古家和尚 / 小芝風花",
     "link": null,
     "tmdb_id": "94405",
+    "tmdb_site_id": "tv/94405",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "462350",
-    "type": "link",
+    "id": "218230",
+    "type": "tmdb",
     "title": "死期将至",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/7d/462350_l61n1.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/26QWmR3TsNZWbXSY0fBFfD21HAI.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "7.6",
-    "description": "8话 /  2023-12-15 / 하병훈(河炳勋) / 하병훈(河炳勋) / 서인국(徐仁国)、박소담(朴素丹)",
-    "link": "https://bgm.tv/subject/462350"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "经过数年备战，原本对未来生活有着无限憧憬的青年人崔以才（徐仁国饰）在某大型企业的面试中铩羽而归，祸不单行，生活中接二连三的打击令他彻底失去了活下去的勇气，随后他走上楼顶，结束了短暂的一生。可是他死前的一番言论惹恼了坏脾气的女死神（林素丹饰），于是作为处罚，死神给了以才12次重生的机会。所谓重生，实则是附体在12个必死之人的身体上，充分体会着他们死前的痛苦。当然，如果以才能够逆天改命，那么就能以这个人的身份继续活下去。在此之后，他先后附体富二代、极限运动员、高中生废柴乃至小婴儿的身上，而不同的人生也给了以才前所未有的触动……本片根据同名人气漫画改编。@死期将至，又名：我死了又死，现在快死了。",
+    "link": null,
+    "tmdb_id": "218230",
+    "tmdb_site_id": "tv/218230",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "420960",
-    "type": "link",
+    "id": "222976",
+    "type": "tmdb",
     "title": "0.5的男人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/81/a3/420960_9muoN.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zv1D98hMWVI3xYLMS3JV9D8hEQQ.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "5话 /  2023-05-28 / 沖田修一、玉澤恭平 / 牧五百音、沖田修一 / 松田龍平",
-    "link": "https://bgm.tv/subject/420960"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "立花一家因自家房屋老旧而决定改建，女儿一家以此为借机，决定搬回跟父母同住，因此要改建为“2世代住宅”，但是40岁茧居族儿子的居住空间成了问题所在。经过房屋制造商推销员的劝说后，决定朝着以建设“2.5世代住宅”的方向改建。\n\n40岁的雅治自某个时期开始茧居在家，每日玩着第五人格、吃着妈妈做的饭菜、过着自由自在的生活。虽然在游戏世界是令人崇拜的存在，但是在现实生活中，因家中的变化，作为“0.5”的存在，越来越没有存在位置，被妹妹说“有空就帮忙做家事”、想跟侄女亲近也被嫌弃“恶心”。然而与此同时，因生活环境被迫改变，雅治慢慢走到外面的世界，恢复与人交流，找到新的自我。",
+    "link": null,
+    "tmdb_id": "222976",
+    "tmdb_site_id": "tv/222976",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "373307",
-    "type": "link",
+    "id": "126485",
+    "type": "tmdb",
     "title": "超异能族",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/b7/373307_4ROIt.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4iaJvLUc6cIpUQn56llNV2p9lcP.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "20话 /  2023-08-09 / 박인제(朴仁济) / 강풀(姜草) / 류승룡(柳承龙)、한효주(韩孝周)、조인성(赵寅成)",
-    "link": "https://bgm.tv/subject/373307"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本剧是一部超能力英雄动作剧集，讲述藏起超能力生活于现在的孩子们和隐藏过去痛苦秘密生活着的父母们，一同面对跨越时代与世代席卷而来的巨大危机。",
+    "link": null,
+    "tmdb_id": "126485",
+    "tmdb_site_id": "tv/126485",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "449157",
-    "type": "link",
-    "title": "下克上球儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/41/449157_NYsgO.jpg",
+    "id": "234486",
+    "type": "tmdb",
+    "title": "下克上棒球少年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3E5bmkUlpWjJqwWxfVTCYai9puC.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "10话 /  2023-10-15 / 塚原あゆ子、山室大輔、濱野大輝 / 奥寺佐渡子 / 鈴木亮平",
-    "link": "https://bgm.tv/subject/449157"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "因伤引退的棒球选手南云脩司，因缘际会作为社会科老师在越山高中任教，并被推派为棒球社的指导老师兼教练。然而，这个棒球队竟然几乎都是幽灵社员！？看着一盘散沙的棒球队，以家人为重的南云本想向学校婉拒，但随着“棒球狂”家政科新老师山住、因落榜而从棒球强豪来到越山的前王牌翔的出现，让南云的心境开始有了巨大的转变…",
+    "link": null,
+    "tmdb_id": "234486",
+    "tmdb_site_id": "tv/234486",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "338517",
@@ -255,6 +334,8 @@
     "description": "1话 /  2023年6月2日 / 是枝裕和 / 坂元裕二",
     "link": null,
     "tmdb_id": "30981",
+    "tmdb_site_id": "tv/30981",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

@@ -1,0 +1,315 @@
+[
+  {
+    "id": "218342",
+    "type": "tmdb",
+    "title": "好女孩的谋杀调查报告",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qs3esJBUVj3o5Tl0Gjlv8hy295t.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "五年前，女学生安迪·贝尔被男友萨尔·辛格谋杀，案件结案。警察知道是他干的。镇上的每个人都知道是他干的。但聪明而执着的皮普·菲茨-阿莫比却存有疑虑，并决心要证明这一点。如果萨尔·辛格不是凶手，而真正的凶手仍然逍遥法外，他们会采取什么措施来阻止皮普查找真相？",
+    "link": null,
+    "tmdb_id": "218342",
+    "tmdb_site_id": "tv/218342",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "225120",
+    "type": "tmdb",
+    "title": "完全人生",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dcQaC8TvoCAuDv0DcUH61xEyIyP.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "面对无情的敌人和突然的破产，亚特兰大的房地产大亨必须在他的帝国开始崩溃时重新回到顶峰。",
+    "link": null,
+    "tmdb_id": "225120",
+    "tmdb_site_id": "tv/225120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "518560",
+    "type": "link",
+    "title": "寂静之地：入侵日",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/07/33/518560_nhN1b.jpg",
+    "releaseDate": "2024-06-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年6月28日 / Michael Sarnoski / Michael Sarnoski / Lupita Nyong'o、Joseph Quinn",
+    "link": "https://bgm.tv/subject/518560"
+  },
+  {
+    "id": "495680",
+    "type": "link",
+    "title": "À Table！～ノスタルジックな休日～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/74/495680_63vvU.jpg",
+    "releaseDate": "2024-07-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2024年7月3日 / 市川実日子、中島歩",
+    "link": "https://bgm.tv/subject/495680"
+  },
+  {
+    "id": "251882",
+    "type": "tmdb",
+    "title": "千阳",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iKWr8e1CUG00PdEz3BsrNStiMMm.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "6话 /  2024-04-15",
+    "link": null,
+    "tmdb_id": "251882",
+    "tmdb_site_id": "tv/251882",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "529649",
+    "type": "link",
+    "title": "小学风云 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/4b/529649_hj5Az.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "14话 /  2024-02-07",
+    "link": "https://bgm.tv/subject/529649"
+  },
+  {
+    "id": "529651",
+    "type": "link",
+    "title": "小学风云 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/4f/529651_I64AN.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "22话 /  2024-10-09",
+    "link": "https://bgm.tv/subject/529651"
+  },
+  {
+    "id": "248346",
+    "type": "tmdb",
+    "title": "恶魔游戏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9Ys3ZD5P6VSOh4KOlpqqZ94oAeq.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "改编自メーブ原作、惠广史作画的同名漫画。描绘了为取得“收集到99把就能得到这个世界上的全部东西“的“恶魔的钥匙”的人物们的战斗。",
+    "link": null,
+    "tmdb_id": "248346",
+    "tmdb_site_id": "tv/248346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "513523",
+    "type": "link",
+    "title": "ACMA:GAME アクマゲーム ワールドエンド",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/513523_4moDu.jpg",
+    "releaseDate": "2024-10-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年10月25日 / 間宮祥太朗",
+    "link": "https://bgm.tv/subject/513523"
+  },
+  {
+    "id": "506020",
+    "type": "link",
+    "title": "act Ⅷ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/9d/506020_Cu4CZ.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024.5.31",
+    "link": "https://bgm.tv/subject/506020"
+  },
+  {
+    "id": "622401",
+    "type": "link",
+    "title": "Action Stage「エリオスライジングヒーローズ」 -THE WEST-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/30/622401_aEs61.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024-03-07 / 吉谷晃太朗 / 米山和仁",
+    "link": "https://bgm.tv/subject/622401"
+  },
+  {
+    "id": "501597",
+    "type": "link",
+    "title": "Afterglow「After School Event 夕景の一頁」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/aa/501597_9zA3T.jpg",
+    "releaseDate": "2024-04-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024年4月6日 / Afterglow",
+    "link": "https://bgm.tv/subject/501597"
+  },
+  {
+    "id": "138501",
+    "type": "tmdb",
+    "title": "Agatha All Along",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jVFkwVw24n9d5d89G60LcV3onEA.jpg",
+    "releaseDate": "2024-09-18",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "恶名昭彰的阿加莎·哈克尼斯在一名可疑的哥特少年帮助下摆脱扭曲魔咒，却发现自己失去了魔法。少年恳求她带他前往传奇的女巫之路，激起了她的兴趣。那是一连串魔法考验，如果通过，女巫就能获得她们失去的东西。于是，阿加莎与这名神秘少年召集一群乌合之众组成女巫团，踏上女巫之路…",
+    "link": null,
+    "tmdb_id": "138501",
+    "tmdb_site_id": "tv/138501",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "565386",
+    "type": "link",
+    "title": "Albemuth 1st ONE-MAN LIVE「罪と楽園」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/f2/565386_177X5.jpg",
+    "releaseDate": "2024-04-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年4月9日 / Albemuth (明透 / 存流)",
+    "link": "https://bgm.tv/subject/565386"
+  },
+  {
+    "id": "485923",
+    "type": "link",
+    "title": "异形：夺命舰",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/d4/485923_36hHe.jpg",
+    "releaseDate": "2024-08-16",
+    "mediaType": "real",
+    "rating": "6.6",
+    "description": "1话 /  2024年8月16日 / Fede Álvarez / Fede Álvarez、Rodo Sayagues / Cailee Spaeny、David Jonsson",
+    "link": "https://bgm.tv/subject/485923"
+  },
+  {
+    "id": "515991",
+    "type": "link",
+    "title": "万物生灵 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/f3/515991_U0GGE.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2024-09-19",
+    "link": "https://bgm.tv/subject/515991"
+  },
+  {
+    "id": "530427",
+    "type": "link",
+    "title": "万物生灵：2024圣诞特别集",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/e3/530427_hchlQ.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024-12-23",
+    "link": "https://bgm.tv/subject/530427"
+  },
+  {
+    "id": "578754",
+    "type": "link",
+    "title": "ANIME JAPAN FES 2024 “大阪夏の陣”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/578754_ELQss.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024-08-18 / ささきいさお、堀江美都子、遠藤正明、山形ユキオ、Project DMM、河内淳一",
+    "link": "https://bgm.tv/subject/578754"
+  },
+  {
+    "id": "564098",
+    "type": "link",
+    "title": "Animelo Summer Live 2024 -Stargazer-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/34/564098_8sllW.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2024-08-30 / i☆Ris、Ave Mujica、ASCA、伊東健人、Aimer、オーイシマサヨシ（大石昌良）、大橋彩香、きただにひろし、楠木ともり、She is Legend、でんぱ組.inc、トゲナシトゲアリ、FIELD OF VIEW、Who-ya Extended、MindaRyn、Machico、宮田俊哉、UniteUp!／愛美、伊藤美来、内田真礼、岡咲美保、小倉唯、カノエラナ、GRANRODEO、鈴木このみ、芹澤優 feat. MOTSU、太陽と踊れ月夜に唄え、土岐隼一、TrySail、蓮ノ空女学院スクールアイドルクラブ、早見沙織、早見沙織 feat. HoneyWorks、平野綾、フラガリアメモリーズ、MyGO!!!!!、MASOCHISTIC ONO BAND／アイドルマスター シャイニーカラーズ（イルミネーションスターズ、アルストロメリア、ノクチル）、蒼井翔太、亜咲花、内田雄馬、北宇治カルテット、ZAQ、邪神★ガールズ 生贄SUMMER、鈴木愛奈、茅原実里、東山奈央、TRUE（唐沢美帆）、南條愛乃、花澤香菜、B小町、fripSide、ブレイバーン(CV.鈴村健一)、イサミ・アオ(CV.鈴木崚汰)&ルイス・スミス(CV.阿座上洋平)、ReoNa",
+    "link": "https://bgm.tv/subject/564098"
+  },
+  {
+    "id": "538930",
+    "type": "link",
+    "title": "Anniversary radio WIXOSS",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/81/538930_VkFvE.jpg",
+    "releaseDate": "2024-04-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年4月7日 / 加隈亜衣、久野美咲",
+    "link": "https://bgm.tv/subject/538930"
+  },
+  {
+    "id": "271144",
+    "type": "tmdb",
+    "title": "亚洲",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cMhN8VMFQ7zfJMOGHA8Ge0W2SVc.jpg",
+    "releaseDate": "2024-11-03",
+    "mediaType": "tv",
+    "rating": "8.9",
+    "description": "《亚洲》是BBC首部聚焦亚洲大陆的大型野生动物系列纪录片，由大卫·爱登堡爵士担纲解说。包括总制片人Roger Webb和系列制片人Matthew Wright在内的拍摄团队历时近四年，潜入湖泊、踏入丛林、穿越沙漠，并到访世界上最大的城市，捕捉到了充满戏剧性的、前所未见的野生动物行为。在整个旅程中，该系列纪录片探讨了关于保护亚洲大陆所面临的挑战，同时研究了未来保护亚洲野生动物和这片美丽与神奇栖息地的潜在解决方案。该纪录片由BBC Studios自然历史部制作，BBC America、法国电视台和德国电视二台联合出品。",
+    "link": null,
+    "tmdb_id": "271144",
+    "tmdb_site_id": "tv/271144",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "532684",
+    "type": "link",
+    "title": "子不雨双姝奇探 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/14/532684_6PVaf.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2024-11-08",
+    "link": "https://bgm.tv/subject/532684"
+  },
+  {
+    "id": "82452",
+    "type": "tmdb",
+    "title": "降世神通：最后的气宗",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6yRBwqaKcFlp9TBIuZgLvJip8hA.jpg",
+    "releaseDate": "2024-02-22",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "人称“神通王”的小男孩必须掌握四种元素之力，以拯救战火纷飞的世界，击败一心阻碍他的冷酷敌人。",
+    "link": null,
+    "tmdb_id": "82452",
+    "tmdb_site_id": "tv/82452",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "477505",
+    "type": "link",
+    "title": "Ave Mujica 1st LIVE「Perdere Omnia」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0d/3c/477505_0zX3A.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "6.8",
+    "description": "1话 /  2024-01-27 / Ave Mujica",
+    "link": "https://bgm.tv/subject/477505"
+  }
+]

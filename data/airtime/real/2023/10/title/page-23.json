@@ -1,0 +1,329 @@
+[
+  {
+    "id": "213442",
+    "type": "tmdb",
+    "title": "布莱泽奥特曼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rQqMuz69A7WPhMrqlEdQjFXW41u.jpg",
+    "releaseDate": "2023-07-08",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "在全球怪物灾难爆发后，世界各国于1966年成立了地球防卫队（GGF），以应对来自地球内外的怪物和外星生命的袭击。\n\n如今，人类对自然界的破坏和全球变暖现象日益严重。 一天晚上，宇宙甲壳怪物巴赞甲出现了。地球防卫队的清理行动遇到了困难，比留间弦人领导的特殊部队陷入了绝望的境地。 这时，一个神秘的巨人带着耀眼的光芒降临了。 这是一个身份不明的大型外星人，代号为“奥特曼”，几十年来在宇航员中一直有着他的传言。\n\n后来，弦人被传唤到指挥中心，突然接到成为特殊怪兽对应分遣队（SKaRD）指挥官的任务。SKaRD是一支秘密组织的特殊怪物反应分队。他指挥的这支特殊部队，以驾驶巨型怪物形状的机器人阿斯加隆为主来对抗怪物灾难。 同时，他还奉命调查在巴赞甲之战中出现的奥特曼是否为必须消灭的敌人。\n\n“我去解决”。\n\n现在，在布莱泽奥特曼之光的笼罩下，弦人队长将与新组织的SKaRD的特殊成员一起，投入到与怪兽的新战斗中，他的心中深藏着坚实的勇气和坚定的正义！",
+    "link": null,
+    "tmdb_id": "213442",
+    "tmdb_site_id": "tv/213442",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "208677",
+    "type": "tmdb",
+    "title": "雷古洛思奥特曼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1XGW7BNMFEbwcnMtKf2P1wvnNGA.jpg",
+    "releaseDate": "2023-05-23",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "格斗特化，狮子座雷格洛斯星出身‌",
+    "link": null,
+    "tmdb_id": "208677",
+    "tmdb_site_id": "tv/208677",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "461121",
+    "type": "link",
+    "title": "雷古洛思奥特曼 广播剧",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/d9/461121_jwBzg.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2023-06",
+    "link": "https://bgm.tv/subject/461121"
+  },
+  {
+    "id": "548562",
+    "type": "link",
+    "title": "奥特六兄弟 THE LIVE 奥特曼篇 -娇小的勇气与纽带的力量-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9d/04/548562_H0Gj6.jpg",
+    "releaseDate": "2023-03-04",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年3月4日",
+    "link": "https://bgm.tv/subject/548562"
+  },
+  {
+    "id": "419882",
+    "type": "link",
+    "title": "爱很自私",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/4f/419882_Auza1.jpg",
+    "releaseDate": "2023-02-10",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023年2月10日 / 鈴木亮平、宮沢氷魚、阿川佐和子、ドリアン・ロロブリジーダ",
+    "link": "https://bgm.tv/subject/419882"
+  },
+  {
+    "id": "421430",
+    "type": "link",
+    "title": "天使飞行：国际灵柩送还士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/e5/421430_eQ2IQ.jpg",
+    "releaseDate": "2023-03-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2023年3月17日 / 米倉涼子",
+    "link": "https://bgm.tv/subject/421430"
+  },
+  {
+    "id": "447519",
+    "type": "link",
+    "title": "オジさん、劇団始めました。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8c/01/447519_0ce13.jpg",
+    "releaseDate": "2023-08-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023年8月18日 / 渡辺いっけい",
+    "link": "https://bgm.tv/subject/447519"
+  },
+  {
+    "id": "224539",
+    "type": "tmdb",
+    "title": "オダイバ！！超次元音楽祭－ヨコハマからハッピーバレンタインフェス2023",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/cd/550799_RkUm8.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2话 /  2023-02-11 / Day1：angela、入野自由、大橋彩香、畠中祐、宮野真守、ミュージカル『刀剣乱舞』 刀剣男士、R3BIRTH、GuilDrops（オープニングアクト）；Day2：藍井エイル、内田真礼、ウマ娘 プリティーダービー、ClariS、GRANRODEO、三森すずこ、Morfonica、山下大輝、Liella!",
+    "link": null,
+    "tmdb_id": "224539",
+    "tmdb_site_id": "tv/224539",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "230734",
+    "type": "tmdb",
+    "title": "我早就死啦！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nx6jZuSdZGWZKTGCZ156RDIoj1W.jpg",
+    "releaseDate": "2023-09-01",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "无为地度过人生的不受欢迎的牛郎·樱田和彦（柳乐优弥 饰）在意外事故中丧命，他与和自己一样无法成佛的幽灵们在一个屋檐下生活的过程中重新审视人生并找回人性的样子。",
+    "link": null,
+    "tmdb_id": "230734",
+    "tmdb_site_id": "tv/230734",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "424691",
+    "type": "link",
+    "title": "オレンジ・ランプ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c0/8a/424691_FQhEa.jpg",
+    "releaseDate": "2023-06-30",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年6月30日 / 貫地谷しほり、和田正人",
+    "link": "https://bgm.tv/subject/424691"
+  },
+  {
+    "id": "227820",
+    "type": "tmdb",
+    "title": "摄影，新手也可以吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bvnenOXitWExIjiatIeFYt2WDXO.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "\"可以开始拍照了吗？\"讲述了一位无法喜欢上自己的女高中生池田美都，在邻居姐姐的邀请下开始接触摄影，并由此逐渐发生改变的故事。",
+    "link": null,
+    "tmdb_id": "227820",
+    "tmdb_site_id": "tv/227820",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "629613",
+    "type": "link",
+    "title": "カンザキイオリ 2nd ONE-MAN LIVE「別れなど、少年少女に恐れなし」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/0b/629613_3Z8PC.jpg",
+    "releaseDate": "2023-05-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023年5月1日 / カンザキイオリ",
+    "link": "https://bgm.tv/subject/629613"
+  },
+  {
+    "id": "221630",
+    "type": "tmdb",
+    "title": "过激恋黏着兽",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6t2vMwaDn7yRjBqoPEZewbzJuvn.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "过激恋指的是对我们平时接触不到的二次元、三次元偶像团体的疯狂迷恋。\n\n本剧讲述的正是因对偶像暴走般的爱慕之情以及冲动的恋爱而斗争的故事。剧中以疯狂迷恋人气视频主播男团COSMIC成员的女粉雏姫和琴乃为主角，围绕由两部分构成的过激型恋爱斗争而展开。",
+    "link": null,
+    "tmdb_id": "221630",
+    "tmdb_site_id": "tv/221630",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "209350",
+    "type": "tmdb",
+    "title": "加拉巴哥",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ECO6AtmZvfzjJkyLzLYsF2rSzv.jpg",
+    "releaseDate": "2023-02-06",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "该剧讲述搜查一课·继续搜查班的刑警·田川信一，受鉴识科木幡佑子的委托，调查了身份不明的死者名单。田川看穿名单“903”中的男子被伪装成一氧化碳中毒自杀，而实际上他是被杀害的事实。田川和木幡精心调查了该男子的死亡，查明该男子是冲绳县出身的派遣劳动者仲野定文。另一方面，特殊班搜查系的鸟居一边关注着田川的行动，一边在背后与人才派遣大公司霍普内斯控股的森社长、汽车制造商希拉加汽车公司的松崎社长结成了紧密的关系。然后田川知道了生前仲野注册了Hopnes系列的人才派遣公司，在希拉加汽车公司的汽车工厂工作。仲野似乎曾在网络上告发过什么，所以事实的真相究竟是什么呢？",
+    "link": null,
+    "tmdb_id": "209350",
+    "tmdb_site_id": "tv/209350",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "501608",
+    "type": "link",
+    "title": "ガルパ6周年記念ファンフェスタ in 秋葉原",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/e4/501608_6TUAQ.jpg",
+    "releaseDate": "2023-03-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2023年3月18日 / 相羽あいな（湊友希那 役）、進藤あまね（倉田ましろ 役）、木谷高明（バンドリ！プロジェクト製作総指揮）、森川修一（株式会社Craft Egg 代表取締役社長）、戸田雄己（スニーカーエイジ 実行委員長）",
+    "link": "https://bgm.tv/subject/501608"
+  },
+  {
+    "id": "238554",
+    "type": "tmdb",
+    "title": "キス×kiss×キス～LOVE ⅱ SHOWER〜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/Vphva3WYirZe4d0MAGAQWp5ec8.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "8话 /  2023-11-02 / 森田亮、畑山創 / 内平未央 / 赤羽流河、荒井啓志、上野凱、宇佐卓真、桜井鉄也、下京慶子、白石糸、武本悠佑、谷本琳音、仲野温、南雲奨馬、那須泰斗、七瀬公、新田ミオ、花澤桃花、古屋呂敏、岬あかり、矢崎希菜、結木千尋、米村知希",
+    "link": null,
+    "tmdb_id": "238554",
+    "tmdb_site_id": "tv/238554",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "431199",
+    "type": "link",
+    "title": "祈怜之歌",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/d6/431199_cMkJe.jpg",
+    "releaseDate": "2023-10-13",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2023年10月13日 / 岩井俊二 / 岩井俊二 / アイナ・ジ・エンド（BiSH）",
+    "link": "https://bgm.tv/subject/431199"
+  },
+  {
+    "id": "445779",
+    "type": "link",
+    "title": "King酱！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/28/445779_wow4w.jpg",
+    "releaseDate": "2023-04-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "15话 /  2023年4月16日",
+    "link": "https://bgm.tv/subject/445779"
+  },
+  {
+    "id": "411018",
+    "type": "link",
+    "title": "王者天下 命运之炎",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/aa/411018_I6h88.jpg",
+    "releaseDate": "2023-07-28",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2023年7月28日 / 佐藤信介 / 黒岩勉、原泰久 / 山﨑賢人",
+    "link": "https://bgm.tv/subject/411018"
+  },
+  {
+    "id": "214053",
+    "type": "tmdb",
+    "title": "LIFE2 给予者接受者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sdQm9crO40nman7YXNa74j1DFbp.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "刑警仓泽树（中谷美纪）曾是一名小学教师，12年前她的女儿被小学六年级学生贵志琉音（菊池风磨）残忍杀害。这起猎奇杀人案因凶手年仅12岁震惊全国，仓泽尝过受害者家属的绝望后，希望尽可能多帮助和自己一样痛苦的人，决心成为刑警，并在强烈信念驱使下为解决案件四处奔走。  12年后，女儿忌日将近之时，仓泽得知琉音已经离开医疗少管所，并“彻底改过自新”，她对此持怀疑态度。一天，她收到了一张写着“我将再次夺走你重要的东西”的纸条，震惊全国的新案件就此开端——。",
+    "link": null,
+    "tmdb_id": "214053",
+    "tmdb_site_id": "tv/214053",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "440368",
+    "type": "link",
+    "title": "ギフテッド Season1",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ba/9a/440368_F7Lz8.jpg",
+    "releaseDate": "2023-08-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023年8月12日 / 三浦駿斗、ひかわかよ、木江恭 / 増田貴久（NEWS）、浮所飛貴（美 少年 / ジャニーズJr）、泉里香、小手伸也",
+    "link": "https://bgm.tv/subject/440368"
+  },
+  {
+    "id": "440369",
+    "type": "link",
+    "title": "ギフテッド Season2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/67/440369_v7OoM.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023-10-14 / 三浦駿斗、ひかわかよ、木江恭 / 増田貴久、浮所飛貴（美 少年 / ジャニーズJr）",
+    "link": "https://bgm.tv/subject/440369"
+  },
+  {
+    "id": "436686",
+    "type": "link",
+    "title": "极狐Extra 假面骑士太狸meets假面骑士Shinobi",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5a/436686_m6140.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.7",
+    "description": "1话 /  2023-06-18",
+    "link": "https://bgm.tv/subject/436686"
+  },
+  {
+    "id": "459179",
+    "type": "link",
+    "title": "假面骑士极狐紧急特别节目 大清仓！欲望大赛特别篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/29/459179_mtIzT.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023-10-08",
+    "link": "https://bgm.tv/subject/459179"
+  }
+]

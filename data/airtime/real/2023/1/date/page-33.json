@@ -1,0 +1,346 @@
+[
+  {
+    "id": "229778",
+    "type": "tmdb",
+    "title": "咒中人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/41iwHLZD672m9bjRRv8qDcO8Sq5.jpg",
+    "releaseDate": "2023-07-15",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "4话 /  2023年7月15日 / วิน เมธวิน โอภาสเอี่ยมขจร、 พรีม ชนิกานต์ ตังกบดี、 พิพลอย กัญญรัตน์ เรืองรุ่ง、 พริกขิง สุรีย์ญะเรศ ยะคะเรศ、 เอิร์น ปรียาภัทย์ หล่อสุวรรณศิริ",
+    "link": null,
+    "tmdb_id": "229778",
+    "tmdb_site_id": "tv/229778",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TH"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "432724",
+    "type": "link",
+    "title": "基地 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/d1/432724_OftTm.jpg",
+    "releaseDate": "2023-07-14",
+    "mediaType": "real",
+    "rating": "6.1",
+    "description": "10话 /  2023年7月14日 / Jane Espenson、David S. Goyer / Holt McCallany、Rachel House、Mikael Persbrandt",
+    "link": "https://bgm.tv/subject/432724"
+  },
+  {
+    "id": "240125",
+    "type": "tmdb",
+    "title": "一兆$游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/97/425892_cngZA.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "10话 /  2023-07-14 / 村尾嘉昭、竹村謙太郎、田中健太 / 羽原大介 / 目黒蓮",
+    "link": null,
+    "tmdb_id": "240125",
+    "tmdb_site_id": "tv/240125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "443295",
+    "type": "link",
+    "title": "霹雳天机",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/2b/443295_3zR8z.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "25话 /  2023-07-14",
+    "link": "https://bgm.tv/subject/443295"
+  },
+  {
+    "id": "369410",
+    "type": "link",
+    "title": "我变美的那个夏天 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/24/369410_8YIA3.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023-07-14",
+    "link": "https://bgm.tv/subject/369410"
+  },
+  {
+    "id": "412786",
+    "type": "link",
+    "title": "アイスクリームフィーバー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/32/45/412786_NtPdW.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023-07-14 / 千原徹也 / 清水匡 / 吉岡里帆",
+    "link": "https://bgm.tv/subject/412786"
+  },
+  {
+    "id": "486758",
+    "type": "link",
+    "title": "协议结婚，重在参与",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/ff/486758_YsIjV.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2023-07-14 / 史泽鲲、路知行",
+    "link": "https://bgm.tv/subject/486758"
+  },
+  {
+    "id": "575347",
+    "type": "link",
+    "title": "超人力霸王舞台劇In Taiwan 2023",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/3e/575347_4g530.jpg",
+    "releaseDate": "2023-07-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年7月14日 / 足木淳一郎",
+    "link": "https://bgm.tv/subject/575347"
+  },
+  {
+    "id": "228494",
+    "type": "tmdb",
+    "title": "隼消防团",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kv48KZw18ibkdAOejWHRFG3gyIv.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "故事开始于处于低潮期的悬疑小说家三马太郎（中村伦也）搬到了亡父的老家—山中的隼鸟地区。太郎本以为远离了大城市的压力，自己将过上平静的生活，没想到却在加入了当地的消防团后，被卷入了一场连续纵火风波，还遭遇了居民离奇死亡等一系列诡异事件。太郎开始追查真相，却发现了村落背后巨大的阴谋！",
+    "link": null,
+    "tmdb_id": "228494",
+    "tmdb_site_id": "tv/228494",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "445577",
+    "type": "link",
+    "title": "吸血鬼生活 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/51/445577_g0z08.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2023-07-13",
+    "link": "https://bgm.tv/subject/445577"
+  },
+  {
+    "id": "210268",
+    "type": "tmdb",
+    "title": "火烧御手洗家",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yW8kxZO6QgZkk8Tm32BrVDPKDgv.jpg",
+    "releaseDate": "2023-07-13",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "富裕的御手洗家世代经营医院，不料某天厄运骤至，家中宅邸惨遭恶火吞噬。",
+    "link": null,
+    "tmdb_id": "210268",
+    "tmdb_site_id": "tv/210268",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "443180",
+    "type": "link",
+    "title": "碟中谍7：致命清算（上）",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/9b/443180_gcF9F.jpg",
+    "releaseDate": "2023-07-12",
+    "mediaType": "real",
+    "rating": "6.6",
+    "description": "1话 /  2023年7月12日、2023年7月14日(中国大陆) / Christopher McQuarrie / Christopher McQuarrie、Erik Jendresen / Tom Cruise、Hayley Atwell",
+    "link": "https://bgm.tv/subject/443180"
+  },
+  {
+    "id": "134679",
+    "type": "tmdb",
+    "title": "安乐传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2MtqbwJUKO7UyHiPYcIkwVUEVGJ.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "相传韩帝两家共创大靖，然而十年前，帝家因谋逆获罪，仅余下一名孤女被囚玳山。十年后，一心救下帝家孤女的太子韩烨，在前往帝家故里靖南剿灭海贼时，竟遇上一个口口声声非他不嫁的娇俏水匪。女水匪自称任安乐，她拿出三万水师，登临京师求聘太子，却又在死缠烂打韩烨的过程中，展现出了过人的才智。只有暗中协助任安乐的刑部尚书洛铭西知道，她就是帝家孤女帝梓元，此来正是为了家族翻案。任安乐连破科举舞弊案、江南水灾案，还与镇边公主安宁打得火热。而韩烨也因两人家国立场的一致，对她心生好感，但此时，任安乐的替身，假帝梓元也回到京城，奉旨参选太子妃，本就阴谋遍布的宫廷，因此陷入了更大的旋涡之中。",
+    "link": null,
+    "tmdb_id": "134679",
+    "tmdb_site_id": "tv/134679",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "230468",
+    "type": "tmdb",
+    "title": "风月变",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tKKALGk3CiBOkbq6x0qpQyThFG3.jpg",
+    "releaseDate": "2023-07-12",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "花陵城指挥使凌长风与妻子唐千月是一对新婚三年的恩爱夫妻。除夕夜晚，两人本约好一起度过，城内却突发“魂化”事件，待凌长风平复归来，唐千月已经晕倒在血泊中，胸口上还绽开了一朵鬼魅妖艳的花......唐千月身上到底隐藏了什么秘密，魂化病症到底为何人计谋，被怀疑所打乱的深情又该如何前行？花陵城新故事由此开启......",
+    "link": null,
+    "tmdb_id": "230468",
+    "tmdb_site_id": "tv/230468",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "228920",
+    "type": "tmdb",
+    "title": "往这边看 向井君",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7ArD2c4RpCL5ITzkm8AnKhU1aTY.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "故事的主角向井悟（赤楚卫二饰）是一名33岁的公司职员。和母亲公子（财前直见饰）、妹妹麻美（藤原樱饰）以及经营咖喱餐吧的妹夫元气（冈山天音饰）一起在老家生活。  向井性格好，给人印象也很好，工作也十分出色，然而与前女友美和子（生田绘梨花饰）分手后始终难以忘怀，回过头来才发现自己已经十年没谈恋爱了。  某一天，向井在公司遇到了中谷真由（田边桃子饰）…“十年过去了，我现在工资也高了，业余时间也多了，这次我总能试着恋爱了吧……”恋爱咨询对象坂井户洸稀（波瑠饰演）等人也被卷入其中，爱情白痴们的恋爱故事于今夏正式开启！",
+    "link": null,
+    "tmdb_id": "228920",
+    "tmdb_site_id": "tv/228920",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "67048",
+    "type": "tmdb",
+    "title": "元气囝仔",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/42/429202_89985.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "11话 /  2023-07-12 / 河野圭太、植田泰史、木下高男、北坊信一 / 阿相クミコ、金沢達也 / 杉野遥亮",
+    "link": null,
+    "tmdb_id": "67048",
+    "tmdb_site_id": "tv/67048",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "228919",
+    "type": "tmdb",
+    "title": "我们假结婚吧",
+    "posterPath": "https://image.tmdb.org/t/p/w500/x3uAHXTKgZ3ROytLUkI4H9sLvof.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "始于欺骗的恋爱喜剧！  极受女性欢迎的优秀建筑师夏目匠（菊池风磨饰）向时隔多年重逢的发小千堂八重（长滨祢留）发出的委托，居然是时限半年的“假结婚”。而所谓的“假结婚”居然是重新开始的初恋？  虽然有些笨拙，匠开始了追求真爱的“假结婚”生活。",
+    "link": null,
+    "tmdb_id": "228919",
+    "tmdb_site_id": "tv/228919",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "508620",
+    "type": "link",
+    "title": "ヴァンガードRadio+Dress＋",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/33/0b/508620_U4cD7.jpg",
+    "releaseDate": "2023-07-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2023年7月11日 / 蒼井翔太（近導ユウユ役）、小笠原仁（狐芝ライカ役）",
+    "link": "https://bgm.tv/subject/508620"
+  },
+  {
+    "id": "229301",
+    "type": "tmdb",
+    "title": "18／40~两个人的梦想与恋爱~",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cMAua4LRrhiwBDxNGixMof4k6KN.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "梦想成为美术馆国际策展人的18岁未婚怀孕「大人初心者」仲川有栖，与经营着一家商业艺术公司、即将步入40岁的「大人未满」女强人成濑瞳子偶然相遇。年龄相差一倍以上、生活方式截然不同的人生前后辈，因缘际会萌生相互扶持的姐妹情谊，两人又将如何携手面对人生突如其来的变化和各自跌跌撞撞的爱情呢？",
+    "link": null,
+    "tmdb_id": "229301",
+    "tmdb_site_id": "tv/229301",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "520395",
+    "type": "link",
+    "title": "好きめがラジオ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3d/ad/520395_sY3Bw.jpg",
+    "releaseDate": "2023-07-10",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2023年07月10日 / 伊藤昌弘、若山詩音",
+    "link": "https://bgm.tv/subject/520395"
+  },
+  {
+    "id": "227119",
+    "type": "tmdb",
+    "title": "盛夏的灰姑娘",
+    "posterPath": "https://image.tmdb.org/t/p/w500/A1Sm0vhfaqT01YpxCHeo1Jc5P34.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "苍井夏海（森七菜）是个在海边小镇长大的开朗女孩，她一边帮父亲经营着小餐馆，一边在旅游旺季做浆板教练，既主外又主内，是家里的主心骨。一日她给三个来自东京的精英男士上课，却不想在次日被闺蜜叫去的聚会上又遇见了那三人。其中东大毕业的建筑师水岛健人（间宫祥太朗）对夏海青眼有加。一次次不期而遇，让灰姑娘一样的小镇女孩，渐渐走进了王子的心里……",
+    "link": null,
+    "tmdb_id": "227119",
+    "tmdb_site_id": "tv/227119",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "369401",
+    "type": "link",
+    "title": "SYNDUALITY Noir ロックタウン放送局",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/94/ea/369401_aMMoi.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "32话 /  2023-07-10 / 大塚剛央、稲垣好",
+    "link": "https://bgm.tv/subject/369401"
+  },
+  {
+    "id": "230104",
+    "type": "tmdb",
+    "title": "曾少年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jXYMsvezcJ8oz3gnPKqCBwXxAof.jpg",
+    "releaseDate": "2023-07-10",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "21世纪初，少女谢乔考入了暗恋对象何筱舟所在的北清大，她的青梅竹马秦川留学在外，一直对她心有所属，却将这份心意隐藏在与她欢喜冤家般的斗嘴中。随着室友千喜与何筱舟走到一起，谢乔的这段暗恋也无疾而终。发小秦川为了她回国创业，鼓励谢乔寻找自己的人生价值，最终两人走到一起。经过时间的洗礼，这群无忧无虑的少年最终还是踏入社会，历经千帆。尽管他们每个人都走上了不同的人生路，但年少时的勇气与拼搏精神依旧引领着他们不断向前。",
+    "link": null,
+    "tmdb_id": "230104",
+    "tmdb_site_id": "tv/230104",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "486756",
+    "type": "link",
+    "title": "黑天 第一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/f0/486756_FFz2F.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2023-07-10 / 郭浩然、胡正健",
+    "link": "https://bgm.tv/subject/486756"
+  }
+]

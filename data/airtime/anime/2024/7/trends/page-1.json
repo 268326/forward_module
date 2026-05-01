@@ -10,11 +10,13 @@
     "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
     "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "72517/season/3",
+    "id": "72517",
     "type": "tmdb",
     "title": "欢迎来到实力至上主义的教室 第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/4d/373266_83rHR.jpg",
@@ -23,7 +25,9 @@
     "rating": "5.9",
     "description": "13话 /  2024年1月3日 / 仁昌寺義人 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 森田和明",
     "link": null,
-    "tmdb_id": "72517/season/3",
+    "tmdb_id": "72517",
+    "tmdb_site_id": "tv/72517/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -38,6 +42,8 @@
     "description": "12话 /  2024年7月13日 / 北村翔太郎 / 雨森たきび（小学館「ガガガ文庫」刊） / 川上哲也",
     "link": null,
     "tmdb_id": "241535",
+    "tmdb_site_id": "tv/241535",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -52,6 +58,8 @@
     "description": "12话 /  2024年1月4日 / 久慈悟郎 / タカヒロ・竹村洋平『魔都精兵のスレイブ』（少年ジャンプ＋連載中／ジャンプコミックス刊） / 吉井弘幸",
     "link": null,
     "tmdb_id": "139060",
+    "tmdb_site_id": "tv/139060",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -66,6 +74,8 @@
     "description": "12话 /  2024年1月8日 / 金森陽子 / 春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載） / 河野敏弥、古橋聡",
     "link": null,
     "tmdb_id": "229443",
+    "tmdb_site_id": "tv/229443",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -80,6 +90,8 @@
     "description": "13话 /  2024年7月3日 / 平牧大輔 / 赤坂アカ×横槍メンゴ（集英社「週刊ヤングジャンプ」連載） / 平山寛菜",
     "link": null,
     "tmdb_id": "203737",
+    "tmdb_site_id": "tv/203737",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -94,6 +106,8 @@
     "description": "12话 /  2024年7月7日 / 吉原達矢 / 大森藤ノ；漫画：青井聖 / 小野早香",
     "link": null,
     "tmdb_id": "245842",
+    "tmdb_site_id": "tv/245842",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -108,11 +122,13 @@
     "description": "24话 /  2024年1月4日 / 宮島善博 / 九井諒子（「ダンジョン飯」／KADOKAWA刊） / 竹田直樹",
     "link": null,
     "tmdb_id": "207784",
+    "tmdb_site_id": "tv/207784",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94664/season/2",
+    "id": "94664",
     "type": "tmdb",
     "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
@@ -121,7 +137,9 @@
     "rating": "7.6",
     "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
     "link": null,
-    "tmdb_id": "94664/season/2",
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -136,6 +154,8 @@
     "description": "13话 /  2024年1月3日 / 鈴木理人・大槻敦史 / 小野中彰大（「魔法少⼥にあこがれて」／竹書房刊） / 大滝那佳",
     "link": null,
     "tmdb_id": "236338",
+    "tmdb_site_id": "tv/236338",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -150,11 +170,13 @@
     "description": "13话 /  2024年4月5日 / 東映アニメーション / 手島nari。",
     "link": null,
     "tmdb_id": "241928",
+    "tmdb_site_id": "tv/241928",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "82684/season/3",
+    "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/f4/407573_993Vy.jpg",
@@ -163,12 +185,14 @@
     "rating": "5.7",
     "description": "24话 /  2024年4月5日 / 中山敦史 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
     "link": null,
-    "tmdb_id": "82684/season/3",
+    "tmdb_id": "82684",
+    "tmdb_site_id": "tv/82684/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65844/season/3",
+    "id": "65844",
     "type": "tmdb",
     "title": "为美好的世界献上祝福！第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4c/8a/342667_0RfU8.jpg",
@@ -177,7 +201,9 @@
     "rating": "7.7",
     "description": "11话 /  2024年4月10日 / 安部祐二郎 / 暁なつめ（株式会社KADOKAWA 角川スニーカー文庫刊） / 菊田幸一",
     "link": null,
-    "tmdb_id": "65844/season/3",
+    "tmdb_id": "65844",
+    "tmdb_site_id": "tv/65844/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -192,6 +218,8 @@
     "description": "13话 /  2024年1月6日 / 赤城博昭 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
     "link": null,
     "tmdb_id": "207250",
+    "tmdb_site_id": "tv/207250",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -206,6 +234,8 @@
     "description": "12话 /  2024年7月4日 / 上野壮大 / 三河ごーすと（MF文庫J「義妹生活」/KADOKAWA刊） / 仁井学",
     "link": null,
     "tmdb_id": "206629",
+    "tmdb_site_id": "tv/206629",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -220,6 +250,8 @@
     "description": "1话 /  2024年6月28日 / 押山清高 / 藤本タツキ「ルックバック」（集英社ジャンプコミックス刊） / 押山清高",
     "link": null,
     "tmdb_id": "1244492",
+    "tmdb_site_id": "movie/1244492",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -234,6 +266,8 @@
     "description": "12话 /  2024年10月3日 / 山代風我 / 龍幸伸（集英社「少年ジャンプ＋」連載） / 恩田尚之",
     "link": null,
     "tmdb_id": "240411",
+    "tmdb_site_id": "tv/240411",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -248,6 +282,8 @@
     "description": "12话 /  2024年1月6日 / 中重俊祐 / 장성락（REDICE STUDIO）、추공（Chugong）、h-goon（D＆C MEDIA 発行） / 須藤智子",
     "link": null,
     "tmdb_id": "127532",
+    "tmdb_site_id": "tv/127532",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -262,11 +298,13 @@
     "description": "12话 /  2024年7月3日 / 伊藤良太 / 燦々SUN（株式会社KADOKAWA 角川スニーカー文庫刊） / 室田雄平",
     "link": null,
     "tmdb_id": "235758",
+    "tmdb_site_id": "tv/235758",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "85937/season/5",
+    "id": "85937",
     "type": "tmdb",
     "title": "鬼灭之刃 柱训练篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_6l6VR.jpg",
@@ -275,12 +313,14 @@
     "rating": "6.7",
     "description": "8话 /  2024年5月12日 / 外崎春雄 / 吾峠呼世晴（集英社ジャンプ コミックス刊） / 松島晃",
     "link": null,
-    "tmdb_id": "85937/season/5",
+    "tmdb_id": "85937",
+    "tmdb_site_id": "tv/85937/season/5",
+    "tmdb_season_number": 5,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "46195/season/5",
+    "id": "46195",
     "type": "tmdb",
     "title": "物语系列 外传季&怪物季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/c1/475354_QyO6r.jpg",
@@ -289,12 +329,14 @@
     "rating": "8.2",
     "description": "15话 /  2024年7月6日 / 吉澤翠 / 西尾維新『愚物語』『撫物語』『業物語』『忍物語』（講談社BOX） / 渡辺明夫",
     "link": null,
-    "tmdb_id": "46195/season/5",
+    "tmdb_id": "46195",
+    "tmdb_site_id": "tv/46195/season/5",
+    "tmdb_season_number": 5,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "76075/season/3",
+    "id": "76075",
     "type": "tmdb",
     "title": "摇曳露营△ 第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/1a/405785_u9it9.jpg",
@@ -303,20 +345,29 @@
     "rating": "6.9",
     "description": "12话 /  2024年4月4日 / 登坂晋 / あfろ（芳文社「COMIC FUZ」掲載） / 橋本尚典",
     "link": null,
-    "tmdb_id": "76075/season/3",
+    "tmdb_id": "76075",
+    "tmdb_site_id": "tv/76075/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "345825",
-    "type": "link",
+    "id": "259537",
+    "type": "tmdb",
     "title": "剑来",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/50/345825_CP6Fc.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/44LJUcedKZ7fsFeWeOvtLIJzEU.jpg",
     "releaseDate": "2024-08-15",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "26话 /  2024年8月15日 / 烽火戏诸侯",
-    "link": "https://bgm.tv/subject/345825"
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "大千世界，无奇不有。 骊珠洞天中本该有大气运的贫寒少年，因为本命瓷碎裂的缘故，使得机缘临身却难以捉住。基于此，众多大佬纷纷以少年为焦点进行布局，使得少年身边的朋友获得大机缘，而少年却置身风口浪尖之上…",
+    "link": null,
+    "tmdb_id": "259537",
+    "tmdb_site_id": "tv/259537",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "216467",
@@ -329,6 +380,8 @@
     "description": "27话 /  2024年4月7日 / 湊未來 / 権平ひつじ（集英社「週刊少年ジャンプ」連載） / 髙橋瑞紀",
     "link": null,
     "tmdb_id": "216467",
+    "tmdb_site_id": "tv/216467",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

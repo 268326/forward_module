@@ -10,11 +10,13 @@
     "description": "28话 /  2023年9月29日 / 斎藤圭一郎 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 長澤礼子",
     "link": null,
     "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "88803/season/2",
+    "id": "88803",
     "type": "tmdb",
     "title": "冰海战记 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a4/16/296739_6U6Hg.jpg",
@@ -23,7 +25,9 @@
     "rating": "8.1",
     "description": "24话 /  2023年1月9日 / 籔田修平 / 幸村誠「ヴィンランド・サガ」（講談社『アフタヌーン』連載） / 阿比留隆彦",
     "link": null,
-    "tmdb_id": "88803/season/2",
+    "tmdb_id": "88803",
+    "tmdb_site_id": "tv/88803/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -38,6 +42,8 @@
     "description": "13话 /  2023年6月29日 / 柿本広大 / ブシロード / Craft Egg；动画人物设定：茶之原拓也、八森優香、Shin Joseph",
     "link": null,
     "tmdb_id": "224207",
+    "tmdb_site_id": "tv/224207",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -52,6 +58,8 @@
     "description": "4话 /  2023年3月31日 / 畠山守(小俣真一) / 赤坂アカ（集英社「週刊ヤングジャンプ」連載） / 八尋裕子",
     "link": null,
     "tmdb_id": "83121/season/0/episode/5",
+    "tmdb_site_id": "tv/83121/season/0/episode/5",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -99,6 +107,8 @@
     "description": "12话 /  2023年4月1日 / 赤城博昭 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
     "link": null,
     "tmdb_id": "207250",
+    "tmdb_site_id": "tv/207250",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -113,6 +123,8 @@
     "description": "1话 /  2023年3月24日 / 雨宮哲 / グリッドマン / 坂本勝",
     "link": null,
     "tmdb_id": "915403",
+    "tmdb_site_id": "movie/915403",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -160,6 +172,8 @@
     "description": "12话 /  2023年4月4日 / 出合小都美 / 高松美咲（講談社「月刊アフタヌーン」連載） / 梅下麻奈未",
     "link": null,
     "tmdb_id": "139130",
+    "tmdb_site_id": "tv/139130",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -174,6 +188,8 @@
     "description": "12话 /  2023年4月5日 / 岡本学 / バンダイナムコエンターテインメント / 井川典恵",
     "link": null,
     "tmdb_id": "216391",
+    "tmdb_site_id": "tv/216391",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -188,6 +204,8 @@
     "description": "13话 /  2023年4月1日 / 森大貴 / 石黒正数（講談社「アフタヌーン」連載） / うつした（南方研究所）",
     "link": null,
     "tmdb_id": "208891",
+    "tmdb_site_id": "tv/208891",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -202,6 +220,8 @@
     "description": "1话 /  2023年1月20日 / 木村隆一 / BN Pictures / やぐちひろこ",
     "link": null,
     "tmdb_id": "1066946",
+    "tmdb_site_id": "movie/1066946",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -216,6 +236,8 @@
     "description": "1话 /  2023年3月3日 / 林祐一郎 / 諫山創（別冊少年マガジン連載／講談社） / 岸友洋",
     "link": null,
     "tmdb_id": "1429/season/0/episode/36",
+    "tmdb_site_id": "tv/1429/season/0/episode/36",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -241,6 +263,8 @@
     "description": "1话 /  2023年11月4日 / 林祐一郎 / 諫山創 （別冊少年マガジン／講談社） / 岸友洋",
     "link": null,
     "tmdb_id": "1429/season/0/episode/37",
+    "tmdb_site_id": "tv/1429/season/0/episode/37",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -255,6 +279,8 @@
     "description": "12话 /  2023年1月5日 / 藤井慎吾 / ねことうふ（月刊ComicREX／一迅社刊） / 今村亮",
     "link": null,
     "tmdb_id": "198152",
+    "tmdb_site_id": "tv/198152",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -281,7 +307,7 @@
     "link": "https://bgm.tv/subject/345812"
   },
   {
-    "id": "30984/season/2",
+    "id": "30984",
     "type": "tmdb",
     "title": "死神 千年血战篇-诀别谭-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/31/412916_20nTM.jpg",
@@ -290,7 +316,9 @@
     "rating": "7.5",
     "description": "13话 /  2023年7月8日 / 田口智久 / 「BLEACH」久保帯人（集英社） / 工藤昌史",
     "link": null,
-    "tmdb_id": "30984/season/2",
+    "tmdb_id": "30984",
+    "tmdb_site_id": "tv/30984/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

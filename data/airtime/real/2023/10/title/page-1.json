@@ -1,14 +1,21 @@
 [
   {
-    "id": "421938",
-    "type": "link",
-    "title": "#who am I",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/57/6d/421938_w8RvA.jpg",
+    "id": "222339",
+    "type": "tmdb",
+    "title": "#我是谁",
+    "posterPath": "https://image.tmdb.org/t/p/w500/x0nLLxb9jszTpIokAMrbGWqVNeM.jpg",
     "releaseDate": "2023-03-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2023年3月7日 / 関水渚",
-    "link": "https://bgm.tv/subject/421938"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本作讲述的是被某人推落而失去记忆的主人公·青井茜，通过自己的社交媒体寻找记忆、真凶以及“真实的自我”的故事。饰演网红女大学生茜一角的关水，首次担纲单独主演。",
+    "link": null,
+    "tmdb_id": "222339",
+    "tmdb_site_id": "tv/222339",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "398926",
@@ -33,15 +40,22 @@
     "link": "https://bgm.tv/subject/467918"
   },
   {
-    "id": "420960",
-    "type": "link",
+    "id": "222976",
+    "type": "tmdb",
     "title": "0.5的男人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/81/a3/420960_9muoN.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zv1D98hMWVI3xYLMS3JV9D8hEQQ.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "5话 /  2023-05-28 / 沖田修一、玉澤恭平 / 牧五百音、沖田修一 / 松田龍平",
-    "link": "https://bgm.tv/subject/420960"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "立花一家因自家房屋老旧而决定改建，女儿一家以此为借机，决定搬回跟父母同住，因此要改建为“2世代住宅”，但是40岁茧居族儿子的居住空间成了问题所在。经过房屋制造商推销员的劝说后，决定朝着以建设“2.5世代住宅”的方向改建。\n\n40岁的雅治自某个时期开始茧居在家，每日玩着第五人格、吃着妈妈做的饭菜、过着自由自在的生活。虽然在游戏世界是令人崇拜的存在，但是在现实生活中，因家中的变化，作为“0.5”的存在，越来越没有存在位置，被妹妹说“有空就帮忙做家事”、想跟侄女亲近也被嫌弃“恶心”。然而与此同时，因生活环境被迫改变，雅治慢慢走到外面的世界，恢复与人交流，找到新的自我。",
+    "link": null,
+    "tmdb_id": "222976",
+    "tmdb_site_id": "tv/222976",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "497754",
@@ -99,26 +113,40 @@
     "link": "https://bgm.tv/subject/429336"
   },
   {
-    "id": "432505",
-    "type": "link",
-    "title": "18/40～两个人的梦想与恋爱～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/dd/432505_78BHj.jpg",
+    "id": "229301",
+    "type": "tmdb",
+    "title": "18／40~两个人的梦想与恋爱~",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cMAua4LRrhiwBDxNGixMof4k6KN.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2023-07-11 / 福田亮介、松木彩、宮﨑萌加 / 龍居由佳里、木村涼子 / 福原遥、深田恭子",
-    "link": "https://bgm.tv/subject/432505"
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "梦想成为美术馆国际策展人的18岁未婚怀孕「大人初心者」仲川有栖，与经营着一家商业艺术公司、即将步入40岁的「大人未满」女强人成濑瞳子偶然相遇。年龄相差一倍以上、生活方式截然不同的人生前后辈，因缘际会萌生相互扶持的姐妹情谊，两人又将如何携手面对人生突如其来的变化和各自跌跌撞撞的爱情呢？",
+    "link": null,
+    "tmdb_id": "229301",
+    "tmdb_site_id": "tv/229301",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "447515",
-    "type": "link",
+    "id": "234491",
+    "type": "tmdb",
     "title": "爬墙新娘年十八。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/c9/447515_nNUTC.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rRQmGOWFrEc4gTLrgDxQT7ZiQn.jpg",
     "releaseDate": "2023-10-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2023年10月14日 / 湯浅弘章、張元香織、吉田卓功 / 阿相クミコ / 藤井流星（ジャニーズWEST）",
-    "link": "https://bgm.tv/subject/447515"
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "大财阀三条家族的独生女明花是对恋爱充满憧憬的大小姐，这样的她却陷入了需要相亲结婚的境地。为了避免相亲，向自己的保镖煌提议假结婚。本该是不受约束的形婚，煌却在婚礼当天发表了“我喜欢明花”这样的告白",
+    "link": null,
+    "tmdb_id": "234491",
+    "tmdb_site_id": "tv/234491",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "412789",
@@ -154,15 +182,22 @@
     "link": "https://bgm.tv/subject/510946"
   },
   {
-    "id": "464131",
-    "type": "link",
+    "id": "219160",
+    "type": "tmdb",
     "title": "信号",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/dc/464131_gYNI3.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3qTThjT0EmW1eRdnUOF7qC5zji8.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2023-01-20 / ศิวโรจณ์ คงสกุล (西瓦罗·孔萨库) / Boy / เขมนิจ จามิกรณ์、ชาคริต แย้มนาม、ชานน สันตินธรกุล",
-    "link": "https://bgm.tv/subject/464131"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "在这个奇幻调查系列中，来自两个时代的调查人员必须通过一台旧收音机来寻找未破旧案的真相。过去和现在之间的信号只在23:23开启。",
+    "link": null,
+    "tmdb_id": "219160",
+    "tmdb_site_id": "tv/219160",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TH"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "494436",
@@ -176,15 +211,22 @@
     "link": "https://bgm.tv/subject/494436"
   },
   {
-    "id": "437606",
-    "type": "link",
+    "id": "229259",
+    "type": "tmdb",
     "title": "25小时恋爱",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/51/437606_1bP2j.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ZvlfjoGWYyKECjA0G3q9sN0L96.jpg",
     "releaseDate": "2023-08-11",
-    "mediaType": "real",
-    "rating": "",
-    "description": "24话 /  2023年8月11日 / 马珊珊 / 李馨雨、孙子绚 / 何泓姗、董思成、谭晓凡、冷纪元、金子璇",
-    "link": "https://bgm.tv/subject/437606"
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "昔日校花安然为拉投资假扮“人生赢家”，却在人前惨遭揭穿……失意至极的安然喝得酩酊大醉，阴差阳错与比小六岁的讨债房东言樾，有了“一夜情缘”。不久后她发现言樾不仅是声优界的大明星黑沙，还是创业合伙人胡英俊找来的下个项目合作对象，而言樾却从不向外人透露他声优的身份。 在经历创业路上的一系列变故后，安然的游戏公司渐入佳境。曾经在感情中受挫的安然，也在与言樾嬉笑打闹的日常中被陪伴、被治愈，二人渐渐开始有时间和精力正视双方的情感。 突如其来的舆论危机，让两人陷入爱情与事业之间的两难。最终，安然持守着对游戏事业热忱的同时，言樾也走出害怕争吵的阴影，逐渐成熟，两人携手进退，一同让“喜欢的事业”走得更远。",
+    "link": null,
+    "tmdb_id": "229259",
+    "tmdb_site_id": "tv/229259",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "446462",
@@ -198,15 +240,22 @@
     "link": "https://bgm.tv/subject/446462"
   },
   {
-    "id": "447497",
-    "type": "link",
-    "title": "30S",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3d/a0/447497_5MGLm.jpg",
+    "id": "206324",
+    "type": "tmdb",
+    "title": "被解雇的暗黑士兵慢生活的第二人生",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b68LTbHQxiRrR6475Yl7RzCXM0T.jpg",
     "releaseDate": "2023-08-11",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2023年8月11日 / 小野匠、財田ありさ、新田桃子、真田佑馬（7ORDER）、茜屋日海夏（i☆Ris）",
-    "link": "https://bgm.tv/subject/447497"
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "作为暗黑士兵被培养长大的达里艾尔，虽然很有能力但不会使用魔法。新任魔王嫉妒达利艾尔的能力，以他不会魔法为借口解雇了他。达里艾尔在归途上偶遇了一名少女，并在她的带领下来到了一个人类村落。在村庄里学习冒险者的技能后，他飞速地变强了……以达里艾尔为中心，魔族、怪物、人类交织成了这个闹剧动作故事和喜剧幻想篇章。",
+    "link": null,
+    "tmdb_id": "206324",
+    "tmdb_site_id": "tv/206324",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "615804",

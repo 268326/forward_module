@@ -1,16 +1,5 @@
 [
   {
-    "id": "484918",
-    "type": "link",
-    "title": "冥黑三姊妹出品 假面骑士歌查德 未完计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/56/4d/484918_Rg5kX.jpg",
-    "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "5.9",
-    "description": "13话 /  2023-12-31 / 沖田絃乃/宮原華音/坂巻有紗",
-    "link": "https://bgm.tv/subject/484918"
-  },
-  {
     "id": "467925",
     "type": "link",
     "title": "孤独的美食家2023除夕特别篇 井之头五郎，往南逃跑“不要找我了。”",
@@ -22,15 +11,15 @@
     "link": "https://bgm.tv/subject/467925"
   },
   {
-    "id": "479081",
+    "id": "484918",
     "type": "link",
-    "title": "偷风不偷月 上季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/7e/479081_RrvJv.jpg",
+    "title": "冥黑三姊妹出品 假面骑士歌查德 未完计划",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/56/4d/484918_Rg5kX.jpg",
     "releaseDate": "2023-01-01",
     "mediaType": "real",
-    "rating": "",
-    "description": "18话 /  2023-12-30 / 顺子、刘思岑",
-    "link": "https://bgm.tv/subject/479081"
+    "rating": "5.9",
+    "description": "13话 /  2023-12-31 / 沖田絃乃/宮原華音/坂巻有紗",
+    "link": "https://bgm.tv/subject/484918"
   },
   {
     "id": "479823",
@@ -66,26 +55,62 @@
     "link": "https://bgm.tv/subject/489212"
   },
   {
-    "id": "466882",
-    "type": "link",
+    "id": "233967",
+    "type": "tmdb",
     "title": "天启异闻录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/41/466882_F4BmH.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hC8Ih2O6zThSKQPRFdikt05wsim.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2023-12-30 / 路阳 / 乔磊 / 范川 / 禹扬 / 路阳 / 乔磊",
-    "link": "https://bgm.tv/subject/466882"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "明末天启年间，辽东关外怪病肆虐，人心惶惶，一锦衣卫只身北上探查，不料却卷入当地军民斗争，在终日笼罩辽东的迷雾之后，武术诡谲阴谋也正潜滋暗长，无形的触手正伺机而动…",
+    "link": null,
+    "tmdb_id": "233967",
+    "tmdb_site_id": "tv/233967",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "482914",
-    "type": "link",
+    "id": "233277",
+    "type": "tmdb",
     "title": "我的幸福结局",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/a1/482914_03jXK.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sakOzOKvFxa0Ur0L4rT9GBRMGlH.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "讲述有着坎坷童年的女主角，只沉醉于追逐成功的人生，但在遭到信任之人的背叛、面对冲击性的真相后，试着摆脱欲望、执著的故事，是出人性心理惊悚剧。",
+    "link": null,
+    "tmdb_id": "233277",
+    "tmdb_site_id": "tv/233277",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "479081",
+    "type": "link",
+    "title": "偷风不偷月 上季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/7e/479081_RrvJv.jpg",
     "releaseDate": "2023-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "16话 /  2023-12-30 / 조수원、김상훈 / 백선희 / 장나라、손호준、소이현、이기택",
-    "link": "https://bgm.tv/subject/482914"
+    "description": "18话 /  2023-12-30 / 顺子、刘思岑",
+    "link": "https://bgm.tv/subject/479081"
+  },
+  {
+    "id": "482985",
+    "type": "link",
+    "title": "少爷和我 广播剧",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/7e/482985_CArAO.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2023-12-29 / 谷江山、顺子",
+    "link": "https://bgm.tv/subject/482985"
   },
   {
     "id": "476615",
@@ -132,17 +157,6 @@
     "link": "https://bgm.tv/subject/475348"
   },
   {
-    "id": "532806",
-    "type": "link",
-    "title": "一念之私·夙敌",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/fe/532806_bUZPc.jpg",
-    "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "14话 /  2023-12-29 / 顺子、澈洌",
-    "link": "https://bgm.tv/subject/532806"
-  },
-  {
     "id": "479085",
     "type": "link",
     "title": "BEST MAN 定格瞬间",
@@ -154,15 +168,15 @@
     "link": "https://bgm.tv/subject/479085"
   },
   {
-    "id": "482985",
+    "id": "532806",
     "type": "link",
-    "title": "少爷和我 广播剧",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/7e/482985_CArAO.jpg",
+    "title": "一念之私·夙敌",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/fe/532806_bUZPc.jpg",
     "releaseDate": "2023-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "12话 /  2023-12-29 / 谷江山、顺子",
-    "link": "https://bgm.tv/subject/482985"
+    "description": "14话 /  2023-12-29 / 顺子、澈洌",
+    "link": "https://bgm.tv/subject/532806"
   },
   {
     "id": "479089",
@@ -187,26 +201,22 @@
     "link": "https://bgm.tv/subject/482751"
   },
   {
-    "id": "425704",
-    "type": "link",
-    "title": "繁花",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/6b/425704_ihUiX.jpg",
-    "releaseDate": "2023-12-27",
-    "mediaType": "real",
-    "rating": "7.3",
-    "description": "30话 /  2023年12月27日 / 王家衛 / 秦雯 / 胡歌、马伊琍、唐嫣、辛芷蕾、游本昌、郑恺、陈龙、吴越、姜逸磊、董勇、黄觉、陈国庆、曾美慧孜、范湉湉、佟晨洁、王菊、林熙蕾、喻恩泰、金宇澄",
-    "link": "https://bgm.tv/subject/425704"
-  },
-  {
-    "id": "451238",
-    "type": "link",
+    "id": "230364",
+    "type": "tmdb",
     "title": "杀人不难",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/77/2b/451238_7Ft4H.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4Ced0ExBzhOsEsMBdghOm0OqurG.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2023-12-27 / Meenu Gaur / Siân Ejiwunmi-Le Berre / Penelope Wilton / David Jonsson",
-    "link": "https://bgm.tv/subject/451238"
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "1954年的英格兰，在一列开往伦敦的火车上，卢克·菲茨威廉（戴维·荣松 David Jonsson 饰）遇到了平克顿小姐（佩内洛普·威尔顿 Penelope Wilton 饰），平克顿小姐说在英格兰平静的乡村威奇伍德发生了一起连环杀人案，并且推测说下一个被害者将是当地的医生。菲茨威廉不相信她的话，认为那只是她的胡思乱想。但是，数小时后，平克顿小姐死于一场车祸，车辆肇事后逃逸。仅仅是巧合吗？卢克倾向于认为如此——直到他几天后在《泰晤士报》上读到亨伯比医生意外死亡的讣告……卢克必须马上找出真凶，因为对某些人来说，杀人不难。",
+    "link": null,
+    "tmdb_id": "230364",
+    "tmdb_site_id": "tv/230364",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "488159",
@@ -220,26 +230,58 @@
     "link": "https://bgm.tv/subject/488159"
   },
   {
-    "id": "486841",
-    "type": "link",
+    "id": "243279",
+    "type": "tmdb",
     "title": "我才不要当王妃",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/81/f0/486841_lAcDo.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3KhA3Uj3F6fLyo4Rm8xFrd2sVVe.jpg",
     "releaseDate": "2023-12-27",
-    "mediaType": "real",
-    "rating": "",
-    "description": "24话 /  2023年12月27日 / 马云宇 / 俞亢亢、马迪 / 左叶、辛悦、籍皓、方思畅、张恒铭、麦镇豪、吕炫乐、柯博伦、梅莉那",
-    "link": "https://bgm.tv/subject/486841"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "江湖侠女王瑞秋（辛悦 饰）误入王府，替换新娘，搅乱了腹黑王爷崇六（左叶 饰）的新婚和潜心设计的捉贼大计，跑路不成的王瑞秋只能顶着王妃的身份配合王爷演出，两人斗智斗勇最终日久生情，携手共破阴谋诡计。",
+    "link": null,
+    "tmdb_id": "243279",
+    "tmdb_site_id": "tv/243279",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "466786",
-    "type": "link",
+    "id": "106841",
+    "type": "tmdb",
+    "title": "繁花",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rV1owsdKtXytJ5eFMOOVTze3mrk.jpg",
+    "releaseDate": "2023-12-27",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "九十年代的上海处处是机遇与希望。青年阿宝凭借改革开放的春风和自己的打拼跻身成为商界后起之秀，黄河路上无人不晓。平凡阿宝蜕变为宝总，离不开高人爷叔与夜东京老板玲子、外贸大楼汪小姐的鼎力协助。随着神秘女子李李空降黄河路，一家时髦饭店即将搅动整条街，也令宝总原本决胜千里的事业变得动荡惊心，他与身边人的关系也经受着前所未有的考验。于此同时，深圳股市的过江龙强总也随时会给阿宝致命一击。阿宝唯有向前，以赤子之心翻越高山，方可奔赴繁花满眼。",
+    "link": null,
+    "tmdb_id": "106841",
+    "tmdb_site_id": "tv/106841",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "230779",
+    "type": "tmdb",
     "title": "男与女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/35/466786_kAMoS.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/z3aeuHaa97FBTy2BKY242Dfrgy6.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "16话 /  2023-12-26 / 이유연(李宥妍)、박상민(朴相岷) / 박상민(朴相岷) / 동해(李东海)、이설(李雪)、윤예주(尹芮珠)、임재혁(林宰赫)、박정화(朴正花)、김현목(金贤穆)",
-    "link": "https://bgm.tv/subject/466786"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "该剧根据同名漫画改编，将讲述一对交往七年的情侣某天在一家汽车旅店的电梯前偶遇与别人在一起的彼此而引发的故事，李东海将在剧中饰演烦恼要不要与交往七年的女友分手的主人公。",
+    "link": null,
+    "tmdb_id": "230779",
+    "tmdb_site_id": "tv/230779",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "515833",
@@ -253,14 +295,21 @@
     "link": "https://bgm.tv/subject/515833"
   },
   {
-    "id": "568093",
-    "type": "link",
-    "title": "あれからどうした",
-    "posterPath": null,
+    "id": "240713",
+    "type": "tmdb",
+    "title": "那之后怎样了",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hBn9tEqVyjHSpCbucFAW3mJ8NyH.jpg",
     "releaseDate": "2023-12-26",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2023年12月26日 / 戸次重幸、臼田あさ美、中島歩、田村健太郎、森田甘路、飯豊まりえ 、角田晃広（東京03）、上坂樹里、嶋田鉄太、西田尚美、三浦誠己、酒井若菜、井之脇海、芹澤興人、岸井ゆきの",
-    "link": "https://bgm.tv/subject/568093"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "《那之后怎么办》是一部全新形式的电视剧，它通过独特的影像手法，将声音和画面内容进行巨大的偏离，并同时呈现，以此揭示人性的“表里不一”。\n\n故事始于一家居酒屋的门打开，一群同事们三三两两地踏上归途。第二天，大家偶然在公司食堂里相遇，开始互相询问昨晚分开后都做了些什么，也就是那句“那之后怎么办？”。每个人讲述的昨晚的经历（声音）却和他们实际经历的（画面）大相径庭。有人隐瞒了出轨，有人隐瞒了恶行。剧中描绘了人们若无其事地撒谎，或者不自觉地把事情夸大其词的样子。",
+    "link": null,
+    "tmdb_id": "240713",
+    "tmdb_site_id": "tv/240713",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

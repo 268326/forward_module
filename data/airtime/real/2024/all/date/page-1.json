@@ -11,17 +11,6 @@
     "link": "https://bgm.tv/subject/526055"
   },
   {
-    "id": "530228",
-    "type": "link",
-    "title": "过电",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ff/fa/530228_0M58E.jpg",
-    "releaseDate": "2024-12-30",
-    "mediaType": "real",
-    "rating": "",
-    "description": "14话 /  2024年12月30日 / 凌飞、羊仔",
-    "link": "https://bgm.tv/subject/530228"
-  },
-  {
     "id": "498124",
     "type": "link",
     "title": "巴黎大饭店",
@@ -33,15 +22,33 @@
     "link": "https://bgm.tv/subject/498124"
   },
   {
-    "id": "536043",
+    "id": "530228",
     "type": "link",
-    "title": "蔷薇风暴",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d9/70/536043_FJvej.jpg",
-    "releaseDate": "2024-12-29",
+    "title": "过电",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ff/fa/530228_0M58E.jpg",
+    "releaseDate": "2024-12-30",
     "mediaType": "real",
     "rating": "",
-    "description": "40话 /  2024年12月29日 / 惠楷栋 / 解嬿嬿、高大果",
-    "link": "https://bgm.tv/subject/536043"
+    "description": "14话 /  2024年12月30日 / 凌飞、羊仔",
+    "link": "https://bgm.tv/subject/530228"
+  },
+  {
+    "id": "240448",
+    "type": "tmdb",
+    "title": "蔷薇风暴",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pt73AX2FNavhgL6Zw8MJBphYRTa.jpg",
+    "releaseDate": "2024-12-29",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "2015年互联网经济腾飞，资本市场泥沙俱下，已届不惑的财经杂志主编谢琳慧发布了某投资机构合伙人婚变及违规商业操作的丑闻。这篇敢说实话的报道引发投行的震动与洗牌，直接导致投资经理江一笛身陷职场危机。然而谢琳慧深度追踪行业违规操作的行为令她遭到多方构陷，终因刊发一篇含有错误数据的报道而停职，而江一笛恰是提供者。市场风云变幻，顾不上人情冷暖，由江一笛负责的智能医疗企业更是因此陷入死局，将谢琳慧与江一笛卷入更大的风暴之中。本剧交织呈现了中年女性的职场危机和青年菜鸟的无助无奈，一切水落石出，理想主义者向光而行。",
+    "link": null,
+    "tmdb_id": "240448",
+    "tmdb_site_id": "tv/240448",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "540438",
@@ -55,15 +62,22 @@
     "link": "https://bgm.tv/subject/540438"
   },
   {
-    "id": "526207",
-    "type": "link",
+    "id": "303415",
+    "type": "tmdb",
     "title": "迷子のわたしは、諦めることもうまくいかない",
     "posterPath": null,
     "releaseDate": "2024-12-29",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2024年12月29日 / 藤原さくら",
-    "link": "https://bgm.tv/subject/526207"
+    "link": null,
+    "tmdb_id": "303415",
+    "tmdb_site_id": "tv/303415",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "484764",
@@ -77,15 +91,22 @@
     "link": "https://bgm.tv/subject/484764"
   },
   {
-    "id": "442029",
-    "type": "link",
+    "id": "233912",
+    "type": "tmdb",
     "title": "大奉打更人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bf/d5/442029_Z5F9k.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8IfVtQYR7tkRkcvShh2djT3gOy9.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "5.1",
-    "description": "40话 /  2024-12-28 / 邓科 / 杨雨晨（总编剧）、周橦（剧本总监）、苗聪聪、陈金鹏、姜尚；联合编剧：张扬、金卉 / 王鹤棣／田曦薇／刘奕君／晏紫东／ 岳旸／张晓晨／毛晓慧／范帅琦／刘美含／张淼怡／冯晖／丁笑滢／闫佩伦／王润泽／王伊瑶／李洪涛／李梦颖／姜贞羽／张宸逍／康亢／倪虹洁／刘钧／范世绮／杜淳／邱心志／陈小纭／陈意涵",
-    "link": "https://bgm.tv/subject/442029"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "　　现代人杨凌（王鹤棣 饰）意外穿越到大奉王朝，苏醒后发现自己身处牢狱之中，三日后即将被流放边陲小镇。为了改变命运，他凭借机智与勇敢成功自救，并引起了特殊机构“打更人组织”的注意。打更人组织负责监察百官、收集情报、维护治安，杨凌加入其中，化名许七安。\n\n　　面对陌生的古代世界，许七安不仅要适应这个时代的规则，还要运用现代知识与智慧破解各种离奇案件。在破案过程中，他结识了打更人首领魏渊（刘奕君 饰）、临安公主（田曦薇 饰）等志同道合的伙伴。他与临安公主从互不相识到相知相爱，经历重重曲折。面对朝廷中的黑暗势力与外界的阻挠考验，两人坚定对彼此的感情和对正义的执着追求，共同守护大奉王朝的安宁。",
+    "link": null,
+    "tmdb_id": "233912",
+    "tmdb_site_id": "tv/233912",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "574220",
@@ -198,6 +219,17 @@
     "link": "https://bgm.tv/subject/529554"
   },
   {
+    "id": "528976",
+    "type": "link",
+    "title": "江火欲燃山",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/ea/528976_u3O6V.jpg",
+    "releaseDate": "2024-12-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "15话 /  2024年12月25日 / 刘思岑、马正阳",
+    "link": "https://bgm.tv/subject/528976"
+  },
+  {
     "id": "531139",
     "type": "link",
     "title": "神秘博士：普世欢腾",
@@ -240,17 +272,6 @@
     "rating": "",
     "description": "2024年12月25日 / Robert Eggers / Robert Eggers / Bill Skarsgård、Nicholas Hoult、Lily-Rose Depp",
     "link": "https://bgm.tv/subject/532907"
-  },
-  {
-    "id": "528976",
-    "type": "link",
-    "title": "江火欲燃山",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/ea/528976_u3O6V.jpg",
-    "releaseDate": "2024-12-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "15话 /  2024年12月25日 / 刘思岑、马正阳",
-    "link": "https://bgm.tv/subject/528976"
   },
   {
     "id": "527572",

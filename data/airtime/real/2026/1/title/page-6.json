@@ -1,0 +1,299 @@
+[
+  {
+    "id": "633242",
+    "type": "link",
+    "title": "RYUJI 竜二",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/6f/633242_ULz6K.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月30日 / 水田伸生 / 柳楽優弥",
+    "link": "https://bgm.tv/subject/633242"
+  },
+  {
+    "id": "207332",
+    "type": "tmdb",
+    "title": "坂本日常",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/3a/586053_BIN34.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 福田雄一 / 福田雄一 / 目黒蓮",
+    "link": null,
+    "tmdb_id": "207332",
+    "tmdb_site_id": "tv/207332",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "319047",
+    "type": "tmdb",
+    "title": "Shared Planet",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fHAwUsINkByRUKlIUuNJKCtX2eq.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "8话 /  2026-04-20 / 加藤綾佳、工藤渉 / 加藤綾佳 / 秋田汐梨、池田匡志",
+    "link": null,
+    "tmdb_id": "319047",
+    "tmdb_site_id": "tv/319047",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "SE"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "642432",
+    "type": "link",
+    "title": "Shibuya LOVEZ OPENING SERIES「Lantis DAYZ」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/89/642432_xWNFz.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-07-18 / アイドルマスター SideM（W・Café Parade）、緒方恵美、寺島拓篤、仲村宗悟、畠中祐、広瀬裕也、古川慎、森久保祥太郎、藍井エイル、ARCANA PROJECT、イキヅライブ！LOVELIVE!BLUEBIRD いきづらい部！、佐々木李子、ZAQ、田中有紀、虹ヶ咲学園スクールアイドル同好会、ノクチル from アイドルマスター シャイニーカラーズ、H△G、MindaRyn、前橋ウィッチーズ、岬なこ",
+    "link": "https://bgm.tv/subject/642432"
+  },
+  {
+    "id": "640992",
+    "type": "link",
+    "title": "SHIFT─ぶつかり、進む者たち─",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/61/640992_5YFL8.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年4月12日 / 本田響矢",
+    "link": "https://bgm.tv/subject/640992"
+  },
+  {
+    "id": "619704",
+    "type": "link",
+    "title": "SHIGURE UI Birthday Live “Wishing Umbrella”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/b0/619704_t6OJR.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-05-30 / しぐれうい",
+    "link": "https://bgm.tv/subject/619704"
+  },
+  {
+    "id": "632148",
+    "type": "link",
+    "title": "Shiho Acoustic Birthday Live \"Spring Awekens\"",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a7/ba/632148_UPlCB.jpg",
+    "releaseDate": "2026-04-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月25日 / しほ",
+    "link": "https://bgm.tv/subject/632148"
+  },
+  {
+    "id": "645135",
+    "type": "link",
+    "title": "shiny, the first REFRAC7IONS \" Still blue \"",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/25/645135_RZ9Cj.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-12-19",
+    "link": "https://bgm.tv/subject/645135"
+  },
+  {
+    "id": "308014",
+    "type": "tmdb",
+    "title": "柏林：抱银貂的女子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qMLS5MvvU1VW8i6am2MO2qyQXlV.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "又想干一票的柏林召集团伙前往塞维利亚，打算盗取达芬奇的杰作，并将野心勃勃的公爵从该计划的受益人变为受害者。",
+    "link": null,
+    "tmdb_id": "308014",
+    "tmdb_site_id": "tv/308014",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "ES"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "420898",
+    "type": "link",
+    "title": "蜘蛛侠：崭新之日",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/86/420898_9m8zF.jpg",
+    "releaseDate": "2026-07-31",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年7月31日 / Destin Daniel Cretton",
+    "link": "https://bgm.tv/subject/420898"
+  },
+  {
+    "id": "220102",
+    "type": "tmdb",
+    "title": "暗影蜘蛛侠",
+    "posterPath": "https://image.tmdb.org/t/p/w500/89h2TzFgCnQGNPfXEGRtfXjOOcS.jpg",
+    "releaseDate": "2026-05-27",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　故事设定在独立宇宙里，聚焦1930年代纽约城的一个上了年纪、倒霉透顶的私家侦探，作为这个城市里唯一的超级英雄，他被迫与过去的生活作斗争。",
+    "link": null,
+    "tmdb_id": "220102",
+    "tmdb_site_id": "tv/220102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "428025",
+    "type": "link",
+    "title": "街头霸王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / Dalan Musson / Noah Centineo、Andrew Koji、Callina Liang",
+    "link": "https://bgm.tv/subject/428025"
+  },
+  {
+    "id": "538498",
+    "type": "link",
+    "title": "SUKIYAKI 昂首向前走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/b7/538498_mdPM3.jpg",
+    "releaseDate": "2026-12-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月25日 / 瀬々敬久 / 港岳彦 / 岡田准一",
+    "link": "https://bgm.tv/subject/538498"
+  },
+  {
+    "id": "501703",
+    "type": "link",
+    "title": "超级少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/e5/501703_qwK4o.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-06-26 / Milly Alcock",
+    "link": "https://bgm.tv/subject/501703"
+  },
+  {
+    "id": "621291",
+    "type": "link",
+    "title": "SとX",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年 / 草野翔吾 / 中島健人",
+    "link": "https://bgm.tv/subject/621291"
+  },
+  {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
+    "id": "308682",
+    "type": "tmdb",
+    "title": "异世界来的男生~平行世界的恋人~",
+    "posterPath": "https://image.tmdb.org/t/p/w500/20zBJwtTcMLm3EHDaVvPiLfLjdq.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "恋爱经验值为零的大学生四叶枫，过着平凡的校园生活，直到人气学长鸿上沙罗突然现身，并宣告他是从平行世界而来的恋人。面对从未交谈过的男神突然示爱，又对自己了如指掌，枫不知不觉被沙罗温柔坚定的目光所吸引；然而，他也意识到一个残酷的事实，沙罗会爱上「这个世界的自己」吗？当两个世界的爱情交叠，跨越时空的浪漫，能找到真爱的归属吗？",
+    "link": null,
+    "tmdb_id": "308682",
+    "tmdb_site_id": "tv/308682",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "6.7",
+    "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
+    "link": "https://bgm.tv/subject/494608"
+  },
+  {
+    "id": "590022",
+    "type": "link",
+    "title": "暗黑新娘！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
+    "link": "https://bgm.tv/subject/590022"
+  },
+  {
+    "id": "634222",
+    "type": "link",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
+  },
+  {
+    "id": "622063",
+    "type": "link",
+    "title": "罗宾汉之死",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/6d/622063_1Ok62.jpg",
+    "releaseDate": "2026-06-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年6月19日 / Michael Sarnoski / Michael Sarnoski / Hugh Jackman",
+    "link": "https://bgm.tv/subject/622063"
+  },
+  {
+    "id": "573155",
+    "type": "link",
+    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
+    "link": "https://bgm.tv/subject/573155"
+  },
+  {
+    "id": "619753",
+    "type": "link",
+    "title": "THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/e2/619753_DoWsN.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年7月24日",
+    "link": "https://bgm.tv/subject/619753"
+  },
+  {
+    "id": "611063",
+    "type": "link",
+    "title": "THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY@NAGOYA",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/89/9e/611063_96vfv.jpg",
+    "releaseDate": "2026-01-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年1月17日",
+    "link": "https://bgm.tv/subject/611063"
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "id": "236887",
+    "type": "tmdb",
+    "title": "偶像升级计划",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7GznVBciuRCmb8VhbrbKadsrCtR.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "偶像升级计划现代都市爱情韩剧，这个故事围绕着五年级练习生和即将出道的偶像Eden以及同一经纪公司的名人JiHoon展开，讲述了即将作为男团出道的伊登遇到了与他同属一家公司的过气名人智勋，伊登被告知只有与志勋一起进行「商业同性恋表演」(BGP)才能出道。伊甸园想要拒绝这样的现实，但他遵循经纪公司希望他作为出道的梦想做的事情。伊登在一个名为男子乐队中工作时，对“BGP”感到厌恶，智勋自然地接近并取笑他，两人继续争吵，与此同时，随着玄彬和杰伊的出现，伊登和智勋之间的误会越来越大……他们能否解开误会，找到彼此的真情呢?",
+    "link": null,
+    "tmdb_id": "236887",
+    "tmdb_site_id": "tv/236887",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "283704",
+    "type": "tmdb",
+    "title": "费马的料理",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/58/448529_uiWRT.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "10话 /  2023-10-20 / 石井康晴、平野俊一、大内舞子 / 渡辺雄介、三浦希紗 / 高橋文哉、志尊淳",
+    "link": null,
+    "tmdb_id": "283704",
+    "tmdb_site_id": "tv/283704",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "481615",
+    "type": "link",
+    "title": "全世界都在等我们分手 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/dd/481615_3nmiC.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2023-10-20 / 赵毅、金弦",
+    "link": "https://bgm.tv/subject/481615"
+  },
+  {
+    "id": "464193",
+    "type": "link",
+    "title": "王牌对王牌8",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ec/464193_v0dYl.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023-10-20",
+    "link": "https://bgm.tv/subject/464193"
+  },
+  {
+    "id": "234630",
+    "type": "tmdb",
+    "title": "鬣狗式生存",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4yyIybgc9oqMM4DmYMMVB1dfA56.jpg",
+    "releaseDate": "2023-10-20",
+    "mediaType": "tv",
+    "rating": "2.0",
+    "description": "国内最大的律所——S&J法律事务所的律师一条怜（山崎育三郎）是最为活跃的年轻律师。知名度高，相貌、学历、收入都堪称完美，可他却不擅长恋爱，毫无桃花运。对于不断打赢官司的怜，S&J的新海健一给了一个新任务，大企业的公子的离婚诉讼，新海面对不服气的怜说，太干净是你的弱点，要在律师界越走越远，你需要积累一些灰色的经验。数周后，怜在下午四点遇到了额一个妖艳女性（筱原凉子），怜彻底一见钟情。后来不断巧遇，二人的兴趣又惊人的一致。就在即将发展成恋人关系的当口……",
+    "link": null,
+    "tmdb_id": "234630",
+    "tmdb_site_id": "tv/234630",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "235750",
+    "type": "tmdb",
+    "title": "回来后填满",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8b5Sg8sX9UqxstOZZEQxAOZdidM.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "10话 /  2023-10-19 / 小島健、浅川梨奈",
+    "link": null,
+    "tmdb_id": "235750",
+    "tmdb_site_id": "tv/235750",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "460744",
+    "type": "link",
+    "title": "上载新生 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/02/460744_oG4Oj.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023-10-19",
+    "link": "https://bgm.tv/subject/460744"
+  },
+  {
+    "id": "233748",
+    "type": "tmdb",
+    "title": "口袋里的冒险",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mcGgSm0s3iyxvEbjm2hCXdjwIHc.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "赤城圆（西野七濑饰）在关东地区的港口城市真白镇长大。从学生时代就一直憧憬成为创作者。最初在鱼板制造商工作，后来为了追梦搬到东京，进入广告代理商“ADventure”工作。因为偶然的机会，她肩负着准备一场决定公司存亡的重要展示的重任。这时，小圆收到了母亲寄来的包裹，包裹里是她小时候玩过的 Game Boy，还有《宝可梦 红》的游戏……",
+    "link": null,
+    "tmdb_id": "233748",
+    "tmdb_site_id": "tv/233748",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "235842",
+    "type": "tmdb",
+    "title": "单人房的天使",
+    "posterPath": "https://image.tmdb.org/t/p/w500/uIZl24RhLp8hSkm79lXRdoQAe0N.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "漫无目标，每天浑浑噩噩过日子的 30 岁超市店员幸纪，某天不小心被小混混捅了一刀。濒临死亡，意识朦胧之际，看见拥有一双纯白色翅膀的美丽天使从天而降。幸纪以为天使是来接他的，没想到后来伤愈出院，打开家门一看，天使竟然在屋里。尽管幸纪对天使目中无人的态度感到不知所措，却也对失去记忆且飞不起来的他产生了同情，于是决定将他收留在家里。突然展开的同居生活，让原本如同行尸走肉的幸纪逐渐开始萌生某种情感，不愿意回忆的往事被重新想起，天使的神秘身份也被揭开。",
+    "link": null,
+    "tmdb_id": "235842",
+    "tmdb_site_id": "tv/235842",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "234490",
+    "type": "tmdb",
+    "title": "尤莉亚老师的红线",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bXCGuS4GuB22jy7TnOkO74dDv1p.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "该作品改编自同名漫画，菅野饰演的是随着年龄增长，作为女人的身份逐渐淡薄的平凡主妇尤莉亚。然而，尤莉亚的人生却因丈夫在酒店昏倒被紧急送院而急速展开。慌张地赶到医院，发现陷入昏迷状态的丈夫身边，躺着哭成泪人并自称是“恋人”的美男子。而且，除了照顾丈夫之外，还出现了叫丈夫“爸爸”的两个女孩和她们的母亲，也就是丈夫的女朋友。在一连串的惊讶中，以“帅气地活下去”为座右铭，小时候的绰号是“大叔”的尤莉亚，把丈夫的2个情人和2个没有血缘关系的孩子都请进家里开始奇妙的共同生活。同时，对于在这样坎坷的人生旋涡中坚持不懈的尤莉亚来说，原本以为不会再有的第二次恋爱的预感也终于到来了。",
+    "link": null,
+    "tmdb_id": "234490",
+    "tmdb_site_id": "tv/234490",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "456366",
+    "type": "link",
+    "title": "启尸录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/8f/456366_ZK158.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023-10-19",
+    "link": "https://bgm.tv/subject/456366"
+  },
+  {
+    "id": "136443",
+    "type": "tmdb",
+    "title": "仿生人间",
+    "posterPath": "https://image.tmdb.org/t/p/w500/udnBSh8FwIBShMYO8rh4hEKUgRd.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "与人类形象无异的仿生人由于发展过快，引发公众的担忧。“明眸”组织专门负责仿生人案件，组员程诺头脑冷静，安秋善于共情，面对仿生人不断被害，两人联手揭开谜团。众生烟火，仿生人间。人类和仿生人的命运都正在被悄悄改写。",
+    "link": null,
+    "tmdb_id": "136443",
+    "tmdb_site_id": "tv/136443",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "455003",
+    "type": "link",
+    "title": "舞台「かげきしょうじょ!!」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/5b/455003_DX54c.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023-10-18 / 鈴木智晴（劇団東京都鈴木区） / 志田音々、佐藤日向、新谷姫加、佐々木李子、髙橋果鈴、和泉風花",
+    "link": "https://bgm.tv/subject/455003"
+  },
+  {
+    "id": "452921",
+    "type": "link",
+    "title": "相棒 第二十二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/b0/452921_M04B0.jpg",
+    "releaseDate": "2023-10-18",
+    "mediaType": "real",
+    "rating": "7.0",
+    "description": "20话 /  2023年10月18日 / 橋本一、権野元、守下敏行、田村孝蔵、内片輝 / 神森万里江、岩下悠子、森下直、光益義幸、瀧本智行、輿水泰弘、川﨑龍太、徳永富彦、竹内清人、小宮孝泰（協力） / 水谷豊、寺脇康文",
+    "link": "https://bgm.tv/subject/452921"
+  },
+  {
+    "id": "487086",
+    "type": "link",
+    "title": "怪谈晚餐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/dc/487086_n5eln.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023-10-18",
+    "link": "https://bgm.tv/subject/487086"
+  },
+  {
+    "id": "234253",
+    "type": "tmdb",
+    "title": "没有被炉的家",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ddizSJzkUoXyIqRvmcj2hUgfwSs.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "“婚礼只要交给她办就不会离婚”——传说中的婚礼专家兼社长深堀万里江，在工作上总是火力全开，因为在家里… 还有三个废柴男（加一只爱猫）嗷嗷待哺！？面临失业的滞销漫画家丈夫悠作、有着偶像梦但在试镜阶段就被刷掉的儿子顺基、熟年离婚的父亲达男… 虽然战力外人员有点多，万里江仍把吃苦当作吃补乐观面对，期许这些男人能够在100次的大失败中得到一点点小成长…",
+    "link": null,
+    "tmdb_id": "234253",
+    "tmdb_site_id": "tv/234253",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "481636",
+    "type": "link",
+    "title": "本色",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/13/481636_pbkrW.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "15话 /  2023-10-18 / 刘琮、倒霉死勒",
+    "link": "https://bgm.tv/subject/481636"
+  },
+  {
+    "id": "482278",
+    "type": "link",
+    "title": "烈火浇愁 第二季（下）",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/58/9e/482278_BBdZT.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2023-10-17 / 云惟一、边江",
+    "link": "https://bgm.tv/subject/482278"
+  },
+  {
+    "id": "566909",
+    "type": "link",
+    "title": "天﨑滉平・大塚剛央の「ぼくたち、まだフレッシュですかね？」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/05/566909_thwmU.jpg",
+    "releaseDate": "2023-10-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年10月17日 / 萩野谷昇 / 天﨑滉平、大塚剛央",
+    "link": "https://bgm.tv/subject/566909"
+  },
+  {
+    "id": "234251",
+    "type": "tmdb",
+    "title": "我的第二青春",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5ig1ecjRLxsJXsshLGEnkcN8b6a.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "抱着麻烦问题的30岁主人公白玉佐弥子，意外地遇到了大学生小笠原拓。佐弥子吐露心声说：“如果当时能上大学的话，就会有和现在不一样的人生了。” 拓直言不讳地说：“现在也不晚吧？成为大学生就好了。”因为拓的这句话，佐弥子的命运开始发生巨大的变化。经过刻苦的学习，佐弥子终于考上了大学，遇到了同样是建筑系的“比自己小的前辈”，是当时在自己背后支持自己的拓。命运的重逢，两人的关系是止步于年龄差距的“友情”，还是发展为终极的“恋爱”？",
+    "link": null,
+    "tmdb_id": "234251",
+    "tmdb_site_id": "tv/234251",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "234250",
+    "type": "tmdb",
+    "title": "特命! 警视厅特别会计员",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hJkUvcx9t4X63ZC4gDhK42tuqq9.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "对数字极其敏锐却因“衰神”体质没能当上刑警的一円，奉警视厅“削减开支”的特别命令，来到被戏称为包袱分局的万町署。无端毁损器物、与可疑线人的往来、用途不明的支出…面对坚持“没有钱没办法查案”、在金钱使用观念上却大有问题的刑警们，円该如何完成这项艰巨任务？有时是经费捍卫战的超烦敌人，有时却是以独到角度引导破案的超强队友，让人又爱又恨的“经费警察”登场！",
+    "link": null,
+    "tmdb_id": "234250",
+    "tmdb_site_id": "tv/234250",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "598204",
+    "type": "link",
+    "title": "地球冒险·美国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/56/60/598204_ECcXs.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023-10-16 / Jazzy Benson",
+    "link": "https://bgm.tv/subject/598204"
+  },
+  {
+    "id": "236535",
+    "type": "tmdb",
+    "title": "假装我是美羽小姐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5Bbw2ainFqZysYWrlnVpYu029PL.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "故事讲述29岁的久保田美和（松本穗香）由于对电影的热爱太过强烈，最终被任职的DVD租赁店开除。她偶然之下得知仰慕的八海祟(堤真一)正在招聘家政妇。好奇心之下就前往八海的住处侦察，出乎意料的巧合下，她被八海的经纪人误以为是新来的家政妇，一时不敢否认的美和自那天起就假扮成“超级家政妇”在八海邸工作。尽管她一直战战兢兢地担心被揭发真正身份，但能够在自己祟拜的演员家中工作，不自觉就沉浸在梦幻般的“压倒性浪漫”之中，直到有日，女主角所假扮的家政妇樱美羽(恒松祐里)突然现身，令事情出现变化。全剧32话共8周。",
+    "link": null,
+    "tmdb_id": "236535",
+    "tmdb_site_id": "tv/236535",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "234486",
+    "type": "tmdb",
+    "title": "下克上棒球少年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3E5bmkUlpWjJqwWxfVTCYai9puC.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "因伤引退的棒球选手南云脩司，因缘际会作为社会科老师在越山高中任教，并被推派为棒球社的指导老师兼教练。然而，这个棒球队竟然几乎都是幽灵社员！？看着一盘散沙的棒球队，以家人为重的南云本想向学校婉拒，但随着“棒球狂”家政科新老师山住、因落榜而从棒球强豪来到越山的前王牌翔的出现，让南云的心境开始有了巨大的转变…",
+    "link": null,
+    "tmdb_id": "234486",
+    "tmdb_site_id": "tv/234486",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

@@ -11,15 +11,22 @@
     "link": "https://bgm.tv/subject/600013"
   },
   {
-    "id": "641353",
-    "type": "link",
-    "title": "100日後に別れる僕と彼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/f8/641353_Y53i5.jpg",
+    "id": "319617",
+    "type": "tmdb",
+    "title": "100天后将分手的我与他",
+    "posterPath": "https://image.tmdb.org/t/p/w500/LFRP7lS5KF2rzzzOawIFO4LN22.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-05-26 / 草野翔吾 / 三浦直之 / 伊藤健太郎、寛一郎",
-    "link": "https://bgm.tv/subject/641353"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "讲述的是一段为期100天、围绕着〝理想同性伴侣〞之间谎言与真心交错展开的故事。",
+    "link": null,
+    "tmdb_id": "319617",
+    "tmdb_site_id": "tv/319617",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "583800",
@@ -33,15 +40,22 @@
     "link": "https://bgm.tv/subject/583800"
   },
   {
-    "id": "633585",
-    "type": "link",
+    "id": "315848",
+    "type": "tmdb",
     "title": "没有砍十次还不倒的树",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/a2/633585_nzKWQ.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ym7pDxY8MwxD1PcYqIi2KqBowRN.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-04-12 / 小室直子、内田秀実 / 川﨑いづみ、松島瑠璃子 / 志尊淳",
-    "link": "https://bgm.tv/subject/633585"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "志尊饰演的是幼年失去日本父母、成为韩国财阀养子的青年金敏硕 / 青木照。他虽被视为继承人，却在养父死后失势，被逐出韩国家门，时隔23年重返日本。在那里，他邂逅了幼年丧父的医生河濑桃子。事实上两人幼年曾有过一面之缘，却未察觉此事实，跨越23年的时光彼此吸引。然而，意想不到的考验接连降临。标题引自韩国谚语：“任何困难之事，只要不断挑战终会成功”。",
+    "link": null,
+    "tmdb_id": "315848",
+    "tmdb_site_id": "tv/315848",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "606014",
@@ -77,15 +91,22 @@
     "link": "https://bgm.tv/subject/617205"
   },
   {
-    "id": "644526",
-    "type": "link",
+    "id": "278573",
+    "type": "tmdb",
     "title": "21世纪大君夫人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/a1/644526_T99M3.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-04-10 / 아이유",
-    "link": "https://bgm.tv/subject/644526"
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+    "link": null,
+    "tmdb_id": "278573",
+    "tmdb_site_id": "tv/278573",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "593614",
@@ -110,26 +131,40 @@
     "link": "https://bgm.tv/subject/645791"
   },
   {
-    "id": "611952",
-    "type": "link",
+    "id": "320988",
+    "type": "tmdb",
     "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/77/bc/611952_b31dD.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
     "releaseDate": "2026-04-11",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026年4月11日",
-    "link": "https://bgm.tv/subject/611952"
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
+    "link": null,
+    "tmdb_id": "320988",
+    "tmdb_site_id": "tv/320988",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "630986",
-    "type": "link",
-    "title": "3.11～東日本大震災15年 福島第一原発事故 命の戦い～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/b8/630986_6CSG2.jpg",
+    "id": "316147",
+    "type": "tmdb",
+    "title": "3.11～東日本大震災１５年　福島第一原発事故　命の戦い～知られざる葛藤の物語",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tlhvbvEd8z0EDgCNYhf0ysgfd0b.jpg",
     "releaseDate": "2026-03-13",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年3月13日 / 佐藤優介 / 白洲迅、戸塚純貴、三浦貴大",
-    "link": "https://bgm.tv/subject/630986"
+    "link": null,
+    "tmdb_id": "316147",
+    "tmdb_site_id": "tv/316147",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "617492",
@@ -143,15 +178,22 @@
     "link": "https://bgm.tv/subject/617492"
   },
   {
-    "id": "603776",
-    "type": "link",
-    "title": "50分間の恋人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/5e/603776_0E7VA.jpg",
+    "id": "305815",
+    "type": "tmdb",
+    "title": "50分钟的恋人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kTfgp22KaYHfJ14FtYQ2yhkwOEp.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-01-18 / 金井純一、中村圭良 / 春日小春 / 伊野尾慧、松本穂香",
-    "link": "https://bgm.tv/subject/603776"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本作描绘只与AI相伴的古怪美男甘海晴流与游戏公司工作狂辛岛菜帆之间错频心动爱情喜剧。某日菜帆在公园撞到晴流弄脏了他身穿的古着外套，无力赔偿的菜帆接受晴流“做30次便当抵债”的提议，达成奇妙契约。菜帆虽被晴流脱线言行耍得团团转，却在每日共度午休50分钟的过程中逐渐拉近距离。然而她发现晴流竟是备受瞩目的游戏制作人，且所属公司与自家存在竞争关系，二人的交往就此转为秘密恋情。",
+    "link": null,
+    "tmdb_id": "305815",
+    "tmdb_site_id": "tv/305815",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "633243",
@@ -176,26 +218,40 @@
     "link": "https://bgm.tv/subject/624104"
   },
   {
-    "id": "429521",
-    "type": "link",
+    "id": "224372",
+    "type": "tmdb",
     "title": "七王国的骑士",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/c0/429521_Q78Kg.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
     "releaseDate": "2026-01-18",
-    "mediaType": "real",
-    "rating": "7.7",
-    "description": "6话 /  2026年1月18日 / Ira Parker",
-    "link": "https://bgm.tv/subject/429521"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "link": null,
+    "tmdb_id": "224372",
+    "tmdb_site_id": "tv/224372",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "640565",
-    "type": "link",
+    "id": "316835",
+    "type": "tmdb",
     "title": "谋杀的滋味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7b/8e/640565_XRMXq.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iQMSIHR6hPN53h7TILztOZuYOcl.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-04-07",
-    "link": "https://bgm.tv/subject/640565"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "故事讲述的是伦敦都会区警察局明星侦探乔·莫特拉姆（Joe Mottram）警长，在经历了一场个人悲剧后，带着女儿退隐到意大利卡普里岛，与他的意大利姻亲一起度过夏天。",
+    "link": null,
+    "tmdb_id": "316835",
+    "tmdb_site_id": "tv/316835",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "622404",
@@ -220,15 +276,22 @@
     "link": "https://bgm.tv/subject/615700"
   },
   {
-    "id": "621592",
-    "type": "link",
+    "id": "250505",
+    "type": "tmdb",
     "title": "阿加莎·克里斯蒂之七面钟",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/92/621592_2gwo3.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nrmJhb5wB5cDTOWebIzyXqfiGMc.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026-01-15",
-    "link": "https://bgm.tv/subject/621592"
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "1925年，英格兰一座乡间大宅铺张设宴，席间一个恶作剧出了差错，竟闹出人命。绰号“邦德尔”的艾琳·布伦特着手探查真相，她外表不像侦探，但生性活泼好奇，究竟命案背后的可怕阴谋会如何改变她的人生？乡间大宅里又暗藏什么秘密？",
+    "link": null,
+    "tmdb_id": "250505",
+    "tmdb_site_id": "tv/250505",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "596942",
@@ -242,15 +305,22 @@
     "link": "https://bgm.tv/subject/596942"
   },
   {
-    "id": "588510",
-    "type": "link",
-    "title": "AKIBA LOST",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/6e/588510_Hs944.jpg",
+    "id": "307750",
+    "type": "tmdb",
+    "title": "秋叶原迷踪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wXMhws88fWU1ExPlw5SvubZBCWC.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年1月 / 中茎強 / 當銘啓太 / 北山宏光、松村沙友理、田辺桃子、宇垣美里、小栗有以（AKB48）、大原梓、MINA、西原亜希、淵上泰史",
-    "link": "https://bgm.tv/subject/588510"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事舞台发生在13年前，在东京秋叶原发生的6名少女离奇失踪案件“秋叶原神隐”，最终以悬案告终。曾被誉为天才创作者的新城大辉，为迎接一年一度的游戏展，宣布将以该事件为题材开发新作游戏《AKIBA LOST》。然而发表后不久，大辉便接到一通威胁电话：“停止游戏开发，否则悲剧将重演。”担任游戏参演者之一的大辉妹妹葵也被卷入事件，突然失踪。大辉被迫面临终极抉择：是完成游戏，还是守护妹妹与同伴？",
+    "link": null,
+    "tmdb_id": "307750",
+    "tmdb_site_id": "tv/307750",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "634114",

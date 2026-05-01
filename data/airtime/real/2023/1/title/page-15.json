@@ -1,0 +1,315 @@
+[
+  {
+    "id": "236597",
+    "type": "tmdb",
+    "title": "东京女子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lbwt2LfmYBin1AcV0KbDlmtve49.jpg",
+    "releaseDate": "2023-11-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　故事讲述在前往新宿的夜间巴士上，一个面露焦急表情的女性坐在那里。她叫宫田真纪子（佐津川爱美），是30岁的护士，婚礼即将举行，她在富山工作。在她的生活中，她从未自己做出过决定。她认为按照社会的规定结婚并生孩子是理所当然的。然而有一天，她突然从一个强盗手中接过一个装有3000万日元的波士顿包。她面临一个选择，是报警，还是...。不知不觉中，真纪子已经坐上了开往东京的巴士。",
+    "link": null,
+    "tmdb_id": "236597",
+    "tmdb_site_id": "tv/236597",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "339986",
+    "type": "link",
+    "title": "变形金刚：超能勇士崛起",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/6f/339986_VNHJo.jpg",
+    "releaseDate": "2023-06-09",
+    "mediaType": "real",
+    "rating": "5.1",
+    "description": "1话 /  2023年6月9日 / Steven Caple Jr. / Joby Harold、Darnell Metayer、Josh Peters、Erich Hoeber、Jon Hoeber / Anthony Ramos、Dominique Fishback",
+    "link": "https://bgm.tv/subject/339986"
+  },
+  {
+    "id": "202099",
+    "type": "tmdb",
+    "title": "真实的谎言",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ydezEtL8JAWO7UvnLIglh7G7e1f.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "哈利·塔斯克是一名隶属于美国情报组织“欧米茄区”的资深特工，哈利的妻子名叫海伦，是一位对生活感到厌倦的语言学教授。令妻子感到震惊的是，她那看似平凡的丈夫一直以来都过着紧张刺激的双重生活。身份暴露后，欧米茄区招募了海伦，海伦也凭借出众的“技能”给大家留下了深刻的印象。她和哈利以及其他顶级特工开始在全球范围内执行秘密任务，过起了危险刺激的生活。与此同时，他们还要对孩子们守口如瓶。",
+    "link": null,
+    "tmdb_id": "202099",
+    "tmdb_site_id": "tv/202099",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "483532",
+    "type": "link",
+    "title": "直言真相 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/5d/483532_wi6Pq.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2023-01-20",
+    "link": "https://bgm.tv/subject/483532"
+  },
+  {
+    "id": "515763",
+    "type": "link",
+    "title": "TVアニメ「新しい上司はど天然」新しいラジオもど天然でした。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/74/50/515763_00Tdo.jpg",
+    "releaseDate": "2023-09-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "7话 /  2023年09月29日 / 梅原裕一郎、西山宏太朗",
+    "link": "https://bgm.tv/subject/515763"
+  },
+  {
+    "id": "435177",
+    "type": "link",
+    "title": "TVアニメ「江戸前エルフ」高耳神社のご神体ラジオ ～私、ご利益ないけどな！～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/41/435177_cN3N9.jpg",
+    "releaseDate": "2023-04-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2023年4月13日 / 尾崎由香、小清水亜美",
+    "link": "https://bgm.tv/subject/435177"
+  },
+  {
+    "id": "515788",
+    "type": "link",
+    "title": "TVアニメ「私の百合はお仕事です！」WEBラジオ「カフェ・リーベ女学園より愛を込めて」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f2/c3/515788_iQq71.jpg",
+    "releaseDate": "2023-04-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2023年04月07日 / 小倉唯、上坂すみれ",
+    "link": "https://bgm.tv/subject/515788"
+  },
+  {
+    "id": "515764",
+    "type": "link",
+    "title": "TVアニメ「経験済みなキミと、経験ゼロなオレが、お付き合いする話。」イッチーとニッシーの陰キャ配信",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/1e/515764_tCCeD.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2023-10-06 / 落合福嗣、阪口大助",
+    "link": "https://bgm.tv/subject/515764"
+  },
+  {
+    "id": "515833",
+    "type": "link",
+    "title": "TVアニメ「聖女の魔力は万能です Season2」〜セイとリズのお茶会ラジオ〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/af/515833_RgbF4.jpg",
+    "releaseDate": "2023-12-26",
+    "mediaType": "real",
+    "rating": "",
+    "description": "7话 /  2023年12月26日 / 石川由依、上田麗奈",
+    "link": "https://bgm.tv/subject/515833"
+  },
+  {
+    "id": "632943",
+    "type": "link",
+    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2023",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/57/20/632943_8RVM8.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2023-11-26 / 高橋李依（アイ役）、大塚剛央（アクア役）、伊駒ゆりえ（ルビー役）、潘めぐみ（有馬かな役）、石見舞菜香（黒川あかね役）、大久保瑠美（MEMちょ役）、伊東健人（ゴロー役）",
+    "link": "https://bgm.tv/subject/632943"
+  },
+  {
+    "id": "515666",
+    "type": "link",
+    "title": "TVアニメ地獄楽「神仙郷放送局」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/02/515666_sbbOy.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "11话 /  2023-04-21 / 小林千晃、花守ゆみり",
+    "link": "https://bgm.tv/subject/515666"
+  },
+  {
+    "id": "133748",
+    "type": "tmdb",
+    "title": "烈火战车",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ipy1qpSofSLlO59MEmS1V3AuvdZ.jpg",
+    "releaseDate": "2023-07-27",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "在后末日的荒芜大地上，健谈又失忆的牛奶递送员无名氏为求生计接到一项任务，要穿越荒凉的世界，运送一枚神秘的包裹。在鲁莽的偷车贼同伴的帮助下，无名氏面临着改变人生的机会，但他必须在路途中与无情掠夺者的飞车大战中生存下来，以把握获得更美好未来的机会。",
+    "link": null,
+    "tmdb_id": "133748",
+    "tmdb_site_id": "tv/133748",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "220444",
+    "type": "tmdb",
+    "title": "UFOs: Investigating the Unknown",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6hjjlePqkcdQkK4VEe7kb4LRFop.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "9话 /  2023-04-18 / 瑠東東一郎、金井紘 / 徳尾浩司 / 高畑充希、田中圭",
+    "link": null,
+    "tmdb_id": "220444",
+    "tmdb_site_id": "tv/220444",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "282492",
+    "type": "link",
+    "title": "未定名漫威计划",
+    "posterPath": null,
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023-",
+    "link": "https://bgm.tv/subject/282492"
+  },
+  {
+    "id": "353398",
+    "type": "link",
+    "title": "星际迷航4",
+    "posterPath": null,
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023-12-22（北美） / Matt Shakman",
+    "link": "https://bgm.tv/subject/353398"
+  },
+  {
+    "id": "460744",
+    "type": "link",
+    "title": "上载新生 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/02/460744_oG4Oj.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023-10-19",
+    "link": "https://bgm.tv/subject/460744"
+  },
+  {
+    "id": "610799",
+    "type": "link",
+    "title": "V/R Converters 1st One-man Live『The Invading Points』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/90/610799_63T0G.jpg",
+    "releaseDate": "2023-08-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年8月2日 / V/R Converters",
+    "link": "https://bgm.tv/subject/610799"
+  },
+  {
+    "id": "469932",
+    "type": "link",
+    "title": "不眠 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/f1/469932_55tJ3.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2023-12-10",
+    "link": "https://bgm.tv/subject/469932"
+  },
+  {
+    "id": "415486",
+    "type": "link",
+    "title": "维京传奇：英灵神殿 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/00/415486_zZ2mv.jpg",
+    "releaseDate": "2023-01-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023年1月12日",
+    "link": "https://bgm.tv/subject/415486"
+  },
+  {
+    "id": "218038",
+    "type": "tmdb",
+    "title": "VIVANT",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9RvSRRekl3uX7pw3P7cnTLqGzEY.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "TBS日九新剧《VIVANT》由《半泽直树》导演福泽克雄执导，堺雅人、阿部宽、二阶堂富美、松坂桃李、役所广司等豪华卡司共演。是敌是友？是友是敌？冒险就此展开！",
+    "link": null,
+    "tmdb_id": "218038",
+    "tmdb_site_id": "tv/218038",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "134224",
+    "type": "tmdb",
+    "title": "超电磁侠波鲁吉斯V：遗产",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8Sio0GDDIP0okgG4dez1yuKQBPW.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "菲律宾真人剧集《超电磁侠波鲁吉斯V：遗产》",
+    "link": null,
+    "tmdb_id": "134224",
+    "tmdb_site_id": "tv/134224",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "PH"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "497791",
+    "type": "link",
+    "title": "波鲁吉斯V：遗产 电影版",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/33/e5/497791_h7st0.jpg",
+    "releaseDate": "2023-04-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年4月18日（菲律宾）、2024年10月18日（日本） / Mark A. Reyes V / Suzette Doctolero、Loi Nova、Libay Trinidad、Jake Somera",
+    "link": "https://bgm.tv/subject/497791"
+  },
+  {
+    "id": "200701",
+    "type": "tmdb",
+    "title": "韦科惨案：余波",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7xaVVAAhMJhc5VIRpRa48DLsRru.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "本剧描绘了 1993 年联邦调查局与大卫教派的惨烈对峙引发的后果——激发了美国民兵运动，帮助蒂莫西·麦克维、特里·尼科尔斯和许多其他人变得激进，为俄克拉何马城爆炸案和1·6美国国会暴乱等事件的发生埋下了伏笔。",
+    "link": null,
+    "tmdb_id": "200701",
+    "tmdb_site_id": "tv/200701",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "346054",
+    "type": "link",
+    "title": "战士 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9f/0a/346054_3yLJ1.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2023-06-29 / Andrew Koji",
+    "link": "https://bgm.tv/subject/346054"
+  }
+]

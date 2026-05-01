@@ -11,15 +11,22 @@
     "link": "https://bgm.tv/subject/444748"
   },
   {
-    "id": "621103",
-    "type": "link",
-    "title": "100% Wolf: Book of Hath",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/87/621103_qMqWa.jpg",
+    "id": "225829",
+    "type": "tmdb",
+    "title": "100% Wolf: The Book of Hath",
+    "posterPath": "https://image.tmdb.org/t/p/w500/Ac8RBBvN2sZbADha04EsfdjsWil.jpg",
     "releaseDate": "2023-05-01",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "7.0",
     "description": "26话 /  2023年5月1日",
-    "link": "https://bgm.tv/subject/621103"
+    "link": null,
+    "tmdb_id": "225829",
+    "tmdb_site_id": "tv/225829",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "AU"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "217512",
@@ -32,6 +39,8 @@
     "description": "13话 /  2023年10月4日 / 佐久間貴史 / 若木民喜、みつみ美里・甘露樹（アクアプラス） / 佐々木政勝",
     "link": null,
     "tmdb_id": "217512",
+    "tmdb_site_id": "tv/217512",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -80,15 +89,22 @@
     "link": "https://bgm.tv/subject/464646"
   },
   {
-    "id": "427004",
-    "type": "link",
+    "id": "234443",
+    "type": "tmdb",
     "title": "四周恋人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/34/427004_ZQ954.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wP0ywF4hfwaWHn78DumOXJjw4Hf.jpg",
     "releaseDate": "2023-04-04",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "10话 /  2023年4月4日 / 이사라 / 마로론",
-    "link": "https://bgm.tv/subject/427004"
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "4周内攻略成功？还是失败？\n\n“你…真是一点都没变。干涩的双唇，紧握的双手…还有那有点傻傻的样子。”外貌出众，又以系上第一名录取的经管系新生郑道俊，他即将展开的大学生活是一片康庄大道！…才怪，道俊偏偏在宿舍和宋在熙再次重逢了。高中时他与这家伙有一段有始无终的过去没处理好，可在熙却对道俊说…“我一个人喜欢你也不行吗？”“……”“你就那样视而不见地离开了。”在熙笑着跟不断想逃跑的道俊说自己已经“死心了”，但…手臂因道俊而受伤的在熙，向道俊提出了一个契约来代替赔偿金…居然是要道俊当他4周的恋人？",
+    "link": null,
+    "tmdb_id": "234443",
+    "tmdb_site_id": "tv/234443",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "429898",
@@ -168,15 +184,22 @@
     "link": "https://bgm.tv/subject/452044"
   },
   {
-    "id": "444847",
-    "type": "link",
+    "id": "226684",
+    "type": "tmdb",
     "title": "Acorda, Carlo!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/76/12/444847_XPz22.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg",
     "releaseDate": "2023-07-06",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "8.3",
     "description": "13话 /  2023年7月6日",
-    "link": "https://bgm.tv/subject/444847"
+    "link": null,
+    "tmdb_id": "226684",
+    "tmdb_site_id": "tv/226684",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "BR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "364996",
@@ -190,15 +213,22 @@
     "link": "https://bgm.tv/subject/364996"
   },
   {
-    "id": "423720",
-    "type": "link",
+    "id": "110126",
+    "type": "tmdb",
     "title": "特务猫王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/55/423720_Fzf15.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg",
     "releaseDate": "2023-03-17",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "10话 /  2023年3月17日 / Gary Ye、Fletcher Moules",
-    "link": "https://bgm.tv/subject/423720"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "在这部成人动画喜剧中，猫王加入一个秘密的政府间谍计划。他脱下连体衣，换上喷气背包，阻止恶棍们毁灭世界。",
+    "link": null,
+    "tmdb_id": "110126",
+    "tmdb_site_id": "tv/110126",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "215956",
@@ -211,6 +241,8 @@
     "description": "12话 /  2023年7月7日 / 佐藤雄三 / 山田胡瓜 (秋田書店「少年チャンピオン・コミックス」刊) / 土屋圭",
     "link": null,
     "tmdb_id": "215956",
+    "tmdb_site_id": "tv/215956",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

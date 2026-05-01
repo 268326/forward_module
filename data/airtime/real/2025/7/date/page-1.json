@@ -1,27 +1,5 @@
 [
   {
-    "id": "619620",
-    "type": "link",
-    "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/5d/619620_S7UDK.jpg",
-    "releaseDate": "2025-12-31",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2025年12月31日 / 長谷川徹 / 長嶋一茂、石原良純、高嶋ちさ子、高橋茂雄、大森南朋、相葉雅紀、松下奈緒、伊藤淳史、髙木雄也、足立梨花、丸山礼、野村康太、本田大輔、矢柴俊博、水嶋凜、ワタナベケイスケ、横山涼、宮地真史、光石研、遠藤憲一、佐藤浩市、土屋太鳳、三浦翔平、山村紅葉、山崎育三郎、神保悟志、小沢真珠、遊井亮子、有働由美子、風間俊介、八木亜希子、藤原紀香、高島礼子、高嶋政伸、西岡徳馬、袴田吉彦、ゆうちゃみ、篠田麻里子、小澤征悦、西村誠治、加来亮凪、新虎幸明",
-    "link": "https://bgm.tv/subject/619620"
-  },
-  {
-    "id": "611088",
-    "type": "link",
-    "title": "聖ラブサバイバーズ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/c8/611088_O8tuJ.jpg",
-    "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2025-12-31、2026-01-07 / 河原瑶 / 灯敦生、河原瑶 / 石井杏奈",
-    "link": "https://bgm.tv/subject/611088"
-  },
-  {
     "id": "605917",
     "type": "link",
     "title": "凡人修仙传动画视听音乐会",
@@ -55,15 +33,44 @@
     "link": "https://bgm.tv/subject/609263"
   },
   {
-    "id": "485298",
+    "id": "619620",
     "type": "link",
-    "title": "轻年",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/0b/485298_Rsqni.jpg",
+    "title": "ザワつく！大追跡“高嶋ちさ子殺人事件!?” ～カラス天狗が舞う夜は～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/5d/619620_S7UDK.jpg",
+    "releaseDate": "2025-12-31",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年12月31日 / 長谷川徹 / 長嶋一茂、石原良純、高嶋ちさ子、高橋茂雄、大森南朋、相葉雅紀、松下奈緒、伊藤淳史、髙木雄也、足立梨花、丸山礼、野村康太、本田大輔、矢柴俊博、水嶋凜、ワタナベケイスケ、横山涼、宮地真史、光石研、遠藤憲一、佐藤浩市、土屋太鳳、三浦翔平、山村紅葉、山崎育三郎、神保悟志、小沢真珠、遊井亮子、有働由美子、風間俊介、八木亜希子、藤原紀香、高島礼子、高嶋政伸、西岡徳馬、袴田吉彦、ゆうちゃみ、篠田麻里子、小澤征悦、西村誠治、加来亮凪、新虎幸明",
+    "link": "https://bgm.tv/subject/619620"
+  },
+  {
+    "id": "611088",
+    "type": "link",
+    "title": "聖ラブサバイバーズ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/c8/611088_O8tuJ.jpg",
     "releaseDate": "2025-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "32话 /  2025-12-30 / 花箐 / 费达未、王小艾 / 霍建華、田雨、张雪迎、乔振宇、刘端端",
-    "link": "https://bgm.tv/subject/485298"
+    "description": "2025-12-31、2026-01-07 / 河原瑶 / 灯敦生、河原瑶 / 石井杏奈",
+    "link": "https://bgm.tv/subject/611088"
+  },
+  {
+    "id": "257789",
+    "type": "tmdb",
+    "title": "轻年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qKAEETQekVthPO6JgJ0T6aalQK2.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "上世纪八十年代，马丁和三个亲如兄弟的小伙伴在北京的胡同里一起长大。在高中毕业前夕，一场由马丁引发的变故使他和兄弟三人分崩离析。青春落幕，马丁远走国外，自此销声匿迹。多年以后，已经成为上市公司副总的马丁突患脑瘤，孑然一身的他准备平静地迎接死亡，心底却隐隐有一种羁绊，让他无法割舍。马丁想在离世之前解开宿怨，重拾友情。人到中年的兄弟四人携手创业，每个人的生活都在发生着改变，旧时友情在彼此心中慢慢复苏，马丁也重燃生活的希望。",
+    "link": null,
+    "tmdb_id": "257789",
+    "tmdb_site_id": "tv/257789",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "617645",
@@ -77,17 +84,6 @@
     "link": "https://bgm.tv/subject/617645"
   },
   {
-    "id": "618753",
-    "type": "link",
-    "title": "拯救游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9c/e4/618753_3Z33F.jpg",
-    "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2025-12-29 / 박윤진",
-    "link": "https://bgm.tv/subject/618753"
-  },
-  {
     "id": "619183",
     "type": "link",
     "title": "TVアニメ『勇者刑に処す』 ～女神のラジオ記録～",
@@ -99,15 +95,22 @@
     "link": "https://bgm.tv/subject/619183"
   },
   {
-    "id": "612226",
-    "type": "link",
+    "id": "307735",
+    "type": "tmdb",
     "title": "今日もカレーですか？",
-    "posterPath": null,
+    "posterPath": "https://image.tmdb.org/t/p/w500/aNZh0zAfSHPf9xvW84VdeUzzSC3.jpg",
     "releaseDate": "2025-12-29",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2025年12月29日 / 北畑龍一 / 富安美尋 / 田牧そら",
-    "link": "https://bgm.tv/subject/612226"
+    "link": null,
+    "tmdb_id": "307735",
+    "tmdb_site_id": "tv/307735",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "627631",
@@ -143,6 +146,17 @@
     "link": "https://bgm.tv/subject/617305"
   },
   {
+    "id": "618753",
+    "type": "link",
+    "title": "拯救游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9c/e4/618753_3Z33F.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2025-12-29 / 박윤진",
+    "link": "https://bgm.tv/subject/618753"
+  },
+  {
     "id": "610835",
     "type": "link",
     "title": "Last Man -全盲搜查官- FAKE/TRUTH",
@@ -165,37 +179,40 @@
     "link": "https://bgm.tv/subject/580239"
   },
   {
-    "id": "566333",
-    "type": "link",
+    "id": "258492",
+    "type": "tmdb",
     "title": "人之初",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/a9/566333_IM8fm.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vIf5ueGBbNBjUBlK2zMjQFLoAK3.jpg",
     "releaseDate": "2025-12-27",
-    "mediaType": "real",
-    "rating": "",
-    "description": "18话 /  2025年12月27日 / 李路 / 张若昀 / 马思纯 / 王景春 / 唐嫣 / 杨玏 / 萨日娜 / 任彬 / 冯雷 / 王菊 / 洪浚嘉 / 徐百慧 / 程潇 / 雷佳 / 焦刚 / 张可盈 / 方悦乔 / 王秀竹",
-    "link": "https://bgm.tv/subject/566333"
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "一场突如其来的事故，一具陈尸多年的白骨，将两个年轻人紧紧缠绕在一起。为破解身世之谜，他们携手合作配合警方共同挖清这座城市的陈年黑暗，解开重重谜团。",
+    "link": null,
+    "tmdb_id": "258492",
+    "tmdb_site_id": "tv/258492",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "587300",
-    "type": "link",
-    "title": "かばん屋の相続",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/12/587300_EYyq3.jpg",
+    "id": "301352",
+    "type": "tmdb",
+    "title": "箱包店的继承",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8oVrqNqGgDuajJYmF2NPza2SmR0.jpg",
     "releaseDate": "2025-12-27",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2025年12月27日 / 西浦正記 / 前川洋一 / 町田啓太、菅生新樹、伊藤淳史、藤原丈一郎（なにわ男子）",
-    "link": "https://bgm.tv/subject/587300"
-  },
-  {
-    "id": "610854",
-    "type": "link",
-    "title": "二子多磨",
-    "posterPath": null,
-    "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2025-12-26 / 瀬田なつき、椿本慶次郎 / 政池洋佑 / 橋本愛、瀬戸康史",
-    "link": "https://bgm.tv/subject/610854"
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "本作为四集单元剧，展现金融世界的人性与矛盾。《十年的圣诞节》中，永岛慎司（町田启太 饰）怀疑破产社长神室彦一的阔气真相；《如尘埃般》里，新人行员山田一（菅生新树 饰）拼力支援女社长土屋年子；《推销话术》中，贷款科长北村由纪彦（伊藤淳史 饰）追查企业社长的可疑融资；《包袋店的继承》里，小仓太郎（藤原丈一郎 饰）卷入家族企业继承的兄弟争端。",
+    "link": null,
+    "tmdb_id": "301352",
+    "tmdb_site_id": "tv/301352",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "591891",
@@ -209,15 +226,22 @@
     "link": "https://bgm.tv/subject/591891"
   },
   {
-    "id": "565287",
-    "type": "link",
+    "id": "238458",
+    "type": "tmdb",
     "title": "现金英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/98/7b/565287_APZbh.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hIQwZleQDWyhwGlnW1O6wUTnIiY.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2025-12-26 / 이창민 / 이제인、전찬호 / 이준호、김혜준、김병철、김향기",
-    "link": "https://bgm.tv/subject/565287"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "讲述平凡公务员姜常雄（李俊昊 饰）获得与金钱数量成正比的超能力，并用自己的薪水拯救世界，与超级英雄们共同守护普通人日常生活的故事。",
+    "link": null,
+    "tmdb_id": "238458",
+    "tmdb_site_id": "tv/238458",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "573894",
@@ -242,6 +266,24 @@
     "link": "https://bgm.tv/subject/410874"
   },
   {
+    "id": "312057",
+    "type": "tmdb",
+    "title": "二子多磨",
+    "posterPath": "https://image.tmdb.org/t/p/w500/789DZ0pXnjBoFtkfJKxvV0sEzMv.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "浅尾温子（桥本爱 饰）在手作便当店打工，与交往九年的男友岩城晃平（濑户康史 饰）同居多年。温子对爱情与婚姻一向淡然，却在晃平突然坦白“让同事怀孕”后，平静生活瞬间被击碎。晃平是温柔却优柔寡断的知识产权代理师，而怀孕的同事高野悠子（比嘉爱未 饰）是能力卓越、外冷内柔的职业女性。三人的生活被意外牵动，在纠结、愧疚与抉择之间，关系逐渐走向无法回头的岔路。",
+    "link": null,
+    "tmdb_id": "312057",
+    "tmdb_site_id": "tv/312057",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "617642",
     "type": "link",
     "title": "一颗苹果",
@@ -253,14 +295,21 @@
     "link": "https://bgm.tv/subject/617642"
   },
   {
-    "id": "617766",
-    "type": "link",
-    "title": "亲亲我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/20/617766_4yGYq.jpg",
+    "id": "207484",
+    "type": "tmdb",
+    "title": "古战场传奇：吾血之亲",
+    "posterPath": "https://image.tmdb.org/t/p/w500/z5iW51VQe9GCGhMMeKdmQL3jgCg.jpg",
     "releaseDate": "2025-12-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2025年12月25日 / 蕾蕾 / 陈冠豪、刘明月",
-    "link": "https://bgm.tv/subject/617766"
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "该剧为《古战场传奇》衍生前传剧集，围绕杰米的父母布莱恩·弗雷泽与艾伦·麦肯齐，以及克莱尔的父母亨利·比肖普与朱莉娅·莫里斯顿的爱情故事展开。从第一次世界大战的英格兰到18世纪的苏格兰高地，追溯这两对命运交织的恋人的相识、相知与情感抉择。他们的故事不仅揭示了主剧中主角命运的起点，也深刻展现了爱与信念在动荡时代中的力量。",
+    "link": null,
+    "tmdb_id": "207484",
+    "tmdb_site_id": "tv/207484",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

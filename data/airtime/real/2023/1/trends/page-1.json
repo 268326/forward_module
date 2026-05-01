@@ -1,25 +1,39 @@
 [
   {
-    "id": "412118",
-    "type": "link",
-    "title": "虫王战队超王者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5a/aa/412118_99C3A.jpg",
+    "id": "227897",
+    "type": "tmdb",
+    "title": "与莫芬一起",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mRTRVhzR5LfKPmtNcftMD1Is6zC.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "8.4",
-    "description": "50话 /  2023-03-05 / 上堀内佳寿也、山口恭平、加藤弘之、茶谷和行、中澤祥次郎、坂本浩一 / 高野水登、金子香緒里 / 酒井大成、渡辺碧斗、村上愛花、平川結月、佳久創、池田匡志",
-    "link": "https://bgm.tv/subject/412118"
+    "mediaType": "tv",
+    "rating": "1.0",
+    "description": "动画短片",
+    "link": null,
+    "tmdb_id": "227897",
+    "tmdb_site_id": "tv/227897",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "407975",
-    "type": "link",
+    "id": "215197",
+    "type": "tmdb",
     "title": "重启人生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/02/d3/407975_nWsPR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/uaZXNusiStCwGMyUun97bysK774.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "10话 /  2023-01-08 / 水野格、狩山俊輔、松田健斗 / バカリズム / 安藤サクラ",
-    "link": "https://bgm.tv/subject/407975"
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "近藤麻美（安藤樱 饰）是个任职于地方市役所、生活非常平凡的33岁单身女性。某天一睁开眼，麻美发现自己居然带着记忆穿越到过去，人生更是从呱呱坠地的零岁重来一遍！意会过来的她，想起死后世界的引路人，以及自己希望再投胎为人类而选择一边积德、一边重新过上同样的人生。亲情、友情、恋情… 第二轮平凡的人生，开始！",
+    "link": null,
+    "tmdb_id": "215197",
+    "tmdb_site_id": "tv/215197",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "37854",
@@ -32,19 +46,28 @@
     "description": "8话 /  2023-08-31 / Matt Owens、Steven Maeda、Ian Stokes、Allison Weintraub、Laura Jacqmin、Jason Cho、Damani Johnson、Lindsay Gelfand、尾田栄一郎 (创意监修) / Iñaki Godoy / Emily Rudd / Mackenyu(新田真剣佑) / Jacob Romero Gibson / Taz Skylar / Vincent Regan / Jeff Ward / Morgan Davies",
     "link": null,
     "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "388982",
-    "type": "link",
+    "id": "204541",
+    "type": "tmdb",
     "title": "三体",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/57/410935_c58LD.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q2sNliRi4j0ncXKUO1x0MldR20A.jpg",
     "releaseDate": "2023-01-15",
-    "mediaType": "real",
+    "mediaType": "tv",
     "rating": "7.8",
-    "description": "30话 /  2023年1月15日 / 杨磊 / 田良良 / 张鲁一、于和伟、陈瑾、王子文、林永健、李小冉",
-    "link": "https://bgm.tv/subject/388982"
+    "description": "　　2007年，地球基础科学出现了异常的扰动，一时间科学界风雨飘飘，人心惶惶。离奇自杀的科学家，近乎神迹的倒计时，行事隐秘的科学边界，神秘莫测的《三体》游戏。纳米科学家汪淼被警官史强带到联合作战中心，并潜入名为“科学边界”的组织协助调查。迷雾之中，汪淼接触到一个名为ETO的组织，发现其幕后统帅竟是自杀身亡的科学家杨冬的母亲叶文洁。随着ETO与作战中心你来我往的不断博弈，汪淼和史强逐渐确定《三体》游戏中的世界真实存在。而所有事件的源起，是两个文明为了生存空间，孤注一掷的生死相逐。在联合作战中心及科学家们的共同努力下，汪淼、史强等人坚定信念、重燃希望，带领大家继续准备着在今后与即将入侵的三体人展开殊死斗争。",
+    "link": null,
+    "tmdb_id": "204541",
+    "tmdb_site_id": "tv/204541",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "320871",
@@ -58,15 +81,22 @@
     "link": "https://bgm.tv/subject/320871"
   },
   {
-    "id": "366193",
-    "type": "link",
+    "id": "205715",
+    "type": "tmdb",
     "title": "V世代",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/58/366193_A77Bl.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "6.6",
-    "description": "8话 /  2023-09-29 / Jaz Sinclair / Chance Perdomo / Lizze Broadway / Maddie Phillips / London Thor / Derek Luh / Asa Germann And Shelley Conn",
-    "link": "https://bgm.tv/subject/366193"
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "美国唯一的超级英雄学院的这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
+    "link": null,
+    "tmdb_id": "205715",
+    "tmdb_site_id": "tv/205715",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "408725",
@@ -80,26 +110,40 @@
     "link": "https://bgm.tv/subject/408725"
   },
   {
-    "id": "431299",
-    "type": "link",
+    "id": "225008",
+    "type": "tmdb",
     "title": "漫长的季节",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/bd/431299_R8csy.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg",
     "releaseDate": "2023-04-22",
-    "mediaType": "real",
-    "rating": "8.5",
-    "description": "12话 /  2023年4月22日 / 于小千、潘依然、陈骥 / 范伟、秦昊、陈明昊、李庚希、刘奕铁、蒋奇明、刘琳、史彭元、侯岩松、林晓杰、王佳佳、杨一威、唐曾、王艺荻",
-    "link": "https://bgm.tv/subject/431299"
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "小城桦林，此时，出租司机王响做梦也没想到，他还有机会遇到一个他此生最想遇到，又最怕遇到的人。是仇人还是故人？遇到了，就得有交代，给自己，也给儿子。 小城桦林，彼时，火车司机王响意气风发，开的了二十挂的钢铁巨兽却管不好鸡毛蒜皮的三口小家，工厂摇摇欲坠，危机处处紧逼。 一包身份未明的碎尸像一块石头砸在桦林的水面上，也砸在王响的头脑里，这片涟漪一荡就是20年，荡到秋叶泛黄，从未停歇。 迷失的父亲，死亡的恋人、重逢的老友，因一个未解的谜题被困在三个不同的时代里，只为追寻一个跨越了过去、现在、未来的真相，当谜底揭开时，时空融为一体，在漫长的季节里只剩命运的挽歌。",
+    "link": null,
+    "tmdb_id": "225008",
+    "tmdb_site_id": "tv/225008",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "431325",
-    "type": "link",
+    "id": "213442",
+    "type": "tmdb",
     "title": "布莱泽奥特曼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/4d/431325_B6vPB.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rQqMuz69A7WPhMrqlEdQjFXW41u.jpg",
     "releaseDate": "2023-07-08",
-    "mediaType": "real",
-    "rating": "7.6",
-    "description": "25话 /  2023年7月8日 / 田口清隆・辻本貴則・中川和博・越知靖・武居正能・宮崎龍太 / 小柳啓伍・継田淳・山崎太基・植竹須美男・足木淳一郎・中野貴雄・根元歳三；系列构成：小柳啓伍・田口清隆 / 蕨野友也",
-    "link": "https://bgm.tv/subject/431325"
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "在全球怪物灾难爆发后，世界各国于1966年成立了地球防卫队（GGF），以应对来自地球内外的怪物和外星生命的袭击。\n\n如今，人类对自然界的破坏和全球变暖现象日益严重。 一天晚上，宇宙甲壳怪物巴赞甲出现了。地球防卫队的清理行动遇到了困难，比留间弦人领导的特殊部队陷入了绝望的境地。 这时，一个神秘的巨人带着耀眼的光芒降临了。 这是一个身份不明的大型外星人，代号为“奥特曼”，几十年来在宇航员中一直有着他的传言。\n\n后来，弦人被传唤到指挥中心，突然接到成为特殊怪兽对应分遣队（SKaRD）指挥官的任务。SKaRD是一支秘密组织的特殊怪物反应分队。他指挥的这支特殊部队，以驾驶巨型怪物形状的机器人阿斯加隆为主来对抗怪物灾难。 同时，他还奉命调查在巴赞甲之战中出现的奥特曼是否为必须消灭的敌人。\n\n“我去解决”。\n\n现在，在布莱泽奥特曼之光的笼罩下，弦人队长将与新组织的SKaRD的特殊成员一起，投入到与怪兽的新战斗中，他的心中深藏着坚实的勇气和坚定的正义！",
+    "link": null,
+    "tmdb_id": "213442",
+    "tmdb_site_id": "tv/213442",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "432405",
@@ -135,15 +179,22 @@
     "link": "https://bgm.tv/subject/433632"
   },
   {
-    "id": "442435",
-    "type": "link",
-    "title": "賭けからはじまるサヨナラの恋",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/cc/442435_ADjzY.jpg",
+    "id": "230834",
+    "type": "tmdb",
+    "title": "始于赌约的告别之恋",
+    "posterPath": "https://image.tmdb.org/t/p/w500/n5Kc8N7XDoMunAvLRXJfS2KPHgJ.jpg",
     "releaseDate": "2023-07-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2023年7月20日 / 有働佳史、住松拓三 / ニシオカ・ト・ニール / 山崎紘菜",
-    "link": "https://bgm.tv/subject/442435"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "讲述因面无表情而被称为“冰铁之女”的公司职员吉永奈央和优柔寡断的帅哥同期的里村紘一的爱情喜剧。有一天，奈央看到了前辈职员们和里村打赌自己能不能被他攻略的场面。奈央暗恋里村多年。虽说是赌博，但不想错过这个好机会的奈央，接受了里村的告白，想享受轻松的恋人关系，但是......",
+    "link": null,
+    "tmdb_id": "230834",
+    "tmdb_site_id": "tv/230834",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "541648",
@@ -157,15 +208,22 @@
     "link": "https://bgm.tv/subject/541648"
   },
   {
-    "id": "548040",
-    "type": "link",
+    "id": "217431",
+    "type": "tmdb",
     "title": "纵有疾风起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/32/548040_8o262.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a6pHZkbEglScyg9UoFXPWr0F5MR.jpg",
     "releaseDate": "2023-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "39话 /  2023-01-01 / 费振翔 / 李潇、姜无及 / 靳东／宋佳／田雨／杨功／孙淳／倪大红／梁静／辛芷蕾／沙宝亮／张铎／朱珠／张瑶／周功劫／王玉雯／曹曦文／李洪涛／刘斌／杨昆／曾黎／海一天",
-    "link": "https://bgm.tv/subject/548040"
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "唐尘在事业蒸蒸日上的时候，遭遇女友烁冰的“出卖”而不得不宣布破产。他很快投身到二次创业，在与烁冰相爱相杀、几番博弈之后，终于理解了当初烁冰看似无情的选择……",
+    "link": null,
+    "tmdb_id": "217431",
+    "tmdb_site_id": "tv/217431",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "392919",
@@ -189,6 +247,8 @@
     "description": "8话 /  2023-04-21 / Oded Ruskin / Quoc Dang Tran / 山下智久, Fleur Geffrier",
     "link": null,
     "tmdb_id": "306121",
+    "tmdb_site_id": "tv/306121",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -215,15 +275,22 @@
     "link": "https://bgm.tv/subject/339986"
   },
   {
-    "id": "435048",
-    "type": "link",
+    "id": "229201",
+    "type": "tmdb",
     "title": "西出玉门",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/ab/435048_fOxGB.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/udoNtgXxJHCYvb3pbFVhm3xrvPs.jpg",
     "releaseDate": "2023-09-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "38话 /  2023年9月7日 / 苏照彬 / 苏照彬 / 倪妮、白宇、金瀚、孟子义、张艺上",
-    "link": "https://bgm.tv/subject/435048"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "该剧改编自尾鱼的同名人气小说，讲述了有胆识有魄力但身份成谜的叶流西（倪妮 饰）和沉稳机警、退隐江湖的糙汉向导昌东（白宇 饰），为探寻身世之谜，了清过往心愿，组成探险小队，联手深入沙漠一路闯关，途中一步步揭露真相，并在一次次生死考验中参透真爱的故事。",
+    "link": null,
+    "tmdb_id": "229201",
+    "tmdb_site_id": "tv/229201",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "456366",

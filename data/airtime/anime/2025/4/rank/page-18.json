@@ -1,0 +1,50 @@
+[
+  {
+    "id": "296287",
+    "type": "tmdb",
+    "title": "胖子与爱情以及过错！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c0/62/465803_1EhoF.jpg",
+    "releaseDate": "2025-10-06",
+    "mediaType": "tv",
+    "rating": "2.9",
+    "description": "12话 /  2025年10月6日 / 古賀一臣 / ままかり（ソルマーレ編集部 恋するソワレ刊） / 高橋敦子",
+    "link": null,
+    "tmdb_id": "296287",
+    "tmdb_site_id": "tv/296287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "12577",
+    "type": "tmdb",
+    "title": "鬼泣",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/88/2e/282031_YboUH.jpg",
+    "releaseDate": "2025-04-03",
+    "mediaType": "tv",
+    "rating": "2.8",
+    "description": "8话 /  2025年4月3日 / Adi Shankar / CAPCOM / Choi Ji Hyeon（设计组长）、Kim Il Kwang、Lim Min Jin、Kim Hyun Young、Kim Hee Nam、Kim Gun Young、Kwon Na Yeon、Jun Chang Woo、Caro Oliveira、Joo Shin Young、Park Yeon Ok、Mun Se Hee、Jung Jong Heon、Lim Su Jin",
+    "link": null,
+    "tmdb_id": "12577",
+    "tmdb_site_id": "tv/12577",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "261392",
+    "type": "tmdb",
+    "title": "神椿市建设中。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fb/78/475032_PCVWp.jpg",
+    "releaseDate": "2025-07-03",
+    "mediaType": "tv",
+    "rating": "3.1",
+    "description": "13话 /  2025年7月3日 / 柿本広大 / KAMITSUBAKI STUDIO / PIEDPIPER；剧本：月島総記 / PALOW.",
+    "link": null,
+    "tmdb_id": "261392",
+    "tmdb_site_id": "tv/261392",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  }
+]

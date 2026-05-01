@@ -1,0 +1,68 @@
+[
+  {
+    "id": "257045",
+    "type": "tmdb",
+    "title": "三国杀：太平天书",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qYmpzEftq1KSc4uj2e730g4XSga.jpg",
+    "releaseDate": "2024-06-18",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "全新《三国杀》大奖挑战赛横空出世，因人陷害禁赛两年的天才选手郭小野再度挑战巅峰。为了证明自己找回初心，和自己的本命武将郭嘉过关斩将，却在比赛中发现了骇人阴谋——游戏中的伤害竟然能传递给现实中的玩家！",
+    "link": null,
+    "tmdb_id": "257045",
+    "tmdb_site_id": "tv/257045",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "248086",
+    "type": "tmdb",
+    "title": "偶像大师 闪耀色彩",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/aa/425222_l9MWZ.jpg",
+    "releaseDate": "2024-04-05",
+    "mediaType": "tv",
+    "rating": "3.2",
+    "description": "12话 /  2024年4月5日 / まんきゅう / バンダイナムコエンターテインメント / 福士亮平",
+    "link": null,
+    "tmdb_id": "248086",
+    "tmdb_site_id": "tv/248086",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "229906",
+    "type": "tmdb",
+    "title": "机动战士高达 复仇的安魂曲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/98/443929_1nrrR.jpg",
+    "releaseDate": "2024-10-17",
+    "mediaType": "tv",
+    "rating": "2.5",
+    "description": "6话 /  2024年10月17日 / Erasmus Brosdau / Manuel Augusto Dischinger Moura",
+    "link": null,
+    "tmdb_id": "229906",
+    "tmdb_site_id": "tv/229906",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "229108",
+    "type": "tmdb",
+    "title": "被称为废物的原英雄，被家里流放后随心所欲地活下去",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/2c/442176_mWYnq.jpg",
+    "releaseDate": "2024-04-01",
+    "mediaType": "tv",
+    "rating": "2.6",
+    "description": "12话 /  2024年4月1日 / 古賀一臣 / 紅月シン『出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした』（TOブックス刊）；漫画：烏間ル / 細田沙織",
+    "link": null,
+    "tmdb_id": "229108",
+    "tmdb_site_id": "tv/229108",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  }
+]

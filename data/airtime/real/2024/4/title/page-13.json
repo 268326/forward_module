@@ -1,0 +1,306 @@
+[
+  {
+    "id": "138492",
+    "type": "tmdb",
+    "title": "奇幻精灵事件簿",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ic5Hs6zYcM4YUuxyezFUAFQie39.jpg",
+    "releaseDate": "2024-04-19",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "跟随格雷斯一家，他们搬进了祖居，揭开了关于他们的曾叔祖父的黑暗秘密，他发现了与他们平行的秘密精灵世界。",
+    "link": null,
+    "tmdb_id": "138492",
+    "tmdb_site_id": "tv/138492",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "129398",
+    "type": "tmdb",
+    "title": "同情者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ebWAAQTUUQlvdIB5bhMNrxjdeCX.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "改编自阮清越的普利策获奖同名小说，是一部间谍惊悚兼跨文化讽刺类型的剧集。讲述了一名法越混血的越共间谍在越战最后几天里的斗争，以及他作为难民在洛杉矶的新生活，在那里他了解到自己的间谍生涯并没有结束。",
+    "link": null,
+    "tmdb_id": "129398",
+    "tmdb_site_id": "tv/129398",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "462499",
+    "type": "link",
+    "title": "伞学院 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d1/46/462499_q8NQN.jpg",
+    "releaseDate": "2024-08-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2024年8月8日 / Jeremy Webb / Steve Blackman、Jeremy Slater、Gerard Way / Elliot Page、Tom Hopper、David Castañeda",
+    "link": "https://bgm.tv/subject/462499"
+  },
+  {
+    "id": "445399",
+    "type": "link",
+    "title": "行尸走肉：达里尔·迪克森 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c7/ef/445399_Vpdx8.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2024-09-29 / Norman Reedus / Melissa McBride",
+    "link": "https://bgm.tv/subject/445399"
+  },
+  {
+    "id": "206586",
+    "type": "tmdb",
+    "title": "行尸走肉：存活之人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "瑞克和米琼恩被不可阻挡的力量和他们自身的原因分开了，进入了另一个世界，掀起了一场与“死者”的战争，而最终，他们要面对活人。面对前所未见的形势，两人能找到彼此和自我吗？他们是敌人，还是爱人，受害者，还是赢家？没有了对方，他们甚至还活着吗？抑或是，他们最终是否会发现，自己也是行尸走肉？",
+    "link": null,
+    "tmdb_id": "206586",
+    "tmdb_site_id": "tv/206586",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "491821",
+    "type": "link",
+    "title": "THE3名様Ω",
+    "posterPath": null,
+    "releaseDate": "2024-05-24",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年5月24日 / 佐藤隆太、岡田義徳、塚本高史",
+    "link": "https://bgm.tv/subject/491821"
+  },
+  {
+    "id": "218589",
+    "type": "tmdb",
+    "title": "将死之人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "本剧讲述了经历过血腥动乱后成为皇帝的罗马皇帝维斯帕先（安东尼·霍普金斯 饰）统治时期的历史。维斯帕先日渐老迈，他一方面需要面对来自罗马上层贵族精英的鄙夷，一方面要提防他们欲取而代之的企图。",
+    "link": null,
+    "tmdb_id": "218589",
+    "tmdb_site_id": "tv/218589",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "67345",
+    "type": "tmdb",
+    "title": "Thunderbolt Fantasy 东离剑游纪 4",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/5e/347863_ij83D.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2024-10-05",
+    "link": null,
+    "tmdb_id": "67345",
+    "tmdb_site_id": "tv/67345/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "570132",
+    "type": "link",
+    "title": "无刺有刺  Live in SHANGHAI “凛音之理”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/20/570132_P4jQf.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024-12-14（周六） / トゲナシトゲアリ",
+    "link": "https://bgm.tv/subject/570132"
+  },
+  {
+    "id": "248294",
+    "type": "tmdb",
+    "title": "众志成城：曼城三冠王之路",
+    "posterPath": "https://image.tmdb.org/t/p/w500/glYpqNuZVfMeTrGz21JLtor48N5.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "这部系列纪录片回顾了曼城足球俱乐部空前绝后的 2022-23 赛季，见证蓝色军团赢得史无前例的三连冠。",
+    "link": null,
+    "tmdb_id": "248294",
+    "tmdb_site_id": "tv/248294",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "479782",
+    "type": "link",
+    "title": "东京罪恶 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4c/41/479782_bFQKb.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "6.8",
+    "description": "10话 /  2024-02-08",
+    "link": "https://bgm.tv/subject/479782"
+  },
+  {
+    "id": "480394",
+    "type": "link",
+    "title": "Tracker Season 1",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/c5/480394_wxr05.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2024-02-11 / Hilary Weisman Graham / Ben Winters / Justin Hartley / Robin Weigert / Abby McEnany / Eric Graise / Fiona Rene",
+    "link": "https://bgm.tv/subject/480394"
+  },
+  {
+    "id": "421217",
+    "type": "link",
+    "title": "真探：夜之国度",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/15/421217_qX5qc.jpg",
+    "releaseDate": "2024-01-14",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "6话 /  2024年1月14日 / Issa López / Issa López / Jodie Foster、Kali Reis、John Hawkes",
+    "link": "https://bgm.tv/subject/421217"
+  },
+  {
+    "id": "438051",
+    "type": "link",
+    "title": "尝试 第四季",
+    "posterPath": null,
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2024",
+    "link": "https://bgm.tv/subject/438051"
+  },
+  {
+    "id": "410777",
+    "type": "link",
+    "title": "塔尔萨之王 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/00/dd/410777_nZG06.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2024-09-15",
+    "link": "https://bgm.tv/subject/410777"
+  },
+  {
+    "id": "510646",
+    "type": "link",
+    "title": "TVアニメ「トリリオンゲーム」トリリオンゲーム広報宣伝部",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8c/2d/510646_46Ma6.jpg",
+    "releaseDate": "2024-10-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "14话 /  2024年10月3日 / 大塚剛央、石毛翔弥",
+    "link": "https://bgm.tv/subject/510646"
+  },
+  {
+    "id": "508511",
+    "type": "link",
+    "title": "TVアニメ「ワンルーム、日当たり普通、天使つき。」よいこのラジオ大百科",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9c/7c/508511_SuXuJ.jpg",
+    "releaseDate": "2024-04-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "7话 /  2024年4月12日 / 遠野ひかる",
+    "link": "https://bgm.tv/subject/508511"
+  },
+  {
+    "id": "482755",
+    "type": "link",
+    "title": "TVアニメ「夜のクラゲは泳げない」ヨルクラジオ 〜目指せフォロワー10万人〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/22/482755_gkYH5.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024-03-01 / 伊藤美来",
+    "link": "https://bgm.tv/subject/482755"
+  },
+  {
+    "id": "507544",
+    "type": "link",
+    "title": "TVアニメ「真夜中ぱんチ」 MAYOPAN STREAM",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/dd/507544_T4Smm.jpg",
+    "releaseDate": "2024-07-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2024年07月08日 / 長谷川育美",
+    "link": "https://bgm.tv/subject/507544"
+  },
+  {
+    "id": "515135",
+    "type": "link",
+    "title": "TVアニメ「結婚するって、本当ですか」〜ラジオやったら、聞いてくれますか？〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/5c/515135_RD4jN.jpg",
+    "releaseDate": "2024-10-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2024年10月01日 / 熊谷健太郎",
+    "link": "https://bgm.tv/subject/515135"
+  },
+  {
+    "id": "508421",
+    "type": "link",
+    "title": "TVアニメ『戦隊大失格』radio 大直会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/1e/508421_J18j6.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024-03-10 / 梶田大嗣（桜間日々輝役）、矢野優美華（錫切夢子役）",
+    "link": "https://bgm.tv/subject/508421"
+  },
+  {
+    "id": "507815",
+    "type": "link",
+    "title": "TVアニメ『異世界失格』～恥の多いラヂオ～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/70/507815_f98Z5.jpg",
+    "releaseDate": "2024-07-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "7话 /  2024年07月09日 / 大久保瑠美、鈴代紗弓",
+    "link": "https://bgm.tv/subject/507815"
+  },
+  {
+    "id": "554329",
+    "type": "link",
+    "title": "TVアニメ放送10周年記念 LoveLive! Orchestra Concert",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/3a/554329_iLt1X.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024-03-30 / 東京フィルハーモニー交響楽団、指揮：栗田博文",
+    "link": "https://bgm.tv/subject/554329"
+  },
+  {
+    "id": "554326",
+    "type": "link",
+    "title": "TVアニメ放送10周年記念 LoveLive! Special Talk Session",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/49/554326_M45Mp.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2024-02-23 / 新田恵海（高坂穂乃果 役）、内田彩（南ことり 役）、三森すずこ（園田海未 役，Day2）、 飯田里穂（星空凛 役）、Pile（西木野真姫 役）",
+    "link": "https://bgm.tv/subject/554326"
+  }
+]

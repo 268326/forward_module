@@ -1,0 +1,344 @@
+[
+  {
+    "id": "230735",
+    "type": "tmdb",
+    "title": "体感预报",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wXZiUuReXXHQSC53wjP1tVe4tdV.jpg",
+    "releaseDate": "2023-08-10",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "“明天是晴天，我会被这男人疼爱吧。”人气爆棚的帅哥气象预报员濑崎瑞贵（樋口幸平 饰），出乎意料是名暴君。走投无路的色情漫画家棚田叶（増子敦贵 饰），对这个事实有切身的体会，因为他们俩人是同居关系，他不仅天天帮濑崎煮饭打扫，还要照顾他各方面的需求！相对的濑崎会保障他的食衣住，但更重要的是“棚田必须对濑崎言听计从”？！",
+    "link": null,
+    "tmdb_id": "230735",
+    "tmdb_site_id": "tv/230735",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "430592",
+    "type": "link",
+    "title": "明天，我会成为谁的女友 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/00/61/430592_9pa54.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.1",
+    "description": "7话 /  2023-05-16 / 権野元、菅原正登 / 三浦希紗、イ・ナウォン、川原杏奈 / 茅島みずき",
+    "link": "https://bgm.tv/subject/430592"
+  },
+  {
+    "id": "224800",
+    "type": "tmdb",
+    "title": "穴界风云",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bkwkU5lvUJNw01rpP9VOYuxtoQ9.jpg",
+    "releaseDate": "2023-09-22",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "沼仓孝一的母亲在他年幼时被黑道夺走，为了复仇，孝一苦读自己喜欢的《北斗神拳》，学习其中的暗杀拳，发誓要报仇。\n\n醉心于暗杀拳与训练之中，这位发誓要复仇的男人完全习得了拳四郎的本事，成为了史上最强的按摩师，让人们过上了幸福的日子。",
+    "link": null,
+    "tmdb_id": "224800",
+    "tmdb_site_id": "tv/224800",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "222366",
+    "type": "tmdb",
+    "title": "我们的餐桌",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tzmS4MaTSk9kOGowCIbfdLrxZlP.jpg",
+    "releaseDate": "2023-04-06",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "　　单身上班族‧穗积丰(犬饲贵丈 饰)自制的大饭团被公园偶遇的４岁男孩‧种相中(前田空我 饰)，种的哥哥穰(饭岛宽骑 饰)拜托丰到府指导作法，成了两人交互的机缘。穰提议丰常来家里吃饭改善无法跟别人一起吃饭的心理障碍；丰则推祟穰对弟弟耐心和关爱，两人日久生情，穰情不自禁吻了丰，担心破坏原本的友好关系，而丰发现自己对穰一家人的珍惜之情…最后丰加入了穰的家庭。",
+    "link": null,
+    "tmdb_id": "222366",
+    "tmdb_site_id": "tv/222366",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "456075",
+    "type": "link",
+    "title": "神秘博士60周年特别篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/fb/456075_LjR2e.jpg",
+    "releaseDate": "2023-11-25",
+    "mediaType": "real",
+    "rating": "7.4",
+    "description": "3话 /  2023年11月25日 / Rachel Talalay / Russell T. Davies / Karl Collins、Bernard Cribbins、David Tennant、Catherine Tate、Yasmin Finney、Neil Patrick Harris、Ncuti Gatwa",
+    "link": "https://bgm.tv/subject/456075"
+  },
+  {
+    "id": "409611",
+    "type": "link",
+    "title": "流人 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/e0/409611_xjebI.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.9",
+    "description": "6话 /  2023-11-29",
+    "link": "https://bgm.tv/subject/409611"
+  },
+  {
+    "id": "204412",
+    "type": "tmdb",
+    "title": "我家的英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1d/451154_Q93co.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "10话 /  2023-10-24 / 青山貴洋、棚澤孝義、山本大輔、森裕史 / 櫻井剛、船橋勧 / 佐々木蔵之介",
+    "link": null,
+    "tmdb_id": "204412",
+    "tmdb_site_id": "tv/204412",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "202411",
+    "type": "tmdb",
+    "title": "Monarch: Legacy of Monsters",
+    "posterPath": "https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+    "link": null,
+    "tmdb_id": "202411",
+    "tmdb_site_id": "tv/202411",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "421878",
+    "type": "link",
+    "title": "少女☆歌劇 Revue Starlight -The LIVE-#4 Climax",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/3f/421878_2gTEE.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "8.4",
+    "description": "1话 /  2023-02-25 / 三浦香 / 小山百代、三森すずこ、富田麻帆、佐藤日向、岩田陽葵、小泉萌香、相羽あいな、生田輝、伊藤彩沙",
+    "link": "https://bgm.tv/subject/421878"
+  },
+  {
+    "id": "408370",
+    "type": "link",
+    "title": "舞台《莉可丽丝》",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/69/408370_E8e2y.jpg",
+    "releaseDate": "2023-01-07",
+    "mediaType": "real",
+    "rating": "7.7",
+    "description": "2023年1月7日 / ほさかよう / 河内美里、本西彩希帆(劇団4ドル50セント)",
+    "link": "https://bgm.tv/subject/408370"
+  },
+  {
+    "id": "226197",
+    "type": "tmdb",
+    "title": "新闻女王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/krhK2KuV7gItW5WtIoZTmqlwZxZ.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "收视最高的六点半新闻报道是主播的必争之地。在新闻电视部，资深主播文慧心和梁景仁分成两派、平分秋色，前者一番兴风作浪，终攀上管理层之位。黄金时段女主播的空缺，引发连场风暴。",
+    "link": null,
+    "tmdb_id": "226197",
+    "tmdb_site_id": "tv/226197",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "HK"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "406659",
+    "type": "link",
+    "title": "爆龙战队暴连者 20周年 不可饶恕的暴乱",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9f/5f/406659_1462j.jpg",
+    "releaseDate": "2023-09-01",
+    "mediaType": "real",
+    "rating": "7.4",
+    "description": "1话 /  2023年9月1日（影院限定上映）、2024年3月27日 / 木村ひさし / 荒川稔久 / 西興一朗、冨田翔、いとうあいこ、阿部薫、田中幸太朗",
+    "link": "https://bgm.tv/subject/406659"
+  },
+  {
+    "id": "431769",
+    "type": "link",
+    "title": "小红帽在旅途中遇到尸体",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/56/4f/431769_rrvBg.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2023-09-14 / 福田雄一 / 橋本環奈、新木優子、岩田剛典",
+    "link": "https://bgm.tv/subject/431769"
+  },
+  {
+    "id": "72710",
+    "type": "tmdb",
+    "title": "大陆酒店",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nFTo0VJbV97aFuIoZrhfLdeCike.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "本剧是一部叙事连续剧，揭示了处于约翰·维克所在的世界里那家标志性刺客酒店的暴力起源。20世纪70年代的纽约，温斯顿·斯科特招募了一支团队来应对因自己哥哥袭击大陆酒店而引发的巨大阴谋。这部血腥动作剧探讨了亲情、命运与复仇间的碰撞。",
+    "link": null,
+    "tmdb_id": "72710",
+    "tmdb_site_id": "tv/72710",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "196944",
+    "type": "tmdb",
+    "title": "我的幸福婚约",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/0a/379764_Rqrj3.jpg",
+    "releaseDate": "2023-03-17",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "1话 /  2023年3月17日(日本) / 塚原あゆ子 / 菅野友恵 / 目黒蓮(Snow Man)、今田美桜",
+    "link": null,
+    "tmdb_id": "196944",
+    "tmdb_site_id": "tv/196944",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "409504",
+    "type": "link",
+    "title": "下辈子我再好好过3",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/2b/409504_0OC2H.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "12话 /  2023-01-04 / 三木康一郎、湯浅弘章、松浦健志、渡邉裕也 / ペヤンヌマキ、皐月彩 / 内田理央",
+    "link": "https://bgm.tv/subject/409504"
+  },
+  {
+    "id": "228494",
+    "type": "tmdb",
+    "title": "隼消防团",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kv48KZw18ibkdAOejWHRFG3gyIv.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "故事开始于处于低潮期的悬疑小说家三马太郎（中村伦也）搬到了亡父的老家—山中的隼鸟地区。太郎本以为远离了大城市的压力，自己将过上平静的生活，没想到却在加入了当地的消防团后，被卷入了一场连续纵火风波，还遭遇了居民离奇死亡等一系列诡异事件。太郎开始追查真相，却发现了村落背后巨大的阴谋！",
+    "link": null,
+    "tmdb_id": "228494",
+    "tmdb_site_id": "tv/228494",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "382996",
+    "type": "link",
+    "title": "美丽的他 电影版",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/f8/382996_QCe8E.jpg",
+    "releaseDate": "2023-04-07",
+    "mediaType": "real",
+    "rating": "6.8",
+    "description": "1话 /  2023年4月7日 / 萩原利久、八木勇征",
+    "link": "https://bgm.tv/subject/382996"
+  },
+  {
+    "id": "386010",
+    "type": "link",
+    "title": "9号秘事 （第八季）",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/f4/386010_1mD4M.jpg",
+    "releaseDate": "2023-04-27",
+    "mediaType": "real",
+    "rating": "6.8",
+    "description": "6话 /  2023年4月27日 / George Kane / Steve Pemberton、Reece Shearsmith / Steve Pemberton、Reece Shearsmith、Anita Dobson",
+    "link": "https://bgm.tv/subject/386010"
+  },
+  {
+    "id": "217325",
+    "type": "tmdb",
+    "title": "黄昏时分、牵着手",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oYK7ZwYXyMohFZzukceVGbYRa0.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "在乡下无忧无虑长大的浅木空豆，是一个精力充沛、天真烂漫、操着九州话的野孩子。她期待着一段时间以来的第一次见到她，前往未婚妻所在的东京，但最终她与未婚夫分手，因为她找到了自己爱的人。\n\n绝望的空豆与海野大藤令人震惊地重逢。那声音是一个木讷、普通的年轻人的声音。我感到非常焦虑，并接受了最终成为一名卖不出去的作曲家的可能性。在我的内心深处，我开始想，也许因为我不喜欢别人，我就写不出好歌。\n\n空豆感到尴尬，不想回到九州，大藤不想放弃梦想，想认识爱情。\n\n两人都只有23岁，却在房东的一时兴起下住在了同一屋檐下。",
+    "link": null,
+    "tmdb_id": "217325",
+    "tmdb_site_id": "tv/217325",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "434957",
+    "type": "link",
+    "title": "奥特赛文IF Story『55年前的未来』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/1d/434957_BgVXK.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.0",
+    "description": "1话 /  2023-11-25",
+    "link": "https://bgm.tv/subject/434957"
+  },
+  {
+    "id": "101242",
+    "type": "tmdb",
+    "title": "舞伎家的料理人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/08/364963_g99UV.jpg",
+    "releaseDate": "2023-01-12",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "9话 /  2023年1月12日 / 是枝裕和、津野愛、奥山大史、佐藤快磨 / 是枝裕和、津野愛、奥山大史、佐藤快磨、砂田麻美 / 森七菜、出口夏希",
+    "link": null,
+    "tmdb_id": "101242",
+    "tmdb_site_id": "tv/101242",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "419950",
+    "type": "link",
+    "title": "THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/c8/419950_dTyE9.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "9.4",
+    "description": "2话 /  2023-02-11",
+    "link": "https://bgm.tv/subject/419950"
+  },
+  {
+    "id": "220860",
+    "type": "tmdb",
+    "title": "我们之间没有的",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7he8iieYNBWwrmm7o5RpHfq6CQS.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "5.4",
+    "description": "32岁的吉野美智（奈绪 饰）与丈夫阳一（永山瑛太 饰）的感情并非不好，只是两人已无性生活，某次喝醉后，她跟公司前辈新名诚（岩田刚典 饰）坦言自己跟另一半是无性夫妻。不料前辈也坦承自己和老婆枫（田中美奈实 饰）也一样，从此两人从同事变成互相取暖的朋友，关系也在交心过程中发生变化。而两组无性夫妻认识后，也意外发展出不伦之恋...",
+    "link": null,
+    "tmdb_id": "220860",
+    "tmdb_site_id": "tv/220860",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

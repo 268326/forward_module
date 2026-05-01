@@ -1,0 +1,330 @@
+[
+  {
+    "id": "464803",
+    "type": "link",
+    "title": "为全人类 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b4/7d/464803_2Z364.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.7",
+    "description": "10话 /  2023-11-10",
+    "link": "https://bgm.tv/subject/464803"
+  },
+  {
+    "id": "421958",
+    "type": "link",
+    "title": "一级方程式：疾速求生 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/66/421958_YTty3.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "10话 /  2023-02-23",
+    "link": "https://bgm.tv/subject/421958"
+  },
+  {
+    "id": "279997",
+    "type": "tmdb",
+    "title": "Lost Dog, Found Dog with Clare Balding",
+    "posterPath": "https://image.tmdb.org/t/p/w500/s6QI6295iIz89Bln3pIvx64XZFL.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "13话 /  2023-10-03 / Shanola Hampton",
+    "link": null,
+    "tmdb_id": "279997",
+    "tmdb_site_id": "tv/279997",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "432724",
+    "type": "link",
+    "title": "基地 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/d1/432724_OftTm.jpg",
+    "releaseDate": "2023-07-14",
+    "mediaType": "real",
+    "rating": "6.1",
+    "description": "10话 /  2023年7月14日 / Jane Espenson、David S. Goyer / Holt McCallany、Rachel House、Mikael Persbrandt",
+    "link": "https://bgm.tv/subject/432724"
+  },
+  {
+    "id": "431689",
+    "type": "link",
+    "title": "梦魇绝镇 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/5e/431689_MxGf3.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.4",
+    "description": "10话 /  2023-04-23",
+    "link": "https://bgm.tv/subject/431689"
+  },
+  {
+    "id": "221300",
+    "type": "tmdb",
+    "title": "面目全非",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wLcyVa8TlVyyixpUVPFctNHckeW.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "一对父女在任务中相遇，这才发现原来两人都是中情局探员，过去的关系其实建立在数不清的谎言上，对彼此也一无所知。",
+    "link": null,
+    "tmdb_id": "221300",
+    "tmdb_site_id": "tv/221300",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "205715",
+    "type": "tmdb",
+    "title": "V世代",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lT3ZT7GzvOt2DJQhjFIqxD9TaC.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "美国唯一的超级英雄学院的这些天赋异禀的学生们将经历道德的考验，争夺大学的最高排名，以及加入沃特国际的超级英雄精英团队七人队的机会。当这所学校的黑暗秘密曝光时，他们必须决定自己想成为什么样的英雄。",
+    "link": null,
+    "tmdb_id": "205715",
+    "tmdb_site_id": "tv/205715",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "213322",
+    "type": "tmdb",
+    "title": "准备好！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gdnx7YZK62bWFf2Vgm0kIQMk9eQ.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "波佐间永介（妻夫木聪 饰）白天是个甜点师，在自己经营的甜点店做着有大胆想法又纤细的甜点，而他的另一个身份是孤高的天才执刀医生，率领着一队最强的暗黑医疗团队，收取极高的报酬，为无法去医院或者被医院放弃的病人进行手术…",
+    "link": null,
+    "tmdb_id": "213322",
+    "tmdb_site_id": "tv/213322",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "224009",
+    "type": "tmdb",
+    "title": "贝鲁特幽灵",
+    "posterPath": "https://image.tmdb.org/t/p/w500/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "故事环绕捕杀伊迈德·穆格尼耶的行动。穆格尼耶被指为1980至90年代发生的两宗美国驻贝鲁特大使馆爆炸案的主谋，后在2008年2月12日在大马士革被汽车炸弹暗杀。",
+    "link": null,
+    "tmdb_id": "224009",
+    "tmdb_site_id": "tv/224009",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "465901",
+    "type": "link",
+    "title": "古宅老友记 第5季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/70/83/465901_88b1Q.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2023-10-06",
+    "link": "https://bgm.tv/subject/465901"
+  },
+  {
+    "id": "444318",
+    "type": "link",
+    "title": "魅力四射",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/74/444318_61R4e.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2023-06-22",
+    "link": "https://bgm.tv/subject/444318"
+  },
+  {
+    "id": "367169",
+    "type": "link",
+    "title": "好兆头 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/22/367169_Okr4e.jpg",
+    "releaseDate": "2023-07-28",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "6话 /  2023年7月28日 / Douglas Mackinnon / John Finnemore / David Tennant、Jon Hamm、Michael Sheen",
+    "link": "https://bgm.tv/subject/367169"
+  },
+  {
+    "id": "157004",
+    "type": "tmdb",
+    "title": "鸡皮疙瘩",
+    "posterPath": "https://image.tmdb.org/t/p/w500/h4WzcxYl4bq6NNAKAjKlxbC5jv6.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "受R·L·斯坦的同名畅销书系列启发，剧集讲述了劳伦斯港小镇上的五名高中生发现了与三十年前不幸去世的少年哈罗德·比德尔有关的黑暗秘密。在比德尔家的老房子里举办万圣节派对后，这些青少年发现自己置身于一个新的闹鬼现实中，他们必须团结起来拯救小镇，并在途中了解彼此和父母的新情况。",
+    "link": null,
+    "tmdb_id": "157004",
+    "tmdb_site_id": "tv/157004",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "195868",
+    "type": "tmdb",
+    "title": "哥谭骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "故事背景设定在“蝙蝠侠”布鲁斯·韦恩遭谋杀后，他叛逆的养子与敌人的后代被诬陷为真凶，成了一个看似不可能集结的同盟。如今，身为这座城市的头号通缉犯，这群边缘人必须极力为自己证明清白。 与此同时，因为失去“蝙蝠侠”的看照，这座城市陷入了有史以来最危险的困境。然而，希望将出自于一个令人意想不到的地方，这群由逃犯组成的团体将成为哥谭市的未来，他们的名字是“哥谭骑士”。",
+    "link": null,
+    "tmdb_id": "195868",
+    "tmdb_site_id": "tv/195868",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "387895",
+    "type": "link",
+    "title": "GT赛车：极速狂飙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/ea/387895_q2xT1.jpg",
+    "releaseDate": "2023-08-25",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2023年8月25日、2023年9月1日(中国大陆) / Neill Blomkamp / Zach Baylin、Will Dunn、Jason Hall / David Harbour、Orlando Bloom、Archie Madekwe",
+    "link": "https://bgm.tv/subject/387895"
+  },
+  {
+    "id": "157972",
+    "type": "tmdb",
+    "title": "远大前程",
+    "posterPath": "https://image.tmdb.org/t/p/w500/loCmU6aZjYt7py3QwxUQz1z0WCO.jpg",
+    "releaseDate": "2023-03-26",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "BBC、FX将联合打造剧集版《远大前程》。斯蒂文·奈特(《浴血黑帮》)操刀剧本，雷德利·斯科特、汤姆·哈迪担任执行制作人，剧集共6集。该剧改编自查尔斯·狄更斯创作的同名经典小说，故事背景为1812年圣诞节前夕至1840年冬天，主角孤儿皮普(Pip)以自传式手法，叙述从7岁开始的三个人生阶段。",
+    "link": null,
+    "tmdb_id": "157972",
+    "tmdb_site_id": "tv/157972",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "277381",
+    "type": "link",
+    "title": "银河护卫队3",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/2a/277381_E3IKG.jpg",
+    "releaseDate": "2023-05-03",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "1话 /  2023年5月3日(中国香港) 、2023年5月5日(美国/中国大陆) / Chris Pratt、Zoe Saldana、Dave Bautista、Karen Gillan、Pom Klementieff、Vin Diesel、Bradley Cooper",
+    "link": "https://bgm.tv/subject/277381"
+  },
+  {
+    "id": "424687",
+    "type": "link",
+    "title": "G-MAN",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/32/1e/424687_bK7FL.jpg",
+    "releaseDate": "2023-08-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2023年8月25日 / 瑠東東一郎 / 加藤正人、丸尾丸一郎 / 岸優太（King & Prince）",
+    "link": "https://bgm.tv/subject/424687"
+  },
+  {
+    "id": "438122",
+    "type": "link",
+    "title": "幸福谷 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/c6/438122_B49NL.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2023-01-01",
+    "link": "https://bgm.tv/subject/438122"
+  },
+  {
+    "id": "501607",
+    "type": "link",
+    "title": "Harezaの日 3rd Anniversary SUMMER FESTIVAL 2023",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/1e/501607_dWOFo.jpg",
+    "releaseDate": "2023-08-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2023年8月5日 / 羊宮妃那（高松燈 役）、立石凛（千早愛音 役）、青木陽菜（要楽奈 役）",
+    "link": "https://bgm.tv/subject/501607"
+  },
+  {
+    "id": "501694",
+    "type": "link",
+    "title": "野探哈莉 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/78/501694_g2VVx.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2023-10-09",
+    "link": "https://bgm.tv/subject/501694"
+  },
+  {
+    "id": "402714",
+    "type": "link",
+    "title": "心跳漏一拍 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/b5/402714_F1euZ.jpg",
+    "releaseDate": "2023-08-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023年8月3日 / Olivia Colman、Kit Connor、Joe Locke",
+    "link": "https://bgm.tv/subject/402714"
+  },
+  {
+    "id": "359910",
+    "type": "link",
+    "title": "反派 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/3b/359910_8c3Zs.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2023-07-28",
+    "link": "https://bgm.tv/subject/359910"
+  },
+  {
+    "id": "125000",
+    "type": "tmdb",
+    "title": "明天你好！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tsxFPFOVRlVsCkpdbhv5LSEJWNO.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "在一个复古风格的未来世界里，颇具人格魅力的推销员杰克比林斯（艾美奖获奖者 比利·克鲁德普 饰）带领销售团队，逐门逐户推销月球住房分时享用权，决心以此来给客户们的生活重新注入活力。",
+    "link": null,
+    "tmdb_id": "125000",
+    "tmdb_site_id": "tv/125000",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

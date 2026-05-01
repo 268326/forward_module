@@ -1,0 +1,365 @@
+[
+  {
+    "id": "544238",
+    "type": "link",
+    "title": "囁きの河",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d2/41/544238_KV93K.jpg",
+    "releaseDate": "2025-07-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年7月11日 / 大木一史 / 大木一史 / 中原丈雄",
+    "link": "https://bgm.tv/subject/544238"
+  },
+  {
+    "id": "626923",
+    "type": "link",
+    "title": "囚徒十五载",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/f3/626923_vcNnH.jpg",
+    "releaseDate": "2025-03-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "16话 /  2025年3月28日 / 清茶 / 洛君然、小豪",
+    "link": "https://bgm.tv/subject/626923"
+  },
+  {
+    "id": "273131",
+    "type": "tmdb",
+    "title": "四喜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vPPAWf3oUM5xjFMZZdM9y4LvB5d.jpg",
+    "releaseDate": "2025-11-07",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "家庭幸福、爱情甜蜜的明珠刚领证、怀孕，丈夫建奇就因见义勇为去世。明珠在众说纷纭中自己拿定主意，决定生下孩子，却遇见来寻亲的亲生父母一家。明珠在心有戚戚的亲情中走出伤痛，但公公意外猝死暴露了婆家的资不抵债。明珠挺身而出，厘清债务、承包单位，把家人们拧成一股绳，重新昂扬生活。",
+    "link": null,
+    "tmdb_id": "273131",
+    "tmdb_site_id": "tv/273131",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "311105",
+    "type": "tmdb",
+    "title": "四日市に行ったら人生が180度変わった件",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Kjed47GTCSGvCPPQYMogccnoM1.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2025-12-23 / 岡本充史 / 田口佳宏 / 吉住",
+    "link": null,
+    "tmdb_id": "311105",
+    "tmdb_site_id": "tv/311105",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "252135",
+    "type": "tmdb",
+    "title": "回魂计",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ukoPA4WnfIlApNtc7AF5TTLhouy.jpg",
+    "releaseDate": "2025-10-09",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "以一宗诈骗绑架案为引线，两位失去女儿的母亲因仇恨结盟，在神秘力量的协助下，竟将凶手复活、施以酷刑，只为亲手惩罚。她们在复仇与救赎之间愈陷愈深，不仅对抗谎言与操控的危险世界，更被迫面对友谊与道德的撕裂。当真相逐步揭开，复仇究竟能带来慰藉，还是吞噬她们最后的希望？",
+    "link": null,
+    "tmdb_id": "252135",
+    "tmdb_site_id": "tv/252135",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307102",
+    "type": "tmdb",
+    "title": "国宝时刻",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vhBqlzIsQlmizHYcAT5bD4Xo5VW.jpg",
+    "releaseDate": "2025-06-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。",
+    "link": null,
+    "tmdb_id": "307102",
+    "tmdb_site_id": "tv/307102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "243083",
+    "type": "tmdb",
+    "title": "国色芳华",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cYj4eu6jtP65C6Rcm4udnxzhVgD.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "商户之女何惟芳与雅冠长安的蒋长扬相识后，两人组成了匠人与投资人的组合。凭借培育稀世牡丹的高超技能和过人的经商头脑，何惟芳带领一众命运坎坷的女性共同经营花坊，过关斩将，在女子本弱的偏执沉疴中博得一席天地。随着何惟芳与蒋长扬的渐渐相熟，她发现这位一身骂名的“天下第一贪官”实则是外浪内纯、心怀天下的国之利刃。在亲历底层之苦、另悟牡丹之用后，何惟芳决心转型利民实业。",
+    "link": null,
+    "tmdb_id": "243083",
+    "tmdb_site_id": "tv/243083",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "252577",
+    "type": "tmdb",
+    "title": "在人间",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1WAyMuuDxFRypdGOWZJQvxVKGNK.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "网约车乘客贾小朵 (赵丽颖 饰) 与自我迷失的司机徐天 (尹昉 饰) 相遇，共同进入一个用于治疗的虚拟空间，开启了一场寻找自我与疗愈的心灵之旅。\n\n在由徐天意识构建的多重世界里，他们遇到了形形色色的“人”：冲动偏执的王阳名 (张一山 饰)、理性审视的石一本 (周一围 饰)、孤僻敏感的虞旦 (董子健 饰)、内向怯懦的柳条儿 (孙千 饰)等。实际上，贾小朵是徐天内心觉醒的主导性副人格，而她所遇到的所有角色，都是徐天不同面向的副人格，各自承载着他内心的创伤、矛盾与渴望。\n\n整个旅程，是徐天主人格与各副人格在意识世界内的对话、冲突与整合。在贾小朵的引导和同伴们的共同面对下，徐天最终直面破碎的自我，完成了深刻的心灵疗愈与人格重塑。",
+    "link": null,
+    "tmdb_id": "252577",
+    "tmdb_site_id": "tv/252577",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "284755",
+    "type": "tmdb",
+    "title": "在家宴客50道菜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3mgO0qkT6h6mlGcCjYUsEC0BfCs.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "每逢喜慶節日，愛熱鬧的家庭總是會親自下廚，在家大宴親朋，但構思菜單往往是最傷腦筋一環。想趕及於農曆新年前快速學識50道宴客菜？兩大「星廚」肥媽、「鼎爺」李家鼎會為觀眾示範一系列私房美饌，喜愛下廚的主持拍檔龔嘉欣當然要趁機偷師。多位城中名廚也集結「煮」場，拿出非一般獨門食譜，將一道道平平無奇的菜式昇華家常宴客佳餚，而且易學、易上手，不論是廚藝新手，還是一家之「煮」都可以速學速成，在家宴客無難度！",
+    "link": null,
+    "tmdb_id": "284755",
+    "tmdb_site_id": "tv/284755",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "HK"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "614846",
+    "type": "link",
+    "title": "地下アイドルの方程式",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/6e/614846_Z7KiP.jpg",
+    "releaseDate": "2025-12-23",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年12月23日 / 安倍乙、片田陽依、かのうみゆ、リリー・フランキー",
+    "link": "https://bgm.tv/subject/614846"
+  },
+  {
+    "id": "278421",
+    "type": "tmdb",
+    "title": "带你到地狱的尽头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fkSiR4M1PWvGmj9OdHPhX8Vfw5B.jpg",
+    "releaseDate": "2025-01-14",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "主人公橘纱智子（佐佐木希 饰）发誓要向像恶魔一样无情的怪物花井丽奈（涩谷凪咲 饰）复仇。高中时代，纱智子被揶揄为“杀人犯的女儿”，丽奈成了她唯一的伙伴。但是，丽奈天使般温柔的笑容背后，隐藏着一张轻易杀人的杀人恶魔的脸。丽奈给纱智子和她的父亲扣上了杀人罪，也夺走了纱智子父亲的生命。14年后，容貌和过去全部改变的纱智子，再次与成为新晋母亲的丽奈对峙。“让她尝尝活地狱的滋味”，纱智子作为保姆进入丽奈的家庭。为复仇奉献人生的普通人能把怪物逼向毁灭吗？反复着挫折与纠葛的壮烈复仇剧开始了。",
+    "link": null,
+    "tmdb_id": "278421",
+    "tmdb_site_id": "tv/278421",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "301202",
+    "type": "tmdb",
+    "title": "地狱是由善意构成的",
+    "posterPath": "https://image.tmdb.org/t/p/w500/llBbTR5DZF4Yvs2LTfUPWoqk7P5.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事从主人公高村树突然被邀请参加支援有前科者们改过自新的“原服刑者特别支援计划”而展开。合格者将得到大笔资金和人际关系等回归社会所需的支援。包括树在内的被邀请的人们在某设施开始了一个月的共同生活，发誓要为了合格而互相合作，但实际上计划的背后隐藏着可怕的陷阱。",
+    "link": null,
+    "tmdb_id": "301202",
+    "tmdb_site_id": "tv/301202",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "585019",
+    "type": "link",
+    "title": "地球之极·侣行 第十季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/86/585019_Sd846.jpg",
+    "releaseDate": "2025-09-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2025年9月2日 / 张昕宇 / 梁红",
+    "link": "https://bgm.tv/subject/585019"
+  },
+  {
+    "id": "296202",
+    "type": "tmdb",
+    "title": "地球超新鲜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b0sU5blJ3Hwq7O71KCj7HhcRpPp.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "会玩爱玩的明星朋友们组成地球体验团，将沿着地球的脉络，探索新鲜的地球切面。用新鲜有趣的旅行方式，探索全世界的同频快乐。",
+    "link": null,
+    "tmdb_id": "296202",
+    "tmdb_site_id": "tv/296202",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "286732",
+    "type": "tmdb",
+    "title": "地震之后",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yxxSqUHseRFgTmpzr06BNDcuVKD.jpg",
+    "releaseDate": "2025-04-05",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "村上春树短篇小说集《神的孩子全跳舞》将改编成电影，影片涵盖的四篇短篇小说分别是《UFO飞落钏路》《有熨斗的风景》《神的孩子全跳舞》和《青蛙君救东京》。影片由井上刚（《海女》）执导，《驾驶我的车》制片人山本晃久制作，将探讨日本地震和其他全球危机的复杂后果。",
+    "link": null,
+    "tmdb_id": "286732",
+    "tmdb_site_id": "tv/286732",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "612254",
+    "type": "link",
+    "title": "坐怀必乱",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/03/612254_E9S51.jpg",
+    "releaseDate": "2025-12-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2025年12月3日 / 大海豚 / 孙郎朗、魅影之声",
+    "link": "https://bgm.tv/subject/612254"
+  },
+  {
+    "id": "280100",
+    "type": "tmdb",
+    "title": "垂涎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xd0vu3a2LD7K4Pk9qbE0nfbJ4A.jpg",
+    "releaseDate": "2025-07-12",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "在近未来世界，病毒改变了人类性别结构，孕育出独特的ABO性别体系。盛放生物的少东盛少游，年轻霸气，是顶级S+Alpha。因父亲生病，不得不与竞争对手HS集团的老板沈文琅合作，寻求研发中的靶向药物。就在此时，盛少游在医院偶遇神秘的Omega花咏，两人情愫悄然滋长。没想到盛少游被误认为Omega，意外遭信息素侵犯、甚至怀孕！花咏身上的秘密并逐步揭开...，感官与伦理的极限对决开始上演。\n\n☆全球首部ABO题材的BL剧！改编自弄简同名小说《垂涎》",
+    "link": null,
+    "tmdb_id": "280100",
+    "tmdb_site_id": "tv/280100",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN",
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "291378",
+    "type": "tmdb",
+    "title": "高墙之内的理发室",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xzO6R7dGsM8LBoyNFzCIvRzJKo5.jpg",
+    "releaseDate": "2025-08-22",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "本剧改编自同名小说。在女子监狱中，有一家特殊的美容室“青空美容室”，由服刑者为一般顾客理发。小松原叶留（奈绪 饰）是唯一持证上岗的美容师，在刑务官菅生冬子（小林聪美 饰）的带领下，每日为怀抱各种人生故事的女性剪发。她一边聆听客人的心声，一边思索自己是否真的能赎清罪责。刑期将满之际，因她的罪行而成为“加害者家属”的姐姐小松原奈津（夏帆 饰）突然作为客人来访——一段关于悔罪、理解与再生的温柔人生交汇即将展开。",
+    "link": null,
+    "tmdb_id": "291378",
+    "tmdb_site_id": "tv/291378",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "551437",
+    "type": "link",
+    "title": "壹号身份管理局",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/6d/551437_M9vml.jpg",
+    "releaseDate": "2025-02-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "19话 /  2025年2月6日 / 阿旦、Cifer、倔强的小红、柳凄、顾辰、魅影之声、大昕、皮皮鲨、卡修、王秋皓、刘李桥",
+    "link": "https://bgm.tv/subject/551437"
+  },
+  {
+    "id": "306449",
+    "type": "tmdb",
+    "title": "変態植物倶楽部",
+    "posterPath": "https://image.tmdb.org/t/p/w500/l5CV8qi3OssaqcVK2doBBWOH96.jpg",
+    "releaseDate": "2025-12-05",
+    "mediaType": "tv",
+    "rating": "3.0",
+    "description": "2025年12月5日 / 菅井祐介 / 菅井祐介 / 一ノ瀬ワタル",
+    "link": null,
+    "tmdb_id": "306449",
+    "tmdb_site_id": "tv/306449",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "540074",
+    "type": "link",
+    "title": "夏日沙石之上",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9c/ad/540074_ODDvO.jpg",
+    "releaseDate": "2025-07-04",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年7月4日 / 玉田真也 / 玉田真也 / オダギリジョー",
+    "link": "https://bgm.tv/subject/540074"
+  },
+  {
+    "id": "530262",
+    "type": "link",
+    "title": "夏目漱石～吾輩が愛した肥後の国より～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/14/530262_Wwcwx.jpg",
+    "releaseDate": "2025-01-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年1月19日 / 加藤シゲアキ（NEWS）",
+    "link": "https://bgm.tv/subject/530262"
+  },
+  {
+    "id": "528905",
+    "type": "link",
+    "title": "外れスキル《木の実マスター》 〜ラジオで無限に喋れるようになった件について〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/9b/528905_TW5VB.jpg",
+    "releaseDate": "2025-01-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "7话 /  2025年1月6日 / 永塚拓馬、Lynn",
+    "link": "https://bgm.tv/subject/528905"
+  },
+  {
+    "id": "602421",
+    "type": "link",
+    "title": "多田葵2025巡演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/dc/602421_yNH8h.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025-11-08 / 多田葵",
+    "link": "https://bgm.tv/subject/602421"
+  }
+]

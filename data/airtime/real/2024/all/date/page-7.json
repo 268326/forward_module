@@ -1,0 +1,320 @@
+[
+  {
+    "id": "212246",
+    "type": "tmdb",
+    "title": "内景唐人街",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8PW2duuf99QcWfhr8RH2VgJ0uHO.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "改编自游朝凯2020年美国国家图书奖的同名畅销小说，讲述威利斯·吴的故事。他长期在警匪剧中跑龙套，但他胸怀大志。在此过程中，他发现自己生活在一个光怪陆离的世界，并揭开了其中的各种秘密以及家族隐秘的历史。",
+    "link": null,
+    "tmdb_id": "212246",
+    "tmdb_site_id": "tv/212246",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "90228",
+    "type": "tmdb",
+    "title": "沙丘：预言",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7KFlApfTLNMNh0y5Zp1ufsgfN0J.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "秘密女性组织姐妹会的成员经过身体和心灵的严苛训练，有极强大的能量，是有力的政治和社会力量。",
+    "link": null,
+    "tmdb_id": "90228",
+    "tmdb_site_id": "tv/90228",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "524645",
+    "type": "link",
+    "title": "奥特6兄弟 THE LIVE 奥特曼篇～空想飞向星空的彼岸～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/22/524645_dPJ16.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024-11-16",
+    "link": "https://bgm.tv/subject/524645"
+  },
+  {
+    "id": "541698",
+    "type": "link",
+    "title": "LoveLive!莲之空女学院学园偶像俱乐部 3rd Live Tour TRY TRI UNITY!!! with Mira-Cra Park！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/57/77/541698_VOyCc.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024-11-16 / みらくらぱーく！（菅叶和（大沢瑠璃乃 役）、月音こな（藤島慈 役）、来栖りん（安養寺姫芽 役））",
+    "link": "https://bgm.tv/subject/541698"
+  },
+  {
+    "id": "569678",
+    "type": "link",
+    "title": "UniteUp! 1st Unit LIVE　PROTOSTAR「Welcome To PROTOFESTIVAL！！！」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/75/569678_BV2ld.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024-11-16 / PROTOSTAR（戸谷菊之介／山口諒太郎／平井亜門）",
+    "link": "https://bgm.tv/subject/569678"
+  },
+  {
+    "id": "578757",
+    "type": "link",
+    "title": "「SUPER ROBOT魂2024」系列演唱会Vol.1 笠原弘子x福山芳树 特別演唱会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/1d/578757_qn31V.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024-11-16 / 笠原弘子、福山芳樹",
+    "link": "https://bgm.tv/subject/578757"
+  },
+  {
+    "id": "524206",
+    "type": "link",
+    "title": "「放課後カルテ」TVerオリジナルストーリー",
+    "posterPath": null,
+    "releaseDate": "2024-11-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024年11月16日",
+    "link": "https://bgm.tv/subject/524206"
+  },
+  {
+    "id": "279208",
+    "type": "tmdb",
+    "title": "ローカルアナのさがしもの",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kUtOVY5OJLUY8SUJX9CEQSByPd1.jpg",
+    "releaseDate": "2024-11-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "3话 /  2024年11月16日 / 森香澄",
+    "link": null,
+    "tmdb_id": "279208",
+    "tmdb_site_id": "tv/279208",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "523931",
+    "type": "link",
+    "title": "二流货色",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/eb/523931_B60um.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2024-11-15、2024-11-11 / 陈冠豪、顾辰",
+    "link": "https://bgm.tv/subject/523931"
+  },
+  {
+    "id": "511122",
+    "type": "link",
+    "title": "他人即地狱",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/c8/511122_t3YUY.jpg",
+    "releaseDate": "2024-11-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年11月15日 / 児玉和土 / 児玉和土 / 八村倫太郎、栁俊太郎",
+    "link": "https://bgm.tv/subject/511122"
+  },
+  {
+    "id": "500556",
+    "type": "link",
+    "title": "绿洲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d1/52/500556_t4fNF.jpg",
+    "releaseDate": "2024-11-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年11月15日 / 岩屋拓郎 / 岩屋拓郎 / 清水尋也、高杉真宙",
+    "link": "https://bgm.tv/subject/500556"
+  },
+  {
+    "id": "276349",
+    "type": "tmdb",
+    "title": "矢野同学观察日记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/be/502409_5KUCc.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "1话 /  2024-11-15 / 新城毅彦 / 杉原憲明、渡辺啓、伊吹一 / 八木勇征（FANTASTICS）",
+    "link": null,
+    "tmdb_id": "276349",
+    "tmdb_site_id": "tv/276349",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "546995",
+    "type": "link",
+    "title": "アット・ザ・ベンチ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/a7/546995_oZINO.jpg",
+    "releaseDate": "2024-11-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年11月15日 / 奥山由之 / 広瀬すず、仲野太賀、岸井ゆきの、岡山天音、荒川良々、今田美桜、森七菜、草なぎ剛、吉岡里帆、神木隆之介",
+    "link": "https://bgm.tv/subject/546995"
+  },
+  {
+    "id": "492772",
+    "type": "link",
+    "title": "室井慎次 续命之人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/e5/492772_4K1Bh.jpg",
+    "releaseDate": "2024-11-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年11月15日 / 本広克行 / 君塚良一 / 柳葉敏郎",
+    "link": "https://bgm.tv/subject/492772"
+  },
+  {
+    "id": "524120",
+    "type": "link",
+    "title": "你不讲A德",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/2e/524120_Vabi3.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "58话 /  2024-11-14 / 72、尘霜满眸",
+    "link": "https://bgm.tv/subject/524120"
+  },
+  {
+    "id": "525779",
+    "type": "link",
+    "title": "羊毛战记 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/2b/525779_w9aab.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "6.6",
+    "description": "10话 /  2024-11-14",
+    "link": "https://bgm.tv/subject/525779"
+  },
+  {
+    "id": "234674",
+    "type": "tmdb",
+    "title": "再见的延续",
+    "posterPath": "https://image.tmdb.org/t/p/w500/idHQgs5T5dFojDTRdMk4epNHZgl.jpg",
+    "releaseDate": "2024-11-14",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "在一场意外中失去未婚夫后，佐惠子对一个陌生人感到一种莫名的联系，却不知后者机缘巧合地获得了她的未婚夫的心脏和记忆。",
+    "link": null,
+    "tmdb_id": "234674",
+    "tmdb_site_id": "tv/234674",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "523412",
+    "type": "link",
+    "title": "再世权臣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/d8/523412_NucOO.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "20话 /  2024-11-14 / 倒霉死勒、马正阳、邓宥希、余昌宇、赵成晨、顺子、余昊威",
+    "link": "https://bgm.tv/subject/523412"
+  },
+  {
+    "id": "278892",
+    "type": "tmdb",
+    "title": "愤怒小队 第零章",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4qLWJfAoypUs4QfDCQ7mLjKY6HK.jpg",
+    "releaseDate": "2024-11-14",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "某日，冰室被同样是欺诈师的白石美来设下了美人局。但是，这也在冰室的计划之中，被地下钱庄追债的美来因此成为伙伴。让原本想当演员的美来陷入现在这种状况的是缺德艺能事务所的社长渡丽华。 丽华与地下钱庄联手从立志成为演员的年轻人身上榨取金钱，甚至逃税约2亿日元。冰室和美来联手，制定欺诈丽华2亿日元的计划。另外，对丽华和地下钱庄的做法感到厌恶的讨债人村井龙也也秘密地成为冰室等人的伙伴。冰室等人对丽华进行了“虚构的印度电影”的投资欺诈…。",
+    "link": null,
+    "tmdb_id": "278892",
+    "tmdb_site_id": "tv/278892",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "272668",
+    "type": "tmdb",
+    "title": "下山饭",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qgy671N6O5XqPaDHNiz6TKWKYsW.jpg",
+    "releaseDate": "2024-11-14",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧改编自同名随笔，近年来人气高涨的低山登山是指，从登山初学者到登山老手都可以当天往返，挑战海拔不足1000米的山的登山方式。低山登山的魅力在于缓解每天的疲劳，但徒步者的另一个乐趣是登山后吃的“下山饭”。登山后，在舒适的餐厅和米饭的浸润下，平时不经意间吃到的食物也变成了一道菜，满足了徒步旅行者的胃。",
+    "link": null,
+    "tmdb_id": "272668",
+    "tmdb_site_id": "tv/272668",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "272940",
+    "type": "tmdb",
+    "title": "深潜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fsCJyHxPjsm5nYq3UFSUbazWC4S.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "　　抗日战争时期，日军为顺利占据长沙，启用潜伏在中国15年的战略特工“黑执事”，实施策划已久的战略欺骗计划。中共地下党党员云慕之（王劲松 饰）在调查“黑执事”的过程中被杀。不知父亲真实身份的云弘深（成毅 饰）为追查杀父凶手，回到家乡长沙，随即被卷进“黑执事”早已布下的陷阱之中。正在他迷茫无助之时，父亲生前好友，中共地下党党员杨梓铭（何中华 饰）给了他极大地帮助和保护，他终于识破对手骗局。\n\n　　在共产党的领导下，云弘深与爱国青年闻夜鸣（颖儿 饰）联手，局中设局，步步为营，在国恨面前放下家仇，将自己设为死棋，挖出了在国军内部潜伏的日本战略特工，扭转了战局，为取得第一次长沙会战的胜利做出了极大的贡献。",
+    "link": null,
+    "tmdb_id": "272940",
+    "tmdb_site_id": "tv/272940",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "523059",
+    "type": "link",
+    "title": "あのクズを殴ってやりたいんだ・サイドストーリー あの夜を許してやりたいんだ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/20/523059_DSjDk.jpg",
+    "releaseDate": "2024-11-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年11月12日",
+    "link": "https://bgm.tv/subject/523059"
+  },
+  {
+    "id": "528820",
+    "type": "link",
+    "title": "波鲁吉斯V：遗产（日本TV版）",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/40/7f/528820_970Xm.jpg",
+    "releaseDate": "2024-11-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "20话 /  2024年11月12日",
+    "link": "https://bgm.tv/subject/528820"
+  },
+  {
+    "id": "518995",
+    "type": "link",
+    "title": "鴨乃橋ロンの禁断推理　ロンとトトの凸凹ラジオ 2nd Season",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/63/518995_4iki6.jpg",
+    "releaseDate": "2024-11-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2024年11月11日 / 阿座上洋平、榎木淳弥",
+    "link": "https://bgm.tv/subject/518995"
+  }
+]

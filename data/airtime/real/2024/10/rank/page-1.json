@@ -11,15 +11,22 @@
     "link": "https://bgm.tv/subject/492657"
   },
   {
-    "id": "276863",
-    "type": "link",
+    "id": "207333",
+    "type": "tmdb",
     "title": "百年孤独",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/b1/276863_i7e1y.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/w8p5MkntL1bTI94INGLya1pHmTP.jpg",
     "releaseDate": "2024-12-11",
-    "mediaType": "real",
-    "rating": "8.3",
-    "description": "8话 /  2024年12月11日",
-    "link": "https://bgm.tv/subject/276863"
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "在时间停滞不前的小镇马康多，波恩地亚家族七代人经历爱情、遗忘，身陷无法摆脱的过去与命运。",
+    "link": null,
+    "tmdb_id": "207333",
+    "tmdb_site_id": "tv/207333",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CO"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "513456",
@@ -44,15 +51,22 @@
     "link": "https://bgm.tv/subject/419993"
   },
   {
-    "id": "495928",
-    "type": "link",
+    "id": "255316",
+    "type": "tmdb",
     "title": "住宅区的两人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/20/495928_UyhVH.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yG8sdGYvRDnyCsdWyygEroJcOfU.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "10话 /  2024-09-01 / 松本佳奈、金澤友也（テレパック） / 吉田紀子 / 小泉今日子、小林聡美",
-    "link": "https://bgm.tv/subject/495928"
+    "mediaType": "tv",
+    "rating": "9.2",
+    "description": "本剧改编自同名小说，讲述了曾被称为神童的优等生太田野枝（小泉今日子 饰）是兼职大学讲师，看起来粗枝大叶，实际上认真严肃，离过一次婚；樱井夏子（小林聪美 饰）是插画家，然而最近刚失业，靠在跳蚤市场上下载应用程序谋生，做事一丝不苟，擅长烹饪，单身。50多岁、在住宅区出生、住在老家、单身，这样的两位发小，即使心有不宁也相安无事，温暖幽默的友情日常故事。",
+    "link": null,
+    "tmdb_id": "255316",
+    "tmdb_site_id": "tv/255316",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "462073",
@@ -66,15 +80,22 @@
     "link": "https://bgm.tv/subject/462073"
   },
   {
-    "id": "374834",
-    "type": "link",
+    "id": "194764",
+    "type": "tmdb",
     "title": "企鹅人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/17/374834_48B66.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ia3J58V58ABXMlqZQFHwmtwMMTW.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.7",
-    "description": "8话 /  2024-09-19 / Craig Zobel、Matt Reeves / Lauren LeFranc / Colin Farrell、Clancy Brown、Cristin Milioti、Michael Zegen",
-    "link": "https://bgm.tv/subject/374834"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "讲述企鹅人奥斯瓦尔德·“奥兹”·科波特在哥谭市黑社会中崛起的故事。‌海堤炸毁后，哥谭市处于危险之中，奥兹试图填补卡迈恩·法尔科内去世留下的权力真空，好让母亲过上自己一直承诺的生活。为此，他必须直面所有敌人，包括卡迈恩的孩子索菲亚和阿尔贝托、萨尔瓦多领导的马罗尼家族、以及自己作为企鹅人的败坏声誉。",
+    "link": null,
+    "tmdb_id": "194764",
+    "tmdb_site_id": "tv/194764",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "482765",
@@ -88,15 +109,22 @@
     "link": "https://bgm.tv/subject/482765"
   },
   {
-    "id": "493421",
-    "type": "link",
+    "id": "253747",
+    "type": "tmdb",
     "title": "我的阿勒泰",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/42/493421_ZSQAs.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qrHL1hmUpibxEVrcPNppi8SZM5t.jpg",
     "releaseDate": "2024-05-07",
-    "mediaType": "real",
-    "rating": "7.6",
-    "description": "8话 /  2024年5月7日 / 滕丛丛 / 滕丛丛、彭奕宁 / 马伊琍、周依然、于适、蒋奇明、闫佩伦、黄晓娟、阿力木江、阿丽玛、海拉提·哈木",
-    "link": "https://bgm.tv/subject/493421"
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "　　李文秀（周依然 饰）是在新疆阿勒泰长大的汉族女孩，19岁来到乌鲁木齐打工。她性格内向却热爱写作，一心在大城市中追求文学梦想，却在酒店工作中屡屡碰壁，被迫回到老家，与开小卖部的母亲张凤侠（马伊琍 饰）相依为命。\n\n　　返乡后的李文秀不仅感受到久违的亲切，还结识了阳光开朗的哈萨克族少年巴太（于适 饰）。在牧区生活中，她渐渐发现了阿勒泰的自然之美与人文之韵。广袤的草原、淳朴的牧民、独特的游牧文化，都成为她创作的源泉。在与当地人的相处中，文秀学会了尊重不同民族的生活方式，也找到了文学创作的真谛——不是远方的想象，而是脚下的土地与身边的人。\n\n　　该剧以散文诗般的叙事风格，呈现了阿勒泰地区的自然风光与人文风情，讲述了年轻人在故乡与远方、传统与现代之间的心灵探索。",
+    "link": null,
+    "tmdb_id": "253747",
+    "tmdb_site_id": "tv/253747",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "76757",
@@ -109,19 +137,28 @@
     "description": "1话 /  2024年1月19日 / 久保茂昭 / 黒岩勉 / 山﨑賢人",
     "link": null,
     "tmdb_id": "76757",
+    "tmdb_site_id": "tv/76757",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "519151",
-    "type": "link",
+    "id": "243360",
+    "type": "tmdb",
     "title": "谜探路德维希",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/5b/519151_aft7D.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tnUBJU3xfu3MW0g4TAYfFK452da.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "6话 /  2024-09-25",
-    "link": "https://bgm.tv/subject/519151"
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "约翰·泰勒过着安静的孤独生活，以“路德维希”为笔名，靠设计谜题为生。当他的孪生兄弟詹姆斯从地球上消失后，约翰冒充了他哥哥的身份，试图找到他的下落。",
+    "link": null,
+    "tmdb_id": "243360",
+    "tmdb_site_id": "tv/243360",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "441018",
@@ -135,15 +172,22 @@
     "link": "https://bgm.tv/subject/441018"
   },
   {
-    "id": "381343",
-    "type": "link",
+    "id": "239790",
+    "type": "tmdb",
     "title": "致光之君",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/97/381343_b4YhQ.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qmp4cH94zbQsjj5bCXlgQT20uYY.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.4",
-    "description": "48话 /  2024-01-07 / 中島由貴、佐々木善春 / 大石静 / 吉高由里子",
-    "link": "https://bgm.tv/subject/381343"
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "10世纪后半，生于京都中阶贵族文人世家的真寻（即后来的紫式部），从小就展现出出众的文采，跟父亲一样善咏和歌、精通写作。真寻与日后将成为最高掌权人的藤原道长相遇，相知相惜的两人逐渐互生情愫，但这段恋情却因身份悬殊而无果。后来真寻嫁给藤原宣孝，但生下一女没多久，丈夫便突然去世。在独力抚养女儿的同时，真寻也开始执笔创作《源氏物语》，更因此受到道长的赏识进宫成为道长之女的女官…这是怀抱着不变的爱，在这个如梦似幻的平安时代中努力发光发热的一位女性的故事。",
+    "link": null,
+    "tmdb_id": "239790",
+    "tmdb_site_id": "tv/239790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "75865",
@@ -156,41 +200,64 @@
     "description": "8话 /  2024-04-02 / 今泉力哉 / 金沢知樹、萩森淳、今泉力哉 / 月島琉衣、黒川想矢",
     "link": null,
     "tmdb_id": "75865",
+    "tmdb_site_id": "tv/75865",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "524536",
-    "type": "link",
+    "id": "222766",
+    "type": "tmdb",
     "title": "豺狼的日子",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/43/524536_g5fkW.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wSiVDqXSsC8diRgw1IgmVkWng8j.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.4",
-    "description": "10话 /  2024-11-07",
-    "link": "https://bgm.tv/subject/524536"
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "“豺狼”（埃迪·雷德梅恩饰）是一名独来独往，行踪难以捉摸的顶尖杀手，以酬金最高的暗杀行动为生。然而，在他最近一次执行刺杀任务之后，他遇到了自己的对手—一位锲而不舍的英国情报官员碧安卡·普尔曼（拉什纳·林奇饰），这位情报官员开始追踪“豺狼”，在欧洲展开了一场惊心动魄的猫鼠追逐战，并留下了一连串破坏的痕迹。",
+    "link": null,
+    "tmdb_id": "222766",
+    "tmdb_site_id": "tv/222766",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "495675",
-    "type": "link",
+    "id": "257513",
+    "type": "tmdb",
     "title": "新宿野战医院",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/1f/495675_xXCCU.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zaEr81y1q5bgacVvykXN2sGeUib.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.4",
-    "description": "11话 /  2024-07-03 / 河毛俊作、澤田鎌作、清矢明子 / 宮藤官九郎 / 小池栄子、仲野太賀",
-    "link": "https://bgm.tv/subject/495675"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧讲述了坐落在歌舞伎町小巷里的“圣真心医院”，因为当地的关系，来急诊的患者大多是贫困的流浪者、外国人、牛郎、色情业小姐等，与一般医院不同，有着特殊背景的患者。就在这时，美国国籍的原军医——神秘女性，阳子·西·Freeman（小池 饰）突然降临。然后，在年老的叔父的医院工作的美容皮肤科医生高峰享（仲野）遇到了她，齿轮开始转动。",
+    "link": null,
+    "tmdb_id": "257513",
+    "tmdb_site_id": "tv/257513",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "390202",
-    "type": "link",
+    "id": "106379",
+    "type": "tmdb",
     "title": "辐射",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/e6/390202_jn05D.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.3",
-    "description": "8话 /  2024-04-11 / Jonathan Nolan、Lisa Joy / Walton Goggins、Ella Purnell、Kyle MacLachlan、Xelia Mendes-Jones、Aaron Moten",
-    "link": "https://bgm.tv/subject/390202"
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+    "link": null,
+    "tmdb_id": "106379",
+    "tmdb_site_id": "tv/106379",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "467262",
@@ -204,26 +271,40 @@
     "link": "https://bgm.tv/subject/467262"
   },
   {
-    "id": "475880",
-    "type": "link",
+    "id": "226529",
+    "type": "tmdb",
     "title": "照明商店",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/8a/475880_G3d7D.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vDYEKJWQxdm51cI4FWSQ41gbj9F.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.4",
-    "description": "8话 /  2024-12-04 / 김희원 / 강풀 / 주지훈、박보영",
-    "link": "https://bgm.tv/subject/475880"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "照亮黑暗巷弄尽头的照明商店今天也在深夜营业中。照明商店的老板遵守着即使只有一位客人来也要做生意的原则，每天晚上迎接上门的客人。然而，在深夜来访的不只有平凡的客人，还有各种带着不同原因上门的客人，而这也将引发一连串神秘的故事。",
+    "link": null,
+    "tmdb_id": "226529",
+    "tmdb_site_id": "tv/226529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "493667",
-    "type": "link",
-    "title": "人生复本",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/49/493667_AV9cA.jpg",
+    "id": "196322",
+    "type": "tmdb",
+    "title": "Dark Matter",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4PpgPvpgdHpZBQAbD6b7zizFDj5.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.4",
-    "description": "9话 /  2024-05-08 / Jakob Verbruggen、Celine Held、Logan George、Roxann Dawson、Alik Sakharov / Blake Crouch、Jacquelyn Ben-Zekry、Megan McDonnell、Ihuoma Ofordire / Joel Edgerton、Jennifer Connelly",
-    "link": "https://bgm.tv/subject/493667"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "　　《人生复本》被誉为十年来最好的科幻小说之一，故事聚焦人生中未被选择的道路。\n\n　　剧集围绕Jason Dessen（Joel Edgerton饰）展开，他是一位物理学家、教授，也是个恋家的男人。有一天夜里，从芝加哥街头步行回家时，Jason被绑架进入了自己人生的另一个版本。面对自己可能经历的多元人生，他试图回到原本的现实里，奇事迅速成了场噩梦。在这重重现实迷宫中，Jason踏上了一段痛苦的旅程，以期回到真正的家人身边，并从他自己——一个最可怕又不可战胜的敌人手中，把家人拯救出来。",
+    "link": null,
+    "tmdb_id": "196322",
+    "tmdb_site_id": "tv/196322",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "274546",
@@ -236,30 +317,46 @@
     "description": "1话 /  2024年1月12日 / 山下敦弘 / 野木亜紀子 / 綾野剛、齋藤潤",
     "link": null,
     "tmdb_id": "274546",
+    "tmdb_site_id": "tv/274546",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "409846",
-    "type": "link",
-    "title": "空战群英",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/409846_25zT5.jpg",
+    "id": "46518",
+    "type": "tmdb",
+    "title": "Masters of the Air",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tkFcrE81n1fmNBSE71gZeT56MVi.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.2",
-    "description": "9话 /  2024-01-26 / Anna Boden、Ryan Fleck、Cary Joji Fukunaga、Dee Rees、Tim Van Patten / John Orloff、Graham Yost / Austin Butler、Callum Turner、Anthony Boyle、Nate Mann、Barry Keoghan、Rafferty Law、Edward Ashley、Jonas Moore、Elliot Warren、Matt Gavan、Branden Cook、Josiah Cross、Ncuti Gatwa",
-    "link": "https://bgm.tv/subject/409846"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "本剧由《兄弟连》和《太平洋战争》的制片人史蒂文·斯皮尔伯格、汤姆·汉克斯和加里·高兹曼联袂打造。第二次世界大战期间，第100轰炸机大队的飞行员出生入死，用勇气、牺牲和胜利建立一段兄弟情谊。",
+    "link": null,
+    "tmdb_id": "46518",
+    "tmdb_site_id": "tv/46518",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "513716",
-    "type": "link",
-    "title": "月光花谋杀案",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/1e/513716_94VL2.jpg",
+    "id": "241548",
+    "type": "tmdb",
+    "title": "猫头鹰谋杀案",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rXW4FDBukueMfY08140sjzPnmYC.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.2",
-    "description": "6话 /  2024-09-15 / 莱丝利·曼维尔",
-    "link": "https://bgm.tv/subject/513716"
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "该剧是《喜鹊谋杀案》的直接续作。Susan Ryeland离开了出版界，和交往多年的希腊男友Andreas搬到了克里特岛经营一家小旅馆，但在桃源生活的表面下，Susan正处于崩溃的边缘，这时一起谋杀案似乎为她提供了离开的机会。这起谋杀案发生在八年前英国萨福克郡乡间的一家酒店，作家Alan Conway曾造访这家酒店，并以此案为灵感创作了一本小说。酒店主的年轻女儿Cecily Treherne读了这本小说后，坚信警方抓错了人，但现在她神秘失踪了。Susan能揭开书中隐藏的秘密，并在为时已晚之前找到Cecily吗？",
+    "link": null,
+    "tmdb_id": "241548",
+    "tmdb_site_id": "tv/241548",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "526055",

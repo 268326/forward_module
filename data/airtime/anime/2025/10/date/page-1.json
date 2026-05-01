@@ -21,19 +21,10 @@
     "description": "2话 /  2025年12月31日 / 畠山守(小俣真一) / 赤坂アカ（集英社ヤングジャンプコミックス刊） / 八尋裕子",
     "link": null,
     "tmdb_id": "83121/season/0/episode/5",
+    "tmdb_site_id": "tv/83121/season/0/episode/5",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "395223",
-    "type": "link",
-    "title": "仙剑奇侠传三",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/58/395223_Mf6La.jpg",
-    "releaseDate": "2025-12-30",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "26话 /  2025年12月30日 / 程洋、向文泽、曲小松 / 黄亚琪（角色设计）",
-    "link": "https://bgm.tv/subject/395223"
   },
   {
     "id": "633886",
@@ -47,15 +38,40 @@
     "link": "https://bgm.tv/subject/633886"
   },
   {
-    "id": "458926",
-    "type": "link",
+    "id": "233295",
+    "type": "tmdb",
+    "title": "仙剑奇侠传叁",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gorGXNaHiFIBn7EEafx5uh7VzhT.jpg",
+    "releaseDate": "2025-12-30",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "作品改编自经典游戏《仙剑奇侠传三》。 千年前，神将飞蓬与魔尊重楼于新仙界中大战，神剑“照胆”跌落人间，飞蓬被贬下凡。千年后，蜀山锁妖塔震荡，获得魔剑的飞蓬转世——景天，与唐雪见、徐长卿及紫萱几人开始了一场为收集五灵珠封印锁妖塔的冒险。",
+    "link": null,
+    "tmdb_id": "233295",
+    "tmdb_site_id": "tv/233295",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "281233",
+    "type": "tmdb",
     "title": "光阴之外",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/f6/458926_0qw05.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/n5GdyNVU3YmooHyagI55BSpuzmc.jpg",
     "releaseDate": "2025-12-28",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "26话 /  2025年12月28日 / 张富鑫、张帅、于斌",
-    "link": "https://bgm.tv/subject/458926"
+    "mediaType": "tv",
+    "rating": "9.7",
+    "description": "末世之中异兽横行、资源匮乏，人类在废墟中挣扎求生。贫民窟出身的许青，因神秘紫水晶获得修行机缘，从拾荒者起步，加入七血瞳势力，历经小队厮杀、宗门斗争、秘境探索，凭借《金乌炼万灵》功法炼化万族天赋，一路突破至筑基境。",
+    "link": null,
+    "tmdb_id": "281233",
+    "tmdb_site_id": "tv/281233",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "616981",
@@ -69,15 +85,22 @@
     "link": "https://bgm.tv/subject/616981"
   },
   {
-    "id": "403731",
-    "type": "link",
+    "id": "238685",
+    "type": "tmdb",
     "title": "山海经密码",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c0/83/403731_Jzqio.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8EuGPfbPdcDheVp3utW7vx5CBGZ.jpg",
     "releaseDate": "2025-12-27",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "13话 /  2025年12月27日 / 郑佳",
-    "link": "https://bgm.tv/subject/403731"
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "　　商国王孙有莘不破救下太一宗弟子江离，二人同行一起在大荒原上冒险，入商队、遇天劫、遭猛兽、败强盗、救女主……被命运交织在一起的二人正卷入一场夏商两朝的伟大战争中。",
+    "link": null,
+    "tmdb_id": "238685",
+    "tmdb_site_id": "tv/238685",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "446289",
@@ -124,15 +147,22 @@
     "link": "https://bgm.tv/subject/544624"
   },
   {
-    "id": "535623",
-    "type": "link",
+    "id": "309323",
+    "type": "tmdb",
     "title": "猪猪侠之功夫小英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/cc/535623_cGVGr.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sJOqtKeFzL8ywqgpB8Gv84SfZmJ.jpg",
     "releaseDate": "2025-12-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "26话 /  2025年12月26日",
-    "link": "https://bgm.tv/subject/535623"
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "猪猪侠与伙伴们拯救家园后，终于获邀加入宇宙英雄联盟。但他们的排名非常低，只能执行低级任务。为了早日成为像完美队长那样的宇宙英雄，猪猪们拜师功夫侠，一边跑任务，一边学习凝聚精神力。没想到，执行任务的过程中，猪猪们屡次破坏宇宙反英雄联盟的阴谋，因此成为反派的眼中钉。猪猪们陷入险境，但他们不服输，凭着崇高的英雄信念，突破自我极限，功夫越来越厉害，英雄排名也逐步提升。但反英雄联盟没罢休，还在计划着更大的阴谋！",
+    "link": null,
+    "tmdb_id": "309323",
+    "tmdb_site_id": "tv/309323",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "588221",
@@ -179,7 +209,7 @@
     "link": "https://bgm.tv/subject/520300"
   },
   {
-    "id": "209077/season/0",
+    "id": "209077",
     "type": "tmdb",
     "title": "不死不幸 冬季篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg",
@@ -188,7 +218,9 @@
     "rating": "6.1",
     "description": "1话 /  2025年12月25日 / 朴性厚 / 戸塚慶文（集英社 ジャンプコミックス刊） / 守岡英行、石本峻一",
     "link": null,
-    "tmdb_id": "209077/season/0",
+    "tmdb_id": "209077",
+    "tmdb_site_id": "tv/209077/season/0",
+    "tmdb_season_number": 0,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -204,15 +236,22 @@
     "link": "https://bgm.tv/subject/619911"
   },
   {
-    "id": "449371",
-    "type": "link",
+    "id": "281197",
+    "type": "tmdb",
     "title": "超凡进化",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/5e/449371_KZclz.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/uWCKT6I0aKsrS8NpcvVV8ziBfIy.jpg",
     "releaseDate": "2025-12-23",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "14话 /  2025年12月23日 / 蔡宏林",
-    "link": "https://bgm.tv/subject/449371"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事围绕青年明河展开，其“垃圾超凡力”在遭遇“神女”灾星撞击后，形成名为“依附之灵”的特殊存在，由此引发一系列冒险与危机。",
+    "link": null,
+    "tmdb_id": "281197",
+    "tmdb_site_id": "tv/281197",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "617321",
@@ -226,17 +265,6 @@
     "link": "https://bgm.tv/subject/617321"
   },
   {
-    "id": "609228",
-    "type": "link",
-    "title": "The Wonderfully Weird World of Gumball Season 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/88/609228_h2F2Q.jpg",
-    "releaseDate": "2025-12-22",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "20话 /  2025年12月22日",
-    "link": "https://bgm.tv/subject/609228"
-  },
-  {
     "id": "547793",
     "type": "link",
     "title": "新时代·中国礼",
@@ -248,15 +276,33 @@
     "link": "https://bgm.tv/subject/547793"
   },
   {
-    "id": "449362",
+    "id": "609228",
     "type": "link",
-    "title": "开局就有王者账号",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/f4/449362_Mi3zN.jpg",
-    "releaseDate": "2025-12-21",
+    "title": "The Wonderfully Weird World of Gumball Season 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/88/609228_h2F2Q.jpg",
+    "releaseDate": "2025-12-22",
     "mediaType": "anime",
     "rating": "",
-    "description": "12话 /  2025年12月21日 / 陈俊、韩文献 / 仁山动漫《开局就有王者账号》 / RuaRua（总人物设计）",
-    "link": "https://bgm.tv/subject/449362"
+    "description": "20话 /  2025年12月22日",
+    "link": "https://bgm.tv/subject/609228"
+  },
+  {
+    "id": "297987",
+    "type": "tmdb",
+    "title": "开局就有王者账号",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xtCotDNdDyV2X3Te7EwHkF39plY.jpg",
+    "releaseDate": "2025-12-21",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "改编自腾讯动漫同名漫画，2063年，地球进入游戏时代，少年叶昊觉醒王者账号，为了亲人逆风翻盘，越级反杀异世妖兽，征服少女收获芳心，最终成功阻止了灭世阴谋，守护家人。",
+    "link": null,
+    "tmdb_id": "297987",
+    "tmdb_site_id": "tv/297987",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "616060",

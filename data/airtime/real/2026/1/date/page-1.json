@@ -175,6 +175,8 @@
     "description": "1话 /  2026年10月23日 / 竹村謙太郎 / 道枝駿佑",
     "link": null,
     "tmdb_id": "287591",
+    "tmdb_site_id": "tv/287591",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -190,15 +192,22 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
-    "id": "604863",
-    "type": "link",
-    "title": "mentor",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/06/604863_RI1A1.jpg",
+    "id": "311125",
+    "type": "tmdb",
+    "title": "以身相許",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
     "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年10月16日 / 磯村勇斗、末澤誠也（Aぇ! group）",
-    "link": "https://bgm.tv/subject/604863"
+    "link": null,
+    "tmdb_id": "311125",
+    "tmdb_site_id": "tv/311125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "428025",
@@ -256,14 +265,14 @@
     "link": "https://bgm.tv/subject/645791"
   },
   {
-    "id": "638983",
+    "id": "633558",
     "type": "link",
-    "title": "藁にもすがる獣たち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
-    "link": "https://bgm.tv/subject/638983"
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
+    "link": "https://bgm.tv/subject/633558"
   }
 ]

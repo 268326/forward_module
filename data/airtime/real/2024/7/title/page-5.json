@@ -1,0 +1,315 @@
+[
+  {
+    "id": "480307",
+    "type": "link",
+    "title": "Elsbeth Season 1",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/57/480307_X05dE.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2024-02-29",
+    "link": "https://bgm.tv/subject/480307"
+  },
+  {
+    "id": "513861",
+    "type": "link",
+    "title": "Elsbeth Season 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/bc/513861_BlC48.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "20话 /  2024-10-17",
+    "link": "https://bgm.tv/subject/513861"
+  },
+  {
+    "id": "217667",
+    "type": "tmdb",
+    "title": "Eric",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6f8XlVqX0UefGUcuca2Jz10D17E.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "20世纪80年代，孤注一掷的父亲和顽强的警察在纽约街头寻找失踪的9岁儿子，同时对抗自己的心魔。",
+    "link": null,
+    "tmdb_id": "217667",
+    "tmdb_site_id": "tv/217667",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "512991",
+    "type": "link",
+    "title": "Evil Season 4",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/00/3d/512991_k068w.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "14话 /  2024-05-23",
+    "link": "https://bgm.tv/subject/512991"
+  },
+  {
+    "id": "502227",
+    "type": "link",
+    "title": "珍的不一样 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/58/40/502227_hzDBk.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2024-03-06",
+    "link": "https://bgm.tv/subject/502227"
+  },
+  {
+    "id": "240581",
+    "type": "tmdb",
+    "title": "眼里全是你",
+    "posterPath": "https://image.tmdb.org/t/p/w500/w048lAu8PdcW8JfIfsBxKik6eNV.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "本宫侑里因为某次事故，拥有只要看到对方的眼睛就能听到对方心声的“心灵感应”能力。拥有了这个能力的侑里，听到了不想知道的别人的真心话而暗自受伤的事也很多。她不敢去了解别人的真实想法，也不敢把自己的真实想法展示给别人看，也不敢和别人过分亲密，甚至放弃了恋爱。有一天，侑里遇见了韩国人尹泰晤。性格开朗、和蔼可亲的他，因其天真无邪而受到周围人的喜爱，同时对恋爱也超直率纯真。和这样的他偶然四目相对的时候，听到的语言竟然是韩语！如果和不知道内心声音的泰晤，说不定已经放弃的恋爱就能……这样想着。像太阳一样明亮直接的泰晤的存在，将如何融化无法袒露自己真实想法的侑里那封闭的心呢？",
+    "link": null,
+    "tmdb_id": "240581",
+    "tmdb_site_id": "tv/240581",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "106379",
+    "type": "tmdb",
+    "title": "辐射",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+    "link": null,
+    "tmdb_id": "106379",
+    "tmdb_site_id": "tv/106379",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "253254",
+    "type": "tmdb",
+    "title": "狂想行",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3aGkoKJLA0URkJHU7XDXB58C02G.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "透过富有内省与奇幻色彩的故事，胡里奥·托雷斯展开了一场寻回遗失的金牡蛎耳环的心灵探索之旅。",
+    "link": null,
+    "tmdb_id": "253254",
+    "tmdb_site_id": "tv/253254",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "601039",
+    "type": "link",
+    "title": "布朗神父 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/8e/601039_82A34.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2024-01-05",
+    "link": "https://bgm.tv/subject/601039"
+  },
+  {
+    "id": "482397",
+    "type": "link",
+    "title": "一级方程式：疾速求生 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/c4/482397_u0DoC.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "6.4",
+    "description": "10话 /  2024-02-23",
+    "link": "https://bgm.tv/subject/482397"
+  },
+  {
+    "id": "197591",
+    "type": "tmdb",
+    "title": "Franklin",
+    "posterPath": "https://image.tmdb.org/t/p/w500/et7CzS8DqgMy5pxiLdrggEyvh1B.jpg",
+    "releaseDate": "2024-04-12",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "在1776年12月，本杰明·富兰克林因其电学实验而闻名世界。然而，前往法国执行秘密任务的他，在美国独立命运悬而未决的情况下，其激情和能力受到了考验。",
+    "link": null,
+    "tmdb_id": "197591",
+    "tmdb_site_id": "tv/197591",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "514784",
+    "type": "link",
+    "title": "梦魇绝镇 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/3e/514784_Ub3UB.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2024-09-22",
+    "link": "https://bgm.tv/subject/514784"
+  },
+  {
+    "id": "436932",
+    "type": "link",
+    "title": "疯狂的麦克斯：狂暴女神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/8a/436932_qjf1c.jpg",
+    "releaseDate": "2024-05-24",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "1话 /  2024年5月24日、2024年6月7日（中国大陆） / George Miller / George Miller、Nick Lathouris / Anya Taylor-Joy、Chris Hemsworth",
+    "link": "https://bgm.tv/subject/436932"
+  },
+  {
+    "id": "243875",
+    "type": "tmdb",
+    "title": "乔治和曼迪的头婚生活",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "乔治和曼迪在德克萨斯州抚养他们的年轻家庭，同时应对成年、育儿和婚姻的挑战。",
+    "link": null,
+    "tmdb_id": "243875",
+    "tmdb_site_id": "tv/243875",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "509101",
+    "type": "link",
+    "title": "超能敢死队2：冰雪帝国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/16/509101_13tuj.jpg",
+    "releaseDate": "2024-03-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年3月22日 / Gil Kenan / Gil Kenan、Jason Reitman / Paul Rudd、Carrie Coon、Finn Wolfhard、Mckenna Grace、Kumail Nanjiani、Patton Oswalt、Celeste O'Connor",
+    "link": "https://bgm.tv/subject/509101"
+  },
+  {
+    "id": "256300",
+    "type": "tmdb",
+    "title": "GO HOME〜警视厅身份不明者咨询室〜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ieZ1pMcomlBCKp0vORdtJHy5vDH.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "本剧以讲述了自报志愿被分配到朴素且无人问津的警视厅身份不明者咨询室的怪人三田樱，和比她大10岁的同期生月本真，两人性格和兴趣完全相反。明朗天真烂漫的樱，冷静沉着的真，虽然一见面就互相埋怨，但无论如何都想让更多的身份不明者回到家人身边，凭借遗体上留下的一点点线索解开谜团的人性推理故事。",
+    "link": null,
+    "tmdb_id": "256300",
+    "tmdb_site_id": "tv/256300",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "390273",
+    "type": "link",
+    "title": "哥斯拉 x 金刚：帝国崛起",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/43/390273_gkgUm.jpg",
+    "releaseDate": "2024-03-28",
+    "mediaType": "real",
+    "rating": "5.6",
+    "description": "1话 /  2024年3月28日 / Adam Wingard / Michael Dougherty / Rebecca Hall、Dan Stevens",
+    "link": "https://bgm.tv/subject/390273"
+  },
+  {
+    "id": "454848",
+    "type": "link",
+    "title": "麻辣教师GTO 复活",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/a6/454848_0Q0zG.jpg",
+    "releaseDate": "2024-04-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年4月1日 / 深川栄洋 / 山岡潤平 / 反町隆史、岡崎紗絵、小手伸也、八木莉可子、畑芽育、日向亘、鈴木浩介",
+    "link": "https://bgm.tv/subject/454848"
+  },
+  {
+    "id": "579017",
+    "type": "link",
+    "title": "HACHI Zepp Live Tour 2024 ”for ASTRA.”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/94/e8/579017_c0s9p.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024-12-14(東京)、2025-01-10(台北) / HACHI",
+    "link": "https://bgm.tv/subject/579017"
+  },
+  {
+    "id": "371677",
+    "type": "link",
+    "title": "光环 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/7d/371677_CuusT.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "5.2",
+    "description": "8话 /  2024-02-08 / Pablo Schreiber / Jen Taylor / Natascha McElhone",
+    "link": "https://bgm.tv/subject/371677"
+  },
+  {
+    "id": "524375",
+    "type": "link",
+    "title": "昨日青春",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a6/95/524375_Y1h3z.jpg",
+    "releaseDate": "2024-10-04",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "1话 /  2024年10月4日 / 空音央 (Neo Sora) / 空音央 (Neo Sora) / 栗原颯人、日高由起刀、林裕太、シナ・ペン、ARAZI、祷キララ、中島歩、矢作マサル、PUSHIM、渡辺真起子、佐野史郎",
+    "link": "https://bgm.tv/subject/524375"
+  },
+  {
+    "id": "501690",
+    "type": "link",
+    "title": "野探哈莉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/be/501690_a37Hg.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2024-05-13",
+    "link": "https://bgm.tv/subject/501690"
+  },
+  {
+    "id": "629607",
+    "type": "link",
+    "title": "HARUSARUHI VIRTUAL MINI LIVE 「BEAST OF THE HEART -不可解空間-」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/95/5c/629607_5g71p.jpg",
+    "releaseDate": "2024-02-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年2月17日 / 春猿火",
+    "link": "https://bgm.tv/subject/629607"
+  },
+  {
+    "id": "513221",
+    "type": "link",
+    "title": "心碎高中第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b7/31/513221_LpWj7.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2024-04-11",
+    "link": "https://bgm.tv/subject/513221"
+  }
+]

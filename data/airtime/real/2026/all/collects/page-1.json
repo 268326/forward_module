@@ -22,15 +22,22 @@
     "link": "https://bgm.tv/subject/480966"
   },
   {
-    "id": "429521",
-    "type": "link",
+    "id": "224372",
+    "type": "tmdb",
     "title": "七王国的骑士",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/c0/429521_Q78Kg.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
     "releaseDate": "2026-01-18",
-    "mediaType": "real",
-    "rating": "7.7",
-    "description": "6话 /  2026年1月18日 / Ira Parker",
-    "link": "https://bgm.tv/subject/429521"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "link": null,
+    "tmdb_id": "224372",
+    "tmdb_site_id": "tv/224372",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "369191",
@@ -44,26 +51,40 @@
     "link": "https://bgm.tv/subject/369191"
   },
   {
-    "id": "563781",
-    "type": "link",
-    "title": "钟表馆事件",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/25/3a/563781_BdZk1.jpg",
+    "id": "305986",
+    "type": "tmdb",
+    "title": "钟表馆杀人事件",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
     "releaseDate": "2026-02-27",
-    "mediaType": "real",
-    "rating": "7.2",
-    "description": "8话 /  2026年2月27日 / 内片輝、山本大輔 / 戸田山雅司、早野円、藤井香織、内片輝 / 奥智哉、青木崇高",
-    "link": "https://bgm.tv/subject/563781"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+    "link": null,
+    "tmdb_id": "305986",
+    "tmdb_site_id": "tv/305986",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "610372",
-    "type": "link",
-    "title": "超宇宙刑事卡邦 无限",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6b/bc/610372_45RIB.jpg",
+    "id": "306479",
+    "type": "tmdb",
+    "title": "PROJECT R.E.D.",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
     "releaseDate": "2026-02-15",
-    "mediaType": "real",
-    "rating": "1.7",
-    "description": "2026年2月15日 / 福沢博文、加藤弘之、山口恭平、宮﨑駿 / 冨岡淳広、山口宏、樋口達人、森地夏美",
-    "link": "https://bgm.tv/subject/610372"
+    "mediaType": "tv",
+    "rating": "1.0",
+    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
+    "link": null,
+    "tmdb_id": "306479",
+    "tmdb_site_id": "tv/306479",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "405591",
@@ -77,15 +98,22 @@
     "link": "https://bgm.tv/subject/405591"
   },
   {
-    "id": "566187",
-    "type": "link",
+    "id": "279446",
+    "type": "tmdb",
     "title": "太平年",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/15/566187_uvluu.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
     "releaseDate": "2026-01-23",
-    "mediaType": "real",
-    "rating": "6.8",
-    "description": "48话 /  2026年1月23日 / 杨磊（总导演） / 陆贝珂 / 董哲 / 白宇 / 周雨彤 / 朱亚文 / 俞灏明 / 董勇 / 倪大红 / 保剑锋 / 郝平 / 蒋恺 / 尤勇智 / 张晓晨 / 刘畅 / 梅婷 / 于洋 / 张帆 / 吴昊宸 / 薛佳凝 / 海一天 / 赵子琪 / 尤靖茹 / 魏千翔 / 朱嘉琦 / 任宥纶 / 牛超 / 田雷 / 赫子铭 / 贾宏伟",
-    "link": "https://bgm.tv/subject/566187"
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
+    "link": null,
+    "tmdb_id": "279446",
+    "tmdb_site_id": "tv/279446",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "540469",
@@ -165,48 +193,76 @@
     "link": "https://bgm.tv/subject/620971"
   },
   {
-    "id": "602092",
-    "type": "link",
+    "id": "304194",
+    "type": "tmdb",
     "title": "重启",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/4d/602092_Gimm5.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "5.6",
-    "description": "10话 /  2026-01-18 / 坪井敏雄、田中健太、元井桃 / 黒岩勉 / 鈴木亮平",
-    "link": "https://bgm.tv/subject/602092"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
+    "link": null,
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "609407",
-    "type": "link",
-    "title": "再会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/32/fa/609407_KHC3d.jpg",
+    "id": "306207",
+    "type": "tmdb",
+    "title": "再会～沉默的真相～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jYVhsNBrJT5htVukLv95q1C6bdR.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.1",
-    "description": "9话 /  2026-01-13 / 深川栄洋、山本大輔 / 橋部敦子 / 竹内涼真",
-    "link": "https://bgm.tv/subject/609407"
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "23年前，小学六年级的飞奈淳一（竹内凉真 饰）与关系要好的三名同学，共同把一把卷入事件的手枪埋在樱树下。成年后，淳一成为刑警，却在某起案件中得知：凶器正是当年四人一起埋下的那把枪。更令他震动的是，他以刑警与嫌疑人的身份，与初恋岩本万季子（井上真央 饰）再会。随着调查推进，他逐一与当年的伙伴重逢，被掩埋的真相、背叛与秘密逐渐浮现。过往的“再会”，将彻底改变所有人的人生轨迹。\n\n改编自横关大获得第56届江户川乱步奖的小说《再会》。",
+    "link": null,
+    "tmdb_id": "306207",
+    "tmdb_site_id": "tv/306207",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "398995",
-    "type": "link",
+    "id": "198178",
+    "type": "tmdb",
     "title": "奇迹人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/63/87/398995_v66M6.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eeIBoUMpUnmBiC2wsj4xvJxA5VC.jpg",
     "releaseDate": "2026-01-27",
-    "mediaType": "real",
-    "rating": "7.3",
-    "description": "8话 /  2026年1月27日 / Yahya Abdul-Mateen II Ben Kingsley、Demetrius Grosse、Ed Harris、Arian Moayed、Zlatko Burić",
-    "link": "https://bgm.tv/subject/398995"
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+    "link": null,
+    "tmdb_id": "198178",
+    "tmdb_site_id": "tv/198178",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "605959",
-    "type": "link",
+    "id": "312723",
+    "type": "tmdb",
     "title": "牙狼＜GARO＞ 东之界楼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/24/605959_Q9ydv.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
     "releaseDate": "2026-01-29",
-    "mediaType": "real",
-    "rating": "5.1",
+    "mediaType": "tv",
+    "rating": "10.0",
     "description": "2026年1月29日 / 鈴村正樹、木村好克、田口清隆 / 鴨義信、江良至 / 栗山航、南里美希",
-    "link": "https://bgm.tv/subject/605959"
+    "link": null,
+    "tmdb_id": "312723",
+    "tmdb_site_id": "tv/312723",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "617739",
@@ -220,37 +276,58 @@
     "link": "https://bgm.tv/subject/617739"
   },
   {
-    "id": "577204",
-    "type": "link",
+    "id": "279388",
+    "type": "tmdb",
     "title": "逐玉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f7/c1/577204_2UT4Z.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
     "releaseDate": "2026-03-06",
-    "mediaType": "real",
-    "rating": "5.9",
-    "description": "40话 /  2026年3月6日 / 曾庆杰 / 邹越 / 金子 / 曾珍 / 田曦薇 / 张凌赫 / 任豪 / 孔雪儿 / 邓凯 / 李卿 / 喻钟黎 / 刘琳 / 严屹宽 / 岳旸 / 杜淳 / 谭凯 / 毛林林 / 叶祖新 / 李建义 / 田丽 / 寇占文 / 付淼 / 卢勇 / 苑冉 / 马跃 / 高卿尘 / 林沐然 / 林思意 / 何昶希 / 高上淇 / 李殿尊 / 张舒沦 / 李昱唯 / 向夏 / 韩浩天 / 王亭文",
-    "link": "https://bgm.tv/subject/577204"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
+    "link": null,
+    "tmdb_id": "279388",
+    "tmdb_site_id": "tv/279388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "598977",
-    "type": "link",
+    "id": "303405",
+    "type": "tmdb",
     "title": "九条的大罪",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1d/6e/598977_R4o66.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.1",
-    "description": "10话 /  2026-04-02 / 土井裕泰、山本剛義、足立博 / 根本ノンジ / 柳楽優弥",
-    "link": "https://bgm.tv/subject/598977"
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
+    "link": null,
+    "tmdb_id": "303405",
+    "tmdb_site_id": "tv/303405",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "614512",
-    "type": "link",
+    "id": "229891",
+    "type": "tmdb",
     "title": "爱情怎么翻译？",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/07/614512_8Jj86.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.3",
-    "description": "12话 /  2026-01-16 / 김선호(金宣虎)、고윤정(高允贞)",
-    "link": "https://bgm.tv/subject/614512"
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
+    "link": null,
+    "tmdb_id": "229891",
+    "tmdb_site_id": "tv/229891",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "544948",

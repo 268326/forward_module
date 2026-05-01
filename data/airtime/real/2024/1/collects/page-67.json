@@ -1,0 +1,31 @@
+[
+  {
+    "id": "639031",
+    "type": "link",
+    "title": "日向坂46「第5届日向坂生日祭」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/c9/639031_M37M0.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2024-04-06 / 日向坂46(加藤史帆、佐々木久美、佐々木美玲、高瀬愛奈、高本彩花、東村芽依、金村美玖、河田陽菜、小坂菜緒、富田鈴花、丹生明里、濱岸ひより、松田好花、上村ひなの、髙橋未来虹、森本茉莉、山口陽世、石塚瑶季、小西夏菜実、清水理央、正源司陽子、竹内希来里、平尾帆夏、平岡海月、藤嶌果歩、宮地すみれ、山下葉留花、渡辺莉奈)",
+    "link": "https://bgm.tv/subject/639031"
+  },
+  {
+    "id": "258538",
+    "type": "tmdb",
+    "title": "铁锈味的雨滴",
+    "posterPath": "https://image.tmdb.org/t/p/w500/diH1Vo6jaeENx3CEmZLpW7PTZHR.jpg",
+    "releaseDate": "2024-11-23",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "　　被分配到刑事调查部门的菜鸟警官上尉·图尔第一次实地部署时，意外地遇到了法医科学研究所的医生切尔兰博士。他们不同的工作态度在他们之间造成了相当大的差距，很难找到共同点。在反映社会问题的犯罪现场中，Tul侦探还与来自有利于有影响力的团体的工作系统的压力作斗争。她穿越了干扰旨在保护盟友和可能影响案件结果的社会潮流。至少Tul的正直在这些挑战中保持完整。当她与法医Cherran合作时，他们有条不紊地分析留在犯罪现场的证据，使他们更接近于确定每个案件中的肇事者。随着时间的推移，Tul和Cherran越来越信任彼此，不知疲倦地保护无辜者的生命，并最终为受害者家属伸张正义。~~",
+    "link": null,
+    "tmdb_id": "258538",
+    "tmdb_site_id": "tv/258538",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TH"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

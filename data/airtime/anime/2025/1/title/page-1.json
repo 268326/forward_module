@@ -1,14 +1,21 @@
 [
   {
-    "id": "545465",
-    "type": "link",
+    "id": "218510",
+    "type": "tmdb",
     "title": "美国第一欢乐家庭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/c1/545465_RO482.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iOuyZR3vLSoUpshkYjWE93lFpva.jpg",
     "releaseDate": "2025-04-17",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "8话 /  2025年4月17日",
-    "link": "https://bgm.tv/subject/545465"
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "拉米·尤素夫创作了《美国第一欢乐家庭》这部成人动画系列片，讲述了超级乐观的侯赛因一家的故事。九一一袭击事件后，侯赛因一家是最爱国、最和平、最不可疑的阿拉伯裔美国人。这部动画片以讽刺和荒诞的情节，重新定义了在困境中寻找幽默，展现他们如何在邻居们惊恐的目光下度过了21世纪初的时光。",
+    "link": null,
+    "tmdb_id": "218510",
+    "tmdb_site_id": "tv/218510",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "215615",
@@ -21,11 +28,13 @@
     "description": "12话 /  2025年4月7日 / 難波日登志 / #コンパス 戦闘摂理解析システム（NHN PlayArt × ドワンゴ） / 福島陽子、平岩栞；副人设：谷口元浩",
     "link": null,
     "tmdb_id": "215615",
+    "tmdb_site_id": "tv/215615",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "256164/season/2",
+    "id": "256164",
     "type": "tmdb",
     "title": "0岁儿童开始冲刺的故事 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fb/d1/526429_GfYqg.jpg",
@@ -34,7 +43,9 @@
     "rating": "4.5",
     "description": "12话 /  2025年1月5日 / 海華· はやせれく",
     "link": null,
-    "tmdb_id": "256164/season/2",
+    "tmdb_id": "256164",
+    "tmdb_site_id": "tv/256164/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -71,6 +82,8 @@
     "description": "12话 /  2025年10月7日 / 水野智史 / 猫葉りて（秋水社）",
     "link": null,
     "tmdb_id": "301124",
+    "tmdb_site_id": "tv/301124",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -85,6 +98,8 @@
     "description": "12话 /  2025年10月6日 / 東田夏実 / 空知英秋；大崎知仁（集英社JUMP j BOOKS刊） / 竹内進二",
     "link": null,
     "tmdb_id": "222624",
+    "tmdb_site_id": "tv/222624",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -121,6 +136,8 @@
     "description": "13话 /  2025年7月5日 / 大畑晃一 / ぱれっと / 﨑口さおり",
     "link": null,
     "tmdb_id": "270931",
+    "tmdb_site_id": "tv/270931",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -257,15 +274,22 @@
     "link": "https://bgm.tv/subject/561259"
   },
   {
-    "id": "545979",
-    "type": "link",
-    "title": "阿斯特克斯与奥贝里克斯：首领争夺战",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/7e/545979_IA180.jpg",
+    "id": "122781",
+    "type": "tmdb",
+    "title": "高卢英雄：首领争夺战",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
     "releaseDate": "2025-04-30",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2025年4月30日",
-    "link": "https://bgm.tv/subject/545979"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "村里的祭司忘了该如何调制魔法药水，阿斯特克斯、奥贝利克斯和高卢人必须找到新办法来抵御来自罗马的征服者。",
+    "link": null,
+    "tmdb_id": "122781",
+    "tmdb_site_id": "tv/122781",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "FR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "641336",

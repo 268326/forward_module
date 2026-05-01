@@ -1,0 +1,287 @@
+[
+  {
+    "id": "258063",
+    "type": "tmdb",
+    "title": "灵魂之伴",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vJJEEP5FYBuDicmCA97pgWou55h.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "跌入绝望深渊的鸣泷流（矶村勇斗 饰），得到了韩国拳击手黄约翰（玉泽演 饰）的救赎。此后，两颗孤独的心逐渐向彼此靠近。然而，他们越是靠近，命运却越是无情地将两人的关系卷入纠葛之中。",
+    "link": null,
+    "tmdb_id": "258063",
+    "tmdb_site_id": "tv/258063",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "635778",
+    "type": "link",
+    "title": "舞台『劇場版モノノ怪 前日譚～二首女～』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c8/76/635778_8ao2O.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-05-14 / ヨリコ ジュン / 中屋敷法仁 / 新木宏典",
+    "link": "https://bgm.tv/subject/635778"
+  },
+  {
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
+  },
+  {
+    "id": "282418",
+    "type": "link",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_MLWeM.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
+  },
+  {
+    "id": "641417",
+    "type": "link",
+    "title": "超新丁伙头兵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
+    "link": "https://bgm.tv/subject/641417"
+  },
+  {
+    "id": "577887",
+    "type": "link",
+    "title": "少女☆歌劇 レヴュースタァライト -The MUSICAL- 遙かなるエルドラド",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/5d/577887_AnBh5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-05-11 / 児玉明子 / 児玉明子",
+    "link": "https://bgm.tv/subject/577887"
+  },
+  {
+    "id": "622396",
+    "type": "link",
+    "title": "舞台「十角館の殺人」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/a7/622396_Nt4N0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-05-10 / 中屋敷法仁 / 中屋敷法仁 / 梅津瑞樹",
+    "link": "https://bgm.tv/subject/622396"
+  },
+  {
+    "id": "626503",
+    "type": "link",
+    "title": "ポカポン",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/a3/626503_bI3GR.jpg",
+    "releaseDate": "2026-05-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年5月9日 / 大塚信一 / 大塚信一 / 原田琥之佑",
+    "link": "https://bgm.tv/subject/626503"
+  },
+  {
+    "id": "623032",
+    "type": "link",
+    "title": "凍玻璃歌劇「泡沫のユークロニア -帷-」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/af/623032_gChEg.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-05-09 / 冨田昌則 / ほさかよう / 古川流唯、竹野留里",
+    "link": "https://bgm.tv/subject/623032"
+  },
+  {
+    "id": "622774",
+    "type": "link",
+    "title": "幕末ヒポクラテスたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a4/98/622774_Nzw71.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年5月8日 / 緒方明 / 西岡琢也 / 佐々木蔵之介",
+    "link": "https://bgm.tv/subject/622774"
+  },
+  {
+    "id": "478191",
+    "type": "link",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
+    "link": "https://bgm.tv/subject/478191"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_KFY1z.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
+    "id": "614123",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_fNF4n.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
+  },
+  {
+    "id": "618541",
+    "type": "link",
+    "title": "月乃 Premium Jazz Live 2026 “Love Rhapsody”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/9a/618541_T8o4e.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日 / 月乃",
+    "link": "https://bgm.tv/subject/618541"
+  },
+  {
+    "id": "317317",
+    "type": "tmdb",
+    "title": "憧れの作家は人間じゃありませんでした",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/3e/620087_dDbAc.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年5月4日 / 橋本夏 / 京本大我（SixTONES）",
+    "link": null,
+    "tmdb_id": "317317",
+    "tmdb_site_id": "tv/317317",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "272432",
+    "type": "tmdb",
+    "title": "低智商犯罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/e4JlZu0PAQ2Qpg4Tj4qDfD0ePO1.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "脱离一线刑侦几年的警察张一昂（王骁 饰），因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣（王传君 饰）团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+    "link": null,
+    "tmdb_id": "272432",
+    "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "633250",
+    "type": "link",
+    "title": "岸辺露伴は動かない「泉京香は黙らない」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/46/633250_5dB3B.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年5月4日 / 関友太郎、平瀬謙太朗 / 飯豊まりえ、高橋一生",
+    "link": "https://bgm.tv/subject/633250"
+  },
+  {
+    "id": "625097",
+    "type": "link",
+    "title": "假面骑士ZZZ Into the Dream",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2a/625097_IV4z5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-05-03 / 内藤祐介（Show Part） / 今井竜太郎、堀口真帆、三嶋健太、小貫莉奈、八木美樹、NAQT VANE、BACK-ON、MC：篠宮暁",
+    "link": "https://bgm.tv/subject/625097"
+  },
+  {
+    "id": "626116",
+    "type": "link",
+    "title": "Poppin'Party×Roselia 合同ライブ「DREAMS GO ON」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/95/626116_yFbFi.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-05-03",
+    "link": "https://bgm.tv/subject/626116"
+  },
+  {
+    "id": "621221",
+    "type": "link",
+    "title": "舞台「ZERO RISE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bb/71/621221_iTZwW.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "20话 /  2026-05-02 / 毛利亘宏 / 松多壱岱（ILCA）",
+    "link": "https://bgm.tv/subject/621221"
+  },
+  {
+    "id": "613912",
+    "type": "link",
+    "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/d5/613912_r38YL.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
+    "link": "https://bgm.tv/subject/613912"
+  },
+  {
+    "id": "627859",
+    "type": "link",
+    "title": "ミュージカル『刀剣乱舞』 加州清光 単騎出陣 極",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9f/2b/627859_g2J52.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-05-01 / 茅野イサム、佐藤流司 / 浅井さやか / 佐藤流司",
+    "link": "https://bgm.tv/subject/627859"
+  },
+  {
+    "id": "633640",
+    "type": "link",
+    "title": "麦卡托骑士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/2b/633640_2Luqq.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-05-01 / 大山晃一郎 / 篠山輝信 / 水沢林太郎、須賀健太",
+    "link": "https://bgm.tv/subject/633640"
+  },
+  {
+    "id": "631190",
+    "type": "link",
+    "title": "ラプソディ・ラプソディ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/db/631190_KQwPN.jpg",
+    "releaseDate": "2026-05-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年05月01日 / 利重剛 / 利重剛 / 高橋一生",
+    "link": "https://bgm.tv/subject/631190"
+  }
+]

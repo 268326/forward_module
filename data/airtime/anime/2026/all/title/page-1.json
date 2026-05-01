@@ -153,15 +153,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "542603",
-    "type": "link",
+    "id": "285993",
+    "type": "tmdb",
     "title": "暗黑灯火",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_iYLgg.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wwVm2Mnpm210b5cDpGgwOO96KLg.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月4日 / 馬引圭 / タカキツヨシ（集英社刊） / 鈴木豪",
-    "link": "https://bgm.tv/subject/542603"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "次郎是一个拥有与动物交谈能力的少年。从小由祖父抚养并接受忍者训练，他因与众不同而被他人疏远，却在动物中找到了慰藉，并致力于保护它们。一天，他救了一只受伤的黑猫——拉格，但很快发现它并非普通的猫，而是一只“物怪”，正被一个神秘组织追捕。面对这一情况，次郎毫不犹豫地决定帮助他的新朋友。",
+    "link": null,
+    "tmdb_id": "285993",
+    "tmdb_site_id": "tv/285993",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "530725",
@@ -175,15 +182,22 @@
     "link": "https://bgm.tv/subject/530725"
   },
   {
-    "id": "617004",
-    "type": "link",
-    "title": "CHOPPER’s",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/ff/617004_tn3T3.jpg",
+    "id": "308828",
+    "type": "tmdb",
+    "title": "乔巴的日常",
+    "posterPath": "https://image.tmdb.org/t/p/w500/y8intXjXK5FG8JaAYjLy2uyK1PQ.jpg",
     "releaseDate": "2026-01-05",
-    "mediaType": "anime",
-    "rating": "5.2",
+    "mediaType": "tv",
+    "rating": "8.8",
     "description": "12话 /  2026年1月5日 / 『ONE PIECE CHOPPER’s』（『ONE PIECE』（原作：尾田栄一郎）より）",
-    "link": "https://bgm.tv/subject/617004"
+    "link": null,
+    "tmdb_id": "308828",
+    "tmdb_site_id": "tv/308828",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "583928",

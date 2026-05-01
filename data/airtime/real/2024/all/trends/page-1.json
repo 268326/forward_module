@@ -11,37 +11,58 @@
     "link": "https://bgm.tv/subject/386945"
   },
   {
-    "id": "502002",
-    "type": "link",
-    "title": "假面骑士加布",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/26/502002_7jywq.jpg",
+    "id": "263311",
+    "type": "tmdb",
+    "title": "假面骑士Gavv",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3f8JsIj07WkuX8mYFidGj5CxMcL.jpg",
     "releaseDate": "2024-09-01",
-    "mediaType": "real",
-    "rating": "5.2",
-    "description": "50话 /  2024年9月1日 / 杉原輝昭、柴﨑貴行、諸田敏、上堀内佳寿也、田﨑竜太、中澤祥次郎 / 香村純子、金子香緒里、毛利亘宏、内田裕基、八手三郎 / 知念英和、日野友輔、宮部のぞみ、庄司浩平",
-    "link": "https://bgm.tv/subject/502002"
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "潜伏的怪物威胁、异世界的怪物，砂糖人。人们并不知道，它们已经秘密进入了人间界。人们也不知道，它们正袭击和绑架人类。\n\n为了保护人类，一位青年挺身而出！那是一位非常喜欢吃东西的青年——生真。通过吃下糖果，生真能创造出成为其眷属的存在「饱藏」，并获得变身为假面骑士的力量。现在，生真为了保护人们的幸福而与砂糖人战斗的故事开始了！",
+    "link": null,
+    "tmdb_id": "263311",
+    "tmdb_site_id": "tv/263311",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "390202",
-    "type": "link",
+    "id": "106379",
+    "type": "tmdb",
     "title": "辐射",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/e6/390202_jn05D.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b056vciDjYJ3pthEvaFpPcZNT3i.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.3",
-    "description": "8话 /  2024-04-11 / Jonathan Nolan、Lisa Joy / Walton Goggins、Ella Purnell、Kyle MacLachlan、Xelia Mendes-Jones、Aaron Moten",
-    "link": "https://bgm.tv/subject/390202"
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "本剧根据史上最伟大的游戏之一改编，《辐射》讲述了一群富人和贫民在荒芜世界中奋力求生的故事。核弹爆炸200年后，一位生活在舒适的辐射避难所中的和平居民，不得不重返地表世界，并被废土的景象深深震撼。",
+    "link": null,
+    "tmdb_id": "106379",
+    "tmdb_site_id": "tv/106379",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "314217",
-    "type": "link",
-    "title": "三体",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/9b/314217_p2DD3.jpg",
+    "id": "286573",
+    "type": "tmdb",
+    "title": "三体：科幻视界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6UKNoKn1xNxQeUk8PzVComr0cSS.jpg",
     "releaseDate": "2024-03-21",
-    "mediaType": "real",
-    "rating": "5.1",
-    "description": "8话 /  2024年3月21日 / Alex Sharp、Eiza González、Jovan Adepo、Benedict Wong、Jess Hong",
-    "link": "https://bgm.tv/subject/314217"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "《三体》是刘慈欣创作的长篇科幻小说系列，由《三体》《三体2：黑暗森林》《三体3：死神永生》组成，第一部于2006年5月起在《科幻世界》杂志上连载，第二部于2008年5月首次出版，第三部则于2010年11月出版。作品讲述了地球人类文明和三体文明的信息交流、生死搏杀及两个文明在宇宙中的兴衰历程。《三体》的文本叙事在“后人类”的思考上有着重大突破，构建了科学与文学的互动范式，将道德内涵引入对科技的辩证思考中，并以文学手段在文化语境中对科技进行大胆假设和重构，但科技核心只是一个叙事跳板，是完成现实超越的重要媒介，也是人类命运共同体书写的重要工具。《三体》最吸引人的地方在于通过对人类中心主义的解构，继而完成对人与自然、动物之间的伦理反思与文学表达，最终指向去人类中心化的思想内核。其第一部经过刘宇昆翻译后获得了第73届雨果奖最佳长篇小说奖，第三部英文版获得2017年轨迹奖最佳长篇科幻小说奖。2019年，列入“新中国70年70部长篇小说典藏”。2022年9月，《三体》入选2021十大年度国家IP。",
+    "link": null,
+    "tmdb_id": "286573",
+    "tmdb_site_id": "tv/286573",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "75865",
@@ -54,6 +75,8 @@
     "description": "8话 /  2024-04-02 / 今泉力哉 / 金沢知樹、萩森淳、今泉力哉 / 月島琉衣、黒川想矢",
     "link": null,
     "tmdb_id": "75865",
+    "tmdb_site_id": "tv/75865",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -80,18 +103,25 @@
     "link": "https://bgm.tv/subject/483947"
   },
   {
-    "id": "503400",
-    "type": "link",
+    "id": "273519",
+    "type": "tmdb",
     "title": "各自孤独的美食家",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/13/503400_Hkhhp.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kGiRS0lEw5yt9TxA7i2ywUB84wE.jpg",
     "releaseDate": "2024-10-04",
-    "mediaType": "real",
-    "rating": "6.9",
-    "description": "12话 /  2024年10月4日 / 北畑龍一、井川尊史、北尾賢人、中山大暉 / 田口佳宏 / 松重豊",
-    "link": "https://bgm.tv/subject/503400"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧讲述了不被任何人打扰，不费神地吃东西的幸福孤高的行为。性别、年龄、职种、环境各不相同，在自由享受“孤独的美食家”的时间里，迎接各种各样的客人，以各自的故事来描绘，成为一部美食连续剧。这次不只是井之头五郎，各位主人公会遇到怎样的极品美食呢？",
+    "link": null,
+    "tmdb_id": "273519",
+    "tmdb_site_id": "tv/273519",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "67345/season/4",
+    "id": "67345",
     "type": "tmdb",
     "title": "Thunderbolt Fantasy 东离剑游纪 4",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/5e/347863_ij83D.jpg",
@@ -100,42 +130,65 @@
     "rating": "6.5",
     "description": "12话 /  2024-10-05",
     "link": null,
-    "tmdb_id": "67345/season/4",
+    "tmdb_id": "67345",
+    "tmdb_site_id": "tv/67345/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "466788",
-    "type": "link",
+    "id": "240274",
+    "type": "tmdb",
     "title": "春天来临时",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/39/466788_A9JO5.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aPzrsolYjbavwDRtTNg3V881hL6.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "11话 /  2024-01-15 / 松本佳奈、穐山茉由 / 福田靖 / 奈緒、木梨憲武",
-    "link": "https://bgm.tv/subject/466788"
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "在母亲(妻子)早已离世的同个屋檐下生活，尽管父女间相处时常起冲突，瞳和雅彦仍相依为命地迎来新的一年。但在今年的元旦，两个人都有大事要报告。父女俩数到三齐声宣布，互相得知「女儿三个月后要结婚了，结婚对象是大10岁的不红搞笑艺人」以及「父亲因选择不接受治疗，被宣告只剩三个月可活」的事实。虽然想说服对方改变心意，但两人讲没两句又无言收场，最后决定把各自在结婚前和死前想做的事列成清单，一起迎接春暖花开的那天。",
+    "link": null,
+    "tmdb_id": "240274",
+    "tmdb_site_id": "tv/240274",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "471448",
-    "type": "link",
+    "id": "242331",
+    "type": "tmdb",
     "title": "十角馆杀人事件",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/46/471448_MrPGl.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1VX6z9qyanyKIqB2UU9C7v72QEZ.jpg",
     "releaseDate": "2024-03-22",
-    "mediaType": "real",
-    "rating": "6.9",
-    "description": "5话 /  2024年3月22日 / 内片輝 / 八津弘幸、早野円、藤井香織 / 奥智哉、青木崇高",
-    "link": "https://bgm.tv/subject/471448"
+    "mediaType": "tv",
+    "rating": "8.7",
+    "description": "本片改编自现代本格推理第一人绫辻行人的代表作，讲述了在远离拥有十角形奇特外观的“十角馆”的角岛的“本土”，以收到“死者的信”为契机，本不可能相遇的江南和岛田这对组合，在半年前去世的天才建筑师···开始调查中村青司死亡的真相，解开在“十角馆”发生的杀人事件所隐藏的令人震惊的真相。",
+    "link": null,
+    "tmdb_id": "242331",
+    "tmdb_site_id": "tv/242331",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "497988",
-    "type": "link",
+    "id": "256384",
+    "type": "tmdb",
     "title": "彩香最爱弘子前辈",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/57/497988_KW7Eq.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8OWvZzhwMlhEZSRbHqxJq0Oax4A.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "6.7",
-    "description": "8话 /  2024-07-04 / のむらなお(野村奈绪)、吉川鮎太 / 下亜友美 / 加藤史帆、森カンナ、本田響矢、优希美青、山下永玖、久保乃乃花、瀬戸かずや、仲万美",
-    "link": "https://bgm.tv/subject/497988"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "本剧改编自同名漫画，讲述了彩香很喜欢同单位的弘子前辈，但每天都向她示好，却不被理睬。另一方面，大家所憧憬的弘子前辈，其实是相当“喜欢女色”的人，彩香的积极接近让她心跳不已。互相误认为对方是异性恋的两人，引发了更大的误会…",
+    "link": null,
+    "tmdb_id": "256384",
+    "tmdb_site_id": "tv/256384",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "498124",
@@ -160,15 +213,22 @@
     "link": "https://bgm.tv/subject/507544"
   },
   {
-    "id": "513769",
-    "type": "link",
-    "title": "思想验证区域：The Community",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/4f/513769_yxOBO.jpg",
+    "id": "244601",
+    "type": "tmdb",
+    "title": "思想验证区域：社群",
+    "posterPath": "https://image.tmdb.org/t/p/w500/w8U95EDFNlgmIn1yHJO248gb6R5.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "7.8",
-    "description": "11话 /  2024-01-26",
-    "link": "https://bgm.tv/subject/513769"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "是一档汇集了12名不同理念人们的政治生存类综艺，参与者皆为来自各行业的素人，男女各占一半，分别从政治、性别、阶级、开放性这四个领域划分了属性。和传统生存类综艺不同，比起展现极端情境下的人性冲突，将观察点放在了偏向日常化的场景，比起游戏解谜，更像是打造了一个浓缩的微型国家，12个人一起来“运营国家”的概念，是社会实验性质很强的深度观察节目。",
+    "link": null,
+    "tmdb_id": "244601",
+    "tmdb_site_id": "tv/244601",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "530606",
@@ -214,19 +274,28 @@
     "description": "8话 /  2024年11月28日 / スミス、松本花奈 / 北川亜矢子、井元隆佑 / 齋藤飛鳥、櫻井海音、齊藤なぎさ",
     "link": null,
     "tmdb_id": "203737",
+    "tmdb_site_id": "tv/203737",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "482724",
-    "type": "link",
-    "title": "有他在的生活",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ba/79/482724_57JJY.jpg",
+    "id": "248497",
+    "type": "tmdb",
+    "title": "有他的生活",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJdt16dDqem8iDyuk5nZK8rXd2h.jpg",
     "releaseDate": "2024-04-11",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2024年4月11日 / 加藤綾佳 / 宮本武史、野村浩二 / 佐藤瑠雅、坂井翔",
-    "link": "https://bgm.tv/subject/482724"
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "本剧改编自同名漫画，讲述了一心一意思念青梅竹马的爽朗受欢迎男子田中一仁，和擅长家务的淳朴男子夏川凉太之间的关系。故事从2人以升入大学为契机开始合租房间而展开。夏川知道了一仁喜欢的人是自己，开始意识到一仁的存在，从此一段坚强而笨拙的恋爱故事就此展开。",
+    "link": null,
+    "tmdb_id": "248497",
+    "tmdb_site_id": "tv/248497",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "525779",

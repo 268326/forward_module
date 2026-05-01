@@ -10,6 +10,8 @@
     "description": "1话 /  2024年10月20日 / 䂖谷恵 / 尾田栄一郎（集英社「週刊少年ジャンプ」連載） / 森佳祐",
     "link": null,
     "tmdb_id": "37854/season/0/episode/33",
+    "tmdb_site_id": "tv/37854/season/0/episode/33",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -24,11 +26,13 @@
     "description": "13话 /  2024年1月6日 / 赤城博昭 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
     "link": null,
     "tmdb_id": "207250",
+    "tmdb_site_id": "tv/207250",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "46195/season/5",
+    "id": "46195",
     "type": "tmdb",
     "title": "物语系列 外传季&怪物季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/c1/475354_QyO6r.jpg",
@@ -37,20 +41,29 @@
     "rating": "8.2",
     "description": "15话 /  2024年7月6日 / 吉澤翠 / 西尾維新『愚物語』『撫物語』『業物語』『忍物語』（講談社BOX） / 渡辺明夫",
     "link": null,
-    "tmdb_id": "46195/season/5",
+    "tmdb_id": "46195",
+    "tmdb_site_id": "tv/46195/season/5",
+    "tmdb_season_number": 5,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "512876",
-    "type": "link",
-    "title": "六样情",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/66/512876_ZV2x7.jpg",
+    "id": "265234",
+    "type": "tmdb",
+    "title": "六样情——《黑神话：悟空》章节动画原版合集",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dxtaKRC7c8V09sme1XCoCUaQaWA.jpg",
     "releaseDate": "2024-09-17",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "6话 /  2024年9月17日 / 林哲（《看见》），翁劼（《聋》），周浩嵩（《屁》），费思（《勿听》），黄成希（《不由己》），羊廷牧、人狼（《未尽》）",
-    "link": "https://bgm.tv/subject/512876"
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "六般体相六般兵，六样形骸六样情。六恶六根缘六欲，六门六道赌输赢。《六样情》是游戏科学携手中国多个顶尖动画团队，为《黑神话：悟空》精心制作的六部动画短片，对应游戏的六个章节。",
+    "link": null,
+    "tmdb_id": "265234",
+    "tmdb_site_id": "tv/265234",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "241535",
@@ -63,6 +76,8 @@
     "description": "12话 /  2024年7月13日 / 北村翔太郎 / 雨森たきび（小学館「ガガガ文庫」刊） / 川上哲也",
     "link": null,
     "tmdb_id": "241535",
+    "tmdb_site_id": "tv/241535",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -88,6 +103,8 @@
     "description": "12话 /  2024年4月9日 / 中園真登 / みかわ絵子（集英社「少年ジャンプ＋」連載） / 長谷川ひとみ",
     "link": null,
     "tmdb_id": "231873",
+    "tmdb_site_id": "tv/231873",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -102,6 +119,8 @@
     "description": "1话 /  2024年6月28日 / 押山清高 / 藤本タツキ「ルックバック」（集英社ジャンプコミックス刊） / 押山清高",
     "link": null,
     "tmdb_id": "1244492",
+    "tmdb_site_id": "movie/1244492",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -116,6 +135,8 @@
     "description": "24话 /  2024年1月4日 / 宮島善博 / 九井諒子（「ダンジョン飯」／KADOKAWA刊） / 竹田直樹",
     "link": null,
     "tmdb_id": "207784",
+    "tmdb_site_id": "tv/207784",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -130,6 +151,8 @@
     "description": "1话 /  2024年11月8日 / 林祐一郎 / 諫山創（别册少年マガジン／讲谈社） / 岸友洋",
     "link": null,
     "tmdb_id": "1333100",
+    "tmdb_site_id": "movie/1333100",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -144,11 +167,13 @@
     "description": "1话 /  2023年10月6日 / 水島努 / 杉本功",
     "link": null,
     "tmdb_id": "1051192",
+    "tmdb_site_id": "movie/1051192",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "69500/season/7",
+    "id": "69500",
     "type": "tmdb",
     "title": "夏目友人帐 柒",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/aa/443676_6GFsu.jpg",
@@ -157,12 +182,14 @@
     "rating": "7.8",
     "description": "12话 /  2024年10月7日 / 伊藤秀樹 / 緑川ゆき「夏目友人帳」（白泉社「LaLa」連載） / 髙田晃",
     "link": null,
-    "tmdb_id": "69500/season/7",
+    "tmdb_id": "69500",
+    "tmdb_site_id": "tv/69500/season/7",
+    "tmdb_season_number": 7,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65844/season/3",
+    "id": "65844",
     "type": "tmdb",
     "title": "为美好的世界献上祝福！第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4c/8a/342667_0RfU8.jpg",
@@ -171,7 +198,9 @@
     "rating": "7.7",
     "description": "11话 /  2024年4月10日 / 安部祐二郎 / 暁なつめ（株式会社KADOKAWA 角川スニーカー文庫刊） / 菊田幸一",
     "link": null,
-    "tmdb_id": "65844/season/3",
+    "tmdb_id": "65844",
+    "tmdb_site_id": "tv/65844/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -186,6 +215,8 @@
     "description": "13话 /  2024年4月5日 / 東映アニメーション / 手島nari。",
     "link": null,
     "tmdb_id": "241928",
+    "tmdb_site_id": "tv/241928",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -200,6 +231,8 @@
     "description": "18话 /  2024年5月24日 / 黒川智之 / 浅野いにお（小学館ビッグスピリッツコミックス刊） / 伊東伸高",
     "link": null,
     "tmdb_id": "254987",
+    "tmdb_site_id": "tv/254987",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -215,7 +248,7 @@
     "link": "https://bgm.tv/subject/492205"
   },
   {
-    "id": "94664/season/2",
+    "id": "94664",
     "type": "tmdb",
     "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
@@ -224,7 +257,9 @@
     "rating": "7.6",
     "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
     "link": null,
-    "tmdb_id": "94664/season/2",
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -239,19 +274,28 @@
     "description": "1话 /  2024年2月2日 / 龍輪直征 / なもり（コミック百合姫／一迅社刊） / 植田和幸",
     "link": null,
     "tmdb_id": "1177096",
+    "tmdb_site_id": "movie/1177096",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "345825",
-    "type": "link",
+    "id": "259537",
+    "type": "tmdb",
     "title": "剑来",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/50/345825_CP6Fc.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/44LJUcedKZ7fsFeWeOvtLIJzEU.jpg",
     "releaseDate": "2024-08-15",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "26话 /  2024年8月15日 / 烽火戏诸侯",
-    "link": "https://bgm.tv/subject/345825"
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "大千世界，无奇不有。 骊珠洞天中本该有大气运的贫寒少年，因为本命瓷碎裂的缘故，使得机缘临身却难以捉住。基于此，众多大佬纷纷以少年为焦点进行布局，使得少年身边的朋友获得大机缘，而少年却置身风口浪尖之上…",
+    "link": null,
+    "tmdb_id": "259537",
+    "tmdb_site_id": "tv/259537",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "1223178",
@@ -264,6 +308,8 @@
     "description": "1话 /  2024年5月24日 / 山本健 / Cygames / 山崎淳",
     "link": null,
     "tmdb_id": "1223178",
+    "tmdb_site_id": "movie/1223178",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -278,6 +324,8 @@
     "description": "1话 /  2024年6月21日 / 龍輪直征 / なもり（コミック百合姫／一迅社刊） / 植田和幸",
     "link": null,
     "tmdb_id": "1211716",
+    "tmdb_site_id": "movie/1211716",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -292,6 +340,8 @@
     "description": "23话 /  2024年1月11日 / 髙橋秀弥・木村泰大 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 浅野直之",
     "link": null,
     "tmdb_id": "154524",
+    "tmdb_site_id": "tv/154524",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -306,6 +356,8 @@
     "description": "1话 /  2024年8月9日 / 斎藤圭一郎 / はまじあき（芳文社「まんがタイムきららMAX」連載中） / けろりら",
     "link": null,
     "tmdb_id": "1201387",
+    "tmdb_site_id": "movie/1201387",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -320,6 +372,8 @@
     "description": "12话 /  2024年10月5日 / 宇田鋼之介 / 高橋留美子「らんま1/2」（小学館「少年サンデーコミックス」刊） / 谷口宏美",
     "link": null,
     "tmdb_id": "259140",
+    "tmdb_site_id": "tv/259140",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

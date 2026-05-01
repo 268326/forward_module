@@ -1,16 +1,5 @@
 [
   {
-    "id": "637146",
-    "type": "link",
-    "title": "BYE BYE LOVE 探偵はBARにいる",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/0c/637146_kTM9M.jpg",
-    "releaseDate": "2026-12-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
-    "link": "https://bgm.tv/subject/637146"
-  },
-  {
     "id": "538498",
     "type": "link",
     "title": "SUKIYAKI 昂首向前走",
@@ -20,6 +9,17 @@
     "rating": "",
     "description": "2026年12月25日 / 瀬々敬久 / 港岳彦 / 岡田准一",
     "link": "https://bgm.tv/subject/538498"
+  },
+  {
+    "id": "637146",
+    "type": "link",
+    "title": "BYE BYE LOVE 探偵はBARにいる",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/0c/637146_kTM9M.jpg",
+    "releaseDate": "2026-12-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
+    "link": "https://bgm.tv/subject/637146"
   },
   {
     "id": "645135",
@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "494701",
-    "type": "link",
-    "title": "沙丘：第三部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
-    "link": "https://bgm.tv/subject/494701"
-  },
-  {
     "id": "393438",
     "type": "link",
     "title": "复仇者联盟5：毁灭日",
@@ -53,6 +42,17 @@
     "rating": "",
     "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
     "link": "https://bgm.tv/subject/393438"
+  },
+  {
+    "id": "494701",
+    "type": "link",
+    "title": "沙丘：第三部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
+    "link": "https://bgm.tv/subject/494701"
   },
   {
     "id": "612440",
@@ -192,15 +192,22 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
-    "id": "604863",
-    "type": "link",
-    "title": "mentor",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/06/604863_RI1A1.jpg",
+    "id": "311125",
+    "type": "tmdb",
+    "title": "以身相許",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
     "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年10月16日 / 磯村勇斗、末澤誠也（Aぇ! group）",
-    "link": "https://bgm.tv/subject/604863"
+    "link": null,
+    "tmdb_id": "311125",
+    "tmdb_site_id": "tv/311125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "428025",

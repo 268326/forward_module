@@ -1,0 +1,334 @@
+[
+  {
+    "id": "448690",
+    "type": "link",
+    "title": "小倩",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a7/ad/448690_LYQ8F.jpg",
+    "releaseDate": "2024-12-06",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "1话 /  2024年12月6日 / 毛启超 / 蒲松齡《聊斋志异》 / 角色美术：李风临、郎俊冉、崔戴祺、师珠峰、陈铭贤、杨晓骏、李睿杰",
+    "link": "https://bgm.tv/subject/448690"
+  },
+  {
+    "id": "449393",
+    "type": "link",
+    "title": "左手上篮 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/e9/449393_jDq5N.jpg",
+    "releaseDate": "2024-12-20",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "9话 /  2024年12月20日 / 刘泽弋、修佳轩、林珑、张晶、宗利争",
+    "link": "https://bgm.tv/subject/449393"
+  },
+  {
+    "id": "458932",
+    "type": "link",
+    "title": "仙武传 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/14/458932_12Jk1.jpg",
+    "releaseDate": "2024-09-15",
+    "mediaType": "anime",
+    "rating": "4.4",
+    "description": "52话 /  2024年9月15日 / 六界三道《仙武帝尊》",
+    "link": "https://bgm.tv/subject/458932"
+  },
+  {
+    "id": "239779",
+    "type": "tmdb",
+    "title": "女神降临",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kpbI1RUrcZOQzo0TRO0XI4ywa3J.jpg",
+    "releaseDate": "2024-08-07",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "13话 /  2024年8月7日",
+    "link": null,
+    "tmdb_id": "239779",
+    "tmdb_site_id": "tv/239779",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "255083",
+    "type": "tmdb",
+    "title": "我们这一家NEXT",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/1c/474905_SIaIC.jpg",
+    "releaseDate": "2024-06-05",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "10话 /  2024年6月5日 / のなかかずみ / けらえいこ（朝日新聞出版刊）",
+    "link": null,
+    "tmdb_id": "255083",
+    "tmdb_site_id": "tv/255083",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "276481",
+    "type": "tmdb",
+    "title": "恰同学少年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/k3aLCtXWJOYGRmL8QDD34lbz66K.jpg",
+    "releaseDate": "2024-11-17",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "1913年，湖南长沙，著名教育家孔昭绶出任湖南第一师范校长，他大力开展新式教育改革，聘请了以杨昌济为代表的优秀中外教师，学校焕然一新。崭新的一师吸引了众多学子前来报考，19岁的毛泽东以第一名的成绩考入了这所千年学府。在共同的学习生活中，毛泽东、蔡和森、萧子升等有志青年结下友谊，同时湖南私立周南女子师范学校的陶斯咏、向警予、杨开慧等女学生也和他们因志趣相投走到了一起，一个先进青年学生组成的读书会成了他们学习、交流与思想碰撞的纽带。然而，动荡的时局打破了学生们的校园生活，在反对中日亲善的斗争中，军阀汤芗铭以武力逼走孔校长，毛泽东也险遭逮捕，残酷的现实使毛泽东对教育救国与改良主义信仰产生了动摇。",
+    "link": null,
+    "tmdb_id": "276481",
+    "tmdb_site_id": "tv/276481",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "252789",
+    "type": "tmdb",
+    "title": "小兵传奇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4sOcr8gpvZqnrDBOrSzhXxSnOIK.jpg",
+    "releaseDate": "2024-04-28",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "改编自网文届三大奇书之一《小兵传奇》。星际战争持续数百年，各种文明相互争斗。怀揣元帅梦想的唐龙，凭借智慧阻止了银鹰帝国挑起黑洞弹战争的计划，结识了联邦中央电脑星零，经历了机械教官的残酷训练，拯救了自走炮舰队伍，并带领女兵连重获自由，殊不知，等待他的却是敌人的更大阴谋...",
+    "link": null,
+    "tmdb_id": "252789",
+    "tmdb_site_id": "tv/252789",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "139174",
+    "type": "tmdb",
+    "title": "捕星司·源起",
+    "posterPath": "https://image.tmdb.org/t/p/w500/prnbm3Rf9uQna61y7h6FIozy8lb.jpg",
+    "releaseDate": "2024-02-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "两个在世家阴影下的少年，向往着传说中的仙界蓬莱。甘石星过，术士来袭，星石铸鼎，唤醒他们深藏在身体里的力量，也唤醒了从未有过的渴望。",
+    "link": null,
+    "tmdb_id": "139174",
+    "tmdb_site_id": "tv/139174",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "452392",
+    "type": "link",
+    "title": "ZEGAPAIN STA",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/d4/452392_09d4M.jpg",
+    "releaseDate": "2024-08-16",
+    "mediaType": "anime",
+    "rating": "5.2",
+    "description": "1话 /  2024年8月16日 / 下田正美 / 矢立肇・伊東岳彦 / 山下明彦、鈴木竜也、田頭真理恵",
+    "link": "https://bgm.tv/subject/452392"
+  },
+  {
+    "id": "512197",
+    "type": "link",
+    "title": "ReGLOSS 'フィーリングラデーション' OFFICIAL MV",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/b3/512197_ffBk0.jpg",
+    "releaseDate": "2024-09-10",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "1话 /  2024年9月10日 / 大城丈宗 / 早川麻美",
+    "link": "https://bgm.tv/subject/512197"
+  },
+  {
+    "id": "524398",
+    "type": "link",
+    "title": "战锤40k：什一税",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/58/c4/524398_b1yEr.jpg",
+    "releaseDate": "2024-08-21",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "3话 /  2024年08月21日",
+    "link": "https://bgm.tv/subject/524398"
+  },
+  {
+    "id": "631846",
+    "type": "link",
+    "title": "「再见，拉拉」样片",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/34/631846_wiUzr.jpg",
+    "releaseDate": "2024-05-19",
+    "mediaType": "anime",
+    "rating": "6.1",
+    "description": "1话 /  2024年5月19日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": "https://bgm.tv/subject/631846"
+  },
+  {
+    "id": "632178",
+    "type": "link",
+    "title": "初星学園 Official Music Video",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/12/ff/632178_g793e.jpg",
+    "releaseDate": "2024-05-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "2024年5月1日",
+    "link": "https://bgm.tv/subject/632178"
+  },
+  {
+    "id": "260568",
+    "type": "tmdb",
+    "title": "灯笼刀",
+    "posterPath": "https://image.tmdb.org/t/p/w500/87a0UJSaTsGQy0m5I5GYG5NMTJ3.jpg",
+    "releaseDate": "2024-07-14",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　柳家集的千金柳如烟，大婚当日惨遭无生老母旗下活死人灭门，幸得寻访黑太岁下落的灯笼刀所救，柳如烟发誓报仇，从此跟着灯笼刀流浪。某日，二人来到一座败落的小镇，各方势力云集，暗流涌动中，柳小姐的真实身份渐渐浮出水面，一场大战一触即发。",
+    "link": null,
+    "tmdb_id": "260568",
+    "tmdb_site_id": "tv/260568",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "250827",
+    "type": "tmdb",
+    "title": "散修之王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mmBqXcWkVwzBURGxfs68QJ738zg.jpg",
+    "releaseDate": "2024-04-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "这是一个普通的少年结识上古器灵，在器灵协助下努力修炼，结识形形色色的人，经历各类或轻松或波折的冒险。生活开始走上正轨的故事。最终，他将成为超越大帝，守护整片大陆。",
+    "link": null,
+    "tmdb_id": "250827",
+    "tmdb_site_id": "tv/250827",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "479011",
+    "type": "link",
+    "title": "是王者啊？ 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/b3/479011_W1S3Z.jpg",
+    "releaseDate": "2024-12-27",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "13话 /  2024年12月27日 / 王博（IP方导演），袁亮 / 曾锦峰",
+    "link": "https://bgm.tv/subject/479011"
+  },
+  {
+    "id": "511151",
+    "type": "link",
+    "title": "独占欲太强的病娇家猫",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/fd/511151_T0HSI.jpg",
+    "releaseDate": "2024-08-07",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "1话 /  2024年8月7日 / 角地拓大 / 岡野力也",
+    "link": "https://bgm.tv/subject/511151"
+  },
+  {
+    "id": "512605",
+    "type": "link",
+    "title": "【MV】Go-Getters - Mori Calliope (Ending Theme of Suicide Squad: ISEKAI)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/06/512605_SRirz.jpg",
+    "releaseDate": "2024-08-16",
+    "mediaType": "anime",
+    "rating": "4.6",
+    "description": "1话 /  2024年8月16日 / 堀内隆",
+    "link": "https://bgm.tv/subject/512605"
+  },
+  {
+    "id": "525704",
+    "type": "link",
+    "title": "宝可梦动画图鉴 第二季 千伶百俐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/91/525704_MeVMz.jpg",
+    "releaseDate": "2024-11-27",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "9话 /  2024年11月27日",
+    "link": "https://bgm.tv/subject/525704"
+  },
+  {
+    "id": "273332",
+    "type": "tmdb",
+    "title": "缉妖录之启程篇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6HI0ouLggqgeCACv6Y2BnxY8XwQ.jpg",
+    "releaseDate": "2024-10-03",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "　　一心寻妖的少年人吴道应，在厌倦了衙役的敷衍日常后，愤而离职，跟随青玄踏上了缉妖之路，并在后续和各路妖怪的交手中，逐渐突破自我、坚定信念，最终破除困境，用勇气和悲悯实现了个人的成长和对他人的拯救。\n\n　　作品改编自小说《吴承恩捉妖记》",
+    "link": null,
+    "tmdb_id": "273332",
+    "tmdb_site_id": "tv/273332",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "260569",
+    "type": "tmdb",
+    "title": "念无双",
+    "posterPath": "https://image.tmdb.org/t/p/w500/y9eA76Ne0eKrbfUdEJYUNjBNh9C.jpg",
+    "releaseDate": "2024-08-07",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "机关神女下凡寻回神之手，打破规则逆天改命历经绝世旷恋，事业爱情双丰收。看拿到热血少年漫剧本的大女主，如何利用机关术一路逆袭，爽燃开大、笑料不断。",
+    "link": null,
+    "tmdb_id": "260569",
+    "tmdb_site_id": "tv/260569",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "493012",
+    "type": "link",
+    "title": "我与超人的冒险 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/ac/493012_4Jpr5.jpg",
+    "releaseDate": "2024-05-25",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "10话 /  2024年5月25日",
+    "link": "https://bgm.tv/subject/493012"
+  },
+  {
+    "id": "493195",
+    "type": "link",
+    "title": "第十九届东方M-1漫才大赛",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/1b/493195_fcblt.jpg",
+    "releaseDate": "2024-12-30",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "1话 /  2024年12月30日 / 上海アリス幻樂団",
+    "link": "https://bgm.tv/subject/493195"
+  },
+  {
+    "id": "257646",
+    "type": "tmdb",
+    "title": "喜羊羊与灰太狼之疯狂超能营",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jHURWzLDPIe05S0sypL0LMOTJY4.jpg",
+    "releaseDate": "2024-07-05",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "喜羊羊及灰太狼等一众守护者们为了提升能力，进入深山密林进行特训，他们分别找到了传说中的两所训练营，羊狼们分别进入不同的训练营，开始了各自神奇奇术和炫酷发明的训练生涯。训练过程中笑料频出，大家克服重重困难学到了本领，也建立起深厚的友谊，两大阵营联手迎击来自未知世界的反派，开启羊村守护者全新的篇章。",
+    "link": null,
+    "tmdb_id": "257646",
+    "tmdb_site_id": "tv/257646",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "id": "245081",
+    "type": "tmdb",
+    "title": "遇见你的那天",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oAYbZnBhYv8MGXsGx9cx47CKr4j.jpg",
+    "releaseDate": "2024-07-25",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "商心广告公司策划部项目负责人（姜之南饰）在某次提案会上，与高中学霸同桌（张炯敏饰）再度相遇，对方却成为腹黑的甲方电子商务平台总监江舟。一次乌龙酒醉，许慕在朋友圈官宣男友，一个为了应付母亲的相亲，一个为了出席小姨的接风宴，将错就错成为契约情侣并展开同居生活，在日渐相处产生情愫，但许慕不知道的是，原来这一切都是谢时的蓄谋已久，从校园到职场，兜兜转转再次重逢 。",
+    "link": null,
+    "tmdb_id": "245081",
+    "tmdb_site_id": "tv/245081",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "249906",
+    "type": "tmdb",
+    "title": "地面师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bL6mclDqqaxIvKzsclkAinsJFTr.jpg",
+    "releaseDate": "2024-07-25",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "东京的房地产价格再次开始飙升。辻本拓海（绫野刚饰）遇到了哈里森·山中（丰川悦司饰）— 臭名昭著的房地产诈骗集团的头目。拓海与线人竹下（北村一辉饰）、冒名顶替的招聘人员丽子（小池荣子饰）和法律顾问后藤（泷正则饰）一起，以谈判代表的身份协助实施房地产诈骗。他们的下一个目标是一桩空前大案：一个 100 亿日元的房地产骗局。当骗子们与迫切希望改变土地用途的土地所有者和主要开发商进行巧妙的周旋时，警方正在不遗余力地追捕他们。与此同时，拓海的过去和哈里森的不道德手段逐渐被揭露出来。这些骗子在警察的追捕下冒着巨大风险进行诈骗交易。他们能否成功实施这个价值 100 亿日元的骗局？",
+    "link": null,
+    "tmdb_id": "249906",
+    "tmdb_site_id": "tv/249906",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "10515",
+    "type": "tmdb",
+    "title": "天空之城",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/d6/499851_ftu6f.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "movie",
+    "rating": "",
+    "description": "9话 /  2024-07-25 / 田村直己、中前勇児、星野和成 / 橋本裕志 / 松下奈緒",
+    "link": null,
+    "tmdb_id": "10515",
+    "tmdb_site_id": "movie/10515",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "282417",
+    "type": "link",
+    "title": "死侍与金刚狼",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/64/d2/282417_urRXm.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "1话 /  2024-07-24(中国台湾) / 2024-07-26(美国/中国大陆) / Shawn Levy / Ryan Reynolds、Rhett Reese、Paul Wernick、Zeb Wells、Shawn Levy / Ryan Reynolds、Hugh Jackman",
+    "link": "https://bgm.tv/subject/282417"
+  },
+  {
+    "id": "504903",
+    "type": "link",
+    "title": "鬓边不是海棠红 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/3e/504903_fH5H5.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "22话 /  2024-7-23 / 魏超、杨天翔",
+    "link": "https://bgm.tv/subject/504903"
+  },
+  {
+    "id": "504030",
+    "type": "link",
+    "title": "警視庁ゼロ係～スカイフライヤーズ～",
+    "posterPath": null,
+    "releaseDate": "2024-07-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年7月22日 / 小泉孝太郎、松下由樹",
+    "link": "https://bgm.tv/subject/504030"
+  },
+  {
+    "id": "211065",
+    "type": "tmdb",
+    "title": "是偶然吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qJ1tDqce6mb43Q9U6X6COoUq6LN.jpg",
+    "releaseDate": "2024-07-22",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "剧情讲述偶然遇见10年前的初恋后，寻找真正的爱情和梦想的年轻人的故事。",
+    "link": null,
+    "tmdb_id": "211065",
+    "tmdb_site_id": "tv/211065",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "617240",
+    "type": "link",
+    "title": "VΔLZ×DRAMATIC STARS COLLABORATION LIVE ～劇的演舞～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/cd/617240_ZzAIG.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024-07-21",
+    "link": "https://bgm.tv/subject/617240"
+  },
+  {
+    "id": "528940",
+    "type": "link",
+    "title": "里世界：冶火",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/ed/528940_Q8De0.jpg",
+    "releaseDate": "2024-07-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "7话 /  2024年7月20日 / 马正阳、袁铭喆、刘琮、凌飞",
+    "link": "https://bgm.tv/subject/528940"
+  },
+  {
+    "id": "507064",
+    "type": "link",
+    "title": "新生代THE LIVE 亚刻奥特曼篇～与你并肩～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/fe/507064_6R983.jpg",
+    "releaseDate": "2024-07-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年7月20日",
+    "link": "https://bgm.tv/subject/507064"
+  },
+  {
+    "id": "255609",
+    "type": "tmdb",
+    "title": "传说头目 翔",
+    "posterPath": "https://image.tmdb.org/t/p/w500/k3FcI2LDJH4nLTtCnVzIvRplREc.jpg",
+    "releaseDate": "2024-07-19",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "本剧改编自同名漫画，讲述了管理着拥有超过1000名不良少年的不良团队的传说头目·伊集院翔，和在班级里完全没有存在感、学校阶级最底层的万年小跑腿·山田达人，最强与最弱的两个人偶然相遇，因为长得一模一样而在某一天交换了人生的喜剧故事。",
+    "link": null,
+    "tmdb_id": "255609",
+    "tmdb_site_id": "tv/255609",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "490270",
+    "type": "link",
+    "title": "私が俺の人生!?",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/81/fc/490270_i0YLi.jpg",
+    "releaseDate": "2024-07-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年7月19日 / 剛力彩芽",
+    "link": "https://bgm.tv/subject/490270"
+  },
+  {
+    "id": "495229",
+    "type": "link",
+    "title": "毕竟是别人的事~某律师的真实工作~",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/08/495229_4MMCy.jpg",
+    "releaseDate": "2024-07-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2024年7月19日 / 本橋圭太、村上牧人 / 小峯裕之 / 中島健人",
+    "link": "https://bgm.tv/subject/495229"
+  },
+  {
+    "id": "258280",
+    "type": "tmdb",
+    "title": "少年白马醉春风",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wgAF8khlH8vEn2SdP1knSZj9GAv.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "镇西侯府小公子百里东君不学武艺却独好酿酒，只因和年少时的好友叶云有过酒剑成仙的约定。命运使然他拜入了天下第一李长生门下开始学武，邂逅了红颜知己玥瑶，重逢了改名为叶鼎之的叶云，与江湖浪客司空长风结伴，少年们携手开启属于他们自己的江湖故事。",
+    "link": null,
+    "tmdb_id": "258280",
+    "tmdb_site_id": "tv/258280",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "387756",
+    "type": "link",
+    "title": "甜蜜家园3",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/23/387756_29fGm.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "4.0",
+    "description": "8话 /  2024-07-19 / 송강 / 李是英 / 李阵郁 / 陆俊叙",
+    "link": "https://bgm.tv/subject/387756"
+  },
+  {
+    "id": "483893",
+    "type": "link",
+    "title": "那个孩子是谁？",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/da/483893_QCo2d.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024-07-19 / 清水崇 / 角田ルミ、清水崇 / 渋谷凪咲、早瀬憩、山時聡真、荒木飛羽、今森茉耶、蒼井旬、穂紫朋子",
+    "link": "https://bgm.tv/subject/483893"
+  },
+  {
+    "id": "488082",
+    "type": "link",
+    "title": "逃走中 电影版",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/50/488082_Shsxy.jpg",
+    "releaseDate": "2024-07-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2024年7月19日 / 西浦正記 / 青塚美穂 / 川西拓実、木全翔也、金城碧海、佐藤大樹、中島颯太、瀬口黎弥、田鍋梨々花、川原瑛都、岡宏明、HIKAKIN、内田慈、笠原秀幸、長井短、本多力、松平健",
+    "link": "https://bgm.tv/subject/488082"
+  },
+  {
+    "id": "503819",
+    "type": "link",
+    "title": "恶人想要抢救一下 第一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/9b/503819_19i3r.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "15话 /  2024-7-19 / 文森、姜广涛、马正阳",
+    "link": "https://bgm.tv/subject/503819"
+  },
+  {
+    "id": "503820",
+    "type": "link",
+    "title": "听说我成了竹马的小情人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/8b/503820_vFwbT.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2024-7-19 / 商桐、林予曦",
+    "link": "https://bgm.tv/subject/503820"
+  },
+  {
+    "id": "505000",
+    "type": "link",
+    "title": "眼镜蛇 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/d9/505000_7O15X.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "15话 /  2024/07/18",
+    "link": "https://bgm.tv/subject/505000"
+  },
+  {
+    "id": "628662",
+    "type": "link",
+    "title": "あいつが上手で下手が僕で -巡巡決勝篇-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/63/59/628662_SRk9X.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2024-07-18",
+    "link": "https://bgm.tv/subject/628662"
+  },
+  {
+    "id": "218589",
+    "type": "tmdb",
+    "title": "将死之人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "本剧讲述了经历过血腥动乱后成为皇帝的罗马皇帝维斯帕先（安东尼·霍普金斯 饰）统治时期的历史。维斯帕先日渐老迈，他一方面需要面对来自罗马上层贵族精英的鄙夷，一方面要提防他们欲取而代之的企图。",
+    "link": null,
+    "tmdb_id": "218589",
+    "tmdb_site_id": "tv/218589",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "258540",
+    "type": "tmdb",
+    "title": "如果是这样的家人，何不舍弃？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gQAtP0SrSwPvi3T65y4KbEgpoaV.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧改编自同名漫画，讲述了“不能越过家中贴着的胶带”的规则，被迫在家庭中过着孤独生活的男人篠谷令太郎和想要解开复杂的“家庭猜谜”的女儿一花以家庭再生为目标的故事。",
+    "link": null,
+    "tmdb_id": "258540",
+    "tmdb_site_id": "tv/258540",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "503516",
+    "type": "link",
+    "title": "和土味前男友1314了",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/ee/503516_SfyF0.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2024-7-18 / 余昌宇、孙路路",
+    "link": "https://bgm.tv/subject/503516"
+  }
+]

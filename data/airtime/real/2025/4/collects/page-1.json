@@ -11,26 +11,40 @@
     "link": "https://bgm.tv/subject/560263"
   },
   {
-    "id": "493550",
-    "type": "link",
-    "title": "加奈子的幸福杀手生活",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/40/79/493550_RyE7e.jpg",
+    "id": "253797",
+    "type": "tmdb",
+    "title": "幸福伽菜子的快乐生活",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eOQIAAG4t5QqaVHhe6plwBrcDXA.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "6.8",
-    "description": "6话 /  2025-02-28 / 英勉 / のん(能年玲奈)",
-    "link": "https://bgm.tv/subject/493550"
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "本剧改编自同名漫画，讲述了伽菜子因无法忍受上司的霸凌而从黑心企业离职，之后被优厚的待遇所吸引，进入了杀手公司。她在杀人这件事上犹豫的同时，其隐藏的才能开始涌现，从而成长为厉害杀手的喜剧故事。",
+    "link": null,
+    "tmdb_id": "253797",
+    "tmdb_site_id": "tv/253797",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "546258",
-    "type": "link",
+    "id": "289745",
+    "type": "tmdb",
     "title": "奥美迦奥特曼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/b7/546258_0WZ40.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jQ9fYvTZHpYfjEa5hmHpYarkkUl.jpg",
     "releaseDate": "2025-07-05",
-    "mediaType": "real",
-    "rating": "4.3",
-    "description": "25话 /  2025年7月5日 / 武居正能、越知靖、市野龍一、鈴木農史、田口清隆、辻本貴則 / 根元歳三、足木淳一郎、本田雅也、三好昭央、鶴田幸伸、中野貴雄、兒玉宣勝、吉上亮、安達寛高(乙一)；系列构成：根元歳三・足木淳一郎 / 近藤頌利、吉田晴登、工藤綾乃",
-    "link": "https://bgm.tv/subject/546258"
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "故事设定在一个从未出现过奥特曼与怪兽的地球上。某天，因意外一名外星人从宇宙坠落。失去过往记忆的外星人“奥美迦”化身为地球人模样，被人称为“宙人”。他对人类充满好奇，积极地接触这些陌生的生命体。 当神秘巨型生物接连出现时，尘封的记忆碎片被唤醒，宙人脱口而出“怪兽”二字。面对怪兽的威胁，强烈的使命感驱使他变身成为奥美迦奥特曼，与怪兽作战。 随着故事推进，来自外星的宙人与一位普通青年逐渐成为并肩作战的伙伴。",
+    "link": null,
+    "tmdb_id": "289745",
+    "tmdb_site_id": "tv/289745",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "383130",
@@ -66,26 +80,40 @@
     "link": "https://bgm.tv/subject/525270"
   },
   {
-    "id": "524089",
-    "type": "link",
+    "id": "276903",
+    "type": "tmdb",
     "title": "热点",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/2d/524089_HUehK.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vnGjkOA1cyvBo4Av8S5x738Rr7x.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.7",
-    "description": "10话 /  2025-01-12 / 水野格、山田信義、松田健斗 / バカリズム / 市川実日子",
-    "link": "https://bgm.tv/subject/524089"
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "在日本引以为豪的富士山山麓山梨县的某个小镇里，主人公·远藤清美（市川实日子 饰）是在商务酒店工作的单身母亲，某日意外地遇到了外星人，故事由此展开。如果她是一个单纯少女，她将与外星人建立友谊，为正义与巨恶战斗…的青春冒险剧即将开始，不过，经历了世间酸甜苦辣的成年人清美，在不得罪外星人的水平上请求其解决她工作和私人生活中的小事件……",
+    "link": null,
+    "tmdb_id": "276903",
+    "tmdb_site_id": "tv/276903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "525998",
-    "type": "link",
+    "id": "275648",
+    "type": "tmdb",
     "title": "头号战队豪兽者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/6c/525998_f223z.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hw0EYA0lS6DRYjMq24xdluFIZsu.jpg",
     "releaseDate": "2025-02-16",
-    "mediaType": "real",
-    "rating": "5.7",
-    "description": "49话 /  2025年2月16日 / 田﨑竜太、山口恭平、渡辺勝也、加藤弘之、坂本浩一、谷本健晋、中澤祥次郎 / 井上亜樹子、樋口達人、當銘啓太、長谷川圭一、荒川稔久、谷本健晋 / 冬野心央、鈴木秀脩、神田聖司、松本仁、今森茉耶→志田こはく、木村魁希",
-    "link": "https://bgm.tv/subject/525998"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "《No.1战队豪兽者》为东映株式会社出品，于2025年2月16日开播！每周日09：30~10：00在日本朝日电视台首播，是超级战队开播以来的50周年纪念作。\n\n在本作所具有的本作中，“豪兽者” 们将与邪恶军团派遣来的敌人战斗。那是在所有领域都名列前茅的 “No.1怪人” 们。“豪兽者” 和No.1怪人展开了各种各样的 “No.1对决”，无情地救出了被卷入争斗中的人们。然后，与此同时，围绕海报视觉上散布的“戒指” = “中心”的战斗也爆发了！被 “收集所有戒指” 的战斗驱使的 “豪兽者” 的5人，也是追求戒指竞争的对手们。除了5人以外，拥有历代红色力量的对手们也陆续登场!\n\n“战队vs战队”！敌人是历代红和 “豪兽者”之间！No.1只有一个人。\n\n本作所具有的与至今为止的作品决定性不同的特色。在 “既是伙伴，也是竞争对手” 的关系中，每周都在发生着的各种各样的战斗中不可忽视。",
+    "link": null,
+    "tmdb_id": "275648",
+    "tmdb_site_id": "tv/275648",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "486766",
@@ -110,15 +138,22 @@
     "link": "https://bgm.tv/subject/506684"
   },
   {
-    "id": "436329",
-    "type": "link",
-    "title": "超人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f2/42/436329_Jyl4o.jpg",
+    "id": "296712",
+    "type": "tmdb",
+    "title": "大力村超人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wsrasylfCMysJQVer6tphPtKCeQ.jpg",
     "releaseDate": "2025-07-11",
-    "mediaType": "real",
-    "rating": "5.8",
-    "description": "1话 /  2025年7月11日 / James Gunn / James Gunn / David Corenswet、Rachel Brosnahan",
-    "link": "https://bgm.tv/subject/436329"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "讲述了一群乡村青年人,怀着振兴家乡的共同心愿,与父老相亲们一起\n\n组织策划了“村超”比赛,并从中找回初心、激情创业,共同创造乡村美好生活的故事",
+    "link": null,
+    "tmdb_id": "296712",
+    "tmdb_site_id": "tv/296712",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "443182",
@@ -143,15 +178,22 @@
     "link": "https://bgm.tv/subject/282932"
   },
   {
-    "id": "534070",
-    "type": "link",
+    "id": "259288",
+    "type": "tmdb",
     "title": "善意的竞争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/cc/534070_06ofv.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5pNE863SK1vU40ljFqUOq8v1FQ4.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.1",
-    "description": "16话 /  2025-02-10 / 김태희 / 김태희、민예지 / 이혜리、정수빈、강혜원、오우리",
-    "link": "https://bgm.tv/subject/534070"
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "在这所精英学校里，两位年轻学生面对无情的竞争、严苛的期望与虚假的承诺，进而建立了一段复杂而微妙的关系。",
+    "link": null,
+    "tmdb_id": "259288",
+    "tmdb_site_id": "tv/259288",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "440665",
@@ -197,30 +239,46 @@
     "description": "1话 /  2025年2月21日",
     "link": null,
     "tmdb_id": "1266839",
+    "tmdb_site_id": "movie/1266839",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "555442",
-    "type": "link",
+    "id": "290160",
+    "type": "tmdb",
     "title": "请和我的老公结婚",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/e8/555442_7rWl8.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/y94aZ6gbmfj8HOTE7Iv7Bv1xBkK.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "6.8",
-    "description": "10话 /  2025-06-27 / アン・ギルホ (안길호) / 大島里美 / 小芝風花、佐藤健",
-    "link": "https://bgm.tv/subject/555442"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "生性过于善良的美纱，总是把他人的幸福放在第一顺位，自己则过着配角般的人生。 一直以来她都对老公和挚友深信不疑，结果却遭到他们两人背叛而丧命。 美纱苏醒后发现自己竟然回到了十年前，于是下定决心摆脱以往“好好小姐”的配角形象，要在第二次的人生中扮演自己人生的主角。为了展开报复，她计划促成挚友和老公结婚，让这两个叛徒自取灭亡。 然而，美纱遇见在第一次的人生中零互动的公司部长，让她的心境出现预料之外的转变。随着踏上复仇之路的美纱与部长之间的互动增加，她逐渐开始思考何谓真实的“自我”。",
+    "link": null,
+    "tmdb_id": "290160",
+    "tmdb_site_id": "tv/290160",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "600424",
-    "type": "link",
-    "title": "同乐者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/ef/600424_PLuaA.jpg",
+    "id": "225171",
+    "type": "tmdb",
+    "title": "Pluribus",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2CmFP7hMzC8OGu9ur2oQu12J5A.jpg",
     "releaseDate": "2025-11-07",
-    "mediaType": "real",
-    "rating": "6.9",
-    "description": "9话 /  2025年11月7日 / Vince Gilligan / Vince Gilligan、Gordon Smith、Alison Tatlock、Vera Blasi、Jenn Carroll、Jonny Gomez、Ariel Levine / Rhea Seehorn、Karolina Wydra、Carlos Manuel Vesga",
-    "link": "https://bgm.tv/subject/600424"
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "故事围绕“幸福也会像病毒一样传染”这一概念展开。背景设定在一个与现实世界相似却被微妙扭曲的平行世界中，当快乐突然成为可怕的“传染病”，女主必须想办法在这场全民狂欢中拯救世界。",
+    "link": null,
+    "tmdb_id": "225171",
+    "tmdb_site_id": "tv/225171",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "420963",
@@ -234,26 +292,40 @@
     "link": "https://bgm.tv/subject/420963"
   },
   {
-    "id": "541413",
-    "type": "link",
+    "id": "203367",
+    "type": "tmdb",
     "title": "长安的荔枝",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/31/541413_KakzX.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gE2qL2xa7UIK1MA8Jwlw541t3Ui.jpg",
     "releaseDate": "2025-07-18",
-    "mediaType": "real",
-    "rating": "6.8",
-    "description": "1话 /  2025年7月18日 / 大鹏(董成鹏) / 大鹏(董成鹏)、沈雨悦、戴思奥 / 大鹏(董成鹏)、杨幂、张若昀、梁超、王雨甜、劉德華、庄达菲",
-    "link": "https://bgm.tv/subject/541413"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "大唐年间，李善德（雷佳音 饰）在同僚的欺瞒之下从监事变身“荔枝使”，被迫接下一道为贺贵妃生辰、需从岭南运送新鲜荔枝到长安的“死亡”任务，荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务。为保女儿李袖儿余生安稳，李善德无奈启程前往岭南；与此同时，替左相寻找扳倒右相敛财罪证的郑平安（岳云鹏 饰）已先一步抵达岭南。各自身负重任的郎舅二人在他乡偶遇，意外结识胡商商会会长阿弥塔(那尔那茜 饰)、空浪坊坊主云清(安沺 饰)、胡商苏谅(吕凉 饰)、峒女阿僮(周美君 饰)、峒人阿俊（王沐霖 饰）等人，还遭遇岭南刺史何有光(冯嘉怡 饰)和掌书记赵辛民(公磊 饰)的重重阻拦。双线纠缠之下任务难度飙升，他们将如何打破死局、寻觅一线生机？",
+    "link": null,
+    "tmdb_id": "203367",
+    "tmdb_site_id": "tv/203367",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "545304",
-    "type": "link",
+    "id": "295434",
+    "type": "tmdb",
     "title": "假面骑士ZZZ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d9/1e/545304_ltt5j.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rXXYuA15LBrcFqI2PbrcFpsIoYT.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.8",
-    "description": "2025-09-07 / 上堀内佳寿也、柏木宏紀、山口恭平、柴﨑貴行、葉山康一郎、杉原輝昭 / 高橋悠也",
-    "link": "https://bgm.tv/subject/545304"
+    "mediaType": "tv",
+    "rating": "9.3",
+    "description": "新时代的假面骑士，觉醒了。 他的名字是… 假面骑士ZZZ。 新假面骑士， 是在梦境世界战斗的特工！ 普通的青年在梦中摇身一变成为“无敌的特工”， 守护人类，对抗侵害现实世界的噩梦怪人“梦魇”！ 来吧，任务开始！",
+    "link": null,
+    "tmdb_id": "295434",
+    "tmdb_site_id": "tv/295434",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "530614",

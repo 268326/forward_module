@@ -1,36 +1,57 @@
 [
   {
-    "id": "521216",
-    "type": "link",
-    "title": "0.5D",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/97/521216_gWI8x.jpg",
+    "id": "278413",
+    "type": "tmdb",
+    "title": "半处男",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cYNJy3Y47LPklcdXce8heLgHbks.jpg",
     "releaseDate": "2024-12-04",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2024年12月4日 / 和田雅成",
-    "link": "https://bgm.tv/subject/521216"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本作的主人公是在综合商社工作的30岁的佐田成弥。帅哥兼部门王牌的他，有着只有大学和公司后辈宇野大辉才知道的秘密。那就是天生喜欢耍帅的性格，贯彻了“有交往多年的女朋友”的设定，结果变成了“半处男= 0.5D”。这样的他时隔10年再次坠入爱河，从拥有8个女友的宇野那里得到恋爱指导。",
+    "link": null,
+    "tmdb_id": "278413",
+    "tmdb_site_id": "tv/278413",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "466580",
-    "type": "link",
-    "title": "1122 いいふうふ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/9c/466580_MRmg6.jpg",
+    "id": "251824",
+    "type": "tmdb",
+    "title": "1122好夫妻",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zw4R5F1PEcNMMsTxjrbDlyR4S0O.jpg",
     "releaseDate": "2024-06-14",
-    "mediaType": "real",
-    "rating": "6.7",
-    "description": "7话 /  2024年6月14日 / 今泉力哉 / 今泉かおり / 高畑充希、岡田将生",
-    "link": "https://bgm.tv/subject/466580"
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "网页设计师的妻子相原一子和在文具制造厂工作的丈夫相原二也即使无性婚姻、没有孩子，夫妻关系也非常和谐，但是两人有秘密——每个月的第3个星期四晚上，二也会和“恋人”一起度过，结婚第7年的两人选择的是“婚外恋爱许可制”。",
+    "link": null,
+    "tmdb_id": "251824",
+    "tmdb_site_id": "tv/251824",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "477086",
-    "type": "link",
+    "id": "243569",
+    "type": "tmdb",
     "title": "19层",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/51/477086_vB10q.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7w8X8byculytjApRT1rMezyHLYt.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "30话 /  2024-01-16 / 蔡聪 / 蒋渝、蔡骏 / 孙千、魏哲鸣、白澍、王若珊、罗予彤、潘玥同、肖凯中、戴蕥琪、张珂源、张屹杨、陶海、陈创、修庆、王伟华、田丽、苇青、娃尔、葛四、刘帅、芮伟航、张宁江、余洺轩",
-    "link": "https://bgm.tv/subject/477086"
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "　　从小与父亲有着隔阂的大学生春雨（孙千 饰）被卷入到一个无法摆脱的名为“19层”的诡异游戏中。在这个充满未知的虚拟世界里，春雨遇到了聪明沉着的高玄（魏哲鸣 饰）、武力值强大的南小琴（王若珊 饰），以及搞怪的杨八万（白澍 饰）等人。\n\n　　她与好友们一起经历了充斥着皮影的“鬼楼”、被皮俑追击的荒村等一系列恐怖关卡。然而，好友们因为在不同的游戏阶段过关失败，导致现实中陷入昏迷。危机重重之下，春雨决心查明她们进入游戏的原因以及游戏背后的阴谋。\n\n　　在游戏世界和现实生活的交错中，大家学会了爱与尊重，每个人都从逆境中感悟到了人生的意义。他们用自己的方式与困境和解，去理解父母，去接纳自己。最终，这些年轻人揭开了关于“19层”游戏背后的阴谋，春雨也终于和父亲和解，从曾经的阴影中走出来。\n\n　　剧集将无限流闯关与心理悬疑相结合，在惊险刺激的冒险中探讨亲情、友情与自我救赎的深刻主题。",
+    "link": null,
+    "tmdb_id": "243569",
+    "tmdb_site_id": "tv/243569",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "485259",
@@ -66,37 +87,58 @@
     "link": "https://bgm.tv/subject/479827"
   },
   {
-    "id": "485258",
-    "type": "link",
+    "id": "248433",
+    "type": "tmdb",
     "title": "25时，赤坂见",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/b0/485258_78ZoB.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/465MOiny3yGhVUGPwejVkH9QliJ.jpg",
     "releaseDate": "2024-04-18",
-    "mediaType": "real",
-    "rating": "5.8",
-    "description": "10话 /  2024年4月18日 / 堀江貴大、川崎僚 / 青塚美穂、阿相クミコ / 駒木根葵汰、新原泰佑",
-    "link": "https://bgm.tv/subject/485258"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧改编自同名漫画，讲述了白崎是个默默无闻的舞台剧演员，在某次因缘际会下成了BL连续剧男主角，共同主演竟是他大学时期的学长，知名演员羽山麻水。在拍戏的过程中，白崎发现自己无法掌握饰演恋人的戏感，因此前往同性会所寻找契机，然而却被羽山发现，两人便成了炮友。白崎对拍摄越来越得心应手，但羽山的态度却 愈发扑朔迷离。",
+    "link": null,
+    "tmdb_id": "248433",
+    "tmdb_site_id": "tv/248433",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "314217",
-    "type": "link",
-    "title": "三体",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/9b/314217_p2DD3.jpg",
+    "id": "286573",
+    "type": "tmdb",
+    "title": "三体：科幻视界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6UKNoKn1xNxQeUk8PzVComr0cSS.jpg",
     "releaseDate": "2024-03-21",
-    "mediaType": "real",
-    "rating": "5.1",
-    "description": "8话 /  2024年3月21日 / Alex Sharp、Eiza González、Jovan Adepo、Benedict Wong、Jess Hong",
-    "link": "https://bgm.tv/subject/314217"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "《三体》是刘慈欣创作的长篇科幻小说系列，由《三体》《三体2：黑暗森林》《三体3：死神永生》组成，第一部于2006年5月起在《科幻世界》杂志上连载，第二部于2008年5月首次出版，第三部则于2010年11月出版。作品讲述了地球人类文明和三体文明的信息交流、生死搏杀及两个文明在宇宙中的兴衰历程。《三体》的文本叙事在“后人类”的思考上有着重大突破，构建了科学与文学的互动范式，将道德内涵引入对科技的辩证思考中，并以文学手段在文化语境中对科技进行大胆假设和重构，但科技核心只是一个叙事跳板，是完成现实超越的重要媒介，也是人类命运共同体书写的重要工具。《三体》最吸引人的地方在于通过对人类中心主义的解构，继而完成对人与自然、动物之间的伦理反思与文学表达，最终指向去人类中心化的思想内核。其第一部经过刘宇昆翻译后获得了第73届雨果奖最佳长篇小说奖，第三部英文版获得2017年轨迹奖最佳长篇科幻小说奖。2019年，列入“新中国70年70部长篇小说典藏”。2022年9月，《三体》入选2021十大年度国家IP。",
+    "link": null,
+    "tmdb_id": "286573",
+    "tmdb_site_id": "tv/286573",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "502294",
-    "type": "link",
+    "id": "255477",
+    "type": "tmdb",
     "title": "3000万",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/a6/502294_wGXtB.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yzPzSrtdtLTtTakRd3Op9zVLxFX.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2024-10-05 / 保坂慶太、小林直毅 / WDRプロジェクト、弥重早希子、名嘉友美、山口智之、松井周 / 安達祐実",
-    "link": "https://bgm.tv/subject/502294"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "电话客服佐佐木祐子的家庭，与社会上的万千家庭一样，与老公义光，儿子纯一过着平凡普通而捉襟见肘的生活。老公义光曾经是风光无两的乐队吉他手，但中途落魄，沦为交通指挥员，最终只会在家当甩手掌柜；儿子虽然继承了老爸的音乐天赋，在钢琴方面颇有天分，但眼下却为买一台二手钢琴犯了难。某日三人一同乘车时，这对夫妻又因为钱的事而争吵起来，结果不慎迎头撞上了一位摩托女子。女人最终身负重伤，纯一将女人随身携带的三千万现金也尽数窃走。\n\n佐佐木一家获得三千万现金后，三人的人生都似乎迎来了转机，但祐子也经历着良知与道德的拷问。她几次想将钱上交，但在机缘巧合下，终是败给了一己私念。而在熟识的刑警奥野向她披露，这笔现金疑似一桩大案的赃款之后，祐子才意识到自己与全家已经卷入了警方与黑恶势力的明争暗斗之中。而胆小怕事，生活中习惯于讨好他人的祐子，在被迫周旋于黑白两道之后，也终将迎来她的人生觉醒时刻。",
+    "link": null,
+    "tmdb_id": "255477",
+    "tmdb_site_id": "tv/255477",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "507325",
@@ -143,26 +185,40 @@
     "link": "https://bgm.tv/subject/615812"
   },
   {
-    "id": "478137",
-    "type": "link",
+    "id": "248347",
+    "type": "tmdb",
     "title": "366日",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a7/44/478137_hA9a4.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xw0KlRS4xUORRGXT6NVfoxxec8c.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "11话 /  2024-04-08 / 平川雄一朗、宮木正悟、片山雄一 / 清水友佳子 / 広瀬アリス",
-    "link": "https://bgm.tv/subject/478137"
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "本剧是以HY的名曲《366日》的世界观为灵感的原创剧本，讲述为实现高中时代未能实现的恋爱而再次开始行动的男女，面对意想不到的悲剧继续爱着所爱的人的宏大爱情故事。",
+    "link": null,
+    "tmdb_id": "248347",
+    "tmdb_site_id": "tv/248347",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "509191",
-    "type": "link",
-    "title": "3年C組は不倫してます。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/0d/509191_U4w1y.jpg",
+    "id": "262447",
+    "type": "tmdb",
+    "title": "3年C班出轨了。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qPwU2FbcPmqYl0vxFidyraN0NJW.jpg",
     "releaseDate": "2024-10-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2024年10月1日 / 莉子",
-    "link": "https://bgm.tv/subject/509191"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本剧以随着“18岁成人”的实施，不用父母的同意就能结婚的高中3年级的班级为舞台，描绘初恋，怀孕，结婚，以及出轨，前所未闻的学园出轨悬疑。和同学出轨的【高中生出轨】，监护人之间出轨的【PTA出轨】，甚至到禁止的【教师和学生的出轨】…而且，这种交错的想法，和某个事件联系在一起。",
+    "link": null,
+    "tmdb_id": "262447",
+    "tmdb_site_id": "tv/262447",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "449827",
@@ -220,15 +276,22 @@
     "link": "https://bgm.tv/subject/482801"
   },
   {
-    "id": "480886",
-    "type": "link",
+    "id": "249927",
+    "type": "tmdb",
     "title": "95",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/bd/480886_sFNO2.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oCI7XaTxRrVWkvneXJzsIrXl4Uq.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2024-04-08 / 城定秀夫 / 喜安浩平 / 高橋海人（King & Prince）",
-    "link": "https://bgm.tv/subject/480886"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本剧改编自早见和真的同名小说，讲述了星城学院的高中生·广重秋久，通称Q，成绩优秀、品行端正的他，以地铁沙林事件为契机直面死亡，在动摇中被同级生铃木翔太郎强制邀请加入团队成为朋友，过着刺激的每一天，是反抗大人建立的社会结构，一边保护重要的东西一边跑过1995年的涩谷的高中生们的青春故事。",
+    "link": null,
+    "tmdb_id": "249927",
+    "tmdb_site_id": "tv/249927",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "512983",
@@ -242,25 +305,39 @@
     "link": "https://bgm.tv/subject/512983"
   },
   {
-    "id": "481383",
-    "type": "link",
+    "id": "250269",
+    "type": "tmdb",
     "title": "9界线",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c8/80/481383_QBu33.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ihTWrkD8hfkoM19rLBhhfq3LI1r.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2024-04-19 / ふくだももこ、坂上卓哉 / 金子ありさ / 川口春奈",
-    "link": "https://bgm.tv/subject/481383"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "本剧讲述了19岁、29岁、39岁的三姐妹，在迎来“年龄大关”之前的最后一年，也就是“9界线”中，以父亲突然失踪为契机，聚在了同一屋檐下的人间爱故事，以“LOVE (爱)”、“LIFE (生活)”、“LIMIT (限度)”的“3L”为主题，描写了她们抱着迷惘和焦虑寻找幸福，一边挣扎一边前进的人生姿态。",
+    "link": null,
+    "tmdb_id": "250269",
+    "tmdb_site_id": "tv/250269",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "496384",
-    "type": "link",
+    "id": "208942",
+    "type": "tmdb",
     "title": "莫斯科绅士",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/9a/496384_3P60x.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aBU2mlyZT5BzvCkXXUewH7wfhkK.jpg",
     "releaseDate": "2024-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2024-03-29 / Sam Miller、Sarah O'Gorman",
-    "link": "https://bgm.tv/subject/496384"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "在俄国革命的余波中，Alexander Rostov伯爵发现自己光鲜亮丽的过去将他置于历史的错误面。没有被立刻处决的他，被苏联革命法庭放逐到了大都会酒店的阁楼中，如果他再次踏足户外，将面临死亡。时光流逝，酒店外的俄国经历了最动荡的几十年，而Rostov所处的受限境遇，则让他的精神得以进入一个更为广阔的天地。随着他在酒店内建立起新生活，Rostov发现了友情、家人和爱的真正价值。",
+    "link": null,
+    "tmdb_id": "208942",
+    "tmdb_site_id": "tv/208942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

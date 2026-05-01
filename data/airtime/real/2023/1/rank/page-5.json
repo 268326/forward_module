@@ -1,0 +1,325 @@
+[
+  {
+    "id": "114461",
+    "type": "tmdb",
+    "title": "Ahsoka",
+    "posterPath": "https://image.tmdb.org/t/p/w500/336cqyPUQxHAFn8bVv0VozyES4m.jpg",
+    "releaseDate": "2023-08-22",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "帝国垮台之后，前绝地武士阿索卡·塔诺展开调查，此时危弱的银河即将面临新的威胁。",
+    "link": null,
+    "tmdb_id": "114461",
+    "tmdb_site_id": "tv/114461",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "431319",
+    "type": "link",
+    "title": "虫王战队超王者 拉库雷斯王的秘密",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/09/431319_JKJ55.jpg",
+    "releaseDate": "2023-04-23",
+    "mediaType": "real",
+    "rating": "6.2",
+    "description": "3话 /  2023年4月23日 / 茶谷和行 / 川満佐和子",
+    "link": "https://bgm.tv/subject/431319"
+  },
+  {
+    "id": "432405",
+    "type": "link",
+    "title": "黑镜 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/5d/432405_zmmfI.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "5话 /  2023-06-15 / Charlie Brooker / Kate Mara、Zazie Beetz、Josh Hartnett",
+    "link": "https://bgm.tv/subject/432405"
+  },
+  {
+    "id": "196944",
+    "type": "tmdb",
+    "title": "我的幸福婚约",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/0a/379764_Rqrj3.jpg",
+    "releaseDate": "2023-03-17",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "1话 /  2023年3月17日(日本) / 塚原あゆ子 / 菅野友恵 / 目黒蓮(Snow Man)、今田美桜",
+    "link": null,
+    "tmdb_id": "196944",
+    "tmdb_site_id": "tv/196944",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "436685",
+    "type": "link",
+    "title": "极狐Extra 假面骑士朋克杰克",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/09/436685_68DQQ.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "1话 /  2023-05-21 / 坂本浩一 / 高橋悠也",
+    "link": "https://bgm.tv/subject/436685"
+  },
+  {
+    "id": "447138",
+    "type": "link",
+    "title": "封神第一部：朝歌风云",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/21/58/447138_5Lz24.jpg",
+    "releaseDate": "2023-07-20",
+    "mediaType": "real",
+    "rating": "6.1",
+    "description": "1话 /  2023年7月20日 / 乌尔善 / 冉平、冉甲男、乌尔善、曹升 / 費翔、李雪健、黄渤",
+    "link": "https://bgm.tv/subject/447138"
+  },
+  {
+    "id": "439911",
+    "type": "link",
+    "title": "TV君超战斗DVD 假面骑士极狐 怎么着！？全是男人的DGP 王蛇是我啊！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/5f/439911_n181j.jpg",
+    "releaseDate": "2023-03-31",
+    "mediaType": "real",
+    "rating": "5.7",
+    "description": "1话 /  2023年3月31日 / 葉山康一郎 / 下亜友美",
+    "link": "https://bgm.tv/subject/439911"
+  },
+  {
+    "id": "436686",
+    "type": "link",
+    "title": "极狐Extra 假面骑士太狸meets假面骑士Shinobi",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5a/436686_m6140.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.7",
+    "description": "1话 /  2023-06-18",
+    "link": "https://bgm.tv/subject/436686"
+  },
+  {
+    "id": "437184",
+    "type": "link",
+    "title": "速度与激情10",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/39/437184_0igI7.jpg",
+    "releaseDate": "2023-05-17",
+    "mediaType": "real",
+    "rating": "5.4",
+    "description": "1话 /  2023年5月17日(中国大陆)、2023年5月19日(美国) / Louis Leterrier / Dan Mazeau、林诣彬 / Vin Diesel、Michelle Rodriguez",
+    "link": "https://bgm.tv/subject/437184"
+  },
+  {
+    "id": "434957",
+    "type": "link",
+    "title": "奥特赛文IF Story『55年前的未来』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/1d/434957_BgVXK.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.0",
+    "description": "1话 /  2023-11-25",
+    "link": "https://bgm.tv/subject/434957"
+  },
+  {
+    "id": "222835",
+    "type": "tmdb",
+    "title": "献给国王的无名指",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o0Zy9TCXAuoPrWhAVga4k570hUY.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "菜鸟婚礼顾问羽田绫华（桥本环奈 饰），拥有人人公认的美貌，却也因此常常招来莫名的误解和妒忌，人生反而因为长得漂亮而吃尽苦头、被迫频频换工作维持家计。新田控股的接班人、同时也是绫华的老板-新田东乡（山田凉介 饰），作风独裁，员工在背后都称他为“国王”。身份地位悬殊的贫穷灰姑娘与霸道国王，一场因利益关系而缔结的契约婚姻就此展开！",
+    "link": null,
+    "tmdb_id": "222835",
+    "tmdb_site_id": "tv/222835",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "421914",
+    "type": "link",
+    "title": "暴太郎战队咚兄弟VS全开者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/ce/421914_FS3HB.jpg",
+    "releaseDate": "2023-05-03",
+    "mediaType": "real",
+    "rating": "5.5",
+    "description": "1话 /  2023年5月3日（影院限定上映）、2023年9月27日 / 渡辺勝也 / 井上敏樹、香村純子 / 駒木根葵汰、樋口幸平、別府由来、志田こはく、柊太朗、鈴木浩文",
+    "link": "https://bgm.tv/subject/421914"
+  },
+  {
+    "id": "218038",
+    "type": "tmdb",
+    "title": "VIVANT",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9RvSRRekl3uX7pw3P7cnTLqGzEY.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "TBS日九新剧《VIVANT》由《半泽直树》导演福泽克雄执导，堺雅人、阿部宽、二阶堂富美、松坂桃李、役所广司等豪华卡司共演。是敌是友？是友是敌？冒险就此展开！",
+    "link": null,
+    "tmdb_id": "218038",
+    "tmdb_site_id": "tv/218038",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "209985",
+    "type": "tmdb",
+    "title": "假面骑士界外者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/siiKVH7MltghepL29f5MtYszokQ.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "《假面骑士界外者》是TTFC独特的选集系列，作为各种各样的相交联动的假面骑士系列． 在此特辑中，会有多位假面骑士对抗邪恶的归来计划财团X和Zein。",
+    "link": null,
+    "tmdb_id": "209985",
+    "tmdb_site_id": "tv/209985",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "350742",
+    "type": "link",
+    "title": "甜蜜家园2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8c/ff/350742_SnJ8c.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "4.5",
+    "description": "8话 /  2023-12-01 / 송강 / 李阵郁 / 李是英 / 高旻示 / 朴珪瑛 / 刘五性 / 吴政世 / 金武烈 / 郑振永",
+    "link": "https://bgm.tv/subject/350742"
+  },
+  {
+    "id": "276365",
+    "type": "link",
+    "title": "海王与失落的王国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/b4/276365_wSc9j.jpg",
+    "releaseDate": "2023-12-20",
+    "mediaType": "real",
+    "rating": "5.4",
+    "description": "1话 /  2023年12月20日（中国大陆、香港、台湾）、2023年12月22日（美国） / David Leslie Johnson-McGoldrick / Jason Momoa、Patrick Wilson、Amber Heard",
+    "link": "https://bgm.tv/subject/276365"
+  },
+  {
+    "id": "449802",
+    "type": "link",
+    "title": "假面骑士极狐：4位王者与黑狐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/94/90/449802_3Bbm5.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "real",
+    "rating": "5.3",
+    "description": "1话 /  2023-07-28 / 中澤祥次郎 / 高橋悠也 / 簡秀吉、佐藤瑠雅、星乃夢奈",
+    "link": "https://bgm.tv/subject/449802"
+  },
+  {
+    "id": "217766",
+    "type": "tmdb",
+    "title": "僵尸百分百～变成僵尸之前想做的100件事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/ff/386667_stxsh.jpg",
+    "releaseDate": "2023-08-03",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "1话 /  2023年8月3日 / 石田雄介 / 三嶋龍朗 / 赤楚衛二",
+    "link": null,
+    "tmdb_id": "217766",
+    "tmdb_site_id": "tv/217766",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "332157",
+    "type": "link",
+    "title": "新·假面骑士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/1c/332157_4L07y.jpg",
+    "releaseDate": "2023-03-17",
+    "mediaType": "real",
+    "rating": "5.5",
+    "description": "1话 /  2023年3月17日 / 池松壮亮、浜辺美波、柄本佑",
+    "link": "https://bgm.tv/subject/332157"
+  },
+  {
+    "id": "423007",
+    "type": "link",
+    "title": "利维斯Forward：假面骑士莱伊布＆艾比尔＆戴蒙斯",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/cc/423007_5DyYW.jpg",
+    "releaseDate": "2023-02-10",
+    "mediaType": "real",
+    "rating": "4.6",
+    "description": "2023年02月10日（影院先行上映）、2023年5月10日 / 坂本浩一 / 毛利亘宏 / 日向亘、小松準弥",
+    "link": "https://bgm.tv/subject/423007"
+  },
+  {
+    "id": "286637",
+    "type": "link",
+    "title": "雷霆沙赞！众神之怒",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a8/79/286637_P6vNl.jpg",
+    "releaseDate": "2023-03-17",
+    "mediaType": "real",
+    "rating": "4.6",
+    "description": "1话 /  2023年3月17日 / David F. Sandberg / Henry Gayden、Chris Morgan / Zachary Levi、Asher Angel",
+    "link": "https://bgm.tv/subject/286637"
+  },
+  {
+    "id": "227084",
+    "type": "tmdb",
+    "title": "假面骑士十迦VS假面骑士欧鲁特加",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zbPsmvujB4bInyDNfDJAtDIIlOU.jpg",
+    "releaseDate": "2023-04-30",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乔治·狩崎为了协助Juuga驱动器的开发，听取与父亲真澄是旧朋友的研究员高田唱的咨询，来到了那个研究室。在高田给他看的视频中，发现了从收容所越狱了的欧鲁特加身姿…！",
+    "link": null,
+    "tmdb_id": "227084",
+    "tmdb_site_id": "tv/227084",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "202411",
+    "type": "tmdb",
+    "title": "Monarch: Legacy of Monsters",
+    "posterPath": "https://image.tmdb.org/t/p/w500/n9f19s803QWUMq4C18Gyj60vUeE.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "在经历了哥斯拉对旧金山的袭击并幸存下来之后，凯特再次被一个惊人的秘密震撼。在巨大的威胁面前，她踏上环球冒险之旅，以了解关于她的家庭和神秘帝王组织的真相。",
+    "link": null,
+    "tmdb_id": "202411",
+    "tmdb_site_id": "tv/202411",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "238889",
+    "type": "tmdb",
+    "title": "假面骑士歌查德VS假面骑士雷杰德",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iTGc0toNOduhhJ8nErpgTBCAqKb.jpg",
+    "releaseDate": "2023-11-05",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "令和骑士？还早100年呢！\n\n镶嵌着历代假面骑士的驾驭凯米卡，以及假面骑士雷杰德的身姿，让人联想到某个与卡相关的假面骑士，那么假面骑士雷杰德究竟是何方神圣?",
+    "link": null,
+    "tmdb_id": "238889",
+    "tmdb_site_id": "tv/238889",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

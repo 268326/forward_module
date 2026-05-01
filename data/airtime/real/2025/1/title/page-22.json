@@ -1,0 +1,315 @@
+[
+  {
+    "id": "252193",
+    "type": "tmdb",
+    "title": "武士生死斗",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wsvxr5FBgrSIdbJ1nX5GKz9kF4T.jpg",
+    "releaseDate": "2025-11-13",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "时值19世纪末明治时期，包括嵯峨愁二郎（冈田准一 饰）在内的 292 位武士受到丰厚奖金吸引，深夜齐聚京都天龙寺，参加一场宛如人间炼狱的比赛：每人分得一块木札，唯有夺取他人木札并率先抵达东京，方能获得奖金。夜幕低垂，寺院内弥漫诡谲气息，嗜血武士蠢蠢欲动。随着比赛号令一响，武士立刻展开血腥而残酷的生存之战。",
+    "link": null,
+    "tmdb_id": "252193",
+    "tmdb_site_id": "tv/252193",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "286089",
+    "type": "tmdb",
+    "title": "点燃：法之无法者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nwLnFjcMFCHXSnG7uL1lGOKUFLr.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "本剧讲述了宇崎凌（间宫祥太朗 饰）是个不计后果却充满正义感的新晋律师。父亲在5年前因事故去世后，宇崎辞去上班族的工作，立志成为律师。好不容易通过了司法考试，却屡屡在事务所面试中落榜，每天过着打工生活。就在这时，意外地决定进入“和平律师事务所”工作。他本以为这样就能成为独当一面的律师了，但“和平律师事务所”并不是等待委托人的地方，而是潜入有“纷争火种”的所在之处，煽动人们提起诉讼，因此所里聚集了许多无法无天的律师们…",
+    "link": null,
+    "tmdb_id": "286089",
+    "tmdb_site_id": "tv/286089",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "529781",
+    "type": "link",
+    "title": "イコライザカ放送局",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/11/529781_J0k83.jpg",
+    "releaseDate": "2025-01-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年1月12日 / 島﨑信長",
+    "link": "https://bgm.tv/subject/529781"
+  },
+  {
+    "id": "561846",
+    "type": "link",
+    "title": "ウマ娘 プリティーダービー 6th EVENT The New Frontier 春公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/b5/561846_9a9KV.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2025-05-24",
+    "link": "https://bgm.tv/subject/561846"
+  },
+  {
+    "id": "562868",
+    "type": "link",
+    "title": "ウマ娘 プリティーダービー 6th EVENT The New Frontier 秋公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/4c/562868_sLr50.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2025-10-18",
+    "link": "https://bgm.tv/subject/562868"
+  },
+  {
+    "id": "583858",
+    "type": "link",
+    "title": "ウルトラ6兄弟 THE LIVE ウルトラマン編 ～空想は星空の彼方へ～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/c0/583858_ZCc9O.jpg",
+    "releaseDate": "2025-11-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年11月22日",
+    "link": "https://bgm.tv/subject/583858"
+  },
+  {
+    "id": "583854",
+    "type": "link",
+    "title": "奥特英雄THE LIVE~奥美迦·亚刻·布莱泽 新世代英雄集结~ in博品馆剧场",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/72/92/583854_0Jf44.jpg",
+    "releaseDate": "2025-10-31",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2025年10月31日",
+    "link": "https://bgm.tv/subject/583854"
+  },
+  {
+    "id": "591891",
+    "type": "link",
+    "title": "奥特英雄EXPO2026新年庆典 新生代舞台剧 奥美迦奥特曼篇～纽带连接未来～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3f/ea/591891_7576F.jpg",
+    "releaseDate": "2025-12-26",
+    "mediaType": "real",
+    "rating": "",
+    "description": "38话 /  2025年12月26日",
+    "link": "https://bgm.tv/subject/591891"
+  },
+  {
+    "id": "577984",
+    "type": "link",
+    "title": "ウルトラマン カードゲーム SPECIAL TALK & BATTLE SHOW",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/c9/577984_2lS88.jpg",
+    "releaseDate": "2025-09-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2025年9月14日 / 根岸拓哉、宇治清高、平田雄也、小池亮介",
+    "link": "https://bgm.tv/subject/577984"
+  },
+  {
+    "id": "525662",
+    "type": "link",
+    "title": "奥特曼新生代群星 第三部",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/60/525662_w8WQ6.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "22话 /  2025-01-25 / 足木淳一郎（構成、脚本）",
+    "link": "https://bgm.tv/subject/525662"
+  },
+  {
+    "id": "525270",
+    "type": "link",
+    "title": "亚刻奥特曼 大电影 超次元大决战！光与暗的亚刻",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/6a/525270_2Md8l.jpg",
+    "releaseDate": "2025-02-21",
+    "mediaType": "real",
+    "rating": "4.5",
+    "description": "1话 /  2025年2月21日 / 辻本貴則、宮崎龍太（副导演）、内田直之（特摄副导演） / 継田淳 / 戸塚有輝、金田昇、水谷果穂、西興一朗、中山翔貴、田中日奈子、広瀬裕也（声）",
+    "link": "https://bgm.tv/subject/525270"
+  },
+  {
+    "id": "289745",
+    "type": "tmdb",
+    "title": "奥美迦奥特曼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jQ9fYvTZHpYfjEa5hmHpYarkkUl.jpg",
+    "releaseDate": "2025-07-05",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "故事设定在一个从未出现过奥特曼与怪兽的地球上。某天，因意外一名外星人从宇宙坠落。失去过往记忆的外星人“奥美迦”化身为地球人模样，被人称为“宙人”。他对人类充满好奇，积极地接触这些陌生的生命体。 当神秘巨型生物接连出现时，尘封的记忆碎片被唤醒，宙人脱口而出“怪兽”二字。面对怪兽的威胁，强烈的使命感驱使他变身成为奥美迦奥特曼，与怪兽作战。 随着故事推进，来自外星的宙人与一位普通青年逐渐成为并肩作战的伙伴。",
+    "link": null,
+    "tmdb_id": "289745",
+    "tmdb_site_id": "tv/289745",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "624883",
+    "type": "link",
+    "title": "奥特曼系列60周年纪念PV",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/39/624883_15Mg2.jpg",
+    "releaseDate": "2025-12-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年12月5日",
+    "link": "https://bgm.tv/subject/624883"
+  },
+  {
+    "id": "581237",
+    "type": "link",
+    "title": "ウルトラマンセレブレーション",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/80/581237_2QYjl.jpg",
+    "releaseDate": "2025-09-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年9月14日",
+    "link": "https://bgm.tv/subject/581237"
+  },
+  {
+    "id": "532661",
+    "type": "link",
+    "title": "エパリダ 元教え子たちのラジオ ～最深情報、お届けします～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/cc/532661_slRso.jpg",
+    "releaseDate": "2025-01-04",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年1月4日 / 伊南羽桜、川井田夏海、稗田寧々",
+    "link": "https://bgm.tv/subject/532661"
+  },
+  {
+    "id": "505285",
+    "type": "link",
+    "title": "オオムタアツシの青春",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/58/b6/505285_ZH6kW.jpg",
+    "releaseDate": "2025-09-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年9月19日 / 筧美和子",
+    "link": "https://bgm.tv/subject/505285"
+  },
+  {
+    "id": "287667",
+    "type": "tmdb",
+    "title": "オダイバ!!超次元音楽祭 フユフェス2025",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fb/56/550801_5f64D.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "1话 /  2025-02-23 / Aqours、オーイシマサヨシ（大石昌良）、小倉唯、ClariS、千葉翔也、TRUE（唐沢美帆）、Liella!、ReoNa、フジコーズ（オープニングアクト）",
+    "link": null,
+    "tmdb_id": "287667",
+    "tmdb_site_id": "tv/287667",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "282651",
+    "type": "tmdb",
+    "title": "离线找真爱",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1fHibxTikURI6dIk8TyruiDHbNp.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "年轻的单身男女在异国度过十天，仅靠缘分相知相爱。没有任何电子设备，他们能否觅得良缘？",
+    "link": null,
+    "tmdb_id": "282651",
+    "tmdb_site_id": "tv/282651",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "550969",
+    "type": "link",
+    "title": "寻找身体 THE LAST NIGHT",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/d7/550969_DenFx.jpg",
+    "releaseDate": "2025-09-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2025年09月05日 / 羽住英一郎 / 土城温美、原祐樹 / 橋本環奈、眞栄田郷敦",
+    "link": "https://bgm.tv/subject/550969"
+  },
+  {
+    "id": "455748",
+    "type": "link",
+    "title": "噬亡村 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/03/c7/455748_ko7uY.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "8话 /  2025-03-19 / 片山慎三、佐野隆英、大庭功睦 / 大江崇允、廣原暁 / 柳楽優弥",
+    "link": "https://bgm.tv/subject/455748"
+  },
+  {
+    "id": "581556",
+    "type": "link",
+    "title": "Girls Remix in Halloween Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6b/7b/581556_Q0oJ2.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "5.2",
+    "description": "1话 /  2025-10-26 / 坂本浩一 / 内田裕基 / 松本麗世、山本ひかる、小池里奈、 志田音々、天翔天音",
+    "link": "https://bgm.tv/subject/581556"
+  },
+  {
+    "id": "279415",
+    "type": "tmdb",
+    "title": "以吻封缄",
+    "posterPath": "https://image.tmdb.org/t/p/w500/j9UNjhyU1IsmDSBfk2NyvXoCF9z.jpg",
+    "releaseDate": "2025-02-03",
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "本剧改编自同名漫画，讲述了谁都认可的帅哥，在工作上也很优秀的IT部王牌盐谷大辅（藤井流星 饰），从学生时代开始就很受欢迎，但没有自觉，很酷，对女性不怎么感兴趣，但在遇到调到营业部的佐藤枫（绀野彩夏 饰）后，他对她产生了强烈的恋慕之心。不擅长恋爱的枫虽然很在意盐谷，但两年都没能传达心意。某天，在晚上的公司不小心被关在走廊里的枫，被偶然路过的盐谷所救，意外地去了他家。这时，不应该回来的盐谷的合租室友回家了，两人立刻躲进衣柜里…",
+    "link": null,
+    "tmdb_id": "279415",
+    "tmdb_site_id": "tv/279415",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "557203",
+    "type": "link",
+    "title": "キミとアイドルプリキュア♪LIVE2025 You&I＝We're IDOL PRECURE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/2d/557203_9IoGn.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2025-10-18 / 松岡美里、髙橋ミナミ、高森奈津美、南條愛乃、花井美春、石井あみ、熊田茜音、吉武千颯、キュアアイドル、キュアウインク、キュアキュンキュン、キュアズキューン、キュアキッス",
+    "link": "https://bgm.tv/subject/557203"
+  },
+  {
+    "id": "297001",
+    "type": "tmdb",
+    "title": "中央广播电视总台2025主持人大赛——新闻主播季",
+    "posterPath": "https://image.tmdb.org/t/p/w500/agnDsxu37qaGVqt7OFDEyYj7IqE.jpg",
+    "releaseDate": "2025-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "寻新而来、向新出发。《中央广播电视总台主持人大赛（新闻主播季）》以新闻主播为主赛道，面向全社会邀请热爱新闻播音事业的参赛者，力求选拔出一批文化素质高、专业能力强、实战能力突出、新闻特质鲜明的优秀新闻节目主持人。\n\n该节目由邹韵担任主持人，康辉、鲁健担任点评嘉宾，结合“AI”“AR”等前沿科技手段，打造多场景、多类别的“新闻现场”，为观众提供全新的沉浸式观赏体验。",
+    "link": null,
+    "tmdb_id": "297001",
+    "tmdb_site_id": "tv/297001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

@@ -10,6 +10,8 @@
     "description": "1话 /  2025年9月19日 / 吉原達矢 / 藤本タツキ（集英社「少年ジャンプ＋」連載） / 杉山和隆",
     "link": null,
     "tmdb_id": "1218925",
+    "tmdb_site_id": "movie/1218925",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -24,6 +26,8 @@
     "description": "2话 /  2025年12月31日 / 畠山守(小俣真一) / 赤坂アカ（集英社ヤングジャンプコミックス刊） / 八尋裕子",
     "link": null,
     "tmdb_id": "83121/season/0/episode/5",
+    "tmdb_site_id": "tv/83121/season/0/episode/5",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -38,6 +42,8 @@
     "description": "12话 /  2025年4月8日 / 春藤佳奈 / 横山なつき",
     "link": null,
     "tmdb_id": "262929",
+    "tmdb_site_id": "tv/262929",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -52,6 +58,8 @@
     "description": "13话 /  2025年7月6日 / 藤井慎吾 / 渋谷圭一郎（HARTA COMIX／KADOKAWA 刊） / 藤井茉由",
     "link": null,
     "tmdb_id": "271649",
+    "tmdb_site_id": "tv/271649",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -77,6 +85,8 @@
     "description": "13话 /  2025年1月4日 / 山本靖貴 / つるまいかだ（講談社「アフタヌーン」連載） / 亀山千夏",
     "link": null,
     "tmdb_id": "237529",
+    "tmdb_site_id": "tv/237529",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -92,7 +102,7 @@
     "link": "https://bgm.tv/subject/353181"
   },
   {
-    "id": "138357/season/2",
+    "id": "138357",
     "type": "tmdb",
     "title": "彻夜之歌 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/5f/484623_6EWej.jpg",
@@ -101,7 +111,9 @@
     "rating": "7.7",
     "description": "12话 /  2025年7月4日 / 板村智幸 / コトヤマ（小学館「週刊少年サンデー」連載中） / 佐川遥",
     "link": null,
-    "tmdb_id": "138357/season/2",
+    "tmdb_id": "138357",
+    "tmdb_site_id": "tv/138357/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -116,6 +128,8 @@
     "description": "1话 /  2025年7月18日 / 木头(MTJJ)、顾杰 / 鳄鱼、冯志爽、GOLO高佬、毛芷清、七臂、黄黎婕、牛奶中、郑立刚、郵、孙菁怡、餘音",
     "link": null,
     "tmdb_id": "1144107",
+    "tmdb_site_id": "movie/1144107",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -130,6 +144,8 @@
     "description": "12话 /  2025年4月12日 / 春水融・川面真也 / team apa / 満田一",
     "link": null,
     "tmdb_id": "281042",
+    "tmdb_site_id": "tv/281042",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -144,6 +160,8 @@
     "description": "12话 /  2025年7月5日 / 篠原啓輔 / 福田晋一（掲載「ヤングガンガン」スクウェア・エニックス刊） / 石田一将",
     "link": null,
     "tmdb_id": "123249",
+    "tmdb_site_id": "tv/123249",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -169,11 +187,13 @@
     "description": "1话 /  2025年3月7日 / 寺本幸代 / 藤子・F・不二雄 / 山下晃",
     "link": null,
     "tmdb_id": "1372489",
+    "tmdb_site_id": "movie/1372489",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "86031/season/4",
+    "id": "86031",
     "type": "tmdb",
     "title": "石纪元 科学与未来 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/c4/508003_6A6w4.jpg",
@@ -182,7 +202,9 @@
     "rating": "7.5",
     "description": "12话 /  2025年7月10日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": null,
-    "tmdb_id": "86031/season/4",
+    "tmdb_id": "86031",
+    "tmdb_site_id": "tv/86031/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -197,6 +219,8 @@
     "description": "13话 /  2025年7月6日 / 石立太一 / あらゐけいいち（講談社「モーニング」所載） / 徳山珠美",
     "link": null,
     "tmdb_id": "272118",
+    "tmdb_site_id": "tv/272118",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -211,6 +235,8 @@
     "description": "24话 /  2025年1月10日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
     "link": null,
     "tmdb_id": "220542",
+    "tmdb_site_id": "tv/220542",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -225,6 +251,8 @@
     "description": "13话 /  2025年4月6日 / 伊藤祐毅・みうらたけひろ / Cygames；漫画：久住太陽、脚本：杉浦理史、漫画企画构成：伊藤隼之介（集英社「週刊ヤングジャンプ」連載） / 宮原拓也・佐々木啓悟",
     "link": null,
     "tmdb_id": "262700",
+    "tmdb_site_id": "tv/262700",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -239,6 +267,8 @@
     "description": "12话 /  2025年7月3日 / 亀山陽平 / 亀山陽平 / 亀山陽平",
     "link": null,
     "tmdb_id": "294766",
+    "tmdb_site_id": "tv/294766",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -253,6 +283,8 @@
     "description": "13话 /  2025年7月9日 / 今石洋之 / GEEKFLEET / コヤマシゲト・すしお・坂本勝",
     "link": null,
     "tmdb_id": "246862",
+    "tmdb_site_id": "tv/246862",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -267,6 +299,8 @@
     "description": "21话 /  2025年10月11日 / 市川量也 / プチデポット / 松浦有紗",
     "link": null,
     "tmdb_id": "278604",
+    "tmdb_site_id": "tv/278604",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -292,6 +326,8 @@
     "description": "6话 /  2025年7月7日 / 古賀一臣 / 成家慎一郎（KADOKAWA刊） / 坂井久太",
     "link": null,
     "tmdb_id": "280366",
+    "tmdb_site_id": "tv/280366",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -306,6 +342,8 @@
     "description": "12话 /  2025年1月12日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
     "link": null,
     "tmdb_id": "223564",
+    "tmdb_site_id": "tv/223564",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

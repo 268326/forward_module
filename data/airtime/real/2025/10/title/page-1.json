@@ -33,26 +33,40 @@
     "link": "https://bgm.tv/subject/525781"
   },
   {
-    "id": "524754",
-    "type": "link",
+    "id": "278339",
+    "type": "tmdb",
     "title": "119紧急呼叫",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/28/524754_0Y6Jj.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/uJMDxuAyqNTOEVkqyIdUgNI5tyP.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "11话 /  2025-01-13 / 水田成英、並木道子、丸谷俊平 / 橋本夏、小柳啓伍 / 清野菜名",
-    "link": "https://bgm.tv/subject/524754"
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "本剧以消防局的通信指令中心为舞台，描绘了站在用一部电话维系生命的“最前线”的指令调度员们的“现实”。指令调度员们应对紧急通报，发出适当的救护车、消防车出动指令。他们是拥有各种技能的消防、急救专家集团，运用通信技能和医疗知识，为了挽救濒临危机的“生命”，每天倾听“声音”，用“声音”拯救“生命”。",
+    "link": null,
+    "tmdb_id": "278339",
+    "tmdb_site_id": "tv/278339",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "544867",
-    "type": "link",
+    "id": "273701",
+    "type": "tmdb",
     "title": "180天重启计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/13/544867_36dnS.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dGuRiTnG9sRBlQ6fokfCmvlX20R.jpg",
     "releaseDate": "2025-02-17",
-    "mediaType": "real",
-    "rating": "",
-    "description": "27话 /  2025年2月17日 / 李漠 / 韩家女、苏凌子 / 周雨彤、吴越、刘畅、耿乐、何洛洛、陈明昊、朱茵、韩东君、沈梦辰、李艾、邬立朋、韩陌",
-    "link": "https://bgm.tv/subject/544867"
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "顾云苏一直怀揣着编剧梦，在爱情失意时她索性放飞自我，为实现理想辞去工作，准备回家依靠母亲吴俪梅“抚养”暂时过渡，却万万没想到年近五十的母亲竟在闪婚后又迅速怀上了二胎。原本打着如意算盘的顾云苏在毫无准备的情况下成了高龄孕妇的贴身陪护，和一往直前的母亲、不相熟的继父、无血缘关系的弟弟同住一个屋檐下，上演了一出出啼笑皆非又温暖治愈的亲情故事。",
+    "link": null,
+    "tmdb_id": "273701",
+    "tmdb_site_id": "tv/273701",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "539914",
@@ -66,37 +80,58 @@
     "link": "https://bgm.tv/subject/539914"
   },
   {
-    "id": "550967",
-    "type": "link",
-    "title": "1972 渚の螢火",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b4/5c/550967_33K8O.jpg",
+    "id": "289076",
+    "type": "tmdb",
+    "title": "1972 渚之萤火",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7HPrsUPKNZKapoBieUpzAXCN29E.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "5话 /  2025-10-19 / 平山秀幸 / 常盤司郎、倉田健次 / 高橋一生",
-    "link": "https://bgm.tv/subject/550967"
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "1972年冲绳回归本土前夕，一桩惊天劫案撕开了平静表象——载有价值百万美元现钞的押运车遭暴徒袭击，巨额美金不翼而飞。若无法妥善处理美元兑汇问题，这场恶性事件恐将引爆日美外交危机。琉球警方当机立断组建秘密搜查班，从东京调任归来的精英刑警真荣田临危受命担任指挥官，率领着由四位特殊成员组成的特别行动组：既是同期又是竞争对手的搜查一科王牌与那霸、临近退休却深谙世故的老刑警玉城......他们必须在18天时限内完成这场与回归倒计时赛跑的缉凶行动。随着调查深入，原本单纯的劫案逐渐显露出狰狞面目：案件背后竟牵扯出冲绳财阀、本土黑帮甚至美军势力，真相在层层反转中愈发扑朔迷离。当最后一缕夕阳沉入庆良间群岛的海平面时，真荣田手中的怀表指针即将划过午夜——究竟是让消失的美金永远沉入太平洋底，还是赌上整个冲绳的未来撕开阴谋的遮羞布？这场守护正义与尊严的终极对决，此刻正式进入读秒阶段！",
+    "link": null,
+    "tmdb_id": "289076",
+    "tmdb_site_id": "tv/289076",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "541747",
-    "type": "link",
-    "title": "1995～地下鉄サリン事件30年 救命現場の声～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/77/8b/541747_z7pZ4.jpg",
+    "id": "286936",
+    "type": "tmdb",
+    "title": "1995 ～地下鉄サリン事件30年 救命現場の声～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jLfclwBszC4Bj92Era9KSEP4NGU.jpg",
     "releaseDate": "2025-03-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2025年3月21日 / 津田健次郎",
-    "link": "https://bgm.tv/subject/541747"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "1995 年--地下沙林毒气袭击 30 年后--来自救生工作第一线的声音。",
+    "link": null,
+    "tmdb_id": "286936",
+    "tmdb_site_id": "tv/286936",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "559372",
-    "type": "link",
+    "id": "293432",
+    "type": "tmdb",
     "title": "第19份病历簿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/49/559372_Z21N1.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kQl9lIhurDIMU4FWNvy1sL1T5PB.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2025-07-13 / 青山貴洋、棚澤孝義、泉正英 / 坪田文 / 松本潤",
-    "link": "https://bgm.tv/subject/559372"
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧改编自同名漫画。“病理”、“产科”、“放射线科”，医院里有18个专家门诊活跃着，其中诞生了第19个新领域，“接诊患者”的专科医生，也就是全科医生。故事中，憧憬着“什么都能治”的医生，已经工作3年的女医生滝野，在细分的专业领域中，在追求各自专业的医生系统中，为理想与现实的差距而烦恼。这时，对患者这种“人类本身”进行诊察、治疗的综合诊疗医生德重晃（松本润 饰）出现在滝野面前…",
+    "link": null,
+    "tmdb_id": "293432",
+    "tmdb_site_id": "tv/293432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "576684",
@@ -132,26 +167,40 @@
     "link": "https://bgm.tv/subject/572420"
   },
   {
-    "id": "581396",
-    "type": "link",
-    "title": "217円の絵",
-    "posterPath": null,
+    "id": "299402",
+    "type": "tmdb",
+    "title": "217元的画",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cVgh12XKgwOeroux8t7R71SPcnV.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2025-09-30 / 野尻克己 / 神谷克麻 / 風間俊介、齋藤潤",
-    "link": "https://bgm.tv/subject/581396"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本剧改编自日本电视台剧本大赛大赏作品。中年画家御所明（风间俊介 饰）不被世人认可，高中生春文凉（斋藤润 饰）却热爱绘画。两人境遇迥异，却在滑稽的日常中逐渐触及现代社会的深层主题：真正的价值是什么？御所明总爱说些歪理，比如“200日元的数学笔记本能卖到2000日元以上”，这些话语却逐渐改变了已对未来失去希望的春文凉。作品讲述在被他人评价左右的时代，如何寻找属于自己的真正价值。",
+    "link": null,
+    "tmdb_id": "299402",
+    "tmdb_site_id": "tv/299402",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "561944",
-    "type": "link",
+    "id": "260555",
+    "type": "tmdb",
     "title": "24小时健身房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/9b/561944_8fj9a.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a3CqRzSavTA2CoipVWicfjbD9Ry.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2025-04-30 / 朴俊秀 / 李濬荣、郑恩地、李美度、李承宇、朴成妍、李芝慧、洪允华、이준환、金建宇",
-    "link": "https://bgm.tv/subject/561944"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "《24小时健身房》讲述了充满斗志的健身狂馆长都贤中（李濬荣 饰），透过大胆的指导，帮助满怀忧虑的新手会员李美兰（郑恩地 饰）调整人生，展开一场心跳加速的筋肉成长喜剧爱情故事。",
+    "link": null,
+    "tmdb_id": "260555",
+    "tmdb_site_id": "tv/260555",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "565726",
@@ -209,15 +258,22 @@
     "link": "https://bgm.tv/subject/580239"
   },
   {
-    "id": "540451",
-    "type": "link",
-    "title": "2班李熙秀",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/e9/540451_wXMuF.jpg",
+    "id": "220041",
+    "type": "tmdb",
+    "title": "2班李喜舒",
+    "posterPath": "https://image.tmdb.org/t/p/w500/78PHlTpwNz7iCjUgMnJoYC7v20N.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2025-03-28 / 박경민 / 박상아 / 안지호(安智浩)、조준영(赵俊英)、이상준(李相俊)、김도연(金度延)",
-    "link": "https://bgm.tv/subject/540451"
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "一个邻家男孩般平凡，却有着秘密的18岁少年「喜舒」，他的初恋与友情故事。普通高中生、18岁的喜舒，是校内公认的\"头号恋爱导师\"，实则是个毫无恋爱经验的母胎单身。他暗恋着十年挚友灿荣，却将这份沉重的秘密深埋心底独自发酵。然而，灿荣意外发现自己喜欢的歌手Summer竟是同校转学生智宥，逐渐对她产生好感。面对灿荣陌生的态度转变，希秀危机感爆发！当他试图帮助暗恋智宥的班长胜元夺回灿荣时，却发现胜元的目光反而更多地停留在了自己身上......",
+    "link": null,
+    "tmdb_id": "220041",
+    "tmdb_site_id": "tv/220041",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "615815",

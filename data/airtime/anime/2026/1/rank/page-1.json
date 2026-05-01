@@ -10,6 +10,8 @@
     "description": "13话 /  2026年1月4日 / 大城美幸 / ヤマシタトモコ（祥伝社 FEEL COMICS） / 羽山賢二",
     "link": null,
     "tmdb_id": "253476",
+    "tmdb_site_id": "tv/253476",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -24,6 +26,8 @@
     "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
     "link": null,
     "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -38,6 +42,8 @@
     "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
     "link": null,
     "tmdb_id": "95479",
+    "tmdb_site_id": "tv/95479",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -53,7 +59,7 @@
     "link": "https://bgm.tv/subject/623179"
   },
   {
-    "id": "237529/season/2",
+    "id": "237529",
     "type": "tmdb",
     "title": "金牌得主 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/08/548818_iLSG6.jpg",
@@ -62,7 +68,9 @@
     "rating": "7.7",
     "description": "9话 /  2026年1月24日 / 山本靖貴 / つるまいかだ（講談社「アフタヌーン」連載） / 亀山千夏",
     "link": null,
-    "tmdb_id": "237529/season/2",
+    "tmdb_id": "237529",
+    "tmdb_site_id": "tv/237529/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -77,6 +85,8 @@
     "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
     "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -92,7 +102,7 @@
     "link": "https://bgm.tv/subject/607915"
   },
   {
-    "id": "37854/season/23",
+    "id": "37854",
     "type": "tmdb",
     "title": "航海王 埃鲁巴夫篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
@@ -101,12 +111,14 @@
     "rating": "7.8",
     "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
     "link": null,
-    "tmdb_id": "37854/season/23",
+    "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854/season/23",
+    "tmdb_season_number": 23,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "76757/season/5",
+    "id": "76757",
     "type": "tmdb",
     "title": "黄金神威 最终章",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7c/f1/443106_b4QP3.jpg",
@@ -115,7 +127,9 @@
     "rating": "7.6",
     "description": "13话 /  2026年1月5日 / 菅原静貴 / 野田サトル（集英社ヤングジャンプ コミックス刊） / 山川拓己",
     "link": null,
-    "tmdb_id": "76757/season/5",
+    "tmdb_id": "76757",
+    "tmdb_site_id": "tv/76757/season/5",
+    "tmdb_season_number": 5,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -130,6 +144,8 @@
     "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
     "link": null,
     "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -155,11 +171,13 @@
     "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
     "link": null,
     "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94404/season/2",
+    "id": "94404",
     "type": "tmdb",
     "title": "异兽魔都 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
@@ -168,7 +186,9 @@
     "rating": "7.5",
     "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
     "link": null,
-    "tmdb_id": "94404/season/2",
+    "tmdb_id": "94404",
+    "tmdb_site_id": "tv/94404/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -194,6 +214,8 @@
     "description": "13话 /  2026年1月3日 / 榎戸駿・坂詰嵩仁 / 成田良悟・TYPE-MOON『Fate/strange Fake』（電撃文庫刊） / 山田有慶",
     "link": null,
     "tmdb_id": "229858",
+    "tmdb_site_id": "tv/229858",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -208,6 +230,8 @@
     "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
     "link": null,
     "tmdb_id": "291403",
+    "tmdb_site_id": "tv/291403",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -222,6 +246,8 @@
     "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
     "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -247,6 +273,8 @@
     "description": "12话 /  2026年1月12日 / 金森陽子 / 春原ロビンソン・ひらけい（集英社ジャンプコミックス刊） / 河野敏弥",
     "link": null,
     "tmdb_id": "229443",
+    "tmdb_site_id": "tv/229443",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -272,19 +300,28 @@
     "description": "11话 /  2026年1月14日 / 平牧大輔 / 赤坂アカ×横槍メンゴ（集英社ヤングジャンプコミックス刊） / 平山寛菜",
     "link": null,
     "tmdb_id": "203737",
+    "tmdb_site_id": "tv/203737",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "250224",
-    "type": "link",
+    "id": "298026",
+    "type": "tmdb",
     "title": "放开那个女巫",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/91/250224_7ZUS7.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
     "releaseDate": "2026-03-02",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "8话 /  2026年3月2日 / 孙猛 / 二目 / 王筠婷、葛志浩",
-    "link": "https://bgm.tv/subject/250224"
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "505401",
@@ -298,14 +335,21 @@
     "link": "https://bgm.tv/subject/505401"
   },
   {
-    "id": "621991",
-    "type": "link",
+    "id": "312822",
+    "type": "tmdb",
     "title": "扮演姐姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/3e/621991_80h8z.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/co2Klo3rcKtkALR15IP0CwOhyjM.jpg",
     "releaseDate": "2026-01-31",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "3话 /  2026年1月31日 / はるまきごはん",
-    "link": "https://bgm.tv/subject/621991"
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "遥远的未来。在被都市高度发达的科技所遗忘的郊外山村“镜见村”。\n\n在这个流传着“如果不乖乖听话，‘那个长得一模一样的人’就会找上门来”这一古老传说的村子里，住着一名初中生——日暮红（Akane）。她正满心期待着与时隔一年终于出院的姐姐日暮翠（Sui）重逢。\n\n然而，就在姐姐出院没过多久，红接到了一通电话。\n\n“在那个家里的，不是你姐姐。”",
+    "link": null,
+    "tmdb_id": "312822",
+    "tmdb_site_id": "tv/312822",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

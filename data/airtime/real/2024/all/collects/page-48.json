@@ -1,0 +1,301 @@
+[
+  {
+    "id": "261259",
+    "type": "tmdb",
+    "title": "加油吧少年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsiuwHB9UVVdR1zt2oSWFpOWlJ8.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该剧讲述了静水中学的青春少年们，在人生的关键时期励志成长的故事。金展家境优越，内心却很孤独，从小缺乏家庭的关爱陪伴，直到他认识了郁述、杜沙、禾尚、小美等好友后，才明白了真正的朋友应该如何去定义。",
+    "link": null,
+    "tmdb_id": "261259",
+    "tmdb_site_id": "tv/261259",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "249933",
+    "type": "tmdb",
+    "title": "照亮街道的家伙们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vsHGc7OVJonGIkQn3NrzMpXlDBP.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本剧讲述了在冷清的快门商店街勉强经营的蛋糕店店主·竹野正义，为了同伴和街道而掀起的怒涛人间娱乐。为了保护重要的店铺和家人，他做起了坏事，从此开始，故事走向了意想不到的方向。",
+    "link": null,
+    "tmdb_id": "249933",
+    "tmdb_site_id": "tv/249933",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "485877",
+    "type": "link",
+    "title": "穿成阴鸷反派的联姻对象 第一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/9f/485877_1RU2R.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "15话 /  2024-03-28 / 刘一鸣、倒霉死勒",
+    "link": "https://bgm.tv/subject/485877"
+  },
+  {
+    "id": "485879",
+    "type": "link",
+    "title": "遇见黑天使的血色猎爱",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/64/a3/485879_1vnUn.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2024-04-03 / 赵一昂、刘明月",
+    "link": "https://bgm.tv/subject/485879"
+  },
+  {
+    "id": "485880",
+    "type": "link",
+    "title": "国道29号",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/89/485880_R9sPj.jpg",
+    "releaseDate": "2024-11-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年11月8日 / 森井勇佑 / 森井勇佑 / 綾瀬はるか",
+    "link": "https://bgm.tv/subject/485880"
+  },
+  {
+    "id": "247142",
+    "type": "tmdb",
+    "title": "四柱王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2UamxKXBGmmR8g4xKOhsnGjhErk.jpg",
+    "releaseDate": "2024-03-15",
+    "mediaType": "tv",
+    "rating": "1.1",
+    "description": "改编自网络小说《我成为了天才算命师》，是天才算命师“金泰英”（徐智勋饰）和少女菩萨“闵素如”（蔡舒辰饰）为了改变处于危机中的顾客的命运，冒着生命危险解决神秘事件的“奇幻四柱推理片”。",
+    "link": null,
+    "tmdb_id": "247142",
+    "tmdb_site_id": "tv/247142",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "486269",
+    "type": "link",
+    "title": "めぐる、はるか未来",
+    "posterPath": null,
+    "releaseDate": "2024-03-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年3月21日",
+    "link": "https://bgm.tv/subject/486269"
+  },
+  {
+    "id": "486607",
+    "type": "link",
+    "title": "反差 现代多人有声剧",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a8/01/486607_46w6y.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "94话 /  2024-03-31 / 惊蛰 / 胡良伟、刘明月、家康",
+    "link": "https://bgm.tv/subject/486607"
+  },
+  {
+    "id": "486698",
+    "type": "link",
+    "title": "附加遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/96/486698_e1757.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2024-03-27 / 苏尚卿、锦鲤（陈锦闻）",
+    "link": "https://bgm.tv/subject/486698"
+  },
+  {
+    "id": "486723",
+    "type": "link",
+    "title": "信息素说你不单纯",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/ea/486723_SEWUw.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2024-04-01 / 杨天翔、姜秋再",
+    "link": "https://bgm.tv/subject/486723"
+  },
+  {
+    "id": "486729",
+    "type": "link",
+    "title": "无根攻略 有声剧",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/34/486729_oo7Gz.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024-03-25 / 徐宇隆、斑马、冬宣",
+    "link": "https://bgm.tv/subject/486729"
+  },
+  {
+    "id": "250529",
+    "type": "tmdb",
+    "title": "今天的她们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nfenWjE3iyfqL1qVPoi9peRs7xx.jpg",
+    "releaseDate": "2024-03-29",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "路真真为爱离开北京回到成都，梁清然被总公司派去收购老字号川白楼，路真真选择帮助闺蜜顾漫婷一起度过川白楼的经营危机，一场关于美食“传承与守护”的故事，让三位性格各异的女性“不打不相识”。经过爱情 、事业、理想的层层考验，她们又将在烟火成都迈向怎样的人生新阶段……",
+    "link": null,
+    "tmdb_id": "250529",
+    "tmdb_site_id": "tv/250529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "487246",
+    "type": "link",
+    "title": "水火难容",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a4/3d/487246_PCRRZ.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "21话 /  2024-04-02 / 顺子、金弦",
+    "link": "https://bgm.tv/subject/487246"
+  },
+  {
+    "id": "487297",
+    "type": "link",
+    "title": "むこう岸",
+    "posterPath": null,
+    "releaseDate": "2024-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年5月6日 / 西山蓮都、石田莉子、サニーマックレンドン、岡田義徳、酒井若菜、遠藤久美子、森永悠希、山下リオ、渋川清彦",
+    "link": "https://bgm.tv/subject/487297"
+  },
+  {
+    "id": "250650",
+    "type": "tmdb",
+    "title": "红衣醉",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yJdB0PavMmdhBsvCfmHnrLFZp2q.jpg",
+    "releaseDate": "2024-03-30",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "扈恬恬在棋局预知了扈家被满门抄斩的结局，为了改变命运，恬恬拉拢同有“重生”经历的落魄皇子苏宴黎，力求引导反派哥哥从善，谁料苏宴黎恐是灭门扈家的祸首，二人极致拉扯中，恬恬慢慢知晓苏宴黎和她的宿命渊源。",
+    "link": null,
+    "tmdb_id": "250650",
+    "tmdb_site_id": "tv/250650",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "487303",
+    "type": "link",
+    "title": "单身病",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/70/487303_uUUyS.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2024-04-02 / 文森、刘明月",
+    "link": "https://bgm.tv/subject/487303"
+  },
+  {
+    "id": "487305",
+    "type": "link",
+    "title": "和平分手 多人有声剧",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/0e/487305_pT67t.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "74话 /  2024-03-30 / DK（卢力峰）、吴晛、陈成真",
+    "link": "https://bgm.tv/subject/487305"
+  },
+  {
+    "id": "487359",
+    "type": "link",
+    "title": "皓衣行",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/a2/487359_KukRI.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "50话 /  2024 / 何澍培、周家文、何泓辉 / 何妨 / 罗云熙、陈飞宇、陈瑶、周奇、谢君豪、王艳、杨雪、王永泉、郑国霖、董璇、黄海冰、崔鹏、何中华、姚弛、权沛伦、董岩磊、刘畅、王韵之、许梦圆、黄云云、徐子恩、胡玉梅",
+    "link": "https://bgm.tv/subject/487359"
+  },
+  {
+    "id": "487642",
+    "type": "link",
+    "title": "我成了虐文女主她亲哥 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/78/487642_GGKq9.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "11话 /  2024-04-03 / 凌飞、刘李桥",
+    "link": "https://bgm.tv/subject/487642"
+  },
+  {
+    "id": "487785",
+    "type": "link",
+    "title": "春江花月夜 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/b9/487785_QYRHy.jpg",
+    "releaseDate": "2024-04-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2024年4月2日 / 袁铭喆、倔强的小红",
+    "link": "https://bgm.tv/subject/487785"
+  },
+  {
+    "id": "487807",
+    "type": "link",
+    "title": "青簪行",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9d/42/487807_zSD5K.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "60话 /  2024 / 林玉芬、梁胜权、任海涛、郭虎 / 金海曙、王莉芝、侧侧轻寒 / 杨紫、彭冠英、宣言、陈哲远、于谨维、邱心志、隋俊波、刘一宏、阮巨、赵英博、李逸男、丁笑滢",
+    "link": "https://bgm.tv/subject/487807"
+  },
+  {
+    "id": "487809",
+    "type": "link",
+    "title": "烽火流金",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/02/56/487809_2ezEU.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "40话 /  2024 / 周远舟 / 阿牧、Priest / 檀健次、陈哲远、李宏毅、孙安可、董岩磊、宋继扬、余承恩",
+    "link": "https://bgm.tv/subject/487809"
+  },
+  {
+    "id": "487833",
+    "type": "link",
+    "title": "穿成万人迷的炮灰竹马",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/39/487833_IVB6q.jpg",
+    "releaseDate": "2024-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "17话 /  2024-04-05 / 吴晛、云惟一",
+    "link": "https://bgm.tv/subject/487833"
+  },
+  {
+    "id": "487837",
+    "type": "link",
+    "title": "PICU～小児集中治療室～スピンオフ",
+    "posterPath": null,
+    "releaseDate": "2024-04-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2024年4月1日 / 菅野莉央、吉沢亮、高杉真宙、高梨臨、近藤華、矢野聖人、生田絵梨花、正名僕蔵、甲本雅裕、安田顕",
+    "link": "https://bgm.tv/subject/487837"
+  }
+]

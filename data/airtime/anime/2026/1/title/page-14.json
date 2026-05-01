@@ -1,0 +1,292 @@
+[
+  {
+    "id": "553397",
+    "type": "link",
+    "title": "临安：芳好",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/32/e6/553397_z9Bb3.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / 西岛",
+    "link": "https://bgm.tv/subject/553397"
+  },
+  {
+    "id": "467711",
+    "type": "link",
+    "title": "乐乐便利店",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/96/467711_YYLt2.jpg",
+    "releaseDate": "2026-02-04",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "10话 /  2026年2月4日 / 龚燕珊 / 龚燕珊、李京津、仵明、左比小野、哪哪、冯钦忠",
+    "link": "https://bgm.tv/subject/467711"
+  },
+  {
+    "id": "412144",
+    "type": "link",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_aMy03.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊）",
+    "link": "https://bgm.tv/subject/412144"
+  },
+  {
+    "id": "617123",
+    "type": "link",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_g83Q7.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": "https://bgm.tv/subject/617123"
+  },
+  {
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/w89h2R9vaLlF6smgRa4dG6RVE6Z.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月5日 / 太田稔 / 結城弘（KAエスマ文庫/京都アニメーション） / 岡村公平",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303434",
+    "type": "tmdb",
+    "title": "非人学生与厌世教师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/ce/583728_wfZP3.jpg",
+    "releaseDate": "2026-01-10",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "13话 /  2026年1月10日 / 岩永彰 / 来栖夏芽（KADOKAWA刊） / 岡田万衣子",
+    "link": null,
+    "tmdb_id": "303434",
+    "tmdb_site_id": "tv/303434",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "628631",
+    "type": "link",
+    "title": "人生列车",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5f/5a/628631_720f5.jpg",
+    "releaseDate": "2026-02-16",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年2月16日",
+    "link": "https://bgm.tv/subject/628631"
+  },
+  {
+    "id": "630676",
+    "type": "link",
+    "title": "仙逆 年番3",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/71/630676_6v15K.jpg",
+    "releaseDate": "2026-02-23",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "52话 /  2026年2月23日 / 李振锋、王建鑫 / 耳根",
+    "link": "https://bgm.tv/subject/630676"
+  },
+  {
+    "id": "614594",
+    "type": "link",
+    "title": "令和的斑小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/c5/614594_ZW9b2.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月 / ともつか治臣（「令和のダラさん」／KADOKAWA刊）",
+    "link": "https://bgm.tv/subject/614594"
+  },
+  {
+    "id": "486456",
+    "type": "link",
+    "title": "佐佐木与文鸟小哔 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_dnSNN.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年 / ぶんころり（MF文庫J刊）",
+    "link": "https://bgm.tv/subject/486456"
+  },
+  {
+    "id": "313780",
+    "type": "tmdb",
+    "title": "修仙者大战超能力",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rEwPQNqPBLeL7wewTo839jnxkKY.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "主人公岩森曾是修真界的至尊强者，被恶人忌惮，门人惨遭屠戮。岩森为门人报仇，却不慎被对方合力封印，阴差阳错穿越到超能力者的世界。这里人们大多都拥有各种各样的超能力，他们被称为“英雄”，终年与怪兽做斗争，拯救世界。 刚来到超能力世界的岩森因不了解情况，被当成怪兽而被英雄讨伐，几番战斗过后，岩森与英雄的误会渐渐解除。而岩森也数次拯救世界于危难之际，成为异世界新的英雄，与此同时，岩森英雄的身份，也让他成为了一间超能学校的导师，于是岩森一边教授学生自己世界的修炼体系，一边寻找着能够回到自己原世界的方法。随着和学生们的日益相处，岩森尘封多年的内心也开始渐渐苏醒，但不幸的是，原本宁静的超能力世界也因为岩森的到来变得不太平，其他异世界的强者也渐渐地开始入侵这个世界……",
+    "link": null,
+    "tmdb_id": "313780",
+    "tmdb_site_id": "tv/313780",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "542324",
+    "type": "link",
+    "title": "修罗武神 第2季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/ee/542324_AvX9o.jpg",
+    "releaseDate": "2026-02-24",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "16话 /  2026年2月24日 / 晏进祾煖、汪成涛 / 善良的蜜蜂 / 赵广阔（角色设计指导）、徐昶（角色设计主管）",
+    "link": "https://bgm.tv/subject/542324"
+  },
+  {
+    "id": "634397",
+    "type": "link",
+    "title": "假面滑索侠",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0a/c0/634397_G00Dd.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "5话 /  2026年1月30日",
+    "link": "https://bgm.tv/subject/634397"
+  },
+  {
+    "id": "628635",
+    "type": "link",
+    "title": "再一次的“初见”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5a/26/628635_22k7K.jpg",
+    "releaseDate": "2026-02-16",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年2月16日 / 佳菲(倪佳菲)",
+    "link": "https://bgm.tv/subject/628635"
+  },
+  {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "8.1",
+    "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
+    "link": "https://bgm.tv/subject/607915"
+  },
+  {
+    "id": "624085",
+    "type": "link",
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/624085_CmO8f.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月",
+    "link": "https://bgm.tv/subject/624085"
+  },
+  {
+    "id": "607337",
+    "type": "link",
+    "title": "凹凸世界·新生",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/52/607337_Um1p7.jpg",
+    "releaseDate": "2026-05-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "13话 /  2026年5月1日",
+    "link": "https://bgm.tv/subject/607337"
+  },
+  {
+    "id": "300054",
+    "type": "tmdb",
+    "title": "刃牙道：无敌武士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+    "releaseDate": "2026-02-26",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
+    "link": null,
+    "tmdb_id": "300054",
+    "tmdb_site_id": "tv/300054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "628580",
+    "type": "link",
+    "title": "刹那芳华",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/628580_53WZ0.jpg",
+    "releaseDate": "2026-02-16",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年2月16日 / 二维动画导演：谭钧文 / 大智",
+    "link": "https://bgm.tv/subject/628580"
+  },
+  {
+    "id": "610628",
+    "type": "link",
+    "title": "剑鬼巴尔戈",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-02-27",
+    "mediaType": "anime",
+    "rating": "3.7",
+    "description": "2话 /  2026年2月27日 / 金色complex",
+    "link": "https://bgm.tv/subject/610628"
+  },
+  {
+    "id": "505562",
+    "type": "link",
+    "title": "剧场版 物怪 蛇神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/36/64/505562_HEZ2g.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年5月29日 / 越田知明 / [动画人设]高橋裕一",
+    "link": "https://bgm.tv/subject/505562"
+  },
+  {
+    "id": "515869",
+    "type": "link",
+    "title": "剧场版 我心里危险的东西",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
+    "releaseDate": "2026-02-13",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
+    "link": "https://bgm.tv/subject/515869"
+  },
+  {
+    "id": "583746",
+    "type": "link",
+    "title": "剧场版 暗杀教室 大家的时间",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/82/e3/583746_7GAiU.jpg",
+    "releaseDate": "2026-03-20",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "1话 /  2026年3月20日 / 松井優征（集英社 ジャンプ コミックス刊）",
+    "link": "https://bgm.tv/subject/583746"
+  },
+  {
+    "id": "515595",
+    "type": "link",
+    "title": "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/84/515595_xP1P5.jpg",
+    "releaseDate": "2026-02-27",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "1话 /  2026年2月27日 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
+    "link": "https://bgm.tv/subject/515595"
+  }
+]

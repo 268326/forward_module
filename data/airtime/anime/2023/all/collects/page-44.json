@@ -1,0 +1,287 @@
+[
+  {
+    "id": "131366",
+    "type": "tmdb",
+    "title": "不相信人类的冒险者们好像要去拯救世界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/DyquTbgf2coEiim4NgCHDHINAv.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "隶属于帝涅兹圣王国的都市–特拉涅，妄想一夕致富的冒险者们、机灵的商人、能歌善舞的吟游诗人、贵族、神官以及兽人族聚集在这，人们把这个本身就像个迷宫一样的城市称为「迷宫都市」。被赶出冒险者队伍又被女友欺骗的落魄轻战士–尼克也是这个城市的居民。厌倦一切的他来到了一间酒馆，像要把一切烦心事都抛到九霄云外似地猛灌酒，「人类什么的能信个屁啊！」焦躁和不满不由自主地脱口而出。但本该是只属于自己的这股情绪，却有四个人同时发出了相同声音…",
+    "link": null,
+    "tmdb_id": "131366",
+    "tmdb_site_id": "tv/131366",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "624712",
+    "type": "link",
+    "title": "低危营地生存秀",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/c3/624712_Z9iCA.jpg",
+    "releaseDate": "2023-06-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "13话 /  2023年6月 / Jared Madrigal/ Robert Castellanos",
+    "link": "https://bgm.tv/subject/624712"
+  },
+  {
+    "id": "634249",
+    "type": "link",
+    "title": "触觉幻境",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/32/83/634249_VzxmG.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023-11-10 / Bianca Caderas / Kerstin Zemp",
+    "link": "https://bgm.tv/subject/634249"
+  },
+  {
+    "id": "635984",
+    "type": "link",
+    "title": "烧灼于心的日斑",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/bf/635984_j5nZ5.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023 / Craig Scheihing",
+    "link": "https://bgm.tv/subject/635984"
+  },
+  {
+    "id": "636041",
+    "type": "link",
+    "title": "Pour 101",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/d3/636041_aU9XR.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023-12-01 / Patrick Smith",
+    "link": "https://bgm.tv/subject/636041"
+  },
+  {
+    "id": "636504",
+    "type": "link",
+    "title": "不知火フレア original anime MV",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/12/636504_VYatH.jpg",
+    "releaseDate": "2023-07-15",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023年7月15日 / 富田喜允",
+    "link": "https://bgm.tv/subject/636504"
+  },
+  {
+    "id": "638832",
+    "type": "link",
+    "title": "From One Painting… to Another",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/638832_4dvL4.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023 / Georges Schwizgebel",
+    "link": "https://bgm.tv/subject/638832"
+  },
+  {
+    "id": "219098",
+    "type": "link",
+    "title": "零世纪 哈洛克",
+    "posterPath": null,
+    "releaseDate": "2023-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023年",
+    "link": "https://bgm.tv/subject/219098"
+  },
+  {
+    "id": "321083",
+    "type": "link",
+    "title": "The Metalverse",
+    "posterPath": null,
+    "releaseDate": "2023-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023年7月",
+    "link": "https://bgm.tv/subject/321083"
+  },
+  {
+    "id": "424868",
+    "type": "link",
+    "title": "克拉和玛依历险记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6b/64/424868_A4jq9.jpg",
+    "releaseDate": "2023-03-22",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2023年3月22日 / 杜毅、丰志辉、李梦桃、张瑞",
+    "link": "https://bgm.tv/subject/424868"
+  },
+  {
+    "id": "425424",
+    "type": "link",
+    "title": "青蛙王国之奇幻女王历险",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/26/425424_z547h.jpg",
+    "releaseDate": "2023-04-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2023年4月1日 / 宋江波",
+    "link": "https://bgm.tv/subject/425424"
+  },
+  {
+    "id": "427943",
+    "type": "link",
+    "title": "花样河童 第14季",
+    "posterPath": null,
+    "releaseDate": "2023-04-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "30话 /  2023年4月3日 / のなかかずみ / あきやまただし / 林一哉",
+    "link": "https://bgm.tv/subject/427943"
+  },
+  {
+    "id": "429538",
+    "type": "link",
+    "title": "招柴",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/c2/429538_HZrR0.jpg",
+    "releaseDate": "2023-12-19",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "28话 /  2023年12月19日 / 俞晓天",
+    "link": "https://bgm.tv/subject/429538"
+  },
+  {
+    "id": "430029",
+    "type": "link",
+    "title": "史诗尾巴",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/72/aa/430029_B5Dn0.jpg",
+    "releaseDate": "2023-02-10",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2023年2月10日",
+    "link": "https://bgm.tv/subject/430029"
+  },
+  {
+    "id": "439214",
+    "type": "link",
+    "title": "红熊传奇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/40/439214_nw5Do.jpg",
+    "releaseDate": "2023-01-25",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2023年1月25日 / 박재범",
+    "link": "https://bgm.tv/subject/439214"
+  },
+  {
+    "id": "440074",
+    "type": "link",
+    "title": "纽约侠客行",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c9/14/440074_Nu807.jpg",
+    "releaseDate": "2023-08-10",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2023年8月10日(法国) / Jérémie Degruson",
+    "link": "https://bgm.tv/subject/440074"
+  },
+  {
+    "id": "441150",
+    "type": "link",
+    "title": "史努比秀 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/ab/441150_Gc9tT.jpg",
+    "releaseDate": "2023-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2023-06-09",
+    "link": "https://bgm.tv/subject/441150"
+  },
+  {
+    "id": "441825",
+    "type": "link",
+    "title": "陈小姐的森林",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/e3/441825_7VI72.jpg",
+    "releaseDate": "2023-06-11",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2023年6月11日 / Denis Do",
+    "link": "https://bgm.tv/subject/441825"
+  },
+  {
+    "id": "283886",
+    "type": "tmdb",
+    "title": "如福侍卫队",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hLECuV7O6BEY9z0dnDKBmC93elx.jpg",
+    "releaseDate": "2023-06-30",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "蹲守故都古籍图书馆屋檐多年的五只脊兽，因为战斗失利，坠入都市。九岁女孩徐菲菲，意外成为五个脊兽的新主人，组成如福侍卫队。菲菲和 如福侍卫队，一边解密如福的神秘使命，一边尝试解决身边都市和社区的各种奇葩小问题。哪里有需要，如福就出现哪里，学校，社区，都市，如福们尽心尽力，成为和谐社区的保护者。每一次，如福们的花样行动，都将为菲菲和同学们打开心扉，带来趣味神奇的故都历史，和保持初心的勇气和快乐。",
+    "link": null,
+    "tmdb_id": "283886",
+    "tmdb_site_id": "tv/283886",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "226684",
+    "type": "tmdb",
+    "title": "Acorda, Carlo!",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg",
+    "releaseDate": "2023-07-06",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "13话 /  2023年7月6日",
+    "link": null,
+    "tmdb_id": "226684",
+    "tmdb_site_id": "tv/226684",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "BR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "445284",
+    "type": "link",
+    "title": "乐一通 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/1d/445284_tJlFh.jpg",
+    "releaseDate": "2023-07-27",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2023年7月27日",
+    "link": "https://bgm.tv/subject/445284"
+  },
+  {
+    "id": "445680",
+    "type": "link",
+    "title": "熊熊帮帮团 第2季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/d7/445680_XKvOp.jpg",
+    "releaseDate": "2023-07-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "52话 /  2023年7月14日",
+    "link": "https://bgm.tv/subject/445680"
+  },
+  {
+    "id": "445878",
+    "type": "link",
+    "title": "豆吉豆子的家里蹲日常 第2弹",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/df/445878_8rk8P.jpg",
+    "releaseDate": "2023-05-17",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "39话 /  2023年5月17日 / 桑原智 / 「まめきちまめこ ニートの日常」まめきちまめこ / 茅原渡、[副]永尾真琴",
+    "link": "https://bgm.tv/subject/445878"
+  },
+  {
+    "id": "446035",
+    "type": "link",
+    "title": "间谍亚契 第十四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/80/446035_MOQMM.jpg",
+    "releaseDate": "2023-08-30",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "11话 /  2023年8月30日",
+    "link": "https://bgm.tv/subject/446035"
+  }
+]

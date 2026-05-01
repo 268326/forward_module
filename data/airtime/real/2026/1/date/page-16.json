@@ -1,0 +1,335 @@
+[
+  {
+    "id": "310633",
+    "type": "tmdb",
+    "title": "一点和平",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Kzj8rnCbGW9ggAJhMcK4dEM8Rt.jpg",
+    "releaseDate": "2026-03-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "神秘组织“凯撒军团”突然占领国会，日本陷入空前混乱。在人群四散逃命之际，黑岛、灰原、白间宫三人躲进备品室侥幸脱身。素不相识、性格各异的他们，却有一个共同点——彻底的“事不关己主义”。厌恶挑战、回避纷争、拒绝承担责任的三人，只希望每天平安无事地结束。然而命运却让他们一步步逼近国会占领事件的核心，被迫“稍微”参与到事件解决中来。想逃却逃不掉、不想插手却不断触及真相，一场既荒唐又好笑的非常骚动由此展开。",
+    "link": null,
+    "tmdb_id": "310633",
+    "tmdb_site_id": "tv/310633",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "369191",
+    "type": "link",
+    "title": "航海王 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/99/369191_N1rrT.jpg",
+    "releaseDate": "2026-03-10",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
+    "link": "https://bgm.tv/subject/369191"
+  },
+  {
+    "id": "625980",
+    "type": "link",
+    "title": "事件は、その周りで起きている シリーズ３",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/17/625980_7B5zY.jpg",
+    "releaseDate": "2026-03-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月9日 / 倉持裕 / 小芝風花、笠松将、中野周平(蛙亭)、倉科カナ、北村有起哉、向井理",
+    "link": "https://bgm.tv/subject/625980"
+  },
+  {
+    "id": "628427",
+    "type": "link",
+    "title": "超宇宙刑事卡邦 无限 补完搜查 卡邦的休班",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/b8/628427_2h1l1.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-03-08 / 宮﨑駿、山口恭平 / 樋口達人、森地夏美、山口宏、田倉まり",
+    "link": "https://bgm.tv/subject/628427"
+  },
+  {
+    "id": "634222",
+    "type": "link",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
+  },
+  {
+    "id": "635803",
+    "type": "link",
+    "title": "降幡 愛 5th Anniversary Concert – MOON PHASES -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/6a/635803_fE19U.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-03-08 / 降幡愛",
+    "link": "https://bgm.tv/subject/635803"
+  },
+  {
+    "id": "626499",
+    "type": "link",
+    "title": "ある小説家の日記",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/88/626499_UG6cD.jpg",
+    "releaseDate": "2026-03-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月8日 / 夏帆",
+    "link": "https://bgm.tv/subject/626499"
+  },
+  {
+    "id": "627515",
+    "type": "link",
+    "title": "吞雨",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8e/627515_Fuouo.jpg",
+    "releaseDate": "2026-03-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2026年3月7日 / 孙睿扬、魏一凡",
+    "link": "https://bgm.tv/subject/627515"
+  },
+  {
+    "id": "315217",
+    "type": "tmdb",
+    "title": "我收留了前男友的猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6XgS3dmznXeJB5r5UelDGApByRJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本作改编自石田祥的同名小说，主人公是在营业部主任岗位上忙碌工作的职业女性柴田雅基。职场中，虽然受到帅气后辈矢代笃的爱慕，她却因年龄与立场原因迟迟不敢迈出一步。此时，三年前分手的前男友突然来电，将一只年龄不详的“丑萌”猫咪·黄路托付给她，请求“仅照看两个月”。黄路是一只能用气味感知人类情感、操着关西腔直击雅基恋爱核心的“会说话的猫”。在黄路的推动下，雅基与矢代的距离逐渐拉近。最终，前男友托付猫咪的真正理由也将揭晓。",
+    "link": null,
+    "tmdb_id": "315217",
+    "tmdb_site_id": "tv/315217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "642434",
+    "type": "link",
+    "title": "ANIMAX MUSIX 2026 OSAKA supported by Lemino",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/46/642434_gNGJm.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-03-07 / 高橋洋子、i☆Ris、angela、上杉真央、オーイシマサヨシ（大石昌良）、大西亜玖璃、北宇治カルテット、GRANRODEO、佐々木李子、鈴木このみ、芹澤優 feat. MOTSU、TRUE（唐沢美帆）、虹ヶ咲学園スクールアイドル同好会、fripSide",
+    "link": "https://bgm.tv/subject/642434"
+  },
+  {
+    "id": "634031",
+    "type": "link",
+    "title": "機動戦士ガンダム 閃光のハサウェイ THE SOUND OF U.C.0105",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/cf/634031_z7F3W.jpg",
+    "releaseDate": "2026-03-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月7日",
+    "link": "https://bgm.tv/subject/634031"
+  },
+  {
+    "id": "139130",
+    "type": "tmdb",
+    "title": "跃动青春",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/07/7e/588190_RaLu4.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "1话 /  2026年3月6日 / TETSUHARU / 高橋亜子 / 清水美依紗、吉高志音（W主演）",
+    "link": null,
+    "tmdb_id": "139130",
+    "tmdb_site_id": "tv/139130",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "314582",
+    "type": "tmdb",
+    "title": "路地裏ホテル",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5AklrX4NnTyD8vp03qU7bkGE3P4.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "10话 /  2026年3月6日 / 頃安祐良、高橋栄樹、大内田龍馬 / 玉田真也、伊達さん、大野大輔、下田悠子 / 中嶋優月、村山美羽、小島凪紗、遠藤理子、石森璃花、谷口愛季、村井優、的野美青、小田倉麗奈、山下瞳月、向井純葉",
+    "link": null,
+    "tmdb_id": "314582",
+    "tmdb_site_id": "tv/314582",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "590022",
+    "type": "link",
+    "title": "暗黑新娘！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
+    "link": "https://bgm.tv/subject/590022"
+  },
+  {
+    "id": "281016",
+    "type": "tmdb",
+    "title": "订阅男友",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eKXpgaizikUIRuHs84THxoLvpCK.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "徐未来被工作压得喘不过气，谈恋爱？根本没空去想。一项虚拟约会服务却意外唤醒她的恋爱细胞，也许这就是真爱的开始。",
+    "link": null,
+    "tmdb_id": "281016",
+    "tmdb_site_id": "tv/281016",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "311900",
+    "type": "tmdb",
+    "title": "白蛇:浮生 ~巡りめぐる運命の赤い糸~ 公開記念スペシャル",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/fa/623256_eI8ia.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年3月6日 / ティンダン / 山﨑佐保子 / 生越千晴、小野花梨、小出水賢一郎、小野孝弘、泊帝、ししくら暁子、姫愛奈ラレイナ",
+    "link": null,
+    "tmdb_id": "311900",
+    "tmdb_site_id": "tv/311900",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "623257",
+    "type": "link",
+    "title": "エイン",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/88/623257_dmGtH.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年03月06日 / ティンダン / ティンダン / フォン・テェッキン・ウィン、ピイ・ピョオ・パイン、タ・タン・モウエ、スウィ・スウィ・ウィン、光石研",
+    "link": "https://bgm.tv/subject/623257"
+  },
+  {
+    "id": "279388",
+    "type": "tmdb",
+    "title": "逐玉",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
+    "link": null,
+    "tmdb_id": "279388",
+    "tmdb_site_id": "tv/279388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "617492",
+    "type": "link",
+    "title": "361 -White and Black-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8c/ad/617492_MlV50.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / 大山晃一郎 / 長野凌大（原因は自分にある。）",
+    "link": "https://bgm.tv/subject/617492"
+  },
+  {
+    "id": "632783",
+    "type": "link",
+    "title": "あの試合～3.11 再生のスタジアム～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/92/632783_EG7t7.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / 詩森ろば / 山本耕史",
+    "link": "https://bgm.tv/subject/632783"
+  },
+  {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
+    "id": "313902",
+    "type": "tmdb",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "link": null,
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314300",
+    "type": "tmdb",
+    "title": "旅行和我和猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nVe2KWwcTufzNpLMHyvTCRgYULZ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "拿着相机在全国各地旅行的旅行作家猫神守，有一个秘密，那就是“能和猫说话”。依靠这种不可思议的力量，猫神采访了旅途中遇到的猫们。在伊豆，他一边走访历史悠久的⽂化设施和海风吹拂的休憩广场等，一边听猫介绍“有很多⼈”的拉面店。猫神一边从猫咪们那里得到旅行的提示，一边在街上游览。被猫引导的猫神也悄悄地治愈了旅途中遇到的某人的心。",
+    "link": null,
+    "tmdb_id": "314300",
+    "tmdb_site_id": "tv/314300",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "255661",
+    "type": "tmdb",
+    "title": "青年夏洛克",
+    "posterPath": "https://image.tmdb.org/t/p/w500/beWoUmSdD8BHGmtodOoxVYQO6lG.jpg",
+    "releaseDate": "2026-03-04",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "这部玩世不恭、动作场面精彩的推理影集由盖瑞奇执导，讲述夏洛克福尔摩斯的传奇起源，描绘这位著名侦探最早期的冒险故事。",
+    "link": null,
+    "tmdb_id": "255661",
+    "tmdb_site_id": "tv/255661",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]

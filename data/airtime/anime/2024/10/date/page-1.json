@@ -1,16 +1,5 @@
 [
   {
-    "id": "620280",
-    "type": "link",
-    "title": "赛博斯拉夫",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/3a/620280_S23s6.jpg",
-    "releaseDate": "2024-12-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "8话 /  2024年12月31日 / Стас Дмитриев / Дмитрий Яковенко",
-    "link": "https://bgm.tv/subject/620280"
-  },
-  {
     "id": "531216",
     "type": "link",
     "title": "SFBC \"Fake\" Commercial Film",
@@ -22,15 +11,15 @@
     "link": "https://bgm.tv/subject/531216"
   },
   {
-    "id": "636079",
+    "id": "620280",
     "type": "link",
-    "title": "少年老子",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/4d/636079_liCxA.jpg",
-    "releaseDate": "2024-12-30",
+    "title": "赛博斯拉夫",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/3a/620280_S23s6.jpg",
+    "releaseDate": "2024-12-31",
     "mediaType": "anime",
     "rating": "",
-    "description": "26话 /  2024年12月30日 / 李萌",
-    "link": "https://bgm.tv/subject/636079"
+    "description": "8话 /  2024年12月31日 / Стас Дмитриев / Дмитрий Яковенко",
+    "link": "https://bgm.tv/subject/620280"
   },
   {
     "id": "493195",
@@ -42,6 +31,17 @@
     "rating": "6.9",
     "description": "1话 /  2024年12月30日 / 上海アリス幻樂団",
     "link": "https://bgm.tv/subject/493195"
+  },
+  {
+    "id": "636079",
+    "type": "link",
+    "title": "少年老子",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/4d/636079_liCxA.jpg",
+    "releaseDate": "2024-12-30",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "26话 /  2024年12月30日 / 李萌",
+    "link": "https://bgm.tv/subject/636079"
   },
   {
     "id": "535676",
@@ -66,6 +66,33 @@
     "link": "https://bgm.tv/subject/561780"
   },
   {
+    "id": "515154",
+    "type": "link",
+    "title": "育精",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2024-12-27",
+    "mediaType": "anime",
+    "rating": "2.7",
+    "description": "2话 /  2024年12月27日",
+    "link": "https://bgm.tv/subject/515154"
+  },
+  {
+    "id": "123542",
+    "type": "tmdb",
+    "title": "时光代理人 英都篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/c3/456165_lDd4o.jpg",
+    "releaseDate": "2024-12-27",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "6话 /  2024年12月27日 / 鲁元元 / 李豪凌 / 权恩京(권은경)、杨锐",
+    "link": null,
+    "tmdb_id": "123542",
+    "tmdb_site_id": "tv/123542/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "479011",
     "type": "link",
     "title": "是王者啊？ 第四季",
@@ -87,6 +114,8 @@
     "description": "1话 /  2024年12月27日 / レベルファイブ",
     "link": null,
     "tmdb_id": "1346722",
+    "tmdb_site_id": "movie/1346722",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -101,31 +130,8 @@
     "description": "1话 /  2024年12月27日 / 籔田修平 / レベルファイブ / 宮西多麻子",
     "link": null,
     "tmdb_id": "1346726",
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "515154",
-    "type": "link",
-    "title": "育精",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2024-12-27",
-    "mediaType": "anime",
-    "rating": "2.7",
-    "description": "2话 /  2024年12月27日",
-    "link": "https://bgm.tv/subject/515154"
-  },
-  {
-    "id": "123542/season/3",
-    "type": "tmdb",
-    "title": "时光代理人 英都篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/c3/456165_lDd4o.jpg",
-    "releaseDate": "2024-12-27",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "6话 /  2024年12月27日 / 鲁元元 / 李豪凌 / 权恩京(권은경)、杨锐",
-    "link": null,
-    "tmdb_id": "123542/season/3",
+    "tmdb_site_id": "movie/1346726",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -141,17 +147,6 @@
     "link": "https://bgm.tv/subject/531939"
   },
   {
-    "id": "531593",
-    "type": "link",
-    "title": "超级无敌掌门狗：企鹅的复仇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/49/531593_T7Rw0.jpg",
-    "releaseDate": "2024-12-25",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "1话 /  2024年12月25日",
-    "link": "https://bgm.tv/subject/531593"
-  },
-  {
     "id": "554235",
     "type": "link",
     "title": "下姜村的数字未来梦",
@@ -163,18 +158,15 @@
     "link": "https://bgm.tv/subject/554235"
   },
   {
-    "id": "1287324",
-    "type": "tmdb",
-    "title": "五等分的新娘＊",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/68/492352_4dkjc.jpg",
-    "releaseDate": "2024-12-23",
-    "mediaType": "movie",
-    "rating": "5.7",
-    "description": "2话 /  2024年12月23日 / 神保昌登 / 春場ねぎ「五等分の花嫁」 （講談社『週刊少年マガジン』） / 勝又聖人",
-    "link": null,
-    "tmdb_id": "1287324",
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "531593",
+    "type": "link",
+    "title": "超级无敌掌门狗：企鹅的复仇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/49/531593_T7Rw0.jpg",
+    "releaseDate": "2024-12-25",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "1话 /  2024年12月25日",
+    "link": "https://bgm.tv/subject/531593"
   },
   {
     "id": "530745",
@@ -188,6 +180,22 @@
     "link": "https://bgm.tv/subject/530745"
   },
   {
+    "id": "1287324",
+    "type": "tmdb",
+    "title": "五等分的新娘＊",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/68/492352_4dkjc.jpg",
+    "releaseDate": "2024-12-23",
+    "mediaType": "movie",
+    "rating": "5.7",
+    "description": "2话 /  2024年12月23日 / 神保昌登 / 春場ねぎ「五等分の花嫁」 （講談社『週刊少年マガジン』） / 勝又聖人",
+    "link": null,
+    "tmdb_id": "1287324",
+    "tmdb_site_id": "movie/1287324",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "465709",
     "type": "link",
     "title": "假如…？ 第三季",
@@ -197,17 +205,6 @@
     "rating": "4.3",
     "description": "8话 /  2024年12月22日",
     "link": "https://bgm.tv/subject/465709"
-  },
-  {
-    "id": "345774",
-    "type": "link",
-    "title": "全球高武",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/4a/345774_iJwYj.jpg",
-    "releaseDate": "2024-12-21",
-    "mediaType": "anime",
-    "rating": "4.3",
-    "description": "16话 /  2024年12月21日 / 王朋交 / 老鹰吃小鸡 / 叮当、张皓凝、罗琪、树头、阿仁、三川、十六、筱逸、李迪、萧楚笙、徐松涛、石隆卿、陈旭阳、张瀚文",
-    "link": "https://bgm.tv/subject/345774"
   },
   {
     "id": "506323",
@@ -221,7 +218,7 @@
     "link": "https://bgm.tv/subject/506323"
   },
   {
-    "id": "284880/season/2",
+    "id": "284880",
     "type": "tmdb",
     "title": "决斗大师 LOST ～月下的死神～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/b3/506773_ma6P1.jpg",
@@ -230,9 +227,40 @@
     "rating": "4.9",
     "description": "4话 /  2024年12月21日 / 福島利規 / 松本しげのぶ；作画：金林洋 （小学館「週刊コロコロコミック」連載） / 橋詰力",
     "link": null,
-    "tmdb_id": "284880/season/2",
+    "tmdb_id": "284880",
+    "tmdb_site_id": "tv/284880/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "279702",
+    "type": "tmdb",
+    "title": "全球高武",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ih4f690wAzLLKr24sTHUutJ1zXl.jpg",
+    "releaseDate": "2024-12-21",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "28岁的方平意外重生到了2008年的平行世界，回到了18岁高中时的自己。这是一个由武者体系构成的世界，在这里，武者拥有极高社会地位及权利。因前世战天帝的命运巧合，重生后的方平体内生成了武道系统，可通过接触任意价值的稀有道具转化为武道值，以超越常人的速度将骨骼、筋脉、肉身、气血、精神力等一系列能力提升。通过系统金手指及自身头脑，方平顺利进入摩都武科大学进修，在日后的岁月中，不断完成自我成长。面对未知的困境，他逐渐意识到武者需要承担的责任与守护亲情、友情、爱情的使命。",
+    "link": null,
+    "tmdb_id": "279702",
+    "tmdb_site_id": "tv/279702",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "449393",
+    "type": "link",
+    "title": "左手上篮 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/e9/449393_jDq5N.jpg",
+    "releaseDate": "2024-12-20",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "9话 /  2024年12月20日 / 刘泽弋、修佳轩、林珑、张晶、宗利争",
+    "link": "https://bgm.tv/subject/449393"
   },
   {
     "id": "400731",
@@ -256,6 +284,8 @@
     "description": "1话 /  2024年12月20日 / 藤森雅也 / 尼子騒兵衛「落第忍者乱太郎」",
     "link": null,
     "tmdb_id": "1279788",
+    "tmdb_site_id": "movie/1279788",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -269,16 +299,5 @@
     "rating": "",
     "description": "1话 /  2024年12月20日",
     "link": "https://bgm.tv/subject/564694"
-  },
-  {
-    "id": "546901",
-    "type": "link",
-    "title": "熊熊帮帮团 第3季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/67/546901_46z6D.jpg",
-    "releaseDate": "2024-12-20",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "26话 /  2024年12月20日",
-    "link": "https://bgm.tv/subject/546901"
   }
 ]

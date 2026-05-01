@@ -44,26 +44,40 @@
     "link": "https://bgm.tv/subject/408813"
   },
   {
-    "id": "544434",
-    "type": "link",
+    "id": "219246",
+    "type": "tmdb",
     "title": "苦尽柑来遇见你",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/b2/544434_9Kq9z.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ru98SmLQvKR8MMiqjpBXSfimZ0C.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "8.1",
-    "description": "16话 /  2025-03-07 / 김원석 / 임상춘 / 아이유、박보검、문소리、박해준",
-    "link": "https://bgm.tv/subject/544434"
+    "mediaType": "tv",
+    "rating": "8.7",
+    "description": "1950年代在济州岛出生的叛逆文学少女吴爱纯（李知恩 饰），自幼丧父，海女妈妈改嫁后为了养育女儿、家庭，就算肺和呼吸道不好，也还是天天下海，承担整个家庭的重担，妈妈还没等到爱纯为她买珍珠项链，就去世了。吴爱纯被寄养在重男轻女的叔叔家受尽苛待。后来她与青梅竹马梁宽植（朴宝剑 饰）相爱，被世俗的偏见阻挠，两人私奔又被现实毒打，婚后还面临婆家的刁难和经济困窘。但相爱的二人相互扶持，努力生活，最终让女儿走出济州岛成为职场女性。",
+    "link": null,
+    "tmdb_id": "219246",
+    "tmdb_site_id": "tv/219246",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "545304",
-    "type": "link",
+    "id": "295434",
+    "type": "tmdb",
     "title": "假面骑士ZZZ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d9/1e/545304_ltt5j.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rXXYuA15LBrcFqI2PbrcFpsIoYT.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.8",
-    "description": "2025-09-07 / 上堀内佳寿也、柏木宏紀、山口恭平、柴﨑貴行、葉山康一郎、杉原輝昭 / 高橋悠也",
-    "link": "https://bgm.tv/subject/545304"
+    "mediaType": "tv",
+    "rating": "9.3",
+    "description": "新时代的假面骑士，觉醒了。 他的名字是… 假面骑士ZZZ。 新假面骑士， 是在梦境世界战斗的特工！ 普通的青年在梦中摇身一变成为“无敌的特工”， 守护人类，对抗侵害现实世界的噩梦怪人“梦魇”！ 来吧，任务开始！",
+    "link": null,
+    "tmdb_id": "295434",
+    "tmdb_site_id": "tv/295434",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "505568",
@@ -77,26 +91,40 @@
     "link": "https://bgm.tv/subject/505568"
   },
   {
-    "id": "549329",
-    "type": "link",
+    "id": "242054",
+    "type": "tmdb",
     "title": "白宫杀人事件",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/9c/549329_pVSw2.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gPl1A1PkWmWeZwGtc54I5dXZ4Q4.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "8话 /  2025-03-20",
-    "link": "https://bgm.tv/subject/549329"
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "132间房间，157名嫌疑人，1具尸体，1位极古怪侦探，1场灾难级国宴。该剧以美国白宫为背景，这座世上最著名的官邸内，形形色色的员工穿梭楼上、楼下和后楼梯之间，展开各种荒诞怪事。",
+    "link": null,
+    "tmdb_id": "242054",
+    "tmdb_site_id": "tv/242054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "524089",
-    "type": "link",
+    "id": "276903",
+    "type": "tmdb",
     "title": "热点",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/2d/524089_HUehK.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vnGjkOA1cyvBo4Av8S5x738Rr7x.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.7",
-    "description": "10话 /  2025-01-12 / 水野格、山田信義、松田健斗 / バカリズム / 市川実日子",
-    "link": "https://bgm.tv/subject/524089"
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "在日本引以为豪的富士山山麓山梨县的某个小镇里，主人公·远藤清美（市川实日子 饰）是在商务酒店工作的单身母亲，某日意外地遇到了外星人，故事由此展开。如果她是一个单纯少女，她将与外星人建立友谊，为正义与巨恶战斗…的青春冒险剧即将开始，不过，经历了世间酸甜苦辣的成年人清美，在不得罪外星人的水平上请求其解决她工作和私人生活中的小事件……",
+    "link": null,
+    "tmdb_id": "276903",
+    "tmdb_site_id": "tv/276903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "573836",
@@ -132,26 +160,41 @@
     "link": "https://bgm.tv/subject/468418"
   },
   {
-    "id": "541745",
-    "type": "link",
+    "id": "287882",
+    "type": "tmdb",
     "title": "我的事说来话长～2025・春～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ea/541745_eaEjn.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ujF23O9Xmf9qmKxAoPcwIAgtjLr.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.7",
-    "description": "2话 /  2025-03-30 / 中島悟 / 金子茂樹 / 生田斗真",
-    "link": "https://bgm.tv/subject/541745"
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "　　岸边满（生田斗真 饰），36 岁，大学毕业后迷上了咖啡，并因此创业，但最终失败，成了一名无业的啃老族。尽管他内心也想有所改变，但一直靠着自己的“强项”——绝不在口角中认输的特殊能力，运用歪理诡辩来掩饰自己的颓废人生。姐姐绫子（小池荣子 饰）认为弟弟的歪理不过是“单纯的逃避现实”，并质问母亲房枝 （原田美枝子 饰），认为弟弟变成这样，母亲也负有责任。母亲被戳中痛处，内心动摇。\n\n　　五年前，岸边经历了一番波折后，成为了一名县议会议员的秘书，但很快又被解雇。于是，他再次回归寄生于经营咖啡店的母亲之下，继续着啃老族的生活。然而，此时家中传来了关于出售咖啡店和老家的消息。在一家人再度聚首，展开一场唇枪舌剑的诡辩大战之后，满能否摆脱废柴人生，迈向独立之路？",
+    "link": null,
+    "tmdb_id": "287882",
+    "tmdb_site_id": "tv/287882",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "546122",
-    "type": "link",
-    "title": "混沌少年时",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/17/546122_kia0H.jpg",
+    "id": "249042",
+    "type": "tmdb",
+    "title": "Adolescence",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nhiy3fHOxBRiQpQGK7WHogdMHga.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.6",
-    "description": "4话 /  2025-03-13",
-    "link": "https://bgm.tv/subject/546122"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "一名 13 岁少年被控谋杀同学，他的家人、治疗师和负责此案的警探都想探查事情真相。",
+    "link": null,
+    "tmdb_id": "249042",
+    "tmdb_site_id": "tv/249042",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "560263",
@@ -165,37 +208,58 @@
     "link": "https://bgm.tv/subject/560263"
   },
   {
-    "id": "577695",
-    "type": "link",
-    "title": "伴生动物",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/89/577695_JikSB.jpg",
+    "id": "298031",
+    "type": "tmdb",
+    "title": "伴人而生",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gARTR4ahHw9KwOdCCv6Gx3x8aZE.jpg",
     "releaseDate": "2025-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "12话 /  2025-10-06 / 山岸聖太 / 此元和津也 / 水上恒司",
-    "link": "https://bgm.tv/subject/577695"
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "　　故事舞台设在一间名为“Synanthrope”的小汉堡店。这里有八名年轻人打工，大学生都成剑之介（水上恒司 饰）暗暗喜欢着同事水町琴美（山田杏奈 饰）。某天，店里发生了一起扑朔迷离的抢劫案，平静的日常开始逐渐失衡。\n\n　　恋爱与友情、羁绊与背叛、命运与抉择——摇摆的人际关系与情感不断引来新的事件。什么是真实，什么是谎言？在都成的心意尽头，等待他的将是爱情，还是……",
+    "link": null,
+    "tmdb_id": "298031",
+    "tmdb_site_id": "tv/298031",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "483782",
-    "type": "link",
-    "title": "国宝",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/8f/483782_cUM3g.jpg",
+    "id": "307102",
+    "type": "tmdb",
+    "title": "国宝时刻",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vhBqlzIsQlmizHYcAT5bD4Xo5VW.jpg",
     "releaseDate": "2025-06-06",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "1话 /  2025年6月6日 / 李相日 / 吉沢亮",
-    "link": "https://bgm.tv/subject/483782"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。",
+    "link": null,
+    "tmdb_id": "307102",
+    "tmdb_site_id": "tv/307102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "560949",
-    "type": "link",
-    "title": "40岁以前想达成的10件事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/fd/560949_96MBz.jpg",
+    "id": "292544",
+    "type": "tmdb",
+    "title": "40岁前想要达成的10件事",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gUOcfwo2VnmIt0np7XNEHJwOkOw.jpg",
     "releaseDate": "2025-07-04",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "12话 /  2025年7月4日 / 池田千尋、小菅規照 / 齊藤よう / 風間俊介",
-    "link": "https://bgm.tv/subject/560949"
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "本剧改编自同名漫画，讲述了十条雀（风间俊介 饰）是个将满四十岁的“枯萎系”上司，十余年无恋情、生活一成不变。某天，他写下了“40岁前想做的10件事清单”，却意外被年下高大帅气部下田中庆司（庄司浩平 饰）看到。面对雀的慌乱，庆司提议：“这张清单，我们一起完成吧？”从此，两人开始共同实践清单，原本平淡的日常变得精彩纷呈，彼此的关系也悄然跨越年龄与职场的界限，展开一段温柔又微妙的办公室恋爱故事。",
+    "link": null,
+    "tmdb_id": "292544",
+    "tmdb_site_id": "tv/292544",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "383130",
@@ -252,6 +316,8 @@
     "description": "1话 /  2025年10月10日（日本） / 奥山由之 / 鈴木史子 / 松村北斗",
     "link": null,
     "tmdb_id": "38142",
+    "tmdb_site_id": "movie/38142",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

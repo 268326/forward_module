@@ -10,6 +10,8 @@
     "description": "12话 /  2024年7月7日 / 海華· はやせれく",
     "link": null,
     "tmdb_id": "256164",
+    "tmdb_site_id": "tv/256164",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -46,6 +48,8 @@
     "description": "24话 /  2024年7月5日 / 岡本英樹 / 橋本悠（集英社「少年ジャンプ＋」連載） / 下谷智之",
     "link": null,
     "tmdb_id": "216074",
+    "tmdb_site_id": "tv/216074",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -82,6 +86,8 @@
     "description": "12话 /  2024年1月10日 / 奥田佳子 / 豊田悠「30歳まで童貞だと魔法使いになれるらしい」（掲載「ガンガンpixiv」スクウェア・エニックス刊） / 岸田隆宏",
     "link": null,
     "tmdb_id": "237045",
+    "tmdb_site_id": "tv/237045",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -96,6 +102,8 @@
     "description": "1话 /  2024年12月13日 / 豊田悠「30歳まで童貞だと魔法使いになれるらしい」（掲載「ガンガンpixiv」スクウェア・エニックス刊）",
     "link": null,
     "tmdb_id": "1363560",
+    "tmdb_site_id": "movie/1363560",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -221,7 +229,7 @@
     "link": "https://bgm.tv/subject/501852"
   },
   {
-    "id": "94605/season/2",
+    "id": "94605",
     "type": "tmdb",
     "title": "英雄联盟：双城之战 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/fe/358801_f6nXW.jpg",
@@ -230,7 +238,9 @@
     "rating": "7.2",
     "description": "9话 /  2024年11月9日",
     "link": null,
-    "tmdb_id": "94605/season/2",
+    "tmdb_id": "94605",
+    "tmdb_site_id": "tv/94605/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -256,6 +266,8 @@
     "description": "13话 /  2024年7月13日 / 加藤誠 / 『ATRI -My Dear Moments-』（ANIPLEX.EXE） / サトウミチオ(佐藤道雄)",
     "link": null,
     "tmdb_id": "210875",
+    "tmdb_site_id": "tv/210875",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
