@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "537722",
     "bgm_score": 6.3,
-    "bgm_rating_total": 358,
+    "bgm_rating_total": 359,
     "bgm_weekday_id": 2,
     "tmdb_id": "284568",
     "tmdb_site_id": "tv/284568",
@@ -158,20 +158,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "627137",
-    "type": "link",
-    "title": "百鬼夜行抄",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/00/fe/627137_j1SHJ.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "anime",
-    "rating": "3.9",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/627137",
-    "bgm_id": "627137",
-    "bgm_score": 3.9,
-    "bgm_rating_total": 43,
-    "bgm_weekday_id": 2
   }
 ]

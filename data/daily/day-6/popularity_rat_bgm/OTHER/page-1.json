@@ -275,36 +275,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "520633",
-    "type": "link",
-    "title": "轻松熊",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/50/520633_szido.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/520633",
-    "bgm_id": "520633",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "582598",
-    "type": "link",
-    "title": "ねずみくんのチョッキ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/a6/582598_ceE9s.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/582598",
-    "bgm_id": "582598",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "629167",
     "type": "link",
     "title": "时光小剧场",

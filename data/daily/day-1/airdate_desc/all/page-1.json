@@ -35,19 +35,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "405232",
-    "type": "link",
+    "id": "317320",
+    "type": "tmdb",
     "title": "大道独行之蝶龙变",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b0/e1/405232_bUuUk.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qgrVf9iv1NFYYgPN7YH4W7Z89NG.jpg",
     "releaseDate": "2026-04-06",
-    "mediaType": "anime",
-    "rating": "4.4",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/405232",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "洛离从⼩被困于⽆灵之地银州⼤陆，成为天绝杀堂的第⼀杀⼿。⽗亲慈云⼤师牺牲⾃⼰为洛离换来⼀线⽣机，让其逃离银州，前往中天主世界去寻找真正的修仙之路。",
+    "link": null,
     "bgm_id": "405232",
     "bgm_score": 4.4,
     "bgm_rating_total": 5,
-    "bgm_weekday_id": 1
+    "bgm_weekday_id": 1,
+    "tmdb_id": "317320",
+    "tmdb_site_id": "tv/317320",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "288551",

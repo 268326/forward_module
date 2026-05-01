@@ -60,34 +60,48 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "621449",
-    "type": "link",
+    "id": "312383",
+    "type": "tmdb",
     "title": "Candy Caries 蛀在糖糖里",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/70/621449_01rvb.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a7sm6GnT2NfO9l7N4e8JGpYw7eN.jpg",
     "releaseDate": "2026-04-15",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/621449",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
+    "link": null,
     "bgm_id": "621449",
     "bgm_score": 6.1,
     "bgm_rating_total": 30,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 3,
+    "tmdb_id": "312383",
+    "tmdb_site_id": "tv/312383",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "625971",
-    "type": "link",
-    "title": "大贤者里德尔的时空逆行",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d8/34/625971_5wrja.jpg",
+    "id": "313395",
+    "type": "tmdb",
+    "title": "大贤者利多尔的时间逆行",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qoKRbr6jZGk7Fnn0J1IYCMryfHV.jpg",
     "releaseDate": "2026-04-01",
-    "mediaType": "anime",
-    "rating": "3.6",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/625971",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "在“第二轮的人生”中，夺回曾失去的一切！神秘组织“恶意之箱”夺走了青年里德尔的伙伴与世界。失去生存意义的他，在绝望边缘迎来最后的灵光一现：如果能回到一切尚未崩坏之前的时间呢？历经千年的苟延残喘、甚至因岁月侵蚀而化为异形的里德尔，终于成功施展“时间逆行”。“这一次……我一定要阻止一切！”带着千年的智慧与经验，重回年轻的身躯——大贤者里德尔的时间逆行之旅，正式展开！",
+    "link": null,
     "bgm_id": "625971",
     "bgm_score": 3.6,
     "bgm_rating_total": 33,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 3,
+    "tmdb_id": "313395",
+    "tmdb_site_id": "tv/313395",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "637591",
@@ -150,49 +164,70 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "282118",
-    "type": "link",
+    "id": "317727",
+    "type": "tmdb",
     "title": "七米神物语",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7c/53/282118_iM5mP.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nRRmaCqvKABY2jD6AHzCKPfyuvt.jpg",
     "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "3.8",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/282118",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "日本有“一粒米里住着七个神”的传说。米神（米女王）的孩子——越野家7姐妹。失踪的母亲和去寻找她的父亲。姐妹们努力找回破碎的家庭，通过各种各样的相遇和料理。学习食物的重要性并成长。",
+    "link": null,
     "bgm_id": "282118",
     "bgm_score": 3.8,
     "bgm_rating_total": 76,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "317727",
+    "tmdb_site_id": "tv/317727",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "395220",
-    "type": "link",
+    "id": "283805",
+    "type": "tmdb",
     "title": "盘龙",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e5/395220_QcmgC.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7pN2Q1xP5CVmrCraWxCrVjLPOMX.jpg",
     "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/395220",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
+    "link": null,
     "bgm_id": "395220",
     "bgm_score": 5.0,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "283805",
+    "tmdb_site_id": "tv/283805",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "406488",
-    "type": "link",
+    "id": "282136",
+    "type": "tmdb",
     "title": "将夜",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/12/ec/406488_YUXzx.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
     "releaseDate": "2026-04-23",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/406488",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
     "bgm_id": "406488",
     "bgm_score": 6.2,
     "bgm_rating_total": 16,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "487522",
@@ -360,19 +395,26 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "567418",
-    "type": "link",
+    "id": "316424",
+    "type": "tmdb",
     "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d5/a9/567418_LTStp.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
     "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/567418",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
+    "link": null,
     "bgm_id": "567418",
     "bgm_score": 4.9,
     "bgm_rating_total": 346,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "316424",
+    "tmdb_site_id": "tv/316424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "575559",

@@ -60,19 +60,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "621449",
-    "type": "link",
+    "id": "312383",
+    "type": "tmdb",
     "title": "Candy Caries 蛀在糖糖里",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/70/621449_01rvb.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a7sm6GnT2NfO9l7N4e8JGpYw7eN.jpg",
     "releaseDate": "2026-04-15",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/621449",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
+    "link": null,
     "bgm_id": "621449",
     "bgm_score": 6.1,
     "bgm_rating_total": 30,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 3,
+    "tmdb_id": "312383",
+    "tmdb_site_id": "tv/312383",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "638494",
