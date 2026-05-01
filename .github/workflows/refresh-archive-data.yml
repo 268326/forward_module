@@ -39,7 +39,7 @@ jobs:
           python scripts/build_data.py \
             --output-dir . \
             --current-year $(date +%Y) \
-            --archive-years $(python -c "from datetime import datetime; now=datetime.now(datetime.timezone.utc).year; print(','.join(str(y) for y in range(now - 1, max(now - 4, 1939), -1)))") \
+            --archive-years $(python -c "import datetime; now=datetime.datetime.now(datetime.timezone.utc).year; print(','.join(str(y) for y in range(now - 1, max(now - 4, 1939), -1)))") \
             --skip-recent \
             --skip-daily \
             --year-pages 3 \
