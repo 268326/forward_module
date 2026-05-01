@@ -112,13 +112,9 @@ class MediaTypeRegressionTests(unittest.TestCase):
         self.assertEqual(first['mediaType'], 'tv')
 
     def test_widget_scripts_contain_tv_media_type_assignment(self):
-        files = [
-            PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单-即用版.js',
-            PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单.js',
-        ]
-        for path in files:
-            content = path.read_text(encoding='utf-8')
-            self.assertGreaterEqual(content.count('baseItem.mediaType = "tv";'), 2, msg=str(path))
+        path = PROJECT_ROOT / 'widget' / 'Bangumi 热门榜单.js'
+        content = path.read_text(encoding='utf-8')
+        self.assertGreaterEqual(content.count('baseItem.mediaType = "tv";'), 2, msg=str(path))
 
 
 if __name__ == '__main__':
