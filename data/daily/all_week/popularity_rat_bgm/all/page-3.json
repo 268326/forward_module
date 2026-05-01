@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "570448",
     "bgm_score": 6.2,
-    "bgm_rating_total": 176,
+    "bgm_rating_total": 177,
     "bgm_weekday_id": 6,
     "tmdb_id": "295999",
     "tmdb_site_id": "tv/295999",
@@ -160,6 +160,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "316715",
+    "type": "tmdb",
+    "title": "这样高大的女孩子你喜欢吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/r3B29sbpSQL9IZ47Fs0Ftnz1Sj.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "“从今天起，你就是这里的宿舍管理员，兼任我们部的代理教练啦♪”\n\n因为姐姐薰的一句话，草太被迫成为了北英大学女子排球部的宿舍管理员兼教练。\n\n在那里，草太与初恋对象绫乃命运般地重逢了，然而……\n\n在女子宿舍！在体育馆！在酒店！？\n\n等待着他的是被一群身材比自己还高大的女孩子们耍得团圆转的日常！",
+    "link": null,
+    "bgm_id": "616453",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 93,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "316715",
+    "tmdb_site_id": "tv/316715",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "296870",
     "type": "tmdb",
     "title": "楠木邸的神明庭院",
@@ -178,28 +200,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "316715",
-    "type": "tmdb",
-    "title": "这样高大的女孩子你喜欢吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/r3B29sbpSQL9IZ47Fs0Ftnz1Sj.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "“从今天起，你就是这里的宿舍管理员，兼任我们部的代理教练啦♪”\n\n因为姐姐薰的一句话，草太被迫成为了北英大学女子排球部的宿舍管理员兼教练。\n\n在那里，草太与初恋对象绫乃命运般地重逢了，然而……\n\n在女子宿舍！在体育馆！在酒店！？\n\n等待着他的是被一群身材比自己还高大的女孩子们耍得团圆转的日常！",
-    "link": null,
-    "bgm_id": "616453",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 92,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "316715",
-    "tmdb_site_id": "tv/316715",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "37854",
