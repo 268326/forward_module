@@ -33,35 +33,13 @@
     "link": null,
     "bgm_id": "622634",
     "bgm_score": 4.6,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7,
     "tmdb_id": "312123",
     "tmdb_site_id": "tv/312123",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "299144",
-    "type": "tmdb",
-    "title": "轻松熊",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9yethYrSRGDGqAMJPwFAMXyehNn.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "无论是怎样的每一天，「拉拉熊」都会陪在你的身边。\n\n这一次，它将跳出日常，走进悠然展开的动画世界。\n\n那一段令人心情放松的轻盈时光。\n\n不管在哪里、在做什么，\n\n拉拉熊都会与你相随。\n\n一段崭新的开始，令人雀跃的故事。\n\n2026年的春天，请一定要来和「拉拉熊」相见喔。",
-    "link": null,
-    "bgm_id": "520633",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "299144",
-    "tmdb_site_id": "tv/299144",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "282136",
@@ -75,13 +53,35 @@
     "link": null,
     "bgm_id": "406488",
     "bgm_score": 6.2,
-    "bgm_rating_total": 17,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 4,
     "tmdb_id": "282136",
     "tmdb_site_id": "tv/282136",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "299144",
+    "type": "tmdb",
+    "title": "轻松熊",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9yethYrSRGDGqAMJPwFAMXyehNn.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "无论是怎样的每一天，「拉拉熊」都会陪在你的身边。\n\n这一次，它将跳出日常，走进悠然展开的动画世界。\n\n那一段令人心情放松的轻盈时光。\n\n不管在哪里、在做什么，\n\n拉拉熊都会与你相随。\n\n一段崭新的开始，令人雀跃的故事。\n\n2026年的春天，请一定要来和「拉拉熊」相见喔。",
+    "link": null,
+    "bgm_id": "520633",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299144",
+    "tmdb_site_id": "tv/299144",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -126,8 +126,8 @@
     "description": "随着小众的怪兽电影日趋没落，痴迷于怪兽片类型的导演——蒙奇，也对一直以来的坚持产生了迷惘……却没想到，有朝一日虚构的怪物竟然真实出现在他面前。为了能实现愿望，蒙奇决定与魔族少女莉雅合作，帮助她拍摄以魔族为主题的电影。然而跟随着拍摄进程，蒙奇却发现，异界的一切竟都与自己息息相关……",
     "link": null,
     "bgm_id": "456303",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 10,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 5,
     "tmdb_id": "320598",
     "tmdb_site_id": "tv/320598",
@@ -190,6 +190,43 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "283805",
+    "type": "tmdb",
+    "title": "盘龙",
+    "posterPath": "https://image.tmdb.org/t/p/w500/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
+    "link": null,
+    "bgm_id": "395220",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "283805",
+    "tmdb_site_id": "tv/283805",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "607043",
+    "type": "link",
+    "title": "小3阿贝 QQ小芝麻",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/607043",
+    "bgm_id": "607043",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "616378",
     "type": "link",
     "title": "小鲨鱼去郊游 第二季",
@@ -205,28 +242,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "283805",
-    "type": "tmdb",
-    "title": "盘龙",
-    "posterPath": "https://image.tmdb.org/t/p/w500/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
-    "link": null,
-    "bgm_id": "395220",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "283805",
-    "tmdb_site_id": "tv/283805",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "564361",
     "type": "link",
     "title": "怪奇物语：来自85年的故事",
@@ -240,21 +255,6 @@
     "bgm_score": 4.8,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "607043",
-    "type": "link",
-    "title": "小3阿贝 QQ小芝麻",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/607043",
-    "bgm_id": "607043",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
   },
   {
     "id": "624836",
