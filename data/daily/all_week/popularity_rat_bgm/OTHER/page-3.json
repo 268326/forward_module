@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "599171",
     "bgm_score": 5.3,
-    "bgm_rating_total": 146,
+    "bgm_rating_total": 148,
     "bgm_weekday_id": 6,
     "tmdb_id": "303460",
     "tmdb_site_id": "tv/303460",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "524486",
     "bgm_score": 6.6,
-    "bgm_rating_total": 112,
+    "bgm_rating_total": 113,
     "bgm_weekday_id": 6,
     "tmdb_id": "91801",
     "tmdb_site_id": "tv/91801/season/4",
@@ -111,7 +111,7 @@
     "link": null,
     "bgm_id": "631963",
     "bgm_score": 5.9,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 99,
     "bgm_weekday_id": 4,
     "tmdb_id": "35129",
     "tmdb_site_id": "tv/35129",
@@ -191,7 +191,7 @@
     "link": null,
     "bgm_id": "609175",
     "bgm_score": 5.5,
-    "bgm_rating_total": 73,
+    "bgm_rating_total": 74,
     "bgm_weekday_id": 5,
     "tmdb_id": "306121",
     "tmdb_site_id": "tv/306121",
@@ -271,7 +271,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.8,
-    "bgm_rating_total": 51,
+    "bgm_rating_total": 56,
     "bgm_weekday_id": 4
   },
   {
@@ -401,7 +401,7 @@
     "link": "http://bgm.tv/subject/487522",
     "bgm_id": "487522",
     "bgm_score": 7.0,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 4
   },
   {
