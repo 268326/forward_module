@@ -68,5 +68,20 @@
     "bgm_score": 5.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "646732",
+    "type": "link",
+    "title": "るーにー・てゅーんずごっこ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a5/42/646732_3gT8m.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/646732",
+    "bgm_id": "646732",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
   }
 ]

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "493724",
     "bgm_score": 7.4,
-    "bgm_rating_total": 774,
+    "bgm_rating_total": 778,
     "bgm_weekday_id": 4,
     "tmdb_id": "291403",
     "tmdb_site_id": "tv/291403",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "535669",
     "bgm_score": 6.8,
-    "bgm_rating_total": 685,
+    "bgm_rating_total": 693,
     "bgm_weekday_id": 4,
     "tmdb_id": "283428",
     "tmdb_site_id": "tv/283428",
@@ -51,7 +51,7 @@
     "link": "http://bgm.tv/subject/508004",
     "bgm_id": "508004",
     "bgm_score": 7.3,
-    "bgm_rating_total": 369,
+    "bgm_rating_total": 371,
     "bgm_weekday_id": 4
   },
   {
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "506149",
     "bgm_score": 5.1,
-    "bgm_rating_total": 261,
+    "bgm_rating_total": 263,
     "bgm_weekday_id": 4,
     "tmdb_id": "261780",
     "tmdb_site_id": "tv/261780",
@@ -126,7 +126,7 @@
     "link": null,
     "bgm_id": "516543",
     "bgm_score": 5.7,
-    "bgm_rating_total": 256,
+    "bgm_rating_total": 258,
     "bgm_weekday_id": 4,
     "tmdb_id": "273467",
     "tmdb_site_id": "tv/273467",
@@ -267,6 +267,21 @@
     "bgm_id": "639428",
     "bgm_score": 5.5,
     "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "646732",
+    "type": "link",
+    "title": "るーにー・てゅーんずごっこ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a5/42/646732_3gT8m.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/646732",
+    "bgm_id": "646732",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 4
   }
 ]
