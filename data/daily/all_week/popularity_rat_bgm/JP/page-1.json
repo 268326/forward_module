@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "609183",
     "bgm_score": 5.2,
-    "bgm_rating_total": 380,
+    "bgm_rating_total": 384,
     "bgm_weekday_id": 7,
     "tmdb_id": "315816",
     "tmdb_site_id": "tv/315816",
@@ -33,7 +33,7 @@
     "link": null,
     "bgm_id": "567418",
     "bgm_score": 4.8,
-    "bgm_rating_total": 358,
+    "bgm_rating_total": 361,
     "bgm_weekday_id": 4,
     "tmdb_id": "316424",
     "tmdb_site_id": "tv/316424",
@@ -66,6 +66,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "295357",
+    "type": "tmdb",
+    "title": "北斗神拳",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
+    "link": null,
+    "bgm_id": "454438",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 80,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "295357",
+    "tmdb_site_id": "tv/295357",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "317727",
     "type": "tmdb",
     "title": "七米神物语",
@@ -81,28 +103,6 @@
     "bgm_weekday_id": 4,
     "tmdb_id": "317727",
     "tmdb_site_id": "tv/317727",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "295357",
-    "type": "tmdb",
-    "title": "北斗神拳",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
-    "link": null,
-    "bgm_id": "454438",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 78,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "295357",
-    "tmdb_site_id": "tv/295357",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

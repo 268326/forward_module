@@ -101,6 +101,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "641036",
+    "type": "link",
+    "title": "牧神记4",
+    "posterPath": null,
+    "releaseDate": "2026-04-19",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/641036",
+    "bgm_id": "641036",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "320598",
     "type": "tmdb",
     "title": "开拍啦！怪兽大电影",
@@ -121,21 +136,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "641036",
-    "type": "link",
-    "title": "牧神记4",
-    "posterPath": null,
-    "releaseDate": "2026-04-19",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/641036",
-    "bgm_id": "641036",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 12,
-    "bgm_weekday_id": 7
   },
   {
     "id": "575244",
@@ -188,6 +188,21 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "553949",
+    "type": "link",
+    "title": "星球大战：摩尔 - 暗影领主",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/bb/a1/553949_6mfUc.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/553949",
+    "bgm_id": "553949",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 1
   },
   {
     "id": "283805",
@@ -270,21 +285,6 @@
     "bgm_score": 3.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "553949",
-    "type": "link",
-    "title": "星球大战：摩尔 - 暗影领主",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/bb/a1/553949_6mfUc.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "anime",
-    "rating": "4.3",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/553949",
-    "bgm_id": "553949",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 1
   },
   {
     "id": "639423",

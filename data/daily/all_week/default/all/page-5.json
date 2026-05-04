@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "623851",
     "bgm_score": 6.9,
-    "bgm_rating_total": 840,
+    "bgm_rating_total": 850,
     "bgm_weekday_id": 7,
     "tmdb_id": "312474",
     "tmdb_site_id": "tv/312474",
@@ -61,12 +61,12 @@
     "posterPath": null,
     "releaseDate": "2026-04-19",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/641036",
     "bgm_id": "641036",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 12,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7
   }
 ]
