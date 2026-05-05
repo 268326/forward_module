@@ -88,7 +88,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/c8/543589_aT033.jpg",
     "releaseDate": "2026-01-09",
     "mediaType": "anime",
-    "rating": "5.0",
+    "rating": "4.9",
     "description": "1话 /  2026年1月9日 / 桜坂洋『All You Need Is Kill』（集英社刊）",
     "link": "https://bgm.tv/subject/543589"
   },
@@ -115,15 +115,22 @@
     "link": "https://bgm.tv/subject/578262"
   },
   {
-    "id": "583729",
-    "type": "link",
-    "title": "BanG Dream! YUME∞MITA",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_V3KvR.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
-    "link": "https://bgm.tv/subject/583729"
+    "id": "300112",
+    "type": "tmdb",
+    "title": "バンドリ！ ゆめ∞みた",
+    "posterPath": "https://image.tmdb.org/t/p/w500/13CKWGOOoSvaarTkKDxbcJ3mfNB.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
+    "link": null,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "544378",
@@ -177,7 +184,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_qxqoG.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "8.9",
+    "rating": "9.0",
     "description": "2026年7月 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": "https://bgm.tv/subject/530725"
   },

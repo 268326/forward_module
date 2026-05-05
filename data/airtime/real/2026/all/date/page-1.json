@@ -132,6 +132,17 @@
     "link": "https://bgm.tv/subject/639278"
   },
   {
+    "id": "646304",
+    "type": "link",
+    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-11-03 / Diamond Dust",
+    "link": "https://bgm.tv/subject/646304"
+  },
+  {
     "id": "522524",
     "type": "link",
     "title": "哥斯拉-0.0",
@@ -232,6 +243,17 @@
     "link": "https://bgm.tv/subject/567892"
   },
   {
+    "id": "646585",
+    "type": "link",
+    "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/d6/646585_5SzI8.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-10-03 / 千賀光莉、本渡楓、東山奈央、石井あみ、熊田茜音、増井優花",
+    "link": "https://bgm.tv/subject/646585"
+  },
+  {
     "id": "630421",
     "type": "link",
     "title": "刀剣乱舞 - ICE BLADE -",
@@ -252,27 +274,5 @@
     "rating": "",
     "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
     "link": "https://bgm.tv/subject/642227"
-  },
-  {
-    "id": "645791",
-    "type": "link",
-    "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/15/645791_SOJt7.jpg",
-    "releaseDate": "2026-09-26",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年9月26日",
-    "link": "https://bgm.tv/subject/645791"
-  },
-  {
-    "id": "638983",
-    "type": "link",
-    "title": "藁にもすがる獣たち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
-    "link": "https://bgm.tv/subject/638983"
   }
 ]

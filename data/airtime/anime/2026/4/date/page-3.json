@@ -1,5 +1,16 @@
 [
   {
+    "id": "622206",
+    "type": "link",
+    "title": "尼古喵喵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+    "link": "https://bgm.tv/subject/622206"
+  },
+  {
     "id": "628212",
     "type": "link",
     "title": "小黄人与大怪兽",
@@ -105,7 +116,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "8.1",
+    "rating": "8.0",
     "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
     "link": "https://bgm.tv/subject/607915"
   },
@@ -141,6 +152,17 @@
     "rating": "",
     "description": "12话 /  2026年6月3日",
     "link": "https://bgm.tv/subject/527479"
+  },
+  {
+    "id": "646612",
+    "type": "link",
+    "title": "为何朝圣者去而不返",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/de/646612_izG2E.jpg",
+    "releaseDate": "2026-06-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月3日 / 허평강(許平康) / 김초엽(金草叶) / 위현송(魏贤松)",
+    "link": "https://bgm.tv/subject/646612"
   },
   {
     "id": "505562",
@@ -231,43 +253,14 @@
     "link": "https://bgm.tv/subject/555963"
   },
   {
-    "id": "217071",
+    "id": "646494",
     "type": "link",
-    "title": "机动警察 EZY 第一章",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg",
-    "releaseDate": "2026-05-15",
+    "title": "吃豆人：零食时间",
+    "posterPath": null,
+    "releaseDate": "2026-05-22",
     "mediaType": "anime",
     "rating": "",
-    "description": "3话 /  2026年5月15日",
-    "link": "https://bgm.tv/subject/217071"
-  },
-  {
-    "id": "551576",
-    "type": "link",
-    "title": "鬼泣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_MU7JU.jpg",
-    "releaseDate": "2026-05-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月12日",
-    "link": "https://bgm.tv/subject/551576"
-  },
-  {
-    "id": "256695",
-    "type": "tmdb",
-    "title": "天兵公园：追忆录影带",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
-    "releaseDate": "2026-05-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "鸟哥和阿天这对好朋友在当地的一个公园生活与工作。不知何故，他们平凡的工作总是演变成超现实的混乱局面，这让他们的老板和同事们非常恼火。",
-    "link": null,
-    "tmdb_id": "256695",
-    "tmdb_site_id": "tv/256695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
+    "description": "2026年5月22日 / Noah Pardo",
+    "link": "https://bgm.tv/subject/646494"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "645791",
+    "type": "link",
+    "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/15/645791_SOJt7.jpg",
+    "releaseDate": "2026-09-26",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年9月26日",
+    "link": "https://bgm.tv/subject/645791"
+  },
+  {
+    "id": "638983",
+    "type": "link",
+    "title": "藁にもすがる獣たち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
+    "link": "https://bgm.tv/subject/638983"
+  },
+  {
     "id": "633558",
     "type": "link",
     "title": "ナギダイアリー",
@@ -135,7 +157,7 @@
     "id": "639798",
     "type": "link",
     "title": "オルケリア1st LIVE「PRINCESS RESONANCE」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/72/639798_ad4z2.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/72/639798_lwKjh.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
@@ -240,27 +262,5 @@
     "rating": "",
     "description": "2话 /  2026年8月20日",
     "link": "https://bgm.tv/subject/632520"
-  },
-  {
-    "id": "639959",
-    "type": "link",
-    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
-    "link": "https://bgm.tv/subject/639959"
-  },
-  {
-    "id": "632945",
-    "type": "link",
-    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-08-16 / 大塚剛央（アクア役）、 伊駒ゆりえ（ルビー役）、 潘めぐみ（有馬かな役）、 大久保瑠美（MEMちょ役） 伊東健人（ゴロー役）、 高柳知葉（さりな役）",
-    "link": "https://bgm.tv/subject/632945"
   }
 ]

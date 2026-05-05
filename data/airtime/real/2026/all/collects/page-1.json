@@ -104,7 +104,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
     "releaseDate": "2026-01-23",
     "mediaType": "tv",
-    "rating": "9.0",
+    "rating": "8.9",
     "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
     "link": null,
     "tmdb_id": "279446",
@@ -149,17 +149,6 @@
     "link": "https://bgm.tv/subject/613881"
   },
   {
-    "id": "547412",
-    "type": "link",
-    "title": "如月千早武道館単独公演「OathONE」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/7e/547412_p26gX.jpg",
-    "releaseDate": "2026-01-24",
-    "mediaType": "real",
-    "rating": "8.8",
-    "description": "2话 /  2026年1月24日",
-    "link": "https://bgm.tv/subject/547412"
-  },
-  {
     "id": "638448",
     "type": "link",
     "title": "迈克尔·杰克逊：巨星之路",
@@ -169,6 +158,17 @@
     "rating": "7.0",
     "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
     "link": "https://bgm.tv/subject/638448"
+  },
+  {
+    "id": "547412",
+    "type": "link",
+    "title": "如月千早武道館単独公演「OathONE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/7e/547412_p26gX.jpg",
+    "releaseDate": "2026-01-24",
+    "mediaType": "real",
+    "rating": "8.8",
+    "description": "2话 /  2026年1月24日",
+    "link": "https://bgm.tv/subject/547412"
   },
   {
     "id": "620937",
@@ -191,6 +191,24 @@
     "rating": "6.0",
     "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
     "link": "https://bgm.tv/subject/620971"
+  },
+  {
+    "id": "304194",
+    "type": "tmdb",
+    "title": "重启",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
+    "link": null,
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "306207",
@@ -229,31 +247,13 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "304194",
-    "type": "tmdb",
-    "title": "重启",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
-    "link": null,
-    "tmdb_id": "304194",
-    "tmdb_site_id": "tv/304194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "312723",
     "type": "tmdb",
     "title": "牙狼＜GARO＞ 东之界楼",
     "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
     "releaseDate": "2026-01-29",
     "mediaType": "tv",
-    "rating": "10.0",
+    "rating": "8.5",
     "description": "2026年1月29日 / 鈴村正樹、木村好克、田口清隆 / 鴨義信、江良至 / 栗山航、南里美希",
     "link": null,
     "tmdb_id": "312723",

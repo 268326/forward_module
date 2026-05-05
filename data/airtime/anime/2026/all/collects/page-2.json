@@ -38,7 +38,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_YX4Yb.jpg",
     "releaseDate": "2026-02-21",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "1话 /  2026年2月21日 / 浅野直之",
     "link": "https://bgm.tv/subject/616383"
   },
@@ -155,22 +155,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "255064",
-    "type": "tmdb",
-    "title": "达尔文事变",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/af/495531_W0D3B.jpg",
-    "releaseDate": "2026-01-06",
-    "mediaType": "tv",
-    "rating": "2.7",
-    "description": "13话 /  2026年1月6日 / 津田尚克 / うめざわしゅん（講談社「アフタヌーン」連載） / 友岡新平",
-    "link": null,
-    "tmdb_id": "255064",
-    "tmdb_site_id": "tv/255064",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "88046",
     "type": "tmdb",
     "title": "炎炎消防队 叁之章 第2部分",
@@ -183,6 +167,22 @@
     "tmdb_id": "88046",
     "tmdb_site_id": "tv/88046/season/3",
     "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "255064",
+    "type": "tmdb",
+    "title": "达尔文事变",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/af/495531_W0D3B.jpg",
+    "releaseDate": "2026-01-06",
+    "mediaType": "tv",
+    "rating": "2.7",
+    "description": "13话 /  2026年1月6日 / 津田尚克 / うめざわしゅん（講談社「アフタヌーン」連載） / 友岡新平",
+    "link": null,
+    "tmdb_id": "255064",
+    "tmdb_site_id": "tv/255064",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -305,22 +305,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "276110",
-    "type": "tmdb",
-    "title": "阿尔涅的事件簿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3f/22/523141_ifKkU.jpg",
-    "releaseDate": "2026-01-06",
-    "mediaType": "tv",
-    "rating": "4.5",
-    "description": "12话 /  2026年1月6日 / 井上圭介 / 春紫（ゲームマガジン） / 佐藤秋子、三好裕理",
-    "link": null,
-    "tmdb_id": "276110",
-    "tmdb_site_id": "tv/276110",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "208493",
     "type": "tmdb",
     "title": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP",
@@ -333,6 +317,22 @@
     "tmdb_id": "208493",
     "tmdb_site_id": "tv/208493/season/0",
     "tmdb_season_number": 0,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "276110",
+    "type": "tmdb",
+    "title": "阿尔涅的事件簿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3f/22/523141_ifKkU.jpg",
+    "releaseDate": "2026-01-06",
+    "mediaType": "tv",
+    "rating": "4.5",
+    "description": "12话 /  2026年1月6日 / 井上圭介 / 春紫（ゲームマガジン） / 佐藤秋子、三好裕理",
+    "link": null,
+    "tmdb_id": "276110",
+    "tmdb_site_id": "tv/276110",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

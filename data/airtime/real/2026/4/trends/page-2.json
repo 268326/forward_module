@@ -1,32 +1,43 @@
 [
   {
-    "id": "314752",
-    "type": "tmdb",
-    "title": "Den giftige tvivl",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2d9Y0KlP6mBFUsQHfiEM9mWxNCq.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "2026-04-12 / 平野俊一、加藤尚樹、伊藤弘晃 / 金沢知樹 / 堤真一",
-    "link": null,
-    "tmdb_id": "314752",
-    "tmdb_site_id": "tv/314752",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "DK"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "630987",
+    "id": "620937",
     "type": "link",
-    "title": "未解决之女 警视厅文件搜查官 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/5f/630987_1VJRg.jpg",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
+    "rating": "8.0",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
+  },
+  {
+    "id": "609282",
+    "type": "link",
+    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "real",
     "rating": "",
-    "description": "2026-04-16 / 田村直己、樹下直美、常廣丈太 / 大森美香 / 鈴木京香",
-    "link": "https://bgm.tv/subject/630987"
+    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
+    "link": "https://bgm.tv/subject/609282"
+  },
+  {
+    "id": "314461",
+    "type": "tmdb",
+    "title": "夫妇别姓刑警",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lkicvMYppX831aWn0OcGRFNZWVk.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事设定在东京中野的沼袋警察署，佐藤二朗和桥本爱饰演一对配合默契的刑警搭档，但他俩其实是合法夫妻。因为警局有“夫妻不能同部门”的潜规则，为了不被拆散，两人只能隐瞒关系，在这个“职场”里装作只是普通同事。",
+    "link": null,
+    "tmdb_id": "314461",
+    "tmdb_site_id": "tv/314461",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "320988",
@@ -65,15 +76,51 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "637701",
+    "id": "278573",
+    "type": "tmdb",
+    "title": "21世纪大君夫人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+    "link": null,
+    "tmdb_id": "278573",
+    "tmdb_site_id": "tv/278573",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "613912",
     "type": "link",
-    "title": "为全人类 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/35/637701_8g6Pm.jpg",
+    "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/d5/613912_r38YL.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  March 27, 2026 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
-    "link": "https://bgm.tv/subject/637701"
+    "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
+    "link": "https://bgm.tv/subject/613912"
+  },
+  {
+    "id": "279446",
+    "type": "tmdb",
+    "title": "太平年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+    "releaseDate": "2026-01-23",
+    "mediaType": "tv",
+    "rating": "8.9",
+    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
+    "link": null,
+    "tmdb_id": "279446",
+    "tmdb_site_id": "tv/279446",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "634222",
@@ -87,80 +134,15 @@
     "link": "https://bgm.tv/subject/634222"
   },
   {
-    "id": "609282",
+    "id": "540469",
     "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
+    "title": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/66/540469_MhD5o.jpg",
+    "releaseDate": "2026-02-28",
     "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
-  },
-  {
-    "id": "314461",
-    "type": "tmdb",
-    "title": "夫妇别姓刑警",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lkicvMYppX831aWn0OcGRFNZWVk.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事设定在东京中野的沼袋警察署，佐藤二朗和桥本爱饰演一对配合默契的刑警搭档，但他俩其实是合法夫妻。因为警局有“夫妻不能同部门”的潜规则，为了不被拆散，两人只能隐瞒关系，在这个“职场”里装作只是普通同事。",
-    "link": null,
-    "tmdb_id": "314461",
-    "tmdb_site_id": "tv/314461",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "279388",
-    "type": "tmdb",
-    "title": "逐玉",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
-    "link": null,
-    "tmdb_id": "279388",
-    "tmdb_site_id": "tv/279388",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "626308",
-    "type": "link",
-    "title": "Liella!的星手教程！！ 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/b6/626308_IZFPG.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-04-01 / Liella! （伊達さゆり（澁谷かのん役）、Liyuu（唐 可可役）、岬なこ（嵐 千砂都役）、ペイトン尚未（平安名すみれ役）、青山なぎさ（葉月 恋役）、鈴原希実（桜小路きな子役）、薮島朱音（米女メイ役）、大熊和奏（若菜四季役）、絵森彩（鬼塚夏美役）、結那（ウィーン・マルガレーテ役）、坂倉花（鬼塚冬毬役））",
-    "link": "https://bgm.tv/subject/626308"
-  },
-  {
-    "id": "279446",
-    "type": "tmdb",
-    "title": "太平年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
-    "link": null,
-    "tmdb_id": "279446",
-    "tmdb_site_id": "tv/279446",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "rating": "9.6",
+    "description": "1话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/540469"
   },
   {
     "id": "614611",
@@ -174,33 +156,22 @@
     "link": "https://bgm.tv/subject/614611"
   },
   {
-    "id": "315508",
+    "id": "314460",
     "type": "tmdb",
-    "title": "被出轨方的复仇～结成同盟的妻子们～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/d85OCcAH9032m8KgqE2MWeuZmK1.jpg",
-    "releaseDate": "2026-04-01",
+    "title": "如果爱上了终结者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gZB2DG7g4sLtY3Gwk5zbdd4STFM.jpg",
+    "releaseDate": "2026-04-04",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "本作改编自きら作画、双葉葵原案的同名漫画，讲述了三位“被出轨妻子”为向出轨丈夫复仇而组成“复仇同盟”的故事。主妇岸本奈津子在婚后面对逐渐变为精神虐待丈夫的义隆，生活消磨殆尽。某日她撞见义隆将出轨对象带回家中，再也无法忍受而冲出家门。此时大学时代的朋友远藤佳乃突然联系她，邀约见面后发现大学学妹早乙女丽奈也在场，三人皆直面丈夫出轨的背叛。于是她们结成复仇同盟，誓对各自丈夫展开“交换复仇”。",
+    "description": "来自400年后未来的高性能安卓时泽艾塔（宫馆凉太 饰）被传送到现代，任务是保护被不明势力盯上的少女漫画编辑神尾胡桃（臼田麻美 饰）。毫不知情的胡桃正因工作调动与生活压力而焦头烂额，艾塔则暗中监视、分析她，甚至以新人兼职身份潜入她的编辑部。言行完全不像人类的艾塔让胡桃困惑不已，但在她遭遇重大危机时，艾塔以超乎想象的方式出手相救，两人也因此开始同住一个屋檐下。随着相处加深，拼命守护她的艾塔让胡桃逐渐心动，而本不具备“恋爱程序”的艾塔也开始产生异常情感。在守护任务与逐渐萌生的感情之间，一段跨越人类与安卓的科幻恋爱喜剧由此展开。",
     "link": null,
-    "tmdb_id": "315508",
-    "tmdb_site_id": "tv/315508",
+    "tmdb_id": "314460",
+    "tmdb_site_id": "tv/314460",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "540469",
-    "type": "link",
-    "title": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/66/540469_MhD5o.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "9.6",
-    "description": "1话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/540469"
   },
   {
     "id": "313899",
@@ -221,17 +192,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "314642",
+    "id": "314364",
     "type": "tmdb",
-    "title": "为时已是寿司！？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4agYiViMdpyklindbiUJTEFrVCC.jpg",
+    "title": "时光代理人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aB4fF9AuwkvAF8NbpTRcTxtAE7.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "丈夫去世后独自抚养儿子长大的50岁女性待山凑（永作博美 饰），在儿子独立离家后突然失去生活重心。迷茫之际，她意外进入一所“三个月速成寿司职人”的寿司学院学习。面对严肃古板、对寿司抱有极高自尊的男讲师大江户海弥（松山研一 饰），以及性格各异的同学们，凑在手忙脚乱中重新找回生活节奏，也逐渐思考“为自己而活”的意义。与此同时，她与那位总是与自己意见相左的寿司讲师之间，关系悄然发生变化，一段迟来的成年人恋爱也在不知不觉中展开。",
+    "rating": "7.0",
+    "description": "《时光代理人》是由汤浅弘章执导，富冈淳广、土城温美编剧，佐藤大树与本乡奏多主演的电视剧作品。该剧于2026年4月11日首播，全剧共10集。",
     "link": null,
-    "tmdb_id": "314642",
-    "tmdb_site_id": "tv/314642",
+    "tmdb_id": "314364",
+    "tmdb_site_id": "tv/314364",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -239,73 +210,74 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "638448",
+    "id": "625097",
     "type": "link",
-    "title": "迈克尔·杰克逊：巨星之路",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
-    "releaseDate": "2026-04-24",
-    "mediaType": "real",
-    "rating": "7.0",
-    "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
-    "link": "https://bgm.tv/subject/638448"
-  },
-  {
-    "id": "638564",
-    "type": "link",
-    "title": "失控的她 -离越狱还有××天- 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/40/d9/638564_pWnKg.jpg",
+    "title": "假面骑士ZZZ Into the Dream",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2a/625097_IV4z5.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "5话 /  2026-03-29 / 中茎強、茂山佳則、保母海里風 / 當銘啓太 / 篠原涼子",
-    "link": "https://bgm.tv/subject/638564"
+    "description": "2话 /  2026-05-03 / 内藤祐介（Show Part） / 今井竜太郎、堀口真帆、三嶋健太、小貫莉奈、八木美樹、NAQT VANE、BACK-ON、MC：篠宮暁",
+    "link": "https://bgm.tv/subject/625097"
   },
   {
-    "id": "280632",
+    "id": "630987",
+    "type": "link",
+    "title": "未解决之女 警视厅文件搜查官 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/5f/630987_1VJRg.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-04-16 / 田村直己、樹下直美、常廣丈太 / 大森美香 / 鈴木京香",
+    "link": "https://bgm.tv/subject/630987"
+  },
+  {
+    "id": "320075",
     "type": "tmdb",
-    "title": "成何体统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-    "releaseDate": "2026-02-06",
+    "title": "麦卡托·骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gNpQAqBSOGUDVuZIpauHK2bgSD0.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.4",
-    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+    "rating": "0.0",
+    "description": "人气女作家（恒松祐里）向恶名昭彰的私家侦探麦卡托（水泽林太郎）提出调查委托，称“自己可能正遭人追杀”。每天送达的神秘扑克牌仿佛预示着“杀人倒计时”，这究竟意味着什么……？麦卡托与他的助手兼作家美袋三条（须贺健太）的推理锋芒毕露——。",
     "link": null,
-    "tmdb_id": "280632",
-    "tmdb_site_id": "tv/280632",
+    "tmdb_id": "320075",
+    "tmdb_site_id": "tv/320075",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "626308",
+    "type": "link",
+    "title": "Liella!的星手教程！！ 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/b6/626308_IZFPG.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-04-01 / Liella! （伊達さゆり（澁谷かのん役）、Liyuu（唐 可可役）、岬なこ（嵐 千砂都役）、ペイトン尚未（平安名すみれ役）、青山なぎさ（葉月 恋役）、鈴原希実（桜小路きな子役）、薮島朱音（米女メイ役）、大熊和奏（若菜四季役）、絵森彩（鬼塚夏美役）、結那（ウィーン・マルガレーテ役）、坂倉花（鬼塚冬毬役））",
+    "link": "https://bgm.tv/subject/626308"
+  },
+  {
+    "id": "307624",
+    "type": "tmdb",
+    "title": "初三的六一儿童节",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jpknCMUda40QosQNXdBDSZiRhBF.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.7",
+    "description": "80年代的香港蛟龙城寨，黑帮横行、警界腐败。城寨里唯一的大学生何初三，原本只想奋力读书、离开这片泥淖，却因黑帮的计画，被副堂主夏六一强行拉入局中。随着阴谋与权力暗潮汹涌，两人从被迫合作到并肩复仇，一个是腹黑深情的金融操盘手，一个是野性温柔的黑道红棍，在这座无法无天的城寨里，他们在黑白边缘相爱，能为对方杀出一条生路？",
+    "link": null,
+    "tmdb_id": "307624",
+    "tmdb_site_id": "tv/307624",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "HK",
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "642741",
-    "type": "link",
-    "title": "人人都在与自己的无价值感作斗争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/c4/642741_c3137.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-04-18 / 차영훈 / 구교환",
-    "link": "https://bgm.tv/subject/642741"
   },
   {
     "id": "305227",
@@ -314,11 +286,58 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/dAiJlvQx5xb5RHVwoXX7SXoJq3M.jpg",
     "releaseDate": "2026-01-04",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "8.6",
     "description": "本剧描述天下人丰臣秀吉之弟，武将丰臣秀长的一生；以其视角描述丰臣兄弟凭借兄弟之间的深厚羁绊完成天下统一伟业的奇迹，另外也动态地描绘战国时代的丰富多彩的娱乐事迹！",
     "link": null,
     "tmdb_id": "305227",
     "tmdb_site_id": "tv/305227",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316205",
+    "type": "tmdb",
+    "title": "极致复仇：舍弃面容的家政妇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gwoYkyT1XaE6BhHEUP7DrFPX4w3.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "主人公望美原本与丈夫良一即将迎来孩子，沉浸在幸福之中，却在一次旅行中遭遇事故。当她醒来时，才得知腹中的孩子已经死产，而时间已过去整整四年。更残酷的是，这四年间良一早已与她离婚，并迎娶了大企业千金绘梨华。就在望美试图接受现实之时，她意外发现当年的事故其实是良一与绘梨华联手策划的杀人计划。得知真相后，她决心复仇。为了接近两人，望美改名换脸，以全新的身份潜入他们的家中成为家政妇。表面上她只是沉默工作的家政人员，暗地里却一步步布下复仇的棋局，誓要让毁掉自己人生的人付出代价。",
+    "link": null,
+    "tmdb_id": "316205",
+    "tmdb_site_id": "tv/316205",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "614123",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_fNF4n.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
+  },
+  {
+    "id": "315508",
+    "type": "tmdb",
+    "title": "被出轨方的复仇～结成同盟的妻子们～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/d85OCcAH9032m8KgqE2MWeuZmK1.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本作改编自きら作画、双葉葵原案的同名漫画，讲述了三位“被出轨妻子”为向出轨丈夫复仇而组成“复仇同盟”的故事。主妇岸本奈津子在婚后面对逐渐变为精神虐待丈夫的义隆，生活消磨殆尽。某日她撞见义隆将出轨对象带回家中，再也无法忍受而冲出家门。此时大学时代的朋友远藤佳乃突然联系她，邀约见面后发现大学学妹早乙女丽奈也在场，三人皆直面丈夫出轨的背叛。于是她们结成复仇同盟，誓对各自丈夫展开“交换复仇”。",
+    "link": null,
+    "tmdb_id": "315508",
+    "tmdb_site_id": "tv/315508",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -335,24 +354,5 @@
     "rating": "",
     "description": "2026年4月 / 白石晃士 / 窪塚洋介、亀梨和也",
     "link": "https://bgm.tv/subject/621437"
-  },
-  {
-    "id": "307624",
-    "type": "tmdb",
-    "title": "初三的六一儿童节",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jpknCMUda40QosQNXdBDSZiRhBF.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.8",
-    "description": "80年代的香港蛟龙城寨，黑帮横行、警界腐败。城寨里唯一的大学生何初三，原本只想奋力读书、离开这片泥淖，却因黑帮的计画，被副堂主夏六一强行拉入局中。随着阴谋与权力暗潮汹涌，两人从被迫合作到并肩复仇，一个是腹黑深情的金融操盘手，一个是野性温柔的黑道红棍，在这座无法无天的城寨里，他们在黑白边缘相爱，能为对方杀出一条生路？",
-    "link": null,
-    "tmdb_id": "307624",
-    "tmdb_site_id": "tv/307624",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN",
-      "HK"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

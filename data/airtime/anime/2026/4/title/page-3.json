@@ -179,6 +179,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "646494",
+    "type": "link",
+    "title": "吃豆人：零食时间",
+    "posterPath": null,
+    "releaseDate": "2026-05-22",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年5月22日 / Noah Pardo",
+    "link": "https://bgm.tv/subject/646494"
+  },
+  {
     "id": "640588",
     "type": "link",
     "title": "Paper Trail",
@@ -269,7 +280,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/a4/638494_E7Ieh.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "anime",
-    "rating": "6.1",
+    "rating": "6.2",
     "description": "2026年4月8日 / 芦名みのる / 長月達平(MF文庫J「Re:ゼロから始める異世界生活」／KADOKAWA刊) / 小角色设定：たけはらみのる",
     "link": "https://bgm.tv/subject/638494"
   },
@@ -288,16 +299,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633836",
-    "type": "link",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
   }
 ]

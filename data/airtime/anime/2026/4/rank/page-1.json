@@ -97,7 +97,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "8.1",
+    "rating": "8.0",
     "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
     "link": "https://bgm.tv/subject/607915"
   },
@@ -199,25 +199,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
     "releaseDate": "2026-01-30",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
     "link": "https://bgm.tv/subject/243430"
-  },
-  {
-    "id": "229858",
-    "type": "tmdb",
-    "title": "Fate/strange Fake",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_CNG0F.jpg",
-    "releaseDate": "2026-01-03",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "13话 /  2026年1月3日 / 榎戸駿・坂詰嵩仁 / 成田良悟・TYPE-MOON『Fate/strange Fake』（電撃文庫刊） / 山田有慶",
-    "link": null,
-    "tmdb_id": "229858",
-    "tmdb_site_id": "tv/229858",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "291403",
@@ -247,6 +231,22 @@
     "link": null,
     "tmdb_id": "65942",
     "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "229858",
+    "type": "tmdb",
+    "title": "Fate/strange Fake",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_CNG0F.jpg",
+    "releaseDate": "2026-01-03",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "13话 /  2026年1月3日 / 榎戸駿・坂詰嵩仁 / 成田良悟・TYPE-MOON『Fate/strange Fake』（電撃文庫刊） / 山田有慶",
+    "link": null,
+    "tmdb_id": "229858",
+    "tmdb_site_id": "tv/229858",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -312,7 +312,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
     "releaseDate": "2026-03-02",
     "mediaType": "tv",
-    "rating": "8.1",
+    "rating": "8.0",
     "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
     "link": null,
     "tmdb_id": "298026",
@@ -335,21 +335,19 @@
     "link": "https://bgm.tv/subject/505401"
   },
   {
-    "id": "312822",
+    "id": "312522",
     "type": "tmdb",
-    "title": "扮演姐姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/co2Klo3rcKtkALR15IP0CwOhyjM.jpg",
-    "releaseDate": "2026-01-31",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "4.0",
-    "description": "遥远的未来。在被都市高度发达的科技所遗忘的郊外山村“镜见村”。\n\n在这个流传着“如果不乖乖听话，‘那个长得一模一样的人’就会找上门来”这一古老传说的村子里，住着一名初中生——日暮红（Akane）。她正满心期待着与时隔一年终于出院的姐姐日暮翠（Sui）重逢。\n\n然而，就在姐姐出院没过多久，红接到了一通电话。\n\n“在那个家里的，不是你姐姐。”",
+    "rating": "7.1",
+    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
     "link": null,
-    "tmdb_id": "312822",
-    "tmdb_site_id": "tv/312822",
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

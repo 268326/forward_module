@@ -274,14 +274,21 @@
     "link": "https://bgm.tv/subject/616616"
   },
   {
-    "id": "511177",
-    "type": "link",
-    "title": "被流放的转生重骑士用游戏知识开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_cul57.jpg",
+    "id": "300112",
+    "type": "tmdb",
+    "title": "バンドリ！ ゆめ∞みた",
+    "posterPath": "https://image.tmdb.org/t/p/w500/13CKWGOOoSvaarTkKDxbcJ3mfNB.jpg",
     "releaseDate": "2026-07-02",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
-    "link": "https://bgm.tv/subject/511177"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
+    "link": null,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

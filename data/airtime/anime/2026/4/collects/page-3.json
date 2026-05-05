@@ -1,16 +1,5 @@
 [
   {
-    "id": "423036",
-    "type": "link",
-    "title": "中国奇谭 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/84/423036_H88sl.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
-    "link": "https://bgm.tv/subject/423036"
-  },
-  {
     "id": "154526",
     "type": "tmdb",
     "title": "极速车魂 第三季",
@@ -25,6 +14,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "423036",
+    "type": "link",
+    "title": "中国奇谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/84/423036_H88sl.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
+    "link": "https://bgm.tv/subject/423036"
   },
   {
     "id": "90937",
@@ -49,7 +49,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
     "releaseDate": "2026-01-30",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
     "link": "https://bgm.tv/subject/243430"
   },
@@ -92,6 +92,22 @@
     "link": "https://bgm.tv/subject/618795"
   },
   {
+    "id": "283905",
+    "type": "tmdb",
+    "title": "上伊那牡丹，酒醉身姿似百合花般",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
+    "link": null,
+    "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "284495",
     "type": "tmdb",
     "title": "异世界的安泰全看社畜",
@@ -130,7 +146,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
     "releaseDate": "2026-02-26",
     "mediaType": "tv",
-    "rating": "8.6",
+    "rating": "8.7",
     "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
     "link": null,
     "tmdb_id": "300054",
@@ -140,22 +156,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "283905",
-    "type": "tmdb",
-    "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
-    "link": null,
-    "tmdb_id": "283905",
-    "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "255492",
@@ -172,6 +172,24 @@
     "tmdb_season_number": 0,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "508004",
@@ -201,17 +219,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "274141",
+    "id": "65942",
     "type": "tmdb",
-    "title": "优雅贵族的休假指南。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg",
-    "releaseDate": "2026-01-07",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "5.2",
-    "description": "12话 /  2026年1月7日 / 能田健太 / 岬（TOブックス刊） / 藤原彰人",
+    "rating": "7.4",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
-    "tmdb_id": "274141",
-    "tmdb_site_id": "tv/274141",
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -233,6 +251,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "274141",
+    "type": "tmdb",
+    "title": "优雅贵族的休假指南。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg",
+    "releaseDate": "2026-01-07",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "12话 /  2026年1月7日 / 能田健太 / 岬（TOブックス刊） / 藤原彰人",
+    "link": null,
+    "tmdb_id": "274141",
+    "tmdb_site_id": "tv/274141",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "295483",
     "type": "tmdb",
     "title": "被邻国王子溺爱的反派女主",
@@ -249,29 +283,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "72517",
     "type": "tmdb",
     "title": "欢迎来到实力至上主义教室 第四季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
     "releaseDate": "2026-04-01",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.1",
     "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
     "link": null,
     "tmdb_id": "72517",
@@ -292,24 +310,6 @@
     "link": "https://bgm.tv/subject/541814"
   },
   {
-    "id": "298026",
-    "type": "tmdb",
-    "title": "放开那个女巫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
-    "releaseDate": "2026-03-02",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
-    "link": null,
-    "tmdb_id": "298026",
-    "tmdb_site_id": "tv/298026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "515869",
     "type": "link",
     "title": "剧场版 我心里危险的东西",
@@ -319,22 +319,6 @@
     "rating": "7.0",
     "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
     "link": "https://bgm.tv/subject/515869"
-  },
-  {
-    "id": "305163",
-    "type": "tmdb",
-    "title": "打工仔的拷问日常",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/21/565444_jNexE.jpg",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "4.0",
-    "description": "12话 /  2026年1月4日 / 追崎史敏 / 次見やをら（白泉社「ヤングアニマルWeb」連載） / 渋谷秀",
-    "link": null,
-    "tmdb_id": "305163",
-    "tmdb_site_id": "tv/305163",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "305329",
@@ -348,6 +332,22 @@
     "link": null,
     "tmdb_id": "305329",
     "tmdb_site_id": "tv/305329",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305163",
+    "type": "tmdb",
+    "title": "打工仔的拷问日常",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/21/565444_jNexE.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "12话 /  2026年1月4日 / 追崎史敏 / 次見やをら（白泉社「ヤングアニマルWeb」連載） / 渋谷秀",
+    "link": null,
+    "tmdb_id": "305163",
+    "tmdb_site_id": "tv/305163",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
