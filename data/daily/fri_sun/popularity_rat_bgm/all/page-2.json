@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "599171",
     "bgm_score": 5.2,
-    "bgm_rating_total": 152,
+    "bgm_rating_total": 153,
     "bgm_weekday_id": 6,
     "tmdb_id": "303460",
     "tmdb_site_id": "tv/303460",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "524486",
     "bgm_score": 6.6,
-    "bgm_rating_total": 118,
+    "bgm_rating_total": 119,
     "bgm_weekday_id": 6,
     "tmdb_id": "91801",
     "tmdb_site_id": "tv/91801/season/4",
@@ -113,7 +113,7 @@
     "link": null,
     "bgm_id": "602059",
     "bgm_score": 7.8,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 7,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854/season/23",
@@ -133,7 +133,7 @@
     "link": null,
     "bgm_id": "454438",
     "bgm_score": 6.6,
-    "bgm_rating_total": 83,
+    "bgm_rating_total": 84,
     "bgm_weekday_id": 5,
     "tmdb_id": "295357",
     "tmdb_site_id": "tv/295357",
@@ -190,7 +190,7 @@
     "link": null,
     "bgm_id": "495238",
     "bgm_score": 7.1,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 40,
     "bgm_weekday_id": 7,
     "tmdb_id": "60761",
     "tmdb_site_id": "tv/60761/season/4",
@@ -241,6 +241,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "320598",
+    "type": "tmdb",
+    "title": "开拍啦！怪兽大电影",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a8DLcMDcNDx31cKderfdGbKLBHk.jpg",
+    "releaseDate": "2026-04-24",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "随着小众的怪兽电影日趋没落，痴迷于怪兽片类型的导演——蒙奇，也对一直以来的坚持产生了迷惘……却没想到，有朝一日虚构的怪物竟然真实出现在他面前。为了能实现愿望，蒙奇决定与魔族少女莉雅合作，帮助她拍摄以魔族为主题的电影。然而跟随着拍摄进程，蒙奇却发现，异界的一切竟都与自己息息相关……",
+    "link": null,
+    "bgm_id": "456303",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 14,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "320598",
+    "tmdb_site_id": "tv/320598",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "641036",
     "type": "link",
     "title": "牧神记4",
@@ -256,40 +278,18 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "320598",
-    "type": "tmdb",
-    "title": "开拍啦！怪兽大电影",
-    "posterPath": "https://image.tmdb.org/t/p/w500/a8DLcMDcNDx31cKderfdGbKLBHk.jpg",
-    "releaseDate": "2026-04-24",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "随着小众的怪兽电影日趋没落，痴迷于怪兽片类型的导演——蒙奇，也对一直以来的坚持产生了迷惘……却没想到，有朝一日虚构的怪物竟然真实出现在他面前。为了能实现愿望，蒙奇决定与魔族少女莉雅合作，帮助她拍摄以魔族为主题的电影。然而跟随着拍摄进程，蒙奇却发现，异界的一切竟都与自己息息相关……",
-    "link": null,
-    "bgm_id": "456303",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 13,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "320598",
-    "tmdb_site_id": "tv/320598",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "575244",
     "type": "link",
     "title": "沧元图 第三季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/4a/575244_8OmeD.jpg",
     "releaseDate": "2026-04-03",
     "mediaType": "anime",
-    "rating": "5.3",
+    "rating": "5.4",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/575244",
     "bgm_id": "575244",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 9,
+    "bgm_score": 5.4,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 5
   },
   {
@@ -323,6 +323,28 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "299962",
+    "type": "tmdb",
+    "title": "ねずみくんのチョッキ",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jci1UzaAZeT38UpakXIGvE9lGlC.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "582598",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299962",
+    "tmdb_site_id": "tv/299962",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "624836",
     "type": "link",
     "title": "新幹線変形ロボ シンカリオン 特別ダイヤ版",
@@ -351,28 +373,6 @@
     "bgm_score": 5.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "299962",
-    "type": "tmdb",
-    "title": "ねずみくんのチョッキ",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jci1UzaAZeT38UpakXIGvE9lGlC.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "582598",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "299962",
-    "tmdb_site_id": "tv/299962",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "629167",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "643061",
+    "type": "link",
+    "title": "小猫凯文",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/e8/643061_FEiYz.jpg",
+    "releaseDate": "2026-04-20",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/643061",
+    "bgm_id": "643061",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "638082",
     "type": "link",
     "title": "ほっかいどうぶつ",
@@ -10,21 +25,6 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/638082",
     "bgm_id": "638082",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "643061",
-    "type": "link",
-    "title": "小猫凯文",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/e8/643061_FEiYz.jpg",
-    "releaseDate": "2026-04-20",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/643061",
-    "bgm_id": "643061",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
