@@ -35,28 +35,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "315816",
-    "type": "tmdb",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
-    "link": null,
-    "bgm_id": "609183",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 394,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "315816",
-    "tmdb_site_id": "tv/315816",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "316715",
     "type": "tmdb",
     "title": "这样高大的女孩子你喜欢吗？",
@@ -110,7 +88,7 @@
     "link": null,
     "bgm_id": "506149",
     "bgm_score": 5.1,
-    "bgm_rating_total": 265,
+    "bgm_rating_total": 266,
     "bgm_weekday_id": 4,
     "tmdb_id": "261780",
     "tmdb_site_id": "tv/261780",
@@ -130,13 +108,35 @@
     "link": null,
     "bgm_id": "606263",
     "bgm_score": 5.1,
-    "bgm_rating_total": 1440,
+    "bgm_rating_total": 1447,
     "bgm_weekday_id": 6,
     "tmdb_id": "305329",
     "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "bgm_id": "609183",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 397,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "316427",
@@ -165,7 +165,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
     "releaseDate": "2026-04-30",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "8.0",
     "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
     "link": null,
     "bgm_id": "395220",
@@ -177,28 +177,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316424",
-    "type": "tmdb",
-    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
-    "link": null,
-    "bgm_id": "567418",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 364,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "316424",
-    "tmdb_site_id": "tv/316424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -218,6 +196,28 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "316424",
+    "type": "tmdb",
+    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
+    "link": null,
+    "bgm_id": "567418",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 366,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "316424",
+    "tmdb_site_id": "tv/316424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "312293",
     "type": "tmdb",
     "title": "又被杀掉了呢，侦探大人",
@@ -229,7 +229,7 @@
     "link": null,
     "bgm_id": "608227",
     "bgm_score": 4.8,
-    "bgm_rating_total": 329,
+    "bgm_rating_total": 332,
     "bgm_weekday_id": 4,
     "tmdb_id": "312293",
     "tmdb_site_id": "tv/312293",
@@ -333,7 +333,7 @@
     "link": null,
     "bgm_id": "600675",
     "bgm_score": 4.2,
-    "bgm_rating_total": 292,
+    "bgm_rating_total": 293,
     "bgm_weekday_id": 7,
     "tmdb_id": "303796",
     "tmdb_site_id": "tv/303796",
@@ -412,7 +412,7 @@
     "link": null,
     "bgm_id": "533027",
     "bgm_score": 3.6,
-    "bgm_rating_total": 200,
+    "bgm_rating_total": 201,
     "bgm_weekday_id": 5,
     "tmdb_id": "96316",
     "tmdb_site_id": "tv/96316",
