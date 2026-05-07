@@ -42,6 +42,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "282136",
+    "type": "tmdb",
+    "title": "将夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
+    "bgm_id": "406488",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 19,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "299144",
     "type": "tmdb",
     "title": "轻松熊",
@@ -64,26 +86,19 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "282136",
-    "type": "tmdb",
-    "title": "将夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
-    "releaseDate": "2026-04-23",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
-    "link": null,
-    "bgm_id": "406488",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282136",
-    "tmdb_site_id": "tv/282136",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "637591",
+    "type": "link",
+    "title": "遮天 第四季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ba/b7/637591_YJ8p8.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/637591",
+    "bgm_id": "637591",
+    "bgm_score": 7.4,
+    "bgm_rating_total": 16,
+    "bgm_weekday_id": 3
   },
   {
     "id": "320598",
@@ -106,21 +121,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "637591",
-    "type": "link",
-    "title": "遮天 第四季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ba/b7/637591_YJ8p8.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/637591",
-    "bgm_id": "637591",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 15,
-    "bgm_weekday_id": 3
   },
   {
     "id": "641036",

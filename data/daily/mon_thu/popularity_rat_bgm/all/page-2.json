@@ -26,12 +26,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/9a/51/604307_0uM64.jpg",
     "releaseDate": "2026-04-01",
     "mediaType": "tv",
-    "rating": "6.3",
+    "rating": "6.2",
     "description": "[星期三]",
     "link": null,
     "bgm_id": "604307",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 247,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 250,
     "bgm_weekday_id": 3,
     "tmdb_id": "304820",
     "tmdb_site_id": "tv/304820",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "610703",
     "bgm_score": 5.4,
-    "bgm_rating_total": 140,
+    "bgm_rating_total": 139,
     "bgm_weekday_id": 2,
     "tmdb_id": "306790",
     "tmdb_site_id": "tv/306790",
@@ -98,6 +98,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/575559",
+    "bgm_id": "575559",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 81,
+    "bgm_weekday_id": 4
   },
   {
     "id": "213326",
@@ -140,21 +155,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/575559",
-    "bgm_id": "575559",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 77,
-    "bgm_weekday_id": 4
   },
   {
     "id": "274671",
@@ -227,11 +227,33 @@
     "description": "律从已故祖父那里继承了不可思议灵力，以及一位名为蓝风暴的恶魔守护者。某一次，他梦见了童年的往事。在梦中，为了躲避妖魔的觊觎，年幼的律被迫打扮成女孩子的模样，却仍差点遭到一名少女幽灵的袭击。就在不久后的某一天，律亲眼目睹那名幽灵混在母亲茶道教室的学生群中，潜入了家中。正当律试图查明对方的真面目时，却在名为“捉迷藏”的游戏中，被灵体夺走了左眼！？奇怪的事情似乎总是围绕着他们两人发生，而揭开所有这些神秘事件真相的重任就落在了他们身上。每个故事都是独立的，但其中穿插着一些会逐渐熟悉并喜爱的角色，他们各自以不同的方式应对着“非此世之事”。",
     "link": null,
     "bgm_id": "627137",
-    "bgm_score": 3.8,
-    "bgm_rating_total": 50,
+    "bgm_score": 3.7,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 2,
     "tmdb_id": "318478",
     "tmdb_site_id": "tv/318478",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312383",
+    "type": "tmdb",
+    "title": "Candy Caries 蛀在糖糖里",
+    "posterPath": "https://image.tmdb.org/t/p/w500/737z5CJ4VDSIBJtzLY00xKVa7zW.jpg",
+    "releaseDate": "2026-04-15",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
+    "link": null,
+    "bgm_id": "621449",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 38,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "312383",
+    "tmdb_site_id": "tv/312383",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -252,28 +274,6 @@
     "bgm_score": 6.2,
     "bgm_rating_total": 36,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "312383",
-    "type": "tmdb",
-    "title": "Candy Caries 蛀在糖糖里",
-    "posterPath": "https://image.tmdb.org/t/p/w500/737z5CJ4VDSIBJtzLY00xKVa7zW.jpg",
-    "releaseDate": "2026-04-15",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
-    "link": null,
-    "bgm_id": "621449",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 35,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "312383",
-    "tmdb_site_id": "tv/312383",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "313395",
@@ -309,7 +309,7 @@
     "link": null,
     "bgm_id": "406488",
     "bgm_score": 6.3,
-    "bgm_rating_total": 18,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 4,
     "tmdb_id": "282136",
     "tmdb_site_id": "tv/282136",
@@ -326,12 +326,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ba/b7/637591_YJ8p8.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "7.4",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/637591",
     "bgm_id": "637591",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 15,
+    "bgm_score": 7.4,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 3
   },
   {
