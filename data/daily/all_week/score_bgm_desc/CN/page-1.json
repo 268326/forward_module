@@ -1,5 +1,27 @@
 [
   {
+    "id": "282136",
+    "type": "tmdb",
+    "title": "将夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
+    "bgm_id": "406488",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "320598",
     "type": "tmdb",
     "title": "开拍啦！怪兽大电影",
@@ -15,28 +37,6 @@
     "bgm_weekday_id": 5,
     "tmdb_id": "320598",
     "tmdb_site_id": "tv/320598",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "282136",
-    "type": "tmdb",
-    "title": "将夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
-    "releaseDate": "2026-04-23",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
-    "link": null,
-    "bgm_id": "406488",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 19,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282136",
-    "tmdb_site_id": "tv/282136",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"

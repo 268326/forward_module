@@ -1,21 +1,5 @@
 [
   {
-    "id": "284447",
-    "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
-    "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "284568",
     "type": "tmdb",
     "title": "复制品的我也会谈恋爱。",
@@ -48,6 +32,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "300126",
+    "type": "tmdb",
+    "title": "欺诈游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
+    "link": null,
+    "tmdb_id": "300126",
+    "tmdb_site_id": "tv/300126",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -57,22 +57,6 @@
     "rating": "7.3",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": "https://bgm.tv/subject/508004"
-  },
-  {
-    "id": "288659",
-    "type": "tmdb",
-    "title": "春夏秋冬代行者 春之舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg",
-    "releaseDate": "2026-03-28",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "14话 /  2026年3月28日 / 山本健 / 暁佳奈（電撃文庫/KADOKAWA刊） / 鳥井なみこ",
-    "link": null,
-    "tmdb_id": "288659",
-    "tmdb_site_id": "tv/288659",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278043",
@@ -86,22 +70,6 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "305567",
-    "type": "tmdb",
-    "title": "左撇子艾伦",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/6c/409468_xxw82.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "13话 /  2026年4月7日 / 鈴木利正 / かっぴー / 福地祐香、玉井あかね",
-    "link": null,
-    "tmdb_id": "305567",
-    "tmdb_site_id": "tv/305567",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -123,22 +91,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "154743",
-    "type": "tmdb",
-    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
-    "link": null,
-    "tmdb_id": "154743",
-    "tmdb_site_id": "tv/154743/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "253476",
     "type": "tmdb",
     "title": "异国日记",
@@ -155,15 +107,52 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
+    "id": "288659",
+    "type": "tmdb",
+    "title": "春夏秋冬代行者 春之舞",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg",
+    "releaseDate": "2026-03-28",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "14话 /  2026年3月28日 / 山本健 / 暁佳奈（電撃文庫/KADOKAWA刊） / 鳥井なみこ",
+    "link": null,
+    "tmdb_id": "288659",
+    "tmdb_site_id": "tv/288659",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305567",
+    "type": "tmdb",
+    "title": "左撇子艾伦",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/6c/409468_xxw82.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "13话 /  2026年4月7日 / 鈴木利正 / かっぴー / 福地祐香、玉井あかね",
+    "link": null,
+    "tmdb_id": "305567",
+    "tmdb_site_id": "tv/305567",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "154743",
+    "type": "tmdb",
+    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
+    "link": null,
+    "tmdb_id": "154743",
+    "tmdb_site_id": "tv/154743/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "300131",
@@ -177,6 +166,33 @@
     "link": null,
     "tmdb_id": "300131",
     "tmdb_site_id": "tv/300131",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "283888",
+    "type": "tmdb",
+    "title": "库兹马唱歌的话家里哆啰啰",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/69/493804_Wn16U.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月9日 / 野亦則行 / 紺野アキラ（小学館「ゲッサン」連載） / 三橋桜子",
+    "link": null,
+    "tmdb_id": "283888",
+    "tmdb_site_id": "tv/283888",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -214,26 +230,10 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283888",
-    "type": "tmdb",
-    "title": "库兹马唱歌的话家里哆啰啰",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/69/493804_Wn16U.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年4月9日 / 野亦則行 / 紺野アキラ（小学館「ゲッサン」連載） / 三橋桜子",
-    "link": null,
-    "tmdb_id": "283888",
-    "tmdb_site_id": "tv/283888",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "303870",
     "type": "tmdb",
     "title": "雾尾粉丝后援会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_iFG6q.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
     "rating": "6.6",
@@ -310,24 +310,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "316424",
-    "type": "tmdb",
-    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
-    "link": null,
-    "tmdb_id": "316424",
-    "tmdb_site_id": "tv/316424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "229858",
     "type": "tmdb",
     "title": "Fate/strange Fake",
@@ -358,6 +340,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "316424",
+    "type": "tmdb",
+    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ggrW5FRPFFjNFPZCkJ0VmlKIWw2.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
+    "link": null,
+    "tmdb_id": "316424",
+    "tmdb_site_id": "tv/316424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "91768",
