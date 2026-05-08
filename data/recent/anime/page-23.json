@@ -240,15 +240,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "458926",
-    "type": "link",
+    "id": "281233",
+    "type": "tmdb",
     "title": "光阴之外",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/f6/458926_0qw05.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/n5GdyNVU3YmooHyagI55BSpuzmc.jpg",
     "releaseDate": "2025-12-28",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "26话 /  2025年12月28日 / 张富鑫、张帅、于斌",
-    "link": "https://bgm.tv/subject/458926"
+    "mediaType": "tv",
+    "rating": "9.7",
+    "description": "末世之中异兽横行、资源匮乏，人类在废墟中挣扎求生。贫民窟出身的许青，因神秘紫水晶获得修行机缘，从拾荒者起步，加入七血瞳势力，历经小队厮杀、宗门斗争、秘境探索，凭借《金乌炼万灵》功法炼化万族天赋，一路突破至筑基境。",
+    "link": null,
+    "tmdb_id": "281233",
+    "tmdb_site_id": "tv/281233",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "96316",
