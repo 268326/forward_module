@@ -96,7 +96,7 @@
     "description": "随着小众的怪兽电影日趋没落，痴迷于怪兽片类型的导演——蒙奇，也对一直以来的坚持产生了迷惘……却没想到，有朝一日虚构的怪物竟然真实出现在他面前。为了能实现愿望，蒙奇决定与魔族少女莉雅合作，帮助她拍摄以魔族为主题的电影。然而跟随着拍摄进程，蒙奇却发现，异界的一切竟都与自己息息相关……",
     "link": null,
     "bgm_id": "456303",
-    "bgm_score": 6.3,
+    "bgm_score": 6.4,
     "bgm_rating_total": 17,
     "bgm_weekday_id": 5,
     "tmdb_id": "320598",
@@ -294,6 +294,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "629167",
+    "type": "link",
+    "title": "时光小剧场",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c1/aa/629167_Ufh6n.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/629167",
+    "bgm_id": "629167",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "624836",
     "type": "link",
     "title": "新幹線変形ロボ シンカリオン 特別ダイヤ版",
@@ -337,21 +352,6 @@
     "bgm_score": 5.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "629167",
-    "type": "link",
-    "title": "时光小剧场",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c1/aa/629167_Ufh6n.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/629167",
-    "bgm_id": "629167",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
   },
   {
     "id": "641486",

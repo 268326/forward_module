@@ -1,21 +1,5 @@
 [
   {
-    "id": "284568",
-    "type": "tmdb",
-    "title": "复制品的我也会谈恋爱。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
-    "link": null,
-    "tmdb_id": "284568",
-    "tmdb_site_id": "tv/284568",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "273467",
     "type": "tmdb",
     "title": "女骑士成为蛮族新娘",
@@ -27,6 +11,33 @@
     "link": null,
     "tmdb_id": "273467",
     "tmdb_site_id": "tv/273467",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
+    "id": "284568",
+    "type": "tmdb",
+    "title": "复制品的我也会谈恋爱。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
+    "link": null,
+    "tmdb_id": "284568",
+    "tmdb_site_id": "tv/284568",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -46,17 +57,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
   },
   {
     "id": "278043",
@@ -107,33 +107,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "288659",
+    "id": "300131",
     "type": "tmdb",
-    "title": "春夏秋冬代行者 春之舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg",
-    "releaseDate": "2026-03-28",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "14话 /  2026年3月28日 / 山本健 / 暁佳奈（電撃文庫/KADOKAWA刊） / 鳥井なみこ",
-    "link": null,
-    "tmdb_id": "288659",
-    "tmdb_site_id": "tv/288659",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "305567",
-    "type": "tmdb",
-    "title": "左撇子艾伦",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/6c/409468_xxw82.jpg",
-    "releaseDate": "2026-04-07",
+    "title": "杀手青春",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/a9/581284_8Kv7i.jpg",
+    "releaseDate": "2026-04-11",
     "mediaType": "tv",
     "rating": "6.2",
-    "description": "13话 /  2026年4月7日 / 鈴木利正 / かっぴー / 福地祐香、玉井あかね",
+    "description": "12话 /  2026年4月11日 / 井出安軌 / 藤巻忠俊（集英社ジャンプコミックス刊） / 大導寺美穂",
     "link": null,
-    "tmdb_id": "305567",
-    "tmdb_site_id": "tv/305567",
+    "tmdb_id": "300131",
+    "tmdb_site_id": "tv/300131",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -155,31 +139,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "300131",
+    "id": "288659",
     "type": "tmdb",
-    "title": "杀手青春",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/a9/581284_8Kv7i.jpg",
-    "releaseDate": "2026-04-11",
+    "title": "春夏秋冬代行者 春之舞",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg",
+    "releaseDate": "2026-03-28",
     "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月11日 / 井出安軌 / 藤巻忠俊（集英社ジャンプコミックス刊） / 大導寺美穂",
+    "rating": "5.6",
+    "description": "14话 /  2026年3月28日 / 山本健 / 暁佳奈（電撃文庫/KADOKAWA刊） / 鳥井なみこ",
     "link": null,
-    "tmdb_id": "300131",
-    "tmdb_site_id": "tv/300131",
+    "tmdb_id": "288659",
+    "tmdb_site_id": "tv/288659",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
   },
   {
     "id": "283888",
@@ -198,6 +171,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
     "id": "94404",
     "type": "tmdb",
     "title": "异兽魔都 第二季",
@@ -210,6 +194,22 @@
     "tmdb_id": "94404",
     "tmdb_site_id": "tv/94404/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305567",
+    "type": "tmdb",
+    "title": "左撇子艾伦",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/6c/409468_xxw82.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "13话 /  2026年4月7日 / 鈴木利正 / かっぴー / 福地祐香、玉井あかね",
+    "link": null,
+    "tmdb_id": "305567",
+    "tmdb_site_id": "tv/305567",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -246,22 +246,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "299134",
-    "type": "tmdb",
-    "title": "女仆小姐的贪吃日常",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/15/580473_uhpVF.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "12话 /  2026年4月5日 / 泉保良輔 / 前屋進（講談社「コミックDAYS」連載） / 阿部千秋",
-    "link": null,
-    "tmdb_id": "299134",
-    "tmdb_site_id": "tv/299134",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "288590",
     "type": "tmdb",
     "title": "自称恶役大小姐的婚约者观察记录。",
@@ -278,17 +262,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "259819",
+    "id": "299134",
     "type": "tmdb",
-    "title": "公鸡斗士",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
+    "title": "女仆小姐的贪吃日常",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/15/580473_uhpVF.jpg",
     "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "6.3",
-    "description": "2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
+    "rating": "6.0",
+    "description": "12话 /  2026年4月5日 / 泉保良輔 / 前屋進（講談社「コミックDAYS」連載） / 阿部千秋",
     "link": null,
-    "tmdb_id": "259819",
-    "tmdb_site_id": "tv/259819",
+    "tmdb_id": "299134",
+    "tmdb_site_id": "tv/299134",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -305,6 +289,22 @@
     "link": null,
     "tmdb_id": "95479",
     "tmdb_site_id": "tv/95479",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "259819",
+    "type": "tmdb",
+    "title": "公鸡斗士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
+    "link": null,
+    "tmdb_id": "259819",
+    "tmdb_site_id": "tv/259819",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -342,6 +342,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "216467",
+    "type": "tmdb",
+    "title": "夜樱家的大作战 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/fc/517027_seRWW.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "2026年4月12日 / 中津川孝広 / 権平ひつじ（集英社ジャンプコミックス刊） / 髙橋瑞紀",
+    "link": null,
+    "tmdb_id": "216467",
+    "tmdb_site_id": "tv/216467/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "316424",
     "type": "tmdb",
     "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
@@ -358,21 +374,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "91768",
-    "type": "tmdb",
-    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
-    "link": null,
-    "tmdb_id": "91768",
-    "tmdb_site_id": "tv/91768/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]
