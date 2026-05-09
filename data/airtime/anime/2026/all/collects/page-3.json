@@ -1,5 +1,16 @@
 [
   {
+    "id": "423036",
+    "type": "link",
+    "title": "中国奇谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/84/423036_H88sl.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
+    "link": "https://bgm.tv/subject/423036"
+  },
+  {
     "id": "154526",
     "type": "tmdb",
     "title": "极速车魂 第三季",
@@ -14,17 +25,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "423036",
-    "type": "link",
-    "title": "中国奇谭 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/84/423036_H88sl.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
-    "link": "https://bgm.tv/subject/423036"
   },
   {
     "id": "90937",
@@ -98,7 +98,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "7.5",
+    "rating": "7.6",
     "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
     "link": null,
     "tmdb_id": "283905",
@@ -140,6 +140,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "300054",
     "type": "tmdb",
     "title": "刃牙道：无敌武士",
@@ -174,24 +192,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298026",
-    "type": "tmdb",
-    "title": "放开那个女巫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
-    "releaseDate": "2026-03-02",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
-    "link": null,
-    "tmdb_id": "298026",
-    "tmdb_site_id": "tv/298026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -201,22 +201,6 @@
     "rating": "7.3",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": "https://bgm.tv/subject/508004"
-  },
-  {
-    "id": "287591",
-    "type": "tmdb",
-    "title": "皎洁迎宵之月",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/2b/557531_3cHCD.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "5.4",
-    "description": "12话 /  2026年1月11日 / 丸山裕介 / やまもり三香（講談社「デザート」連載） / 福田裕樹",
-    "link": null,
-    "tmdb_id": "287591",
-    "tmdb_site_id": "tv/287591",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -235,17 +219,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "287973",
+    "id": "287591",
     "type": "tmdb",
-    "title": "有栖川炼原来是女孩子啊。",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-01-04",
+    "title": "皎洁迎宵之月",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/2b/557531_3cHCD.jpg",
+    "releaseDate": "2026-01-11",
     "mediaType": "tv",
-    "rating": "4.1",
-    "description": "8话 /  2026年1月4日 / 佐々木純人 / 浅月のりと / 那須玲奈",
+    "rating": "5.4",
+    "description": "12话 /  2026年1月11日 / 丸山裕介 / やまもり三香（講談社「デザート」連載） / 福田裕樹",
     "link": null,
-    "tmdb_id": "287973",
-    "tmdb_site_id": "tv/287973",
+    "tmdb_id": "287591",
+    "tmdb_site_id": "tv/287591",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -267,17 +251,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "295483",
+    "id": "287973",
     "type": "tmdb",
-    "title": "被邻国王子溺爱的反派女主",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/69/568174_7EEZO.jpg",
-    "releaseDate": "2026-01-11",
+    "title": "有栖川炼原来是女孩子啊。",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-01-04",
     "mediaType": "tv",
-    "rating": "4.0",
-    "description": "12话 /  2026年1月11日 / 浜名孝行 / ぷにちゃん（ビーズログ文庫刊） / まじろ",
+    "rating": "4.1",
+    "description": "8话 /  2026年1月4日 / 佐々木純人 / 浅月のりと / 那須玲奈",
     "link": null,
-    "tmdb_id": "295483",
-    "tmdb_site_id": "tv/295483",
+    "tmdb_id": "287973",
+    "tmdb_site_id": "tv/287973",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -295,6 +279,22 @@
     "tmdb_id": "72517",
     "tmdb_site_id": "tv/72517/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "295483",
+    "type": "tmdb",
+    "title": "被邻国王子溺爱的反派女主",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/69/568174_7EEZO.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "12话 /  2026年1月11日 / 浜名孝行 / ぷにちゃん（ビーズログ文庫刊） / まじろ",
+    "link": null,
+    "tmdb_id": "295483",
+    "tmdb_site_id": "tv/295483",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

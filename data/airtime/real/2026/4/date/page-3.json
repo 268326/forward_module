@@ -1,5 +1,27 @@
 [
   {
+    "id": "641261",
+    "type": "link",
+    "title": "IDOLiSH7  VISIBLIVE TOUR \"4WARD JOURNEY\"",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/98/e4/641261_Nkza5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-08-21 / IDOLiSH7[七瀬陸(CV.小野賢章)/和泉一織(CV.増田俊樹)/二階堂大和(CV.白井悠介)/和泉三月(CV.代永翼)/四葉環(CV.KENN)/逢坂壮五(CV.阿部敦)/六弥ナギ(CV.江口拓也)]、TRIGGER[九条天(CV.斉藤壮馬)/八乙女楽(CV.羽多野渉)/十龍之介(CV.佐藤拓也)]、Re:vale[百(CV.保志総一朗)/千(CV.立花慎之介)]、ŹOOĻ[亥清悠(CV:広瀬裕也)/狗丸トウマ(CV:木村昴)/棗巳波(CV:西山宏太朗)/御堂虎於(CV:近藤隆)]",
+    "link": "https://bgm.tv/subject/641261"
+  },
+  {
+    "id": "632520",
+    "type": "link",
+    "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
+    "posterPath": null,
+    "releaseDate": "2026-08-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年8月20日",
+    "link": "https://bgm.tv/subject/632520"
+  },
+  {
     "id": "632945",
     "type": "link",
     "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
@@ -250,34 +272,5 @@
     "rating": "",
     "description": "2026年7月17日 / Christopher Nolan / Christopher Nolan / Matt Damon",
     "link": "https://bgm.tv/subject/622067"
-  },
-  {
-    "id": "645899",
-    "type": "link",
-    "title": "犯罪者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ed/645899_39cCI.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-07-17 / 松永大司 / 櫻井武晴 / 高橋一生、斎藤工、水上恒司",
-    "link": "https://bgm.tv/subject/645899"
-  },
-  {
-    "id": "317790",
-    "type": "tmdb",
-    "title": "心配無用ノ介 天下御免",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/34/637667_Vh50h.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月16日 / 安田淳一 / 安田淳一 / 田村ツトム、沙倉ゆうの、井之上チャル",
-    "link": null,
-    "tmdb_id": "317790",
-    "tmdb_site_id": "tv/317790",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

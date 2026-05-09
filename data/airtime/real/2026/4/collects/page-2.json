@@ -1,5 +1,27 @@
 [
   {
+    "id": "541822",
+    "type": "link",
+    "title": "夜魔侠：重生 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.8",
+    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
+    "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "544948",
+    "type": "link",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
+  },
+  {
     "id": "633271",
     "type": "link",
     "title": "泰迪熊 第二季",
@@ -40,60 +62,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "289356",
-    "type": "tmdb",
-    "title": "北方谦三 水浒传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4FrkTLr5crUUnMBL657kBZgcDnc.jpg",
-    "releaseDate": "2026-02-15",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "累计发行量突破1160万部，在文学史上散发着孤高光辉的北方谦三的历史大河小说《水浒传》，全19卷将在WOWOW完全映像化。故事发生在北宋末期（12世纪初）的中国，志同道合的汉人们聚集在“梁山泊”，为了纠正腐败的社会而勇敢地站起来。在本作品中担任主演的是至今为止引领日本电影、电视剧界的织田裕二，他饰演梁山泊的头领宋江。",
-    "link": null,
-    "tmdb_id": "289356",
-    "tmdb_site_id": "tv/289356",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "280632",
-    "type": "tmdb",
-    "title": "成何体统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-    "releaseDate": "2026-02-06",
-    "mediaType": "tv",
-    "rating": "8.4",
-    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
-    "link": null,
-    "tmdb_id": "280632",
-    "tmdb_site_id": "tv/280632",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "300529",
-    "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.2",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
-    "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "601438",
     "type": "link",
     "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
@@ -116,26 +84,22 @@
     "link": "https://bgm.tv/subject/511454"
   },
   {
-    "id": "634222",
-    "type": "link",
-    "title": "真相捕捉 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
-    "link": "https://bgm.tv/subject/634222"
-  },
-  {
-    "id": "587208",
-    "type": "link",
-    "title": "学園アイドルマスター 初星音楽祭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/587208"
+    "id": "289356",
+    "type": "tmdb",
+    "title": "北方谦三 水浒传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4FrkTLr5crUUnMBL657kBZgcDnc.jpg",
+    "releaseDate": "2026-02-15",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "累计发行量突破1160万部，在文学史上散发着孤高光辉的北方谦三的历史大河小说《水浒传》，全19卷将在WOWOW完全映像化。故事发生在北宋末期（12世纪初）的中国，志同道合的汉人们聚集在“梁山泊”，为了纠正腐败的社会而勇敢地站起来。在本作品中担任主演的是至今为止引领日本电影、电视剧界的织田裕二，他饰演梁山泊的头领宋江。",
+    "link": null,
+    "tmdb_id": "289356",
+    "tmdb_site_id": "tv/289356",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "609282",
@@ -160,6 +124,64 @@
     "link": "https://bgm.tv/subject/588065"
   },
   {
+    "id": "280632",
+    "type": "tmdb",
+    "title": "成何体统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+    "releaseDate": "2026-02-06",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+    "link": null,
+    "tmdb_id": "280632",
+    "tmdb_site_id": "tv/280632",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "634222",
+    "type": "link",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
+  },
+  {
+    "id": "587208",
+    "type": "link",
+    "title": "学園アイドルマスター 初星音楽祭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
+    "releaseDate": "2026-02-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/587208"
+  },
+  {
+    "id": "307977",
+    "type": "tmdb",
+    "title": "我是家庭教师岸骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ECjZFaPrGoNZeRXMvo1TQg8sR2.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "　　王子般完美、气质值拉满的超级家庭教师岸骑士（泽村玲 饰），被彻的母亲请来为成绩长期垫底、每天只会打架的重度不良少年高杉彻（田中洸希 饰）补习。岸外表俊美、举止优雅，对彻的指导却温柔甜蜜，宛如“甜度过量”的王子降临。彻原本强硬桀骜，却逐渐被岸的魅力带乱节奏，生活也随之发生改变。作品以闪耀喜剧风格为基调，带有轻微BL氛围，描绘了两人之间奇妙又令人心动的互动。\n\n　　本剧改编自奥嶋ひろまさ的同名原著漫画。",
+    "link": null,
+    "tmdb_id": "307977",
+    "tmdb_site_id": "tv/307977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "578285",
     "type": "link",
     "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
@@ -169,6 +191,17 @@
     "rating": "",
     "description": "1话 /  2026-03-01",
     "link": "https://bgm.tv/subject/578285"
+  },
+  {
+    "id": "513985",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
   },
   {
     "id": "304928",
@@ -189,28 +222,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "513985",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
-  },
-  {
-    "id": "307977",
+    "id": "306528",
     "type": "tmdb",
-    "title": "我是家庭教师岸骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ECjZFaPrGoNZeRXMvo1TQg8sR2.jpg",
+    "title": "副会长的主要工作",
+    "posterPath": "https://image.tmdb.org/t/p/w500/57Y40TQME1b8uk487LmhyAbhIXw.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.5",
-    "description": "　　王子般完美、气质值拉满的超级家庭教师岸骑士（泽村玲 饰），被彻的母亲请来为成绩长期垫底、每天只会打架的重度不良少年高杉彻（田中洸希 饰）补习。岸外表俊美、举止优雅，对彻的指导却温柔甜蜜，宛如“甜度过量”的王子降临。彻原本强硬桀骜，却逐渐被岸的魅力带乱节奏，生活也随之发生改变。作品以闪耀喜剧风格为基调，带有轻微BL氛围，描绘了两人之间奇妙又令人心动的互动。\n\n　　本剧改编自奥嶋ひろまさ的同名原著漫画。",
+    "rating": "0.0",
+    "description": "学生会室里常年只有两个人——会长灰屋银和副会长栗下泪。原本学生会有许多干部，但由于栗下泪把所有工作都完美处理，其他人干脆不再出现。她外表端庄、成绩优秀，是毫无瑕疵的优等生，唯独对会长不断伸出奇怪的亲昵与捉弄。伪装成淑女的外表下，却藏着只对会长失控的偏爱情绪。在密闭的学生会室里，一场“危险而可爱的偏爱喜剧”就此展开——。\n\n　　本剧改编自逆縞的同名原著漫画。",
     "link": null,
-    "tmdb_id": "307977",
-    "tmdb_site_id": "tv/307977",
+    "tmdb_id": "306528",
+    "tmdb_site_id": "tv/306528",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -247,13 +269,24 @@
     "link": "https://bgm.tv/subject/552953"
   },
   {
+    "id": "489598",
+    "type": "link",
+    "title": "帝王计划：怪兽遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
+    "link": "https://bgm.tv/subject/489598"
+  },
+  {
     "id": "278882",
     "type": "tmdb",
     "title": "年少有为",
     "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.9",
+    "rating": "7.8",
     "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
     "link": null,
     "tmdb_id": "278882",
@@ -265,33 +298,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "306528",
-    "type": "tmdb",
-    "title": "副会长的主要工作",
-    "posterPath": "https://image.tmdb.org/t/p/w500/57Y40TQME1b8uk487LmhyAbhIXw.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "学生会室里常年只有两个人——会长灰屋银和副会长栗下泪。原本学生会有许多干部，但由于栗下泪把所有工作都完美处理，其他人干脆不再出现。她外表端庄、成绩优秀，是毫无瑕疵的优等生，唯独对会长不断伸出奇怪的亲昵与捉弄。伪装成淑女的外表下，却藏着只对会长失控的偏爱情绪。在密闭的学生会室里，一场“危险而可爱的偏爱喜剧”就此展开——。\n\n　　本剧改编自逆縞的同名原著漫画。",
-    "link": null,
-    "tmdb_id": "306528",
-    "tmdb_site_id": "tv/306528",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "489598",
+    "id": "614123",
     "type": "link",
-    "title": "帝王计划：怪兽遗产 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
+    "releaseDate": "2026-05-05",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
-    "link": "https://bgm.tv/subject/489598"
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
   },
   {
     "id": "312725",
@@ -308,42 +323,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "307652",
-    "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
-    "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   }

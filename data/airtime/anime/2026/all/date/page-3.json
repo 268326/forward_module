@@ -1,5 +1,45 @@
 [
   {
+    "id": "511177",
+    "type": "link",
+    "title": "被流放的转生重骑士用游戏知识开无双",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_cul57.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "link": "https://bgm.tv/subject/511177"
+  },
+  {
+    "id": "300112",
+    "type": "tmdb",
+    "title": "バンドリ！ ゆめ∞みた",
+    "posterPath": "https://image.tmdb.org/t/p/w500/13CKWGOOoSvaarTkKDxbcJ3mfNB.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
+    "link": null,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "616616",
+    "type": "link",
+    "title": "百姓贵族 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/33/80/616616_YoPfY.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 荒川弘（新書館「ウィングス」連載）",
+    "link": "https://bgm.tv/subject/616616"
+  },
+  {
     "id": "622206",
     "type": "link",
     "title": "尼古喵喵",
@@ -9,6 +49,17 @@
     "rating": "",
     "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
     "link": "https://bgm.tv/subject/622206"
+  },
+  {
+    "id": "622633",
+    "type": "link",
+    "title": "世界在起舞",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_7i5pC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
+    "link": "https://bgm.tv/subject/622633"
   },
   {
     "id": "628212",
@@ -110,13 +161,24 @@
     "link": "https://bgm.tv/subject/441800"
   },
   {
+    "id": "647687",
+    "type": "link",
+    "title": "剧场版 冒险岛：Dear My Hero",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg",
+    "releaseDate": "2026-06-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月14日",
+    "link": "https://bgm.tv/subject/647687"
+  },
+  {
     "id": "607915",
     "type": "link",
     "title": "凡人修仙传 第五季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "8.0",
+    "rating": "7.9",
     "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
     "link": "https://bgm.tv/subject/607915"
   },
@@ -165,6 +227,17 @@
     "link": "https://bgm.tv/subject/646612"
   },
   {
+    "id": "401552",
+    "type": "link",
+    "title": "钟馗",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/c9/401552_N92P3.jpg",
+    "releaseDate": "2026-05-30",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年5月30日 / 王羽熙、黄山川",
+    "link": "https://bgm.tv/subject/401552"
+  },
+  {
     "id": "505562",
     "type": "link",
     "title": "剧场版 物怪 蛇神",
@@ -196,71 +269,5 @@
     "rating": "",
     "description": "1话 /  2026年5月29日",
     "link": "https://bgm.tv/subject/632411"
-  },
-  {
-    "id": "637792",
-    "type": "link",
-    "title": "パイハメ家族",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-05-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年5月29日 / 『パイハメ家族』（おぶい）",
-    "link": "https://bgm.tv/subject/637792"
-  },
-  {
-    "id": "637869",
-    "type": "link",
-    "title": "はーとまーく多め。",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-05-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年5月29日 / 『はーとまーくもっと多め。』（宮元一佐／コアマガジン刊）",
-    "link": "https://bgm.tv/subject/637869"
-  },
-  {
-    "id": "643073",
-    "type": "link",
-    "title": "小钱大事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg",
-    "releaseDate": "2026-05-27",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月27日",
-    "link": "https://bgm.tv/subject/643073"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
-    "id": "555963",
-    "type": "link",
-    "title": "交配季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg",
-    "releaseDate": "2026-05-22",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月22日",
-    "link": "https://bgm.tv/subject/555963"
-  },
-  {
-    "id": "646494",
-    "type": "link",
-    "title": "吃豆人：零食时间",
-    "posterPath": null,
-    "releaseDate": "2026-05-22",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月22日 / Noah Pardo",
-    "link": "https://bgm.tv/subject/646494"
   }
 ]

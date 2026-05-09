@@ -1,23 +1,5 @@
 [
   {
-    "id": "307652",
-    "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
-    "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "313902",
     "type": "tmdb",
     "title": "被女孩子逆推不行吗？",
@@ -29,6 +11,64 @@
     "link": null,
     "tmdb_id": "313902",
     "tmdb_site_id": "tv/313902",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "590729",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月14日",
+    "link": "https://bgm.tv/subject/590729"
+  },
+  {
+    "id": "305002",
+    "type": "tmdb",
+    "title": "忒弥斯的不确定法庭",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Vpu2bTZc2UENkziMWMT38kJjaJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "“即使是法官，也只是人。”他们身处审判他人的位置，却并不总能作出绝对正确的判断。年轻法官安堂清春（任职第七年）被派往本州最西端的Y地方法院，面对复杂的案件与人性困境：在庭审中突然翻供的黑社会成员、面带微笑承认弑夫的女教师、坚称女儿被人杀害的父亲……每一个案件都让他在正义与良知之间挣扎。自幼被诊断为发育障碍的他，也必须直面自我与脆弱的内心。这是一部描绘年轻法官在“裁与被裁”之间摸索成长的青春法庭悬疑剧。\n\n本剧改编自直岛翔的同名原著小说。",
+    "link": null,
+    "tmdb_id": "305002",
+    "tmdb_site_id": "tv/305002",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
+    "id": "307652",
+    "type": "tmdb",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "link": null,
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -97,6 +137,25 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "224377",
+    "type": "tmdb",
+    "title": "哈利波特与魔法石",
+    "posterPath": "https://image.tmdb.org/t/p/w500/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
+    "releaseDate": "2026-12-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "孤儿哈利·波特在11岁生日那天，收到一封来自霍格沃茨魔法学校的入学通知书，才得知自己是著名的“那个活下来的男孩”——曾幸存于黑魔头伏地魔的致命袭击。踏入霍格沃茨后，他结识了忠诚温暖的罗恩·韦斯莱和聪慧机警的赫敏·格兰杰，三人成为坚不可摧的朋友，也共同面对前所未有的挑战。\n\n随着故事推进，哈利渐渐感受到自己在魔法界的特殊地位——不仅是偶然，更是一种责任。霍格沃茨的师资阵容星光熠熠：校长邓布利多、神秘严厉的斯内普教授、坚毅的麦格教授、忠诚的卡鲁斯·海格，以及神秘幽默的魁若教授、阴险的监护人菲尔奇等人各具魅力，共同构筑了一个生动又复杂的魔法世界。",
+    "link": null,
+    "tmdb_id": "224377",
+    "tmdb_site_id": "tv/224377",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB",
+      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -181,6 +240,35 @@
     "link": "https://bgm.tv/subject/630977"
   },
   {
+    "id": "300360",
+    "type": "tmdb",
+    "title": "单恋",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xxMmgGNt3IT0QjYpkEh00mhR5EV.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "优衣（芦田爱菜饰）和健健（健二／冈山天音饰）的家位于盛冈市传统商店街，彼此相邻。优衣与在南部铁器店工作的母亲相依为命，健健家则是经营豆腐店的父亲、奶奶与他组成的三人家庭。两人从小在探出房间窗户就能对话的距离下成长。擅长绘画的健健从东京大学毕业后在小设计公司工作。对优衣而言，年长些许的健健是她憧憬已久单向暗恋的对象——温柔体贴、笑容迷人，与他相处总令人幸福洋溢。\n\n　　优衣短期大学毕业后进入当地公司工作，却因人手短缺背负过多不熟悉业务。某日她逃离职场，不知不觉来到东京健健的住所。恰逢健健与朋友在家聚会，其中还有位漂亮女性。但健健察觉优衣神色后立即遣散众人，默默倾听她的倾诉。\n\n　　在健健家度过一夜后重整心情的优衣正式辞职。恰逢健健老家豆腐店人手不足，她开始在挚爱的豆腐店工作。竟能在健健家工作！清晨早起劳作毫不辛苦，与奶奶一同前往公路驿站及客户处的配送路程也充满欢乐。每日充实幸福的优衣，恰在此时突然迎来健健的归来——他宣布不再回东京，要留在老家经营豆腐店。虽担心发生什么变故，但能每天在同一职场工作让优衣欣喜若狂！从此清晨一同制作豆腐、外出配送，每日相伴的生活就此展开。正当优衣祈愿这份幸福永续之时——？！",
+    "link": null,
+    "tmdb_id": "300360",
+    "tmdb_site_id": "tv/300360",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "623665",
+    "type": "link",
+    "title": "AGITO 超能力战争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
+    "link": "https://bgm.tv/subject/623665"
+  },
+  {
     "id": "305818",
     "type": "tmdb",
     "title": "比熊猫更不擅长恋爱的我们",
@@ -213,10 +301,10 @@
     "id": "270572",
     "type": "tmdb",
     "title": "蝇王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zDi4uP2N3rRARLNykg7LsM6DOua.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
     "releaseDate": "2026-02-08",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
     "link": null,
     "tmdb_id": "270572",
@@ -224,24 +312,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "GB"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "305837",
-    "type": "tmdb",
-    "title": "雪烟追逐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/vi1uarD0zRCFSaafkg2YSPSih04.jpg",
-    "releaseDate": "2026-01-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "「要有不在场证明，就只能找到那位在滑雪场邂逅的神秘女性单板滑雪者！」\n\n某天，一名被指控犯下谋杀案并遭到警方追捕的“大学生”，凭借他唯一的线索，与朋友一同来到滑雪场寻找那位女性单板滑雪者。\n\n与此同时，一名被卷入地方警局与警视厅总部的权力斗争的“地方警局刑警”，被指派秘密调查此案。\n\n在前滑雪选手的居酒屋老板娘的帮助下，他逐渐逼近真相……\n\n本作的追逐战将以日本最大级别的滑雪场为舞台，白雪皑皑的世界中，被冤枉的大学生 VS 地方刑警 VS 警视厅总部，一场无法预测的较量即将展开。",
-    "link": null,
-    "tmdb_id": "305837",
-    "tmdb_site_id": "tv/305837",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -276,97 +346,14 @@
     "link": "https://bgm.tv/subject/602333"
   },
   {
-    "id": "312282",
-    "type": "tmdb",
-    "title": "对比的我和你",
-    "posterPath": "https://image.tmdb.org/t/p/w500/50Nnsu1jQ7B48IMbSd8YVetFC0L.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "总是身处人群中心、备受欢迎，却又带着几分冷淡的青山翔太（井内悠阳 饰），以及成绩优异、独来独往的一匹狼千川阳（阿久根温世 饰）。彼此不知道对方的班级和名字，却唯独记得那张脸。性格截然相反的两人，某天在通往天台的楼梯转角相遇了。在喧嚣仿佛被隔绝、只属于两人的空间里，他们开始诉说那些无法对人言说的内心。在无人知晓的校园一角，两人共用一只耳机，听着吉他即兴段的旋律，不知不觉间，彼此的心跳渐渐重合。本剧改编自itz的同名原著漫画。",
-    "link": null,
-    "tmdb_id": "312282",
-    "tmdb_site_id": "tv/312282",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "311844",
-    "type": "tmdb",
-    "title": "乞救之噬，覆食殆尽",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8nPGMEjFFqyuT3NZZfKsVxJ0q2b.jpg",
-    "releaseDate": "2026-02-12",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "新人偶像南濑天在团体中长期遭受排挤与欺凌。某天，她意外获得机会，在人气演员宝生千秋主演的电视剧中担任替身，从而与他相遇。起初，千秋只是接受朋友的赌约，抱着玩笑的心态接近天，却渐渐被她的单纯与坚强吸引。随着感情加深，他的爱开始失控，从温柔守护变成强烈占有。爱与执念的界线逐渐崩塌，一场危险而扭曲的恋情悄然展开。",
-    "link": null,
-    "tmdb_id": "311844",
-    "tmdb_site_id": "tv/311844",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "494608",
     "type": "link",
     "title": "黑袍纠察队 第五季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "real",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
     "link": "https://bgm.tv/subject/494608"
-  },
-  {
-    "id": "250505",
-    "type": "tmdb",
-    "title": "阿加莎·克里斯蒂之七面钟",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nrmJhb5wB5cDTOWebIzyXqfiGMc.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "1925年，英格兰一座乡间大宅铺张设宴，席间一个恶作剧出了差错，竟闹出人命。绰号“邦德尔”的艾琳·布伦特着手探查真相，她外表不像侦探，但生性活泼好奇，究竟命案背后的可怕阴谋会如何改变她的人生？乡间大宅里又暗藏什么秘密？",
-    "link": null,
-    "tmdb_id": "250505",
-    "tmdb_site_id": "tv/250505",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "633236",
-    "type": "link",
-    "title": "第一次变身",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/dd/633236_21Ny2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-03-02 / 萩原健太郎 / 萩原健太郎",
-    "link": "https://bgm.tv/subject/633236"
-  },
-  {
-    "id": "307422",
-    "type": "tmdb",
-    "title": "米之女：国税局资料调查课·杂国室",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cF10vWIsBA1hqrmV9wdWAMsAOMl.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "米田正子（松岛菜菜子 饰）是一名在东京国税局资料调查课任职的精英调查官，她创立了新的“复杂国税事案处理室”，专门处理连主部门都难以着手的棘手逃税案件。她招募了一群能力卓越却性格独特、不求升迁的成员，共同对付各类恶意隐匿收入的逃税者。新部门成员各有怪癖，但在米田的带领下，他们运用超强的信息搜集能力与调查技巧，将一个又一个狡猾的逃税分子逼入绝境。剧情以爽快的正邪对决为主轴，展现税务调查官如何凭专业与坚持维护社会公平，让努力纳税的人得到应有的正义。",
-    "link": null,
-    "tmdb_id": "307422",
-    "tmdb_site_id": "tv/307422",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

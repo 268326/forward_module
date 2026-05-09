@@ -246,6 +246,25 @@
     "link": "https://bgm.tv/subject/644090"
   },
   {
+    "id": "224377",
+    "type": "tmdb",
+    "title": "哈利波特与魔法石",
+    "posterPath": "https://image.tmdb.org/t/p/w500/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
+    "releaseDate": "2026-12-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "孤儿哈利·波特在11岁生日那天，收到一封来自霍格沃茨魔法学校的入学通知书，才得知自己是著名的“那个活下来的男孩”——曾幸存于黑魔头伏地魔的致命袭击。踏入霍格沃茨后，他结识了忠诚温暖的罗恩·韦斯莱和聪慧机警的赫敏·格兰杰，三人成为坚不可摧的朋友，也共同面对前所未有的挑战。\n\n随着故事推进，哈利渐渐感受到自己在魔法界的特殊地位——不仅是偶然，更是一种责任。霍格沃茨的师资阵容星光熠熠：校长邓布利多、神秘严厉的斯内普教授、坚毅的麦格教授、忠诚的卡鲁斯·海格，以及神秘幽默的魁若教授、阴险的监护人菲尔奇等人各具魅力，共同构筑了一个生动又复杂的魔法世界。",
+    "link": null,
+    "tmdb_id": "224377",
+    "tmdb_site_id": "tv/224377",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "514553",
     "type": "link",
     "title": "心碎高中 第三季",
@@ -277,16 +296,5 @@
     "rating": "",
     "description": "2026年 / 市井昌秀 / 蒼井旬、山岡樹、村山暁、ケンゾウ・マルティニ、横溝菜帆、小寺結花、大友一生、安藤冶真、三木彩音、萩原聖人、釈由美子、西堀亮（マシンガンズ）、ステファニー・アリアン、本間淳志、一宮レイゼル、村松和輝",
     "link": "https://bgm.tv/subject/564127"
-  },
-  {
-    "id": "633236",
-    "type": "link",
-    "title": "第一次变身",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/dd/633236_21Ny2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-03-02 / 萩原健太郎 / 萩原健太郎",
-    "link": "https://bgm.tv/subject/633236"
   }
 ]

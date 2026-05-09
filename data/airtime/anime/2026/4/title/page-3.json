@@ -130,6 +130,17 @@
     "link": "https://bgm.tv/subject/620918"
   },
   {
+    "id": "647677",
+    "type": "link",
+    "title": "Negative Space",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026-03-31 / Ameya Ajay",
+    "link": "https://bgm.tv/subject/647677"
+  },
+  {
     "id": "623248",
     "type": "link",
     "title": "乐高幻影忍者：神龙崛起 第四季",
@@ -218,7 +229,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/yOZM1h6ghYeFsBP2kkEgGo1aS3P.jpg",
     "releaseDate": "2026-04-12",
     "mediaType": "tv",
-    "rating": "6.0",
+    "rating": "5.5",
     "description": "　　切割开自身肉体，发掘出前世才能的刀刃“轮回之枝”。在这不仅是伟大的天才们就连恐怖的杀人魔也复苏了的世界里渴望着强大才能的高中生，东耶获得了那刀刃……",
     "link": null,
     "tmdb_id": "261780",
@@ -283,21 +294,5 @@
     "rating": "6.2",
     "description": "2026年4月8日 / 芦名みのる / 長月達平(MF文庫J「Re:ゼロから始める異世界生活」／KADOKAWA刊) / 小角色设定：たけはらみのる",
     "link": "https://bgm.tv/subject/638494"
-  },
-  {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

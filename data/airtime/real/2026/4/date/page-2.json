@@ -1,5 +1,16 @@
 [
   {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
+  },
+  {
     "id": "645791",
     "type": "link",
     "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
@@ -55,6 +66,17 @@
     "link": "https://bgm.tv/subject/632522"
   },
   {
+    "id": "647204",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE",
+    "posterPath": null,
+    "releaseDate": "2026-09-19",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月19日",
+    "link": "https://bgm.tv/subject/647204"
+  },
+  {
     "id": "640614",
     "type": "link",
     "title": "学园偶像音乐剧 2026年公演",
@@ -79,12 +101,12 @@
   {
     "id": "580127",
     "type": "link",
-    "title": "新版生化危机",
+    "title": "生化危机：爆发夜",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_ltQ5t.jpg",
     "releaseDate": "2026-09-18",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams",
+    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams",
     "link": "https://bgm.tv/subject/580127"
   },
   {
@@ -240,27 +262,5 @@
     "rating": "",
     "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
     "link": "https://bgm.tv/subject/617152"
-  },
-  {
-    "id": "583191",
-    "type": "link",
-    "title": "劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/60/583191_otc9T.jpg",
-    "releaseDate": "2026-08-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月21日 / 松木彩 / 黒岩勉 / 鈴木亮平",
-    "link": "https://bgm.tv/subject/583191"
-  },
-  {
-    "id": "632520",
-    "type": "link",
-    "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
-    "posterPath": null,
-    "releaseDate": "2026-08-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年8月20日",
-    "link": "https://bgm.tv/subject/632520"
   }
 ]

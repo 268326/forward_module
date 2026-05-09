@@ -6,7 +6,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "real",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
     "link": "https://bgm.tv/subject/494608"
   },
@@ -22,15 +22,22 @@
     "link": "https://bgm.tv/subject/636399"
   },
   {
-    "id": "631823",
-    "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
+    "id": "300529",
+    "type": "tmdb",
+    "title": "地狱占星师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "link": null,
+    "tmdb_id": "300529",
+    "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "55006",
@@ -55,9 +62,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.4",
+    "rating": "6.3",
     "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
     "link": "https://bgm.tv/subject/623261"
+  },
+  {
+    "id": "631823",
+    "type": "link",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
   },
   {
     "id": "311871",
@@ -78,6 +96,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "620971",
+    "type": "link",
+    "title": "头号战队豪兽者VS奔奔者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
+    "link": "https://bgm.tv/subject/620971"
+  },
+  {
     "id": "303405",
     "type": "tmdb",
     "title": "九条的大罪",
@@ -94,46 +123,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "300529",
-    "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.2",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
-    "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "620971",
-    "type": "link",
-    "title": "头号战队豪兽者VS奔奔者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.0",
-    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
-    "link": "https://bgm.tv/subject/620971"
-  },
-  {
-    "id": "626794",
-    "type": "link",
-    "title": "月夜行路 -答案尽在名作之中-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
-    "link": "https://bgm.tv/subject/626794"
   },
   {
     "id": "306479",
@@ -163,6 +152,17 @@
     "rating": "7.5",
     "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
     "link": "https://bgm.tv/subject/369191"
+  },
+  {
+    "id": "626794",
+    "type": "link",
+    "title": "月夜行路 -答案尽在名作之中-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
+    "link": "https://bgm.tv/subject/626794"
   },
   {
     "id": "314639",
@@ -219,6 +219,35 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "617739",
+    "type": "link",
+    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
+    "link": "https://bgm.tv/subject/617739"
+  },
+  {
+    "id": "272432",
+    "type": "tmdb",
+    "title": "低智商犯罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/e4JlZu0PAQ2Qpg4Tj4qDfD0ePO1.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+    "link": null,
+    "tmdb_id": "272432",
+    "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "224372",
     "type": "tmdb",
     "title": "七王国的骑士",
@@ -233,61 +262,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315209",
-    "type": "tmdb",
-    "title": "鲭鱼罐头，飞向宇宙",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1VHKZz69Pmnn6EMotMNoPvK9JTw.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "本剧根据福井县水产高中学生挑战开发“宇宙食品”的真实事迹改编，讲述一群高中生因一句“也许能做宇宙食吧？”而踏上追梦之路的青春故事。新任教师朝野峻一（北村匠海 饰）怀揣理想赴任，却得知学校面临废校危机。在与学生们共同研发鲭鱼罐头、冲击宇宙日本食认证的过程中，他们屡遭挫折，却始终不放弃。最终，这份跨越世代传承的梦想获得认可，鲭鱼罐头被认证并送上国际空间站。故事温暖描绘了师生情谊、地方支持与追梦勇气，展现相信与坚持如何点亮未来。",
-    "link": null,
-    "tmdb_id": "315209",
-    "tmdb_site_id": "tv/315209",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315438",
-    "type": "tmdb",
-    "title": "所爱之人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5HTYaVD7UGo2YAvDOnsFgfqQX4i.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "日本每年有约20万具遗体被归为“死因不明”，真正接受法医学解剖的不足一成。为改变这一现状，厚生劳动省主导成立了拥有调查指示与解剖决定权的法医学专业团队——MEJ（Medical Examiner Japan）。\n\n从美国归来的天才法医学者水泽真澄（藤冈靛 饰）曾参与大量检死工作。他性格独特却洞察敏锐，不被常识束缚，常以一句“这存在矛盾”追问真相。面对遗体时，他以“LOVED ONE”相称，从细微痕迹中还原逝者生前的时间与被掩盖的事实。\n\n与他搭档的是MEJ中心长桐生麻帆（泷内公美 饰）。出身母子家庭的她立志通过制度改变社会，却在官僚体系中屡遭挫败。临危受命执掌MEJ的她虽无医学背景，却在一次次案件中直面“死因不明”背后的现实。\n\n立场与价值观截然不同的两人，在冲突与磨合中携手挑战疑难案件，揭开死亡背后的真相。",
-    "link": null,
-    "tmdb_id": "315438",
-    "tmdb_site_id": "tv/315438",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "AT",
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316461",
-    "type": "tmdb",
-    "title": "烟蓝雨后晴",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iMl06yaMs1z23r1w0sj8YhtoQ7l.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "　曾在药企担任王牌销售的吾妻朔太郎（武田航平 饰）因事业瓶颈陷入迷茫，目前处于无职状态；他在偶然中被当年的职场劲敌、如今从事医疗翻译工作的久慈静（涩谷谦人 饰）所救。这对曾在八年前共度过一夜的旧友，在人生的转折点再度重逢，共同面对职场压力、亲人老去以及生活选择，开启了一段苦甜参半的成年爱情故事。",
-    "link": null,
-    "tmdb_id": "316461",
-    "tmdb_site_id": "tv/316461",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -321,36 +295,54 @@
     "link": "https://bgm.tv/subject/601438"
   },
   {
-    "id": "617739",
+    "id": "620937",
     "type": "link",
-    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
-    "releaseDate": "2026-04-07",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "5.9",
-    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
-    "link": "https://bgm.tv/subject/617739"
+    "rating": "8.0",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
   },
   {
-    "id": "541822",
+    "id": "613912",
     "type": "link",
-    "title": "夜魔侠：重生 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
+    "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/d5/613912_r38YL.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
-    "link": "https://bgm.tv/subject/541822"
+    "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
+    "link": "https://bgm.tv/subject/613912"
   },
   {
-    "id": "637701",
+    "id": "305227",
+    "type": "tmdb",
+    "title": "丰臣兄弟！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dAiJlvQx5xb5RHVwoXX7SXoJq3M.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "本剧描述天下人丰臣秀吉之弟，武将丰臣秀长的一生；以其视角描述丰臣兄弟凭借兄弟之间的深厚羁绊完成天下统一伟业的奇迹，另外也动态地描绘战国时代的丰富多彩的娱乐事迹！",
+    "link": null,
+    "tmdb_id": "305227",
+    "tmdb_site_id": "tv/305227",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "609282",
     "type": "link",
-    "title": "为全人类 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/35/637701_8g6Pm.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
+    "releaseDate": "2026-04-10",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  March 27, 2026 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
-    "link": "https://bgm.tv/subject/637701"
+    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
+    "link": "https://bgm.tv/subject/609282"
   }
 ]

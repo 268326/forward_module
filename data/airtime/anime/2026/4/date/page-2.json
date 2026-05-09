@@ -1,5 +1,16 @@
 [
   {
+    "id": "615446",
+    "type": "link",
+    "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_re2YN.jpg",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
+    "link": "https://bgm.tv/subject/615446"
+  },
+  {
     "id": "618793",
     "type": "link",
     "title": "PAW Patrol: The Dino Movie",
@@ -150,6 +161,17 @@
     "link": "https://bgm.tv/subject/595106"
   },
   {
+    "id": "583862",
+    "type": "link",
+    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日",
+    "link": "https://bgm.tv/subject/583862"
+  },
+  {
     "id": "577191",
     "type": "link",
     "title": "航海王 女英雄们的故事",
@@ -248,47 +270,18 @@
     "releaseDate": "2026-07-03",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
+    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
     "link": "https://bgm.tv/subject/613438"
   },
   {
-    "id": "622206",
+    "id": "545917",
     "type": "link",
-    "title": "尼古喵喵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "描绘直至生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": "https://bgm.tv/subject/622206"
-  },
-  {
-    "id": "616616",
-    "type": "link",
-    "title": "百姓贵族 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/33/80/616616_YoPfY.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月2日 / 荒川弘（新書館「ウィングス」連載）",
-    "link": "https://bgm.tv/subject/616616"
-  },
-  {
-    "id": "300112",
-    "type": "tmdb",
-    "title": "バンドリ！ ゆめ∞みた",
-    "posterPath": "https://image.tmdb.org/t/p/w500/13CKWGOOoSvaarTkKDxbcJ3mfNB.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
-    "link": null,
-    "tmdb_id": "300112",
-    "tmdb_site_id": "tv/300112",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "description": "2026年7月3日 / 赤城博昭 / とよ田みのる（小学館「ゲッサン」連載中）",
+    "link": "https://bgm.tv/subject/545917"
   }
 ]

@@ -91,22 +91,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "275902",
-    "type": "tmdb",
-    "title": "神八小妹不可怕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/33/522414_4VRzA.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "12话 /  2026年1月11日 / 博史池畠 / 百合太郎（新潮社「くらげバンチ」連載） / 山田太郎、森口弘之、中島瑛介",
-    "link": null,
-    "tmdb_id": "275902",
-    "tmdb_site_id": "tv/275902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "295366",
     "type": "tmdb",
     "title": "身为魔族的我想向勇者小队的可爱女孩告白。",
@@ -118,6 +102,22 @@
     "link": null,
     "tmdb_id": "295366",
     "tmdb_site_id": "tv/295366",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "275902",
+    "type": "tmdb",
+    "title": "神八小妹不可怕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/33/522414_4VRzA.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "12话 /  2026年1月11日 / 博史池畠 / 百合太郎（新潮社「くらげバンチ」連載） / 山田太郎、森口弘之、中島瑛介",
+    "link": null,
+    "tmdb_id": "275902",
+    "tmdb_site_id": "tv/275902",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -235,17 +235,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
-  },
-  {
     "id": "294280",
     "type": "tmdb",
     "title": "魔王的女儿太温柔了！！",
@@ -260,6 +249,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "334105",
+    "type": "link",
+    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "8.1",
+    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "link": "https://bgm.tv/subject/334105"
   },
   {
     "id": "285291",

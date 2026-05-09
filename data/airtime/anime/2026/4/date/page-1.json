@@ -193,9 +193,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/a6/563041_X0778.jpg",
     "releaseDate": "2026-09-11",
     "mediaType": "anime",
-    "rating": "5.3",
+    "rating": "5.4",
     "description": "2026年9月11日 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』）",
     "link": "https://bgm.tv/subject/563041"
+  },
+  {
+    "id": "579533",
+    "type": "link",
+    "title": "SEKIRO: NO DEFEAT",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/04/579533_tacCl.jpg",
+    "releaseDate": "2026-09-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月4日 / 沓名健一 / SEKIRO： SHADOWS DIE TWICE （株式会社フロム・ソフトウェア） / 岸田隆宏",
+    "link": "https://bgm.tv/subject/579533"
   },
   {
     "id": "334105",
@@ -237,7 +248,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "",
+    "rating": "6.6",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
   },
@@ -251,16 +262,5 @@
     "rating": "",
     "description": "1话 /  2026年7月31日 / Resta!",
     "link": "https://bgm.tv/subject/643933"
-  },
-  {
-    "id": "615446",
-    "type": "link",
-    "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_re2YN.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
-    "link": "https://bgm.tv/subject/615446"
   }
 ]
