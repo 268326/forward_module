@@ -33,10 +33,32 @@
     "link": null,
     "bgm_id": "456303",
     "bgm_score": 6.4,
-    "bgm_rating_total": 18,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 5,
     "tmdb_id": "320598",
     "tmdb_site_id": "tv/320598",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "283805",
+    "type": "tmdb",
+    "title": "盘龙",
+    "posterPath": "https://image.tmdb.org/t/p/w500/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
+    "link": null,
+    "bgm_id": "395220",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "283805",
+    "tmdb_site_id": "tv/283805",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -59,28 +81,6 @@
     "bgm_weekday_id": 1,
     "tmdb_id": "317320",
     "tmdb_site_id": "tv/317320",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "283805",
-    "type": "tmdb",
-    "title": "盘龙",
-    "posterPath": "https://image.tmdb.org/t/p/w500/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
-    "link": null,
-    "bgm_id": "395220",
-    "bgm_score": 4.4,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "283805",
-    "tmdb_site_id": "tv/283805",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
