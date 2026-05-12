@@ -55,32 +55,10 @@
     "link": null,
     "bgm_id": "282118",
     "bgm_score": 3.8,
-    "bgm_rating_total": 79,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 4,
     "tmdb_id": "317727",
     "tmdb_site_id": "tv/317727",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "318478",
-    "type": "tmdb",
-    "title": "百鬼夜行抄",
-    "posterPath": "https://image.tmdb.org/t/p/w500/61DBRoCkWnh0uOTSCPoXHu2LOj5.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "律从已故祖父那里继承了不可思议灵力，以及一位名为蓝风暴的恶魔守护者。某一次，他梦见了童年的往事。在梦中，为了躲避妖魔的觊觎，年幼的律被迫打扮成女孩子的模样，却仍差点遭到一名少女幽灵的袭击。就在不久后的某一天，律亲眼目睹那名幽灵混在母亲茶道教室的学生群中，潜入了家中。正当律试图查明对方的真面目时，却在名为“捉迷藏”的游戏中，被灵体夺走了左眼！？奇怪的事情似乎总是围绕着他们两人发生，而揭开所有这些神秘事件真相的重任就落在了他们身上。每个故事都是独立的，但其中穿插着一些会逐渐熟悉并喜爱的角色，他们各自以不同的方式应对着“非此世之事”。",
-    "link": null,
-    "bgm_id": "627137",
-    "bgm_score": 3.6,
-    "bgm_rating_total": 51,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "318478",
-    "tmdb_site_id": "tv/318478",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -103,6 +81,28 @@
     "bgm_weekday_id": 3,
     "tmdb_id": "313395",
     "tmdb_site_id": "tv/313395",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "318478",
+    "type": "tmdb",
+    "title": "百鬼夜行抄",
+    "posterPath": "https://image.tmdb.org/t/p/w500/61DBRoCkWnh0uOTSCPoXHu2LOj5.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "律从已故祖父那里继承了不可思议灵力，以及一位名为蓝风暴的恶魔守护者。某一次，他梦见了童年的往事。在梦中，为了躲避妖魔的觊觎，年幼的律被迫打扮成女孩子的模样，却仍差点遭到一名少女幽灵的袭击。就在不久后的某一天，律亲眼目睹那名幽灵混在母亲茶道教室的学生群中，潜入了家中。正当律试图查明对方的真面目时，却在名为“捉迷藏”的游戏中，被灵体夺走了左眼！？奇怪的事情似乎总是围绕着他们两人发生，而揭开所有这些神秘事件真相的重任就落在了他们身上。每个故事都是独立的，但其中穿插着一些会逐渐熟悉并喜爱的角色，他们各自以不同的方式应对着“非此世之事”。",
+    "link": null,
+    "bgm_id": "627137",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 51,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "318478",
+    "tmdb_site_id": "tv/318478",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
