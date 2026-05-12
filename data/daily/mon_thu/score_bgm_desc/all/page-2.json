@@ -81,7 +81,7 @@
     "link": null,
     "bgm_id": "567234",
     "bgm_score": 5.9,
-    "bgm_rating_total": 83,
+    "bgm_rating_total": 84,
     "bgm_weekday_id": 2,
     "tmdb_id": "213326",
     "tmdb_site_id": "tv/213326/season/2",
@@ -141,7 +141,7 @@
     "link": null,
     "bgm_id": "456079",
     "bgm_score": 5.8,
-    "bgm_rating_total": 705,
+    "bgm_rating_total": 709,
     "bgm_weekday_id": 2,
     "tmdb_id": "290019",
     "tmdb_site_id": "tv/290019",
@@ -161,7 +161,7 @@
     "link": null,
     "bgm_id": "580133",
     "bgm_score": 5.7,
-    "bgm_rating_total": 431,
+    "bgm_rating_total": 433,
     "bgm_weekday_id": 1,
     "tmdb_id": "300126",
     "tmdb_site_id": "tv/300126",
@@ -201,7 +201,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.7,
-    "bgm_rating_total": 113,
+    "bgm_rating_total": 116,
     "bgm_weekday_id": 4
   },
   {
@@ -339,6 +339,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "317320",
+    "type": "tmdb",
+    "title": "大道独行之蝶龙变",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qgrVf9iv1NFYYgPN7YH4W7Z89NG.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "洛离从⼩被困于⽆灵之地银州⼤陆，成为天绝杀堂的第⼀杀⼿。⽗亲慈云⼤师牺牲⾃⼰为洛离换来⼀线⽣机，让其逃离银州，前往中天主世界去寻找真正的修仙之路。",
+    "link": null,
+    "bgm_id": "405232",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "317320",
+    "tmdb_site_id": "tv/317320",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "312293",
     "type": "tmdb",
     "title": "又被杀掉了呢，侦探大人",
@@ -357,28 +379,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "317320",
-    "type": "tmdb",
-    "title": "大道独行之蝶龙变",
-    "posterPath": "https://image.tmdb.org/t/p/w500/qgrVf9iv1NFYYgPN7YH4W7Z89NG.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "洛离从⼩被困于⽆灵之地银州⼤陆，成为天绝杀堂的第⼀杀⼿。⽗亲慈云⼤师牺牲⾃⼰为洛离换来⼀线⽣机，让其逃离银州，前往中天主世界去寻找真正的修仙之路。",
-    "link": null,
-    "bgm_id": "405232",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "317320",
-    "tmdb_site_id": "tv/317320",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "274671",
