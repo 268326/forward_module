@@ -1,5 +1,20 @@
 [
   {
+    "id": "607043",
+    "type": "link",
+    "title": "小3阿贝 QQ小芝麻",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/607043",
+    "bgm_id": "607043",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "616378",
     "type": "link",
     "title": "小鲨鱼去郊游 第二季",

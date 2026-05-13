@@ -60,6 +60,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "616453",
+    "type": "link",
+    "title": "这样高大的女孩子你喜欢吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a4/3f/616453_q2e2i.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/616453",
+    "bgm_id": "616453",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 103,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "37854",
     "type": "tmdb",
     "title": "航海王 埃鲁巴夫篇",
@@ -111,7 +126,7 @@
     "link": "http://bgm.tv/subject/577190",
     "bgm_id": "577190",
     "bgm_score": 6.5,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 46,
     "bgm_weekday_id": 6
   },
   {
@@ -126,7 +141,7 @@
     "link": null,
     "bgm_id": "495238",
     "bgm_score": 6.8,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 7,
     "tmdb_id": "60761",
     "tmdb_site_id": "tv/60761/season/4",

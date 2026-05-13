@@ -16,22 +16,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超时空辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "91768",
     "type": "tmdb",
     "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
@@ -64,56 +48,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "316424",
+    "id": "283888",
     "type": "tmdb",
-    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ggrW5FRPFFjNFPZCkJ0VmlKIWw2.jpg",
-    "releaseDate": "2026-04-02",
+    "title": "库兹马唱歌的话家里哆啰啰",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/69/493804_Wn16U.jpg",
+    "releaseDate": "2026-04-09",
     "mediaType": "tv",
-    "rating": "6.7",
-    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月9日 / 野亦則行 / 紺野アキラ（小学館「ゲッサン」連載） / 三橋桜子",
     "link": null,
-    "tmdb_id": "316424",
-    "tmdb_site_id": "tv/316424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "304820",
-    "type": "tmdb",
-    "title": "关于虽然逃走的鱼很大、但钓上来的鱼却太大了这件事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/51/604307_0uM64.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月1日 / オグロアキラ[小黒晃] / ももよ万葉（SQEXノベル／スクウェア・エニックス刊）；漫画：ながと牡蠣（マンガUP!／スクウェア・エニックス刊） / 鈴木勇",
-    "link": null,
-    "tmdb_id": "304820",
-    "tmdb_site_id": "tv/304820",
+    "tmdb_id": "283888",
+    "tmdb_site_id": "tv/283888",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "316715",
-    "type": "tmdb",
-    "title": "这样高大的女孩子你喜欢吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/r3B29sbpSQL9IZ47Fs0Ftnz1Sj.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "“从今天起，你就是这里的宿舍管理员，兼任我们部的代理教练啦♪”\n\n因为姐姐薰的一句话，草太被迫成为了北英大学女子排球部的宿舍管理员兼教练。\n\n在那里，草太与初恋对象绫乃命运般地重逢了，然而……\n\n在女子宿舍！在体育馆！在酒店！？\n\n等待着他的是被一群身材比自己还高大的女孩子们耍得团圆转的日常！",
-    "link": null,
-    "tmdb_id": "316715",
-    "tmdb_site_id": "tv/316715",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "237529",
@@ -132,6 +80,40 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "304820",
+    "type": "tmdb",
+    "title": "关于虽然逃走的鱼很大、但钓上来的鱼却太大了这件事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/51/604307_0uM64.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月1日 / オグロアキラ[小黒晃] / ももよ万葉（SQEXノベル／スクウェア・エニックス刊）；漫画：ながと牡蠣（マンガUP!／スクウェア・エニックス刊） / 鈴木勇",
+    "link": null,
+    "tmdb_id": "304820",
+    "tmdb_site_id": "tv/304820",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "316424",
+    "type": "tmdb",
+    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ggrW5FRPFFjNFPZCkJ0VmlKIWw2.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
+    "link": null,
+    "tmdb_id": "316424",
+    "tmdb_site_id": "tv/316424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "249907",
     "type": "tmdb",
     "title": "判处勇者刑 惩罚勇者9004队刑务纪录",
@@ -148,6 +130,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "616453",
+    "type": "link",
+    "title": "这样高大的女孩子你喜欢吗？",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a4/3f/616453_q2e2i.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "12话 /  2026年4月5日 / 藁井草太 / 愛染五郎（竹コミ！／竹書房） / 足高長江",
+    "link": "https://bgm.tv/subject/616453"
+  },
+  {
     "id": "312293",
     "type": "tmdb",
     "title": "又被杀掉了呢，侦探大人",
@@ -160,38 +153,6 @@
     "tmdb_id": "312293",
     "tmdb_site_id": "tv/312293",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "286361",
-    "type": "tmdb",
-    "title": "魔法姐妹露露特莉莉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9f/c3/501796_xXYqn.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年4月5日 / 道解慎太郎 / スタジオぴえろ、バンダイナムコフィルムワークス / 鳥井なみこ、錦寛乃、袖山麻美；魔法人设：山田起生",
-    "link": null,
-    "tmdb_id": "286361",
-    "tmdb_site_id": "tv/286361",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "91801",
-    "type": "tmdb",
-    "title": "入间同学入魔了 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
-    "link": null,
-    "tmdb_id": "91801",
-    "tmdb_site_id": "tv/91801/season/4",
-    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -212,6 +173,38 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "91801",
+    "type": "tmdb",
+    "title": "入间同学入魔了 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
+    "link": null,
+    "tmdb_id": "91801",
+    "tmdb_site_id": "tv/91801/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "286361",
+    "type": "tmdb",
+    "title": "魔法姐妹露露特莉莉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9f/c3/501796_xXYqn.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年4月5日 / 道解慎太郎 / スタジオぴえろ、バンダイナムコフィルムワークス / 鳥井なみこ、錦寛乃、袖山麻美；魔法人设：山田起生",
+    "link": null,
+    "tmdb_id": "286361",
+    "tmdb_site_id": "tv/286361",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "139060",
@@ -246,22 +239,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "96316",
-    "type": "tmdb",
-    "title": "租借女友 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/ba/533027_I1FHy.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "3.6",
-    "description": "12话 /  2026年4月10日 / 古賀一臣 / 宮島礼吏（講談社「週刊少年マガジン」連載） / 平山寛菜",
-    "link": null,
-    "tmdb_id": "96316",
-    "tmdb_site_id": "tv/96316",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "278604",
     "type": "tmdb",
     "title": "古诺希亚",
@@ -278,17 +255,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "303796",
+    "id": "96316",
     "type": "tmdb",
-    "title": "幽灵音乐会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/89/600675_6yR2O.jpg",
-    "releaseDate": "2026-04-05",
+    "title": "租借女友 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/ba/533027_I1FHy.jpg",
+    "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "4.2",
-    "description": "12话 /  2026年4月5日 / 神保昌登 / UNISON / Project MiueS / 宇井川真明",
+    "rating": "3.6",
+    "description": "12话 /  2026年4月10日 / 古賀一臣 / 宮島礼吏（講談社「週刊少年マガジン」連載） / 平山寛菜",
     "link": null,
-    "tmdb_id": "303796",
-    "tmdb_site_id": "tv/303796",
+    "tmdb_id": "96316",
+    "tmdb_site_id": "tv/96316",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -321,24 +298,6 @@
     "link": "https://bgm.tv/subject/369304"
   },
   {
-    "id": "295357",
-    "type": "tmdb",
-    "title": "北斗神拳",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
-    "link": null,
-    "tmdb_id": "295357",
-    "tmdb_site_id": "tv/295357",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "37854",
     "type": "tmdb",
     "title": "航海王",
@@ -350,22 +309,6 @@
     "link": null,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "295999",
-    "type": "tmdb",
-    "title": "摩绪",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/af/570448_2265u.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "2026年4月4日 / 佐藤照雄 / 高橋留美子（小学館「週刊少年サンデー」連載） / 菱沼義仁",
-    "link": null,
-    "tmdb_id": "295999",
-    "tmdb_site_id": "tv/295999",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -383,6 +326,54 @@
     "tmdb_id": "196285",
     "tmdb_site_id": "tv/196285",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "277513",
+    "type": "tmdb",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
+    "releaseDate": "2025-07-07",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2025年7月7日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": null,
+    "tmdb_id": "277513",
+    "tmdb_site_id": "tv/277513",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "303796",
+    "type": "tmdb",
+    "title": "幽灵音乐会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/89/600675_6yR2O.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "4.2",
+    "description": "12话 /  2026年4月5日 / 神保昌登 / UNISON / Project MiueS / 宇井川真明",
+    "link": null,
+    "tmdb_id": "303796",
+    "tmdb_site_id": "tv/303796",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "37854",
+    "type": "tmdb",
+    "title": "航海王 埃鲁巴夫篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
+    "link": null,
+    "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854/season/23",
+    "tmdb_season_number": 23,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

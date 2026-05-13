@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "570448",
     "bgm_score": 6.2,
-    "bgm_rating_total": 195,
+    "bgm_rating_total": 196,
     "bgm_weekday_id": 6,
     "tmdb_id": "295999",
     "tmdb_site_id": "tv/295999",
@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "610703",
     "bgm_score": 5.4,
-    "bgm_rating_total": 141,
+    "bgm_rating_total": 142,
     "bgm_weekday_id": 2,
     "tmdb_id": "306790",
     "tmdb_site_id": "tv/306790",
@@ -153,6 +153,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "616453",
+    "type": "link",
+    "title": "这样高大的女孩子你喜欢吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a4/3f/616453_q2e2i.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/616453",
+    "bgm_id": "616453",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 103,
+    "bgm_weekday_id": 7
   },
   {
     "id": "37854",
@@ -286,7 +301,7 @@
     "link": "http://bgm.tv/subject/577190",
     "bgm_id": "577190",
     "bgm_score": 6.5,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 46,
     "bgm_weekday_id": 6
   },
   {
@@ -301,7 +316,7 @@
     "link": null,
     "bgm_id": "495238",
     "bgm_score": 6.8,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 7,
     "tmdb_id": "60761",
     "tmdb_site_id": "tv/60761/season/4",
@@ -418,20 +433,5 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "607043",
-    "type": "link",
-    "title": "小3阿贝 QQ小芝麻",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/607043",
-    "bgm_id": "607043",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
   }
 ]
