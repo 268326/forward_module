@@ -1,5 +1,16 @@
 [
   {
+    "id": "643933",
+    "type": "link",
+    "title": "欢迎来到后宫岛",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月31日 / Resta!",
+    "link": "https://bgm.tv/subject/643933"
+  },
+  {
     "id": "615446",
     "type": "link",
     "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
@@ -99,6 +110,17 @@
     "link": "https://bgm.tv/subject/565701"
   },
   {
+    "id": "496276",
+    "type": "link",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_O1333.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": "https://bgm.tv/subject/496276"
+  },
+  {
     "id": "117120",
     "type": "tmdb",
     "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
@@ -175,7 +197,7 @@
     "id": "577191",
     "type": "link",
     "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_5RoIl.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
@@ -192,6 +214,17 @@
     "rating": "7.9",
     "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
     "link": "https://bgm.tv/subject/501963"
+  },
+  {
+    "id": "495291",
+    "type": "link",
+    "title": "再见，拉拉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": "https://bgm.tv/subject/495291"
   },
   {
     "id": "454083",
@@ -250,38 +283,5 @@
     "rating": "",
     "description": "2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
     "link": "https://bgm.tv/subject/530729"
-  },
-  {
-    "id": "640604",
-    "type": "link",
-    "title": "蹂躙王国",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月3日",
-    "link": "https://bgm.tv/subject/640604"
-  },
-  {
-    "id": "613438",
-    "type": "link",
-    "title": "我家的弟弟们真是让您费心了",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
-    "link": "https://bgm.tv/subject/613438"
-  },
-  {
-    "id": "545917",
-    "type": "link",
-    "title": "描绘直至生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月3日 / 赤城博昭 / とよ田みのる（小学館「ゲッサン」連載中）",
-    "link": "https://bgm.tv/subject/545917"
   }
 ]

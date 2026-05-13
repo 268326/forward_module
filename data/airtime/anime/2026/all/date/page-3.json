@@ -1,5 +1,38 @@
 [
   {
+    "id": "545917",
+    "type": "link",
+    "title": "描绘直至生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月3日 / 赤城博昭 / とよ田みのる（小学館「ゲッサン」連載中）",
+    "link": "https://bgm.tv/subject/545917"
+  },
+  {
+    "id": "613438",
+    "type": "link",
+    "title": "我家的弟弟们真是让您费心了",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
+    "link": "https://bgm.tv/subject/613438"
+  },
+  {
+    "id": "640604",
+    "type": "link",
+    "title": "蹂躙王国",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月3日",
+    "link": "https://bgm.tv/subject/640604"
+  },
+  {
     "id": "511177",
     "type": "link",
     "title": "被流放的转生重骑士用游戏知识开无双",
@@ -178,7 +211,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "7.9",
+    "rating": "8.0",
     "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
     "link": "https://bgm.tv/subject/607915"
   },
@@ -230,44 +263,11 @@
     "id": "401552",
     "type": "link",
     "title": "钟馗",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/c9/401552_N92P3.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/c9/401552_fsFCs.jpg",
     "releaseDate": "2026-05-30",
     "mediaType": "anime",
     "rating": "",
     "description": "1话 /  2026年5月30日 / 王羽熙、黄山川",
     "link": "https://bgm.tv/subject/401552"
-  },
-  {
-    "id": "505562",
-    "type": "link",
-    "title": "剧场版 物怪 蛇神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/36/64/505562_HEZ2g.jpg",
-    "releaseDate": "2026-05-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年5月29日 / 越田知明 / [动画人设]高橋裕一",
-    "link": "https://bgm.tv/subject/505562"
-  },
-  {
-    "id": "631634",
-    "type": "link",
-    "title": "霧中ノ塔",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-05-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年5月29日 / シガナイアトリエ",
-    "link": "https://bgm.tv/subject/631634"
-  },
-  {
-    "id": "632411",
-    "type": "link",
-    "title": "性指導員のお仕事 The Animation",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-05-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年5月29日",
-    "link": "https://bgm.tv/subject/632411"
   }
 ]

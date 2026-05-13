@@ -1,5 +1,82 @@
 [
   {
+    "id": "544680",
+    "type": "link",
+    "title": "忏悔",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/2b/544680_HryPK.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 中島哲也 / 中島哲也、門間宣裕 / 西島秀俊",
+    "link": "https://bgm.tv/subject/544680"
+  },
+  {
+    "id": "633756",
+    "type": "link",
+    "title": "見えない娘 THE INVISIBLES",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/72/633756_LBh5b.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 竹林亮 / 夏生さえり、竹林亮 / 毎熊克哉",
+    "link": "https://bgm.tv/subject/633756"
+  },
+  {
+    "id": "627226",
+    "type": "link",
+    "title": "平行と垂直",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
+    "link": "https://bgm.tv/subject/627226"
+  },
+  {
+    "id": "639960",
+    "type": "link",
+    "title": "ANIME JAPAN FES 2026 “大阪夏の陣”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/de/639960_K7Ii7.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-08-23 / 堀江美都子、森本英世、チャーリー・コーセイ、遠藤正明、山形ユキオ、速水けんたろう",
+    "link": "https://bgm.tv/subject/639960"
+  },
+  {
+    "id": "617152",
+    "type": "link",
+    "title": "热舞巨星☆光之美少年 The Stage PARTY",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
+    "link": "https://bgm.tv/subject/617152"
+  },
+  {
+    "id": "583191",
+    "type": "link",
+    "title": "劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/60/583191_otc9T.jpg",
+    "releaseDate": "2026-08-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月21日 / 松木彩 / 黒岩勉 / 鈴木亮平",
+    "link": "https://bgm.tv/subject/583191"
+  },
+  {
+    "id": "635371",
+    "type": "link",
+    "title": "グノーシア　ザ・ライブプレイングシアター",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-08-21 / 松崎史也 / 池永英介",
+    "link": "https://bgm.tv/subject/635371"
+  },
+  {
     "id": "641261",
     "type": "link",
     "title": "IDOLiSH7  VISIBLIVE TOUR \"4WARD JOURNEY\"",
@@ -14,23 +91,12 @@
     "id": "632520",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/58/6c/632520_555Hs.jpg",
     "releaseDate": "2026-08-20",
     "mediaType": "real",
     "rating": "",
     "description": "2话 /  2026年8月20日",
     "link": "https://bgm.tv/subject/632520"
-  },
-  {
-    "id": "632945",
-    "type": "link",
-    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-08-16 / 大塚剛央（アクア役）、 伊駒ゆりえ（ルビー役）、 潘めぐみ（有馬かな役）、 大久保瑠美（MEMちょ役） 伊東健人（ゴロー役）、 高柳知葉（さりな役）",
-    "link": "https://bgm.tv/subject/632945"
   },
   {
     "id": "639959",
@@ -44,6 +110,17 @@
     "link": "https://bgm.tv/subject/639959"
   },
   {
+    "id": "632945",
+    "type": "link",
+    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-08-16 / 大塚剛央（アクア役）、 伊駒ゆりえ（ルビー役）、 潘めぐみ（有馬かな役）、 大久保瑠美（MEMちょ役） 伊東健人（ゴロー役）、 高柳知葉（さりな役）",
+    "link": "https://bgm.tv/subject/632945"
+  },
+  {
     "id": "639958",
     "type": "link",
     "title": "スーパーヒーロー魂2026 “夏の陣”",
@@ -53,6 +130,17 @@
     "rating": "",
     "description": "1话 /  2026-08-15 / 串田アキラ、MoJo、宮内タカユキ、真夏竜、前田達也、遠藤正明、つるの剛士、小林太郎、ボイジャー",
     "link": "https://bgm.tv/subject/639958"
+  },
+  {
+    "id": "646666",
+    "type": "link",
+    "title": "少女革命計画 2nd LIVE 「Revolutio」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
+    "link": "https://bgm.tv/subject/646666"
   },
   {
     "id": "644235",
@@ -77,28 +165,6 @@
     "link": "https://bgm.tv/subject/645126"
   },
   {
-    "id": "646666",
-    "type": "link",
-    "title": "少女革命計画 2nd LIVE 「Revolutio」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
-    "link": "https://bgm.tv/subject/646666"
-  },
-  {
-    "id": "576744",
-    "type": "link",
-    "title": "あの星が降る丘で、君とまた出会いたい。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
-    "releaseDate": "2026-08-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月7日 / 福原遥",
-    "link": "https://bgm.tv/subject/576744"
-  },
-  {
     "id": "131041",
     "type": "tmdb",
     "title": "蓝色监狱",
@@ -113,6 +179,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "576744",
+    "type": "link",
+    "title": "あの星が降る丘で、君とまた出会いたい。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
+    "releaseDate": "2026-08-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月7日 / 福原遥",
+    "link": "https://bgm.tv/subject/576744"
   },
   {
     "id": "639567",
@@ -159,15 +236,15 @@
     "link": "https://bgm.tv/subject/641037"
   },
   {
-    "id": "619753",
+    "id": "643357",
     "type": "link",
-    "title": "THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/e2/619753_DoWsN.jpg",
-    "releaseDate": "2026-07-24",
+    "title": "八神瑛子 -上野中央署 組織犯罪対策課-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/6a/643357_AHXJA.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026年7月24日",
-    "link": "https://bgm.tv/subject/619753"
+    "description": "5话 /  2026-07-24 / 黒木メイサ",
+    "link": "https://bgm.tv/subject/643357"
   },
   {
     "id": "638488",
@@ -181,96 +258,14 @@
     "link": "https://bgm.tv/subject/638488"
   },
   {
-    "id": "638501",
+    "id": "619753",
     "type": "link",
-    "title": "映画『超宇宙刑事ギャバン インフィニティ』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d1/8e/638501_Dt6rf.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/e2/619753_DoWsN.jpg",
+    "releaseDate": "2026-07-24",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-07-24",
-    "link": "https://bgm.tv/subject/638501"
-  },
-  {
-    "id": "643357",
-    "type": "link",
-    "title": "八神瑛子 -上野中央署 組織犯罪対策課-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/6a/643357_AHXJA.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "5话 /  2026-07-24 / 黒木メイサ",
-    "link": "https://bgm.tv/subject/643357"
-  },
-  {
-    "id": "633833",
-    "type": "link",
-    "title": "ウルトラヒーローズ THE LIVE ～紡ぎ続ける物語～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/73/633833_A8vt8.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月20日",
-    "link": "https://bgm.tv/subject/633833"
-  },
-  {
-    "id": "642454",
-    "type": "link",
-    "title": "F-272 1st ONE-MAN LIVE The Dissonant “I DOLL“",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/ad/642454_bCr3e.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-07-20 / F-272",
-    "link": "https://bgm.tv/subject/642454"
-  },
-  {
-    "id": "43017",
-    "type": "tmdb",
-    "title": "GTO",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/02/ba/645891_i8umi.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "2026-07-20 / 中島悟 / 遊川和彦 / 反町隆史",
-    "link": null,
-    "tmdb_id": "43017",
-    "tmdb_site_id": "tv/43017",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "613616",
-    "type": "link",
-    "title": "MyGO!!!!! 9th LIVE",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d7/613616_FnJsf.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-07-18",
-    "link": "https://bgm.tv/subject/613616"
-  },
-  {
-    "id": "642432",
-    "type": "link",
-    "title": "Shibuya LOVEZ OPENING SERIES「Lantis DAYZ」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/89/642432_xWNFz.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-07-18 / アイドルマスター SideM（W・Café Parade）、緒方恵美、寺島拓篤、仲村宗悟、畠中祐、広瀬裕也、古川慎、森久保祥太郎、藍井エイル、ARCANA PROJECT、イキヅライブ！LOVELIVE!BLUEBIRD いきづらい部！、佐々木李子、ZAQ、田中有紀、虹ヶ咲学園スクールアイドル同好会、ノクチル from アイドルマスター シャイニーカラーズ、H△G、MindaRyn、前橋ウィッチーズ、岬なこ",
-    "link": "https://bgm.tv/subject/642432"
-  },
-  {
-    "id": "622067",
-    "type": "link",
-    "title": "奥德赛",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/1e/622067_qY0ba.jpg",
-    "releaseDate": "2026-07-17",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月17日 / Christopher Nolan / Christopher Nolan / Matt Damon",
-    "link": "https://bgm.tv/subject/622067"
+    "description": "3话 /  2026年7月24日",
+    "link": "https://bgm.tv/subject/619753"
   }
 ]

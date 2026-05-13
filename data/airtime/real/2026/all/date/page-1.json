@@ -1,16 +1,5 @@
 [
   {
-    "id": "637146",
-    "type": "link",
-    "title": "BYE BYE LOVE 探偵はBARにいる",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/0c/637146_kTM9M.jpg",
-    "releaseDate": "2026-12-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
-    "link": "https://bgm.tv/subject/637146"
-  },
-  {
     "id": "538498",
     "type": "link",
     "title": "SUKIYAKI 昂首向前走",
@@ -20,6 +9,17 @@
     "rating": "",
     "description": "2026年12月25日 / 瀬々敬久 / 港岳彦 / 岡田准一",
     "link": "https://bgm.tv/subject/538498"
+  },
+  {
+    "id": "637146",
+    "type": "link",
+    "title": "BYE BYE LOVE 探偵はBARにいる",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/0c/637146_kTM9M.jpg",
+    "releaseDate": "2026-12-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
+    "link": "https://bgm.tv/subject/637146"
   },
   {
     "id": "645135",
@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "494701",
-    "type": "link",
-    "title": "沙丘：第三部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
-    "link": "https://bgm.tv/subject/494701"
-  },
-  {
     "id": "393438",
     "type": "link",
     "title": "复仇者联盟5：毁灭日",
@@ -55,10 +44,21 @@
     "link": "https://bgm.tv/subject/393438"
   },
   {
+    "id": "494701",
+    "type": "link",
+    "title": "沙丘：第三部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
+    "link": "https://bgm.tv/subject/494701"
+  },
+  {
     "id": "612440",
     "type": "link",
     "title": "勇敢者的游戏3",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/50/612440_ttt00.jpg",
     "releaseDate": "2026-12-11",
     "mediaType": "real",
     "rating": "",
@@ -110,6 +110,17 @@
     "link": "https://bgm.tv/subject/567322"
   },
   {
+    "id": "537681",
+    "type": "link",
+    "title": "指环王：力量之戒 第三季",
+    "posterPath": null,
+    "releaseDate": "2026-11-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年11月11日 / Charlotte Brändström、Sanaa Hamri、Stefan Schwartz / J. D. Payne、Patrick McKay、Justin Doble",
+    "link": "https://bgm.tv/subject/537681"
+  },
+  {
     "id": "632524",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- ファイナル公演",
@@ -132,17 +143,6 @@
     "link": "https://bgm.tv/subject/639278"
   },
   {
-    "id": "646304",
-    "type": "link",
-    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-11-03 / Diamond Dust",
-    "link": "https://bgm.tv/subject/646304"
-  },
-  {
     "id": "522524",
     "type": "link",
     "title": "哥斯拉-0.0",
@@ -152,6 +152,17 @@
     "rating": "",
     "description": "1话 /  2026年11月3日 / 山崎貴",
     "link": "https://bgm.tv/subject/522524"
+  },
+  {
+    "id": "646304",
+    "type": "link",
+    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-11-03 / Diamond Dust",
+    "link": "https://bgm.tv/subject/646304"
   },
   {
     "id": "633242",
@@ -203,6 +214,17 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
+  },
+  {
     "id": "311125",
     "type": "tmdb",
     "title": "以身相許",
@@ -232,6 +254,17 @@
     "link": "https://bgm.tv/subject/428025"
   },
   {
+    "id": "650384",
+    "type": "link",
+    "title": "わたしの知らない子どもたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
+    "link": "https://bgm.tv/subject/650384"
+  },
+  {
     "id": "567892",
     "type": "link",
     "title": "汝、星のごとく",
@@ -241,38 +274,5 @@
     "rating": "",
     "description": "1话 /  2026年10月9日 / 藤井道人 / 安達奈緒子 / 横浜流星、広瀬すず",
     "link": "https://bgm.tv/subject/567892"
-  },
-  {
-    "id": "646585",
-    "type": "link",
-    "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/d6/646585_5SzI8.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-10-03 / 千賀光莉、本渡楓、東山奈央、石井あみ、熊田茜音、増井優花",
-    "link": "https://bgm.tv/subject/646585"
-  },
-  {
-    "id": "630421",
-    "type": "link",
-    "title": "刀剣乱舞 - ICE BLADE -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-10-03",
-    "link": "https://bgm.tv/subject/630421"
-  },
-  {
-    "id": "642227",
-    "type": "link",
-    "title": "ママがもうこの世界にいなくても 私の命の日記",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
-    "link": "https://bgm.tv/subject/642227"
   }
 ]

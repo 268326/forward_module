@@ -61,6 +61,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "563256",
+    "type": "link",
+    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年5月8日",
+    "link": "https://bgm.tv/subject/563256"
+  },
+  {
+    "id": "288551",
+    "type": "tmdb",
+    "title": "木头风纪委员和迷你裙JK的故事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/ba/551123_IkXfk.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年4月6日 / 岩永大慈 / 横田卓馬（講談社「月刊少年シリウス」連載） / 氷室陽",
+    "link": null,
+    "tmdb_id": "288551",
+    "tmdb_site_id": "tv/288551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -68,7 +95,7 @@
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
     "rating": "7.0",
-    "description": "2026年4月4日 / 渡辺歩 / 末永裕樹・馬上鷹将（集英社「週刊少年ジャンプ」連載） / 田中紀衣",
+    "description": "12话 /  2026年4月4日 / 渡辺歩 / 末永裕樹・馬上鷹将（集英社「週刊少年ジャンプ」連載） / 田中紀衣",
     "link": null,
     "tmdb_id": "297438",
     "tmdb_site_id": "tv/297438",
@@ -93,20 +120,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "288551",
-    "type": "tmdb",
-    "title": "木头风纪委员和迷你裙JK的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/ba/551123_IkXfk.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年4月6日 / 岩永大慈 / 横田卓馬（講談社「月刊少年シリウス」連載） / 氷室陽",
-    "link": null,
-    "tmdb_id": "288551",
-    "tmdb_site_id": "tv/288551",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "541814",
+    "type": "link",
+    "title": "偶像大师 百万现场！～终有一天，立于中央～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
+    "releaseDate": "2026-03-27",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
+    "link": "https://bgm.tv/subject/541814"
   },
   {
     "id": "515869",
@@ -115,25 +137,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
     "releaseDate": "2026-02-13",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
     "link": "https://bgm.tv/subject/515869"
-  },
-  {
-    "id": "91768",
-    "type": "tmdb",
-    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
-    "link": null,
-    "tmdb_id": "91768",
-    "tmdb_site_id": "tv/91768/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "312474",
@@ -152,15 +158,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "541814",
-    "type": "link",
-    "title": "偶像大师 百万现场！～终有一天，立于中央～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
-    "releaseDate": "2026-03-27",
-    "mediaType": "anime",
+    "id": "91768",
+    "type": "tmdb",
+    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
     "rating": "6.9",
-    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
-    "link": "https://bgm.tv/subject/541814"
+    "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
+    "link": null,
+    "tmdb_id": "91768",
+    "tmdb_site_id": "tv/91768/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "544627",
@@ -201,17 +212,6 @@
     "link": "https://bgm.tv/subject/549975"
   },
   {
-    "id": "544626",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第2幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544626"
-  },
-  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
@@ -228,20 +228,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "301944",
-    "type": "tmdb",
-    "title": "婚姻剧毒",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
-    "link": null,
-    "tmdb_id": "301944",
-    "tmdb_site_id": "tv/301944",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "544626",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第2幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544626"
   },
   {
     "id": "278271",
@@ -266,7 +261,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "7.9",
+    "rating": "8.1",
     "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
     "link": null,
     "tmdb_id": "295357",
@@ -278,31 +273,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "91801",
+    "id": "301944",
     "type": "tmdb",
-    "title": "入间同学入魔了 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
-    "releaseDate": "2026-04-04",
+    "title": "婚姻剧毒",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
+    "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "6.6",
-    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
+    "rating": "6.8",
+    "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
     "link": null,
-    "tmdb_id": "91801",
-    "tmdb_site_id": "tv/91801/season/4",
-    "tmdb_season_number": 4,
+    "tmdb_id": "301944",
+    "tmdb_site_id": "tv/301944",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "507819",
-    "type": "link",
-    "title": "一人之下 第六季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_OD5zd.jpg",
-    "releaseDate": "2026-01-02",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "26话 /  2026年1月2日 / 米二 / 陈淑君",
-    "link": "https://bgm.tv/subject/507819"
   },
   {
     "id": "309163",
@@ -321,18 +305,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196285",
+    "id": "91801",
     "type": "tmdb",
-    "title": "异世界悠闲农家 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/71/575057_BCS8O.jpg",
-    "releaseDate": "2026-04-06",
+    "title": "入间同学入魔了 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
+    "releaseDate": "2026-04-04",
     "mediaType": "tv",
     "rating": "6.6",
-    "description": "12话 /  2026年4月6日 / 倉谷涼一 / 内藤騎之介「異世界のんびり農家」 / 齊藤佳子",
+    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
     "link": null,
-    "tmdb_id": "196285",
-    "tmdb_site_id": "tv/196285/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "91801",
+    "tmdb_site_id": "tv/91801/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -351,5 +335,16 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "507819",
+    "type": "link",
+    "title": "一人之下 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_OD5zd.jpg",
+    "releaseDate": "2026-01-02",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "26话 /  2026年1月2日 / 米二 / 陈淑君",
+    "link": "https://bgm.tv/subject/507819"
   }
 ]

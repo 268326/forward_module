@@ -1,5 +1,16 @@
 [
   {
+    "id": "552953",
+    "type": "link",
+    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
+    "releaseDate": "2026-02-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年2月21日",
+    "link": "https://bgm.tv/subject/552953"
+  },
+  {
     "id": "313902",
     "type": "tmdb",
     "title": "被女孩子逆推不行吗？",
@@ -14,6 +25,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312725",
+    "type": "tmdb",
+    "title": "九号秘事之黑帷背后",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "link": null,
+    "tmdb_id": "312725",
+    "tmdb_site_id": "tv/312725",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -47,17 +76,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "621874",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
-  },
-  {
     "id": "307652",
     "type": "tmdb",
     "title": "谎中之谎终为谎",
@@ -76,6 +94,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "573155",
+    "type": "link",
+    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
+    "link": "https://bgm.tv/subject/573155"
+  },
+  {
     "id": "559232",
     "type": "link",
     "title": "LoveLive!虹咲学园校园偶像同好会 FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』",
@@ -85,6 +114,35 @@
     "rating": "",
     "description": "2话 /  2026-01-17 / Day1：タンポポ（相良茉優（中須かすみ 役）、指出毬亜（エマ・ヴェルデ 役））、ヒナギク（田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役））、スズラン（大西亜玖璃（上原歩夢 役）、久保田未夢（朝香果林 役））／Day2：アサガオ（前田佳織里（桜坂しずく 役）、鬼頭明里（近江彼方 役））、サボテン（林鼓子（優木せつ菜 役）、内田秀（ミア・テイラー 役））、ハイビスカス（村上奈津実（宮下愛 役）、法元明菜（鐘嵐珠 役））",
     "link": "https://bgm.tv/subject/559232"
+  },
+  {
+    "id": "307182",
+    "type": "tmdb",
+    "title": "直到对挚友的“要不要同居”说出“好”",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zmta09ZIB0MWE4QW6bDpNDGAlTF.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "　　感情不外露的横井凑（吉泽要人 饰），与一切情绪都写在脸上的中乃航（雨宫翔 饰），看似性格相反，却因共同的摄影兴趣而成为挚友，并在大学时期同居。随着凑就业，两人不得不结束同居生活，航这才意识到自己对挚友的感情早已超越友情。数年后，两人以社会人身份重逢——一个“想要继续做朋友”的凑，一个“无论如何都想成为恋人”的航，从彼此的单恋开始，一段暖心又酸涩的双向暗恋喜剧就此展开。\n\n　　本剧改编自ろじ的同名原著漫画。",
+    "link": null,
+    "tmdb_id": "307182",
+    "tmdb_site_id": "tv/307182",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "590022",
+    "type": "link",
+    "title": "暗黑新娘！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
+    "link": "https://bgm.tv/subject/590022"
   },
   {
     "id": "306129",
@@ -101,6 +159,25 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "224377",
+    "type": "tmdb",
+    "title": "哈利波特与魔法石",
+    "posterPath": "https://image.tmdb.org/t/p/w500/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
+    "releaseDate": "2026-12-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "孤儿哈利·波特在11岁生日那天，收到一封来自霍格沃茨魔法学校的入学通知书，才得知自己是著名的“那个活下来的男孩”——曾幸存于黑魔头伏地魔的致命袭击。踏入霍格沃茨后，他结识了忠诚温暖的罗恩·韦斯莱和聪慧机警的赫敏·格兰杰，三人成为坚不可摧的朋友，也共同面对前所未有的挑战。\n\n随着故事推进，哈利渐渐感受到自己在魔法界的特殊地位——不仅是偶然，更是一种责任。霍格沃茨的师资阵容星光熠熠：校长邓布利多、神秘严厉的斯内普教授、坚毅的麦格教授、忠诚的卡鲁斯·海格，以及神秘幽默的魁若教授、阴险的监护人菲尔奇等人各具魅力，共同构筑了一个生动又复杂的魔法世界。",
+    "link": null,
+    "tmdb_id": "224377",
+    "tmdb_site_id": "tv/224377",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB",
+      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -141,50 +218,49 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "224377",
+    "id": "305818",
     "type": "tmdb",
-    "title": "哈利波特与魔法石",
-    "posterPath": "https://image.tmdb.org/t/p/w500/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
-    "releaseDate": "2026-12-01",
+    "title": "比熊猫更不擅长恋爱的我们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jlPyytPE0rEQSHDgUsFaot9NV78.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "孤儿哈利·波特在11岁生日那天，收到一封来自霍格沃茨魔法学校的入学通知书，才得知自己是著名的“那个活下来的男孩”——曾幸存于黑魔头伏地魔的致命袭击。踏入霍格沃茨后，他结识了忠诚温暖的罗恩·韦斯莱和聪慧机警的赫敏·格兰杰，三人成为坚不可摧的朋友，也共同面对前所未有的挑战。\n\n随着故事推进，哈利渐渐感受到自己在魔法界的特殊地位——不仅是偶然，更是一种责任。霍格沃茨的师资阵容星光熠熠：校长邓布利多、神秘严厉的斯内普教授、坚毅的麦格教授、忠诚的卡鲁斯·海格，以及神秘幽默的魁若教授、阴险的监护人菲尔奇等人各具魅力，共同构筑了一个生动又复杂的魔法世界。",
+    "rating": "7.0",
+    "description": "梦想成为时尚杂志编辑的柴田一叶（上白石萌歌 饰）在入社当天得知杂志休刊，只能在生活信息杂志中无力度日，事业与恋爱都找不到方向。某天，她被迫替高冷模特代写恋爱咨询专栏，为寻找灵感，她拜访研究“动物求爱行为”的准教授椎堂司（生田斗真 饰）。椎堂对人类情感毫无兴趣，却以动物世界的求偶方式解读爱情。一叶在与他的对话中重新理解喜欢、勇气与坚持，而两个同样笨拙的人，也在彼此身上慢慢找到靠近的理由。",
     "link": null,
-    "tmdb_id": "224377",
-    "tmdb_site_id": "tv/224377",
+    "tmdb_id": "305818",
+    "tmdb_site_id": "tv/305818",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "GB",
-      "US"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "573155",
+    "id": "593614",
     "type": "link",
-    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "惊变28年：白骨圣殿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/77/593614_90Q7n.jpg",
+    "releaseDate": "2026-01-16",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
-    "link": "https://bgm.tv/subject/573155"
+    "description": "2026年1月16日 / Nia DaCosta / Alex Garland / Alfie Williams、Ralph Fiennes",
+    "link": "https://bgm.tv/subject/593614"
   },
   {
-    "id": "307182",
+    "id": "270572",
     "type": "tmdb",
-    "title": "直到对挚友的“要不要同居”说出“好”",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zmta09ZIB0MWE4QW6bDpNDGAlTF.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "蝇王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
+    "releaseDate": "2026-02-08",
     "mediaType": "tv",
-    "rating": "8.2",
-    "description": "　　感情不外露的横井凑（吉泽要人 饰），与一切情绪都写在脸上的中乃航（雨宫翔 饰），看似性格相反，却因共同的摄影兴趣而成为挚友，并在大学时期同居。随着凑就业，两人不得不结束同居生活，航这才意识到自己对挚友的感情早已超越友情。数年后，两人以社会人身份重逢——一个“想要继续做朋友”的凑，一个“无论如何都想成为恋人”的航，从彼此的单恋开始，一段暖心又酸涩的双向暗恋喜剧就此展开。\n\n　　本剧改编自ろじ的同名原著漫画。",
+    "rating": "7.4",
+    "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
     "link": null,
-    "tmdb_id": "307182",
-    "tmdb_site_id": "tv/307182",
+    "tmdb_id": "270572",
+    "tmdb_site_id": "tv/270572",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "GB"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -198,17 +274,6 @@
     "rating": "",
     "description": "10话 /  2026年1月15日 / 進藤丈広、杉山嘉一 / 金杉弘子 / 奥野壮、豊田裕大",
     "link": "https://bgm.tv/subject/579830"
-  },
-  {
-    "id": "590022",
-    "type": "link",
-    "title": "暗黑新娘！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
-    "link": "https://bgm.tv/subject/590022"
   },
   {
     "id": "307249",
@@ -229,6 +294,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "6.7",
+    "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
+    "link": "https://bgm.tv/subject/494608"
+  },
+  {
     "id": "630977",
     "type": "link",
     "title": "神木隆之介",
@@ -238,6 +314,17 @@
     "rating": "",
     "description": "4话 /  2026-03-02 / 寺内康太郎 / 神木隆之介",
     "link": "https://bgm.tv/subject/630977"
+  },
+  {
+    "id": "633236",
+    "type": "link",
+    "title": "第一次变身",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/dd/633236_21Ny2.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-03-02 / 萩原健太郎 / 萩原健太郎",
+    "link": "https://bgm.tv/subject/633236"
   },
   {
     "id": "300360",
@@ -267,93 +354,5 @@
     "rating": "",
     "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
     "link": "https://bgm.tv/subject/623665"
-  },
-  {
-    "id": "305818",
-    "type": "tmdb",
-    "title": "比熊猫更不擅长恋爱的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jlPyytPE0rEQSHDgUsFaot9NV78.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "梦想成为时尚杂志编辑的柴田一叶（上白石萌歌 饰）在入社当天得知杂志休刊，只能在生活信息杂志中无力度日，事业与恋爱都找不到方向。某天，她被迫替高冷模特代写恋爱咨询专栏，为寻找灵感，她拜访研究“动物求爱行为”的准教授椎堂司（生田斗真 饰）。椎堂对人类情感毫无兴趣，却以动物世界的求偶方式解读爱情。一叶在与他的对话中重新理解喜欢、勇气与坚持，而两个同样笨拙的人，也在彼此身上慢慢找到靠近的理由。",
-    "link": null,
-    "tmdb_id": "305818",
-    "tmdb_site_id": "tv/305818",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "593614",
-    "type": "link",
-    "title": "惊变28年：白骨圣殿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/77/593614_2phqL.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年1月16日 / Nia DaCosta / Alex Garland / Alfie Williams、Ralph Fiennes",
-    "link": "https://bgm.tv/subject/593614"
-  },
-  {
-    "id": "270572",
-    "type": "tmdb",
-    "title": "蝇王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
-    "releaseDate": "2026-02-08",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
-    "link": null,
-    "tmdb_id": "270572",
-    "tmdb_site_id": "tv/270572",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "255661",
-    "type": "tmdb",
-    "title": "青年夏洛克",
-    "posterPath": "https://image.tmdb.org/t/p/w500/beWoUmSdD8BHGmtodOoxVYQO6lG.jpg",
-    "releaseDate": "2026-03-04",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "这部玩世不恭、动作场面精彩的推理影集由盖瑞奇执导，讲述夏洛克福尔摩斯的传奇起源，描绘这位著名侦探最早期的冒险故事。",
-    "link": null,
-    "tmdb_id": "255661",
-    "tmdb_site_id": "tv/255661",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "602333",
-    "type": "link",
-    "title": "超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2026 DAY1 -KAMEN RIDER-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e2/75/602333_8bgbO.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-02-03 / ARTIST：NAQT VANE、Do As Infinity、BACK-ON、倖田來未、ISSA、Beverly、鬼龍院翔、m.c.A・T、石原慎一、田中昌之、仮面ライダーGIRLS、RIDER CHIPS、TeddyLoid feat. Shigeru Matsuzaki（松崎しげる） & TOPHAMHAT-KYO；CAST＆MC：今井竜太郎、堀口真帆、三嶋健太、小貫莉奈、八木美樹、古川雄輝、篠宮暁",
-    "link": "https://bgm.tv/subject/602333"
-  },
-  {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "6.6",
-    "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
-    "link": "https://bgm.tv/subject/494608"
   }
 ]

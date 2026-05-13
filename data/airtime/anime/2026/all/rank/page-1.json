@@ -97,25 +97,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "7.9",
+    "rating": "8.0",
     "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
     "link": "https://bgm.tv/subject/607915"
-  },
-  {
-    "id": "37854",
-    "type": "tmdb",
-    "title": "航海王 埃鲁巴夫篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
-    "link": null,
-    "tmdb_id": "37854",
-    "tmdb_site_id": "tv/37854/season/23",
-    "tmdb_season_number": 23,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "283905",
@@ -159,6 +143,22 @@
     "rating": "7.5",
     "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
     "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "37854",
+    "type": "tmdb",
+    "title": "航海王 埃鲁巴夫篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
+    "link": null,
+    "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854/season/23",
+    "tmdb_season_number": 23,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "209867",
@@ -303,7 +303,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": "https://bgm.tv/subject/508004"
   },
@@ -341,7 +341,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "7.1",
+    "rating": "7.2",
     "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
     "link": null,
     "tmdb_id": "312522",

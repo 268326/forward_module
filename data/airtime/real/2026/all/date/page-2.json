@@ -1,5 +1,27 @@
 [
   {
+    "id": "630421",
+    "type": "link",
+    "title": "刀剣乱舞 - ICE BLADE -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-03",
+    "link": "https://bgm.tv/subject/630421"
+  },
+  {
+    "id": "646585",
+    "type": "link",
+    "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/d6/646585_5SzI8.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-10-03 / 千賀光莉、本渡楓、東山奈央、石井あみ、熊田茜音、増井優花",
+    "link": "https://bgm.tv/subject/646585"
+  },
+  {
     "id": "622250",
     "type": "link",
     "title": "时薪300日元的死神",
@@ -9,6 +31,17 @@
     "rating": "",
     "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
     "link": "https://bgm.tv/subject/622250"
+  },
+  {
+    "id": "642227",
+    "type": "link",
+    "title": "ママがもうこの世界にいなくても 私の命の日記",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
+    "link": "https://bgm.tv/subject/642227"
   },
   {
     "id": "645791",
@@ -22,6 +55,17 @@
     "link": "https://bgm.tv/subject/645791"
   },
   {
+    "id": "633558",
+    "type": "link",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
+    "link": "https://bgm.tv/subject/633558"
+  },
+  {
     "id": "638983",
     "type": "link",
     "title": "藁にもすがる獣たち",
@@ -33,15 +77,15 @@
     "link": "https://bgm.tv/subject/638983"
   },
   {
-    "id": "633558",
+    "id": "600005",
     "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "title": "しびれ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/95/600005_yZIt0.jpg",
     "releaseDate": "2026-09-25",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
-    "link": "https://bgm.tv/subject/633558"
+    "description": "2026年9月25日 / 内山拓也 / 内山拓也 / 北村匠海",
+    "link": "https://bgm.tv/subject/600005"
   },
   {
     "id": "639664",
@@ -58,23 +102,12 @@
     "id": "632522",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
     "releaseDate": "2026-09-22",
     "mediaType": "real",
     "rating": "",
     "description": "2话 /  2026年9月22日",
     "link": "https://bgm.tv/subject/632522"
-  },
-  {
-    "id": "647204",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE",
-    "posterPath": null,
-    "releaseDate": "2026-09-19",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月19日",
-    "link": "https://bgm.tv/subject/647204"
   },
   {
     "id": "640614",
@@ -99,15 +132,15 @@
     "link": "https://bgm.tv/subject/628086"
   },
   {
-    "id": "580127",
+    "id": "647204",
     "type": "link",
-    "title": "生化危机：爆发夜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_ltQ5t.jpg",
-    "releaseDate": "2026-09-18",
+    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE",
+    "posterPath": null,
+    "releaseDate": "2026-09-19",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams",
-    "link": "https://bgm.tv/subject/580127"
+    "description": "2026年9月19日",
+    "link": "https://bgm.tv/subject/647204"
   },
   {
     "id": "526932",
@@ -119,6 +152,17 @@
     "rating": "",
     "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
     "link": "https://bgm.tv/subject/526932"
+  },
+  {
+    "id": "580127",
+    "type": "link",
+    "title": "生化危机：爆发夜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_ltQ5t.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams",
+    "link": "https://bgm.tv/subject/580127"
   },
   {
     "id": "644128",
@@ -143,6 +187,17 @@
     "link": "https://bgm.tv/subject/643997"
   },
   {
+    "id": "649745",
+    "type": "link",
+    "title": "THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/08/38/649745_qOzPY.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-09-12",
+    "link": "https://bgm.tv/subject/649745"
+  },
+  {
     "id": "641774",
     "type": "link",
     "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar",
@@ -154,10 +209,32 @@
     "link": "https://bgm.tv/subject/641774"
   },
   {
+    "id": "650415",
+    "type": "link",
+    "title": "花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f5/650415_g259k.jpg",
+    "releaseDate": "2026-09-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年9月6日 / 花譜",
+    "link": "https://bgm.tv/subject/650415"
+  },
+  {
+    "id": "650417",
+    "type": "link",
+    "title": "KAMITSUBAKI FES ’26 FIELD OF RESONANCE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/38/650417_dnaa3.jpg",
+    "releaseDate": "2026-09-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年9月5日 / 花譜、理芽、春猿火、ヰ世界情緒、幸祜、空爽、明透、琶舞、心世紀 (御莉姫、佳鏡院、硝子宮) from 少女革命計画、罪十罰 (氷夏至、美古途、夕凪機) from 少女革命計画",
+    "link": "https://bgm.tv/subject/650417"
+  },
+  {
     "id": "632521",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福岡公演",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/38/f1/632521_3XlaC.jpg",
     "releaseDate": "2026-09-05",
     "mediaType": "real",
     "rating": "",
@@ -185,82 +262,5 @@
     "rating": "",
     "description": "2话 /  2026-08-30 / 葵あずさ(空野みなも／プリンセス・リップル役)、藤本侑里(識辺かがり／プリンセス・ジール役)、橘杏咲(一条ながせ／プリンセス・ミーティア役)、鬼頭明里(風花すみれ／プリンセス・ヴィオラ役)、伊藤美来(風花りり／プリンセス・ネージュ役)",
     "link": "https://bgm.tv/subject/639798"
-  },
-  {
-    "id": "633756",
-    "type": "link",
-    "title": "見えない娘 THE INVISIBLES",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/72/633756_LBh5b.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 竹林亮 / 夏生さえり、竹林亮 / 毎熊克哉",
-    "link": "https://bgm.tv/subject/633756"
-  },
-  {
-    "id": "627226",
-    "type": "link",
-    "title": "平行と垂直",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
-    "link": "https://bgm.tv/subject/627226"
-  },
-  {
-    "id": "544680",
-    "type": "link",
-    "title": "忏悔",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/2b/544680_HryPK.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 中島哲也 / 中島哲也、門間宣裕 / 西島秀俊",
-    "link": "https://bgm.tv/subject/544680"
-  },
-  {
-    "id": "639960",
-    "type": "link",
-    "title": "ANIME JAPAN FES 2026 “大阪夏の陣”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/de/639960_K7Ii7.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-23 / 堀江美都子、森本英世、チャーリー・コーセイ、遠藤正明、山形ユキオ、速水けんたろう",
-    "link": "https://bgm.tv/subject/639960"
-  },
-  {
-    "id": "641261",
-    "type": "link",
-    "title": "IDOLiSH7  VISIBLIVE TOUR \"4WARD JOURNEY\"",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/98/e4/641261_Nkza5.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-21 / IDOLiSH7[七瀬陸(CV.小野賢章)/和泉一織(CV.増田俊樹)/二階堂大和(CV.白井悠介)/和泉三月(CV.代永翼)/四葉環(CV.KENN)/逢坂壮五(CV.阿部敦)/六弥ナギ(CV.江口拓也)]、TRIGGER[九条天(CV.斉藤壮馬)/八乙女楽(CV.羽多野渉)/十龍之介(CV.佐藤拓也)]、Re:vale[百(CV.保志総一朗)/千(CV.立花慎之介)]、ŹOOĻ[亥清悠(CV:広瀬裕也)/狗丸トウマ(CV:木村昴)/棗巳波(CV:西山宏太朗)/御堂虎於(CV:近藤隆)]",
-    "link": "https://bgm.tv/subject/641261"
-  },
-  {
-    "id": "635371",
-    "type": "link",
-    "title": "グノーシア　ザ・ライブプレイングシアター",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-21 / 松崎史也 / 池永英介",
-    "link": "https://bgm.tv/subject/635371"
-  },
-  {
-    "id": "617152",
-    "type": "link",
-    "title": "热舞巨星☆光之美少年 The Stage PARTY",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
-    "link": "https://bgm.tv/subject/617152"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": "320229",
+    "type": "tmdb",
+    "title": "DEAD ENDー羅刹の刻印ー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/4f/643651_7ull7.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026-05-22 / 安見悟朗 / 大西雄仁 / 福士誠治",
+    "link": null,
+    "tmdb_id": "320229",
+    "tmdb_site_id": "tv/320229",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "636547",
     "type": "link",
     "title": "戴洛奇小镇 第二季",
@@ -285,16 +303,5 @@
     "rating": "",
     "description": "1话 /  2026-03-01 / やなぎなぎ 、She is Legend",
     "link": "https://bgm.tv/subject/607710"
-  },
-  {
-    "id": "564127",
-    "type": "link",
-    "title": "Hello, my friend",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年 / 市井昌秀 / 蒼井旬、山岡樹、村山暁、ケンゾウ・マルティニ、横溝菜帆、小寺結花、大友一生、安藤冶真、三木彩音、萩原聖人、釈由美子、西堀亮（マシンガンズ）、ステファニー・アリアン、本間淳志、一宮レイゼル、村松和輝",
-    "link": "https://bgm.tv/subject/564127"
   }
 ]

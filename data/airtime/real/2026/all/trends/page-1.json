@@ -6,9 +6,27 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "real",
-    "rating": "6.6",
+    "rating": "6.7",
     "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
     "link": "https://bgm.tv/subject/494608"
+  },
+  {
+    "id": "300529",
+    "type": "tmdb",
+    "title": "地狱占星师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "link": null,
+    "tmdb_id": "300529",
+    "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "636399",
@@ -22,17 +40,133 @@
     "link": "https://bgm.tv/subject/636399"
   },
   {
-    "id": "300529",
+    "id": "623261",
+    "type": "link",
+    "title": "头号战队豪兽者 Polar Beginning",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
+    "link": "https://bgm.tv/subject/623261"
+  },
+  {
+    "id": "272432",
     "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "title": "低智商犯罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+    "link": null,
+    "tmdb_id": "272432",
+    "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "620971",
+    "type": "link",
+    "title": "头号战队豪兽者VS奔奔者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
+    "link": "https://bgm.tv/subject/620971"
+  },
+  {
+    "id": "311871",
+    "type": "tmdb",
+    "title": "田锁兄弟",
+    "posterPath": "https://image.tmdb.org/t/p/w500/16I9yttXKSeU0WLia7cbKgN5Jau.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "31年前父母被杀的兄弟俩，长大后成为警察，为了亲手制裁因时效而无法被法律惩处的真凶，一边处理日常凶恶案件，一边追查过去的真相……",
+    "link": null,
+    "tmdb_id": "311871",
+    "tmdb_site_id": "tv/311871",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "626794",
+    "type": "link",
+    "title": "月夜行路 -答案尽在名作之中-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
+    "link": "https://bgm.tv/subject/626794"
+  },
+  {
+    "id": "631823",
+    "type": "link",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
+  },
+  {
+    "id": "314639",
+    "type": "tmdb",
+    "title": "银河的一票",
+    "posterPath": "https://image.tmdb.org/t/p/w500/goU5BxUsRn2w4lui9iw8DVOYaQJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "故事始于一封揭发政治家不正行为的告发信。执政党干事长之女、同时也是秘书的星野茉莉（黑木华 饰）暗中追查真相，却因此被父亲切割，失去工作与容身之所，人生瞬间跌入谷底。走投无路之际，她遇见了性格爽朗、毫无政治经验的小酒馆妈妈桑月冈明里（野吕佳代 饰）。一次突如其来的东京都知事选举，让茉莉萌生念头——推举这个“政治素人”参选。两名背景与性格截然不同的女性就此携手，在权谋与舆论交织的选战中并肩作战，展开一场笑中带泪、热血又另类的“选举娱乐”故事。",
+    "link": null,
+    "tmdb_id": "314639",
+    "tmdb_site_id": "tv/314639",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "315494",
+    "type": "tmdb",
+    "title": "重生 ～最后的英雄～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "7.5",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“重生＝REBORN”的故事。  被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。  作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
     "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
+    "tmdb_id": "315494",
+    "tmdb_site_id": "tv/315494",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "306479",
+    "type": "tmdb",
+    "title": "PROJECT R.E.D.",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
+    "releaseDate": "2026-02-15",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
+    "link": null,
+    "tmdb_id": "306479",
+    "tmdb_site_id": "tv/306479",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -56,133 +190,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "623261",
-    "type": "link",
-    "title": "头号战队豪兽者 Polar Beginning",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.3",
-    "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
-    "link": "https://bgm.tv/subject/623261"
-  },
-  {
-    "id": "631823",
-    "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
-  },
-  {
-    "id": "311871",
-    "type": "tmdb",
-    "title": "田锁兄弟",
-    "posterPath": "https://image.tmdb.org/t/p/w500/16I9yttXKSeU0WLia7cbKgN5Jau.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "31年前父母被杀的兄弟俩，长大后成为警察，为了亲手制裁因时效而无法被法律惩处的真凶，一边处理日常凶恶案件，一边追查过去的真相……",
-    "link": null,
-    "tmdb_id": "311871",
-    "tmdb_site_id": "tv/311871",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "620971",
-    "type": "link",
-    "title": "头号战队豪兽者VS奔奔者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.0",
-    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
-    "link": "https://bgm.tv/subject/620971"
-  },
-  {
-    "id": "303405",
-    "type": "tmdb",
-    "title": "九条的大罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
-    "link": null,
-    "tmdb_id": "303405",
-    "tmdb_site_id": "tv/303405",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "306479",
-    "type": "tmdb",
-    "title": "PROJECT R.E.D.",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
-    "releaseDate": "2026-02-15",
-    "mediaType": "tv",
-    "rating": "1.0",
-    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
-    "link": null,
-    "tmdb_id": "306479",
-    "tmdb_site_id": "tv/306479",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "369191",
-    "type": "link",
-    "title": "航海王 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/99/369191_N1rrT.jpg",
-    "releaseDate": "2026-03-10",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
-    "link": "https://bgm.tv/subject/369191"
-  },
-  {
-    "id": "626794",
-    "type": "link",
-    "title": "月夜行路 -答案尽在名作之中-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
-    "link": "https://bgm.tv/subject/626794"
-  },
-  {
-    "id": "314639",
-    "type": "tmdb",
-    "title": "银河的一票",
-    "posterPath": "https://image.tmdb.org/t/p/w500/goU5BxUsRn2w4lui9iw8DVOYaQJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "故事始于一封揭发政治家不正行为的告发信。执政党干事长之女、同时也是秘书的星野茉莉（黑木华 饰）暗中追查真相，却因此被父亲切割，失去工作与容身之所，人生瞬间跌入谷底。走投无路之际，她遇见了性格爽朗、毫无政治经验的小酒馆妈妈桑月冈明里（野吕佳代 饰）。一次突如其来的东京都知事选举，让茉莉萌生念头——推举这个“政治素人”参选。两名背景与性格截然不同的女性就此携手，在权谋与舆论交织的选战中并肩作战，展开一场笑中带泪、热血又另类的“选举娱乐”故事。",
-    "link": null,
-    "tmdb_id": "314639",
-    "tmdb_site_id": "tv/314639",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "305986",
     "type": "tmdb",
     "title": "钟表馆杀人事件",
@@ -197,53 +204,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315494",
-    "type": "tmdb",
-    "title": "重生 ～最后的英雄～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xlcm1xtiSlUWZm16LBtlYb0SIS6.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“重生＝REBORN”的故事。  被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。  作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
-    "link": null,
-    "tmdb_id": "315494",
-    "tmdb_site_id": "tv/315494",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "617739",
-    "type": "link",
-    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "real",
-    "rating": "5.9",
-    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
-    "link": "https://bgm.tv/subject/617739"
-  },
-  {
-    "id": "272432",
-    "type": "tmdb",
-    "title": "低智商犯罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/e4JlZu0PAQ2Qpg4Tj4qDfD0ePO1.jpg",
-    "releaseDate": "2026-05-04",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
-    "link": null,
-    "tmdb_id": "272432",
-    "tmdb_site_id": "tv/272432",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -266,6 +226,46 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "369191",
+    "type": "link",
+    "title": "航海王 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/99/369191_N1rrT.jpg",
+    "releaseDate": "2026-03-10",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
+    "link": "https://bgm.tv/subject/369191"
+  },
+  {
+    "id": "617739",
+    "type": "link",
+    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
+    "link": "https://bgm.tv/subject/617739"
+  },
+  {
+    "id": "278573",
+    "type": "tmdb",
+    "title": "21世纪大君夫人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+    "link": null,
+    "tmdb_id": "278573",
+    "tmdb_site_id": "tv/278573",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "314752",
     "type": "tmdb",
     "title": "Den giftige tvivl",
@@ -284,28 +284,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "601438",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
-    "releaseDate": "2026-04-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年4月25日",
-    "link": "https://bgm.tv/subject/601438"
-  },
-  {
-    "id": "620937",
-    "type": "link",
-    "title": "匹兹堡医护前线 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "15话 /  2026-01-08",
-    "link": "https://bgm.tv/subject/620937"
-  },
-  {
     "id": "613912",
     "type": "link",
     "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
@@ -315,6 +293,35 @@
     "rating": "",
     "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
     "link": "https://bgm.tv/subject/613912"
+  },
+  {
+    "id": "303405",
+    "type": "tmdb",
+    "title": "九条的大罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
+    "link": null,
+    "tmdb_id": "303405",
+    "tmdb_site_id": "tv/303405",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "601438",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
+    "releaseDate": "2026-04-25",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "2话 /  2026年4月25日",
+    "link": "https://bgm.tv/subject/601438"
   },
   {
     "id": "305227",
@@ -335,14 +342,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "609282",
-    "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
+    "id": "315758",
+    "type": "tmdb",
+    "title": "伪装的真实之吻",
+    "posterPath": "https://image.tmdb.org/t/p/w500/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本剧讲述业务部同期的四谷良与志藤全，自高中时代起就凡事较劲，成绩、运动、人气，甚至谁先升职都能拿来比个高下。多年后在公司意外重逢，曾被时间冲淡的竞争心再次燃起。两人即使成为同事，也习惯向对方发起新的挑战。一次玩笑般的「持久对决」让彼此的关系越界，情势从竞争逐渐转向亲密攻防。谁都不愿认输的他们，最终订下新的赌约──先攻陷对方、掳获芳心的人就算胜利！",
+    "link": null,
+    "tmdb_id": "315758",
+    "tmdb_site_id": "tv/315758",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

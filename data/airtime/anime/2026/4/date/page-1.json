@@ -22,6 +22,17 @@
     "link": "https://bgm.tv/subject/583786"
   },
   {
+    "id": "621555",
+    "type": "link",
+    "title": "装甲骑兵 灰色的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/bb/621555_XdLjA.jpg",
+    "releaseDate": "2026-11-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年11月20日 / 押井守 / 高橋良輔",
+    "link": "https://bgm.tv/subject/621555"
+  },
+  {
     "id": "477456",
     "type": "link",
     "title": "乐园追放 心之共鸣",
@@ -193,7 +204,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/a6/563041_X0778.jpg",
     "releaseDate": "2026-09-11",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.5",
     "description": "2026年9月11日 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』）",
     "link": "https://bgm.tv/subject/563041"
   },
@@ -248,19 +259,8 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.8",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
-  },
-  {
-    "id": "643933",
-    "type": "link",
-    "title": "欢迎来到后宫岛",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / Resta!",
-    "link": "https://bgm.tv/subject/643933"
   }
 ]

@@ -75,7 +75,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
     "releaseDate": "2026-02-15",
     "mediaType": "tv",
-    "rating": "1.0",
+    "rating": "5.5",
     "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
     "link": null,
     "tmdb_id": "306479",
@@ -188,9 +188,38 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.0",
+    "rating": "5.9",
     "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
     "link": "https://bgm.tv/subject/620971"
+  },
+  {
+    "id": "617739",
+    "type": "link",
+    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
+    "link": "https://bgm.tv/subject/617739"
+  },
+  {
+    "id": "300529",
+    "type": "tmdb",
+    "title": "地狱占星师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "link": null,
+    "tmdb_id": "300529",
+    "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "198178",
@@ -199,7 +228,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/5wfW72dFSqJGboyh6fCD01wxrLv.jpg",
     "releaseDate": "2026-01-27",
     "mediaType": "tv",
-    "rating": "7.1",
+    "rating": "7.0",
     "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
     "link": null,
     "tmdb_id": "198178",
@@ -247,17 +276,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "617739",
-    "type": "link",
-    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "real",
-    "rating": "5.9",
-    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
-    "link": "https://bgm.tv/subject/617739"
-  },
-  {
     "id": "312723",
     "type": "tmdb",
     "title": "牙狼＜GARO＞ 东之界楼",
@@ -300,29 +318,11 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "6.4",
+    "rating": "7.1",
     "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
     "link": null,
     "tmdb_id": "303405",
     "tmdb_site_id": "tv/303405",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "300529",
-    "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
-    "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

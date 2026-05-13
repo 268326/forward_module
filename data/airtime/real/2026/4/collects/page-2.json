@@ -1,14 +1,65 @@
 [
   {
+    "id": "478191",
+    "type": "link",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "6.2",
+    "description": "2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
+    "link": "https://bgm.tv/subject/478191"
+  },
+  {
     "id": "541822",
     "type": "link",
     "title": "夜魔侠：重生 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "7.8",
+    "rating": "7.9",
     "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
     "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.2",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
+    "id": "289356",
+    "type": "tmdb",
+    "title": "北方谦三 水浒传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4FrkTLr5crUUnMBL657kBZgcDnc.jpg",
+    "releaseDate": "2026-02-15",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "累计发行量突破1160万部，在文学史上散发着孤高光辉的北方谦三的历史大河小说《水浒传》，全19卷将在WOWOW完全映像化。故事发生在北宋末期（12世纪初）的中国，志同道合的汉人们聚集在“梁山泊”，为了纠正腐败的社会而勇敢地站起来。在本作品中担任主演的是至今为止引领日本电影、电视剧界的织田裕二，他饰演梁山泊的头领宋江。",
+    "link": null,
+    "tmdb_id": "289356",
+    "tmdb_site_id": "tv/289356",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "601438",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
+    "releaseDate": "2026-04-25",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "2话 /  2026年4月25日",
+    "link": "https://bgm.tv/subject/601438"
   },
   {
     "id": "544948",
@@ -22,15 +73,15 @@
     "link": "https://bgm.tv/subject/544948"
   },
   {
-    "id": "633271",
+    "id": "511454",
     "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
+    "releaseDate": "2026-03-14",
     "mediaType": "real",
-    "rating": "7.2",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
+    "rating": "",
+    "description": "1话 /  2026年3月14日",
+    "link": "https://bgm.tv/subject/511454"
   },
   {
     "id": "610619",
@@ -62,57 +113,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "601438",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
-    "releaseDate": "2026-04-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年4月25日",
-    "link": "https://bgm.tv/subject/601438"
-  },
-  {
-    "id": "511454",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
-    "releaseDate": "2026-03-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月14日",
-    "link": "https://bgm.tv/subject/511454"
-  },
-  {
-    "id": "289356",
-    "type": "tmdb",
-    "title": "北方谦三 水浒传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4FrkTLr5crUUnMBL657kBZgcDnc.jpg",
-    "releaseDate": "2026-02-15",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "累计发行量突破1160万部，在文学史上散发着孤高光辉的北方谦三的历史大河小说《水浒传》，全19卷将在WOWOW完全映像化。故事发生在北宋末期（12世纪初）的中国，志同道合的汉人们聚集在“梁山泊”，为了纠正腐败的社会而勇敢地站起来。在本作品中担任主演的是至今为止引领日本电影、电视剧界的织田裕二，他饰演梁山泊的头领宋江。",
-    "link": null,
-    "tmdb_id": "289356",
-    "tmdb_site_id": "tv/289356",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "609282",
-    "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
-  },
-  {
     "id": "588065",
     "type": "link",
     "title": "呼啸山庄",
@@ -142,6 +142,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "587208",
+    "type": "link",
+    "title": "学園アイドルマスター 初星音楽祭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
+    "releaseDate": "2026-02-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/587208"
+  },
+  {
     "id": "634222",
     "type": "link",
     "title": "真相捕捉 第三季",
@@ -153,15 +164,26 @@
     "link": "https://bgm.tv/subject/634222"
   },
   {
-    "id": "587208",
+    "id": "609282",
     "type": "link",
-    "title": "学園アイドルマスター 初星音楽祭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
-    "releaseDate": "2026-02-28",
+    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
+    "releaseDate": "2026-04-10",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/587208"
+    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
+    "link": "https://bgm.tv/subject/609282"
+  },
+  {
+    "id": "614123",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
   },
   {
     "id": "307977",
@@ -182,6 +204,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "307682",
+    "type": "tmdb",
+    "title": "冬日的什么呀，春日的什么呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
+    "link": null,
+    "tmdb_id": "307682",
+    "tmdb_site_id": "tv/307682",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "578285",
     "type": "link",
     "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
@@ -193,6 +233,17 @@
     "link": "https://bgm.tv/subject/578285"
   },
   {
+    "id": "489598",
+    "type": "link",
+    "title": "帝王计划：怪兽遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
+    "link": "https://bgm.tv/subject/489598"
+  },
+  {
     "id": "513985",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
@@ -202,6 +253,24 @@
     "rating": "",
     "description": "1话 /  2026年3月15日",
     "link": "https://bgm.tv/subject/513985"
+  },
+  {
+    "id": "278882",
+    "type": "tmdb",
+    "title": "年少有为",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
+    "link": null,
+    "tmdb_id": "278882",
+    "tmdb_site_id": "tv/278882",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "304928",
@@ -240,90 +309,14 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307682",
-    "type": "tmdb",
-    "title": "冬日的什么呀，春日的什么呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
-    "link": null,
-    "tmdb_id": "307682",
-    "tmdb_site_id": "tv/307682",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "552953",
+    "id": "621874",
     "type": "link",
-    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
-    "releaseDate": "2026-02-21",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026年2月21日",
-    "link": "https://bgm.tv/subject/552953"
-  },
-  {
-    "id": "489598",
-    "type": "link",
-    "title": "帝王计划：怪兽遗产 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
-    "link": "https://bgm.tv/subject/489598"
-  },
-  {
-    "id": "278882",
-    "type": "tmdb",
-    "title": "年少有为",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-    "link": null,
-    "tmdb_id": "278882",
-    "tmdb_site_id": "tv/278882",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "614123",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
-    "releaseDate": "2026-05-05",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月5日",
-    "link": "https://bgm.tv/subject/614123"
-  },
-  {
-    "id": "312725",
-    "type": "tmdb",
-    "title": "九号秘事之黑帷背后",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
-    "link": null,
-    "tmdb_id": "312725",
-    "tmdb_site_id": "tv/312725",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
   }
 ]

@@ -230,6 +230,17 @@
     "link": "https://bgm.tv/subject/534091"
   },
   {
+    "id": "648801",
+    "type": "link",
+    "title": "CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/f9/648801_B1P2d.jpg",
+    "releaseDate": "2026-05-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年5月9日",
+    "link": "https://bgm.tv/subject/648801"
+  },
+  {
     "id": "549830",
     "type": "link",
     "title": "克拉克森的农场 第五季",
@@ -258,7 +269,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "7.8",
+    "rating": "7.9",
     "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
     "link": "https://bgm.tv/subject/541822"
   },
@@ -272,23 +283,5 @@
     "rating": "",
     "description": "2026-01-10 / 堤幸彦",
     "link": "https://bgm.tv/subject/610856"
-  },
-  {
-    "id": "320229",
-    "type": "tmdb",
-    "title": "DEAD ENDー羅刹の刻印ー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/4f/643651_7ull7.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026-05-22 / 安見悟朗 / 大西雄仁 / 福士誠治",
-    "link": null,
-    "tmdb_id": "320229",
-    "tmdb_site_id": "tv/320229",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

@@ -1,102 +1,19 @@
 [
   {
-    "id": "315509",
+    "id": "279446",
     "type": "tmdb",
-    "title": "今夜、在秘密厨房",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ozOIltBskiMinsiwjQGbylcSHHF.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "太平年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+    "releaseDate": "2026-01-23",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "原本被视为拥有幸福婚姻的主妇坪仓步美（木南晴夏 饰），实际上长期承受丈夫的精神控制与压抑生活。某夜她在人生低谷中意外遇见神秘的意大利厨师Kei（高杉真宙 饰），两人在夜晚的厨房这一隐秘空间里，通过料理逐渐交流、互相治愈。随着一次次共同下厨，步美重新找回自我与生活的热情，而背负秘密的Kei也逐渐敞开心扉。在有限的时间与空间里，两人的关系慢慢升温，一段融合料理、疗愈与爱情的大人童话禁断恋情悄然展开。\n\n本剧改编自黒沢明世的同名原著漫画。",
+    "rating": "8.9",
+    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
     "link": null,
-    "tmdb_id": "315509",
-    "tmdb_site_id": "tv/315509",
+    "tmdb_id": "279446",
+    "tmdb_site_id": "tv/279446",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "637701",
-    "type": "link",
-    "title": "为全人类 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/35/637701_8g6Pm.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  March 27, 2026 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
-    "link": "https://bgm.tv/subject/637701"
-  },
-  {
-    "id": "278573",
-    "type": "tmdb",
-    "title": "21世纪大君夫人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.2",
-    "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
-    "link": null,
-    "tmdb_id": "278573",
-    "tmdb_site_id": "tv/278573",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315209",
-    "type": "tmdb",
-    "title": "鲭鱼罐头，飞向宇宙",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1VHKZz69Pmnn6EMotMNoPvK9JTw.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "本剧根据福井县水产高中学生挑战开发“宇宙食品”的真实事迹改编，讲述一群高中生因一句“也许能做宇宙食吧？”而踏上追梦之路的青春故事。新任教师朝野峻一（北村匠海 饰）怀揣理想赴任，却得知学校面临废校危机。在与学生们共同研发鲭鱼罐头、冲击宇宙日本食认证的过程中，他们屡遭挫折，却始终不放弃。最终，这份跨越世代传承的梦想获得认可，鲭鱼罐头被认证并送上国际空间站。故事温暖描绘了师生情谊、地方支持与追梦勇气，展现相信与坚持如何点亮未来。",
-    "link": null,
-    "tmdb_id": "315209",
-    "tmdb_site_id": "tv/315209",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "320988",
-    "type": "tmdb",
-    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
-    "link": null,
-    "tmdb_id": "320988",
-    "tmdb_site_id": "tv/320988",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315438",
-    "type": "tmdb",
-    "title": "所爱之人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5HTYaVD7UGo2YAvDOnsFgfqQX4i.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "日本每年有约20万具遗体被归为“死因不明”，真正接受法医学解剖的不足一成。为改变这一现状，厚生劳动省主导成立了拥有调查指示与解剖决定权的法医学专业团队——MEJ（Medical Examiner Japan）。\n\n从美国归来的天才法医学者水泽真澄（藤冈靛 饰）曾参与大量检死工作。他性格独特却洞察敏锐，不被常识束缚，常以一句“这存在矛盾”追问真相。面对遗体时，他以“LOVED ONE”相称，从细微痕迹中还原逝者生前的时间与被掩盖的事实。\n\n与他搭档的是MEJ中心长桐生麻帆（泷内公美 饰）。出身母子家庭的她立志通过制度改变社会，却在官僚体系中屡遭挫败。临危受命执掌MEJ的她虽无医学背景，却在一次次案件中直面“死因不明”背后的现实。\n\n立场与价值观截然不同的两人，在冲突与磨合中携手挑战疑难案件，揭开死亡背后的真相。",
-    "link": null,
-    "tmdb_id": "315438",
-    "tmdb_site_id": "tv/315438",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -119,22 +36,33 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "313899",
+    "id": "315209",
     "type": "tmdb",
-    "title": "对决",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5ygfB3iJBktJzksJl9BSdRDhXRJ.jpg",
-    "releaseDate": "2026-04-05",
+    "title": "鲭鱼罐头，飞向宇宙",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1VHKZz69Pmnn6EMotMNoPvK9JTw.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "　某医科大学被曝在入学考试中刻意压低女性考生分数。为查清真相，报社记者檜叶菊乃（松本若菜 饰）展开独立调查，并将目标锁定在医大理事神林晴海（铃木保奈美 饰）身上。神林巧妙回避追问，檜叶却坚信她是关键，步步逼近事实。在男性主导的社会中，两位女性各自背负信念与伤痕正面交锋，这场对峙最终将迎来出乎意料的走向。本作描绘女性为追求幸福、对抗不公而奋起的社会派娱乐作品。\n\n　　本剧改编自月村了衛的同名原著小说。",
+    "description": "本剧根据福井县水产高中学生挑战开发“宇宙食品”的真实事迹改编，讲述一群高中生因一句“也许能做宇宙食吧？”而踏上追梦之路的青春故事。新任教师朝野峻一（北村匠海 饰）怀揣理想赴任，却得知学校面临废校危机。在与学生们共同研发鲭鱼罐头、冲击宇宙日本食认证的过程中，他们屡遭挫折，却始终不放弃。最终，这份跨越世代传承的梦想获得认可，鲭鱼罐头被认证并送上国际空间站。故事温暖描绘了师生情谊、地方支持与追梦勇气，展现相信与坚持如何点亮未来。",
     "link": null,
-    "tmdb_id": "313899",
-    "tmdb_site_id": "tv/313899",
+    "tmdb_id": "315209",
+    "tmdb_site_id": "tv/315209",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "620937",
+    "type": "link",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "8.0",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
   },
   {
     "id": "634222",
@@ -146,46 +74,6 @@
     "rating": "",
     "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
     "link": "https://bgm.tv/subject/634222"
-  },
-  {
-    "id": "541822",
-    "type": "link",
-    "title": "夜魔侠：重生 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.8",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
-    "link": "https://bgm.tv/subject/541822"
-  },
-  {
-    "id": "315758",
-    "type": "tmdb",
-    "title": "伪装的真实之吻",
-    "posterPath": "https://image.tmdb.org/t/p/w500/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本剧讲述业务部同期的四谷良与志藤全，自高中时代起就凡事较劲，成绩、运动、人气，甚至谁先升职都能拿来比个高下。多年后在公司意外重逢，曾被时间冲淡的竞争心再次燃起。两人即使成为同事，也习惯向对方发起新的挑战。一次玩笑般的「持久对决」让彼此的关系越界，情势从竞争逐渐转向亲密攻防。谁都不愿认输的他们，最终订下新的赌约──先攻陷对方、掳获芳心的人就算胜利！",
-    "link": null,
-    "tmdb_id": "315758",
-    "tmdb_site_id": "tv/315758",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "540469",
-    "type": "link",
-    "title": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/66/540469_MhD5o.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "9.6",
-    "description": "1话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/540469"
   },
   {
     "id": "614123",
@@ -210,24 +98,6 @@
     "link": "https://bgm.tv/subject/621437"
   },
   {
-    "id": "316461",
-    "type": "tmdb",
-    "title": "烟蓝雨后晴",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iMl06yaMs1z23r1w0sj8YhtoQ7l.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "　曾在药企担任王牌销售的吾妻朔太郎（武田航平 饰）因事业瓶颈陷入迷茫，目前处于无职状态；他在偶然中被当年的职场劲敌、如今从事医疗翻译工作的久慈静（涩谷谦人 饰）所救。这对曾在八年前共度过一夜的旧友，在人生的转折点再度重逢，共同面对职场压力、亲人老去以及生活选择，开启了一段苦甜参半的成年爱情故事。",
-    "link": null,
-    "tmdb_id": "316461",
-    "tmdb_site_id": "tv/316461",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "614611",
     "type": "link",
     "title": "提欧奥特曼",
@@ -237,24 +107,6 @@
     "rating": "",
     "description": "2026年7月4日 / 二宮崇 (主导演)、辻本貴則 (主特摄导演) / 田辺茂範 (兼系列构成)",
     "link": "https://bgm.tv/subject/614611"
-  },
-  {
-    "id": "279446",
-    "type": "tmdb",
-    "title": "太平年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "tv",
-    "rating": "8.9",
-    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
-    "link": null,
-    "tmdb_id": "279446",
-    "tmdb_site_id": "tv/279446",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "625097",
@@ -268,20 +120,42 @@
     "link": "https://bgm.tv/subject/625097"
   },
   {
-    "id": "320075",
+    "id": "541822",
+    "type": "link",
+    "title": "夜魔侠：重生 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.9",
+    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
+    "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "637701",
+    "type": "link",
+    "title": "为全人类 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/35/637701_8g6Pm.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  March 27, 2026 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
+    "link": "https://bgm.tv/subject/637701"
+  },
+  {
+    "id": "289424",
     "type": "tmdb",
-    "title": "麦卡托·骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gNpQAqBSOGUDVuZIpauHK2bgSD0.jpg",
+    "title": "努力克服自卑的我们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "人气女作家（恒松祐里）向恶名昭彰的私家侦探麦卡托（水泽林太郎）提出调查委托，称“自己可能正遭人追杀”。每天送达的神秘扑克牌仿佛预示着“杀人倒计时”，这究竟意味着什么……？麦卡托与他的助手兼作家美袋三条（须贺健太）的推理锋芒毕露——。",
+    "rating": "9.2",
+    "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
     "link": null,
-    "tmdb_id": "320075",
-    "tmdb_site_id": "tv/320075",
+    "tmdb_id": "289424",
+    "tmdb_site_id": "tv/289424",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -292,38 +166,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
     "releaseDate": "2026-05-08",
     "mediaType": "real",
-    "rating": "",
+    "rating": "6.2",
     "description": "2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
     "link": "https://bgm.tv/subject/478191"
-  },
-  {
-    "id": "316205",
-    "type": "tmdb",
-    "title": "极致复仇：舍弃面容的家政妇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gwoYkyT1XaE6BhHEUP7DrFPX4w3.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "主人公望美原本与丈夫良一即将迎来孩子，沉浸在幸福之中，却在一次旅行中遭遇事故。当她醒来时，才得知腹中的孩子已经死产，而时间已过去整整四年。更残酷的是，这四年间良一早已与她离婚，并迎娶了大企业千金绘梨华。就在望美试图接受现实之时，她意外发现当年的事故其实是良一与绘梨华联手策划的杀人计划。得知真相后，她决心复仇。为了接近两人，望美改名换脸，以全新的身份潜入他们的家中成为家政妇。表面上她只是沉默工作的家政人员，暗地里却一步步布下复仇的棋局，誓要让毁掉自己人生的人付出代价。",
-    "link": null,
-    "tmdb_id": "316205",
-    "tmdb_site_id": "tv/316205",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "626308",
-    "type": "link",
-    "title": "Liella!的星手教程！！ 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/b6/626308_IZFPG.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-04-01 / Liella! （伊達さゆり（澁谷かのん役）、Liyuu（唐 可可役）、岬なこ（嵐 千砂都役）、ペイトン尚未（平安名すみれ役）、青山なぎさ（葉月 恋役）、鈴原希実（桜小路きな子役）、薮島朱音（米女メイ役）、大熊和奏（若菜四季役）、絵森彩（鬼塚夏美役）、結那（ウィーン・マルガレーテ役）、坂倉花（鬼塚冬毬役））",
-    "link": "https://bgm.tv/subject/626308"
   },
   {
     "id": "315508",
@@ -344,6 +189,68 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "638564",
+    "type": "link",
+    "title": "失控的她 -离越狱还有××天- 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/40/d9/638564_pWnKg.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "5话 /  2026-03-29 / 中茎強、茂山佳則、保母海里風 / 當銘啓太 / 篠原涼子",
+    "link": "https://bgm.tv/subject/638564"
+  },
+  {
+    "id": "648801",
+    "type": "link",
+    "title": "CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/f9/648801_B1P2d.jpg",
+    "releaseDate": "2026-05-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年5月9日",
+    "link": "https://bgm.tv/subject/648801"
+  },
+  {
+    "id": "540469",
+    "type": "link",
+    "title": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/66/540469_MhD5o.jpg",
+    "releaseDate": "2026-02-28",
+    "mediaType": "real",
+    "rating": "9.6",
+    "description": "1话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/540469"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
+    "id": "315438",
+    "type": "tmdb",
+    "title": "所爱之人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5HTYaVD7UGo2YAvDOnsFgfqQX4i.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "日本每年有约20万具遗体被归为“死因不明”，真正接受法医学解剖的不足一成。为改变这一现状，厚生劳动省主导成立了拥有调查指示与解剖决定权的法医学专业团队——MEJ（Medical Examiner Japan）。\n\n从美国归来的天才法医学者水泽真澄（藤冈靛 饰）曾参与大量检死工作。他性格独特却洞察敏锐，不被常识束缚，常以一句“这存在矛盾”追问真相。面对遗体时，他以“LOVED ONE”相称，从细微痕迹中还原逝者生前的时间与被掩盖的事实。\n\n与他搭档的是MEJ中心长桐生麻帆（泷内公美 饰）。出身母子家庭的她立志通过制度改变社会，却在官僚体系中屡遭挫败。临危受命执掌MEJ的她虽无医学背景，却在一次次案件中直面“死因不明”背后的现实。\n\n立场与价值观截然不同的两人，在冲突与磨合中携手挑战疑难案件，揭开死亡背后的真相。",
+    "link": null,
+    "tmdb_id": "315438",
+    "tmdb_site_id": "tv/315438",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "316177",
     "type": "tmdb",
     "title": "鬼女之家",
@@ -355,6 +262,78 @@
     "link": null,
     "tmdb_id": "316177",
     "tmdb_site_id": "tv/316177",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "319047",
+    "type": "tmdb",
+    "title": "Shared Planet",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/21/92/632658_lyQ5B.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "8话 /  2026-04-20 / 加藤綾佳、工藤渉 / 加藤綾佳 / 秋田汐梨、池田匡志",
+    "link": null,
+    "tmdb_id": "319047",
+    "tmdb_site_id": "tv/319047",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "SE"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312282",
+    "type": "tmdb",
+    "title": "对比的我和你",
+    "posterPath": "https://image.tmdb.org/t/p/w500/50Nnsu1jQ7B48IMbSd8YVetFC0L.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "总是身处人群中心、备受欢迎，却又带着几分冷淡的青山翔太（井内悠阳 饰），以及成绩优异、独来独往的一匹狼千川阳（阿久根温世 饰）。彼此不知道对方的班级和名字，却唯独记得那张脸。性格截然相反的两人，某天在通往天台的楼梯转角相遇了。在喧嚣仿佛被隔绝、只属于两人的空间里，他们开始诉说那些无法对人言说的内心。在无人知晓的校园一角，两人共用一只耳机，听着吉他即兴段的旋律，不知不觉间，彼此的心跳渐渐重合。本剧改编自itz的同名原著漫画。",
+    "link": null,
+    "tmdb_id": "312282",
+    "tmdb_site_id": "tv/312282",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316254",
+    "type": "tmdb",
+    "title": "BORDERLESS～广域移动搜查队～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6YRlr1z8bcXalWKuj1PZY459pW8.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "2.0",
+    "description": "非职业组刑警仲泽桃子（土屋太凤 饰）与新人刑警黄泽蕾（佐藤胜利 饰）同属警视厅“移动搜查课”，这是一个驾驶多功能搜查卡车奔赴各地调查案件的特殊部门。当案件跨越多个地区时，警视厅与各地警察之间常因管辖权产生对立，而移动搜查课正是为打破这种局面而设立。性格直率冲动的桃子，与因一次失误被调来的热血新人蕾，在被称为“一番星”的搜查车上，与队友们奔赴各地现场追查真相。在一次次广域案件调查中，两人逐渐成长，也慢慢揭开各自隐藏的过去。",
+    "link": null,
+    "tmdb_id": "316254",
+    "tmdb_site_id": "tv/316254",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316461",
+    "type": "tmdb",
+    "title": "烟蓝雨后晴",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iMl06yaMs1z23r1w0sj8YhtoQ7l.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "　曾在药企担任王牌销售的吾妻朔太郎（武田航平 饰）因事业瓶颈陷入迷茫，目前处于无职状态；他在偶然中被当年的职场劲敌、如今从事医疗翻译工作的久慈静（涩谷谦人 饰）所救。这对曾在八年前共度过一夜的旧友，在人生的转折点再度重逢，共同面对职场压力、亲人老去以及生活选择，开启了一段苦甜参半的成年爱情故事。",
+    "link": null,
+    "tmdb_id": "316461",
+    "tmdb_site_id": "tv/316461",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
