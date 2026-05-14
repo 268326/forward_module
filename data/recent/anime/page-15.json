@@ -16,15 +16,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296195",
-    "type": "link",
+    "id": "322512",
+    "type": "tmdb",
     "title": "Re：从零开始的异世界生活 新编集版",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/72/ef/296195_n0KqL.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pKoPOVWVeVj9bZl0cmK0S7HQs8W.jpg",
     "releaseDate": "2020-01-01",
-    "mediaType": "anime",
-    "rating": "7.6",
-    "description": "25话 /  2020年1月1日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
-    "link": "https://bgm.tv/subject/296195"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。\n\n刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。\n\n但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。",
+    "link": null,
+    "tmdb_id": "322512",
+    "tmdb_site_id": "tv/322512",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "276788",

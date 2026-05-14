@@ -1,5 +1,27 @@
 [
   {
+    "id": "282136",
+    "type": "tmdb",
+    "title": "将夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
+    "bgm_id": "406488",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 21,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "320598",
     "type": "tmdb",
     "title": "开拍啦！怪兽大电影",
@@ -22,21 +44,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "282136",
+    "id": "317320",
     "type": "tmdb",
-    "title": "将夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
-    "releaseDate": "2026-04-23",
+    "title": "大道独行之蝶龙变",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qgrVf9iv1NFYYgPN7YH4W7Z89NG.jpg",
+    "releaseDate": "2026-04-06",
     "mediaType": "tv",
-    "rating": "10.0",
-    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "rating": "8.0",
+    "description": "洛离从⼩被困于⽆灵之地银州⼤陆，成为天绝杀堂的第⼀杀⼿。⽗亲慈云⼤师牺牲⾃⼰为洛离换来⼀线⽣机，让其逃离银州，前往中天主世界去寻找真正的修仙之路。",
     "link": null,
-    "bgm_id": "406488",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 21,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282136",
-    "tmdb_site_id": "tv/282136",
+    "bgm_id": "405232",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "317320",
+    "tmdb_site_id": "tv/317320",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -54,33 +76,11 @@
     "description": "玉兰大陆，一个充满神奇生物与绚丽魔法的魔幻世界。一天，乌山镇的没落贵族少年林雷·巴鲁克，踏入布满灰尘的祖屋当中，无意中得到一枚看似普通的戒指一一盘龙戒指，从此他的人生发生了转变。在戒灵德林·柯沃特的帮助下，林雷开启了自己的传奇之旅，一个伟大魔法师由此诞生。从小镇走出的少年凭着其拼搏奋斗、自强不息的精神，不断迈向更高境界，在一次次游走于生死之间的磨砺中，一步步走向强者巅峰。",
     "link": null,
     "bgm_id": "395220",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 6,
+    "bgm_score": 4.4,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 4,
     "tmdb_id": "283805",
     "tmdb_site_id": "tv/283805",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "317320",
-    "type": "tmdb",
-    "title": "大道独行之蝶龙变",
-    "posterPath": "https://image.tmdb.org/t/p/w500/qgrVf9iv1NFYYgPN7YH4W7Z89NG.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "洛离从⼩被困于⽆灵之地银州⼤陆，成为天绝杀堂的第⼀杀⼿。⽗亲慈云⼤师牺牲⾃⼰为洛离换来⼀线⽣机，让其逃离银州，前往中天主世界去寻找真正的修仙之路。",
-    "link": null,
-    "bgm_id": "405232",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "317320",
-    "tmdb_site_id": "tv/317320",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
