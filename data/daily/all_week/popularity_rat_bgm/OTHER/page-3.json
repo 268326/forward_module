@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "610703",
     "bgm_score": 5.3,
-    "bgm_rating_total": 143,
+    "bgm_rating_total": 144,
     "bgm_weekday_id": 2,
     "tmdb_id": "306790",
     "tmdb_site_id": "tv/306790",
@@ -91,7 +91,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.7,
-    "bgm_rating_total": 125,
+    "bgm_rating_total": 126,
     "bgm_weekday_id": 4
   },
   {
@@ -316,7 +316,7 @@
     "link": null,
     "bgm_id": "495238",
     "bgm_score": 6.9,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 46,
     "bgm_weekday_id": 7,
     "tmdb_id": "60761",
     "tmdb_site_id": "tv/60761/season/4",
