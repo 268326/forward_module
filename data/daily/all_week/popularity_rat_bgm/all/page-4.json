@@ -144,12 +144,12 @@
     "posterPath": null,
     "releaseDate": "2026-04-19",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/641036",
     "bgm_id": "641036",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 14,
+    "bgm_score": 6.9,
+    "bgm_rating_total": 15,
     "bgm_weekday_id": 7
   },
   {
@@ -227,6 +227,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "564361",
+    "type": "link",
+    "title": "怪奇物语：来自85年的故事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/71/bb/564361_50zdd.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "anime",
+    "rating": "5.2",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/564361",
+    "bgm_id": "564361",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "607043",
     "type": "link",
     "title": "小3阿贝 QQ小芝麻",
@@ -255,21 +270,6 @@
     "bgm_score": 6.6,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "564361",
-    "type": "link",
-    "title": "怪奇物语：来自85年的故事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/71/bb/564361_50zdd.jpg",
-    "releaseDate": "2026-04-23",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/564361",
-    "bgm_id": "564361",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 4
   },
   {
     "id": "299962",

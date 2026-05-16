@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.7,
-    "bgm_rating_total": 129,
+    "bgm_rating_total": 130,
     "bgm_weekday_id": 4
   },
   {
@@ -36,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/71/bb/564361_50zdd.jpg",
     "releaseDate": "2026-04-23",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "5.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/564361",
     "bgm_id": "564361",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 4,
+    "bgm_score": 5.2,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 4
   },
   {
@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "493724",
     "bgm_score": 7.4,
-    "bgm_rating_total": 864,
+    "bgm_rating_total": 865,
     "bgm_weekday_id": 4,
     "tmdb_id": "291403",
     "tmdb_site_id": "tv/291403",
@@ -171,7 +171,7 @@
     "link": "http://bgm.tv/subject/508004",
     "bgm_id": "508004",
     "bgm_score": 7.2,
-    "bgm_rating_total": 424,
+    "bgm_rating_total": 427,
     "bgm_weekday_id": 4
   },
   {
@@ -186,7 +186,7 @@
     "link": null,
     "bgm_id": "513208",
     "bgm_score": 6.6,
-    "bgm_rating_total": 381,
+    "bgm_rating_total": 383,
     "bgm_weekday_id": 4,
     "tmdb_id": "303870",
     "tmdb_site_id": "tv/303870",
@@ -206,7 +206,7 @@
     "link": null,
     "bgm_id": "535669",
     "bgm_score": 6.9,
-    "bgm_rating_total": 803,
+    "bgm_rating_total": 807,
     "bgm_weekday_id": 4,
     "tmdb_id": "283428",
     "tmdb_site_id": "tv/283428",
