@@ -80,22 +80,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "293697",
-    "type": "tmdb",
-    "title": "想结束这场“我爱你”的游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
-    "releaseDate": "2026-04-14",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
-    "link": null,
-    "tmdb_id": "293697",
-    "tmdb_site_id": "tv/293697",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "312474",
     "type": "tmdb",
     "title": "日本三国",
@@ -107,6 +91,22 @@
     "link": null,
     "tmdb_id": "312474",
     "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "293697",
+    "type": "tmdb",
+    "title": "想结束这场“我爱你”的游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+    "releaseDate": "2026-04-14",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
+    "link": null,
+    "tmdb_id": "293697",
+    "tmdb_site_id": "tv/293697",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -160,22 +160,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
-    "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "5.1",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
-    "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -187,6 +171,22 @@
     "link": null,
     "tmdb_id": "288551",
     "tmdb_site_id": "tv/288551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -224,6 +224,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "82684",
+    "type": "tmdb",
+    "title": "关于我转生变成史莱姆这档事 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_Uj20c.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
+    "link": null,
+    "tmdb_id": "82684",
+    "tmdb_site_id": "tv/82684/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -240,29 +256,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "82684",
-    "type": "tmdb",
-    "title": "关于我转生变成史莱姆这档事 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_Uj20c.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
-    "link": null,
-    "tmdb_id": "82684",
-    "tmdb_site_id": "tv/82684/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": null,
     "tmdb_id": "283428",
@@ -320,22 +320,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "295751",
-    "type": "tmdb",
-    "title": "一叠间漫画咖啡屋生活！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
-    "link": null,
-    "tmdb_id": "295751",
-    "tmdb_site_id": "tv/295751",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -352,6 +336,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "295751",
+    "type": "tmdb",
+    "title": "一叠间漫画咖啡屋生活！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
+    "link": null,
+    "tmdb_id": "295751",
+    "tmdb_site_id": "tv/295751",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -366,16 +377,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
   }
 ]
