@@ -1,5 +1,16 @@
 [
   {
+    "id": "651573",
+    "type": "link",
+    "title": "玩美×玩媚",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2话 /  2026年7月31日 / メツブシ「デコ×デコ」(ジーオーティー刊)",
+    "link": "https://bgm.tv/subject/651573"
+  },
+  {
     "id": "643933",
     "type": "link",
     "title": "欢迎来到后宫岛",
@@ -161,6 +172,17 @@
     "link": "https://bgm.tv/subject/638497"
   },
   {
+    "id": "615835",
+    "type": "link",
+    "title": "炒翻天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_1zist.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / あおきえい / 西条真二「鉄鍋のジャン！」（KADOKAWA刊） / 松本昌子",
+    "link": "https://bgm.tv/subject/615835"
+  },
+  {
     "id": "598058",
     "type": "link",
     "title": "超超超超超喜欢你的100个女朋友 第三季",
@@ -197,7 +219,7 @@
     "id": "577191",
     "type": "link",
     "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_5RoIl.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
@@ -254,34 +276,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "285993",
-    "type": "tmdb",
-    "title": "暗黑灯火",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wwVm2Mnpm210b5cDpGgwOO96KLg.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "次郎是一个拥有与动物交谈能力的少年。从小由祖父抚养并接受忍者训练，他因与众不同而被他人疏远，却在动物中找到了慰藉，并致力于保护它们。一天，他救了一只受伤的黑猫——拉格，但很快发现它并非普通的猫，而是一只“物怪”，正被一个神秘组织追捕。面对这一情况，次郎毫不犹豫地决定帮助他的新朋友。",
-    "link": null,
-    "tmdb_id": "285993",
-    "tmdb_site_id": "tv/285993",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "530729",
-    "type": "link",
-    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_97plU.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
-    "link": "https://bgm.tv/subject/530729"
   }
 ]

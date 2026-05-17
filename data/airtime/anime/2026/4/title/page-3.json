@@ -1,12 +1,23 @@
 [
   {
+    "id": "579787",
+    "type": "link",
+    "title": "LV999的村民",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9UZ4h.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
+    "link": "https://bgm.tv/subject/579787"
+  },
+  {
     "id": "295999",
     "type": "tmdb",
     "title": "摩绪",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/af/570448_2265u.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.1",
     "description": "2026年4月4日 / 佐藤照雄 / 高橋留美子（小学館「週刊少年サンデー」連載） / 菱沼義仁",
     "link": null,
     "tmdb_id": "295999",
@@ -166,7 +177,7 @@
     "id": "577191",
     "type": "link",
     "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_5RoIl.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
@@ -283,16 +294,5 @@
     "rating": "",
     "description": "2026年10月 / 小野勝巳 / 岩代俊明（集英社刊） / 大熊白",
     "link": "https://bgm.tv/subject/614640"
-  },
-  {
-    "id": "638494",
-    "type": "link",
-    "title": "Re：从零开始的休息时间4",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/a4/638494_E7Ieh.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "2026年4月8日 / 芦名みのる / 長月達平(MF文庫J「Re:ゼロから始める異世界生活」／KADOKAWA刊) / 小角色设定：たけはらみのる",
-    "link": "https://bgm.tv/subject/638494"
   }
 ]

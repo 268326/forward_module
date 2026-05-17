@@ -1,5 +1,27 @@
 [
   {
+    "id": "623077",
+    "type": "link",
+    "title": "白鸟与蝙蝠",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a8/75/623077_Iug87.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-04 / 岸善幸 / 向井康介 / 松村北斗、今田美桜",
+    "link": "https://bgm.tv/subject/623077"
+  },
+  {
+    "id": "639798",
+    "type": "link",
+    "title": "オルケリア1st LIVE「PRINCESS RESONANCE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/72/639798_lwKjh.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-08-30 / 葵あずさ(空野みなも／プリンセス・リップル役)、藤本侑里(識辺かがり／プリンセス・ジール役)、橘杏咲(一条ながせ／プリンセス・ミーティア役)、鬼頭明里(風花すみれ／プリンセス・ヴィオラ役)、伊藤美来(風花りり／プリンセス・ネージュ役)",
+    "link": "https://bgm.tv/subject/639798"
+  },
+  {
     "id": "544680",
     "type": "link",
     "title": "忏悔",
@@ -113,7 +135,7 @@
     "id": "632945",
     "type": "link",
     "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/df/632945_ih0yr.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
@@ -236,36 +258,21 @@
     "link": "https://bgm.tv/subject/641037"
   },
   {
-    "id": "643357",
-    "type": "link",
-    "title": "八神瑛子 -上野中央署 組織犯罪対策課-",
+    "id": "322688",
+    "type": "tmdb",
+    "title": "八神瑛子 – 上野中央署 組織犯罪対策課 –",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/6a/643357_AHXJA.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "5话 /  2026-07-24 / 黒木メイサ",
-    "link": "https://bgm.tv/subject/643357"
-  },
-  {
-    "id": "638488",
-    "type": "link",
-    "title": "映画『仮面ライダーゼッツ』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/03/3a/638488_ppUq9.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-07-24",
-    "link": "https://bgm.tv/subject/638488"
-  },
-  {
-    "id": "619753",
-    "type": "link",
-    "title": "THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/e2/619753_DoWsN.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026年7月24日",
-    "link": "https://bgm.tv/subject/619753"
+    "link": null,
+    "tmdb_id": "322688",
+    "tmdb_site_id": "tv/322688",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

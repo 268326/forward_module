@@ -134,17 +134,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
-  },
-  {
     "id": "37854",
     "type": "tmdb",
     "title": "航海王 埃鲁巴夫篇",
@@ -157,6 +146,33 @@
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854/season/23",
     "tmdb_season_number": 23,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "94404",
+    "type": "tmdb",
+    "title": "异兽魔都 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
+    "link": null,
+    "tmdb_id": "94404",
+    "tmdb_site_id": "tv/94404/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -177,22 +193,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94404",
-    "type": "tmdb",
-    "title": "异兽魔都 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
-    "link": null,
-    "tmdb_id": "94404",
-    "tmdb_site_id": "tv/94404/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "243430",
     "type": "link",
     "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
@@ -202,22 +202,6 @@
     "rating": "7.5",
     "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
     "link": "https://bgm.tv/subject/243430"
-  },
-  {
-    "id": "291403",
-    "type": "tmdb",
-    "title": "淡岛百景",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
-    "link": null,
-    "tmdb_id": "291403",
-    "tmdb_site_id": "tv/291403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -231,6 +215,22 @@
     "link": null,
     "tmdb_id": "65942",
     "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "291403",
+    "type": "tmdb",
+    "title": "淡岛百景",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
+    "link": null,
+    "tmdb_id": "291403",
+    "tmdb_site_id": "tv/291403",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -252,17 +252,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "587454",
-    "type": "link",
-    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
-    "link": "https://bgm.tv/subject/587454"
-  },
-  {
     "id": "229443",
     "type": "tmdb",
     "title": "公主大人“拷问”的时间到了 第二季",
@@ -277,6 +266,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "587454",
+    "type": "link",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": "https://bgm.tv/subject/587454"
   },
   {
     "id": "298026",
@@ -341,7 +341,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "7.2",
+    "rating": "7.1",
     "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
     "link": null,
     "tmdb_id": "312522",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "300015",
+    "type": "tmdb",
+    "title": "草莓哀歌",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2EA5ZZke1tM0JgjifMul1k6TRLC.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "由 神马耶树 作画的漫画《草莓哀歌～缺根筋的活泼妹妹与无法释怀的哥哥～》TV动画  「帅气哥哥入手！」这种好事果然没那么容易！因父亲再婚而多出来的妹妹，竟然是和自己完全相反的超级辣妹！同居后，她还经常把男人带回家，让光太每天都快受不了了，然而某起事件之后，蓝花开始对他提出拥抱，甚至更进一步的要求！ ？",
+    "link": null,
+    "tmdb_id": "300015",
+    "tmdb_site_id": "tv/300015",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "90937",
     "type": "tmdb",
     "title": "动物狂想曲 最终季 第二部分",
@@ -41,17 +59,6 @@
     "rating": "6.2",
     "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
     "link": "https://bgm.tv/subject/423036"
-  },
-  {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
   },
   {
     "id": "204266",
@@ -97,17 +104,6 @@
     "link": "https://bgm.tv/subject/484701"
   },
   {
-    "id": "618795",
-    "type": "link",
-    "title": "学园偶像大师 Story of Re;IRIS",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2c/618795_kS9Rt.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "11话 /  2026年1月1日 / 京極尚彦 / バンダイナムコエンターテインメント",
-    "link": "https://bgm.tv/subject/618795"
-  },
-  {
     "id": "298026",
     "type": "tmdb",
     "title": "放开那个女巫",
@@ -126,17 +122,44 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "618795",
+    "type": "link",
+    "title": "学园偶像大师 Story of Re;IRIS",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2c/618795_kS9Rt.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "11话 /  2026年1月1日 / 京極尚彦 / バンダイナムコエンターテインメント",
+    "link": "https://bgm.tv/subject/618795"
+  },
+  {
     "id": "284495",
     "type": "tmdb",
     "title": "异世界的安泰全看社畜",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/3b/522370_FFyEr.jpg",
     "releaseDate": "2026-01-06",
     "mediaType": "tv",
-    "rating": "5.1",
+    "rating": "5.2",
     "description": "12话 /  2026年1月6日 / 石平信司 / 八月八（KADOKAWA刊） / 藤井まき",
     "link": null,
     "tmdb_id": "284495",
     "tmdb_site_id": "tv/284495",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -174,22 +197,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "508004",
@@ -235,22 +242,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "274141",
-    "type": "tmdb",
-    "title": "优雅贵族的休假指南。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg",
-    "releaseDate": "2026-01-07",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "12话 /  2026年1月7日 / 能田健太 / 岬（TOブックス刊） / 藤原彰人",
-    "link": null,
-    "tmdb_id": "274141",
-    "tmdb_site_id": "tv/274141",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "287591",
     "type": "tmdb",
     "title": "皎洁迎宵之月",
@@ -262,6 +253,22 @@
     "link": null,
     "tmdb_id": "287591",
     "tmdb_site_id": "tv/287591",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "274141",
+    "type": "tmdb",
+    "title": "优雅贵族的休假指南。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg",
+    "releaseDate": "2026-01-07",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "12话 /  2026年1月7日 / 能田健太 / 岬（TOブックス刊） / 藤原彰人",
+    "link": null,
+    "tmdb_id": "274141",
+    "tmdb_site_id": "tv/274141",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -299,6 +306,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "196950",
+    "type": "tmdb",
+    "title": "尖帽子的魔法工房",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "link": null,
+    "tmdb_id": "196950",
+    "tmdb_site_id": "tv/196950",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "541814",
     "type": "link",
     "title": "偶像大师 百万现场！～终有一天，立于中央～",
@@ -321,22 +344,6 @@
     "link": null,
     "tmdb_id": "305329",
     "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "196950",
-    "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
-    "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

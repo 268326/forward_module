@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "393438",
-    "type": "link",
-    "title": "复仇者联盟5：毁灭日",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
-    "link": "https://bgm.tv/subject/393438"
-  },
-  {
     "id": "494701",
     "type": "link",
     "title": "沙丘：第三部分",
@@ -53,6 +42,17 @@
     "rating": "",
     "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
     "link": "https://bgm.tv/subject/494701"
+  },
+  {
+    "id": "393438",
+    "type": "link",
+    "title": "复仇者联盟5：毁灭日",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
+    "link": "https://bgm.tv/subject/393438"
   },
   {
     "id": "612440",
@@ -187,6 +187,17 @@
     "link": "https://bgm.tv/subject/620303"
   },
   {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
+  },
+  {
     "id": "287591",
     "type": "tmdb",
     "title": "うるわしの宵の月",
@@ -214,15 +225,15 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
-    "id": "650117",
+    "id": "650384",
     "type": "link",
-    "title": "昨夜は殺れたかも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "わたしの知らない子どもたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
+    "releaseDate": "2026-10-16",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
-    "link": "https://bgm.tv/subject/650117"
+    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
+    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "311125",
@@ -254,25 +265,21 @@
     "link": "https://bgm.tv/subject/428025"
   },
   {
-    "id": "650384",
-    "type": "link",
-    "title": "わたしの知らない子どもたち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
-    "link": "https://bgm.tv/subject/650384"
-  },
-  {
-    "id": "567892",
-    "type": "link",
-    "title": "汝、星のごとく",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/c7/567892_mW54W.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月9日 / 藤井道人 / 安達奈緒子 / 横浜流星、広瀬すず",
-    "link": "https://bgm.tv/subject/567892"
+    "id": "213375",
+    "type": "tmdb",
+    "title": "幻视任务",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6j60tGRAjBmWRPTOEwhW6oRbPMP.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "讲述幻视试图恢复记忆和人性的故事。",
+    "link": null,
+    "tmdb_id": "213375",
+    "tmdb_site_id": "tv/213375",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": "567892",
+    "type": "link",
+    "title": "汝、星のごとく",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/c7/567892_mW54W.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月9日 / 藤井道人 / 安達奈緒子 / 横浜流星、広瀬すず",
+    "link": "https://bgm.tv/subject/567892"
+  },
+  {
     "id": "630421",
     "type": "link",
     "title": "刀剣乱舞 - ICE BLADE -",
@@ -22,17 +33,6 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "622250",
-    "type": "link",
-    "title": "时薪300日元的死神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
-    "link": "https://bgm.tv/subject/622250"
-  },
-  {
     "id": "642227",
     "type": "link",
     "title": "ママがもうこの世界にいなくても 私の命の日記",
@@ -44,6 +44,17 @@
     "link": "https://bgm.tv/subject/642227"
   },
   {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
+  },
+  {
     "id": "645791",
     "type": "link",
     "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
@@ -53,17 +64,6 @@
     "rating": "",
     "description": "2话 /  2026年9月26日",
     "link": "https://bgm.tv/subject/645791"
-  },
-  {
-    "id": "633558",
-    "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
-    "link": "https://bgm.tv/subject/633558"
   },
   {
     "id": "638983",
@@ -88,6 +88,17 @@
     "link": "https://bgm.tv/subject/600005"
   },
   {
+    "id": "633558",
+    "type": "link",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
+    "link": "https://bgm.tv/subject/633558"
+  },
+  {
     "id": "639664",
     "type": "link",
     "title": "Morfonica LIVE「Movement」",
@@ -110,17 +121,6 @@
     "link": "https://bgm.tv/subject/632522"
   },
   {
-    "id": "640614",
-    "type": "link",
-    "title": "学园偶像音乐剧 2026年公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/31/640614_tdQ7n.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "13话 /  2026-09-19 / 岸本功喜 / 岸本功喜 / 堀内まり菜、浅井七海、杏ジュリア、清水理子、由良朱合、宮本佳林、安本彩花／南野巴那、仲村悠菜／及川結依、井上音生、村山結香、岡村さやか、蒼乃夕妃",
-    "link": "https://bgm.tv/subject/640614"
-  },
-  {
     "id": "628086",
     "type": "link",
     "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
@@ -141,6 +141,17 @@
     "rating": "",
     "description": "2026年9月19日",
     "link": "https://bgm.tv/subject/647204"
+  },
+  {
+    "id": "640614",
+    "type": "link",
+    "title": "学园偶像音乐剧 2026年公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/31/640614_tdQ7n.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "13话 /  2026-09-19 / 岸本功喜 / 岸本功喜 / 堀内まり菜、浅井七海、杏ジュリア、清水理子、由良朱合、宮本佳林、安本彩花／南野巴那、仲村悠菜／及川結依、井上音生、村山結香、岡村さやか、蒼乃夕妃",
+    "link": "https://bgm.tv/subject/640614"
   },
   {
     "id": "526932",
@@ -220,17 +231,6 @@
     "link": "https://bgm.tv/subject/650415"
   },
   {
-    "id": "650417",
-    "type": "link",
-    "title": "KAMITSUBAKI FES ’26 FIELD OF RESONANCE",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/38/650417_dnaa3.jpg",
-    "releaseDate": "2026-09-05",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年9月5日 / 花譜、理芽、春猿火、ヰ世界情緒、幸祜、空爽、明透、琶舞、心世紀 (御莉姫、佳鏡院、硝子宮) from 少女革命計画、罪十罰 (氷夏至、美古途、夕凪機) from 少女革命計画",
-    "link": "https://bgm.tv/subject/650417"
-  },
-  {
     "id": "632521",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福岡公演",
@@ -242,25 +242,25 @@
     "link": "https://bgm.tv/subject/632521"
   },
   {
-    "id": "623077",
+    "id": "650417",
     "type": "link",
-    "title": "白鸟与蝙蝠",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a8/75/623077_Iug87.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "KAMITSUBAKI FES ’26 FIELD OF RESONANCE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/38/650417_dnaa3.jpg",
+    "releaseDate": "2026-09-05",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-04 / 岸善幸 / 向井康介 / 松村北斗、今田美桜",
-    "link": "https://bgm.tv/subject/623077"
+    "description": "1话 /  2026年9月5日 / 花譜、理芽、春猿火、ヰ世界情緒、幸祜、空爽、明透、琶舞、心世紀 (御莉姫、佳鏡院、硝子宮) from 少女革命計画、罪十罰 (氷夏至、美古途、夕凪機) from 少女革命計画",
+    "link": "https://bgm.tv/subject/650417"
   },
   {
-    "id": "639798",
+    "id": "650838",
     "type": "link",
-    "title": "オルケリア1st LIVE「PRINCESS RESONANCE」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/72/639798_lwKjh.jpg",
+    "title": "LoveLive! Superstar!! Liella! 结女运动会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/82/650838_LLZ0O.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-08-30 / 葵あずさ(空野みなも／プリンセス・リップル役)、藤本侑里(識辺かがり／プリンセス・ジール役)、橘杏咲(一条ながせ／プリンセス・ミーティア役)、鬼頭明里(風花すみれ／プリンセス・ヴィオラ役)、伊藤美来(風花りり／プリンセス・ネージュ役)",
-    "link": "https://bgm.tv/subject/639798"
+    "description": "4话 /  2026-09-05 / Liella!（チーム「あまとう」（Liyuu（唐可可 役）、岬なこ（嵐千砂都 役）、鈴原希実（桜小路きな子 役）、坂倉花（鬼塚冬毬役 ））、チーム「BuBuBuBu♡」（伊達さゆり（澁谷かのん 役）、薮島朱音（米女メイ 役）、大熊和奏（若菜四季 役）、結那（ウィーン・マルガレーテ 役））、チーム「右だC」（ペイトン尚未（平安名すみれ 役）、青山なぎさ（葉月恋 役）、絵森彩（鬼塚夏美 役）））",
+    "link": "https://bgm.tv/subject/650838"
   }
 ]

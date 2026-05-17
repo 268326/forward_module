@@ -1,5 +1,16 @@
 [
   {
+    "id": "643073",
+    "type": "link",
+    "title": "小钱大事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg",
+    "releaseDate": "2026-05-27",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年5月27日",
+    "link": "https://bgm.tv/subject/643073"
+  },
+  {
     "id": "540453",
     "type": "link",
     "title": "决斗大师 LOST ～忘却的太阳～",
@@ -261,16 +272,5 @@
     "rating": "5.1",
     "description": "1话 /  2026年2月2日 / 藍にいな",
     "link": "https://bgm.tv/subject/625144"
-  },
-  {
-    "id": "579787",
-    "type": "link",
-    "title": "LV999的村民",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9UZ4h.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
-    "link": "https://bgm.tv/subject/579787"
   }
 ]

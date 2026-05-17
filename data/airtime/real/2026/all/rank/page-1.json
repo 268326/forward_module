@@ -91,26 +91,33 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "300529",
+    "type": "tmdb",
+    "title": "地狱占星师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "link": null,
+    "tmdb_id": "300529",
+    "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "638448",
     "type": "link",
     "title": "迈克尔·杰克逊：巨星之路",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
     "releaseDate": "2026-04-24",
     "mediaType": "real",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
     "link": "https://bgm.tv/subject/638448"
-  },
-  {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "6.7",
-    "description": "8话 /  2026年4月8日 / Eric Kripke, Philip Sgriccia, Frederick E.O. Toye, Sarah Boyd, Nelson Cragg, Karen Gaviola, Stefan Schwartz, Julian Holmes, Daniel Attias, Catriona McKenzie, Liz Friedlander, Jennifer Phang, Matt Shakman, Batan Silva, Alex Graves, Dan Trachtenberg, Shana Stein, Steve Boyum / Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty, Dominique McElligott, Jessie T. Usher, Laz Alonso, Chace Crawford, Tomer Capone, Karen Fukuhara, Nathan Mitchell, Colby Minifie, Claudia Doumit, Jensen Ackles, Cameron Crovetti, Shantel VanSanten, Aya Cash, Elisabeth Shue, Susan Heyward, Valorie Curry, Jeffrey Dean Morgan, Giancarlo Esposito, Matthew Edison",
-    "link": "https://bgm.tv/subject/494608"
   },
   {
     "id": "279446",
@@ -119,7 +126,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
     "releaseDate": "2026-01-23",
     "mediaType": "tv",
-    "rating": "8.9",
+    "rating": "8.8",
     "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
     "link": null,
     "tmdb_id": "279446",
@@ -129,6 +136,17 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "6.5",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
   },
   {
     "id": "623261",

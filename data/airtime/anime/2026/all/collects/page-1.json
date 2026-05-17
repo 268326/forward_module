@@ -294,17 +294,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "627556",
-    "type": "link",
-    "title": "呼唤少女特别篇 想做的事到底是什么",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/3f/627556_tk605.jpg",
-    "releaseDate": "2026-02-14",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "1话 /  2026年2月14日 / 邓小冰 / 刘伟源、邓小冰 / 丘卓星",
-    "link": "https://bgm.tv/subject/627556"
-  },
-  {
     "id": "282946",
     "type": "tmdb",
     "title": "魔术师库诺看得见一切",
@@ -319,6 +308,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "627556",
+    "type": "link",
+    "title": "呼唤少女特别篇 想做的事到底是什么",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/3f/627556_tk605.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "1话 /  2026年2月14日 / 邓小冰 / 刘伟源、邓小冰 / 丘卓星",
+    "link": "https://bgm.tv/subject/627556"
   },
   {
     "id": "285166",
