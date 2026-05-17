@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "293697",
-    "type": "tmdb",
-    "title": "想结束这场“我爱你”的游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
-    "releaseDate": "2026-04-14",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
-    "link": null,
-    "tmdb_id": "293697",
-    "tmdb_site_id": "tv/293697",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "260463",
     "tmdb_site_id": "tv/260463",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "293697",
+    "type": "tmdb",
+    "title": "想结束这场“我爱你”的游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+    "releaseDate": "2026-04-14",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
+    "link": null,
+    "tmdb_id": "293697",
+    "tmdb_site_id": "tv/293697",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -336,22 +336,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "295751",
-    "type": "tmdb",
-    "title": "一叠间漫画咖啡屋生活！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
-    "link": null,
-    "tmdb_id": "295751",
-    "tmdb_site_id": "tv/295751",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -374,6 +358,22 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "284447",
+    "type": "tmdb",
+    "title": "弱弱老师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
+    "link": null,
+    "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

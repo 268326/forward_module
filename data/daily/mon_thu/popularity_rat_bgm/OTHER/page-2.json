@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "558088",
     "bgm_score": 6.3,
-    "bgm_rating_total": 253,
+    "bgm_rating_total": 255,
     "bgm_weekday_id": 1,
     "tmdb_id": "288590",
     "tmdb_site_id": "tv/288590",
@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "610703",
     "bgm_score": 5.3,
-    "bgm_rating_total": 144,
+    "bgm_rating_total": 145,
     "bgm_weekday_id": 2,
     "tmdb_id": "306790",
     "tmdb_site_id": "tv/306790",
@@ -71,7 +71,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.7,
-    "bgm_rating_total": 130,
+    "bgm_rating_total": 133,
     "bgm_weekday_id": 4
   },
   {
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "567234",
     "bgm_score": 5.9,
-    "bgm_rating_total": 92,
+    "bgm_rating_total": 93,
     "bgm_weekday_id": 2,
     "tmdb_id": "213326",
     "tmdb_site_id": "tv/213326/season/2",
@@ -146,7 +146,7 @@
     "link": null,
     "bgm_id": "621358",
     "bgm_score": 3.3,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 73,
     "bgm_weekday_id": 4,
     "tmdb_id": "310921",
     "tmdb_site_id": "tv/310921",
@@ -186,7 +186,7 @@
     "link": "http://bgm.tv/subject/638494",
     "bgm_id": "638494",
     "bgm_score": 6.2,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 3
   },
   {
@@ -216,7 +216,7 @@
     "link": "http://bgm.tv/subject/553949",
     "bgm_id": "553949",
     "bgm_score": 7.2,
-    "bgm_rating_total": 15,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 1
   },
   {
@@ -241,12 +241,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/71/bb/564361_50zdd.jpg",
     "releaseDate": "2026-04-23",
     "mediaType": "anime",
-    "rating": "5.2",
+    "rating": "5.3",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/564361",
     "bgm_id": "564361",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 5,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 4
   },
   {
