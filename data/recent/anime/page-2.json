@@ -98,6 +98,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
+    "link": "https://bgm.tv/subject/575559"
+  },
+  {
     "id": "284568",
     "type": "tmdb",
     "title": "复制品的我也会谈恋爱。",
@@ -112,17 +123,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
   },
   {
     "id": "94404",
@@ -141,22 +141,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "300131",
-    "type": "tmdb",
-    "title": "杀手青春",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/a9/581284_8Kv7i.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月11日 / 井出安軌 / 藤巻忠俊（集英社ジャンプコミックス刊） / 大導寺美穂",
-    "link": null,
-    "tmdb_id": "300131",
-    "tmdb_site_id": "tv/300131",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "95479",
     "type": "tmdb",
     "title": "咒术回战 死灭回游 前篇",
@@ -168,6 +152,22 @@
     "link": null,
     "tmdb_id": "95479",
     "tmdb_site_id": "tv/95479",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "300131",
+    "type": "tmdb",
+    "title": "杀手青春",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/a9/581284_8Kv7i.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月11日 / 井出安軌 / 藤巻忠俊（集英社ジャンプコミックス刊） / 大導寺美穂",
+    "link": null,
+    "tmdb_id": "300131",
+    "tmdb_site_id": "tv/300131",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -200,22 +200,6 @@
     "link": null,
     "tmdb_id": "288659",
     "tmdb_site_id": "tv/288659",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "273467",
-    "type": "tmdb",
-    "title": "女骑士成为蛮族新娘",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年4月9日 / 田中孝行 / コトバノリアキ（講談社「別冊少年マガジン」連載） / 藤田真弓、畠山元；主要角色设定：菊池政芳",
-    "link": null,
-    "tmdb_id": "273467",
-    "tmdb_site_id": "tv/273467",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -264,6 +248,38 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "273467",
+    "type": "tmdb",
+    "title": "女骑士成为蛮族新娘",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年4月9日 / 田中孝行 / コトバノリアキ（講談社「別冊少年マガジン」連載） / 藤田真弓、畠山元；主要角色设定：菊池政芳",
+    "link": null,
+    "tmdb_id": "273467",
+    "tmdb_site_id": "tv/273467",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "288590",
+    "type": "tmdb",
+    "title": "自称恶役大小姐的婚约者观察记录。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/04/558088_BrFF1.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年4月6日 / 山元隼一 / しき（アルファポリス刊）",
+    "link": null,
+    "tmdb_id": "288590",
+    "tmdb_site_id": "tv/288590",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "303870",
     "type": "tmdb",
     "title": "雾尾粉丝后援会",
@@ -291,22 +307,6 @@
     "link": null,
     "tmdb_id": "1575337",
     "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "288590",
-    "type": "tmdb",
-    "title": "自称恶役大小姐的婚约者观察记录。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/04/558088_BrFF1.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年4月6日 / 山元隼一 / しき（アルファポリス刊）",
-    "link": null,
-    "tmdb_id": "288590",
-    "tmdb_site_id": "tv/288590",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -350,7 +350,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
     "releaseDate": "2026-03-02",
     "mediaType": "tv",
-    "rating": "8.1",
+    "rating": "8.0",
     "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
     "link": null,
     "tmdb_id": "298026",
