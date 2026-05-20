@@ -38,7 +38,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
     "tmdb_id": "65942",
@@ -176,22 +176,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
-    "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "5.1",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
-    "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "290019",
     "type": "tmdb",
     "title": "和班上第二可爱的女孩成为朋友",
@@ -203,6 +187,22 @@
     "link": null,
     "tmdb_id": "290019",
     "tmdb_site_id": "tv/290019",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -304,22 +304,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "309163",
-    "type": "tmdb",
-    "title": "没有辣妹会对阿宅温柔!?",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
-    "link": null,
-    "tmdb_id": "309163",
-    "tmdb_site_id": "tv/309163",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -331,6 +315,22 @@
     "link": null,
     "tmdb_id": "209867",
     "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "309163",
+    "type": "tmdb",
+    "title": "没有辣妹会对阿宅温柔!?",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
+    "link": null,
+    "tmdb_id": "309163",
+    "tmdb_site_id": "tv/309163",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -352,6 +352,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
     "id": "284447",
     "type": "tmdb",
     "title": "弱弱老师",
@@ -366,16 +377,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
   }
 ]
