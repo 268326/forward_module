@@ -22,6 +22,17 @@
     "link": "https://bgm.tv/subject/480966"
   },
   {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "5.4",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
+  },
+  {
     "id": "224372",
     "type": "tmdb",
     "title": "七王国的骑士",
@@ -54,10 +65,10 @@
     "id": "305986",
     "type": "tmdb",
     "title": "钟表馆杀人事件",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a65r9Weu0hVLNA7uZFv1YekXImR.jpg",
     "releaseDate": "2026-02-27",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "8.5",
     "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
     "link": null,
     "tmdb_id": "305986",
@@ -75,7 +86,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
     "releaseDate": "2026-02-15",
     "mediaType": "tv",
-    "rating": "5.5",
+    "rating": "4.3",
     "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
     "link": null,
     "tmdb_id": "306479",
@@ -116,17 +127,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "638448",
-    "type": "link",
-    "title": "迈克尔·杰克逊：巨星之路",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
-    "releaseDate": "2026-04-24",
-    "mediaType": "real",
-    "rating": "6.9",
-    "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
-    "link": "https://bgm.tv/subject/638448"
-  },
-  {
     "id": "540469",
     "type": "link",
     "title": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
@@ -136,6 +136,17 @@
     "rating": "9.6",
     "description": "1话 /  2026年2月28日",
     "link": "https://bgm.tv/subject/540469"
+  },
+  {
+    "id": "638448",
+    "type": "link",
+    "title": "迈克尔·杰克逊：巨星之路",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
+    "releaseDate": "2026-04-24",
+    "mediaType": "real",
+    "rating": "6.9",
+    "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
+    "link": "https://bgm.tv/subject/638448"
   },
   {
     "id": "623261",
@@ -211,6 +222,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "478191",
+    "type": "link",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
+    "link": "https://bgm.tv/subject/478191"
+  },
+  {
+    "id": "617739",
+    "type": "link",
+    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
+    "link": "https://bgm.tv/subject/617739"
+  },
+  {
     "id": "198178",
     "type": "tmdb",
     "title": "奇迹人",
@@ -225,35 +258,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "617739",
-    "type": "link",
-    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "real",
-    "rating": "6.0",
-    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
-    "link": "https://bgm.tv/subject/617739"
-  },
-  {
-    "id": "306207",
-    "type": "tmdb",
-    "title": "再会～沉默的真相～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jYVhsNBrJT5htVukLv95q1C6bdR.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "23年前，小学六年级的飞奈淳一（竹内凉真 饰）与关系要好的三名同学，共同把一把卷入事件的手枪埋在樱树下。成年后，淳一成为刑警，却在某起案件中得知：凶器正是当年四人一起埋下的那把枪。更令他震动的是，他以刑警与嫌疑人的身份，与初恋岩本万季子（井上真央 饰）再会。随着调查推进，他逐一与当年的伙伴重逢，被掩埋的真相、背叛与秘密逐渐浮现。过往的“再会”，将彻底改变所有人的人生轨迹。\n\n改编自横关大获得第56届江户川乱步奖的小说《再会》。",
-    "link": null,
-    "tmdb_id": "306207",
-    "tmdb_site_id": "tv/306207",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -276,13 +280,31 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "306207",
+    "type": "tmdb",
+    "title": "再会～沉默的真相～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jYVhsNBrJT5htVukLv95q1C6bdR.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "23年前，小学六年级的飞奈淳一（竹内凉真 饰）与关系要好的三名同学，共同把一把卷入事件的手枪埋在樱树下。成年后，淳一成为刑警，却在某起案件中得知：凶器正是当年四人一起埋下的那把枪。更令他震动的是，他以刑警与嫌疑人的身份，与初恋岩本万季子（井上真央 饰）再会。随着调查推进，他逐一与当年的伙伴重逢，被掩埋的真相、背叛与秘密逐渐浮现。过往的“再会”，将彻底改变所有人的人生轨迹。\n\n改编自横关大获得第56届江户川乱步奖的小说《再会》。",
+    "link": null,
+    "tmdb_id": "306207",
+    "tmdb_site_id": "tv/306207",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "303405",
     "type": "tmdb",
     "title": "九条的大罪",
     "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.1",
+    "rating": "7.5",
     "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
     "link": null,
     "tmdb_id": "303405",
@@ -292,17 +314,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "478191",
-    "type": "link",
-    "title": "真人快打2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "real",
-    "rating": "6.4",
-    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
-    "link": "https://bgm.tv/subject/478191"
   },
   {
     "id": "312723",
@@ -319,24 +330,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "279388",
-    "type": "tmdb",
-    "title": "逐玉",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
-    "link": null,
-    "tmdb_id": "279388",
-    "tmdb_site_id": "tv/279388",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   }

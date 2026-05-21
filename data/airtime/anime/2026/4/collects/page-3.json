@@ -1,5 +1,21 @@
 [
   {
+    "id": "306762",
+    "type": "tmdb",
+    "title": "棱镜恋曲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
+    "releaseDate": "2026-01-15",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
+    "link": null,
+    "tmdb_id": "306762",
+    "tmdb_site_id": "tv/306762",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "300015",
     "type": "tmdb",
     "title": "草莓哀歌",
@@ -18,18 +34,29 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "90937",
+    "id": "423036",
+    "type": "link",
+    "title": "中国奇谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/84/423036_H88sl.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
+    "link": "https://bgm.tv/subject/423036"
+  },
+  {
+    "id": "283905",
     "type": "tmdb",
-    "title": "动物狂想曲 最终季 第二部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
-    "releaseDate": "2026-03-07",
+    "title": "上伊那牡丹，酒醉身姿似百合花般",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
+    "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
+    "rating": "7.6",
+    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
     "link": null,
-    "tmdb_id": "90937",
-    "tmdb_site_id": "tv/90937/season/3",
-    "tmdb_season_number": 3,
+    "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -50,17 +77,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "423036",
-    "type": "link",
-    "title": "中国奇谭 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/84/423036_H88sl.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
-    "link": "https://bgm.tv/subject/423036"
-  },
-  {
     "id": "204266",
     "type": "tmdb",
     "title": "枪神 观星之人",
@@ -75,33 +91,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "283905",
-    "type": "tmdb",
-    "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
-    "link": null,
-    "tmdb_id": "283905",
-    "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "484701",
-    "type": "link",
-    "title": "超级马力欧银河大电影",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f5/63/484701_jI80c.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "1话 /  2026年4月1日 / Aaron Horvath、Michael Jelenic",
-    "link": "https://bgm.tv/subject/484701"
   },
   {
     "id": "298026",
@@ -120,6 +109,17 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "484701",
+    "type": "link",
+    "title": "超级马力欧银河大电影",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f5/63/484701_Z8fcO.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "anime",
+    "rating": "6.3",
+    "description": "1话 /  2026年4月1日 / Aaron Horvath、Michael Jelenic",
+    "link": "https://bgm.tv/subject/484701"
   },
   {
     "id": "618795",
@@ -155,7 +155,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
     "tmdb_id": "65942",
@@ -181,24 +181,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "300054",
-    "type": "tmdb",
-    "title": "刃牙道：无敌武士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
-    "releaseDate": "2026-02-26",
-    "mediaType": "tv",
-    "rating": "8.7",
-    "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
-    "link": null,
-    "tmdb_id": "300054",
-    "tmdb_site_id": "tv/300054",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -210,20 +192,22 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "255492",
+    "id": "300054",
     "type": "tmdb",
-    "title": "天穗之咲稻姬 心轮种稻日记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg",
-    "releaseDate": "2026-02-15",
+    "title": "刃牙道：无敌武士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+    "releaseDate": "2026-02-26",
     "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2话 /  2026年2月15日 / 吉原正行 / えーでるわいす；故事协力：安藤敬而「天穂のサクナヒメ ココロワ稲作日誌」（集英社 JUNP j BOOKS刊） / 藤嶋未央",
+    "rating": "8.8",
+    "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
     "link": null,
-    "tmdb_id": "255492",
-    "tmdb_site_id": "tv/255492/season/0",
-    "tmdb_season_number": 0,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_id": "300054",
+    "tmdb_site_id": "tv/300054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "72517",
@@ -238,6 +222,22 @@
     "tmdb_id": "72517",
     "tmdb_site_id": "tv/72517/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "255492",
+    "type": "tmdb",
+    "title": "天穗之咲稻姬 心轮种稻日记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg",
+    "releaseDate": "2026-02-15",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "2话 /  2026年2月15日 / 吉原正行 / えーでるわいす；故事协力：安藤敬而「天穂のサクナヒメ ココロワ稲作日誌」（集英社 JUNP j BOOKS刊） / 藤嶋未央",
+    "link": null,
+    "tmdb_id": "255492",
+    "tmdb_site_id": "tv/255492/season/0",
+    "tmdb_season_number": 0,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -290,22 +290,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "295483",
-    "type": "tmdb",
-    "title": "被邻国王子溺爱的反派女主",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/69/568174_7EEZO.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "3.9",
-    "description": "12话 /  2026年1月11日 / 浜名孝行 / ぷにちゃん（ビーズログ文庫刊） / まじろ",
-    "link": null,
-    "tmdb_id": "295483",
-    "tmdb_site_id": "tv/295483",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "196950",
     "type": "tmdb",
     "title": "尖帽子的魔法工房",
@@ -322,15 +306,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "541814",
-    "type": "link",
-    "title": "偶像大师 百万现场！～终有一天，立于中央～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
-    "releaseDate": "2026-03-27",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
-    "link": "https://bgm.tv/subject/541814"
+    "id": "295483",
+    "type": "tmdb",
+    "title": "被邻国王子溺爱的反派女主",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/69/568174_7EEZO.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "3.9",
+    "description": "12话 /  2026年1月11日 / 浜名孝行 / ぷにちゃん（ビーズログ文庫刊） / まじろ",
+    "link": null,
+    "tmdb_id": "295483",
+    "tmdb_site_id": "tv/295483",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "305329",
@@ -347,6 +336,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "541814",
+    "type": "link",
+    "title": "偶像大师 百万现场！～终有一天，立于中央～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
+    "releaseDate": "2026-03-27",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
+    "link": "https://bgm.tv/subject/541814"
   },
   {
     "id": "515869",

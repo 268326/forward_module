@@ -1,14 +1,47 @@
 [
   {
-    "id": "651872",
+    "id": "598058",
     "type": "link",
-    "title": "パンの赤ちゃん",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/2d/651872_0FMCj.jpg",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
+    "id": "615835",
+    "type": "link",
+    "title": "炒翻天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_1zist.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
+    "link": "https://bgm.tv/subject/615835"
+  },
+  {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_31ByB.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊）",
+    "link": "https://bgm.tv/subject/638497"
+  },
+  {
+    "id": "530729",
+    "type": "link",
+    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_avGso.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月4日 / 市川晴華 / ファーマンりき",
-    "link": "https://bgm.tv/subject/651872"
+    "description": "2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
+    "link": "https://bgm.tv/subject/530729"
   },
   {
     "id": "285993",
@@ -29,37 +62,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "530729",
+    "id": "651872",
     "type": "link",
-    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_avGso.jpg",
+    "title": "パンの赤ちゃん",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/2d/651872_0FMCj.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
-    "link": "https://bgm.tv/subject/530729"
-  },
-  {
-    "id": "640604",
-    "type": "link",
-    "title": "蹂躙王国",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月3日",
-    "link": "https://bgm.tv/subject/640604"
-  },
-  {
-    "id": "613438",
-    "type": "link",
-    "title": "我家的弟弟们真是让您费心了",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
-    "link": "https://bgm.tv/subject/613438"
+    "description": "2026年7月4日 / 市川晴華 / ファーマンりき",
+    "link": "https://bgm.tv/subject/651872"
   },
   {
     "id": "545917",
@@ -73,48 +84,37 @@
     "link": "https://bgm.tv/subject/545917"
   },
   {
-    "id": "633711",
+    "id": "613438",
     "type": "link",
-    "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ea/4c/633711_amtml.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "我家的弟弟们真是让您费心了",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月2日 / 板井寛樹 / 小野可奈子",
-    "link": "https://bgm.tv/subject/633711"
+    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
+    "link": "https://bgm.tv/subject/613438"
   },
   {
-    "id": "622633",
+    "id": "640604",
     "type": "link",
-    "title": "世界在起舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_7i5pC.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "蹂躙王国",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-03",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
-    "link": "https://bgm.tv/subject/622633"
+    "description": "1话 /  2026年7月3日",
+    "link": "https://bgm.tv/subject/640604"
   },
   {
-    "id": "622206",
+    "id": "511177",
     "type": "link",
-    "title": "尼古喵喵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "title": "被流放的转生重骑士用游戏知识开无双",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_cul57.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": "https://bgm.tv/subject/622206"
-  },
-  {
-    "id": "616616",
-    "type": "link",
-    "title": "百姓贵族 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/33/80/616616_YoPfY.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月2日 / 荒川弘（新書館「ウィングス」連載）",
-    "link": "https://bgm.tv/subject/616616"
+    "description": "2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "link": "https://bgm.tv/subject/511177"
   },
   {
     "id": "300112",
@@ -135,15 +135,48 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "511177",
+    "id": "616616",
     "type": "link",
-    "title": "被流放的转生重骑士用游戏知识开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_cul57.jpg",
+    "title": "百姓贵族 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/33/80/616616_YoPfY.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
-    "link": "https://bgm.tv/subject/511177"
+    "description": "2026年7月2日 / 荒川弘（新書館「ウィングス」連載）",
+    "link": "https://bgm.tv/subject/616616"
+  },
+  {
+    "id": "622206",
+    "type": "link",
+    "title": "尼古喵喵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+    "link": "https://bgm.tv/subject/622206"
+  },
+  {
+    "id": "622633",
+    "type": "link",
+    "title": "世界在起舞",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_7i5pC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
+    "link": "https://bgm.tv/subject/622633"
+  },
+  {
+    "id": "633711",
+    "type": "link",
+    "title": "プラノサウルス ガチコセイブツ部",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ea/4c/633711_amtml.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月2日 / 板井寛樹 / 小野可奈子",
+    "link": "https://bgm.tv/subject/633711"
   },
   {
     "id": "628212",
@@ -157,59 +190,15 @@
     "link": "https://bgm.tv/subject/628212"
   },
   {
-    "id": "645350",
+    "id": "653289",
     "type": "link",
-    "title": "フラチ",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
+    "title": "探险时光：支线任务",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg",
+    "releaseDate": "2026-06-29",
     "mediaType": "anime",
     "rating": "",
-    "description": "2话 /  2026年6月26日 / 『フラチ』（裏筋部屋 [裏筋侍]）",
-    "link": "https://bgm.tv/subject/645350"
-  },
-  {
-    "id": "638750",
-    "type": "link",
-    "title": "彼の知らない秘密を入れて。 THE ANIMATION",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月26日 / チーム☆ラッキー「彼の知らない秘密を入れて。」",
-    "link": "https://bgm.tv/subject/638750"
-  },
-  {
-    "id": "637402",
-    "type": "link",
-    "title": "ハメハラ",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月26日",
-    "link": "https://bgm.tv/subject/637402"
-  },
-  {
-    "id": "623063",
-    "type": "link",
-    "title": "それいけ！アンパンマン パンタンと約束の星",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/ae/623063_HVo3V.jpg",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月26日 / 矢野博之 / やなせたかし（フレーベル館刊）",
-    "link": "https://bgm.tv/subject/623063"
-  },
-  {
-    "id": "487782",
-    "type": "link",
-    "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/f7/487782_XDBUM.jpg",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月26日 / 追崎史敏 / 吉崎観音 (角川書店 月刊少年エース) / 小池智史",
-    "link": "https://bgm.tv/subject/487782"
+    "description": "2026年6月29日",
+    "link": "https://bgm.tv/subject/653289"
   },
   {
     "id": "473416",
@@ -223,6 +212,61 @@
     "link": "https://bgm.tv/subject/473416"
   },
   {
+    "id": "487782",
+    "type": "link",
+    "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/f7/487782_XDBUM.jpg",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年6月26日 / 追崎史敏 / 吉崎観音 (角川書店 月刊少年エース) / 小池智史",
+    "link": "https://bgm.tv/subject/487782"
+  },
+  {
+    "id": "623063",
+    "type": "link",
+    "title": "それいけ！アンパンマン パンタンと約束の星",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/ae/623063_HVo3V.jpg",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年6月26日 / 矢野博之 / やなせたかし（フレーベル館刊）",
+    "link": "https://bgm.tv/subject/623063"
+  },
+  {
+    "id": "637402",
+    "type": "link",
+    "title": "ハメハラ",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年6月26日",
+    "link": "https://bgm.tv/subject/637402"
+  },
+  {
+    "id": "638750",
+    "type": "link",
+    "title": "彼の知らない秘密を入れて。 THE ANIMATION",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年6月26日 / チーム☆ラッキー「彼の知らない秘密を入れて。」",
+    "link": "https://bgm.tv/subject/638750"
+  },
+  {
+    "id": "645350",
+    "type": "link",
+    "title": "フラチ",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2话 /  2026年6月26日 / 『フラチ』（裏筋部屋 [裏筋侍]）",
+    "link": "https://bgm.tv/subject/645350"
+  },
+  {
     "id": "577226",
     "type": "link",
     "title": "诡秘之主特别篇 猎物",
@@ -232,49 +276,5 @@
     "rating": "",
     "description": "2026年6月20日 / 爱潜水的乌贼",
     "link": "https://bgm.tv/subject/577226"
-  },
-  {
-    "id": "441800",
-    "type": "link",
-    "title": "玩具总动员5",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/46/441800_qI9O0.jpg",
-    "releaseDate": "2026-06-19",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月19日 / Andrew Stanton",
-    "link": "https://bgm.tv/subject/441800"
-  },
-  {
-    "id": "647687",
-    "type": "link",
-    "title": "剧场版 冒险岛：Dear My Hero",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/a6/647687_KeMSO.jpg",
-    "releaseDate": "2026-06-14",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年6月14日",
-    "link": "https://bgm.tv/subject/647687"
-  },
-  {
-    "id": "646060",
-    "type": "link",
-    "title": "我与超人的冒险 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年6月13日",
-    "link": "https://bgm.tv/subject/646060"
-  },
-  {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
-    "link": "https://bgm.tv/subject/607915"
   }
 ]

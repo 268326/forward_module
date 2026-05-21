@@ -1,32 +1,43 @@
 [
   {
-    "id": "513985",
+    "id": "578285",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
+    "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/578285_83Pdo.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
+    "description": "1话 /  2026-03-01",
+    "link": "https://bgm.tv/subject/578285"
   },
   {
-    "id": "312725",
+    "id": "304928",
     "type": "tmdb",
-    "title": "九号秘事之黑帷背后",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "title": "未来的儿子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aMMXFeeIuIxMFrH6ooDHCrRssGb.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "rating": "0.0",
+    "description": "28岁的汐川未来（志田未来 饰）追梦多年却始终不顺，生活与情感都陷入停滞。某晚，自称来自2036年的男孩汐川飒太（天野优 饰）突然出现，喊她“妈妈”，并表示自己回到过去，是为了让未来和他的“爸爸”重新走到一起。为了照顾飒太，未来开始与其共同生活，并在寻找“真君”的过程中遇到三位可能的人选。伴随接触、选择与面对现实，未来也逐渐找回勇气，开始重新审视爱与人生。",
     "link": null,
-    "tmdb_id": "312725",
-    "tmdb_site_id": "tv/312725",
+    "tmdb_id": "304928",
+    "tmdb_site_id": "tv/304928",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
   },
   {
     "id": "306528",
@@ -47,15 +58,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "552953",
-    "type": "link",
-    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
-    "releaseDate": "2026-02-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026年2月21日",
-    "link": "https://bgm.tv/subject/552953"
+    "id": "312725",
+    "type": "tmdb",
+    "title": "九号秘事之黑帷背后",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "link": null,
+    "tmdb_id": "312725",
+    "tmdb_site_id": "tv/312725",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "313902",
@@ -76,15 +94,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "282418",
+    "id": "552953",
     "type": "link",
-    "title": "惩罚者：最后一击",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_MLWeM.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
+    "releaseDate": "2026-02-21",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
-    "link": "https://bgm.tv/subject/282418"
+    "description": "3话 /  2026年2月21日",
+    "link": "https://bgm.tv/subject/552953"
   },
   {
     "id": "590729",
@@ -96,6 +114,53 @@
     "rating": "",
     "description": "2话 /  2026年2月14日",
     "link": "https://bgm.tv/subject/590729"
+  },
+  {
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
+  },
+  {
+    "id": "320988",
+    "type": "tmdb",
+    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
+    "link": null,
+    "tmdb_id": "320988",
+    "tmdb_site_id": "tv/320988",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307652",
+    "type": "tmdb",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "link": null,
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "306129",
@@ -134,24 +199,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "320988",
-    "type": "tmdb",
-    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
-    "link": null,
-    "tmdb_id": "320988",
-    "tmdb_site_id": "tv/320988",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "273977",
     "type": "tmdb",
     "title": "莎拉的真伪人生",
@@ -170,22 +217,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307652",
-    "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
-    "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "623665",
+    "type": "link",
+    "title": "AGITO 超能力战争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
+    "link": "https://bgm.tv/subject/623665"
   },
   {
     "id": "590022",
@@ -197,6 +237,57 @@
     "rating": "",
     "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
     "link": "https://bgm.tv/subject/590022"
+  },
+  {
+    "id": "305818",
+    "type": "tmdb",
+    "title": "比熊猫更不擅长恋爱的我们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jlPyytPE0rEQSHDgUsFaot9NV78.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "梦想成为时尚杂志编辑的柴田一叶（上白石萌歌 饰）在入社当天得知杂志休刊，只能在生活信息杂志中无力度日，事业与恋爱都找不到方向。某天，她被迫替高冷模特代写恋爱咨询专栏，为寻找灵感，她拜访研究“动物求爱行为”的准教授椎堂司（生田斗真 饰）。椎堂对人类情感毫无兴趣，却以动物世界的求偶方式解读爱情。一叶在与他的对话中重新理解喜欢、勇气与坚持，而两个同样笨拙的人，也在彼此身上慢慢找到靠近的理由。",
+    "link": null,
+    "tmdb_id": "305818",
+    "tmdb_site_id": "tv/305818",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "559232",
+    "type": "link",
+    "title": "LoveLive!虹咲学园校园偶像同好会 FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/d4/559232_B5MOB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-01-17 / Day1：タンポポ（相良茉優（中須かすみ 役）、指出毬亜（エマ・ヴェルデ 役））、ヒナギク（田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役））、スズラン（大西亜玖璃（上原歩夢 役）、久保田未夢（朝香果林 役））／Day2：アサガオ（前田佳織里（桜坂しずく 役）、鬼頭明里（近江彼方 役））、サボテン（林鼓子（優木せつ菜 役）、内田秀（ミア・テイラー 役））、ハイビスカス（村上奈津実（宮下愛 役）、法元明菜（鐘嵐珠 役））",
+    "link": "https://bgm.tv/subject/559232"
+  },
+  {
+    "id": "607931",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/18/607931_seA9s.jpg",
+    "releaseDate": "2026-05-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年5月16日",
+    "link": "https://bgm.tv/subject/607931"
+  },
+  {
+    "id": "573155",
+    "type": "link",
+    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
+    "link": "https://bgm.tv/subject/573155"
   },
   {
     "id": "224377",
@@ -218,46 +309,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "623665",
-    "type": "link",
-    "title": "AGITO 超能力战争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
-    "releaseDate": "2026-04-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
-    "link": "https://bgm.tv/subject/623665"
-  },
-  {
-    "id": "573155",
-    "type": "link",
-    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
-    "link": "https://bgm.tv/subject/573155"
-  },
-  {
-    "id": "305818",
-    "type": "tmdb",
-    "title": "比熊猫更不擅长恋爱的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jlPyytPE0rEQSHDgUsFaot9NV78.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "梦想成为时尚杂志编辑的柴田一叶（上白石萌歌 饰）在入社当天得知杂志休刊，只能在生活信息杂志中无力度日，事业与恋爱都找不到方向。某天，她被迫替高冷模特代写恋爱咨询专栏，为寻找灵感，她拜访研究“动物求爱行为”的准教授椎堂司（生田斗真 饰）。椎堂对人类情感毫无兴趣，却以动物世界的求偶方式解读爱情。一叶在与他的对话中重新理解喜欢、勇气与坚持，而两个同样笨拙的人，也在彼此身上慢慢找到靠近的理由。",
-    "link": null,
-    "tmdb_id": "305818",
-    "tmdb_site_id": "tv/305818",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "593614",
     "type": "link",
     "title": "惊变28年：白骨圣殿",
@@ -267,17 +318,6 @@
     "rating": "",
     "description": "2026年1月16日 / Nia DaCosta / Alex Garland / Alfie Williams、Ralph Fiennes",
     "link": "https://bgm.tv/subject/593614"
-  },
-  {
-    "id": "559232",
-    "type": "link",
-    "title": "LoveLive!虹咲学园校园偶像同好会 FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/d4/559232_B5MOB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-01-17 / Day1：タンポポ（相良茉優（中須かすみ 役）、指出毬亜（エマ・ヴェルデ 役））、ヒナギク（田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役））、スズラン（大西亜玖璃（上原歩夢 役）、久保田未夢（朝香果林 役））／Day2：アサガオ（前田佳織里（桜坂しずく 役）、鬼頭明里（近江彼方 役））、サボテン（林鼓子（優木せつ菜 役）、内田秀（ミア・テイラー 役））、ハイビスカス（村上奈津実（宮下愛 役）、法元明菜（鐘嵐珠 役））",
-    "link": "https://bgm.tv/subject/559232"
   },
   {
     "id": "307182",
@@ -298,54 +338,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "6.5",
-    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
-    "link": "https://bgm.tv/subject/494608"
-  },
-  {
-    "id": "630977",
-    "type": "link",
-    "title": "神木隆之介",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f7/82/630977_pYF4n.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "4话 /  2026-03-02 / 寺内康太郎 / 神木隆之介",
-    "link": "https://bgm.tv/subject/630977"
-  },
-  {
-    "id": "307422",
+    "id": "307249",
     "type": "tmdb",
-    "title": "米之女：国税局资料调查课·杂国室",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cF10vWIsBA1hqrmV9wdWAMsAOMl.jpg",
+    "title": "这里是预备自卫英雄补？！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ksa7YNtfxUhmekT9jHCdMXUNglQ.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "5.5",
-    "description": "米田正子（松岛菜菜子 饰）是一名在东京国税局资料调查课任职的精英调查官，她创立了新的“复杂国税事案处理室”，专门处理连主部门都难以着手的棘手逃税案件。她招募了一群能力卓越却性格独特、不求升迁的成员，共同对付各类恶意隐匿收入的逃税者。新部门成员各有怪癖，但在米田的带领下，他们运用超强的信息搜集能力与调查技巧，将一个又一个狡猾的逃税分子逼入绝境。剧情以爽快的正邪对决为主轴，展现税务调查官如何凭专业与坚持维护社会公平，让努力纳税的人得到应有的正义。",
+    "rating": "8.0",
+    "description": "拥有各式奇怪能力、在人生低谷挣扎的自由业者流伟月（菊池风磨 饰），与另外六名同样处境糟糕的青年，被防卫省秘密召集。原以为只是例行通知，他们却突然被告知将承担“特殊任务”，以自身的怪癖与能力组成前所未有的英雄小队。七人各有缺点与自卑，却在混乱的训练与任务中逐渐发现自己的价值，展开一场用“另类能力”拯救世界的荒诞而热血的英雄之旅。",
     "link": null,
-    "tmdb_id": "307422",
-    "tmdb_site_id": "tv/307422",
+    "tmdb_id": "307249",
+    "tmdb_site_id": "tv/307249",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "633236",
-    "type": "link",
-    "title": "第一次变身",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/dd/633236_21Ny2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-03-02 / 萩原健太郎 / 萩原健太郎",
-    "link": "https://bgm.tv/subject/633236"
   }
 ]

@@ -198,6 +198,17 @@
     "link": "https://bgm.tv/subject/557818"
   },
   {
+    "id": "653508",
+    "type": "link",
+    "title": "南方公园 第29季",
+    "posterPath": null,
+    "releaseDate": "2026-09-16",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月16日",
+    "link": "https://bgm.tv/subject/653508"
+  },
+  {
     "id": "563041",
     "type": "link",
     "title": "最终乐章 吹响吧！上低音号 后篇",
@@ -251,16 +262,5 @@
     "rating": "",
     "description": "3话 /  2026年8月14日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
     "link": "https://bgm.tv/subject/622412"
-  },
-  {
-    "id": "633836",
-    "type": "link",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
   }
 ]

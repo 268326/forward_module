@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "642227",
-    "type": "link",
-    "title": "ママがもうこの世界にいなくても 私の命の日記",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
-    "link": "https://bgm.tv/subject/642227"
-  },
-  {
     "id": "622250",
     "type": "link",
     "title": "时薪300日元的死神",
@@ -55,6 +44,17 @@
     "link": "https://bgm.tv/subject/622250"
   },
   {
+    "id": "642227",
+    "type": "link",
+    "title": "ママがもうこの世界にいなくても 私の命の日記",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
+    "link": "https://bgm.tv/subject/642227"
+  },
+  {
     "id": "645791",
     "type": "link",
     "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
@@ -64,6 +64,17 @@
     "rating": "",
     "description": "2话 /  2026年9月26日",
     "link": "https://bgm.tv/subject/645791"
+  },
+  {
+    "id": "633558",
+    "type": "link",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
+    "link": "https://bgm.tv/subject/633558"
   },
   {
     "id": "638983",
@@ -88,28 +99,6 @@
     "link": "https://bgm.tv/subject/600005"
   },
   {
-    "id": "633558",
-    "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子",
-    "link": "https://bgm.tv/subject/633558"
-  },
-  {
-    "id": "639664",
-    "type": "link",
-    "title": "Morfonica LIVE「Movement」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/88/639664_E77zP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-22 / Morfonica",
-    "link": "https://bgm.tv/subject/639664"
-  },
-  {
     "id": "632522",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
@@ -121,15 +110,15 @@
     "link": "https://bgm.tv/subject/632522"
   },
   {
-    "id": "628086",
+    "id": "639664",
     "type": "link",
-    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
+    "title": "Morfonica LIVE「Movement」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/88/639664_E77zP.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
-    "link": "https://bgm.tv/subject/628086"
+    "description": "2026-09-22 / Morfonica",
+    "link": "https://bgm.tv/subject/639664"
   },
   {
     "id": "647204",
@@ -152,6 +141,17 @@
     "rating": "",
     "description": "13话 /  2026-09-19 / 岸本功喜 / 岸本功喜 / 堀内まり菜、浅井七海、杏ジュリア、清水理子、由良朱合、宮本佳林、安本彩花／南野巴那、仲村悠菜／及川結依、井上音生、村山結香、岡村さやか、蒼乃夕妃",
     "link": "https://bgm.tv/subject/640614"
+  },
+  {
+    "id": "628086",
+    "type": "link",
+    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
+    "link": "https://bgm.tv/subject/628086"
   },
   {
     "id": "526932",

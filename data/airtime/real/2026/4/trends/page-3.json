@@ -1,21 +1,43 @@
 [
   {
-    "id": "315508",
+    "id": "315209",
     "type": "tmdb",
-    "title": "被出轨方的复仇～结成同盟的妻子们～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/d85OCcAH9032m8KgqE2MWeuZmK1.jpg",
-    "releaseDate": "2026-04-01",
+    "title": "鲭鱼罐头，飞向宇宙",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1VHKZz69Pmnn6EMotMNoPvK9JTw.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "本作改编自きら作画、双葉葵原案的同名漫画，讲述了三位“被出轨妻子”为向出轨丈夫复仇而组成“复仇同盟”的故事。主妇岸本奈津子在婚后面对逐渐变为精神虐待丈夫的义隆，生活消磨殆尽。某日她撞见义隆将出轨对象带回家中，再也无法忍受而冲出家门。此时大学时代的朋友远藤佳乃突然联系她，邀约见面后发现大学学妹早乙女丽奈也在场，三人皆直面丈夫出轨的背叛。于是她们结成复仇同盟，誓对各自丈夫展开“交换复仇”。",
+    "description": "本剧根据福井县水产高中学生挑战开发“宇宙食品”的真实事迹改编，讲述一群高中生因一句“也许能做宇宙食吧？”而踏上追梦之路的青春故事。新任教师朝野峻一（北村匠海 饰）怀揣理想赴任，却得知学校面临废校危机。在与学生们共同研发鲭鱼罐头、冲击宇宙日本食认证的过程中，他们屡遭挫折，却始终不放弃。最终，这份跨越世代传承的梦想获得认可，鲭鱼罐头被认证并送上国际空间站。故事温暖描绘了师生情谊、地方支持与追梦勇气，展现相信与坚持如何点亮未来。",
     "link": null,
-    "tmdb_id": "315508",
-    "tmdb_site_id": "tv/315508",
+    "tmdb_id": "315209",
+    "tmdb_site_id": "tv/315209",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "507727",
+    "type": "link",
+    "title": "星球大战：曼达洛人与古古",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
+    "link": "https://bgm.tv/subject/507727"
+  },
+  {
+    "id": "621437",
+    "type": "link",
+    "title": "外道の歌 SEASON2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/79/36/621437_rgVY5.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026年4月 / 白石晃士 / 窪塚洋介、亀梨和也",
+    "link": "https://bgm.tv/subject/621437"
   },
   {
     "id": "621874",
@@ -29,17 +51,28 @@
     "link": "https://bgm.tv/subject/621874"
   },
   {
-    "id": "316177",
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
+  },
+  {
+    "id": "317623",
     "type": "tmdb",
-    "title": "鬼女之家",
-    "posterPath": "https://image.tmdb.org/t/p/w500/it2mku0ZGGvULe88g8w7W6sJCz4.jpg",
-    "releaseDate": "2026-04-01",
+    "title": "同居",
+    "posterPath": "https://image.tmdb.org/t/p/w500/Ao8yJKpZE0ssTAd3B5zjRUceNGz.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "3.0",
-    "description": "本作是一部描绘平凡主妇堕入疯狂深渊的悬疑剧。表面上作为普通主妇生活的主人公星野明香里，背地里却是一名通过社交媒体上微小的信息锁定他人住址及家庭构成、将其逼入舆论漩涡的“恶女”，沉溺于私刑的快感之中。某日，一位自称柊的神秘人物发来私信，事态急转直下。",
+    "rating": "0.0",
+    "description": "8话 /  2026-04-20 / 加藤綾佳、工藤渉 / 加藤綾佳 / 秋田汐梨、池田匡志",
     "link": null,
-    "tmdb_id": "316177",
-    "tmdb_site_id": "tv/316177",
+    "tmdb_id": "317623",
+    "tmdb_site_id": "tv/317623",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -47,31 +80,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "540469",
-    "type": "link",
-    "title": "BanG Dream! 10th Anniversary LIVE「In the name of BanG Dream!」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/66/540469_MhD5o.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "9.6",
-    "description": "1话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/540469"
-  },
-  {
-    "id": "321223",
+    "id": "316254",
     "type": "tmdb",
-    "title": "P.A.Y.",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oXMvLzMjBfQSKmSAqqaOZhfYvKE.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "BORDERLESS～广域移动搜查队～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6YRlr1z8bcXalWKuj1PZY459pW8.jpg",
+    "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "8话 /  2026-04-20 / 加藤綾佳、工藤渉 / 加藤綾佳 / 秋田汐梨、池田匡志",
+    "rating": "2.0",
+    "description": "非职业组刑警仲泽桃子（土屋太凤 饰）与新人刑警黄泽蕾（佐藤胜利 饰）同属警视厅“移动搜查课”，这是一个驾驶多功能搜查卡车奔赴各地调查案件的特殊部门。当案件跨越多个地区时，警视厅与各地警察之间常因管辖权产生对立，而移动搜查课正是为打破这种局面而设立。性格直率冲动的桃子，与因一次失误被调来的热血新人蕾，在被称为“一番星”的搜查车上，与队友们奔赴各地现场追查真相。在一次次广域案件调查中，两人逐渐成长，也慢慢揭开各自隐藏的过去。",
     "link": null,
-    "tmdb_id": "321223",
-    "tmdb_site_id": "tv/321223",
+    "tmdb_id": "316254",
+    "tmdb_site_id": "tv/316254",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "TR"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -105,253 +127,224 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "316254",
+    "id": "229891",
     "type": "tmdb",
-    "title": "BORDERLESS～广域移动搜查队～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6YRlr1z8bcXalWKuj1PZY459pW8.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "2.0",
-    "description": "非职业组刑警仲泽桃子（土屋太凤 饰）与新人刑警黄泽蕾（佐藤胜利 饰）同属警视厅“移动搜查课”，这是一个驾驶多功能搜查卡车奔赴各地调查案件的特殊部门。当案件跨越多个地区时，警视厅与各地警察之间常因管辖权产生对立，而移动搜查课正是为打破这种局面而设立。性格直率冲动的桃子，与因一次失误被调来的热血新人蕾，在被称为“一番星”的搜查车上，与队友们奔赴各地现场追查真相。在一次次广域案件调查中，两人逐渐成长，也慢慢揭开各自隐藏的过去。",
-    "link": null,
-    "tmdb_id": "316254",
-    "tmdb_site_id": "tv/316254",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316461",
-    "type": "tmdb",
-    "title": "烟蓝雨后晴",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iMl06yaMs1z23r1w0sj8YhtoQ7l.jpg",
+    "title": "爱情怎么翻译？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "　曾在药企担任王牌销售的吾妻朔太郎（武田航平 饰）因事业瓶颈陷入迷茫，目前处于无职状态；他在偶然中被当年的职场劲敌、如今从事医疗翻译工作的久慈静（涩谷谦人 饰）所救。这对曾在八年前共度过一夜的旧友，在人生的转折点再度重逢，共同面对职场压力、亲人老去以及生活选择，开启了一段苦甜参半的成年爱情故事。",
+    "rating": "8.3",
+    "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
     "link": null,
-    "tmdb_id": "316461",
-    "tmdb_site_id": "tv/316461",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "254486",
-    "type": "tmdb",
-    "title": "雨霖铃",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
-    "link": null,
-    "tmdb_id": "254486",
-    "tmdb_site_id": "tv/254486",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "245318",
-    "type": "tmdb",
-    "title": "玛戈没钱了",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8H8cmi8bOzShPhqVKPbD3HMB5AL.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "身为前波霸餐厅女侍应与前职业摔角手的女儿，刚辍学的大学生玛戈有志成为作家。面对新生婴儿、不断累积的帐单，以及越来越有限的还款途径，玛戈必须找到向前进的方法。",
-    "link": null,
-    "tmdb_id": "245318",
-    "tmdb_site_id": "tv/245318",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "507727",
-    "type": "link",
-    "title": "星球大战：曼达洛人与古古",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
-    "releaseDate": "2026-05-22",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
-    "link": "https://bgm.tv/subject/507727"
-  },
-  {
-    "id": "313899",
-    "type": "tmdb",
-    "title": "对决",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5ygfB3iJBktJzksJl9BSdRDhXRJ.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　某医科大学被曝在入学考试中刻意压低女性考生分数。为查清真相，报社记者檜叶菊乃（松本若菜 饰）展开独立调查，并将目标锁定在医大理事神林晴海（铃木保奈美 饰）身上。神林巧妙回避追问，檜叶却坚信她是关键，步步逼近事实。在男性主导的社会中，两位女性各自背负信念与伤痕正面交锋，这场对峙最终将迎来出乎意料的走向。本作描绘女性为追求幸福、对抗不公而奋起的社会派娱乐作品。\n\n　　本剧改编自月村了衛的同名原著小说。",
-    "link": null,
-    "tmdb_id": "313899",
-    "tmdb_site_id": "tv/313899",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "633271",
-    "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.2",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
-  },
-  {
-    "id": "461696",
-    "type": "link",
-    "title": "好兆头 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
-    "releaseDate": "2026-05-13",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
-    "link": "https://bgm.tv/subject/461696"
-  },
-  {
-    "id": "300360",
-    "type": "tmdb",
-    "title": "单恋",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xxMmgGNt3IT0QjYpkEh00mhR5EV.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "优衣（芦田爱菜饰）和健健（健二／冈山天音饰）的家位于盛冈市传统商店街，彼此相邻。优衣与在南部铁器店工作的母亲相依为命，健健家则是经营豆腐店的父亲、奶奶与他组成的三人家庭。两人从小在探出房间窗户就能对话的距离下成长。擅长绘画的健健从东京大学毕业后在小设计公司工作。对优衣而言，年长些许的健健是她憧憬已久单向暗恋的对象——温柔体贴、笑容迷人，与他相处总令人幸福洋溢。\n\n　　优衣短期大学毕业后进入当地公司工作，却因人手短缺背负过多不熟悉业务。某日她逃离职场，不知不觉来到东京健健的住所。恰逢健健与朋友在家聚会，其中还有位漂亮女性。但健健察觉优衣神色后立即遣散众人，默默倾听她的倾诉。\n\n　　在健健家度过一夜后重整心情的优衣正式辞职。恰逢健健老家豆腐店人手不足，她开始在挚爱的豆腐店工作。竟能在健健家工作！清晨早起劳作毫不辛苦，与奶奶一同前往公路驿站及客户处的配送路程也充满欢乐。每日充实幸福的优衣，恰在此时突然迎来健健的归来——他宣布不再回东京，要留在老家经营豆腐店。虽担心发生什么变故，但能每天在同一职场工作让优衣欣喜若狂！从此清晨一同制作豆腐、外出配送，每日相伴的生活就此展开。正当优衣祈愿这份幸福永续之时——？！",
-    "link": null,
-    "tmdb_id": "300360",
-    "tmdb_site_id": "tv/300360",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "593614",
-    "type": "link",
-    "title": "惊变28年：白骨圣殿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/77/593614_90Q7n.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年1月16日 / Nia DaCosta / Alex Garland / Alfie Williams、Ralph Fiennes",
-    "link": "https://bgm.tv/subject/593614"
-  },
-  {
-    "id": "637367",
-    "type": "link",
-    "title": "假面骑士ZZZ 一起去旅行",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/3c/637367_0BZk4.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-03-15 / 今井竜太郎、堀口真帆、三嶋健太、小貫莉奈、八木美樹",
-    "link": "https://bgm.tv/subject/637367"
-  },
-  {
-    "id": "278868",
-    "type": "tmdb",
-    "title": "方圆八百米",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oj688ZRAnYQrcqk59euex7laL10.jpg",
-    "releaseDate": "2026-04-17",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "故事聚焦上世纪九十年代末的丰阳小镇矿区。一具无名女尸的出现，打破了表面的平静，小镇内的违禁药品贩卖网络随之浮出水面。警察陈红兵（丁勇岱 饰）紧跟线索，却步步逼近亲生儿子陈辉（许凯 饰）。在方圆八百米的小天地里，父子间的对抗、职责与亲情的纠结、法律与人性的交缠，让这个家庭与小城一同面临善恶的抉择与考验。",
-    "link": null,
-    "tmdb_id": "278868",
-    "tmdb_site_id": "tv/278868",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "610619",
-    "type": "link",
-    "title": "侦探先生，你的背包开了喔",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ea/4e/610619_48rxu.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.6",
-    "description": "8话 /  2026-01-09 / 沖田修一、近藤啓介、東かほり / 沖田修一、近藤啓介、守屋文雄 / 松田龍平",
-    "link": "https://bgm.tv/subject/610619"
-  },
-  {
-    "id": "630977",
-    "type": "link",
-    "title": "神木隆之介",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f7/82/630977_pYF4n.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "4话 /  2026-03-02 / 寺内康太郎 / 神木隆之介",
-    "link": "https://bgm.tv/subject/630977"
-  },
-  {
-    "id": "315848",
-    "type": "tmdb",
-    "title": "没有砍十次还不倒的树",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ym7pDxY8MwxD1PcYqIi2KqBowRN.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "志尊饰演的是幼年失去日本父母、成为韩国财阀养子的青年金敏硕 / 青木照。他虽被视为继承人，却在养父死后失势，被逐出韩国家门，时隔23年重返日本。在那里，他邂逅了幼年丧父的医生河濑桃子。事实上两人幼年曾有过一面之缘，却未察觉此事实，跨越23年的时光彼此吸引。然而，意想不到的考验接连降临。标题引自韩国谚语：“任何困难之事，只要不断挑战终会成功”。",
-    "link": null,
-    "tmdb_id": "315848",
-    "tmdb_site_id": "tv/315848",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "637399",
-    "type": "link",
-    "title": "二哈和他的白猫师尊日语版 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/02/637399_u335n.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "real",
-    "rating": "",
-    "description": "7话 /  2026年4月9日 / 小野友樹、大塚剛央",
-    "link": "https://bgm.tv/subject/637399"
-  },
-  {
-    "id": "273977",
-    "type": "tmdb",
-    "title": "莎拉的真伪人生",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2czgTQKJoBzO7LuX6Gjjn846U76.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "首尔商圈惊现女尸，线索指向曾名动名流圈的奢华品牌代表金莎拉（申惠善 饰）。刑警朴武京（李浚赫 饰）介入调查，却惊觉这位名媛竟无出生与学历记录，身份完全成谜。在优雅与落魄交织的异样证词中，莎拉的人生如同被解构的镜像。这是一场剥开华丽谎言、追索“幽灵”身份的悬疑博弈。她究竟是顶级骗子，还是被世界遗忘的人？",
-    "link": null,
-    "tmdb_id": "273977",
-    "tmdb_site_id": "tv/273977",
+    "tmdb_id": "229891",
+    "tmdb_site_id": "tv/229891",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "KR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636116",
+    "type": "link",
+    "title": "B小町ライブツアー2026 –Beyond the Brilliance Virtual Live -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/7f/636116_VjEO9.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2026-04-25",
+    "link": "https://bgm.tv/subject/636116"
+  },
+  {
+    "id": "303143",
+    "type": "tmdb",
+    "title": "我的王室死对头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
+    "link": null,
+    "tmdb_id": "303143",
+    "tmdb_site_id": "tv/303143",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "306129",
+    "type": "tmdb",
+    "title": "波子汽水猴子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6P4mbhpsmHQdDcngIv8N7rw1r0n.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "故事围绕三位性格迥异的中年好友展开：吉井雄太曾是大型商社王牌业务，如今被调闲职，生活空虚；藤卷肇是中学电影部部长，个性偏执、曾梦想成为导演，但近年来创作热情消退；菊原纪介性格柔弱，继承母亲理发店，照顾渐患失智症的母亲而迷失自我。某天，三人因一则旧城镇的新闻重聚，回忆起1988年的青春岁月与电影研究部往事，发现曾崇拜的女顾问老师神秘失踪。三人重新踏上寻找真相的旅程，在怀旧与现实交错中，找回初心与青春热血。",
+    "link": null,
+    "tmdb_id": "306129",
+    "tmdb_site_id": "tv/306129",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "614611",
+    "type": "link",
+    "title": "提欧奥特曼",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/2d/614611_R8kzy.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年7月4日 / 二宮崇 (主导演)、辻本貴則 (主特摄导演) / 田辺茂範 (兼系列构成)",
+    "link": "https://bgm.tv/subject/614611"
+  },
+  {
+    "id": "623665",
+    "type": "link",
+    "title": "AGITO 超能力战争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
+    "link": "https://bgm.tv/subject/623665"
+  },
+  {
+    "id": "317340",
+    "type": "tmdb",
+    "title": "过多的爱与谋杀",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xQtPpbTyKbet3m0R16wPdx80ycY.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "谷崎真奈美是警视厅搜查一课的刑警，同时拥有众多恋人。她正与傲娇型、肌肉型、大叔型、正经型、后辈型、抖S型等各种各样的男友们尽情享受着人生。\n\n然而某天，与她发生过关系的男性突然接连惨遭杀害。为了追查这起离奇连续杀人事件的背后真相，她与暗恋自己的后辈刑警壮马组成了搭档。",
+    "link": null,
+    "tmdb_id": "317340",
+    "tmdb_site_id": "tv/317340",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "289357",
+    "type": "tmdb",
+    "title": "血与汗",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6axHIjYJcGHi1QCYHM70MCcL8fO.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "警视厅搜查一课刑警·凉宫亚希（杏饰）曾破解多起疑难案件，是位优秀刑警，但不受上司待见。虽然父亲是公安系统的前高层，她却不依赖这层影响力。此外，她还拥有某种特殊能力。芬兰国家调查局（FNBI）刑警·约恩·莱内（佩科宁饰）热心且优秀，注重从细节理解罪犯心理，但因某起案件而在心中留下创伤。在调查芬兰发生的离奇命案时，他发现日本也出现了相同特征的尸体，因此前往日本，与亚希组成搭档。",
+    "link": null,
+    "tmdb_id": "289357",
+    "tmdb_site_id": "tv/289357",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "573155",
+    "type": "link",
+    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
+    "link": "https://bgm.tv/subject/573155"
+  },
+  {
+    "id": "590729",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月14日",
+    "link": "https://bgm.tv/subject/590729"
+  },
+  {
+    "id": "609188",
+    "type": "link",
+    "title": "神之水滴 第二季",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-01-21 / 山下智久,Fleur Geffrier",
+    "link": "https://bgm.tv/subject/609188"
+  },
+  {
+    "id": "312725",
+    "type": "tmdb",
+    "title": "九号秘事之黑帷背后",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "link": null,
+    "tmdb_id": "312725",
+    "tmdb_site_id": "tv/312725",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314364",
+    "type": "tmdb",
+    "title": "时光代理人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aB4fF9AuwkvAF8NbpTRcTxtAE7.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "《时光代理人》是由汤浅弘章执导，富冈淳广、土城温美编剧，佐藤大树与本乡奏多主演的电视剧作品。该剧于2026年4月11日首播，全剧共10集。",
+    "link": null,
+    "tmdb_id": "314364",
+    "tmdb_site_id": "tv/314364",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "270572",
+    "type": "tmdb",
+    "title": "蝇王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
+    "releaseDate": "2026-02-08",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
+    "link": null,
+    "tmdb_id": "270572",
+    "tmdb_site_id": "tv/270572",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "653578",
+    "type": "link",
+    "title": "日向坂46「第17张单曲 平假名日向坂46 LIVE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/5b/653578_yY1b1.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-06-16 / 日向坂46(石塚瑶季、小西夏菜実、竹内希来里、平尾帆夏、平岡海月、山下葉留花、大田美月、蔵盛妃那乃、坂井新奈、佐藤優羽、下田衣珠季、高井俐香、鶴崎仁香)",
+    "link": "https://bgm.tv/subject/653578"
   }
 ]

@@ -22,17 +22,6 @@
     "link": "https://bgm.tv/subject/639798"
   },
   {
-    "id": "544680",
-    "type": "link",
-    "title": "忏悔",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/2b/544680_HryPK.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 中島哲也 / 中島哲也、門間宣裕 / 西島秀俊",
-    "link": "https://bgm.tv/subject/544680"
-  },
-  {
     "id": "633756",
     "type": "link",
     "title": "見えない娘 THE INVISIBLES",
@@ -55,6 +44,17 @@
     "link": "https://bgm.tv/subject/627226"
   },
   {
+    "id": "544680",
+    "type": "link",
+    "title": "忏悔",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/2b/544680_HryPK.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 中島哲也 / 中島哲也、門間宣裕 / 西島秀俊",
+    "link": "https://bgm.tv/subject/544680"
+  },
+  {
     "id": "639960",
     "type": "link",
     "title": "ANIME JAPAN FES 2026 “大阪夏の陣”",
@@ -64,39 +64,6 @@
     "rating": "",
     "description": "1话 /  2026-08-23 / 堀江美都子、森本英世、チャーリー・コーセイ、遠藤正明、山形ユキオ、速水けんたろう",
     "link": "https://bgm.tv/subject/639960"
-  },
-  {
-    "id": "617152",
-    "type": "link",
-    "title": "热舞巨星☆光之美少年 The Stage PARTY",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
-    "link": "https://bgm.tv/subject/617152"
-  },
-  {
-    "id": "583191",
-    "type": "link",
-    "title": "劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/60/583191_otc9T.jpg",
-    "releaseDate": "2026-08-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月21日 / 松木彩 / 黒岩勉 / 鈴木亮平",
-    "link": "https://bgm.tv/subject/583191"
-  },
-  {
-    "id": "635371",
-    "type": "link",
-    "title": "グノーシア　ザ・ライブプレイングシアター",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-21 / 松崎史也 / 池永英介",
-    "link": "https://bgm.tv/subject/635371"
   },
   {
     "id": "641261",
@@ -110,6 +77,39 @@
     "link": "https://bgm.tv/subject/641261"
   },
   {
+    "id": "583191",
+    "type": "link",
+    "title": "劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/60/583191_otc9T.jpg",
+    "releaseDate": "2026-08-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月21日 / 松木彩 / 黒岩勉 / 鈴木亮平",
+    "link": "https://bgm.tv/subject/583191"
+  },
+  {
+    "id": "617152",
+    "type": "link",
+    "title": "热舞巨星☆光之美少年 The Stage PARTY",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
+    "link": "https://bgm.tv/subject/617152"
+  },
+  {
+    "id": "635371",
+    "type": "link",
+    "title": "グノーシア　ザ・ライブプレイングシアター",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-08-21 / 松崎史也 / 池永英介",
+    "link": "https://bgm.tv/subject/635371"
+  },
+  {
     "id": "632520",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
@@ -121,15 +121,15 @@
     "link": "https://bgm.tv/subject/632520"
   },
   {
-    "id": "639959",
+    "id": "298360",
     "type": "link",
-    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "绿灯军团",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/17/298360_aVU07.jpg",
+    "releaseDate": "2026-08-16",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
-    "link": "https://bgm.tv/subject/639959"
+    "description": "8话 /  2026年8月16日 / James Hawes",
+    "link": "https://bgm.tv/subject/298360"
   },
   {
     "id": "632945",
@@ -143,6 +143,17 @@
     "link": "https://bgm.tv/subject/632945"
   },
   {
+    "id": "639959",
+    "type": "link",
+    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
+    "link": "https://bgm.tv/subject/639959"
+  },
+  {
     "id": "639958",
     "type": "link",
     "title": "スーパーヒーロー魂2026 “夏の陣”",
@@ -152,17 +163,6 @@
     "rating": "",
     "description": "1话 /  2026-08-15 / 串田アキラ、MoJo、宮内タカユキ、真夏竜、前田達也、遠藤正明、つるの剛士、小林太郎、ボイジャー",
     "link": "https://bgm.tv/subject/639958"
-  },
-  {
-    "id": "646666",
-    "type": "link",
-    "title": "少女革命計画 2nd LIVE 「Revolutio」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
-    "link": "https://bgm.tv/subject/646666"
   },
   {
     "id": "644235",
@@ -187,6 +187,28 @@
     "link": "https://bgm.tv/subject/645126"
   },
   {
+    "id": "646666",
+    "type": "link",
+    "title": "少女革命計画 2nd LIVE 「Revolutio」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
+    "link": "https://bgm.tv/subject/646666"
+  },
+  {
+    "id": "576744",
+    "type": "link",
+    "title": "あの星が降る丘で、君とまた出会いたい。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
+    "releaseDate": "2026-08-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月7日 / 福原遥",
+    "link": "https://bgm.tv/subject/576744"
+  },
+  {
     "id": "131041",
     "type": "tmdb",
     "title": "蓝色监狱",
@@ -203,17 +225,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "576744",
-    "type": "link",
-    "title": "あの星が降る丘で、君とまた出会いたい。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
-    "releaseDate": "2026-08-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月7日 / 福原遥",
-    "link": "https://bgm.tv/subject/576744"
-  },
-  {
     "id": "639567",
     "type": "link",
     "title": "日向坂46『三期生LIVE』",
@@ -221,7 +232,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026-08-05 / 日向坂46三期生(上村ひなの、髙橋未来虹、森本茉莉、山口陽世)",
+    "description": "7话 /  2026-08-05 / 日向坂46三期生(上村ひなの、髙橋未来虹、森本茉莉、山口陽世)",
     "link": "https://bgm.tv/subject/639567"
   },
   {
@@ -256,23 +267,5 @@
     "rating": "",
     "description": "2话 /  2026-07-29 / 西川俊介、松本岳、中村嘉惟人、矢野優花、山谷花純、多和田任益",
     "link": "https://bgm.tv/subject/641037"
-  },
-  {
-    "id": "322688",
-    "type": "tmdb",
-    "title": "八神瑛子 – 上野中央署 組織犯罪対策課 –",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/6a/643357_AHXJA.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "5话 /  2026-07-24 / 黒木メイサ",
-    "link": null,
-    "tmdb_id": "322688",
-    "tmdb_site_id": "tv/322688",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

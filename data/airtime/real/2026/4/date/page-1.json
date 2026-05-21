@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "494701",
-    "type": "link",
-    "title": "沙丘：第三部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
-    "link": "https://bgm.tv/subject/494701"
-  },
-  {
     "id": "393438",
     "type": "link",
     "title": "复仇者联盟5：毁灭日",
@@ -53,6 +42,17 @@
     "rating": "",
     "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
     "link": "https://bgm.tv/subject/393438"
+  },
+  {
+    "id": "494701",
+    "type": "link",
+    "title": "沙丘：第三部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
+    "link": "https://bgm.tv/subject/494701"
   },
   {
     "id": "612440",
@@ -187,17 +187,6 @@
     "link": "https://bgm.tv/subject/620303"
   },
   {
-    "id": "650117",
-    "type": "link",
-    "title": "昨夜は殺れたかも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
-    "link": "https://bgm.tv/subject/650117"
-  },
-  {
     "id": "287591",
     "type": "tmdb",
     "title": "うるわしの宵の月",
@@ -225,15 +214,15 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
-    "id": "650384",
+    "id": "650117",
     "type": "link",
-    "title": "わたしの知らない子どもたち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
-    "releaseDate": "2026-10-16",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
-    "link": "https://bgm.tv/subject/650384"
+    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
   },
   {
     "id": "311125",
@@ -263,6 +252,17 @@
     "rating": "",
     "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / Dalan Musson / Noah Centineo、Andrew Koji、Callina Liang",
     "link": "https://bgm.tv/subject/428025"
+  },
+  {
+    "id": "650384",
+    "type": "link",
+    "title": "わたしの知らない子どもたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
+    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "213375",

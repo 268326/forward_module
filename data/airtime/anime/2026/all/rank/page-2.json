@@ -1,32 +1,19 @@
 [
   {
-    "id": "312822",
+    "id": "312522",
     "type": "tmdb",
-    "title": "扮演姐姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/co2Klo3rcKtkALR15IP0CwOhyjM.jpg",
-    "releaseDate": "2026-01-31",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "4.0",
-    "description": "遥远的未来。在被都市高度发达的科技所遗忘的郊外山村“镜见村”。\n\n在这个流传着“如果不乖乖听话，‘那个长得一模一样的人’就会找上门来”这一古老传说的村子里，住着一名初中生——日暮红（Akane）。她正满心期待着与时隔一年终于出院的姐姐日暮翠（Sui）重逢。\n\n然而，就在姐姐出院没过多久，红接到了一通电话。\n\n“在那个家里的，不是你姐姐。”",
-    "link": null,
-    "tmdb_id": "312822",
-    "tmdb_site_id": "tv/312822",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "616383",
-    "type": "link",
-    "title": "《新世纪福音战士》30周年纪念特别放映",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_YX4Yb.jpg",
-    "releaseDate": "2026-02-21",
-    "mediaType": "anime",
     "rating": "7.1",
-    "description": "1话 /  2026年2月21日 / 浅野直之",
-    "link": "https://bgm.tv/subject/616383"
+    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "link": null,
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "274622",
@@ -43,6 +30,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "616383",
+    "type": "link",
+    "title": "《新世纪福音战士》30周年纪念特别放映",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_YX4Yb.jpg",
+    "releaseDate": "2026-02-21",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "1话 /  2026年2月21日 / 浅野直之",
+    "link": "https://bgm.tv/subject/616383"
   },
   {
     "id": "276393",
@@ -110,7 +108,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
     "releaseDate": "2026-03-27",
     "mediaType": "anime",
-    "rating": "6.9",
+    "rating": "7.0",
     "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
     "link": "https://bgm.tv/subject/541814"
   },
@@ -129,28 +127,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "544627",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第3幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "3话 /  2026年3月6日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544627"
-  },
-  {
-    "id": "515869",
-    "type": "link",
-    "title": "剧场版 我心里危险的东西",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
-    "releaseDate": "2026-02-13",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
-    "link": "https://bgm.tv/subject/515869"
   },
   {
     "id": "91768",
@@ -185,20 +161,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196950",
-    "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
+    "id": "515869",
+    "type": "link",
+    "title": "剧场版 我心里危险的东西",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
+    "releaseDate": "2026-02-13",
+    "mediaType": "anime",
     "rating": "6.9",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
-    "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
+    "link": "https://bgm.tv/subject/515869"
+  },
+  {
+    "id": "544627",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第3幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "3话 /  2026年3月6日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544627"
   },
   {
     "id": "283428",
@@ -217,15 +199,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "549975",
-    "type": "link",
-    "title": "安昂传奇：最后的气宗",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "1话 /  2026年10月9日",
-    "link": "https://bgm.tv/subject/549975"
+    "id": "196950",
+    "type": "tmdb",
+    "title": "尖帽子的魔法工房",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "link": null,
+    "tmdb_id": "196950",
+    "tmdb_site_id": "tv/196950",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "651692",
@@ -250,13 +237,24 @@
     "link": "https://bgm.tv/subject/544626"
   },
   {
+    "id": "549975",
+    "type": "link",
+    "title": "安昂传奇：最后的气宗",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "1话 /  2026年10月9日",
+    "link": "https://bgm.tv/subject/549975"
+  },
+  {
     "id": "295357",
     "type": "tmdb",
     "title": "北斗神拳",
     "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "8.4",
+    "rating": "8.5",
     "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
     "link": null,
     "tmdb_id": "295357",
@@ -300,22 +298,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "91801",
-    "type": "tmdb",
-    "title": "入间同学入魔了 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
-    "link": null,
-    "tmdb_id": "91801",
-    "tmdb_site_id": "tv/91801/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "309163",
     "type": "tmdb",
     "title": "没有辣妹会对阿宅温柔!?",
@@ -328,6 +310,22 @@
     "tmdb_id": "309163",
     "tmdb_site_id": "tv/309163",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "91801",
+    "type": "tmdb",
+    "title": "入间同学入魔了 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
+    "link": null,
+    "tmdb_id": "91801",
+    "tmdb_site_id": "tv/91801/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

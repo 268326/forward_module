@@ -1,5 +1,43 @@
 [
   {
+    "id": "300126",
+    "type": "tmdb",
+    "title": "欺诈游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
+    "link": null,
+    "tmdb_id": "300126",
+    "tmdb_site_id": "tv/300126",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "624058",
+    "type": "link",
+    "title": "LOCKED GROOVE",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Emanuele Kabu",
+    "link": "https://bgm.tv/subject/624058"
+  },
+  {
+    "id": "625144",
+    "type": "link",
+    "title": "LUCA",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/3d/625144_FkSXZ.jpg",
+    "releaseDate": "2026-02-02",
+    "mediaType": "anime",
+    "rating": "5.1",
+    "description": "1话 /  2026年2月2日 / 藍にいな",
+    "link": "https://bgm.tv/subject/625144"
+  },
+  {
     "id": "579787",
     "type": "link",
     "title": "LV999的村民",
@@ -152,6 +190,17 @@
     "link": "https://bgm.tv/subject/647677"
   },
   {
+    "id": "495292",
+    "type": "link",
+    "title": "Ninja Skooler",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/90/b7/495292_C9OzS.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年 / 宝井俊介 / KINEMA CITRUS／breccia / はみ",
+    "link": "https://bgm.tv/subject/495292"
+  },
+  {
     "id": "623248",
     "type": "link",
     "title": "乐高幻影忍者：神龙崛起 第四季",
@@ -161,6 +210,17 @@
     "rating": "",
     "description": "20话 /  2026年3月26日",
     "link": "https://bgm.tv/subject/623248"
+  },
+  {
+    "id": "653666",
+    "type": "link",
+    "title": "numb numb",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg",
+    "releaseDate": "2026-05-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年5月20日 / 神谷雄貴 / syo5",
+    "link": "https://bgm.tv/subject/653666"
   },
   {
     "id": "640931",
@@ -204,7 +264,7 @@
     "id": "646494",
     "type": "link",
     "title": "吃豆人：零食时间",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/77/646494_67UIK.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "anime",
     "rating": "",
@@ -232,67 +292,5 @@
     "rating": "",
     "description": "2026年7月24日",
     "link": "https://bgm.tv/subject/618793"
-  },
-  {
-    "id": "261780",
-    "type": "tmdb",
-    "title": "轮回的花瓣",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yOZM1h6ghYeFsBP2kkEgGo1aS3P.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "　　切割开自身肉体，发掘出前世才能的刀刃“轮回之枝”。在这不仅是伟大的天才们就连恐怖的杀人魔也复苏了的世界里渴望着强大才能的高中生，东耶获得了那刀刃……",
-    "link": null,
-    "tmdb_id": "261780",
-    "tmdb_site_id": "tv/261780",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636246",
-    "type": "link",
-    "title": "警察们",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/f7/636246_xiSH9.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026 / 原優衣",
-    "link": "https://bgm.tv/subject/636246"
-  },
-  {
-    "id": "619322",
-    "type": "link",
-    "title": "Poppin-Play Kitchen",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/02/619322_1r1tu.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "1话 /  2026年1月16日 / Zemyata",
-    "link": "https://bgm.tv/subject/619322"
-  },
-  {
-    "id": "588451",
-    "type": "link",
-    "title": "史前战纪 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/f9/588451_u1TH7.jpg",
-    "releaseDate": "2026-01-12",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "10话 /  2026年1月12日",
-    "link": "https://bgm.tv/subject/588451"
-  },
-  {
-    "id": "614640",
-    "type": "link",
-    "title": "PSYREN -决战游戏-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/1e/614640_T4990.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月 / 小野勝巳 / 岩代俊明（集英社刊） / 大熊白",
-    "link": "https://bgm.tv/subject/614640"
   }
 ]

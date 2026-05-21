@@ -73,24 +73,6 @@
     "link": "https://bgm.tv/subject/369191"
   },
   {
-    "id": "305986",
-    "type": "tmdb",
-    "title": "钟表馆杀人事件",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5oWf1afgT21KVi2B5vhBlTxR9vv.jpg",
-    "releaseDate": "2026-02-27",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
-    "link": null,
-    "tmdb_id": "305986",
-    "tmdb_site_id": "tv/305986",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "300529",
     "type": "tmdb",
     "title": "地狱占星师",
@@ -102,6 +84,24 @@
     "link": null,
     "tmdb_id": "300529",
     "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "305986",
+    "type": "tmdb",
+    "title": "钟表馆杀人事件",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a65r9Weu0hVLNA7uZFv1YekXImR.jpg",
+    "releaseDate": "2026-02-27",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+    "link": null,
+    "tmdb_id": "305986",
+    "tmdb_site_id": "tv/305986",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -138,17 +138,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "6.5",
-    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
-    "link": "https://bgm.tv/subject/494608"
-  },
-  {
     "id": "623261",
     "type": "link",
     "title": "头号战队豪兽者 Polar Beginning",
@@ -182,13 +171,24 @@
     "link": "https://bgm.tv/subject/613881"
   },
   {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "5.4",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
+  },
+  {
     "id": "306479",
     "type": "tmdb",
     "title": "PROJECT R.E.D.",
     "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
     "releaseDate": "2026-02-15",
     "mediaType": "tv",
-    "rating": "5.5",
+    "rating": "4.3",
     "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
     "link": null,
     "tmdb_id": "306479",

@@ -82,6 +82,17 @@
     "link": "https://bgm.tv/subject/636301"
   },
   {
+    "id": "653289",
+    "type": "link",
+    "title": "探险时光：支线任务",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/21/b3/653289_4GGQG.jpg",
+    "releaseDate": "2026-06-29",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月29日",
+    "link": "https://bgm.tv/subject/653289"
+  },
+  {
     "id": "543589",
     "type": "link",
     "title": "杀戮轮回",
@@ -99,7 +110,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/31/638186_Z8c1C.jpg",
     "releaseDate": "2026-03-28",
     "mediaType": "anime",
-    "rating": "5.9",
+    "rating": "5.8",
     "description": "1话 /  2026年3月28日 / 庄司瑠香",
     "link": "https://bgm.tv/subject/638186"
   },
@@ -287,16 +298,5 @@
     "rating": "",
     "description": "26话 /  2026年1月17日 / Jared Madrigal/Robert Castellanos",
     "link": "https://bgm.tv/subject/624869"
-  },
-  {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
   }
 ]

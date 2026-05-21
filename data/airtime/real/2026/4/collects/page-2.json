@@ -1,12 +1,48 @@
 [
   {
+    "id": "312723",
+    "type": "tmdb",
+    "title": "牙狼＜GARO＞ 东之界楼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
+    "releaseDate": "2026-01-29",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "结束了在克莱亚市的战斗后，流牙为了净化铠甲而前往莱因市。\n\n然而，映入眼帘的却是广袤无垠的沙漠。\n\n在勉强逃过沙漠化的城市・萨冈，大量霍拉出现，异常事态让整个城市陷入混乱。\n\n为了拯救这场危机而出在城市中的，是龙族魔戒法师・埃尔米娜与莉杏。\n\n莉杏在与流牙一同前往克莱亚市的途中，因为龙女的召集而履行了另一项使命。\n\n大量增生的霍拉、披着废弃物的强大敌人，以及无差别袭击的身份不明魔戒骑士。\n\n更有神秘魔戒法师・列克托尔悄然逼近流牙——。\n\n在愈发混乱的战斗中，流牙与莉杏仿佛被引导般再次重逢。\n\n战斗结束后，流牙看见了旧日盟友龙女已变得面目全非的身影。\n\n当龙女的生命走到尽头时，她告知世界将迎来巨大的灾厄。\n\n流牙与莉杏为阻止这一切而挺身而出，\n\n但在前方等待他们的，是作为守护者所必须面对的壮烈宿命。\n\n动摇流牙与莉杏二人命运的战斗，即将拉开序幕。",
+    "link": null,
+    "tmdb_id": "312723",
+    "tmdb_site_id": "tv/312723",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "279388",
+    "type": "tmdb",
+    "title": "逐玉",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
+    "link": null,
+    "tmdb_id": "279388",
+    "tmdb_site_id": "tv/279388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "229891",
     "type": "tmdb",
     "title": "爱情怎么翻译？",
     "posterPath": "https://image.tmdb.org/t/p/w500/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.4",
+    "rating": "8.3",
     "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
     "link": null,
     "tmdb_id": "229891",
@@ -16,17 +52,6 @@
       "KR"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "541822",
-    "type": "link",
-    "title": "夜魔侠：重生 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.4",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
-    "link": "https://bgm.tv/subject/541822"
   },
   {
     "id": "601438",
@@ -51,37 +76,51 @@
     "link": "https://bgm.tv/subject/633271"
   },
   {
-    "id": "544948",
-    "type": "link",
-    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "id": "307650",
+    "type": "tmdb",
+    "title": "侦探先生，你的背包开着呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hnAhD9fcmkt2HXC341yPFfPirGP.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
-    "link": "https://bgm.tv/subject/544948"
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "乡下温泉街“西谷温泉”里，侦探兼发明家一之濑洋辅（松田龙平 饰）住在自家废弃的老旅馆，并将这里改造成充满离奇发明品的侦探事务所。曾在美国成功开发“将负面情绪转化为能量”的技术，使小镇出现许多不可思议的装置。每天都有性格独特的居民带来奇怪却温暖的委托，洋辅便以异想天开的机制与奇招处理难题。一桩桩古怪事件在笑声中解决，也让人与人之间的羁绊在这座温泉街悄然升温。",
+    "link": null,
+    "tmdb_id": "307650",
+    "tmdb_site_id": "tv/307650",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "625916",
+    "id": "282418",
     "type": "link",
-    "title": "空中浩劫 第26季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
-    "releaseDate": "2026-01-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年1月20日",
-    "link": "https://bgm.tv/subject/625916"
-  },
-  {
-    "id": "610619",
-    "type": "link",
-    "title": "侦探先生，你的背包开了喔",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ea/4e/610619_48rxu.jpg",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.6",
-    "description": "8话 /  2026-01-09 / 沖田修一、近藤啓介、東かほり / 沖田修一、近藤啓介、守屋文雄 / 松田龍平",
-    "link": "https://bgm.tv/subject/610619"
+    "rating": "7.1",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
+  },
+  {
+    "id": "272432",
+    "type": "tmdb",
+    "title": "低智商犯罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
+    "link": null,
+    "tmdb_id": "272432",
+    "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "289356",
@@ -102,15 +141,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "588065",
+    "id": "625916",
     "type": "link",
-    "title": "呼啸山庄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/19/588065_Ehlz0.jpg",
-    "releaseDate": "2026-02-13",
+    "title": "空中浩劫 第26季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
+    "releaseDate": "2026-01-20",
     "mediaType": "real",
-    "rating": "4.4",
-    "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
-    "link": "https://bgm.tv/subject/588065"
+    "rating": "",
+    "description": "10话 /  2026年1月20日",
+    "link": "https://bgm.tv/subject/625916"
+  },
+  {
+    "id": "544948",
+    "type": "link",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
   },
   {
     "id": "511454",
@@ -142,6 +192,50 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "588065",
+    "type": "link",
+    "title": "呼啸山庄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/19/588065_Ehlz0.jpg",
+    "releaseDate": "2026-02-13",
+    "mediaType": "real",
+    "rating": "4.4",
+    "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
+    "link": "https://bgm.tv/subject/588065"
+  },
+  {
+    "id": "634222",
+    "type": "link",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
+  },
+  {
+    "id": "614123",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
+  },
+  {
+    "id": "489598",
+    "type": "link",
+    "title": "帝王计划：怪兽遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
+    "link": "https://bgm.tv/subject/489598"
+  },
+  {
     "id": "587208",
     "type": "link",
     "title": "学園アイドルマスター 初星音楽祭",
@@ -164,35 +258,13 @@
     "link": "https://bgm.tv/subject/609282"
   },
   {
-    "id": "614123",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
-    "releaseDate": "2026-05-05",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月5日",
-    "link": "https://bgm.tv/subject/614123"
-  },
-  {
-    "id": "634222",
-    "type": "link",
-    "title": "真相捕捉 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
-    "link": "https://bgm.tv/subject/634222"
-  },
-  {
     "id": "280632",
     "type": "tmdb",
     "title": "成何体统",
     "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
     "releaseDate": "2026-02-06",
     "mediaType": "tv",
-    "rating": "8.4",
+    "rating": "8.3",
     "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
     "link": null,
     "tmdb_id": "280632",
@@ -204,15 +276,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "489598",
+    "id": "513985",
     "type": "link",
-    "title": "帝王计划：怪兽遗产 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
-    "link": "https://bgm.tv/subject/489598"
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
   },
   {
     "id": "307977",
@@ -233,17 +305,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "272432",
+    "id": "278882",
     "type": "tmdb",
-    "title": "低智商犯罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
-    "releaseDate": "2026-05-04",
+    "title": "年少有为",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
+    "rating": "7.8",
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
     "link": null,
-    "tmdb_id": "272432",
-    "tmdb_site_id": "tv/272432",
+    "tmdb_id": "278882",
+    "tmdb_site_id": "tv/278882",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -265,57 +337,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "621874",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
-  },
-  {
-    "id": "578285",
-    "type": "link",
-    "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/578285_83Pdo.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-03-01",
-    "link": "https://bgm.tv/subject/578285"
-  },
-  {
-    "id": "513985",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
-  },
-  {
-    "id": "278882",
-    "type": "tmdb",
-    "title": "年少有为",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-    "link": null,
-    "tmdb_id": "278882",
-    "tmdb_site_id": "tv/278882",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   }
