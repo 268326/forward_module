@@ -190,6 +190,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "487522",
+    "type": "link",
+    "title": "逆天邪神 年番",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
+    "releaseDate": "2026-04-16",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/487522",
+    "bgm_id": "487522",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "317320",
     "type": "tmdb",
     "title": "大道独行之蝶龙变",
@@ -210,21 +225,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "487522",
-    "type": "link",
-    "title": "逆天邪神 年番",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
-    "releaseDate": "2026-04-16",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/487522",
-    "bgm_id": "487522",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 4
   },
   {
     "id": "564361",
