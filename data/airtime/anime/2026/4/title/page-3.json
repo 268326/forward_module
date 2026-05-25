@@ -1,12 +1,23 @@
 [
   {
+    "id": "654342",
+    "type": "link",
+    "title": "Les Lapins Trois-Oreilles",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/d1/654342_d7ONT.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026-01-18 / Michel Ocelot",
+    "link": "https://bgm.tv/subject/654342"
+  },
+  {
     "id": "300126",
     "type": "tmdb",
     "title": "欺诈游戏",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
     "releaseDate": "2026-04-06",
     "mediaType": "tv",
-    "rating": "5.7",
+    "rating": "5.8",
     "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
     "link": null,
     "tmdb_id": "300126",
@@ -65,15 +76,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "555963",
-    "type": "link",
-    "title": "交配季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/d9/555963_2nYYV.jpg",
+    "id": "290295",
+    "type": "tmdb",
+    "title": "寻爱交配季",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cEij3jggWnDM4jsdkazK2cuvjtt.jpg",
     "releaseDate": "2026-05-22",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月22日",
-    "link": "https://bgm.tv/subject/555963"
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "故事在动物世界开展，熊、浣熊、鹿、狐狸等角色依次登场，加上众多情欲满满的可爱森林生物，大伙一同探索爱情、性与关系，以及寻找伴侣和延续种族命脉的共通需求。",
+    "link": null,
+    "tmdb_id": "290295",
+    "tmdb_site_id": "tv/290295",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "636362",
@@ -218,7 +236,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg",
     "releaseDate": "2026-05-20",
     "mediaType": "anime",
-    "rating": "",
+    "rating": "7.5",
     "description": "1话 /  2026年5月20日 / 神谷雄貴 / syo5",
     "link": "https://bgm.tv/subject/653666"
   },
@@ -281,16 +299,5 @@
     "rating": "",
     "description": "2026-01-23(圣丹斯电影节) / Don Hertzfeldt",
     "link": "https://bgm.tv/subject/640588"
-  },
-  {
-    "id": "618793",
-    "type": "link",
-    "title": "PAW Patrol: The Dino Movie",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/b5/618793_YSbXs.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月24日",
-    "link": "https://bgm.tv/subject/618793"
   }
 ]

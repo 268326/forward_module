@@ -1,21 +1,5 @@
 [
   {
-    "id": "306762",
-    "type": "tmdb",
-    "title": "棱镜恋曲",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
-    "releaseDate": "2026-01-15",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
-    "link": null,
-    "tmdb_id": "306762",
-    "tmdb_site_id": "tv/306762",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "300015",
     "type": "tmdb",
     "title": "草莓哀歌",
@@ -34,6 +18,38 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "90937",
+    "type": "tmdb",
+    "title": "动物狂想曲 最终季 第二部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
+    "releaseDate": "2026-03-07",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
+    "link": null,
+    "tmdb_id": "90937",
+    "tmdb_site_id": "tv/90937/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "306762",
+    "type": "tmdb",
+    "title": "棱镜恋曲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
+    "releaseDate": "2026-01-15",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
+    "link": null,
+    "tmdb_id": "306762",
+    "tmdb_site_id": "tv/306762",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "423036",
     "type": "link",
     "title": "中国奇谭 第二季",
@@ -43,22 +59,6 @@
     "rating": "6.2",
     "description": "9话 /  2026年1月1日 / 《小雪》陈莲华、《耳中人》胡睿、《三郎》欧阳仲泓、《大鸟》杜鹏鹏、《大贵人》顾杨 / 刘旷、《如何成为三条龙》杨木、《拜山》张俊杰 / 周旭、《今日动物园》杨雅词、《刑天》张扬 / 沈毅（造型设计）、郭春蕾、张俊杰、张冰、顾杨（造型设计）",
     "link": "https://bgm.tv/subject/423036"
-  },
-  {
-    "id": "283905",
-    "type": "tmdb",
-    "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
-    "link": null,
-    "tmdb_id": "283905",
-    "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "154526",
@@ -73,22 +73,6 @@
     "tmdb_id": "154526",
     "tmdb_site_id": "tv/154526",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "204266",
-    "type": "tmdb",
-    "title": "枪神 观星之人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/94/426100_viPSH.jpg",
-    "releaseDate": "2026-01-10",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "12话 /  2026年1月10日 / 佐藤雅子 / 内藤泰弘（少年画報社 ヤングキングアワーズ刊） / 押山清高",
-    "link": null,
-    "tmdb_id": "204266",
-    "tmdb_site_id": "tv/204266/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -109,6 +93,22 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "204266",
+    "type": "tmdb",
+    "title": "枪神 观星之人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/94/426100_viPSH.jpg",
+    "releaseDate": "2026-01-10",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "12话 /  2026年1月10日 / 佐藤雅子 / 内藤泰弘（少年画報社 ヤングキングアワーズ刊） / 押山清高",
+    "link": null,
+    "tmdb_id": "204266",
+    "tmdb_site_id": "tv/204266/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "484701",
@@ -133,6 +133,22 @@
     "link": "https://bgm.tv/subject/618795"
   },
   {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "284495",
     "type": "tmdb",
     "title": "异世界的安泰全看社畜",
@@ -149,20 +165,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
   },
   {
     "id": "254492",
@@ -181,24 +192,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
-  },
-  {
     "id": "300054",
     "type": "tmdb",
     "title": "刃牙道：无敌武士",
     "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
     "releaseDate": "2026-02-26",
     "mediaType": "tv",
-    "rating": "8.8",
+    "rating": "8.9",
     "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
     "link": null,
     "tmdb_id": "300054",
@@ -242,6 +242,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "196950",
+    "type": "tmdb",
+    "title": "尖帽子的魔法工房",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "link": null,
+    "tmdb_id": "196950",
+    "tmdb_site_id": "tv/196950",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "287591",
     "type": "tmdb",
     "title": "皎洁迎宵之月",
@@ -280,27 +296,11 @@
     "posterPath": "/img/no_icon_subject.png",
     "releaseDate": "2026-01-04",
     "mediaType": "tv",
-    "rating": "4.1",
+    "rating": "4.0",
     "description": "8话 /  2026年1月4日 / 佐々木純人 / 浅月のりと / 那須玲奈",
     "link": null,
     "tmdb_id": "287973",
     "tmdb_site_id": "tv/287973",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "196950",
-    "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
-    "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

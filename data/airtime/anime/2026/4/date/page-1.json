@@ -14,7 +14,7 @@
     "id": "583786",
     "type": "link",
     "title": "魔咒",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_3PH9j.jpg",
     "releaseDate": "2026-11-25",
     "mediaType": "anime",
     "rating": "",
@@ -231,6 +231,28 @@
     "link": "https://bgm.tv/subject/579533"
   },
   {
+    "id": "655076",
+    "type": "link",
+    "title": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2话 /  2026年8月28日 / アトリエかぐや(BARE&BUNNY)「Pure×Holic ～純潔乙女と婚姻カンケイ！？～」",
+    "link": "https://bgm.tv/subject/655076"
+  },
+  {
+    "id": "655061",
+    "type": "link",
+    "title": "サレ妻は奪われたい",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年8月28日",
+    "link": "https://bgm.tv/subject/655061"
+  },
+  {
     "id": "334105",
     "type": "link",
     "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
@@ -240,27 +262,5 @@
     "rating": "8.1",
     "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
     "link": "https://bgm.tv/subject/334105"
-  },
-  {
-    "id": "633318",
-    "type": "link",
-    "title": "不知火",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/40/633318_Cak7A.jpg",
-    "releaseDate": "2026-08-21",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年8月21日 / 片野坂亮 / 片野坂亮",
-    "link": "https://bgm.tv/subject/633318"
-  },
-  {
-    "id": "622412",
-    "type": "link",
-    "title": "机动警察 EZY 第二章",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/20/622412_flLQL.jpg",
-    "releaseDate": "2026-08-14",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "3话 /  2026年8月14日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
-    "link": "https://bgm.tv/subject/622412"
   }
 ]

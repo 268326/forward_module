@@ -209,7 +209,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/24/528434_ZqyTB.jpg",
     "releaseDate": "2026-01-08",
     "mediaType": "tv",
-    "rating": "5.2",
+    "rating": "5.1",
     "description": "12话 /  2026年1月8日 / 久保洋祐 / 樋口橘（白泉社・「マンガPark」連載） / 松元美季",
     "link": null,
     "tmdb_id": "284444",
@@ -251,17 +251,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
-  },
-  {
     "id": "285291",
     "type": "tmdb",
     "title": "转生之后的我变成了龙蛋",
@@ -276,6 +265,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "334105",
+    "type": "link",
+    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "8.1",
+    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "link": "https://bgm.tv/subject/334105"
   },
   {
     "id": "501963",
@@ -348,18 +348,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "90937",
+    "id": "283905",
     "type": "tmdb",
-    "title": "动物狂想曲 最终季 第二部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
-    "releaseDate": "2026-03-07",
+    "title": "上伊那牡丹，酒醉身姿似百合花般",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
+    "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
+    "rating": "7.5",
+    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
     "link": null,
-    "tmdb_id": "90937",
-    "tmdb_site_id": "tv/90937/season/3",
-    "tmdb_season_number": 3,
+    "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

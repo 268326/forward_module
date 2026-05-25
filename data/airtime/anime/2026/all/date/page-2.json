@@ -1,12 +1,34 @@
 [
   {
+    "id": "633318",
+    "type": "link",
+    "title": "不知火",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/40/633318_Cak7A.jpg",
+    "releaseDate": "2026-08-21",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年8月21日 / 片野坂亮 / 片野坂亮",
+    "link": "https://bgm.tv/subject/633318"
+  },
+  {
+    "id": "622412",
+    "type": "link",
+    "title": "机动警察 EZY 第二章",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/20/622412_flLQL.jpg",
+    "releaseDate": "2026-08-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "3话 /  2026年8月14日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
+    "link": "https://bgm.tv/subject/622412"
+  },
+  {
     "id": "633836",
     "type": "link",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "7.4",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
   },
@@ -47,7 +69,7 @@
     "id": "615446",
     "type": "link",
     "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_re2YN.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_8Z9kI.jpg",
     "releaseDate": "2026-07-31",
     "mediaType": "anime",
     "rating": "",
@@ -80,7 +102,7 @@
     "id": "623228",
     "type": "link",
     "title": "你与烟花与约定",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/92/623228_kWpt7.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/92/623228_1G2es.jpg",
     "releaseDate": "2026-07-17",
     "mediaType": "anime",
     "rating": "",
@@ -247,27 +269,5 @@
     "rating": "",
     "description": "2026年7月5日",
     "link": "https://bgm.tv/subject/583862"
-  },
-  {
-    "id": "577191",
-    "type": "link",
-    "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
-    "link": "https://bgm.tv/subject/577191"
-  },
-  {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
   }
 ]

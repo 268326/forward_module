@@ -1,5 +1,16 @@
 [
   {
+    "id": "610856",
+    "type": "link",
+    "title": "DARK13 踊るゾンビ学校",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/95/610856_rnf55.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-01-10 / 堤幸彦",
+    "link": "https://bgm.tv/subject/610856"
+  },
+  {
     "id": "320229",
     "type": "tmdb",
     "title": "DEAD ENDー羅刹の刻印ー",
@@ -260,7 +271,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
+    "description": "4话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
     "link": "https://bgm.tv/subject/644090"
   },
   {
@@ -292,16 +303,5 @@
     "rating": "",
     "description": "8话 /  2026-03-25",
     "link": "https://bgm.tv/subject/514553"
-  },
-  {
-    "id": "607710",
-    "type": "link",
-    "title": "HEAVEN BURNS RED LIVE 2026",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/d9/607710_NGRUr.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-03-01 / やなぎなぎ 、She is Legend",
-    "link": "https://bgm.tv/subject/607710"
   }
 ]

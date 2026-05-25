@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "393438",
-    "type": "link",
-    "title": "复仇者联盟5：毁灭日",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
-    "link": "https://bgm.tv/subject/393438"
-  },
-  {
     "id": "494701",
     "type": "link",
     "title": "沙丘：第三部分",
@@ -53,6 +42,17 @@
     "rating": "",
     "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
     "link": "https://bgm.tv/subject/494701"
+  },
+  {
+    "id": "393438",
+    "type": "link",
+    "title": "复仇者联盟5：毁灭日",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
+    "link": "https://bgm.tv/subject/393438"
   },
   {
     "id": "612440",
@@ -95,7 +95,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
+    "description": "4话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
     "link": "https://bgm.tv/subject/644090"
   },
   {
@@ -113,7 +113,7 @@
     "id": "537681",
     "type": "link",
     "title": "指环王：力量之戒 第三季",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/97/537681_j5810.jpg",
     "releaseDate": "2026-11-11",
     "mediaType": "real",
     "rating": "",
@@ -143,17 +143,6 @@
     "link": "https://bgm.tv/subject/639278"
   },
   {
-    "id": "522524",
-    "type": "link",
-    "title": "哥斯拉-0.0",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/e7/522524_rsS9C.jpg",
-    "releaseDate": "2026-11-03",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年11月3日 / 山崎貴",
-    "link": "https://bgm.tv/subject/522524"
-  },
-  {
     "id": "646304",
     "type": "link",
     "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
@@ -163,6 +152,17 @@
     "rating": "",
     "description": "2026-11-03 / Diamond Dust",
     "link": "https://bgm.tv/subject/646304"
+  },
+  {
+    "id": "522524",
+    "type": "link",
+    "title": "哥斯拉-0.0",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/e7/522524_rsS9C.jpg",
+    "releaseDate": "2026-11-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年11月3日 / 山崎貴",
+    "link": "https://bgm.tv/subject/522524"
   },
   {
     "id": "633242",
@@ -185,6 +185,17 @@
     "rating": "",
     "description": "10话 /  2026年10月24日",
     "link": "https://bgm.tv/subject/620303"
+  },
+  {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
   },
   {
     "id": "287591",
@@ -214,15 +225,26 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
-    "id": "650117",
+    "id": "428025",
     "type": "link",
-    "title": "昨夜は殺れたかも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "街头霸王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
+    "releaseDate": "2026-10-16",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
-    "link": "https://bgm.tv/subject/650117"
+    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
+    "link": "https://bgm.tv/subject/428025"
+  },
+  {
+    "id": "650384",
+    "type": "link",
+    "title": "わたしの知らない子どもたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
+    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "311125",
@@ -241,28 +263,6 @@
       "TW"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "428025",
-    "type": "link",
-    "title": "街头霸王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / Dalan Musson / Noah Centineo、Andrew Koji、Callina Liang",
-    "link": "https://bgm.tv/subject/428025"
-  },
-  {
-    "id": "650384",
-    "type": "link",
-    "title": "わたしの知らない子どもたち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
-    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "213375",

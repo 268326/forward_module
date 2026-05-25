@@ -48,17 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "587454",
-    "type": "link",
-    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
-    "link": "https://bgm.tv/subject/587454"
-  },
-  {
     "id": "203737",
     "type": "tmdb",
     "title": "【我推的孩子】 第三季",
@@ -73,6 +62,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "587454",
+    "type": "link",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": "https://bgm.tv/subject/587454"
   },
   {
     "id": "95479",
@@ -203,6 +203,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
     "id": "117465",
     "type": "tmdb",
     "title": "地狱乐 第二季",
@@ -217,17 +228,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
   },
   {
     "id": "229443",

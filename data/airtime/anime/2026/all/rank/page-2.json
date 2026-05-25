@@ -43,6 +43,17 @@
     "link": "https://bgm.tv/subject/616383"
   },
   {
+    "id": "563256",
+    "type": "link",
+    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年5月8日",
+    "link": "https://bgm.tv/subject/563256"
+  },
+  {
     "id": "276393",
     "type": "tmdb",
     "title": "现在多闻君是哪一面!?",
@@ -59,15 +70,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "563256",
-    "type": "link",
-    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "anime",
+    "id": "60761",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
     "rating": "7.0",
-    "description": "1话 /  2026年5月8日",
-    "link": "https://bgm.tv/subject/563256"
+    "description": "2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
+    "link": null,
+    "tmdb_id": "60761",
+    "tmdb_site_id": "tv/60761/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "288551",
@@ -102,17 +118,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "541814",
-    "type": "link",
-    "title": "偶像大师 百万现场！～终有一天，立于中央～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
-    "releaseDate": "2026-03-27",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
-    "link": "https://bgm.tv/subject/541814"
-  },
-  {
     "id": "312474",
     "type": "tmdb",
     "title": "日本三国",
@@ -129,13 +134,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "541814",
+    "type": "link",
+    "title": "偶像大师 百万现场！～终有一天，立于中央～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
+    "releaseDate": "2026-03-27",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
+    "link": "https://bgm.tv/subject/541814"
+  },
+  {
     "id": "91768",
     "type": "tmdb",
     "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "7.0",
     "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
     "link": null,
     "tmdb_id": "91768",
@@ -151,7 +167,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "7.0",
     "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
     "link": null,
     "tmdb_id": "260463",
@@ -159,6 +175,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "630676",
+    "type": "link",
+    "title": "仙逆 年番3",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/71/630676_6v15K.jpg",
+    "releaseDate": "2026-02-23",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "52话 /  2026年2月23日 / 李振锋、王建鑫 / 耳根",
+    "link": "https://bgm.tv/subject/630676"
   },
   {
     "id": "515869",
@@ -199,22 +226,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196950",
-    "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
-    "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "651692",
     "type": "link",
     "title": "少年与高达",
@@ -224,6 +235,17 @@
     "rating": "6.7",
     "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
     "link": "https://bgm.tv/subject/651692"
+  },
+  {
+    "id": "549975",
+    "type": "link",
+    "title": "安昂传奇：最后的气宗",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "1话 /  2026年10月9日",
+    "link": "https://bgm.tv/subject/549975"
   },
   {
     "id": "544626",
@@ -237,15 +259,20 @@
     "link": "https://bgm.tv/subject/544626"
   },
   {
-    "id": "549975",
-    "type": "link",
-    "title": "安昂传奇：最后的气宗",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "1话 /  2026年10月9日",
-    "link": "https://bgm.tv/subject/549975"
+    "id": "196950",
+    "type": "tmdb",
+    "title": "尖帽子的魔法工房",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "link": null,
+    "tmdb_id": "196950",
+    "tmdb_site_id": "tv/196950",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "295357",
@@ -288,7 +315,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
     "link": null,
     "tmdb_id": "301944",
@@ -309,38 +336,6 @@
     "link": null,
     "tmdb_id": "309163",
     "tmdb_site_id": "tv/309163",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "91801",
-    "type": "tmdb",
-    "title": "入间同学入魔了 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
-    "link": null,
-    "tmdb_id": "91801",
-    "tmdb_site_id": "tv/91801/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "249907",
-    "type": "tmdb",
-    "title": "判处勇者刑 惩罚勇者9004队刑务纪录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/9b/445905_M0j2M.jpg",
-    "releaseDate": "2026-01-03",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "12话 /  2026年1月3日 / 高嶋宏之 / ロケット商会（電撃の新文芸/KADOKAWA刊） / 野田猛",
-    "link": null,
-    "tmdb_id": "249907",
-    "tmdb_site_id": "tv/249907",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

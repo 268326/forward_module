@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "622250",
-    "type": "link",
-    "title": "时薪300日元的死神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
-    "link": "https://bgm.tv/subject/622250"
-  },
-  {
     "id": "642227",
     "type": "link",
     "title": "ママがもうこの世界にいなくても 私の命の日記",
@@ -55,6 +44,17 @@
     "link": "https://bgm.tv/subject/642227"
   },
   {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
+  },
+  {
     "id": "645791",
     "type": "link",
     "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
@@ -64,6 +64,17 @@
     "rating": "",
     "description": "2话 /  2026年9月26日",
     "link": "https://bgm.tv/subject/645791"
+  },
+  {
+    "id": "600005",
+    "type": "link",
+    "title": "しびれ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/95/600005_yZIt0.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月25日 / 内山拓也 / 内山拓也 / 北村匠海",
+    "link": "https://bgm.tv/subject/600005"
   },
   {
     "id": "633558",
@@ -88,15 +99,15 @@
     "link": "https://bgm.tv/subject/638983"
   },
   {
-    "id": "600005",
+    "id": "639664",
     "type": "link",
-    "title": "しびれ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/95/600005_yZIt0.jpg",
-    "releaseDate": "2026-09-25",
+    "title": "Morfonica LIVE「Movement」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/88/639664_E77zP.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年9月25日 / 内山拓也 / 内山拓也 / 北村匠海",
-    "link": "https://bgm.tv/subject/600005"
+    "description": "2026-09-22 / Morfonica",
+    "link": "https://bgm.tv/subject/639664"
   },
   {
     "id": "632522",
@@ -110,15 +121,15 @@
     "link": "https://bgm.tv/subject/632522"
   },
   {
-    "id": "639664",
+    "id": "628086",
     "type": "link",
-    "title": "Morfonica LIVE「Movement」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/88/639664_E77zP.jpg",
+    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-22 / Morfonica",
-    "link": "https://bgm.tv/subject/639664"
+    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
+    "link": "https://bgm.tv/subject/628086"
   },
   {
     "id": "647204",
@@ -143,15 +154,15 @@
     "link": "https://bgm.tv/subject/640614"
   },
   {
-    "id": "628086",
+    "id": "580127",
     "type": "link",
-    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "生化危机：爆发夜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_14t34.jpg",
+    "releaseDate": "2026-09-18",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
-    "link": "https://bgm.tv/subject/628086"
+    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams、Zach Cherry、Kali Reis、Paul Walter Hauser",
+    "link": "https://bgm.tv/subject/580127"
   },
   {
     "id": "526932",
@@ -163,17 +174,6 @@
     "rating": "",
     "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
     "link": "https://bgm.tv/subject/526932"
-  },
-  {
-    "id": "580127",
-    "type": "link",
-    "title": "生化危机：爆发夜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_ltQ5t.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams",
-    "link": "https://bgm.tv/subject/580127"
   },
   {
     "id": "644128",
@@ -201,7 +201,7 @@
     "id": "649745",
     "type": "link",
     "title": "THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/08/38/649745_qOzPY.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/08/38/649745_Mpdyi.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",

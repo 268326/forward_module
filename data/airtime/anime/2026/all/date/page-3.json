@@ -1,5 +1,27 @@
 [
   {
+    "id": "583862",
+    "type": "link",
+    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日",
+    "link": "https://bgm.tv/subject/583862"
+  },
+  {
+    "id": "595106",
+    "type": "link",
+    "title": "Let's Go 怪奇组",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_kn3W3.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
+    "link": "https://bgm.tv/subject/595106"
+  },
+  {
     "id": "598058",
     "type": "link",
     "title": "超超超超超喜欢你的100个女朋友 第三季",
@@ -60,6 +82,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "602733",
+    "type": "link",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月4日 / 森下柊聖（後藤圭二） / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "link": "https://bgm.tv/subject/602733"
   },
   {
     "id": "651872",
@@ -190,6 +223,17 @@
     "link": "https://bgm.tv/subject/628212"
   },
   {
+    "id": "637124",
+    "type": "link",
+    "title": "花样少年少女 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/0f/637124_D2HtN.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月1日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 蘇詩宜（苏诗宜）",
+    "link": "https://bgm.tv/subject/637124"
+  },
+  {
     "id": "653289",
     "type": "link",
     "title": "探险时光：支线任务",
@@ -232,49 +276,5 @@
     "rating": "",
     "description": "1话 /  2026年6月26日 / 矢野博之 / やなせたかし（フレーベル館刊）",
     "link": "https://bgm.tv/subject/623063"
-  },
-  {
-    "id": "637402",
-    "type": "link",
-    "title": "ハメハラ",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月26日",
-    "link": "https://bgm.tv/subject/637402"
-  },
-  {
-    "id": "638750",
-    "type": "link",
-    "title": "彼の知らない秘密を入れて。 THE ANIMATION",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月26日 / チーム☆ラッキー「彼の知らない秘密を入れて。」",
-    "link": "https://bgm.tv/subject/638750"
-  },
-  {
-    "id": "645350",
-    "type": "link",
-    "title": "フラチ",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年6月26日 / 『フラチ』（裏筋部屋 [裏筋侍]）",
-    "link": "https://bgm.tv/subject/645350"
-  },
-  {
-    "id": "577226",
-    "type": "link",
-    "title": "诡秘之主特别篇 猎物",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_68Dfj.jpg",
-    "releaseDate": "2026-06-20",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年6月20日 / 爱潜水的乌贼",
-    "link": "https://bgm.tv/subject/577226"
   }
 ]
