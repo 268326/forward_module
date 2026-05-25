@@ -6,11 +6,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/e6/469104_SMf0k.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "469104",
-    "bgm_score": 7.0,
+    "bgm_score": 6.9,
     "bgm_rating_total": 214,
     "bgm_weekday_id": 6,
     "tmdb_id": "91768",
@@ -51,7 +51,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.7,
-    "bgm_rating_total": 159,
+    "bgm_rating_total": 160,
     "bgm_weekday_id": 4
   },
   {
@@ -66,7 +66,7 @@
     "link": null,
     "bgm_id": "610703",
     "bgm_score": 5.4,
-    "bgm_rating_total": 157,
+    "bgm_rating_total": 155,
     "bgm_weekday_id": 2,
     "tmdb_id": "306790",
     "tmdb_site_id": "tv/306790",
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "524486",
     "bgm_score": 6.6,
-    "bgm_rating_total": 146,
+    "bgm_rating_total": 148,
     "bgm_weekday_id": 6,
     "tmdb_id": "91801",
     "tmdb_site_id": "tv/91801/season/4",
@@ -126,7 +126,7 @@
     "link": null,
     "bgm_id": "631963",
     "bgm_score": 5.8,
-    "bgm_rating_total": 132,
+    "bgm_rating_total": 133,
     "bgm_weekday_id": 4,
     "tmdb_id": "35129",
     "tmdb_site_id": "tv/35129",
@@ -181,7 +181,7 @@
     "link": null,
     "bgm_id": "602059",
     "bgm_score": 7.8,
-    "bgm_rating_total": 107,
+    "bgm_rating_total": 109,
     "bgm_weekday_id": 7,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854/season/23",
@@ -221,7 +221,7 @@
     "link": null,
     "bgm_id": "609175",
     "bgm_score": 5.3,
-    "bgm_rating_total": 94,
+    "bgm_rating_total": 96,
     "bgm_weekday_id": 5,
     "tmdb_id": "306121",
     "tmdb_site_id": "tv/306121",
@@ -321,7 +321,7 @@
     "link": "http://bgm.tv/subject/638494",
     "bgm_id": "638494",
     "bgm_score": 6.2,
-    "bgm_rating_total": 48,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 3
   },
   {
@@ -401,7 +401,7 @@
     "link": "http://bgm.tv/subject/641036",
     "bgm_id": "641036",
     "bgm_score": 6.7,
-    "bgm_rating_total": 16,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 7
   },
   {
@@ -411,11 +411,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/4a/575244_8OmeD.jpg",
     "releaseDate": "2026-04-03",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/575244",
     "bgm_id": "575244",
-    "bgm_score": 5.8,
+    "bgm_score": 5.7,
     "bgm_rating_total": 14,
     "bgm_weekday_id": 5
   },
@@ -431,7 +431,7 @@
     "link": "http://bgm.tv/subject/487522",
     "bgm_id": "487522",
     "bgm_score": 7.0,
-    "bgm_rating_total": 8,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 4
   }
 ]

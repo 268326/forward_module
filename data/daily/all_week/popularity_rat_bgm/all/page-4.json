@@ -10,8 +10,8 @@
     "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
     "link": null,
     "bgm_id": "621449",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 41,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 3,
     "tmdb_id": "312383",
     "tmdb_site_id": "tv/312383",
@@ -149,7 +149,7 @@
     "link": "http://bgm.tv/subject/641036",
     "bgm_id": "641036",
     "bgm_score": 6.7,
-    "bgm_rating_total": 16,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 7
   },
   {
@@ -159,13 +159,28 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/4a/575244_8OmeD.jpg",
     "releaseDate": "2026-04-03",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/575244",
     "bgm_id": "575244",
-    "bgm_score": 5.8,
+    "bgm_score": 5.7,
     "bgm_rating_total": 14,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "487522",
+    "type": "link",
+    "title": "逆天邪神 年番",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
+    "releaseDate": "2026-04-16",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/487522",
+    "bgm_id": "487522",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 4
   },
   {
     "id": "283805",
@@ -188,21 +203,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "487522",
-    "type": "link",
-    "title": "逆天邪神 年番",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
-    "releaseDate": "2026-04-16",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/487522",
-    "bgm_id": "487522",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 4
   },
   {
     "id": "317320",
