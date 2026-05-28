@@ -1,5 +1,20 @@
 [
   {
+    "id": "616453",
+    "type": "link",
+    "title": "这样高大的女孩子你喜欢吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a4/3f/616453_q2e2i.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/616453",
+    "bgm_id": "616453",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 123,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "316427",
     "type": "tmdb",
     "title": "淫狱团地",
@@ -51,7 +66,7 @@
     "link": null,
     "bgm_id": "623851",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1125,
+    "bgm_rating_total": 1130,
     "bgm_weekday_id": 7,
     "tmdb_id": "312474",
     "tmdb_site_id": "tv/312474",

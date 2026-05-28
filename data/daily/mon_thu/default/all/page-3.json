@@ -1,5 +1,25 @@
 [
   {
+    "id": "312293",
+    "type": "tmdb",
+    "title": "又被杀掉了呢，侦探大人",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/2e/f4/608227_44kWb.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "608227",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 366,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "312293",
+    "tmdb_site_id": "tv/312293",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "310921",
     "type": "tmdb",
     "title": "吞噬魔物的冒险者",
@@ -31,7 +51,7 @@
     "link": null,
     "bgm_id": "631963",
     "bgm_score": 5.8,
-    "bgm_rating_total": 134,
+    "bgm_rating_total": 135,
     "bgm_weekday_id": 4,
     "tmdb_id": "35129",
     "tmdb_site_id": "tv/35129",
@@ -70,18 +90,23 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "646732",
-    "type": "link",
+    "id": "323900",
+    "type": "tmdb",
     "title": "るーにー・てゅーんずごっこ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a5/42/646732_3gT8m.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zdGuj1dFJvmxYM8cX1sbAJb6Nmo.jpg",
     "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期四]",
-    "link": "http://bgm.tv/subject/646732",
+    "link": null,
     "bgm_id": "646732",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "323900",
+    "tmdb_site_id": "tv/323900",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "tmdb_api"
   }
 ]
