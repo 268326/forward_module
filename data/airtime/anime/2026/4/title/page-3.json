@@ -1,5 +1,27 @@
 [
   {
+    "id": "644636",
+    "type": "link",
+    "title": "紧身衣",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/3e/644636_2Kc4O.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026-10-14(法国) / Louis Clichy",
+    "link": "https://bgm.tv/subject/644636"
+  },
+  {
+    "id": "640219",
+    "type": "link",
+    "title": "LEGO® ONE PIECE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/51/640219_20wA9.jpg",
+    "releaseDate": "2026-09-29",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月29日",
+    "link": "https://bgm.tv/subject/640219"
+  },
+  {
     "id": "654342",
     "type": "link",
     "title": "Les Lapins Trois-Oreilles",
@@ -17,7 +39,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
     "releaseDate": "2026-04-06",
     "mediaType": "tv",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
     "link": null,
     "tmdb_id": "300126",
@@ -82,7 +104,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/cEij3jggWnDM4jsdkazK2cuvjtt.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "tv",
-    "rating": "7.1",
+    "rating": "7.5",
     "description": "故事在动物世界开展，熊、浣熊、鹿、狐狸等角色依次登场，加上众多情欲满满的可爱森林生物，大伙一同探索爱情、性与关系，以及寻找伴侣和延续种族命脉的共通需求。",
     "link": null,
     "tmdb_id": "290295",
@@ -101,7 +123,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026 / 長江心春",
+    "description": "1话 /  2026 / 長江心春",
     "link": "https://bgm.tv/subject/636362"
   },
   {
@@ -236,7 +258,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg",
     "releaseDate": "2026-05-20",
     "mediaType": "anime",
-    "rating": "7.5",
+    "rating": "7.4",
     "description": "1话 /  2026年5月20日 / 神谷雄貴 / syo5",
     "link": "https://bgm.tv/subject/653666"
   },
@@ -277,27 +299,5 @@
     "tmdb_season_number": 23,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "646494",
-    "type": "link",
-    "title": "吃豆人：零食时间",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/77/646494_67UIK.jpg",
-    "releaseDate": "2026-05-22",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月22日 / Noah Pardo",
-    "link": "https://bgm.tv/subject/646494"
-  },
-  {
-    "id": "640588",
-    "type": "link",
-    "title": "Paper Trail",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/aa/640588_kKnnD.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026-01-23(圣丹斯电影节) / Don Hertzfeldt",
-    "link": "https://bgm.tv/subject/640588"
   }
 ]

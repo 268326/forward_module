@@ -56,7 +56,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026 / 渡邊莉子",
+    "description": "1话 /  2026 / 渡邊莉子",
     "link": "https://bgm.tv/subject/636244"
   },
   {
@@ -67,7 +67,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026 / 森芳仁",
+    "description": "1话 /  2026 / 森芳仁",
     "link": "https://bgm.tv/subject/636245"
   },
   {
@@ -78,7 +78,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026 / 大坪茉莉子",
+    "description": "1话 /  2026 / 大坪茉莉子",
     "link": "https://bgm.tv/subject/636301"
   },
   {
@@ -274,8 +274,19 @@
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026 / go-shu",
+    "description": "1话 /  2026 / go-shu",
     "link": "https://bgm.tv/subject/636325"
+  },
+  {
+    "id": "655393",
+    "type": "link",
+    "title": "最后的春天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年5月22日 / Mathilde Bédouet",
+    "link": "https://bgm.tv/subject/655393"
   },
   {
     "id": "551576",
@@ -284,19 +295,8 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_4aQov.jpg",
     "releaseDate": "2026-05-12",
     "mediaType": "anime",
-    "rating": "3.5",
+    "rating": "3.7",
     "description": "8话 /  2026年5月12日 / Adi Shankar",
     "link": "https://bgm.tv/subject/551576"
-  },
-  {
-    "id": "624869",
-    "type": "link",
-    "title": "低危营地生存秀 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/b8/624869_g7hAh.jpg",
-    "releaseDate": "2026-01-17",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "26话 /  2026年1月17日 / Jared Madrigal/Robert Castellanos",
-    "link": "https://bgm.tv/subject/624869"
   }
 ]

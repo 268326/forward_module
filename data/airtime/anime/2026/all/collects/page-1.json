@@ -64,17 +64,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "587454",
-    "type": "link",
-    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
-    "link": "https://bgm.tv/subject/587454"
-  },
-  {
     "id": "95479",
     "type": "tmdb",
     "title": "咒术回战 死灭回游 前篇",
@@ -89,6 +78,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "587454",
+    "type": "link",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": "https://bgm.tv/subject/587454"
   },
   {
     "id": "278043",
@@ -162,7 +162,7 @@
     "releaseDate": "2026-01-08",
     "mediaType": "tv",
     "rating": "6.5",
-    "description": "12话 /  2026年1月8日 / 田村正文 / タカヒロ・竹村洋平（少年ジャンプ＋連載中／ジャンプコミックス刊） / 中野圭哉",
+    "description": "12话 /  2026年1月8日 / 田村正文 / タカヒロ・竹村洋平（集英社「少年ジャンプ＋」連載） / 中野圭哉",
     "link": null,
     "tmdb_id": "139060",
     "tmdb_site_id": "tv/139060/season/2",
@@ -221,7 +221,7 @@
     "releaseDate": "2026-01-11",
     "mediaType": "tv",
     "rating": "6.6",
-    "description": "12话 /  2026年1月11日 / 牧田佳織 / 賀来ゆうじ（『地獄楽』集英社「ジャンプコミックス」刊） / 久木晃嗣",
+    "description": "12话 /  2026年1月11日 / 牧田佳織 / 賀来ゆうじ（集英社ジャンプ コミックス刊） / 久木晃嗣",
     "link": null,
     "tmdb_id": "117465",
     "tmdb_site_id": "tv/117465",

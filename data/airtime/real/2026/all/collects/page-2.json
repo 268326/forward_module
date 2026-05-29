@@ -1,27 +1,34 @@
 [
   {
-    "id": "541822",
-    "type": "link",
-    "title": "夜魔侠：重生 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
+    "id": "303405",
+    "type": "tmdb",
+    "title": "九条的大罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
+    "mediaType": "tv",
     "rating": "7.5",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
-    "link": "https://bgm.tv/subject/541822"
+    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
+    "link": null,
+    "tmdb_id": "303405",
+    "tmdb_site_id": "tv/303405",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312723",
+    "id": "306207",
     "type": "tmdb",
-    "title": "牙狼＜GARO＞ 东之界楼",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
-    "releaseDate": "2026-01-29",
+    "title": "再会～沉默的真相～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jYVhsNBrJT5htVukLv95q1C6bdR.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.5",
-    "description": "结束了在克莱亚市的战斗后，流牙为了净化铠甲而前往莱因市。\n\n然而，映入眼帘的却是广袤无垠的沙漠。\n\n在勉强逃过沙漠化的城市・萨冈，大量霍拉出现，异常事态让整个城市陷入混乱。\n\n为了拯救这场危机而出在城市中的，是龙族魔戒法师・埃尔米娜与莉杏。\n\n莉杏在与流牙一同前往克莱亚市的途中，因为龙女的召集而履行了另一项使命。\n\n大量增生的霍拉、披着废弃物的强大敌人，以及无差别袭击的身份不明魔戒骑士。\n\n更有神秘魔戒法师・列克托尔悄然逼近流牙——。\n\n在愈发混乱的战斗中，流牙与莉杏仿佛被引导般再次重逢。\n\n战斗结束后，流牙看见了旧日盟友龙女已变得面目全非的身影。\n\n当龙女的生命走到尽头时，她告知世界将迎来巨大的灾厄。\n\n流牙与莉杏为阻止这一切而挺身而出，\n\n但在前方等待他们的，是作为守护者所必须面对的壮烈宿命。\n\n动摇流牙与莉杏二人命运的战斗，即将拉开序幕。",
+    "rating": "7.0",
+    "description": "23年前，小学六年级的飞奈淳一（竹内凉真 饰）与关系要好的三名同学，共同把一把卷入事件的手枪埋在樱树下。成年后，淳一成为刑警，却在某起案件中得知：凶器正是当年四人一起埋下的那把枪。更令他震动的是，他以刑警与嫌疑人的身份，与初恋岩本万季子（井上真央 饰）再会。随着调查推进，他逐一与当年的伙伴重逢，被掩埋的真相、背叛与秘密逐渐浮现。过往的“再会”，将彻底改变所有人的人生轨迹。\n\n改编自横关大获得第56届江户川乱步奖的小说《再会》。",
     "link": null,
-    "tmdb_id": "312723",
-    "tmdb_site_id": "tv/312723",
+    "tmdb_id": "306207",
+    "tmdb_site_id": "tv/306207",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -47,6 +54,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "312723",
+    "type": "tmdb",
+    "title": "牙狼＜GARO＞ 东之界楼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
+    "releaseDate": "2026-01-29",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "结束了在克莱亚市的战斗后，流牙为了净化铠甲而前往莱因市。\n\n然而，映入眼帘的却是广袤无垠的沙漠。\n\n在勉强逃过沙漠化的城市・萨冈，大量霍拉出现，异常事态让整个城市陷入混乱。\n\n为了拯救这场危机而出在城市中的，是龙族魔戒法师・埃尔米娜与莉杏。\n\n莉杏在与流牙一同前往克莱亚市的途中，因为龙女的召集而履行了另一项使命。\n\n大量增生的霍拉、披着废弃物的强大敌人，以及无差别袭击的身份不明魔戒骑士。\n\n更有神秘魔戒法师・列克托尔悄然逼近流牙——。\n\n在愈发混乱的战斗中，流牙与莉杏仿佛被引导般再次重逢。\n\n战斗结束后，流牙看见了旧日盟友龙女已变得面目全非的身影。\n\n当龙女的生命走到尽头时，她告知世界将迎来巨大的灾厄。\n\n流牙与莉杏为阻止这一切而挺身而出，\n\n但在前方等待他们的，是作为守护者所必须面对的壮烈宿命。\n\n动摇流牙与莉杏二人命运的战斗，即将拉开序幕。",
+    "link": null,
+    "tmdb_id": "312723",
+    "tmdb_site_id": "tv/312723",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "229891",
     "type": "tmdb",
     "title": "爱情怎么翻译？",
@@ -65,24 +90,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "272432",
-    "type": "tmdb",
-    "title": "低智商犯罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xwEFuUmwHhjqPGnBwbuz2Yu76r8.jpg",
-    "releaseDate": "2026-05-04",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
-    "link": null,
-    "tmdb_id": "272432",
-    "tmdb_site_id": "tv/272432",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "601438",
     "type": "link",
     "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
@@ -92,17 +99,6 @@
     "rating": "6.5",
     "description": "2话 /  2026年4月25日",
     "link": "https://bgm.tv/subject/601438"
-  },
-  {
-    "id": "633271",
-    "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.2",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
   },
   {
     "id": "289356",
@@ -123,15 +119,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "544948",
+    "id": "633271",
     "type": "link",
-    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
-    "link": "https://bgm.tv/subject/544948"
+    "rating": "7.2",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
   },
   {
     "id": "307650",
@@ -185,6 +181,39 @@
     "link": "https://bgm.tv/subject/625916"
   },
   {
+    "id": "544948",
+    "type": "link",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
+  },
+  {
+    "id": "511454",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
+    "releaseDate": "2026-03-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月14日",
+    "link": "https://bgm.tv/subject/511454"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
     "id": "313635",
     "type": "tmdb",
     "title": "如龙 Powered by 日本统一",
@@ -232,50 +261,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "621874",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
-  },
-  {
-    "id": "511454",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
-    "releaseDate": "2026-03-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月14日",
-    "link": "https://bgm.tv/subject/511454"
-  },
-  {
-    "id": "587208",
-    "type": "link",
-    "title": "学園アイドルマスター 初星音楽祭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/587208"
-  },
-  {
-    "id": "609282",
-    "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
-  },
-  {
     "id": "513985",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
@@ -309,17 +294,39 @@
     "link": "https://bgm.tv/subject/489598"
   },
   {
-    "id": "307977",
+    "id": "587208",
+    "type": "link",
+    "title": "学園アイドルマスター 初星音楽祭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
+    "releaseDate": "2026-02-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/587208"
+  },
+  {
+    "id": "609282",
+    "type": "link",
+    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
+    "link": "https://bgm.tv/subject/609282"
+  },
+  {
+    "id": "307652",
     "type": "tmdb",
-    "title": "我是家庭教师岸骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ECjZFaPrGoNZeRXMvo1TQg8sR2.jpg",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.5",
-    "description": "　　王子般完美、气质值拉满的超级家庭教师岸骑士（泽村玲 饰），被彻的母亲请来为成绩长期垫底、每天只会打架的重度不良少年高杉彻（田中洸希 饰）补习。岸外表俊美、举止优雅，对彻的指导却温柔甜蜜，宛如“甜度过量”的王子降临。彻原本强硬桀骜，却逐渐被岸的魅力带乱节奏，生活也随之发生改变。作品以闪耀喜剧风格为基调，带有轻微BL氛围，描绘了两人之间奇妙又令人心动的互动。\n\n　　本剧改编自奥嶋ひろまさ的同名原著漫画。",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
     "link": null,
-    "tmdb_id": "307977",
-    "tmdb_site_id": "tv/307977",
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

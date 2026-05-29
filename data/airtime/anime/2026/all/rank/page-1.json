@@ -118,6 +118,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "76757",
+    "type": "tmdb",
+    "title": "黄金神威 最终章",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7c/f1/443106_b4QP3.jpg",
+    "releaseDate": "2026-01-05",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "13话 /  2026年1月5日 / 菅原静貴 / 野田サトル（集英社ヤングジャンプ コミックス刊） / 山川拓己",
+    "link": null,
+    "tmdb_id": "76757",
+    "tmdb_site_id": "tv/76757/season/5",
+    "tmdb_season_number": 5,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "94404",
     "type": "tmdb",
     "title": "异兽魔都 第二季",
@@ -146,22 +162,6 @@
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "76757",
-    "type": "tmdb",
-    "title": "黄金神威 最终章",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7c/f1/443106_b4QP3.jpg",
-    "releaseDate": "2026-01-05",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "13话 /  2026年1月5日 / 菅原静貴 / 野田サトル（集英社ヤングジャンプ コミックス刊） / 山川拓己",
-    "link": null,
-    "tmdb_id": "76757",
-    "tmdb_site_id": "tv/76757/season/5",
-    "tmdb_season_number": 5,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -324,15 +324,20 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "505401",
-    "type": "link",
-    "title": "无敌少侠 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
-    "releaseDate": "2026-03-18",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
-    "link": "https://bgm.tv/subject/505401"
+    "id": "312522",
+    "type": "tmdb",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "link": null,
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "312822",

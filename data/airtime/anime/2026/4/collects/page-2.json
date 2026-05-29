@@ -257,7 +257,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b7/ce/544106_L6Pj1.jpg",
     "releaseDate": "2026-01-10",
     "mediaType": "tv",
-    "rating": "4.3",
+    "rating": "4.2",
     "description": "12话 /  2026年1月10日 / 高村雄太 / 猫子・NAJI柳田（掲載「SQEXノベル」スクウェア・エニックス刊） / 小野田将人",
     "link": null,
     "tmdb_id": "285291",
@@ -305,6 +305,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
     "id": "208493",
     "type": "tmdb",
     "title": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP",
@@ -321,15 +332,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
+    "id": "283905",
+    "type": "tmdb",
+    "title": "上伊那牡丹，酒醉身姿似百合花般",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "tv",
     "rating": "7.5",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
+    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
+    "link": null,
+    "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "276110",
@@ -343,22 +359,6 @@
     "link": null,
     "tmdb_id": "276110",
     "tmdb_site_id": "tv/276110",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "283905",
-    "type": "tmdb",
-    "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
-    "link": null,
-    "tmdb_id": "283905",
-    "tmdb_site_id": "tv/283905",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

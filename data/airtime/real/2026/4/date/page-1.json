@@ -18,7 +18,7 @@
     "releaseDate": "2026-12-25",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
+    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋（TEAM NACS）、松田龍平",
     "link": "https://bgm.tv/subject/637146"
   },
   {
@@ -33,17 +33,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "494701",
-    "type": "link",
-    "title": "沙丘：第三部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
-    "link": "https://bgm.tv/subject/494701"
-  },
-  {
     "id": "393438",
     "type": "link",
     "title": "复仇者联盟5：毁灭日",
@@ -53,6 +42,17 @@
     "rating": "",
     "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
     "link": "https://bgm.tv/subject/393438"
+  },
+  {
+    "id": "494701",
+    "type": "link",
+    "title": "沙丘：第三部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
+    "link": "https://bgm.tv/subject/494701"
   },
   {
     "id": "612440",
@@ -84,7 +84,7 @@
     "releaseDate": "2026-11-27",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年11月27日 / 広瀬奈々子 / 長澤まさみ、柄本佑、石橋静河",
+    "description": "2026年11月27日 / 広瀬奈々子 / 広瀬奈々子 / 長澤まさみ、柄本佑、石橋静河",
     "link": "https://bgm.tv/subject/638757"
   },
   {
@@ -143,17 +143,6 @@
     "link": "https://bgm.tv/subject/639278"
   },
   {
-    "id": "646304",
-    "type": "link",
-    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-11-03 / Diamond Dust",
-    "link": "https://bgm.tv/subject/646304"
-  },
-  {
     "id": "522524",
     "type": "link",
     "title": "哥斯拉-0.0",
@@ -165,9 +154,20 @@
     "link": "https://bgm.tv/subject/522524"
   },
   {
+    "id": "646304",
+    "type": "link",
+    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-11-03 / Diamond Dust",
+    "link": "https://bgm.tv/subject/646304"
+  },
+  {
     "id": "633242",
     "type": "link",
-    "title": "RYUJI 竜二",
+    "title": "龙二",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/6f/633242_ULz6K.jpg",
     "releaseDate": "2026-10-30",
     "mediaType": "real",
@@ -187,25 +187,14 @@
     "link": "https://bgm.tv/subject/620303"
   },
   {
-    "id": "650117",
-    "type": "link",
-    "title": "昨夜は殺れたかも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-10-23 / 吉野北人、鈴木愛理",
-    "link": "https://bgm.tv/subject/650117"
-  },
-  {
     "id": "287591",
     "type": "tmdb",
-    "title": "うるわしの宵の月",
+    "title": "皎洁迎宵之月",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/25/fd/628277_J2UZg.jpg",
     "releaseDate": "2026-10-23",
     "mediaType": "tv",
     "rating": "",
-    "description": "1话 /  2026年10月23日 / 竹村謙太郎 / 道枝駿佑",
+    "description": "1话 /  2026年10月23日 / 竹村謙太郎 / 徳永友一 / 道枝駿佑",
     "link": null,
     "tmdb_id": "287591",
     "tmdb_site_id": "tv/287591",
@@ -221,8 +210,37 @@
     "releaseDate": "2026-10-23",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan / Tom Rhys Harries、Naomi Ackie",
+    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
     "link": "https://bgm.tv/subject/528731"
+  },
+  {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
+  },
+  {
+    "id": "311125",
+    "type": "tmdb",
+    "title": "以身相許",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年10月16日 / 磯村勇斗、末澤誠也（Aぇ! group）",
+    "link": null,
+    "tmdb_id": "311125",
+    "tmdb_site_id": "tv/311125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "428025",
@@ -245,24 +263,6 @@
     "rating": "",
     "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
     "link": "https://bgm.tv/subject/650384"
-  },
-  {
-    "id": "311125",
-    "type": "tmdb",
-    "title": "以身相許",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年10月16日 / 磯村勇斗、末澤誠也（Aぇ! group）",
-    "link": null,
-    "tmdb_id": "311125",
-    "tmdb_site_id": "tv/311125",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "TW"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "213375",

@@ -50,6 +50,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "423036",
     "type": "link",
     "title": "中国奇谭 第二季",
@@ -77,24 +95,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298026",
-    "type": "tmdb",
-    "title": "放开那个女巫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
-    "releaseDate": "2026-03-02",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
-    "link": null,
-    "tmdb_id": "298026",
-    "tmdb_site_id": "tv/298026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "204266",
     "type": "tmdb",
     "title": "枪神 观星之人",
@@ -111,6 +111,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "94404",
+    "type": "tmdb",
+    "title": "异兽魔都 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
+    "link": null,
+    "tmdb_id": "94404",
+    "tmdb_site_id": "tv/94404/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "484701",
     "type": "link",
     "title": "超级马力欧银河大电影",
@@ -120,17 +136,6 @@
     "rating": "6.3",
     "description": "1话 /  2026年4月1日 / Aaron Horvath、Michael Jelenic",
     "link": "https://bgm.tv/subject/484701"
-  },
-  {
-    "id": "618795",
-    "type": "link",
-    "title": "学园偶像大师 Story of Re;IRIS",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2c/618795_kS9Rt.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "11话 /  2026年1月1日 / 京極尚彦 / バンダイナムコエンターテインメント",
-    "link": "https://bgm.tv/subject/618795"
   },
   {
     "id": "65942",
@@ -147,6 +152,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "618795",
+    "type": "link",
+    "title": "学园偶像大师 Story of Re;IRIS",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2c/618795_kS9Rt.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "11话 /  2026年1月1日 / 京極尚彦 / バンダイナムコエンターテインメント",
+    "link": "https://bgm.tv/subject/618795"
   },
   {
     "id": "284495",
@@ -176,22 +192,6 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "254492",
-    "type": "tmdb",
-    "title": "花样少年少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "12话 /  2026年1月4日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 苏诗宜",
-    "link": null,
-    "tmdb_id": "254492",
-    "tmdb_site_id": "tv/254492",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "300054",
     "type": "tmdb",
     "title": "刃牙道：无敌武士",
@@ -210,6 +210,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "254492",
+    "type": "tmdb",
+    "title": "花样少年少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "12话 /  2026年1月4日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 苏诗宜",
+    "link": null,
+    "tmdb_id": "254492",
+    "tmdb_site_id": "tv/254492",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "72517",
     "type": "tmdb",
     "title": "欢迎来到实力至上主义教室 第四季",
@@ -222,6 +238,22 @@
     "tmdb_id": "72517",
     "tmdb_site_id": "tv/72517/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "196950",
+    "type": "tmdb",
+    "title": "尖帽子的魔法工房",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "link": null,
+    "tmdb_id": "196950",
+    "tmdb_site_id": "tv/196950",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -242,17 +274,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196950",
+    "id": "274141",
     "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
+    "title": "优雅贵族的休假指南。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg",
+    "releaseDate": "2026-01-07",
     "mediaType": "tv",
-    "rating": "6.8",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "rating": "5.2",
+    "description": "12话 /  2026年1月7日 / 能田健太 / 岬（TOブックス刊） / 藤原彰人",
     "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
+    "tmdb_id": "274141",
+    "tmdb_site_id": "tv/274141",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -274,33 +306,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "274141",
+    "id": "305329",
     "type": "tmdb",
-    "title": "优雅贵族的休假指南。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/9b/517561_Rs7mZ.jpg",
-    "releaseDate": "2026-01-07",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "5.2",
-    "description": "12话 /  2026年1月7日 / 能田健太 / 岬（TOブックス刊） / 藤原彰人",
+    "rating": "5.1",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
     "link": null,
-    "tmdb_id": "274141",
-    "tmdb_site_id": "tv/274141",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "287973",
-    "type": "tmdb",
-    "title": "有栖川炼原来是女孩子啊。",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "4.0",
-    "description": "8话 /  2026年1月4日 / 佐々木純人 / 浅月のりと / 那須玲奈",
-    "link": null,
-    "tmdb_id": "287973",
-    "tmdb_site_id": "tv/287973",
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -322,41 +338,30 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
+    "id": "287973",
     "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
+    "title": "有栖川炼原来是女孩子啊。",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-01-04",
     "mediaType": "tv",
-    "rating": "5.1",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "rating": "4.0",
+    "description": "8话 /  2026年1月4日 / 佐々木純人 / 浅月のりと / 那須玲奈",
     "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
+    "tmdb_id": "287973",
+    "tmdb_site_id": "tv/287973",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "541814",
+    "id": "631928",
     "type": "link",
-    "title": "偶像大师 百万现场！～终有一天，立于中央～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
-    "releaseDate": "2026-03-27",
+    "title": "为了没有两对巨乳就无法勃起的丈夫带友人一起的妻子",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-04-30",
     "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
-    "link": "https://bgm.tv/subject/541814"
-  },
-  {
-    "id": "515869",
-    "type": "link",
-    "title": "剧场版 我心里危险的东西",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
-    "releaseDate": "2026-02-13",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
-    "link": "https://bgm.tv/subject/515869"
+    "rating": "6.3",
+    "description": "2话 /  2026年4月30日 / 『巨乳が2人いないと勃起しない夫のために友達を連れてきた妻』（立花オミナ）",
+    "link": "https://bgm.tv/subject/631928"
   }
 ]

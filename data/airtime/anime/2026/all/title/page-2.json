@@ -1,5 +1,16 @@
 [
   {
+    "id": "624869",
+    "type": "link",
+    "title": "低危营地生存秀 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/b8/624869_g7hAh.jpg",
+    "releaseDate": "2026-01-17",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "26话 /  2026年1月17日 / Jared Madrigal/Robert Castellanos",
+    "link": "https://bgm.tv/subject/624869"
+  },
+  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -11,15 +22,22 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "643073",
-    "type": "link",
+    "id": "304597",
+    "type": "tmdb",
     "title": "小钱大事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/6f/643073_PF0XX.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8TECBbrdkXpHorCS4p9Z5xw96Ag.jpg",
     "releaseDate": "2026-05-27",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月27日",
-    "link": "https://bgm.tv/subject/643073"
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "好友野猪惹上黑帮麻烦，零与伙伴们团结展开营救，同时还得勉力应对各自的生活。",
+    "link": null,
+    "tmdb_id": "304597",
+    "tmdb_site_id": "tv/304597",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "IT"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "540453",
@@ -82,6 +100,17 @@
     "link": "https://bgm.tv/subject/622288"
   },
   {
+    "id": "655808",
+    "type": "link",
+    "title": "游戏宇宙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/32/655808_Urlpp.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年5月15日",
+    "link": "https://bgm.tv/subject/655808"
+  },
+  {
     "id": "634029",
     "type": "link",
     "title": "Gamer Girls Music Video",
@@ -133,7 +162,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026",
+    "description": "1话 /  2026",
     "link": "https://bgm.tv/subject/636256"
   },
   {
@@ -245,27 +274,5 @@
     "rating": "",
     "description": "1话 /  2026年 / German Acuña",
     "link": "https://bgm.tv/subject/595932"
-  },
-  {
-    "id": "644636",
-    "type": "link",
-    "title": "紧身衣",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/3e/644636_2Kc4O.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026-10-14(法国) / Louis Clichy",
-    "link": "https://bgm.tv/subject/644636"
-  },
-  {
-    "id": "640219",
-    "type": "link",
-    "title": "LEGO® ONE PIECE",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/51/640219_20wA9.jpg",
-    "releaseDate": "2026-09-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年9月29日",
-    "link": "https://bgm.tv/subject/640219"
   }
 ]

@@ -22,17 +22,6 @@
     "link": "https://bgm.tv/subject/639798"
   },
   {
-    "id": "544680",
-    "type": "link",
-    "title": "忏悔",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/2b/544680_HryPK.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 中島哲也 / 中島哲也、門間宣裕 / 西島秀俊",
-    "link": "https://bgm.tv/subject/544680"
-  },
-  {
     "id": "633756",
     "type": "link",
     "title": "見えない娘 THE INVISIBLES",
@@ -55,6 +44,17 @@
     "link": "https://bgm.tv/subject/627226"
   },
   {
+    "id": "544680",
+    "type": "link",
+    "title": "忏悔",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/2b/544680_HryPK.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 中島哲也 / 中島哲也、門間宣裕 / 西島秀俊",
+    "link": "https://bgm.tv/subject/544680"
+  },
+  {
     "id": "639960",
     "type": "link",
     "title": "ANIME JAPAN FES 2026 “大阪夏の陣”",
@@ -64,6 +64,17 @@
     "rating": "",
     "description": "1话 /  2026-08-23 / 堀江美都子、森本英世、チャーリー・コーセイ、遠藤正明、山形ユキオ、速水けんたろう",
     "link": "https://bgm.tv/subject/639960"
+  },
+  {
+    "id": "641261",
+    "type": "link",
+    "title": "IDOLiSH7  VISIBLIVE TOUR \"4WARD JOURNEY\"",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/98/e4/641261_Nkza5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-08-21 / IDOLiSH7[七瀬陸(CV.小野賢章)/和泉一織(CV.増田俊樹)/二階堂大和(CV.白井悠介)/和泉三月(CV.代永翼)/四葉環(CV.KENN)/逢坂壮五(CV.阿部敦)/六弥ナギ(CV.江口拓也)]、TRIGGER[九条天(CV.斉藤壮馬)/八乙女楽(CV.羽多野渉)/十龍之介(CV.佐藤拓也)]、Re:vale[百(CV.保志総一朗)/千(CV.立花慎之介)]、ŹOOĻ[亥清悠(CV:広瀬裕也)/狗丸トウマ(CV:木村昴)/棗巳波(CV:西山宏太朗)/御堂虎於(CV:近藤隆)]",
+    "link": "https://bgm.tv/subject/641261"
   },
   {
     "id": "583191",
@@ -97,17 +108,6 @@
     "rating": "",
     "description": "2026-08-21 / 松崎史也 / 池永英介",
     "link": "https://bgm.tv/subject/635371"
-  },
-  {
-    "id": "641261",
-    "type": "link",
-    "title": "IDOLiSH7  VISIBLIVE TOUR \"4WARD JOURNEY\"",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/98/e4/641261_Nkza5.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-21 / IDOLiSH7[七瀬陸(CV.小野賢章)/和泉一織(CV.増田俊樹)/二階堂大和(CV.白井悠介)/和泉三月(CV.代永翼)/四葉環(CV.KENN)/逢坂壮五(CV.阿部敦)/六弥ナギ(CV.江口拓也)]、TRIGGER[九条天(CV.斉藤壮馬)/八乙女楽(CV.羽多野渉)/十龍之介(CV.佐藤拓也)]、Re:vale[百(CV.保志総一朗)/千(CV.立花慎之介)]、ŹOOĻ[亥清悠(CV:広瀬裕也)/狗丸トウマ(CV:木村昴)/棗巳波(CV:西山宏太朗)/御堂虎於(CV:近藤隆)]",
-    "link": "https://bgm.tv/subject/641261"
   },
   {
     "id": "632520",
@@ -165,17 +165,6 @@
     "link": "https://bgm.tv/subject/639958"
   },
   {
-    "id": "646666",
-    "type": "link",
-    "title": "少女革命計画 2nd LIVE 「Revolutio」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
-    "link": "https://bgm.tv/subject/646666"
-  },
-  {
     "id": "644235",
     "type": "link",
     "title": "Key 香港演唱会 2026 -遥远的约定-",
@@ -198,6 +187,28 @@
     "link": "https://bgm.tv/subject/645126"
   },
   {
+    "id": "646666",
+    "type": "link",
+    "title": "少女革命計画 2nd LIVE 「Revolutio」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
+    "link": "https://bgm.tv/subject/646666"
+  },
+  {
+    "id": "576744",
+    "type": "link",
+    "title": "あの星が降る丘で、君とまた出会いたい。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
+    "releaseDate": "2026-08-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月7日 / 福原遥",
+    "link": "https://bgm.tv/subject/576744"
+  },
+  {
     "id": "131041",
     "type": "tmdb",
     "title": "蓝色监狱",
@@ -212,17 +223,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "576744",
-    "type": "link",
-    "title": "あの星が降る丘で、君とまた出会いたい。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
-    "releaseDate": "2026-08-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月7日 / 福原遥",
-    "link": "https://bgm.tv/subject/576744"
   },
   {
     "id": "534091",

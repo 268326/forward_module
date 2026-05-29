@@ -28,9 +28,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
+  },
+  {
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
   },
   {
     "id": "653307",
@@ -110,6 +121,17 @@
     "link": "https://bgm.tv/subject/623228"
   },
   {
+    "id": "545008",
+    "type": "link",
+    "title": "恶女不才，请多关照 ~雏宫蝶鼠换身传~",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_bdN0Y.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": "https://bgm.tv/subject/545008"
+  },
+  {
     "id": "638185",
     "type": "link",
     "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
@@ -152,6 +174,17 @@
     "rating": "",
     "description": "2026年7月8日 / 宮崎吾朗、山下明彦",
     "link": "https://bgm.tv/subject/642935"
+  },
+  {
+    "id": "621835",
+    "type": "link",
+    "title": "盗墓王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/d3/621835_EqQm7.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月8日 / 우승욱(Woo Seung Wook) / 산지직송(SAN.G)・윤쓰(Yuns)(REDICE STUDIO) / 이현정(Lee Hyun Joung)",
+    "link": "https://bgm.tv/subject/621835"
   },
   {
     "id": "565701",
@@ -216,6 +249,17 @@
     "link": "https://bgm.tv/subject/607340"
   },
   {
+    "id": "590786",
+    "type": "link",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_66lw7.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "link": "https://bgm.tv/subject/590786"
+  },
+  {
     "id": "638497",
     "type": "link",
     "title": "相反的你和我 第二季",
@@ -223,51 +267,7 @@
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月5日 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊）",
+    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": "https://bgm.tv/subject/638497"
-  },
-  {
-    "id": "615835",
-    "type": "link",
-    "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_1zist.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
-    "link": "https://bgm.tv/subject/615835"
-  },
-  {
-    "id": "598058",
-    "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
-  },
-  {
-    "id": "595106",
-    "type": "link",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_kn3W3.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
-    "link": "https://bgm.tv/subject/595106"
-  },
-  {
-    "id": "583862",
-    "type": "link",
-    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日",
-    "link": "https://bgm.tv/subject/583862"
   }
 ]
