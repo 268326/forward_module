@@ -1,25 +1,5 @@
 [
   {
-    "id": "312293",
-    "type": "tmdb",
-    "title": "又被杀掉了呢，侦探大人",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/2e/f4/608227_44kWb.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "4.6",
-    "description": "[星期四]",
-    "link": null,
-    "bgm_id": "608227",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 370,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "312293",
-    "tmdb_site_id": "tv/312293",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "310921",
     "type": "tmdb",
     "title": "吞噬魔物的冒险者",

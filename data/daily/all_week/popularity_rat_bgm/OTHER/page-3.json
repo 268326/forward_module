@@ -1,21 +1,21 @@
 [
   {
-    "id": "295999",
+    "id": "91768",
     "type": "tmdb",
-    "title": "摩绪",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0c/af/570448_2265u.jpg",
+    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/e6/469104_SMf0k.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.1",
+    "rating": "6.9",
     "description": "[星期六]",
     "link": null,
-    "bgm_id": "570448",
-    "bgm_score": 6.1,
+    "bgm_id": "469104",
+    "bgm_score": 6.9,
     "bgm_rating_total": 219,
     "bgm_weekday_id": 6,
-    "tmdb_id": "295999",
-    "tmdb_site_id": "tv/295999",
-    "tmdb_season_number": null,
+    "tmdb_id": "91768",
+    "tmdb_site_id": "tv/91768/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -51,7 +51,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.8,
-    "bgm_rating_total": 172,
+    "bgm_rating_total": 174,
     "bgm_weekday_id": 4
   },
   {
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "517027",
     "bgm_score": 6.2,
-    "bgm_rating_total": 138,
+    "bgm_rating_total": 140,
     "bgm_weekday_id": 7,
     "tmdb_id": "216467",
     "tmdb_site_id": "tv/216467/season/2",
@@ -133,21 +133,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "616453",
-    "type": "link",
-    "title": "这样高大的女孩子你喜欢吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a4/3f/616453_q2e2i.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/616453",
-    "bgm_id": "616453",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 125,
-    "bgm_weekday_id": 7
   },
   {
     "id": "296870",
@@ -181,7 +166,7 @@
     "link": null,
     "bgm_id": "602059",
     "bgm_score": 7.8,
-    "bgm_rating_total": 111,
+    "bgm_rating_total": 112,
     "bgm_weekday_id": 7,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854/season/23",
@@ -281,7 +266,7 @@
     "link": null,
     "bgm_id": "585790",
     "bgm_score": 5.1,
-    "bgm_rating_total": 70,
+    "bgm_rating_total": 71,
     "bgm_weekday_id": 3,
     "tmdb_id": "207564",
     "tmdb_site_id": "tv/207564/season/3",
@@ -336,7 +321,7 @@
     "link": "http://bgm.tv/subject/577190",
     "bgm_id": "577190",
     "bgm_score": 6.5,
-    "bgm_rating_total": 48,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 6
   },
   {
@@ -432,6 +417,21 @@
     "bgm_id": "487522",
     "bgm_score": 7.0,
     "bgm_rating_total": 10,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "564361",
+    "type": "link",
+    "title": "怪奇物语：来自85年的故事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/71/bb/564361_50zdd.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/564361",
+    "bgm_id": "564361",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 4
   }
 ]

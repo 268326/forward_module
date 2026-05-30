@@ -31,28 +31,13 @@
     "link": null,
     "bgm_id": "517027",
     "bgm_score": 6.2,
-    "bgm_rating_total": 138,
+    "bgm_rating_total": 140,
     "bgm_weekday_id": 7,
     "tmdb_id": "216467",
     "tmdb_site_id": "tv/216467/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "616453",
-    "type": "link",
-    "title": "这样高大的女孩子你喜欢吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a4/3f/616453_q2e2i.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/616453",
-    "bgm_id": "616453",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 125,
-    "bgm_weekday_id": 7
   },
   {
     "id": "296870",
@@ -86,7 +71,7 @@
     "link": null,
     "bgm_id": "602059",
     "bgm_score": 7.8,
-    "bgm_rating_total": 111,
+    "bgm_rating_total": 112,
     "bgm_weekday_id": 7,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854/season/23",
@@ -146,7 +131,7 @@
     "link": "http://bgm.tv/subject/577190",
     "bgm_id": "577190",
     "bgm_score": 6.5,
-    "bgm_rating_total": 48,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 6
   },
   {
