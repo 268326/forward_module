@@ -51,7 +51,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.8,
-    "bgm_rating_total": 171,
+    "bgm_rating_total": 172,
     "bgm_weekday_id": 4
   },
   {
@@ -146,7 +146,7 @@
     "link": "http://bgm.tv/subject/616453",
     "bgm_id": "616453",
     "bgm_score": 5.3,
-    "bgm_rating_total": 124,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 7
   },
   {
@@ -181,7 +181,7 @@
     "link": null,
     "bgm_id": "602059",
     "bgm_score": 7.8,
-    "bgm_rating_total": 110,
+    "bgm_rating_total": 111,
     "bgm_weekday_id": 7,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854/season/23",
@@ -431,7 +431,7 @@
     "link": "http://bgm.tv/subject/487522",
     "bgm_id": "487522",
     "bgm_score": 7.0,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 4
   }
 ]
