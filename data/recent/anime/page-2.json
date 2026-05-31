@@ -162,6 +162,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "300126",
+    "type": "tmdb",
+    "title": "欺诈游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
+    "link": null,
+    "tmdb_id": "300126",
+    "tmdb_site_id": "tv/300126",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "297557",
     "type": "tmdb",
     "title": "黑猫与魔女的教室",
@@ -194,22 +210,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "300126",
-    "type": "tmdb",
-    "title": "欺诈游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
-    "link": null,
-    "tmdb_id": "300126",
-    "tmdb_site_id": "tv/300126",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "316427",
@@ -260,22 +260,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "273467",
-    "type": "tmdb",
-    "title": "女骑士成为蛮族新娘",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年4月9日 / 田中孝行 / コトバノリアキ（講談社「別冊少年マガジン」連載） / 藤田真弓、畠山元；主要角色设定：菊池政芳",
-    "link": null,
-    "tmdb_id": "273467",
-    "tmdb_site_id": "tv/273467",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "249907",
     "type": "tmdb",
     "title": "判处勇者刑 惩罚勇者9004队刑务纪录",
@@ -287,6 +271,22 @@
     "link": null,
     "tmdb_id": "249907",
     "tmdb_site_id": "tv/249907",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "273467",
+    "type": "tmdb",
+    "title": "女骑士成为蛮族新娘",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年4月9日 / 田中孝行 / コトバノリアキ（講談社「別冊少年マガジン」連載） / 藤田真弓、畠山元；主要角色设定：菊池政芳",
+    "link": null,
+    "tmdb_id": "273467",
+    "tmdb_site_id": "tv/273467",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -308,38 +308,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "288659",
-    "type": "tmdb",
-    "title": "春夏秋冬代行者 春之舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/36/551455_w1O6C.jpg",
-    "releaseDate": "2026-03-28",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "14话 /  2026年3月28日 / 山本健 / 暁佳奈（電撃文庫/KADOKAWA刊） / 鳥井なみこ",
-    "link": null,
-    "tmdb_id": "288659",
-    "tmdb_site_id": "tv/288659",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "303870",
-    "type": "tmdb",
-    "title": "雾尾粉丝后援会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_iFG6q.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "12话 /  2026年4月2日 / 外山草 / 地球のお魚ぽんちゃん（リュエルコミックス／実業之日本社 刊） / 林奈美",
-    "link": null,
-    "tmdb_id": "303870",
-    "tmdb_site_id": "tv/303870",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "237529",
     "type": "tmdb",
     "title": "金牌得主 第二季",
@@ -356,17 +324,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
-  },
-  {
     "id": "306721",
     "type": "tmdb",
     "title": "名侦探光之美少女！",
@@ -378,6 +335,44 @@
     "link": null,
     "tmdb_id": "306721",
     "tmdb_site_id": "tv/306721",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第三季 反击篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/d7/510728_P22GO.jpg",
+    "releaseDate": "2025-02-05",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "8话 /  2025年2月5日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
