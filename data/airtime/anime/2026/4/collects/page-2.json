@@ -251,6 +251,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "94404",
+    "type": "tmdb",
+    "title": "异兽魔都 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
+    "link": null,
+    "tmdb_id": "94404",
+    "tmdb_site_id": "tv/94404/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "285291",
     "type": "tmdb",
     "title": "转生之后的我变成了龙蛋",
@@ -343,22 +359,6 @@
     "link": null,
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "276110",
-    "type": "tmdb",
-    "title": "阿尔涅的事件簿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3f/22/523141_ifKkU.jpg",
-    "releaseDate": "2026-01-06",
-    "mediaType": "tv",
-    "rating": "4.5",
-    "description": "12话 /  2026年1月6日 / 井上圭介 / 春紫（ゲームマガジン） / 佐藤秋子、三好裕理",
-    "link": null,
-    "tmdb_id": "276110",
-    "tmdb_site_id": "tv/276110",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

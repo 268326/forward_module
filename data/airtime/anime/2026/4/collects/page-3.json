@@ -1,5 +1,37 @@
 [
   {
+    "id": "276110",
+    "type": "tmdb",
+    "title": "阿尔涅的事件簿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3f/22/523141_ifKkU.jpg",
+    "releaseDate": "2026-01-06",
+    "mediaType": "tv",
+    "rating": "4.5",
+    "description": "12话 /  2026年1月6日 / 井上圭介 / 春紫（ゲームマガジン） / 佐藤秋子、三好裕理",
+    "link": null,
+    "tmdb_id": "276110",
+    "tmdb_site_id": "tv/276110",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "90937",
+    "type": "tmdb",
+    "title": "动物狂想曲 最终季 第二部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
+    "releaseDate": "2026-03-07",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
+    "link": null,
+    "tmdb_id": "90937",
+    "tmdb_site_id": "tv/90937/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "300015",
     "type": "tmdb",
     "title": "草莓哀歌",
@@ -18,38 +50,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "90937",
-    "type": "tmdb",
-    "title": "动物狂想曲 最终季 第二部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
-    "releaseDate": "2026-03-07",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
-    "link": null,
-    "tmdb_id": "90937",
-    "tmdb_site_id": "tv/90937/season/3",
-    "tmdb_season_number": 3,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "306762",
-    "type": "tmdb",
-    "title": "棱镜恋曲",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
-    "releaseDate": "2026-01-15",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
-    "link": null,
-    "tmdb_id": "306762",
-    "tmdb_site_id": "tv/306762",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "298026",
     "type": "tmdb",
     "title": "放开那个女巫",
@@ -66,6 +66,22 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "306762",
+    "type": "tmdb",
+    "title": "棱镜恋曲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
+    "releaseDate": "2026-01-15",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
+    "link": null,
+    "tmdb_id": "306762",
+    "tmdb_site_id": "tv/306762",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "423036",
@@ -111,22 +127,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94404",
-    "type": "tmdb",
-    "title": "异兽魔都 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
-    "link": null,
-    "tmdb_id": "94404",
-    "tmdb_site_id": "tv/94404/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "484701",
     "type": "link",
     "title": "超级马力欧银河大电影",
@@ -165,6 +165,22 @@
     "link": "https://bgm.tv/subject/618795"
   },
   {
+    "id": "259819",
+    "type": "tmdb",
+    "title": "公鸡斗士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
+    "link": null,
+    "tmdb_id": "259819",
+    "tmdb_site_id": "tv/259819",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "284495",
     "type": "tmdb",
     "title": "异世界的安泰全看社畜",
@@ -198,7 +214,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
     "releaseDate": "2026-02-26",
     "mediaType": "tv",
-    "rating": "8.9",
+    "rating": "8.8",
     "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
     "link": null,
     "tmdb_id": "300054",
@@ -208,22 +224,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "254492",
-    "type": "tmdb",
-    "title": "花样少年少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "12话 /  2026年1月4日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 苏诗宜",
-    "link": null,
-    "tmdb_id": "254492",
-    "tmdb_site_id": "tv/254492",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "72517",
@@ -238,6 +238,22 @@
     "tmdb_id": "72517",
     "tmdb_site_id": "tv/72517/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "254492",
+    "type": "tmdb",
+    "title": "花样少年少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "12话 /  2026年1月4日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 苏诗宜",
+    "link": null,
+    "tmdb_id": "254492",
+    "tmdb_site_id": "tv/254492",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -290,22 +306,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "287591",
-    "type": "tmdb",
-    "title": "皎洁迎宵之月",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/2b/557531_3cHCD.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "5.4",
-    "description": "12话 /  2026年1月11日 / 丸山裕介 / やまもり三香（講談社「デザート」連載） / 福田裕樹",
-    "link": null,
-    "tmdb_id": "287591",
-    "tmdb_site_id": "tv/287591",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "305329",
     "type": "tmdb",
     "title": "主播女孩重度依赖",
@@ -322,6 +322,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "287591",
+    "type": "tmdb",
+    "title": "皎洁迎宵之月",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/2b/557531_3cHCD.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "5.4",
+    "description": "12话 /  2026年1月11日 / 丸山裕介 / やまもり三香（講談社「デザート」連載） / 福田裕樹",
+    "link": null,
+    "tmdb_id": "287591",
+    "tmdb_site_id": "tv/287591",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "295483",
     "type": "tmdb",
     "title": "被邻国王子溺爱的反派女主",
@@ -333,22 +349,6 @@
     "link": null,
     "tmdb_id": "295483",
     "tmdb_site_id": "tv/295483",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "287973",
-    "type": "tmdb",
-    "title": "有栖川炼原来是女孩子啊。",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "4.0",
-    "description": "8话 /  2026年1月4日 / 佐々木純人 / 浅月のりと / 那須玲奈",
-    "link": null,
-    "tmdb_id": "287973",
-    "tmdb_site_id": "tv/287973",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

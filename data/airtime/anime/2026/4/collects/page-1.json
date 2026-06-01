@@ -190,7 +190,7 @@
     "id": "263330",
     "type": "tmdb",
     "title": "靠死亡游戏混饭吃。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0d/a2/510753_14ua5.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0d/a2/510753_8uCFx.jpg",
     "releaseDate": "2026-01-07",
     "mediaType": "tv",
     "rating": "5.3",
@@ -310,17 +310,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "627556",
-    "type": "link",
-    "title": "呼唤少女特别篇 想做的事到底是什么",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/3f/627556_tk605.jpg",
-    "releaseDate": "2026-02-14",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "1话 /  2026年2月14日 / 邓小冰 / 刘伟源、邓小冰 / 丘卓星",
-    "link": "https://bgm.tv/subject/627556"
-  },
-  {
     "id": "285166",
     "type": "tmdb",
     "title": "泛而不精的我被逐出了勇者队伍",
@@ -335,6 +324,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "627556",
+    "type": "link",
+    "title": "呼唤少女特别篇 想做的事到底是什么",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/3f/627556_tk605.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "1话 /  2026年2月14日 / 邓小冰 / 刘伟源、邓小冰 / 丘卓星",
+    "link": "https://bgm.tv/subject/627556"
   },
   {
     "id": "293144",

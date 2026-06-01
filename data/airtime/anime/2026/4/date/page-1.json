@@ -33,6 +33,17 @@
     "link": "https://bgm.tv/subject/621555"
   },
   {
+    "id": "617452",
+    "type": "link",
+    "title": "魔法公主明琪桃子 向着憧憬之梦 真心的二重奏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/35/c7/617452_2MX6x.jpg",
+    "releaseDate": "2026-11-13",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年11月13日 / 渡辺歩 / 葦プロダクション / わたなべひろし、とみながまり",
+    "link": "https://bgm.tv/subject/617452"
+  },
+  {
     "id": "477456",
     "type": "link",
     "title": "乐园追放 心之共鸣",
@@ -72,7 +83,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/80/415482_5885x.jpg",
     "releaseDate": "2026-10-23",
     "mediaType": "anime",
-    "rating": "8.8",
+    "rating": "8.9",
     "description": "1话 /  2026年10月23日 / 小島正幸 / つくしあきひと（竹書房「竹コミ！」） / 黒田結花、黄瀬和哉 (Production I.G)",
     "link": "https://bgm.tv/subject/415482"
   },
@@ -251,16 +262,5 @@
     "rating": "",
     "description": "1话 /  2026年8月28日",
     "link": "https://bgm.tv/subject/655061"
-  },
-  {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
   }
 ]

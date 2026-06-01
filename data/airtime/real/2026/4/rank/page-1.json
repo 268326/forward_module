@@ -17,7 +17,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/7e/547412_p26gX.jpg",
     "releaseDate": "2026-01-24",
     "mediaType": "real",
-    "rating": "8.8",
+    "rating": "8.7",
     "description": "2话 /  2026年1月24日",
     "link": "https://bgm.tv/subject/547412"
   },
@@ -79,7 +79,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
     "link": null,
     "tmdb_id": "300529",
@@ -138,6 +138,35 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "220102",
+    "type": "tmdb",
+    "title": "暗影蜘蛛侠",
+    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
+    "releaseDate": "2026-05-27",
+    "mediaType": "tv",
+    "rating": "8.9",
+    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
+    "link": null,
+    "tmdb_id": "220102",
+    "tmdb_site_id": "tv/220102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "478191",
+    "type": "link",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "6.2",
+    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
+    "link": "https://bgm.tv/subject/478191"
+  },
+  {
     "id": "623261",
     "type": "link",
     "title": "头号战队豪兽者 Polar Beginning",
@@ -147,6 +176,17 @@
     "rating": "6.3",
     "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
     "link": "https://bgm.tv/subject/623261"
+  },
+  {
+    "id": "507727",
+    "type": "link",
+    "title": "星球大战：曼达洛人与古古",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
+    "link": "https://bgm.tv/subject/507727"
   },
   {
     "id": "480966",

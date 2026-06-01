@@ -1,5 +1,16 @@
 [
   {
+    "id": "334105",
+    "type": "link",
+    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "8.1",
+    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "link": "https://bgm.tv/subject/334105"
+  },
+  {
     "id": "633318",
     "type": "link",
     "title": "不知火",
@@ -28,7 +39,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "7.4",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
   },
@@ -36,7 +47,7 @@
     "id": "643828",
     "type": "link",
     "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_v67rA.jpg",
     "releaseDate": "2026-08-08",
     "mediaType": "anime",
     "rating": "",
@@ -80,7 +91,7 @@
     "id": "615446",
     "type": "link",
     "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_8Z9kI.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_re2YN.jpg",
     "releaseDate": "2026-07-31",
     "mediaType": "anime",
     "rating": "",
@@ -123,7 +134,7 @@
   {
     "id": "545008",
     "type": "link",
-    "title": "恶女不才，请多关照 ~雏宫蝶鼠换身传~",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_bdN0Y.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
@@ -141,6 +152,17 @@
     "rating": "",
     "description": "2026年7月10日 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊）",
     "link": "https://bgm.tv/subject/638185"
+  },
+  {
+    "id": "571895",
+    "type": "link",
+    "title": "从0位居民开始的边境领主大人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_wHyCJ.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
+    "link": "https://bgm.tv/subject/571895"
   },
   {
     "id": "484677",
@@ -247,27 +269,5 @@
     "rating": "",
     "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし / 澤田慶宏、石井優月",
     "link": "https://bgm.tv/subject/607340"
-  },
-  {
-    "id": "590786",
-    "type": "link",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_66lw7.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": "https://bgm.tv/subject/590786"
-  },
-  {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_31ByB.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
   }
 ]

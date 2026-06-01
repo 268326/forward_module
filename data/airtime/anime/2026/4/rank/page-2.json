@@ -1,30 +1,32 @@
 [
   {
+    "id": "312822",
+    "type": "tmdb",
+    "title": "扮演姐姐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/co2Klo3rcKtkALR15IP0CwOhyjM.jpg",
+    "releaseDate": "2026-01-31",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "遥远的未来。在被都市高度发达的科技所遗忘的郊外山村“镜见村”。\n\n在这个流传着“如果不乖乖听话，‘那个长得一模一样的人’就会找上门来”这一古老传说的村子里，住着一名初中生——日暮红（Akane）。她正满心期待着与时隔一年终于出院的姐姐日暮翠（Sui）重逢。\n\n然而，就在姐姐出院没过多久，红接到了一通电话。\n\n“在那个家里的，不是你姐姐。”",
+    "link": null,
+    "tmdb_id": "312822",
+    "tmdb_site_id": "tv/312822",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "505401",
     "type": "link",
     "title": "无敌少侠 第四季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
     "releaseDate": "2026-03-18",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.1",
     "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
     "link": "https://bgm.tv/subject/505401"
-  },
-  {
-    "id": "274622",
-    "type": "tmdb",
-    "title": "加油吧！中村君！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
-    "link": null,
-    "tmdb_id": "274622",
-    "tmdb_site_id": "tv/274622",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "616383",
@@ -36,6 +38,17 @@
     "rating": "7.1",
     "description": "1话 /  2026年2月21日 / 浅野直之",
     "link": "https://bgm.tv/subject/616383"
+  },
+  {
+    "id": "544628",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第4幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/26/544628_QKSKi.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "3话 /  2026年4月10日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544628"
   },
   {
     "id": "288551",
@@ -52,28 +65,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "544628",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第4幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/26/544628_QKSKi.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "3话 /  2026年4月10日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544628"
-  },
-  {
-    "id": "563256",
-    "type": "link",
-    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_fFa68.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年5月8日",
-    "link": "https://bgm.tv/subject/563256"
   },
   {
     "id": "60761",
@@ -119,6 +110,17 @@
     "link": "https://bgm.tv/subject/217071"
   },
   {
+    "id": "563256",
+    "type": "link",
+    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年5月8日",
+    "link": "https://bgm.tv/subject/563256"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -146,22 +148,6 @@
     "link": "https://bgm.tv/subject/541814"
   },
   {
-    "id": "91768",
-    "type": "tmdb",
-    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
-    "link": null,
-    "tmdb_id": "91768",
-    "tmdb_site_id": "tv/91768/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -178,13 +164,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "91768",
+    "type": "tmdb",
+    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
+    "link": null,
+    "tmdb_id": "91768",
+    "tmdb_site_id": "tv/91768/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "312474",
     "type": "tmdb",
     "title": "日本三国",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
     "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
     "link": null,
     "tmdb_id": "312474",
@@ -216,6 +218,22 @@
     "link": "https://bgm.tv/subject/515869"
   },
   {
+    "id": "283428",
+    "type": "tmdb",
+    "title": "冰之城墙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428",
+    "tmdb_site_id": "tv/283428",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "630676",
     "type": "link",
     "title": "仙逆 年番3",
@@ -227,20 +245,15 @@
     "link": "https://bgm.tv/subject/630676"
   },
   {
-    "id": "283428",
-    "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "651692",
+    "type": "link",
+    "title": "少年与高达",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_F0K0I.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
+    "link": "https://bgm.tv/subject/651692"
   },
   {
     "id": "544626",
@@ -249,20 +262,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg",
     "releaseDate": "2026-01-30",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.8",
     "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
     "link": "https://bgm.tv/subject/544626"
-  },
-  {
-    "id": "651692",
-    "type": "link",
-    "title": "少年与高达",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_F0K0I.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
-    "link": "https://bgm.tv/subject/651692"
   },
   {
     "id": "549975",
@@ -278,20 +280,18 @@
   {
     "id": "295357",
     "type": "tmdb",
-    "title": "北斗神拳",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
+    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/ae/454438_Q43mf.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "8.5",
-    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
+    "rating": "6.7",
+    "description": "2026年4月10日 / 前田洋志 / 武論尊・原哲夫 / 久恒直樹",
     "link": null,
     "tmdb_id": "295357",
     "tmdb_site_id": "tv/295357",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278271",

@@ -1,14 +1,21 @@
 [
   {
-    "id": "578285",
-    "type": "link",
-    "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/578285_83Pdo.jpg",
+    "id": "278882",
+    "type": "tmdb",
+    "title": "年少有为",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-03-01",
-    "link": "https://bgm.tv/subject/578285"
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
+    "link": null,
+    "tmdb_id": "278882",
+    "tmdb_site_id": "tv/278882",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "304928",
@@ -22,24 +29,6 @@
     "link": null,
     "tmdb_id": "304928",
     "tmdb_site_id": "tv/304928",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "307652",
-    "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
-    "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -65,22 +54,62 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "278882",
+    "id": "307682",
     "type": "tmdb",
-    "title": "年少有为",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+    "title": "冬日的什么呀，春日的什么呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.8",
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
+    "rating": "8.0",
+    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
     "link": null,
-    "tmdb_id": "278882",
-    "tmdb_site_id": "tv/278882",
+    "tmdb_id": "307682",
+    "tmdb_site_id": "tv/307682",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "578285",
+    "type": "link",
+    "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/e5/578285_83Pdo.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-03-01",
+    "link": "https://bgm.tv/subject/578285"
+  },
+  {
+    "id": "307652",
+    "type": "tmdb",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "link": null,
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "590729",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月14日",
+    "link": "https://bgm.tv/subject/590729"
   },
   {
     "id": "312725",
@@ -99,57 +128,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "552953",
-    "type": "link",
-    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
-    "releaseDate": "2026-02-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026年2月21日",
-    "link": "https://bgm.tv/subject/552953"
-  },
-  {
-    "id": "590729",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
-    "releaseDate": "2026-02-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月14日",
-    "link": "https://bgm.tv/subject/590729"
-  },
-  {
-    "id": "461696",
-    "type": "link",
-    "title": "好兆头 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
-    "releaseDate": "2026-05-13",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
-    "link": "https://bgm.tv/subject/461696"
   },
   {
     "id": "306528",
@@ -188,6 +166,46 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
+  },
+  {
+    "id": "552953",
+    "type": "link",
+    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
+    "releaseDate": "2026-02-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年2月21日",
+    "link": "https://bgm.tv/subject/552953"
+  },
+  {
+    "id": "313902",
+    "type": "tmdb",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "link": null,
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "607931",
     "type": "link",
     "title": "学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション)",
@@ -197,6 +215,46 @@
     "rating": "",
     "description": "2话 /  2026年5月16日",
     "link": "https://bgm.tv/subject/607931"
+  },
+  {
+    "id": "320988",
+    "type": "tmdb",
+    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
+    "link": null,
+    "tmdb_id": "320988",
+    "tmdb_site_id": "tv/320988",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "623665",
+    "type": "link",
+    "title": "AGITO 超能力战争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
+    "link": "https://bgm.tv/subject/623665"
+  },
+  {
+    "id": "590022",
+    "type": "link",
+    "title": "暗黑新娘！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
+    "link": "https://bgm.tv/subject/590022"
   },
   {
     "id": "306129",
@@ -235,53 +293,13 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "623665",
-    "type": "link",
-    "title": "AGITO 超能力战争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
-    "releaseDate": "2026-04-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
-    "link": "https://bgm.tv/subject/623665"
-  },
-  {
-    "id": "590022",
-    "type": "link",
-    "title": "暗黑新娘！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
-    "link": "https://bgm.tv/subject/590022"
-  },
-  {
-    "id": "320988",
-    "type": "tmdb",
-    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
-    "link": null,
-    "tmdb_id": "320988",
-    "tmdb_site_id": "tv/320988",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "259837",
     "type": "tmdb",
     "title": "超能路人甲",
     "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
     "releaseDate": "2026-05-15",
     "mediaType": "tv",
-    "rating": "9.3",
+    "rating": "9.2",
     "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
     "link": null,
     "tmdb_id": "259837",
@@ -293,34 +311,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "224377",
-    "type": "tmdb",
-    "title": "哈利波特与魔法石",
-    "posterPath": "https://image.tmdb.org/t/p/w500/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
-    "releaseDate": "2026-12-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "孤儿哈利·波特在11岁生日那天，收到一封来自霍格沃茨魔法学校的入学通知书，才得知自己是著名的“那个活下来的男孩”——曾幸存于黑魔头伏地魔的致命袭击。踏入霍格沃茨后，他结识了忠诚温暖的罗恩·韦斯莱和聪慧机警的赫敏·格兰杰，三人成为坚不可摧的朋友，也共同面对前所未有的挑战。\n\n随着故事推进，哈利渐渐感受到自己在魔法界的特殊地位——不仅是偶然，更是一种责任。霍格沃茨的师资阵容星光熠熠：校长邓布利多、神秘严厉的斯内普教授、坚毅的麦格教授、忠诚的卡鲁斯·海格，以及神秘幽默的魁若教授、阴险的监护人菲尔奇等人各具魅力，共同构筑了一个生动又复杂的魔法世界。",
-    "link": null,
-    "tmdb_id": "224377",
-    "tmdb_site_id": "tv/224377",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "593614",
+    "id": "559232",
     "type": "link",
-    "title": "惊变28年：白骨圣殿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/77/593614_90Q7n.jpg",
-    "releaseDate": "2026-01-16",
+    "title": "LoveLive!虹咲学园校园偶像同好会 FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/d4/559232_B5MOB.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年1月16日 / Nia DaCosta / Alex Garland / Alfie Williams、Ralph Fiennes",
-    "link": "https://bgm.tv/subject/593614"
+    "description": "2话 /  2026-01-17 / Day1：タンポポ（相良茉優（中須かすみ 役）、指出毬亜（エマ・ヴェルデ 役））、ヒナギク（田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役））、スズラン（大西亜玖璃（上原歩夢 役）、久保田未夢（朝香果林 役））／Day2：アサガオ（前田佳織里（桜坂しずく 役）、鬼頭明里（近江彼方 役））、サボテン（林鼓子（優木せつ菜 役）、内田秀（ミア・テイラー 役））、ハイビスカス（村上奈津実（宮下愛 役）、法元明菜（鐘嵐珠 役））",
+    "link": "https://bgm.tv/subject/559232"
   },
   {
     "id": "307182",
@@ -329,7 +328,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/zmta09ZIB0MWE4QW6bDpNDGAlTF.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.2",
+    "rating": "8.5",
     "description": "　　感情不外露的横井凑（吉泽要人 饰），与一切情绪都写在脸上的中乃航（雨宫翔 饰），看似性格相反，却因共同的摄影兴趣而成为挚友，并在大学时期同居。随着凑就业，两人不得不结束同居生活，航这才意识到自己对挚友的感情早已超越友情。数年后，两人以社会人身份重逢——一个“想要继续做朋友”的凑，一个“无论如何都想成为恋人”的航，从彼此的单恋开始，一段暖心又酸涩的双向暗恋喜剧就此展开。\n\n　　本剧改编自ろじ的同名原著漫画。",
     "link": null,
     "tmdb_id": "307182",
@@ -339,6 +338,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "639143",
+    "type": "link",
+    "title": "木乃伊",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/8f/639143_kqCLp.jpg",
+    "releaseDate": "2026-04-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月17日 / Lee Cronin / Lee Cronin / Jack Reynor、Laia Costa",
+    "link": "https://bgm.tv/subject/639143"
   },
   {
     "id": "307249",
@@ -352,24 +362,6 @@
     "link": null,
     "tmdb_id": "307249",
     "tmdb_site_id": "tv/307249",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "305818",
-    "type": "tmdb",
-    "title": "比熊猫更不擅长恋爱的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/n5YmytiOURRDWuUtXqS693AjKoM.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "梦想成为时尚杂志编辑的柴田一叶（上白石萌歌 饰）在入社当天得知杂志休刊，只能在生活信息杂志中无力度日，事业与恋爱都找不到方向。某天，她被迫替高冷模特代写恋爱咨询专栏，为寻找灵感，她拜访研究“动物求爱行为”的准教授椎堂司（生田斗真 饰）。椎堂对人类情感毫无兴趣，却以动物世界的求偶方式解读爱情。一叶在与他的对话中重新理解喜欢、勇气与坚持，而两个同样笨拙的人，也在彼此身上慢慢找到靠近的理由。",
-    "link": null,
-    "tmdb_id": "305818",
-    "tmdb_site_id": "tv/305818",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

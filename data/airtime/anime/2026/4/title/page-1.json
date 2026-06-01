@@ -93,15 +93,20 @@
     "link": "https://bgm.tv/subject/653289"
   },
   {
-    "id": "543589",
-    "type": "link",
+    "id": "1432547",
+    "type": "tmdb",
     "title": "杀戮轮回",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/c8/543589_aT033.jpg",
     "releaseDate": "2026-01-09",
-    "mediaType": "anime",
+    "mediaType": "movie",
     "rating": "4.8",
     "description": "1话 /  2026年1月9日 / 桜坂洋『All You Need Is Kill』（集英社刊）",
-    "link": "https://bgm.tv/subject/543589"
+    "link": null,
+    "tmdb_id": "1432547",
+    "tmdb_site_id": "movie/1432547",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "638186",
@@ -161,7 +166,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
     "releaseDate": "2026-03-07",
     "mediaType": "tv",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
     "link": null,
     "tmdb_id": "90937",
@@ -195,7 +200,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_qxqoG.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "9.0",
+    "rating": "8.9",
     "description": "2026年7月 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": "https://bgm.tv/subject/530725"
   },
@@ -295,7 +300,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_4aQov.jpg",
     "releaseDate": "2026-05-12",
     "mediaType": "anime",
-    "rating": "3.7",
+    "rating": "3.4",
     "description": "8话 /  2026年5月12日 / Adi Shankar",
     "link": "https://bgm.tv/subject/551576"
   }

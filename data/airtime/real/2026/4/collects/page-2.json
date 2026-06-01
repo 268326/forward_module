@@ -1,19 +1,19 @@
 [
   {
-    "id": "303405",
+    "id": "220102",
     "type": "tmdb",
-    "title": "九条的大罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "暗影蜘蛛侠",
+    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
+    "releaseDate": "2026-05-27",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
+    "rating": "8.9",
+    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
     "link": null,
-    "tmdb_id": "303405",
-    "tmdb_site_id": "tv/303405",
+    "tmdb_id": "220102",
+    "tmdb_site_id": "tv/220102",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -29,6 +29,24 @@
     "link": null,
     "tmdb_id": "306207",
     "tmdb_site_id": "tv/306207",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "304194",
+    "type": "tmdb",
+    "title": "重启",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
+    "link": null,
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -96,9 +114,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
     "releaseDate": "2026-04-25",
     "mediaType": "real",
-    "rating": "6.5",
+    "rating": "6.4",
     "description": "2话 /  2026年4月25日",
     "link": "https://bgm.tv/subject/601438"
+  },
+  {
+    "id": "282418",
+    "type": "link",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.2",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
   },
   {
     "id": "289356",
@@ -130,33 +159,15 @@
     "link": "https://bgm.tv/subject/633271"
   },
   {
-    "id": "307650",
-    "type": "tmdb",
-    "title": "侦探先生，你的背包开着呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hnAhD9fcmkt2HXC341yPFfPirGP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "乡下温泉街“西谷温泉”里，侦探兼发明家一之濑洋辅（松田龙平 饰）住在自家废弃的老旅馆，并将这里改造成充满离奇发明品的侦探事务所。曾在美国成功开发“将负面情绪转化为能量”的技术，使小镇出现许多不可思议的装置。每天都有性格独特的居民带来奇怪却温暖的委托，洋辅便以异想天开的机制与奇招处理难题。一桩桩古怪事件在笑声中解决，也让人与人之间的羁绊在这座温泉街悄然升温。",
-    "link": null,
-    "tmdb_id": "307650",
-    "tmdb_site_id": "tv/307650",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "282418",
+    "id": "544948",
     "type": "link",
-    "title": "惩罚者：最后一击",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "7.1",
-    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
-    "link": "https://bgm.tv/subject/282418"
+    "rating": "",
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
   },
   {
     "id": "614123",
@@ -181,50 +192,17 @@
     "link": "https://bgm.tv/subject/625916"
   },
   {
-    "id": "544948",
-    "type": "link",
-    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
-    "link": "https://bgm.tv/subject/544948"
-  },
-  {
-    "id": "511454",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
-    "releaseDate": "2026-03-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月14日",
-    "link": "https://bgm.tv/subject/511454"
-  },
-  {
-    "id": "621874",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
-  },
-  {
-    "id": "313635",
+    "id": "307650",
     "type": "tmdb",
-    "title": "如龙 Powered by 日本统一",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
-    "releaseDate": "2026-02-10",
+    "title": "侦探先生，你的背包开着呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hnAhD9fcmkt2HXC341yPFfPirGP.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "rating": "7.5",
+    "description": "乡下温泉街“西谷温泉”里，侦探兼发明家一之濑洋辅（松田龙平 饰）住在自家废弃的老旅馆，并将这里改造成充满离奇发明品的侦探事务所。曾在美国成功开发“将负面情绪转化为能量”的技术，使小镇出现许多不可思议的装置。每天都有性格独特的居民带来奇怪却温暖的委托，洋辅便以异想天开的机制与奇招处理难题。一桩桩古怪事件在笑声中解决，也让人与人之间的羁绊在这座温泉街悄然升温。",
     "link": null,
-    "tmdb_id": "313635",
-    "tmdb_site_id": "tv/313635",
+    "tmdb_id": "307650",
+    "tmdb_site_id": "tv/307650",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -241,6 +219,17 @@
     "rating": "4.4",
     "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
     "link": "https://bgm.tv/subject/588065"
+  },
+  {
+    "id": "634222",
+    "type": "link",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
   },
   {
     "id": "280632",
@@ -261,37 +250,44 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "513985",
+    "id": "621874",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
   },
   {
-    "id": "634222",
+    "id": "511454",
     "type": "link",
-    "title": "真相捕捉 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
+    "releaseDate": "2026-03-14",
     "mediaType": "real",
     "rating": "",
-    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
-    "link": "https://bgm.tv/subject/634222"
+    "description": "1话 /  2026年3月14日",
+    "link": "https://bgm.tv/subject/511454"
   },
   {
-    "id": "489598",
-    "type": "link",
-    "title": "帝王计划：怪兽遗产 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
-    "link": "https://bgm.tv/subject/489598"
+    "id": "313635",
+    "type": "tmdb",
+    "title": "如龙 Powered by 日本统一",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
+    "releaseDate": "2026-02-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "link": null,
+    "tmdb_id": "313635",
+    "tmdb_site_id": "tv/313635",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "587208",
@@ -316,21 +312,25 @@
     "link": "https://bgm.tv/subject/609282"
   },
   {
-    "id": "307652",
-    "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "id": "489598",
+    "type": "link",
+    "title": "帝王计划：怪兽遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
-    "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
+    "link": "https://bgm.tv/subject/489598"
+  },
+  {
+    "id": "513985",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
   }
 ]
