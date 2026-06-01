@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "570448",
     "bgm_score": 6.1,
-    "bgm_rating_total": 221,
+    "bgm_rating_total": 222,
     "bgm_weekday_id": 6,
     "tmdb_id": "295999",
     "tmdb_site_id": "tv/295999",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "599171",
     "bgm_score": 5.0,
-    "bgm_rating_total": 187,
+    "bgm_rating_total": 188,
     "bgm_weekday_id": 6,
     "tmdb_id": "303460",
     "tmdb_site_id": "tv/303460",
@@ -91,7 +91,7 @@
     "link": "http://bgm.tv/subject/575559",
     "bgm_id": "575559",
     "bgm_score": 5.7,
-    "bgm_rating_total": 177,
+    "bgm_rating_total": 180,
     "bgm_weekday_id": 4
   },
   {
@@ -208,7 +208,7 @@
     "link": null,
     "bgm_id": "570584",
     "bgm_score": 5.5,
-    "bgm_rating_total": 123,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 6,
     "tmdb_id": "296870",
     "tmdb_site_id": "tv/296870",
@@ -248,7 +248,7 @@
     "link": null,
     "bgm_id": "567234",
     "bgm_score": 5.8,
-    "bgm_rating_total": 108,
+    "bgm_rating_total": 109,
     "bgm_weekday_id": 2,
     "tmdb_id": "213326",
     "tmdb_site_id": "tv/213326/season/2",
@@ -259,12 +259,12 @@
   {
     "id": "295357",
     "type": "tmdb",
-    "title": "北斗神拳",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bLHIVsA7o5mTqIpMzC4MYU7AQ73.jpg",
+    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/50/ae/454438_Q43mf.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
-    "rating": "8.5",
-    "description": "199X年，世界被核火吞噬！然而，人类依然设法存活了下来！出现了一名胸前刻有七道伤痕的独行男人，他的名字是健次郎，北斗神拳的继承者。在这个弱肉强食的世界里，健次郎用他的铁拳开拓出一条道路！",
+    "rating": "6.7",
+    "description": "[星期五]",
     "link": null,
     "bgm_id": "454438",
     "bgm_score": 6.7,
@@ -273,10 +273,8 @@
     "tmdb_id": "295357",
     "tmdb_site_id": "tv/295357",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "306121",
@@ -322,11 +320,11 @@
     "id": "317727",
     "type": "tmdb",
     "title": "七米神物语",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nRRmaCqvKABY2jD6AHzCKPfyuvt.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7c/53/282118_iM5mP.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "日本有“一粒米里住着七个神”的传说。米神（米女王）的孩子——越野家7姐妹。失踪的母亲和去寻找她的父亲。姐妹们努力找回破碎的家庭，通过各种各样的相遇和料理。学习食物的重要性并成长。",
+    "rating": "3.7",
+    "description": "[星期四]",
     "link": null,
     "bgm_id": "282118",
     "bgm_score": 3.7,
@@ -335,10 +333,8 @@
     "tmdb_id": "317727",
     "tmdb_site_id": "tv/317727",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "310921",
@@ -463,7 +459,7 @@
     "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
     "link": null,
     "bgm_id": "621449",
-    "bgm_score": 6.3,
+    "bgm_score": 6.4,
     "bgm_rating_total": 43,
     "bgm_weekday_id": 3,
     "tmdb_id": "312383",

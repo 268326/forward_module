@@ -128,22 +128,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "260463",
-    "type": "tmdb",
-    "title": "黄泉使者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
-    "link": null,
-    "tmdb_id": "260463",
-    "tmdb_site_id": "tv/260463",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -155,6 +139,22 @@
     "link": null,
     "tmdb_id": "288551",
     "tmdb_site_id": "tv/288551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "260463",
+    "type": "tmdb",
+    "title": "黄泉使者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
+    "link": null,
+    "tmdb_id": "260463",
+    "tmdb_site_id": "tv/260463",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -304,17 +304,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
-  },
-  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -329,6 +318,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
+    "link": "https://bgm.tv/subject/575559"
   },
   {
     "id": "508004",

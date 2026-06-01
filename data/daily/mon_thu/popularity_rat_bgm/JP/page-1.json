@@ -22,28 +22,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "317727",
-    "type": "tmdb",
-    "title": "七米神物语",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nRRmaCqvKABY2jD6AHzCKPfyuvt.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "日本有“一粒米里住着七个神”的传说。米神（米女王）的孩子——越野家7姐妹。失踪的母亲和去寻找她的父亲。姐妹们努力找回破碎的家庭，通过各种各样的相遇和料理。学习食物的重要性并成长。",
-    "link": null,
-    "bgm_id": "282118",
-    "bgm_score": 3.7,
-    "bgm_rating_total": 87,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "317727",
-    "tmdb_site_id": "tv/317727",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "318478",
     "type": "tmdb",
     "title": "百鬼夜行抄",
@@ -76,7 +54,7 @@
     "description": "超爱吃甜食的小朋友——糖糖，她的嘴里住着一个叫『凯莉丝』的蛀牙！\n\n凯莉丝称呼糖糖为「妈妈」，不仅会把牙齿当家具，还会控制糖糖的身体，而糖糖总是拿她没辙，被耍得团团转。\n\n「我才不是你的妈妈！」\n\n「就是妈妈呀♡ 你准备了房间给我住，还总是吃甜食把我养大嘛」\n\n糖糖与凯莉丝，这对有点怪异的母女组合!? 将带来一连串的慌乱日常喜剧！",
     "link": null,
     "bgm_id": "621449",
-    "bgm_score": 6.3,
+    "bgm_score": 6.4,
     "bgm_rating_total": 43,
     "bgm_weekday_id": 3,
     "tmdb_id": "312383",
