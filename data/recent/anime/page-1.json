@@ -240,22 +240,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "291403",
-    "type": "tmdb",
-    "title": "淡岛百景",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
-    "link": null,
-    "tmdb_id": "291403",
-    "tmdb_site_id": "tv/291403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -267,6 +251,22 @@
     "link": null,
     "tmdb_id": "209867",
     "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "291403",
+    "type": "tmdb",
+    "title": "淡岛百景",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
+    "link": null,
+    "tmdb_id": "291403",
+    "tmdb_site_id": "tv/291403",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -342,22 +342,6 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "284447",
-    "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
-    "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "309163",
     "type": "tmdb",
     "title": "没有辣妹会对阿宅温柔!?",
@@ -369,6 +353,22 @@
     "link": null,
     "tmdb_id": "309163",
     "tmdb_site_id": "tv/309163",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "284447",
+    "type": "tmdb",
+    "title": "弱弱老师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
+    "link": null,
+    "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
