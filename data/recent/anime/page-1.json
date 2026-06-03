@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312474",
-    "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
-    "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "293697",
     "type": "tmdb",
     "title": "想结束这场“我爱你”的游戏",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "293697",
     "tmdb_site_id": "tv/293697",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312474",
+    "type": "tmdb",
+    "title": "日本三国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "link": null,
+    "tmdb_id": "312474",
+    "tmdb_site_id": "tv/312474",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -272,22 +272,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
-    "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "5.1",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
-    "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "285818",
     "type": "tmdb",
     "title": "迦楠大人的白给是恶魔级",
@@ -299,6 +283,22 @@
     "link": null,
     "tmdb_id": "285818",
     "tmdb_site_id": "tv/285818",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -342,22 +342,6 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "309163",
-    "type": "tmdb",
-    "title": "没有辣妹会对阿宅温柔!?",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
-    "link": null,
-    "tmdb_id": "309163",
-    "tmdb_site_id": "tv/309163",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "284447",
     "type": "tmdb",
     "title": "弱弱老师",
@@ -369,6 +353,22 @@
     "link": null,
     "tmdb_id": "284447",
     "tmdb_site_id": "tv/284447",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "309163",
+    "type": "tmdb",
+    "title": "没有辣妹会对阿宅温柔!?",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
+    "link": null,
+    "tmdb_id": "309163",
+    "tmdb_site_id": "tv/309163",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
