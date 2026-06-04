@@ -208,22 +208,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196285",
-    "type": "tmdb",
-    "title": "异世界悠闲农家 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/71/575057_BCS8O.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "12话 /  2026年4月6日 / 倉谷涼一 / 内藤騎之介「異世界のんびり農家」 / 齊藤佳子",
-    "link": null,
-    "tmdb_id": "196285",
-    "tmdb_site_id": "tv/196285/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
@@ -236,6 +220,22 @@
     "tmdb_id": "283428",
     "tmdb_site_id": "tv/283428",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "196285",
+    "type": "tmdb",
+    "title": "异世界悠闲农家 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/71/575057_BCS8O.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "12话 /  2026年4月6日 / 倉谷涼一 / 内藤騎之介「異世界のんびり農家」 / 齊藤佳子",
+    "link": null,
+    "tmdb_id": "196285",
+    "tmdb_site_id": "tv/196285/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -288,22 +288,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
-    "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
-    "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -315,6 +299,22 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
