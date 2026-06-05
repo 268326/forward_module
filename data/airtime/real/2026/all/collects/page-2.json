@@ -1,19 +1,37 @@
 [
   {
-    "id": "220102",
+    "id": "304194",
     "type": "tmdb",
-    "title": "暗影蜘蛛侠",
-    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
-    "releaseDate": "2026-05-27",
+    "title": "重启",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.9",
-    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
     "link": null,
-    "tmdb_id": "220102",
-    "tmdb_site_id": "tv/220102",
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "US"
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303405",
+    "type": "tmdb",
+    "title": "九条的大罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
+    "link": null,
+    "tmdb_id": "303405",
+    "tmdb_site_id": "tv/303405",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -29,24 +47,6 @@
     "link": null,
     "tmdb_id": "306207",
     "tmdb_site_id": "tv/306207",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "304194",
-    "type": "tmdb",
-    "title": "重启",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
-    "link": null,
-    "tmdb_id": "304194",
-    "tmdb_site_id": "tv/304194",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -159,15 +159,22 @@
     "link": "https://bgm.tv/subject/633271"
   },
   {
-    "id": "544948",
-    "type": "link",
-    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "id": "307650",
+    "type": "tmdb",
+    "title": "侦探先生，你的背包开着呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hnAhD9fcmkt2HXC341yPFfPirGP.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
-    "link": "https://bgm.tv/subject/544948"
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "乡下温泉街“西谷温泉”里，侦探兼发明家一之濑洋辅（松田龙平 饰）住在自家废弃的老旅馆，并将这里改造成充满离奇发明品的侦探事务所。曾在美国成功开发“将负面情绪转化为能量”的技术，使小镇出现许多不可思议的装置。每天都有性格独特的居民带来奇怪却温暖的委托，洋辅便以异想天开的机制与奇招处理难题。一桩桩古怪事件在笑声中解决，也让人与人之间的羁绊在这座温泉街悄然升温。",
+    "link": null,
+    "tmdb_id": "307650",
+    "tmdb_site_id": "tv/307650",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "614123",
@@ -192,62 +199,26 @@
     "link": "https://bgm.tv/subject/625916"
   },
   {
-    "id": "307650",
-    "type": "tmdb",
-    "title": "侦探先生，你的背包开着呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hnAhD9fcmkt2HXC341yPFfPirGP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "乡下温泉街“西谷温泉”里，侦探兼发明家一之濑洋辅（松田龙平 饰）住在自家废弃的老旅馆，并将这里改造成充满离奇发明品的侦探事务所。曾在美国成功开发“将负面情绪转化为能量”的技术，使小镇出现许多不可思议的装置。每天都有性格独特的居民带来奇怪却温暖的委托，洋辅便以异想天开的机制与奇招处理难题。一桩桩古怪事件在笑声中解决，也让人与人之间的羁绊在这座温泉街悄然升温。",
-    "link": null,
-    "tmdb_id": "307650",
-    "tmdb_site_id": "tv/307650",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "588065",
+    "id": "544948",
     "type": "link",
-    "title": "呼啸山庄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/19/588065_Ehlz0.jpg",
-    "releaseDate": "2026-02-13",
-    "mediaType": "real",
-    "rating": "4.4",
-    "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
-    "link": "https://bgm.tv/subject/588065"
-  },
-  {
-    "id": "634222",
-    "type": "link",
-    "title": "真相捕捉 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
-    "link": "https://bgm.tv/subject/634222"
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
   },
   {
-    "id": "280632",
-    "type": "tmdb",
-    "title": "成何体统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
-    "link": null,
-    "tmdb_id": "280632",
-    "tmdb_site_id": "tv/280632",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "511454",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
+    "releaseDate": "2026-03-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月14日",
+    "link": "https://bgm.tv/subject/511454"
   },
   {
     "id": "621874",
@@ -261,15 +232,15 @@
     "link": "https://bgm.tv/subject/621874"
   },
   {
-    "id": "511454",
+    "id": "634222",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
-    "releaseDate": "2026-03-14",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年3月14日",
-    "link": "https://bgm.tv/subject/511454"
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
   },
   {
     "id": "313635",
@@ -290,26 +261,44 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "587208",
+    "id": "588065",
     "type": "link",
-    "title": "学園アイドルマスター 初星音楽祭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
-    "releaseDate": "2026-02-28",
+    "title": "呼啸山庄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/19/588065_Ehlz0.jpg",
+    "releaseDate": "2026-02-13",
     "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/587208"
+    "rating": "4.4",
+    "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
+    "link": "https://bgm.tv/subject/588065"
   },
   {
-    "id": "609282",
+    "id": "280632",
+    "type": "tmdb",
+    "title": "成何体统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+    "link": null,
+    "tmdb_id": "280632",
+    "tmdb_site_id": "tv/280632",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "513985",
     "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
   },
   {
     "id": "489598",
@@ -323,14 +312,32 @@
     "link": "https://bgm.tv/subject/489598"
   },
   {
-    "id": "513985",
+    "id": "307682",
+    "type": "tmdb",
+    "title": "冬日的什么呀，春日的什么呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
+    "link": null,
+    "tmdb_id": "307682",
+    "tmdb_site_id": "tv/307682",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "587208",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
+    "title": "学園アイドルマスター 初星音楽祭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
+    "releaseDate": "2026-02-28",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
+    "description": "2话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/587208"
   }
 ]

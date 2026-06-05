@@ -1,34 +1,27 @@
 [
   {
-    "id": "278882",
-    "type": "tmdb",
-    "title": "年少有为",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-    "link": null,
-    "tmdb_id": "278882",
-    "tmdb_site_id": "tv/278882",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "513985",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
   },
   {
-    "id": "304928",
+    "id": "307652",
     "type": "tmdb",
-    "title": "未来的儿子",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aMMXFeeIuIxMFrH6ooDHCrRssGb.jpg",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "28岁的汐川未来（志田未来 饰）追梦多年却始终不顺，生活与情感都陷入停滞。某晚，自称来自2036年的男孩汐川飒太（天野优 饰）突然出现，喊她“妈妈”，并表示自己回到过去，是为了让未来和他的“爸爸”重新走到一起。为了照顾飒太，未来开始与其共同生活，并在寻找“真君”的过程中遇到三位可能的人选。伴随接触、选择与面对现实，未来也逐渐找回勇气，开始重新审视爱与人生。",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
     "link": null,
-    "tmdb_id": "304928",
-    "tmdb_site_id": "tv/304928",
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -54,17 +47,35 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307682",
+    "id": "278882",
     "type": "tmdb",
-    "title": "冬日的什么呀，春日的什么呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
+    "title": "年少有为",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
+    "rating": "7.8",
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
     "link": null,
-    "tmdb_id": "307682",
-    "tmdb_site_id": "tv/307682",
+    "tmdb_id": "278882",
+    "tmdb_site_id": "tv/278882",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313902",
+    "type": "tmdb",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "link": null,
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -83,49 +94,20 @@
     "link": "https://bgm.tv/subject/578285"
   },
   {
-    "id": "307652",
+    "id": "304928",
     "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
-    "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "590729",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
-    "releaseDate": "2026-02-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月14日",
-    "link": "https://bgm.tv/subject/590729"
-  },
-  {
-    "id": "312725",
-    "type": "tmdb",
-    "title": "九号秘事之黑帷背后",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "title": "未来的儿子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aMMXFeeIuIxMFrH6ooDHCrRssGb.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "7.0",
-    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "description": "28岁的汐川未来（志田未来 饰）追梦多年却始终不顺，生活与情感都陷入停滞。某晚，自称来自2036年的男孩汐川飒太（天野优 饰）突然出现，喊她“妈妈”，并表示自己回到过去，是为了让未来和他的“爸爸”重新走到一起。为了照顾飒太，未来开始与其共同生活，并在寻找“真君”的过程中遇到三位可能的人选。伴随接触、选择与面对现实，未来也逐渐找回勇气，开始重新审视爱与人生。",
     "link": null,
-    "tmdb_id": "312725",
-    "tmdb_site_id": "tv/312725",
+    "tmdb_id": "304928",
+    "tmdb_site_id": "tv/304928",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -148,6 +130,35 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "312725",
+    "type": "tmdb",
+    "title": "九号秘事之黑帷背后",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "link": null,
+    "tmdb_id": "312725",
+    "tmdb_site_id": "tv/312725",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "552953",
+    "type": "link",
+    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
+    "releaseDate": "2026-02-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年2月21日",
+    "link": "https://bgm.tv/subject/552953"
+  },
+  {
     "id": "273977",
     "type": "tmdb",
     "title": "莎拉的真伪人生",
@@ -166,6 +177,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "590729",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月14日",
+    "link": "https://bgm.tv/subject/590729"
+  },
+  {
     "id": "461696",
     "type": "link",
     "title": "好兆头 第三季",
@@ -177,35 +199,6 @@
     "link": "https://bgm.tv/subject/461696"
   },
   {
-    "id": "552953",
-    "type": "link",
-    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
-    "releaseDate": "2026-02-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026年2月21日",
-    "link": "https://bgm.tv/subject/552953"
-  },
-  {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "607931",
     "type": "link",
     "title": "学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション)",
@@ -215,6 +208,35 @@
     "rating": "",
     "description": "2话 /  2026年5月16日",
     "link": "https://bgm.tv/subject/607931"
+  },
+  {
+    "id": "259837",
+    "type": "tmdb",
+    "title": "超能路人甲",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "tv",
+    "rating": "9.1",
+    "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
+    "link": null,
+    "tmdb_id": "259837",
+    "tmdb_site_id": "tv/259837",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "623665",
+    "type": "link",
+    "title": "AGITO 超能力战争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
+    "link": "https://bgm.tv/subject/623665"
   },
   {
     "id": "320988",
@@ -233,28 +255,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "623665",
-    "type": "link",
-    "title": "AGITO 超能力战争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
-    "releaseDate": "2026-04-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
-    "link": "https://bgm.tv/subject/623665"
-  },
-  {
-    "id": "590022",
-    "type": "link",
-    "title": "暗黑新娘！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
-    "link": "https://bgm.tv/subject/590022"
   },
   {
     "id": "306129",
@@ -293,51 +293,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "259837",
-    "type": "tmdb",
-    "title": "超能路人甲",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "tv",
-    "rating": "9.2",
-    "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
-    "link": null,
-    "tmdb_id": "259837",
-    "tmdb_site_id": "tv/259837",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "590022",
+    "type": "link",
+    "title": "暗黑新娘！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
+    "link": "https://bgm.tv/subject/590022"
   },
   {
-    "id": "559232",
+    "id": "573155",
     "type": "link",
-    "title": "LoveLive!虹咲学园校园偶像同好会 FLOWER MUSIC LIVE『Boooooom Boooooom Bee!!』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/19/d4/559232_B5MOB.jpg",
+    "title": "THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/cd/573155_5MPgP.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-01-17 / Day1：タンポポ（相良茉優（中須かすみ 役）、指出毬亜（エマ・ヴェルデ 役））、ヒナギク（田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役））、スズラン（大西亜玖璃（上原歩夢 役）、久保田未夢（朝香果林 役））／Day2：アサガオ（前田佳織里（桜坂しずく 役）、鬼頭明里（近江彼方 役））、サボテン（林鼓子（優木せつ菜 役）、内田秀（ミア・テイラー 役））、ハイビスカス（村上奈津実（宮下愛 役）、法元明菜（鐘嵐珠 役））",
-    "link": "https://bgm.tv/subject/559232"
-  },
-  {
-    "id": "307182",
-    "type": "tmdb",
-    "title": "直到对挚友的“要不要同居”说出“好”",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zmta09ZIB0MWE4QW6bDpNDGAlTF.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "　　感情不外露的横井凑（吉泽要人 饰），与一切情绪都写在脸上的中乃航（雨宫翔 饰），看似性格相反，却因共同的摄影兴趣而成为挚友，并在大学时期同居。随着凑就业，两人不得不结束同居生活，航这才意识到自己对挚友的感情早已超越友情。数年后，两人以社会人身份重逢——一个“想要继续做朋友”的凑，一个“无论如何都想成为恋人”的航，从彼此的单恋开始，一段暖心又酸涩的双向暗恋喜剧就此展开。\n\n　　本剧改编自ろじ的同名原著漫画。",
-    "link": null,
-    "tmdb_id": "307182",
-    "tmdb_site_id": "tv/307182",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "description": "3话 /  2026-02-21 / vα-liv、Dearly Stars",
+    "link": "https://bgm.tv/subject/573155"
   },
   {
     "id": "639143",
@@ -351,21 +326,32 @@
     "link": "https://bgm.tv/subject/639143"
   },
   {
-    "id": "307249",
+    "id": "278573",
     "type": "tmdb",
-    "title": "这里是预备自卫英雄补？！",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ksa7YNtfxUhmekT9jHCdMXUNglQ.jpg",
+    "title": "21世纪大君夫人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "拥有各式奇怪能力、在人生低谷挣扎的自由业者流伟月（菊池风磨 饰），与另外六名同样处境糟糕的青年，被防卫省秘密召集。原以为只是例行通知，他们却突然被告知将承担“特殊任务”，以自身的怪癖与能力组成前所未有的英雄小队。七人各有缺点与自卑，却在混乱的训练与任务中逐渐发现自己的价值，展开一场用“另类能力”拯救世界的荒诞而热血的英雄之旅。",
+    "rating": "8.8",
+    "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
     "link": null,
-    "tmdb_id": "307249",
-    "tmdb_site_id": "tv/307249",
+    "tmdb_id": "278573",
+    "tmdb_site_id": "tv/278573",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "574475",
+    "type": "link",
+    "title": "万事快調＜オール・グリーンズ＞",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/88/574475_Rcq0H.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年1月16日 / 児山隆 / 児山隆 / 南沙良、出口夏希",
+    "link": "https://bgm.tv/subject/574475"
   }
 ]

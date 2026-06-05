@@ -3,7 +3,7 @@
     "id": "303870",
     "type": "tmdb",
     "title": "雾尾粉丝后援会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_iFG6q.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
     "rating": "6.7",
@@ -11,22 +11,6 @@
     "link": null,
     "tmdb_id": "303870",
     "tmdb_site_id": "tv/303870",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "301944",
-    "type": "tmdb",
-    "title": "婚姻剧毒",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
-    "link": null,
-    "tmdb_id": "301944",
-    "tmdb_site_id": "tv/301944",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -43,6 +27,22 @@
     "link": null,
     "tmdb_id": "309163",
     "tmdb_site_id": "tv/309163",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "301944",
+    "type": "tmdb",
+    "title": "婚姻剧毒",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
+    "link": null,
+    "tmdb_id": "301944",
+    "tmdb_site_id": "tv/301944",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -155,17 +155,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "507819",
-    "type": "link",
-    "title": "一人之下 第六季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_OD5zd.jpg",
-    "releaseDate": "2026-01-02",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "26话 /  2026年1月2日 / 米二 / 陈淑君",
-    "link": "https://bgm.tv/subject/507819"
-  },
-  {
     "id": "638494",
     "type": "link",
     "title": "Re：从零开始的休息时间4",
@@ -175,6 +164,17 @@
     "rating": "6.2",
     "description": "2026年4月8日 / 芦名みのる / 長月達平(MF文庫J「Re:ゼロから始める異世界生活」／KADOKAWA刊) / 小角色设定：たけはらみのる",
     "link": "https://bgm.tv/subject/638494"
+  },
+  {
+    "id": "507819",
+    "type": "link",
+    "title": "一人之下 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_OD5zd.jpg",
+    "releaseDate": "2026-01-02",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "26话 /  2026年1月2日 / 米二 / 陈淑君",
+    "link": "https://bgm.tv/subject/507819"
   },
   {
     "id": "286361",
@@ -236,17 +236,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "544816",
-    "type": "link",
-    "title": "最终乐章 吹响吧！上低音号 前篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/9b/544816_ftEj4.jpg",
-    "releaseDate": "2026-04-24",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "1话 /  2026年4月24日 / 小川太一 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』） / 池田晶子、池田和美",
-    "link": "https://bgm.tv/subject/544816"
-  },
-  {
     "id": "293697",
     "type": "tmdb",
     "title": "想结束这场“我爱你”的游戏",
@@ -261,6 +250,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "544816",
+    "type": "link",
+    "title": "最终乐章 吹响吧！上低音号 前篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/9b/544816_ftEj4.jpg",
+    "releaseDate": "2026-04-24",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "1话 /  2026年4月24日 / 小川太一 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』） / 池田晶子、池田和美",
+    "link": "https://bgm.tv/subject/544816"
   },
   {
     "id": "216467",
@@ -306,6 +306,22 @@
     "link": "https://bgm.tv/subject/484701"
   },
   {
+    "id": "284568",
+    "type": "tmdb",
+    "title": "复制品的我也会谈恋爱。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
+    "link": null,
+    "tmdb_id": "284568",
+    "tmdb_site_id": "tv/284568",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "154526",
     "type": "tmdb",
     "title": "极速车魂 第三季",
@@ -322,35 +338,14 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284568",
-    "type": "tmdb",
-    "title": "复制品的我也会谈恋爱。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
-    "link": null,
-    "tmdb_id": "284568",
-    "tmdb_site_id": "tv/284568",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "82684",
-    "type": "tmdb",
-    "title": "关于我转生变成史莱姆这档事 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_Uj20c.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
-    "link": null,
-    "tmdb_id": "82684",
-    "tmdb_site_id": "tv/82684/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "569761",
+    "type": "link",
+    "title": "熊出没·年年有熊",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/5b/569761_t1r2N.jpg",
+    "releaseDate": "2026-02-17",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "1话 /  2026年2月17日 / 林汇达 / 顽形（角色设计总监）",
+    "link": "https://bgm.tv/subject/569761"
   }
 ]

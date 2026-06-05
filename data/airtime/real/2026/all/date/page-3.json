@@ -1,5 +1,49 @@
 [
   {
+    "id": "649745",
+    "type": "link",
+    "title": "THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/08/38/649745_Mpdyi.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-09-12",
+    "link": "https://bgm.tv/subject/649745"
+  },
+  {
+    "id": "656642",
+    "type": "link",
+    "title": "亚姬的超卡邦棒！银河联邦警察联合特别训练",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ad/656642_3M4lk.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-09",
+    "link": "https://bgm.tv/subject/656642"
+  },
+  {
+    "id": "641774",
+    "type": "link",
+    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/e9/641774_iPdp2.jpg",
+    "releaseDate": "2026-09-08",
+    "mediaType": "real",
+    "rating": "",
+    "description": "5话 /  2026年9月8日",
+    "link": "https://bgm.tv/subject/641774"
+  },
+  {
+    "id": "650415",
+    "type": "link",
+    "title": "花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f5/650415_g259k.jpg",
+    "releaseDate": "2026-09-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年9月6日 / 花譜",
+    "link": "https://bgm.tv/subject/650415"
+  },
+  {
     "id": "632521",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福岡公演",
@@ -66,17 +110,6 @@
     "link": "https://bgm.tv/subject/544680"
   },
   {
-    "id": "627226",
-    "type": "link",
-    "title": "平行と垂直",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
-    "link": "https://bgm.tv/subject/627226"
-  },
-  {
     "id": "633756",
     "type": "link",
     "title": "見えない娘 THE INVISIBLES",
@@ -86,6 +119,17 @@
     "rating": "",
     "description": "2026年8月28日 / 竹林亮 / 夏生さえり、竹林亮 / 毎熊克哉",
     "link": "https://bgm.tv/subject/633756"
+  },
+  {
+    "id": "627226",
+    "type": "link",
+    "title": "平行と垂直",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
+    "link": "https://bgm.tv/subject/627226"
   },
   {
     "id": "639960",
@@ -110,17 +154,6 @@
     "link": "https://bgm.tv/subject/583191"
   },
   {
-    "id": "617152",
-    "type": "link",
-    "title": "热舞巨星☆光之美少年 The Stage PARTY",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
-    "link": "https://bgm.tv/subject/617152"
-  },
-  {
     "id": "635371",
     "type": "link",
     "title": "グノーシア　ザ・ライブプレイングシアター",
@@ -143,6 +176,17 @@
     "link": "https://bgm.tv/subject/641261"
   },
   {
+    "id": "617152",
+    "type": "link",
+    "title": "热舞巨星☆光之美少年 The Stage PARTY",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
+    "link": "https://bgm.tv/subject/617152"
+  },
+  {
     "id": "632520",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
@@ -152,6 +196,17 @@
     "rating": "",
     "description": "2话 /  2026年8月20日",
     "link": "https://bgm.tv/subject/632520"
+  },
+  {
+    "id": "639959",
+    "type": "link",
+    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
+    "link": "https://bgm.tv/subject/639959"
   },
   {
     "id": "298360",
@@ -176,17 +231,6 @@
     "link": "https://bgm.tv/subject/632945"
   },
   {
-    "id": "639959",
-    "type": "link",
-    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
-    "link": "https://bgm.tv/subject/639959"
-  },
-  {
     "id": "639958",
     "type": "link",
     "title": "スーパーヒーロー魂2026 “夏の陣”",
@@ -194,7 +238,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-08-15 / 串田アキラ、MoJo、宮内タカユキ、真夏竜、前田達也、遠藤正明、つるの剛士、小林太郎、ボイジャー",
+    "description": "1话 /  2026-08-15 / 串田アキラ、MoJo、宮内タカユキ、真夏竜、前田達也、遠藤正明、つるの剛士、小林太郎、ボイジャー、Haruna",
     "link": "https://bgm.tv/subject/639958"
   },
   {
@@ -218,54 +262,5 @@
     "rating": "",
     "description": "2026-08-08 / 加古臨王 / Spacenoid Writers’ Room (月森葵／野ノ栖千晶／会沢青／葉坂恵衣／ 白川ユキ) / 田村心、仲田博喜、田淵累生、小山内花凜、河内美里、明音亜弥、伊崎龍次郎、相澤莉多、秋野祐香、KIMERU、伊藤萌々香、沖侑果、斉藤瑞季、中本大賀、植原ゆきな、ビッグ春華（Wキャスト）、髙橋かれん、飛龍つかさ",
     "link": "https://bgm.tv/subject/645126"
-  },
-  {
-    "id": "646666",
-    "type": "link",
-    "title": "少女革命計画 2nd LIVE 「Revolutio」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/11/646666_E9sh8.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年8月8日 / 心世紀 (御莉姫、佳鏡院、硝子宮)、罪十罰 (氷夏至、 美古途、夕凪機)",
-    "link": "https://bgm.tv/subject/646666"
-  },
-  {
-    "id": "656164",
-    "type": "link",
-    "title": "ゴースト・オブ・ウエノ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9f/8e/656164_SF92D.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月8日 / ワン・チイ / 門脇麦",
-    "link": "https://bgm.tv/subject/656164"
-  },
-  {
-    "id": "576744",
-    "type": "link",
-    "title": "あの星が降る丘で、君とまた出会いたい。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/74/576744_6359L.jpg",
-    "releaseDate": "2026-08-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月7日 / 福原遥",
-    "link": "https://bgm.tv/subject/576744"
-  },
-  {
-    "id": "131041",
-    "type": "tmdb",
-    "title": "蓝色监狱",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0a/8b/589533_c6PI4.jpg",
-    "releaseDate": "2026-08-07",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "2026年8月7日 / 瀧悠輔",
-    "link": null,
-    "tmdb_id": "131041",
-    "tmdb_site_id": "tv/131041",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

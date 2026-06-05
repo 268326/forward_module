@@ -203,6 +203,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "94404",
+    "type": "tmdb",
+    "title": "异兽魔都 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
+    "link": null,
+    "tmdb_id": "94404",
+    "tmdb_site_id": "tv/94404/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "284444",
     "type": "tmdb",
     "title": "蘑菇魔女",
@@ -251,22 +267,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94404",
-    "type": "tmdb",
-    "title": "异兽魔都 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
-    "link": null,
-    "tmdb_id": "94404",
-    "tmdb_site_id": "tv/94404/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "285291",
     "type": "tmdb",
     "title": "转生之后的我变成了龙蛋",
@@ -292,6 +292,22 @@
     "rating": "8.1",
     "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
     "link": "https://bgm.tv/subject/334105"
+  },
+  {
+    "id": "259819",
+    "type": "tmdb",
+    "title": "公鸡斗士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
+    "link": null,
+    "tmdb_id": "259819",
+    "tmdb_site_id": "tv/259819",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "501963",
@@ -321,33 +337,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
-  },
-  {
-    "id": "208493",
-    "type": "tmdb",
-    "title": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg",
-    "releaseDate": "2026-03-30",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "1话 /  2026年3月30日 / 板垣伸 / 美紅（株式会社KADOKAWA ファンタジア文庫刊） / 木村博美",
-    "link": null,
-    "tmdb_id": "208493",
-    "tmdb_site_id": "tv/208493/season/0",
-    "tmdb_season_number": 0,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -362,5 +351,16 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
   }
 ]

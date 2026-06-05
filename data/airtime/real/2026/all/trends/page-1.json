@@ -1,23 +1,12 @@
 [
   {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "5.2",
-    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
-    "link": "https://bgm.tv/subject/494608"
-  },
-  {
     "id": "220102",
     "type": "tmdb",
     "title": "暗影蜘蛛侠",
     "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
     "releaseDate": "2026-05-27",
     "mediaType": "tv",
-    "rating": "8.9",
+    "rating": "8.7",
     "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
     "link": null,
     "tmdb_id": "220102",
@@ -27,6 +16,17 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "5.1",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
   },
   {
     "id": "272432",
@@ -65,17 +65,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "636399",
-    "type": "link",
-    "title": "挽救计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
-    "releaseDate": "2026-03-20",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
-    "link": "https://bgm.tv/subject/636399"
-  },
-  {
     "id": "315494",
     "type": "tmdb",
     "title": "重生：最后的英雄",
@@ -100,7 +89,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
     "releaseDate": "2026-05-15",
     "mediaType": "tv",
-    "rating": "9.2",
+    "rating": "9.1",
     "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
     "link": null,
     "tmdb_id": "259837",
@@ -110,6 +99,17 @@
       "KR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "507727",
+    "type": "link",
+    "title": "星球大战：曼达洛人与古古",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
+    "link": "https://bgm.tv/subject/507727"
   },
   {
     "id": "303143",
@@ -130,15 +130,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "507727",
+    "id": "636399",
     "type": "link",
-    "title": "星球大战：曼达洛人与古古",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
-    "releaseDate": "2026-05-22",
+    "title": "挽救计划",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
+    "releaseDate": "2026-03-20",
     "mediaType": "real",
-    "rating": "6.3",
-    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
-    "link": "https://bgm.tv/subject/507727"
+    "rating": "7.5",
+    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
+    "link": "https://bgm.tv/subject/636399"
+  },
+  {
+    "id": "549830",
+    "type": "link",
+    "title": "克拉克森的农场 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
+    "releaseDate": "2026-06-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
+    "link": "https://bgm.tv/subject/549830"
   },
   {
     "id": "305227",
@@ -159,13 +170,42 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "289424",
+    "type": "tmdb",
+    "title": "努力克服自卑的我们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+    "link": null,
+    "tmdb_id": "289424",
+    "tmdb_site_id": "tv/289424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "626794",
+    "type": "link",
+    "title": "月夜行路 -答案尽在名作之中-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
+    "link": "https://bgm.tv/subject/626794"
+  },
+  {
     "id": "278573",
     "type": "tmdb",
     "title": "21世纪大君夫人",
     "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.6",
+    "rating": "8.8",
     "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
     "link": null,
     "tmdb_id": "278573",
@@ -188,62 +228,6 @@
     "link": "https://bgm.tv/subject/282418"
   },
   {
-    "id": "55006",
-    "type": "tmdb",
-    "title": "恶之华",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c9/ac/610617_f1X2F.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "12话 /  2026年4月9日 / ヤングポール、井口昇 / 目黒啓太、たかせしゅうほう / 鈴木福、あの",
-    "link": null,
-    "tmdb_id": "55006",
-    "tmdb_site_id": "tv/55006",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "478191",
-    "type": "link",
-    "title": "真人快打2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "real",
-    "rating": "6.2",
-    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Ludi Lin、Jessica McNamee、Joe Taslim",
-    "link": "https://bgm.tv/subject/478191"
-  },
-  {
-    "id": "289424",
-    "type": "tmdb",
-    "title": "努力克服自卑的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.4",
-    "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-    "link": null,
-    "tmdb_id": "289424",
-    "tmdb_site_id": "tv/289424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "613912",
-    "type": "link",
-    "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/d5/613912_r38YL.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
-    "link": "https://bgm.tv/subject/613912"
-  },
-  {
     "id": "607931",
     "type": "link",
     "title": "学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション)",
@@ -255,15 +239,15 @@
     "link": "https://bgm.tv/subject/607931"
   },
   {
-    "id": "369191",
+    "id": "478191",
     "type": "link",
-    "title": "航海王 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/99/369191_N1rrT.jpg",
-    "releaseDate": "2026-03-10",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
     "mediaType": "real",
-    "rating": "7.5",
-    "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
-    "link": "https://bgm.tv/subject/369191"
+    "rating": "6.2",
+    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
+    "link": "https://bgm.tv/subject/478191"
   },
   {
     "id": "279446",
@@ -284,46 +268,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "626794",
-    "type": "link",
-    "title": "月夜行路 -答案尽在名作之中-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
-    "link": "https://bgm.tv/subject/626794"
-  },
-  {
-    "id": "305986",
-    "type": "tmdb",
-    "title": "钟表馆杀人事件",
-    "posterPath": "https://image.tmdb.org/t/p/w500/a65r9Weu0hVLNA7uZFv1YekXImR.jpg",
-    "releaseDate": "2026-02-27",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
-    "link": null,
-    "tmdb_id": "305986",
-    "tmdb_site_id": "tv/305986",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "625097",
-    "type": "link",
-    "title": "假面骑士ZZZ Into the Dream",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/2a/625097_IV4z5.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-05-03 / 内藤祐介（Show Part） / 今井竜太郎、堀口真帆、三嶋健太、小貫莉奈、八木美樹、NAQT VANE、BACK-ON、MC：篠宮暁",
-    "link": "https://bgm.tv/subject/625097"
-  },
-  {
     "id": "617739",
     "type": "link",
     "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
@@ -335,14 +279,86 @@
     "link": "https://bgm.tv/subject/617739"
   },
   {
-    "id": "631823",
+    "id": "369191",
     "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
+    "title": "航海王 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/99/369191_N1rrT.jpg",
+    "releaseDate": "2026-03-10",
     "mediaType": "real",
-    "rating": "",
-    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
+    "rating": "7.5",
+    "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
+    "link": "https://bgm.tv/subject/369191"
+  },
+  {
+    "id": "315758",
+    "type": "tmdb",
+    "title": "伪装的真实之吻",
+    "posterPath": "https://image.tmdb.org/t/p/w500/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.7",
+    "description": "本剧讲述业务部同期的四谷良与志藤全，自高中时代起就凡事较劲，成绩、运动、人气，甚至谁先升职都能拿来比个高下。多年后在公司意外重逢，曾被时间冲淡的竞争心再次燃起。两人即使成为同事，也习惯向对方发起新的挑战。一次玩笑般的「持久对决」让彼此的关系越界，情势从竞争逐渐转向亲密攻防。谁都不愿认输的他们，最终订下新的赌约──先攻陷对方、掳获芳心的人就算胜利！",
+    "link": null,
+    "tmdb_id": "315758",
+    "tmdb_site_id": "tv/315758",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "224372",
+    "type": "tmdb",
+    "title": "七王国的骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+    "releaseDate": "2026-01-18",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "link": null,
+    "tmdb_id": "224372",
+    "tmdb_site_id": "tv/224372",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "254486",
+    "type": "tmdb",
+    "title": "雨霖铃",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
+    "link": null,
+    "tmdb_id": "254486",
+    "tmdb_site_id": "tv/254486",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "198178",
+    "type": "tmdb",
+    "title": "奇迹人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5wfW72dFSqJGboyh6fCD01wxrLv.jpg",
+    "releaseDate": "2026-01-27",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+    "link": null,
+    "tmdb_id": "198178",
+    "tmdb_site_id": "tv/198178",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

@@ -208,6 +208,17 @@
     "link": "https://bgm.tv/subject/637701"
   },
   {
+    "id": "657943",
+    "type": "link",
+    "title": "Free! Series ORCHESTRA CONCERT 2026 ―Beyond the New Journey―",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5e/71/657943_CACZu.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-08-02 / 指揮：吉田行地、管弦楽：Heartbeat Symphony、コーラス：Zinee&issei",
+    "link": "https://bgm.tv/subject/657943"
+  },
+  {
     "id": "547096",
     "type": "link",
     "title": "FUJIKO",
@@ -292,16 +303,5 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "514553",
-    "type": "link",
-    "title": "心碎高中 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/76/514553_AAHaS.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-03-25",
-    "link": "https://bgm.tv/subject/514553"
   }
 ]

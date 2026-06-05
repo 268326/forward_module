@@ -1,5 +1,34 @@
 [
   {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
+  },
+  {
+    "id": "311125",
+    "type": "tmdb",
+    "title": "以身相許",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年10月16日 / ?田恵輔 / ?田恵輔 / 磯村勇斗、末澤誠也（Aぇ! group）",
+    "link": null,
+    "tmdb_id": "311125",
+    "tmdb_site_id": "tv/311125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "428025",
     "type": "link",
     "title": "街头霸王",
@@ -9,6 +38,17 @@
     "rating": "",
     "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
     "link": "https://bgm.tv/subject/428025"
+  },
+  {
+    "id": "650384",
+    "type": "link",
+    "title": "わたしの知らない子どもたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
+    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "213375",
@@ -40,6 +80,17 @@
     "link": "https://bgm.tv/subject/567892"
   },
   {
+    "id": "630421",
+    "type": "link",
+    "title": "刀剣乱舞 - ICE BLADE -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-03",
+    "link": "https://bgm.tv/subject/630421"
+  },
+  {
     "id": "646585",
     "type": "link",
     "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
@@ -51,15 +102,15 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "630421",
+    "id": "657525",
     "type": "link",
-    "title": "刀剣乱舞 - ICE BLADE -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "ファーストボイス ―私たちの逆転裁判―",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/61/657525_5yh5B.jpg",
+    "releaseDate": "2026-10-02",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-10-03",
-    "link": "https://bgm.tv/subject/630421"
+    "description": "2026年10月2日 / 綾瀬はるか",
+    "link": "https://bgm.tv/subject/657525"
   },
   {
     "id": "642227",
@@ -106,17 +157,6 @@
     "link": "https://bgm.tv/subject/638983"
   },
   {
-    "id": "633558",
-    "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
-    "link": "https://bgm.tv/subject/633558"
-  },
-  {
     "id": "600005",
     "type": "link",
     "title": "しびれ",
@@ -126,6 +166,17 @@
     "rating": "",
     "description": "2026年9月25日 / 内山拓也 / 内山拓也 / 北村匠海",
     "link": "https://bgm.tv/subject/600005"
+  },
+  {
+    "id": "633558",
+    "type": "link",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
+    "link": "https://bgm.tv/subject/633558"
   },
   {
     "id": "639664",
@@ -150,6 +201,17 @@
     "link": "https://bgm.tv/subject/632522"
   },
   {
+    "id": "628086",
+    "type": "link",
+    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
+    "link": "https://bgm.tv/subject/628086"
+  },
+  {
     "id": "647204",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE",
@@ -172,15 +234,15 @@
     "link": "https://bgm.tv/subject/640614"
   },
   {
-    "id": "628086",
+    "id": "526932",
     "type": "link",
-    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "踊る大捜査線 N.E.W.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/84/526932_BURnz.jpg",
+    "releaseDate": "2026-09-18",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
-    "link": "https://bgm.tv/subject/628086"
+    "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
+    "link": "https://bgm.tv/subject/526932"
   },
   {
     "id": "580127",
@@ -194,17 +256,6 @@
     "link": "https://bgm.tv/subject/580127"
   },
   {
-    "id": "526932",
-    "type": "link",
-    "title": "踊る大捜査線 N.E.W.",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/84/526932_BURnz.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
-    "link": "https://bgm.tv/subject/526932"
-  },
-  {
     "id": "644128",
     "type": "link",
     "title": "Imy 1st One-man Live『Epheria』",
@@ -216,17 +267,6 @@
     "link": "https://bgm.tv/subject/644128"
   },
   {
-    "id": "649745",
-    "type": "link",
-    "title": "THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/08/38/649745_Mpdyi.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-09-12",
-    "link": "https://bgm.tv/subject/649745"
-  },
-  {
     "id": "643997",
     "type": "link",
     "title": "milet Hall Tour 2026",
@@ -236,38 +276,5 @@
     "rating": "",
     "description": "19话 /  2026年9月12日",
     "link": "https://bgm.tv/subject/643997"
-  },
-  {
-    "id": "656642",
-    "type": "link",
-    "title": "亚姬的超卡邦棒！银河联邦警察联合特别训练",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ad/656642_3M4lk.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-09",
-    "link": "https://bgm.tv/subject/656642"
-  },
-  {
-    "id": "641774",
-    "type": "link",
-    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/e9/641774_iPdp2.jpg",
-    "releaseDate": "2026-09-08",
-    "mediaType": "real",
-    "rating": "",
-    "description": "5话 /  2026年9月8日",
-    "link": "https://bgm.tv/subject/641774"
-  },
-  {
-    "id": "650415",
-    "type": "link",
-    "title": "花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f5/650415_g259k.jpg",
-    "releaseDate": "2026-09-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年9月6日 / 花譜",
-    "link": "https://bgm.tv/subject/650415"
   }
 ]
