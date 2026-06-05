@@ -22,6 +22,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "282136",
+    "type": "tmdb",
+    "title": "将夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "tv",
+    "rating": "9.3",
+    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
+    "link": null,
+    "bgm_id": "406488",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282136",
+    "tmdb_site_id": "tv/282136",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "312123",
     "type": "tmdb",
     "title": "拜托了偶像公主",
@@ -40,28 +62,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "282136",
-    "type": "tmdb",
-    "title": "将夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
-    "releaseDate": "2026-04-23",
-    "mediaType": "tv",
-    "rating": "9.3",
-    "description": "这是昊天治下的世界，有很多不可知之地，不可知之人，还有一段关于永夜的末日预言。外来者宁缺身负不为人知的过去，与在死人堆中捡到的弃婴桑桑相依为命。三把刀，一把伞，渭城的轻雨中，少年与少女，走进了天下。",
-    "link": null,
-    "bgm_id": "406488",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 29,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282136",
-    "tmdb_site_id": "tv/282136",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "320598",
@@ -121,6 +121,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "575244",
+    "type": "link",
+    "title": "沧元图 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/4a/575244_8OmeD.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/575244",
+    "bgm_id": "575244",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 19,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "637591",
     "type": "link",
     "title": "遮天 第四季",
@@ -134,21 +149,6 @@
     "bgm_score": 6.9,
     "bgm_rating_total": 18,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "575244",
-    "type": "link",
-    "title": "沧元图 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/4a/575244_8OmeD.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/575244",
-    "bgm_id": "575244",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 5
   },
   {
     "id": "641036",
@@ -172,12 +172,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
     "releaseDate": "2026-04-16",
     "mediaType": "anime",
-    "rating": "7.1",
+    "rating": "7.3",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/487522",
     "bgm_id": "487522",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 11,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 4
   },
   {
