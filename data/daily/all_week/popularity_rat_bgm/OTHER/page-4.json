@@ -36,13 +36,28 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/71/bb/564361_50zdd.jpg",
     "releaseDate": "2026-04-23",
     "mediaType": "anime",
-    "rating": "5.3",
+    "rating": "5.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/564361",
     "bgm_id": "564361",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 6,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "629167",
+    "type": "link",
+    "title": "时光小剧场",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c1/aa/629167_Ufh6n.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/629167",
+    "bgm_id": "629167",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
   },
   {
     "id": "607043",
@@ -73,21 +88,6 @@
     "bgm_score": 6.6,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "629167",
-    "type": "link",
-    "title": "时光小剧场",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c1/aa/629167_Ufh6n.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/629167",
-    "bgm_id": "629167",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "624836",
