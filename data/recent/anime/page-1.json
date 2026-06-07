@@ -71,13 +71,24 @@
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
     "rating": "6.7",
-    "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
+    "description": "13话 /  2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
     "link": null,
     "tmdb_id": "301944",
     "tmdb_site_id": "tv/301944",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "571784",
+    "type": "link",
+    "title": "躲在超市后门抽烟的两人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_NarYP.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年7月 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
+    "link": "https://bgm.tv/subject/571784"
   },
   {
     "id": "245842",
@@ -110,17 +121,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "571784",
-    "type": "link",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_NarYP.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
-    "link": "https://bgm.tv/subject/571784"
   },
   {
     "id": "312474",
@@ -315,6 +315,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
+  },
+  {
     "id": "305329",
     "type": "tmdb",
     "title": "主播女孩重度依赖",
@@ -331,28 +342,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
-  },
-  {
-    "id": "353181",
-    "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
-  },
-  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -362,5 +351,16 @@
     "rating": "7.2",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": "https://bgm.tv/subject/508004"
+  },
+  {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
+    "link": "https://bgm.tv/subject/575559"
   }
 ]
