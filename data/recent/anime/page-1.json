@@ -48,15 +48,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "571784",
-    "type": "link",
+    "id": "296286",
+    "type": "tmdb",
     "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_NarYP.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
     "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
-    "link": "https://bgm.tv/subject/571784"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
+    "link": null,
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "196950",
@@ -146,7 +153,7 @@
     "releaseDate": "2026-04-05",
     "mediaType": "tv",
     "rating": "6.9",
-    "description": "2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
     "link": null,
     "tmdb_id": "312474",
     "tmdb_site_id": "tv/312474",
