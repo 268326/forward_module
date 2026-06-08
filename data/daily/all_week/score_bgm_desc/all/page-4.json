@@ -108,35 +108,13 @@
     "link": null,
     "bgm_id": "606263",
     "bgm_score": 5.0,
-    "bgm_rating_total": 1721,
+    "bgm_rating_total": 1723,
     "bgm_weekday_id": 6,
     "tmdb_id": "305329",
     "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "315816",
-    "type": "tmdb",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
-    "link": null,
-    "bgm_id": "609183",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 496,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "315816",
-    "tmdb_site_id": "tv/315816",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "316427",
@@ -150,7 +128,7 @@
     "link": null,
     "bgm_id": "621602",
     "bgm_score": 5.0,
-    "bgm_rating_total": 324,
+    "bgm_rating_total": 326,
     "bgm_weekday_id": 7,
     "tmdb_id": "316427",
     "tmdb_site_id": "tv/316427",
@@ -199,6 +177,28 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "bgm_id": "609183",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 568,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "316424",
@@ -353,7 +353,7 @@
     "link": null,
     "bgm_id": "600675",
     "bgm_score": 3.9,
-    "bgm_rating_total": 340,
+    "bgm_rating_total": 341,
     "bgm_weekday_id": 7,
     "tmdb_id": "303796",
     "tmdb_site_id": "tv/303796",
