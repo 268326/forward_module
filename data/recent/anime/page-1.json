@@ -3,7 +3,7 @@
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
     "rating": "7.5",
@@ -32,22 +32,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312522",
-    "type": "tmdb",
-    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
-    "link": null,
-    "tmdb_id": "312522",
-    "tmdb_site_id": "tv/312522",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "296286",
     "type": "tmdb",
     "title": "躲在超市后门抽烟的两人",
@@ -64,6 +48,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312522",
+    "type": "tmdb",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "link": null,
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "196950",
