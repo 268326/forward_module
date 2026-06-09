@@ -1,5 +1,16 @@
 [
   {
+    "id": "595932",
+    "type": "link",
+    "title": "La veta del diablo",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/95/bc/595932_p2nP3.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年 / German Acuña",
+    "link": "https://bgm.tv/subject/595932"
+  },
+  {
     "id": "644636",
     "type": "link",
     "title": "紧身衣",
@@ -74,11 +85,11 @@
     "id": "579787",
     "type": "link",
     "title": "LV999的村民",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9UZ4h.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
+    "description": "2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
     "link": "https://bgm.tv/subject/579787"
   },
   {
@@ -192,6 +203,17 @@
     "link": "https://bgm.tv/subject/635806"
   },
   {
+    "id": "658869",
+    "type": "link",
+    "title": "NAFCAオリジナルアニメ【ほくとと影マル 一巻「原画トレスにチャレンジしてみるワン」】",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg",
+    "releaseDate": "2026-06-08",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月8日 / NAFCA育成チーム / 馬越嘉彦、小池智史、北尾勝、西位輝実",
+    "link": "https://bgm.tv/subject/658869"
+  },
+  {
     "id": "305329",
     "type": "tmdb",
     "title": "主播女孩重度依赖",
@@ -258,7 +280,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg",
     "releaseDate": "2026-05-20",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "1话 /  2026年5月20日 / 神谷雄貴 / syo5",
     "link": "https://bgm.tv/subject/653666"
   },
@@ -272,32 +294,5 @@
     "rating": "",
     "description": "1话 /  2026年2月21日",
     "link": "https://bgm.tv/subject/640931"
-  },
-  {
-    "id": "577191",
-    "type": "link",
-    "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
-    "link": "https://bgm.tv/subject/577191"
-  },
-  {
-    "id": "37854",
-    "type": "tmdb",
-    "title": "航海王 埃鲁巴夫篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
-    "link": null,
-    "tmdb_id": "37854",
-    "tmdb_site_id": "tv/37854/season/23",
-    "tmdb_season_number": 23,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

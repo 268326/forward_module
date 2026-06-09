@@ -109,6 +109,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "443351",
+    "type": "link",
+    "title": "在我们之中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/8c/443351_geq10.jpg",
+    "releaseDate": "2026-06-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "10话 /  2026年6月5日",
+    "link": "https://bgm.tv/subject/443351"
+  },
+  {
     "id": "638186",
     "type": "link",
     "title": "AnimeCanvas コマーシャルフィルム",
@@ -292,16 +303,5 @@
     "rating": "",
     "description": "2026年5月22日 / Mathilde Bédouet",
     "link": "https://bgm.tv/subject/655393"
-  },
-  {
-    "id": "551576",
-    "type": "link",
-    "title": "鬼泣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_4aQov.jpg",
-    "releaseDate": "2026-05-12",
-    "mediaType": "anime",
-    "rating": "3.3",
-    "description": "8话 /  2026年5月12日 / Adi Shankar",
-    "link": "https://bgm.tv/subject/551576"
   }
 ]

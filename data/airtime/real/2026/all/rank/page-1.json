@@ -112,7 +112,7 @@
     "id": "638448",
     "type": "link",
     "title": "迈克尔·杰克逊：巨星之路",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_9xQz2.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
     "releaseDate": "2026-04-24",
     "mediaType": "real",
     "rating": "6.9",
@@ -156,26 +156,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "478191",
-    "type": "link",
-    "title": "真人快打2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "real",
-    "rating": "6.2",
-    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
-    "link": "https://bgm.tv/subject/478191"
-  },
-  {
     "id": "623261",
     "type": "link",
     "title": "头号战队豪兽者 Polar Beginning",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.3",
+    "rating": "6.4",
     "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
     "link": "https://bgm.tv/subject/623261"
+  },
+  {
+    "id": "478191",
+    "type": "link",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "6.1",
+    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
+    "link": "https://bgm.tv/subject/478191"
   },
   {
     "id": "507727",
@@ -184,9 +184,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "real",
-    "rating": "6.3",
+    "rating": "6.2",
     "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
     "link": "https://bgm.tv/subject/507727"
+  },
+  {
+    "id": "620971",
+    "type": "link",
+    "title": "头号战队豪兽者VS奔奔者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "5.9",
+    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
+    "link": "https://bgm.tv/subject/620971"
   },
   {
     "id": "480966",
@@ -217,9 +228,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "real",
-    "rating": "5.1",
+    "rating": "5.2",
     "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
     "link": "https://bgm.tv/subject/494608"
+  },
+  {
+    "id": "405591",
+    "type": "link",
+    "title": "重返寂静岭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
+    "releaseDate": "2026-01-23",
+    "mediaType": "real",
+    "rating": "2.9",
+    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
+    "link": "https://bgm.tv/subject/405591"
   },
   {
     "id": "306479",
@@ -238,16 +260,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "405591",
-    "type": "link",
-    "title": "重返寂静岭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "real",
-    "rating": "2.9",
-    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
-    "link": "https://bgm.tv/subject/405591"
   }
 ]

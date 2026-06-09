@@ -1,16 +1,16 @@
 [
   {
-    "id": "303870",
+    "id": "273467",
     "type": "tmdb",
-    "title": "雾尾粉丝后援会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg",
-    "releaseDate": "2026-04-02",
+    "title": "女骑士成为蛮族新娘",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg",
+    "releaseDate": "2026-04-09",
     "mediaType": "tv",
-    "rating": "6.7",
-    "description": "12话 /  2026年4月2日 / 外山草 / 地球のお魚ぽんちゃん（リュエルコミックス／実業之日本社 刊） / 林奈美",
+    "rating": "5.6",
+    "description": "12话 /  2026年4月9日 / 田中孝行 / コトバノリアキ（講談社「別冊少年マガジン」連載） / 藤田真弓、畠山元；主要角色设定：菊池政芳",
     "link": null,
-    "tmdb_id": "303870",
-    "tmdb_site_id": "tv/303870",
+    "tmdb_id": "273467",
+    "tmdb_site_id": "tv/273467",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -43,6 +43,40 @@
     "link": "https://bgm.tv/subject/551918"
   },
   {
+    "id": "303870",
+    "type": "tmdb",
+    "title": "雾尾粉丝后援会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年4月2日 / 外山草 / 地球のお魚ぽんちゃん（リュエルコミックス／実業之日本社 刊） / 林奈美",
+    "link": null,
+    "tmdb_id": "303870",
+    "tmdb_site_id": "tv/303870",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "139060",
     "type": "tmdb",
     "title": "魔都精兵的奴隶 第二季",
@@ -55,22 +89,6 @@
     "tmdb_id": "139060",
     "tmdb_site_id": "tv/139060/season/2",
     "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "274622",
-    "type": "tmdb",
-    "title": "加油吧！中村君！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
-    "link": null,
-    "tmdb_id": "274622",
-    "tmdb_site_id": "tv/274622",
-    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -91,15 +109,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "501963",
+    "id": "541285",
     "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_U8JJL.jpg",
+    "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "7.9",
-    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
+    "rating": "8.4",
+    "description": "2026年7月 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "link": "https://bgm.tv/subject/541285"
   },
   {
     "id": "259819",
@@ -108,7 +126,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
     "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.3",
     "description": "12话 /  2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
     "link": null,
     "tmdb_id": "259819",
@@ -116,6 +134,55 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "569116",
+    "type": "link",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "8.2",
+    "description": "2026年7月 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "link": "https://bgm.tv/subject/569116"
+  },
+  {
+    "id": "274622",
+    "type": "tmdb",
+    "title": "加油吧！中村君！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
+    "link": null,
+    "tmdb_id": "274622",
+    "tmdb_site_id": "tv/274622",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "552533",
+    "type": "link",
+    "title": "穹庐下的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月4日 / Abel Gongora / トマトスープ「天幕のジャードゥーガル」（秋田書店） / 吉田健一",
+    "link": "https://bgm.tv/subject/552533"
+  },
+  {
+    "id": "587454",
+    "type": "link",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": "https://bgm.tv/subject/587454"
   },
   {
     "id": "304820",
@@ -134,24 +201,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/w89h2R9vaLlF6smgRa4dG6RVE6Z.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
-    "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "91768",
     "type": "tmdb",
     "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
@@ -166,35 +215,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "587454",
-    "type": "link",
-    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
-    "link": "https://bgm.tv/subject/587454"
-  },
-  {
-    "id": "316424",
-    "type": "tmdb",
-    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ggrW5FRPFFjNFPZCkJ0VmlKIWw2.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
-    "link": null,
-    "tmdb_id": "316424",
-    "tmdb_site_id": "tv/316424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "324120",
@@ -215,20 +235,33 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312293",
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": "https://bgm.tv/subject/638497"
+  },
+  {
+    "id": "316424",
     "type": "tmdb",
-    "title": "又被杀掉了呢，侦探大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/f4/608227_44kWb.jpg",
+    "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ggrW5FRPFFjNFPZCkJ0VmlKIWw2.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "4.6",
-    "description": "2026年4月2日 / 直谷たかし / てにをは（MF文庫J「また殺されてしまったのですね、探偵様」/KADOKAWA刊） / 熊田明子",
+    "rating": "6.7",
+    "description": "　　从大学四年级时空回溯到高中快入学时？！\n\n　　灰原夏希是个高中出道失败，度过了灰色的高中时代成为大四学生的青年。快要出社会的他有一天突然，穿越回到七年前——也就是高中快入学时！！得到了“重来”只有后悔的高中生活机会的夏希，活用过去的经验卓越地成功跻身成为班级种姓最上级的俊男靓女六人团的一员！而且那其中还有过去单恋的美少女阳花里……？！无自觉高水准青年重新开始第二轮的青春，强大重开新游戏的学园恋爱喜剧！",
     "link": null,
-    "tmdb_id": "312293",
-    "tmdb_site_id": "tv/312293",
+    "tmdb_id": "316424",
+    "tmdb_site_id": "tv/316424",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "303460",
@@ -247,6 +280,39 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "633836",
+    "type": "link",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
+    "link": "https://bgm.tv/subject/633836"
+  },
+  {
+    "id": "545008",
+    "type": "link",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": "https://bgm.tv/subject/545008"
+  },
+  {
+    "id": "496276",
+    "type": "link",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_O1333.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": "https://bgm.tv/subject/496276"
+  },
+  {
     "id": "216467",
     "type": "tmdb",
     "title": "夜樱家的大作战 第二季",
@@ -263,93 +329,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "299134",
+    "id": "312293",
     "type": "tmdb",
-    "title": "女仆小姐的贪吃日常",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/15/580473_uhpVF.jpg",
-    "releaseDate": "2026-04-05",
+    "title": "又被杀掉了呢，侦探大人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/f4/608227_44kWb.jpg",
+    "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年4月5日 / 泉保良輔 / 前屋進（講談社「コミックDAYS」連載） / 阿部千秋",
+    "rating": "4.6",
+    "description": "2026年4月2日 / 直谷たかし / てにをは（MF文庫J「また殺されてしまったのですね、探偵様」/KADOKAWA刊） / 熊田明子",
     "link": null,
-    "tmdb_id": "299134",
-    "tmdb_site_id": "tv/299134",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "541285",
-    "type": "link",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_U8JJL.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "8.5",
-    "description": "2026年7月 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
-    "link": "https://bgm.tv/subject/541285"
-  },
-  {
-    "id": "283888",
-    "type": "tmdb",
-    "title": "库兹马唱歌的话家里哆啰啰",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/69/493804_Wn16U.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "12话 /  2026年4月9日 / 野亦則行 / 紺野アキラ（小学館「ゲッサン」連載） / 三橋桜子",
-    "link": null,
-    "tmdb_id": "283888",
-    "tmdb_site_id": "tv/283888",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "569116",
-    "type": "link",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "8.2",
-    "description": "2026年7月 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
-    "link": "https://bgm.tv/subject/569116"
-  },
-  {
-    "id": "552533",
-    "type": "link",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月4日 / Abel Gongora / トマトスープ「天幕のジャードゥーガル」（秋田書店） / 吉田健一",
-    "link": "https://bgm.tv/subject/552533"
-  },
-  {
-    "id": "633836",
-    "type": "link",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
-  },
-  {
-    "id": "229443",
-    "type": "tmdb",
-    "title": "公主大人“拷问”的时间到了 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/79/486763_s49V9.jpg",
-    "releaseDate": "2026-01-12",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "12话 /  2026年1月12日 / 金森陽子 / 春原ロビンソン・ひらけい（集英社ジャンプコミックス刊） / 河野敏弥",
-    "link": null,
-    "tmdb_id": "229443",
-    "tmdb_site_id": "tv/229443",
+    "tmdb_id": "312293",
+    "tmdb_site_id": "tv/312293",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

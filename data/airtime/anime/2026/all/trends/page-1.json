@@ -22,7 +22,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "7.5",
+    "rating": "7.6",
     "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
     "tmdb_id": "65942",
@@ -30,6 +30,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296286",
+    "type": "tmdb",
+    "title": "躲在超市后门抽烟的两人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
+    "link": null,
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "312522",
@@ -54,7 +72,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
     "releaseDate": "2026-04-06",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
     "link": null,
     "tmdb_id": "196950",
@@ -71,7 +89,7 @@
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
     "rating": "6.7",
-    "description": "2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
+    "description": "13话 /  2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
     "link": null,
     "tmdb_id": "301944",
     "tmdb_site_id": "tv/301944",
@@ -112,22 +130,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312474",
-    "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
-    "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -144,6 +146,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "312474",
+    "type": "tmdb",
+    "title": "日本三国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "link": null,
+    "tmdb_id": "312474",
+    "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -155,22 +173,6 @@
     "link": null,
     "tmdb_id": "260463",
     "tmdb_site_id": "tv/260463",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "290019",
-    "type": "tmdb",
-    "title": "和班上第二可爱的女孩成为朋友",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
-    "link": null,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -224,6 +226,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "290019",
+    "type": "tmdb",
+    "title": "和班上第二可爱的女孩成为朋友",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
+    "link": null,
+    "tmdb_id": "290019",
+    "tmdb_site_id": "tv/290019",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "196285",
     "type": "tmdb",
     "title": "异世界悠闲农家 第二季",
@@ -240,15 +258,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "571784",
-    "type": "link",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_NarYP.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
-    "link": "https://bgm.tv/subject/571784"
+    "id": "285818",
+    "type": "tmdb",
+    "title": "迦楠大人的白给是恶魔级",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
+    "link": null,
+    "tmdb_id": "285818",
+    "tmdb_site_id": "tv/285818",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "209867",
@@ -262,22 +285,6 @@
     "link": null,
     "tmdb_id": "209867",
     "tmdb_site_id": "tv/209867",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "285818",
-    "type": "tmdb",
-    "title": "迦楠大人的白给是恶魔级",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
-    "link": null,
-    "tmdb_id": "285818",
-    "tmdb_site_id": "tv/285818",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -331,17 +338,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
-  },
-  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -367,5 +363,23 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

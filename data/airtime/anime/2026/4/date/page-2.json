@@ -14,7 +14,7 @@
     "id": "633318",
     "type": "link",
     "title": "不知火",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/40/633318_Cak7A.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/40/633318_LXy9U.jpg",
     "releaseDate": "2026-08-21",
     "mediaType": "anime",
     "rating": "",
@@ -39,7 +39,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
   },
@@ -53,6 +53,17 @@
     "rating": "",
     "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
     "link": "https://bgm.tv/subject/643828"
+  },
+  {
+    "id": "560379",
+    "type": "link",
+    "title": "大唐妖探",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/76/560379_1LVsw.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年8月8日 / 程腾",
+    "link": "https://bgm.tv/subject/560379"
   },
   {
     "id": "653307",
@@ -157,7 +168,7 @@
     "id": "545008",
     "type": "link",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_bdN0Y.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
     "rating": "",
@@ -179,7 +190,7 @@
     "id": "571895",
     "type": "link",
     "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_wHyCJ.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
     "releaseDate": "2026-07-10",
     "mediaType": "anime",
     "rating": "",
@@ -212,12 +223,23 @@
     "id": "276787",
     "type": "link",
     "title": "梅比乌斯之尘",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/46/276787_bWkII.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/46/276787_4oO0A.jpg",
     "releaseDate": "2026-07-09",
     "mediaType": "anime",
     "rating": "",
     "description": "2026年7月9日 / 岩崎太郎",
     "link": "https://bgm.tv/subject/276787"
+  },
+  {
+    "id": "658254",
+    "type": "link",
+    "title": "ようじょしぇんき2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月8日",
+    "link": "https://bgm.tv/subject/658254"
   },
   {
     "id": "642935",
@@ -231,36 +253,21 @@
     "link": "https://bgm.tv/subject/642935"
   },
   {
-    "id": "621835",
-    "type": "link",
-    "title": "盗墓王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/d3/621835_EqQm7.jpg",
+    "id": "297826",
+    "type": "tmdb",
+    "title": "盗掘王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
     "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月8日 / 우승욱(Woo Seung Wook) / 산지직송(SAN.G)・윤쓰(Yuns)(REDICE STUDIO) / 이현정(Lee Hyun Joung)",
-    "link": "https://bgm.tv/subject/621835"
-  },
-  {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": "https://bgm.tv/subject/565701"
-  },
-  {
-    "id": "412144",
-    "type": "link",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_hj2MY.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊）",
-    "link": "https://bgm.tv/subject/412144"
+    "link": null,
+    "tmdb_id": "297826",
+    "tmdb_site_id": "tv/297826",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

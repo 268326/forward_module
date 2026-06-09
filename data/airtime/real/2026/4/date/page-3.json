@@ -1,5 +1,16 @@
 [
   {
+    "id": "643997",
+    "type": "link",
+    "title": "milet Hall Tour 2026",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a6/d0/643997_kD2Ru.jpg",
+    "releaseDate": "2026-09-12",
+    "mediaType": "real",
+    "rating": "",
+    "description": "19话 /  2026年9月12日",
+    "link": "https://bgm.tv/subject/643997"
+  },
+  {
     "id": "649745",
     "type": "link",
     "title": "THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～",
@@ -9,6 +20,22 @@
     "rating": "",
     "description": "2话 /  2026-09-12",
     "link": "https://bgm.tv/subject/649745"
+  },
+  {
+    "id": "1244492",
+    "type": "tmdb",
+    "title": "蓦然回首",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/fe/612793_07J2X.jpg",
+    "releaseDate": "2026-09-11",
+    "mediaType": "movie",
+    "rating": "",
+    "description": "1话 /  2026年9月11日 / 出口夏希、蒔田彩珠",
+    "link": null,
+    "tmdb_id": "1244492",
+    "tmdb_site_id": "movie/1244492",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "656642",
@@ -97,6 +124,28 @@
     "rating": "",
     "description": "2话 /  2026-08-30 / 葵あずさ(空野みなも／プリンセス・リップル役)、藤本侑里(識辺かがり／プリンセス・ジール役)、橘杏咲(一条ながせ／プリンセス・ミーティア役)、鬼頭明里(風花すみれ／プリンセス・ヴィオラ役)、伊藤美来(風花りり／プリンセス・ネージュ役)",
     "link": "https://bgm.tv/subject/639798"
+  },
+  {
+    "id": "658652",
+    "type": "link",
+    "title": "アニメ『メダリスト』スペシャルエキシビション2026",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/64/02/658652_zGzi3.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-08-30 / 春瀬なつみ、大塚剛央、市ノ瀬加那、阿部菜摘子、坂泰斗、加藤英美里",
+    "link": "https://bgm.tv/subject/658652"
+  },
+  {
+    "id": "658611",
+    "type": "link",
+    "title": "人生复本 第二季",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-08-28",
+    "link": "https://bgm.tv/subject/658611"
   },
   {
     "id": "544680",
@@ -198,17 +247,6 @@
     "link": "https://bgm.tv/subject/632520"
   },
   {
-    "id": "639959",
-    "type": "link",
-    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
-    "link": "https://bgm.tv/subject/639959"
-  },
-  {
     "id": "298360",
     "type": "link",
     "title": "绿灯军团",
@@ -220,47 +258,14 @@
     "link": "https://bgm.tv/subject/298360"
   },
   {
-    "id": "632945",
+    "id": "639959",
     "type": "link",
-    "title": "TVアニメ『【推しの子】』スペシャルイベント 苺プロダクション☆ファン感謝祭2026",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/de/df/632945_ih0yr.jpg",
+    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-08-16 / 大塚剛央（アクア役）、 伊駒ゆりえ（ルビー役）、 潘めぐみ（有馬かな役）、 大久保瑠美（MEMちょ役） 伊東健人（ゴロー役）、 高柳知葉（さりな役）",
-    "link": "https://bgm.tv/subject/632945"
-  },
-  {
-    "id": "639958",
-    "type": "link",
-    "title": "スーパーヒーロー魂2026 “夏の陣”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/dd/639958_1DAv1.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-15 / 串田アキラ、MoJo、宮内タカユキ、真夏竜、前田達也、遠藤正明、つるの剛士、小林太郎、ボイジャー、Haruna",
-    "link": "https://bgm.tv/subject/639958"
-  },
-  {
-    "id": "644235",
-    "type": "link",
-    "title": "Key 香港演唱会 2026 -遥远的约定-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/59/644235_y32Tx.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-08 / Lia、多田葵、Rita、riya、茶太（影像出席）",
-    "link": "https://bgm.tv/subject/644235"
-  },
-  {
-    "id": "645126",
-    "type": "link",
-    "title": "極限選別演劇『HUNDRED LINE -最終防衛学園-』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/22/645126_5PR5Q.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-08 / 加古臨王 / Spacenoid Writers’ Room (月森葵／野ノ栖千晶／会沢青／葉坂恵衣／ 白川ユキ) / 田村心、仲田博喜、田淵累生、小山内花凜、河内美里、明音亜弥、伊崎龍次郎、相澤莉多、秋野祐香、KIMERU、伊藤萌々香、沖侑果、斉藤瑞季、中本大賀、植原ゆきな、ビッグ春華（Wキャスト）、髙橋かれん、飛龍つかさ",
-    "link": "https://bgm.tv/subject/645126"
+    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
+    "link": "https://bgm.tv/subject/639959"
   }
 ]

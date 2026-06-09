@@ -1,36 +1,43 @@
 [
   {
-    "id": "627648",
-    "type": "link",
-    "title": "天是红河岸",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/b7/627648_V00Vh.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
-    "link": "https://bgm.tv/subject/627648"
+    "id": "297826",
+    "type": "tmdb",
+    "title": "盗掘王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月8日 / 우승욱(Woo Seung Wook) / 산지직송(SAN.G)・윤쓰(Yuns)(REDICE STUDIO) / 이현정(Lee Hyun Joung)",
+    "link": null,
+    "tmdb_id": "297826",
+    "tmdb_site_id": "tv/297826",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "612697",
+    "id": "642935",
     "type": "link",
-    "title": "铠真传 武士军团 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/ce/612697_B5f6f.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "魔女之谷的夜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9c/642935_BrWoW.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月7日 / 藤田陽一 / 矢立肇 / 室田雄平；恶役人物设定：ことぶきつかさ",
-    "link": "https://bgm.tv/subject/612697"
+    "description": "2026年7月8日 / 宮崎吾朗、山下明彦",
+    "link": "https://bgm.tv/subject/642935"
   },
   {
-    "id": "496276",
+    "id": "658254",
     "type": "link",
-    "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_O1333.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "ようじょしぇんき2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
-    "link": "https://bgm.tv/subject/496276"
+    "description": "2026年7月8日",
+    "link": "https://bgm.tv/subject/658254"
   },
   {
     "id": "117120",
@@ -51,37 +58,48 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "607340",
+    "id": "496276",
     "type": "link",
-    "title": "与奔跑在透明之夜的你，谈一场看不见的恋爱",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_ZKVvY.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_O1333.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし / 澤田慶宏、石井優月",
-    "link": "https://bgm.tv/subject/607340"
+    "description": "2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": "https://bgm.tv/subject/496276"
   },
   {
-    "id": "590786",
+    "id": "584641",
     "type": "link",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_66lw7.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "奇招百出的维多利亚",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/5b/584641_xl2El.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": "https://bgm.tv/subject/590786"
+    "description": "2026年7月7日 / 木村延景 / 守雨（MFブックス／KADOKAWA刊） / 大沢美奈",
+    "link": "https://bgm.tv/subject/584641"
   },
   {
-    "id": "569671",
+    "id": "612697",
     "type": "link",
-    "title": "斗球儿弹子",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5a/fe/569671_9359e.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "铠真传 武士军团 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/ce/612697_B5f6f.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月6日 / 博史池畠 / こしたてつひろ（小学館「週刊コロコロコミック」連載中） / 関川成人",
-    "link": "https://bgm.tv/subject/569671"
+    "description": "2026年7月7日 / 藤田陽一 / 矢立肇 / 室田雄平；恶役人物设定：ことぶきつかさ",
+    "link": "https://bgm.tv/subject/612697"
+  },
+  {
+    "id": "627648",
+    "type": "link",
+    "title": "天是红河岸",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/b7/627648_V00Vh.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
+    "link": "https://bgm.tv/subject/627648"
   },
   {
     "id": "528828",
@@ -95,114 +113,48 @@
     "link": "https://bgm.tv/subject/528828"
   },
   {
-    "id": "638497",
+    "id": "569671",
     "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_31ByB.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "斗球儿弹子",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5a/fe/569671_9359e.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
+    "description": "2026年7月6日 / 博史池畠 / こしたてつひろ（小学館「週刊コロコロコミック」連載中） / 関川成人",
+    "link": "https://bgm.tv/subject/569671"
   },
   {
-    "id": "633354",
+    "id": "579246",
     "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e2/dd/579246_61291.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
-    "link": "https://bgm.tv/subject/633354"
+    "description": "2026年7月6日 / 葛谷直行 / はぐれメタボ（HJノベルス／ホビージャパン）；漫画：おおのいも（HJコミックス／コミックファイア連載） / 姉崎早也花",
+    "link": "https://bgm.tv/subject/579246"
   },
   {
-    "id": "615835",
+    "id": "590786",
     "type": "link",
-    "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_1zist.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_66lw7.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
-    "link": "https://bgm.tv/subject/615835"
+    "description": "2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "link": "https://bgm.tv/subject/590786"
   },
   {
-    "id": "598058",
+    "id": "607340",
     "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "与奔跑在透明之夜的你，谈一场看不见的恋爱",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
-  },
-  {
-    "id": "595106",
-    "type": "link",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_kn3W3.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
-    "link": "https://bgm.tv/subject/595106"
-  },
-  {
-    "id": "583862",
-    "type": "link",
-    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日",
-    "link": "https://bgm.tv/subject/583862"
-  },
-  {
-    "id": "577191",
-    "type": "link",
-    "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
-    "link": "https://bgm.tv/subject/577191"
-  },
-  {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
-  },
-  {
-    "id": "495291",
-    "type": "link",
-    "title": "再见，拉拉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
-    "link": "https://bgm.tv/subject/495291"
-  },
-  {
-    "id": "454083",
-    "type": "link",
-    "title": "碧蓝航线：微速前行！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_4DZpt.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
-    "link": "https://bgm.tv/subject/454083"
+    "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし / 澤田慶宏、石井優月",
+    "link": "https://bgm.tv/subject/607340"
   },
   {
     "id": "153217",
@@ -223,58 +175,113 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "651872",
+    "id": "454083",
     "type": "link",
-    "title": "パンの赤ちゃん",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/2d/651872_0FMCj.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_4DZpt.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月4日 / 市川晴華 / ファーマンりき",
-    "link": "https://bgm.tv/subject/651872"
+    "description": "2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
+    "link": "https://bgm.tv/subject/454083"
   },
   {
-    "id": "631018",
+    "id": "495291",
     "type": "link",
-    "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/a8/631018_fZSHz.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "再见，拉拉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月4日 / まついひとゆき / 水埜なつ・三沢ケイ（「COMICポラリス」連載／フレックスコミックス刊） / 八尋裕子",
-    "link": "https://bgm.tv/subject/631018"
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": "https://bgm.tv/subject/495291"
   },
   {
-    "id": "621843",
+    "id": "501963",
     "type": "link",
-    "title": "岩元前辈的推荐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a7/0a/621843_D77cV.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月4日 / 川瀬敏文 / 椎橋寛（集英社「ウルトラジャンプ」連載） / 中嶋敦子",
-    "link": "https://bgm.tv/subject/621843"
+    "rating": "8.1",
+    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
   },
   {
-    "id": "602733",
+    "id": "577191",
     "type": "link",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "航海王 女英雄们的故事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_mjqET.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月4日 / 森下柊聖（後藤圭二） / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": "https://bgm.tv/subject/602733"
+    "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
+    "link": "https://bgm.tv/subject/577191"
   },
   {
-    "id": "552533",
+    "id": "583862",
     "type": "link",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月4日 / Abel Gongora / トマトスープ「天幕のジャードゥーガル」（秋田書店） / 吉田健一",
-    "link": "https://bgm.tv/subject/552533"
+    "description": "2026年7月5日",
+    "link": "https://bgm.tv/subject/583862"
+  },
+  {
+    "id": "595106",
+    "type": "link",
+    "title": "Let's Go 怪奇组",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_kn3W3.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
+    "link": "https://bgm.tv/subject/595106"
+  },
+  {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
+    "id": "615835",
+    "type": "link",
+    "title": "炒翻天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_1zist.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
+    "link": "https://bgm.tv/subject/615835"
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
+    "link": "https://bgm.tv/subject/633354"
+  },
+  {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": "https://bgm.tv/subject/638497"
   }
 ]

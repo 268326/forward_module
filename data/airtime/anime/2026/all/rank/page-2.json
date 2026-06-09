@@ -1,5 +1,21 @@
 [
   {
+    "id": "312522",
+    "type": "tmdb",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "link": null,
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "274622",
     "type": "tmdb",
     "title": "加油吧！中村君！！",
@@ -34,17 +50,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "544628",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第4幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/26/544628_QKSKi.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "3话 /  2026年4月10日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544628"
-  },
-  {
     "id": "616383",
     "type": "link",
     "title": "《新世纪福音战士》30周年纪念特别放映",
@@ -54,6 +59,17 @@
     "rating": "7.1",
     "description": "1话 /  2026年2月21日 / 浅野直之",
     "link": "https://bgm.tv/subject/616383"
+  },
+  {
+    "id": "544628",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第4幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/26/544628_QKSKi.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "3话 /  2026年4月10日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544628"
   },
   {
     "id": "288551",
@@ -67,22 +83,6 @@
     "link": null,
     "tmdb_id": "288551",
     "tmdb_site_id": "tv/288551",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "276393",
-    "type": "tmdb",
-    "title": "现在多闻君是哪一面!?",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/d6/498791_26Yp3.jpg",
-    "releaseDate": "2026-01-03",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年1月3日 / 永岡智佳 / 師走ゆき（白泉社「花とゆめ」連載） / 伊東葉子",
-    "link": null,
-    "tmdb_id": "276393",
-    "tmdb_site_id": "tv/276393",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -104,15 +104,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "563256",
-    "type": "link",
-    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "anime",
+    "id": "276393",
+    "type": "tmdb",
+    "title": "现在多闻君是哪一面!?",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/d6/498791_26Yp3.jpg",
+    "releaseDate": "2026-01-03",
+    "mediaType": "tv",
     "rating": "7.0",
-    "description": "1话 /  2026年5月8日",
-    "link": "https://bgm.tv/subject/563256"
+    "description": "13话 /  2026年1月3日 / 永岡智佳 / 師走ゆき（白泉社「花とゆめ」連載） / 伊東葉子",
+    "link": null,
+    "tmdb_id": "276393",
+    "tmdb_site_id": "tv/276393",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "297438",
@@ -131,6 +136,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "563256",
+    "type": "link",
+    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年5月8日",
+    "link": "https://bgm.tv/subject/563256"
+  },
+  {
     "id": "541814",
     "type": "link",
     "title": "偶像大师 百万现场！～终有一天，立于中央～",
@@ -140,6 +156,17 @@
     "rating": "7.0",
     "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
     "link": "https://bgm.tv/subject/541814"
+  },
+  {
+    "id": "544627",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第3幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "3话 /  2026年3月6日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544627"
   },
   {
     "id": "260463",
@@ -185,33 +212,6 @@
     "link": "https://bgm.tv/subject/217071"
   },
   {
-    "id": "544627",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第3幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "3话 /  2026年3月6日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544627"
-  },
-  {
-    "id": "312474",
-    "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
-    "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
@@ -237,6 +237,22 @@
     "rating": "6.8",
     "description": "52话 /  2026年2月23日 / 李振锋、王建鑫 / 耳根",
     "link": "https://bgm.tv/subject/630676"
+  },
+  {
+    "id": "312474",
+    "type": "tmdb",
+    "title": "日本三国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "link": null,
+    "tmdb_id": "312474",
+    "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "515869",
@@ -310,22 +326,6 @@
     "link": null,
     "tmdb_id": "295357",
     "tmdb_site_id": "tv/295357",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "196950",
-    "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
-    "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

@@ -1,5 +1,16 @@
 [
   {
+    "id": "551576",
+    "type": "link",
+    "title": "鬼泣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_4aQov.jpg",
+    "releaseDate": "2026-05-12",
+    "mediaType": "anime",
+    "rating": "3.3",
+    "description": "8话 /  2026年5月12日 / Adi Shankar",
+    "link": "https://bgm.tv/subject/551576"
+  },
+  {
     "id": "624869",
     "type": "link",
     "title": "低危营地生存秀 第五季",
@@ -28,7 +39,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/8TECBbrdkXpHorCS4p9Z5xw96Ag.jpg",
     "releaseDate": "2026-05-27",
     "mediaType": "tv",
-    "rating": "8.7",
+    "rating": "8.4",
     "description": "好友野猪惹上黑帮麻烦，零与伙伴们团结展开营救，同时还得勉力应对各自的生活。",
     "link": null,
     "tmdb_id": "304597",
@@ -65,7 +76,7 @@
     "id": "229858",
     "type": "tmdb",
     "title": "Fate/strange Fake",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_CNG0F.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_84ZQs.jpg",
     "releaseDate": "2026-01-03",
     "mediaType": "tv",
     "rating": "7.3",
@@ -260,19 +271,8 @@
     "posterPath": "/img/no_icon_subject.png",
     "releaseDate": "2026-02-27",
     "mediaType": "anime",
-    "rating": "4.7",
+    "rating": "4.8",
     "description": "2话 /  2026年2月27日",
     "link": "https://bgm.tv/subject/610629"
-  },
-  {
-    "id": "595932",
-    "type": "link",
-    "title": "La veta del diablo",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/95/bc/595932_p2nP3.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年 / German Acuña",
-    "link": "https://bgm.tv/subject/595932"
   }
 ]

@@ -168,7 +168,7 @@
     "id": "632524",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- ファイナル公演",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6b/77/632524_ESPjS.jpg",
     "releaseDate": "2026-11-07",
     "mediaType": "real",
     "rating": "",
@@ -198,17 +198,6 @@
     "link": "https://bgm.tv/subject/657992"
   },
   {
-    "id": "522524",
-    "type": "link",
-    "title": "哥斯拉-0.0",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/e7/522524_rsS9C.jpg",
-    "releaseDate": "2026-11-03",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年11月3日 / 山崎貴",
-    "link": "https://bgm.tv/subject/522524"
-  },
-  {
     "id": "646304",
     "type": "link",
     "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
@@ -218,6 +207,17 @@
     "rating": "",
     "description": "2026-11-03 / Diamond Dust",
     "link": "https://bgm.tv/subject/646304"
+  },
+  {
+    "id": "522524",
+    "type": "link",
+    "title": "哥斯拉-0.0",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3c/e7/522524_rsS9C.jpg",
+    "releaseDate": "2026-11-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年11月3日 / 山崎貴",
+    "link": "https://bgm.tv/subject/522524"
   },
   {
     "id": "633242",

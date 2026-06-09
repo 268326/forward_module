@@ -1,5 +1,27 @@
 [
   {
+    "id": "541822",
+    "type": "link",
+    "title": "夜魔侠：重生 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
+    "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "658611",
+    "type": "link",
+    "title": "人生复本 第二季",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-08-28",
+    "link": "https://bgm.tv/subject/658611"
+  },
+  {
     "id": "610856",
     "type": "link",
     "title": "DARK13 踊るゾンビ学校",
@@ -38,6 +60,24 @@
     "rating": "",
     "description": "6话 /  2026-03-20",
     "link": "https://bgm.tv/subject/636547"
+  },
+  {
+    "id": "295532",
+    "type": "tmdb",
+    "title": "致英格兰",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "虽然英格兰曾经推动现代足球运动的诞生，但他们自己的球队已经陷入失利的泥淖，一度创下最差罚球记录。主教练加雷斯·索斯盖特（约瑟夫·费因斯 饰）知道，他需要正视自己职业生涯留下的阴影，也需要破除球队的点球魔咒，在带领“三狮军团”重写神话，重返辉煌的巅峰。",
+    "link": null,
+    "tmdb_id": "295532",
+    "tmdb_site_id": "tv/295532",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "624934",
@@ -204,7 +244,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  March 27, 2026 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
+    "description": "10话 /  2026-03-27 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
     "link": "https://bgm.tv/subject/637701"
   },
   {
@@ -230,17 +270,17 @@
     "link": "https://bgm.tv/subject/547096"
   },
   {
-    "id": "314752",
+    "id": "324850",
     "type": "tmdb",
-    "title": "Den giftige tvivl",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2d9Y0KlP6mBFUsQHfiEM9mWxNCq.jpg",
+    "title": "Gift som aldrig før",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eNc3INKZBy5wCOLhO9pqc2lOlgd.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "10.0",
-    "description": "2026-04-12 / 平野俊一、加藤尚樹、伊藤弘晃 / 金沢知樹 / 堤真一",
+    "rating": "0.0",
+    "description": "10话 /  2026-04-12 / 平野俊一、加藤尚樹、伊藤弘晃 / 金沢知樹 / 堤真一",
     "link": null,
-    "tmdb_id": "314752",
-    "tmdb_site_id": "tv/314752",
+    "tmdb_id": "324850",
+    "tmdb_site_id": "tv/324850",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "DK"
@@ -257,51 +297,5 @@
     "rating": "",
     "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
     "link": "https://bgm.tv/subject/461696"
-  },
-  {
-    "id": "43017",
-    "type": "tmdb",
-    "title": "GTO",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/02/ba/645891_i8umi.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "2026-07-20 / 中島悟 / 遊川和彦 / 反町隆史",
-    "link": null,
-    "tmdb_id": "43017",
-    "tmdb_site_id": "tv/43017",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "644090",
-    "type": "link",
-    "title": "Guilty Kiss Musical Performance 漆黑的Wanted Ghost",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/14/644090_jfj8F.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "4话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
-    "link": "https://bgm.tv/subject/644090"
-  },
-  {
-    "id": "224377",
-    "type": "tmdb",
-    "title": "哈利波特与魔法石",
-    "posterPath": "https://image.tmdb.org/t/p/w500/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
-    "releaseDate": "2026-12-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "孤儿哈利·波特在11岁生日那天，收到一封来自霍格沃茨魔法学校的入学通知书，才得知自己是著名的“那个活下来的男孩”——曾幸存于黑魔头伏地魔的致命袭击。踏入霍格沃茨后，他结识了忠诚温暖的罗恩·韦斯莱和聪慧机警的赫敏·格兰杰，三人成为坚不可摧的朋友，也共同面对前所未有的挑战。\n\n随着故事推进，哈利渐渐感受到自己在魔法界的特殊地位——不仅是偶然，更是一种责任。霍格沃茨的师资阵容星光熠熠：校长邓布利多、神秘严厉的斯内普教授、坚毅的麦格教授、忠诚的卡鲁斯·海格，以及神秘幽默的魁若教授、阴险的监护人菲尔奇等人各具魅力，共同构筑了一个生动又复杂的魔法世界。",
-    "link": null,
-    "tmdb_id": "224377",
-    "tmdb_site_id": "tv/224377",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]
