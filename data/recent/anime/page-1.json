@@ -16,6 +16,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "571784",
+    "type": "link",
+    "title": "躲在超市后门抽烟的两人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年7月 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
+    "link": "https://bgm.tv/subject/571784"
+  },
+  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 丧失篇",
@@ -30,24 +41,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "312522",
@@ -258,6 +251,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "209867",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "285818",
     "type": "tmdb",
     "title": "迦楠大人的白给是恶魔级",
@@ -274,17 +283,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "209867",
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
+  },
+  {
+    "id": "278043",
     "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
-    "tmdb_id": "209867",
-    "tmdb_site_id": "tv/209867",
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -306,31 +326,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043",
-    "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "353181",
+    "id": "508004",
     "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
     "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
   },
   {
     "id": "305329",
@@ -349,30 +353,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
-  },
-  {
-    "id": "284447",
+    "id": "315816",
     "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
+    "rating": "6.0",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
     "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
