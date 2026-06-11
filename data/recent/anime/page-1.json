@@ -1,5 +1,16 @@
 [
   {
+    "id": "571784",
+    "type": "link",
+    "title": "躲在超市后门抽烟的两人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年7月 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
+    "link": "https://bgm.tv/subject/571784"
+  },
+  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -14,24 +25,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "65942",
@@ -98,22 +91,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "245842",
-    "type": "tmdb",
-    "title": "杖与剑的魔剑谭 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
-    "link": null,
-    "tmdb_id": "245842",
-    "tmdb_site_id": "tv/245842/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "293697",
     "type": "tmdb",
     "title": "想结束这场“我爱你”的游戏",
@@ -126,6 +103,22 @@
     "tmdb_id": "293697",
     "tmdb_site_id": "tv/293697",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "245842",
+    "type": "tmdb",
+    "title": "杖与剑的魔剑谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
+    "link": null,
+    "tmdb_id": "245842",
+    "tmdb_site_id": "tv/245842/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -344,22 +337,6 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "305329",
-    "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
-    "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "315816",
     "type": "tmdb",
     "title": "茉莉花酱的好感度正在崩坏",
@@ -376,5 +353,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
