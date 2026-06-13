@@ -17,7 +17,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/LFRP7lS5KF2rzzzOawIFO4LN22.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "8.0",
     "description": "春日佑马与长谷川树在社群爆红，被视为理想的同性情侣。为了让更多人理解同志伴侣的生活，佑马答应接受纪录片拍摄，然而，在开拍前，他们其实已经分手。为了完成拍摄，佑马说服树继续扮演恩爱恋人，镜头捕捉到的，是真正的幸福？或是精心编排的谎言？一个想成为完美伴侣的人，另一个被理想关系压得喘不过气的人，再加上浑然未知真相的导演，这100天的纪录片，究竟是分手的倒数计时？还是重新开始的起点？他们能诚实面对彼此真正的心？",
     "link": null,
     "tmdb_id": "319617",
@@ -97,7 +97,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.8",
+    "rating": "8.9",
     "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
     "link": null,
     "tmdb_id": "278573",
@@ -167,15 +167,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "658883",
-    "type": "link",
+    "id": "325064",
+    "type": "tmdb",
     "title": "35歳、今さら恋とかありえない",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3f/53/658883_DxLGs.jpg",
     "releaseDate": "2026-07-06",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月6日 / 奈良さわ / 石黒英雄、入来茉里",
-    "link": "https://bgm.tv/subject/658883"
+    "link": null,
+    "tmdb_id": "325064",
+    "tmdb_site_id": "tv/325064",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "617492",
@@ -187,6 +194,17 @@
     "rating": "",
     "description": "2026年3月6日 / 大山晃一郎 / 長野凌大（原因は自分にある。）",
     "link": "https://bgm.tv/subject/617492"
+  },
+  {
+    "id": "659173",
+    "type": "link",
+    "title": "4アウト ─もう一度、プレイボール─",
+    "posterPath": null,
+    "releaseDate": "2026-11-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年11月6日 / 相葉雅紀",
+    "link": "https://bgm.tv/subject/659173"
   },
   {
     "id": "305815",
@@ -314,23 +332,5 @@
     "rating": "",
     "description": "2话 /  2026年3月21日 / るか(遠藤瑠香)、りえ(藤城リエ)、みき(未来みき)、みほ(天音みほ)、かな(星咲花那)、ななせ(松岡ななせ)、えり(愛野えり)、れみ(美谷玲実)、茜屋日海夏、芹澤優、久保田未夢、山北早紀、澁谷梓希、若井友希、牧野由依、渡部優衣、真田アサミ、斎賀みつき、赤﨑千夏、佐藤あずさ",
     "link": "https://bgm.tv/subject/596942"
-  },
-  {
-    "id": "307750",
-    "type": "tmdb",
-    "title": "秋叶原迷踪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wXMhws88fWU1ExPlw5SvubZBCWC.jpg",
-    "releaseDate": "2026-01-14",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事舞台发生在13年前，在东京秋叶原发生的6名少女离奇失踪案件“秋叶原神隐”，最终以悬案告终。曾被誉为天才创作者的新城大辉，为迎接一年一度的游戏展，宣布将以该事件为题材开发新作游戏《AKIBA LOST》。然而发表后不久，大辉便接到一通威胁电话：“停止游戏开发，否则悲剧将重演。”担任游戏参演者之一的大辉妹妹葵也被卷入事件，突然失踪。大辉被迫面临终极抉择：是完成游戏，还是守护妹妹与同伴？",
-    "link": null,
-    "tmdb_id": "307750",
-    "tmdb_site_id": "tv/307750",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

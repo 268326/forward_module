@@ -144,7 +144,7 @@
   {
     "id": "300112",
     "type": "tmdb",
-    "title": "バンドリ！ ゆめ∞みた",
+    "title": "BanG Dream! YUME∞MITA",
     "posterPath": "https://image.tmdb.org/t/p/w500/13CKWGOOoSvaarTkKDxbcJ3mfNB.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
@@ -227,6 +227,17 @@
     "link": "https://bgm.tv/subject/651837"
   },
   {
+    "id": "659438",
+    "type": "link",
+    "title": "Camp Snoopy Season 2",
+    "posterPath": null,
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月26日",
+    "link": "https://bgm.tv/subject/659438"
+  },
+  {
     "id": "308828",
     "type": "tmdb",
     "title": "乔巴的日常",
@@ -292,16 +303,5 @@
     "rating": "",
     "description": "1话 /  2026 / go-shu",
     "link": "https://bgm.tv/subject/636325"
-  },
-  {
-    "id": "655393",
-    "type": "link",
-    "title": "最后的春天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg",
-    "releaseDate": "2026-05-22",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年5月22日 / Mathilde Bédouet",
-    "link": "https://bgm.tv/subject/655393"
   }
 ]

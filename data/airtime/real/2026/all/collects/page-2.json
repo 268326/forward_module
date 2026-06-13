@@ -1,23 +1,5 @@
 [
   {
-    "id": "303405",
-    "type": "tmdb",
-    "title": "九条的大罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
-    "link": null,
-    "tmdb_id": "303405",
-    "tmdb_site_id": "tv/303405",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "304194",
     "type": "tmdb",
     "title": "重启",
@@ -29,6 +11,24 @@
     "link": null,
     "tmdb_id": "304194",
     "tmdb_site_id": "tv/304194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303405",
+    "type": "tmdb",
+    "title": "九条的大罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a4wmKvDSlSc0DgPUnrlkmP0tu6u.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "该剧改编自同名漫画，讲述九条间人（柳乐优弥 饰）是一名专门接手“半灰势力”、黑社会、前科犯等棘手委托案件的律师，被世人称为“恶德律师”。但他以法律为武器，即便面对道德上无法原谅的恶人，也坚持为其辩护。九条所坚持的“正义”究竟是什么？",
+    "link": null,
+    "tmdb_id": "303405",
+    "tmdb_site_id": "tv/303405",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -90,6 +90,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "276161",
+    "type": "tmdb",
+    "title": "铁拳教育",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "9.4",
+    "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
+    "link": null,
+    "tmdb_id": "276161",
+    "tmdb_site_id": "tv/276161",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "229891",
     "type": "tmdb",
     "title": "爱情怎么翻译？",
@@ -130,6 +148,17 @@
     "link": "https://bgm.tv/subject/601438"
   },
   {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.2",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
     "id": "289356",
     "type": "tmdb",
     "title": "北方谦三 水浒传",
@@ -146,50 +175,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "633271",
-    "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.2",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
-  },
-  {
-    "id": "614123",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
-    "releaseDate": "2026-05-05",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月5日",
-    "link": "https://bgm.tv/subject/614123"
-  },
-  {
-    "id": "625916",
-    "type": "link",
-    "title": "空中浩劫 第26季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
-    "releaseDate": "2026-01-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年1月20日",
-    "link": "https://bgm.tv/subject/625916"
-  },
-  {
-    "id": "544948",
-    "type": "link",
-    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
-    "link": "https://bgm.tv/subject/544948"
   },
   {
     "id": "307650",
@@ -210,22 +195,48 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "313635",
-    "type": "tmdb",
-    "title": "如龙 Powered by 日本统一",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
-    "releaseDate": "2026-02-10",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
-    "link": null,
-    "tmdb_id": "313635",
-    "tmdb_site_id": "tv/313635",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "614123",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
+  },
+  {
+    "id": "544948",
+    "type": "link",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
+    "id": "625916",
+    "type": "link",
+    "title": "空中浩劫 第26季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
+    "releaseDate": "2026-01-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026年1月20日",
+    "link": "https://bgm.tv/subject/625916"
   },
   {
     "id": "588065",
@@ -237,6 +248,39 @@
     "rating": "4.4",
     "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
     "link": "https://bgm.tv/subject/588065"
+  },
+  {
+    "id": "634222",
+    "type": "link",
+    "title": "真相捕捉 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
+    "link": "https://bgm.tv/subject/634222"
+  },
+  {
+    "id": "533266",
+    "type": "link",
+    "title": "宇宙巨人：希曼崛起",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
+    "releaseDate": "2026-06-05",
+    "mediaType": "real",
+    "rating": "5.7",
+    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
+    "link": "https://bgm.tv/subject/533266"
+  },
+  {
+    "id": "607932",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
   },
   {
     "id": "280632",
@@ -268,39 +312,17 @@
     "link": "https://bgm.tv/subject/511454"
   },
   {
-    "id": "634222",
-    "type": "link",
-    "title": "真相捕捉 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
-    "link": "https://bgm.tv/subject/634222"
-  },
-  {
-    "id": "621874",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
-  },
-  {
-    "id": "307682",
+    "id": "313635",
     "type": "tmdb",
-    "title": "冬日的什么呀，春日的什么呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "如龙 Powered by 日本统一",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
+    "releaseDate": "2026-02-10",
     "mediaType": "tv",
     "rating": "8.0",
-    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
+    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
     "link": null,
-    "tmdb_id": "307682",
-    "tmdb_site_id": "tv/307682",
+    "tmdb_id": "313635",
+    "tmdb_site_id": "tv/313635",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -317,27 +339,5 @@
     "rating": "",
     "description": "2话 /  2026年2月28日",
     "link": "https://bgm.tv/subject/587208"
-  },
-  {
-    "id": "609282",
-    "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
-  },
-  {
-    "id": "513985",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
   }
 ]

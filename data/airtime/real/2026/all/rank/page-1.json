@@ -57,7 +57,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
     "releaseDate": "2026-03-20",
     "mediaType": "real",
-    "rating": "7.5",
+    "rating": "7.6",
     "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
     "link": "https://bgm.tv/subject/636399"
   },
@@ -138,24 +138,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "220102",
-    "type": "tmdb",
-    "title": "暗影蜘蛛侠",
-    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
-    "releaseDate": "2026-05-27",
-    "mediaType": "tv",
-    "rating": "8.7",
-    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
-    "link": null,
-    "tmdb_id": "220102",
-    "tmdb_site_id": "tv/220102",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "623261",
     "type": "link",
     "title": "头号战队豪兽者 Polar Beginning",
@@ -178,13 +160,31 @@
     "link": "https://bgm.tv/subject/478191"
   },
   {
+    "id": "220102",
+    "type": "tmdb",
+    "title": "暗影蜘蛛侠",
+    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
+    "releaseDate": "2026-05-27",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
+    "link": null,
+    "tmdb_id": "220102",
+    "tmdb_site_id": "tv/220102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "507727",
     "type": "link",
     "title": "星球大战：曼达洛人与古古",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "real",
-    "rating": "6.2",
+    "rating": "6.3",
     "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
     "link": "https://bgm.tv/subject/507727"
   },
@@ -233,17 +233,6 @@
     "link": "https://bgm.tv/subject/494608"
   },
   {
-    "id": "405591",
-    "type": "link",
-    "title": "重返寂静岭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "real",
-    "rating": "2.9",
-    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
-    "link": "https://bgm.tv/subject/405591"
-  },
-  {
     "id": "306479",
     "type": "tmdb",
     "title": "PROJECT R.E.D.",
@@ -260,5 +249,16 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "405591",
+    "type": "link",
+    "title": "重返寂静岭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
+    "releaseDate": "2026-01-23",
+    "mediaType": "real",
+    "rating": "2.9",
+    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
+    "link": "https://bgm.tv/subject/405591"
   }
 ]

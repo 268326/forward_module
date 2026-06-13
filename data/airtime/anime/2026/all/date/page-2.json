@@ -1,5 +1,16 @@
 [
   {
+    "id": "655061",
+    "type": "link",
+    "title": "サレ妻は奪われたい",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年8月28日",
+    "link": "https://bgm.tv/subject/655061"
+  },
+  {
     "id": "334105",
     "type": "link",
     "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
@@ -33,6 +44,17 @@
     "link": "https://bgm.tv/subject/622412"
   },
   {
+    "id": "618793",
+    "type": "link",
+    "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/b5/618793_gvVzM.jpg",
+    "releaseDate": "2026-08-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年8月14日 / Cal Brunker",
+    "link": "https://bgm.tv/subject/618793"
+  },
+  {
     "id": "633836",
     "type": "link",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
@@ -58,7 +80,7 @@
     "id": "560379",
     "type": "link",
     "title": "大唐妖探",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/76/560379_1LVsw.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/76/560379_Db4c9.jpg",
     "releaseDate": "2026-08-08",
     "mediaType": "anime",
     "rating": "",
@@ -112,24 +134,13 @@
   {
     "id": "615446",
     "type": "link",
-    "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
+    "title": "电影蜡笔小新：奇奇怪怪！我的妖怪假期",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_44cYz.jpg",
     "releaseDate": "2026-07-31",
     "mediaType": "anime",
     "rating": "",
     "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
     "link": "https://bgm.tv/subject/615446"
-  },
-  {
-    "id": "618793",
-    "type": "link",
-    "title": "PAW Patrol: The Dino Movie",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/b5/618793_YSbXs.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月24日",
-    "link": "https://bgm.tv/subject/618793"
   },
   {
     "id": "610494",
@@ -143,6 +154,24 @@
     "link": "https://bgm.tv/subject/610494"
   },
   {
+    "id": "321553",
+    "type": "tmdb",
+    "title": "穿越时空成仙帝，系统迟到八万年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qvYNSY8ftTthfeSyVXU4rlLJYu4.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "仙帝赵英雄苦修数千年，卡在仙帝境无法破碎虚空。八万年未激活的最强修真系统突然上线，首个任务竟是抽八万年前欺辱他的气运之子张三屁股九九八十一下，奖励为破境关键 “鸿蒙道韵”。赵英雄回归青云宗，发现张三已成美艳失忆的宗门祖师，宗门衰败仅剩三女弟子，还遭嗜血门围攻。他覆灭嗜血门后完成任务，张三晋级金丹，自己也获鸿蒙道韵。系统坑人不断：猎捕活物不说明规则、发筑基体验卡坑他变筑基期，引来血冥渊、天机老人追杀。赵英雄靠仙帝智慧忽悠弟子、拖延时间，待神兽归来恢复实力反杀天机老人，收编鸿蒙仙府、天剑圣地，将青云宗打造成青云仙门。随着鸿蒙道韵增多，他发现重生、系统迟到、宗门衰败，皆源于八万年天道棋局，博弈才刚开启。",
+    "link": null,
+    "tmdb_id": "321553",
+    "tmdb_site_id": "tv/321553",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "623228",
     "type": "link",
     "title": "你与烟花与约定",
@@ -152,6 +181,17 @@
     "rating": "",
     "description": "2026年7月17日 / 鈴木慧 / 真戸香（小学館「ガガガ文庫」刊） / 渡辺裕二",
     "link": "https://bgm.tv/subject/623228"
+  },
+  {
+    "id": "595884",
+    "type": "link",
+    "title": "蜘蛛侠与他的神奇朋友们 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/2b/595884_0QYyv.jpg",
+    "releaseDate": "2026-07-13",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月13日",
+    "link": "https://bgm.tv/subject/595884"
   },
   {
     "id": "633711",
@@ -176,6 +216,17 @@
     "link": "https://bgm.tv/subject/545008"
   },
   {
+    "id": "587109",
+    "type": "link",
+    "title": "花织同学转生后还是想干架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "link": "https://bgm.tv/subject/587109"
+  },
+  {
     "id": "638185",
     "type": "link",
     "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
@@ -185,6 +236,17 @@
     "rating": "",
     "description": "2026年7月10日 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊）",
     "link": "https://bgm.tv/subject/638185"
+  },
+  {
+    "id": "624691",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/5c/624691_3u3s8.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "60话 /  2026年7月10日",
+    "link": "https://bgm.tv/subject/624691"
   },
   {
     "id": "571895",
@@ -207,67 +269,5 @@
     "rating": "",
     "description": "2026年7月10日",
     "link": "https://bgm.tv/subject/484677"
-  },
-  {
-    "id": "478223",
-    "type": "link",
-    "title": "三国第一部：争洛阳",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d1/2c/478223_rn4lv.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月10日 / 谢君伟",
-    "link": "https://bgm.tv/subject/478223"
-  },
-  {
-    "id": "276787",
-    "type": "link",
-    "title": "梅比乌斯之尘",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/46/276787_4oO0A.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月9日 / 岩崎太郎",
-    "link": "https://bgm.tv/subject/276787"
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "ようじょしぇんき2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日",
-    "link": "https://bgm.tv/subject/658254"
-  },
-  {
-    "id": "642935",
-    "type": "link",
-    "title": "魔女之谷的夜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9c/642935_BrWoW.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 宮崎吾朗、山下明彦",
-    "link": "https://bgm.tv/subject/642935"
-  },
-  {
-    "id": "297826",
-    "type": "tmdb",
-    "title": "盗掘王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月8日 / 우승욱(Woo Seung Wook) / 산지직송(SAN.G)・윤쓰(Yuns)(REDICE STUDIO) / 이현정(Lee Hyun Joung)",
-    "link": null,
-    "tmdb_id": "297826",
-    "tmdb_site_id": "tv/297826",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

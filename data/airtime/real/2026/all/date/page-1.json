@@ -198,15 +198,15 @@
     "link": "https://bgm.tv/subject/657992"
   },
   {
-    "id": "646304",
+    "id": "659173",
     "type": "link",
-    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "4アウト ─もう一度、プレイボール─",
+    "posterPath": null,
+    "releaseDate": "2026-11-06",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-11-03 / Diamond Dust",
-    "link": "https://bgm.tv/subject/646304"
+    "description": "2026年11月6日 / 相葉雅紀",
+    "link": "https://bgm.tv/subject/659173"
   },
   {
     "id": "522524",
@@ -218,6 +218,17 @@
     "rating": "",
     "description": "1话 /  2026年11月3日 / 山崎貴",
     "link": "https://bgm.tv/subject/522524"
+  },
+  {
+    "id": "646304",
+    "type": "link",
+    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-11-03 / Diamond Dust",
+    "link": "https://bgm.tv/subject/646304"
   },
   {
     "id": "633242",
@@ -256,16 +267,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "528731",
-    "type": "link",
-    "title": "泥面人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/bd/528731_n7ZiD.jpg",
-    "releaseDate": "2026-10-23",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
-    "link": "https://bgm.tv/subject/528731"
   }
 ]

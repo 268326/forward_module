@@ -1,5 +1,23 @@
 [
   {
+    "id": "307750",
+    "type": "tmdb",
+    "title": "秋叶原迷踪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wXMhws88fWU1ExPlw5SvubZBCWC.jpg",
+    "releaseDate": "2026-01-14",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事舞台发生在13年前，在东京秋叶原发生的6名少女离奇失踪案件“秋叶原神隐”，最终以悬案告终。曾被誉为天才创作者的新城大辉，为迎接一年一度的游戏展，宣布将以该事件为题材开发新作游戏《AKIBA LOST》。然而发表后不久，大辉便接到一通威胁电话：“停止游戏开发，否则悲剧将重演。”担任游戏参演者之一的大辉妹妹葵也被卷入事件，突然失踪。大辉被迫面临终极抉择：是完成游戏，还是守护妹妹与同伴？",
+    "link": null,
+    "tmdb_id": "307750",
+    "tmdb_site_id": "tv/307750",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "634114",
     "type": "link",
     "title": "山冈晃2026巡演",
@@ -11,15 +29,22 @@
     "link": "https://bgm.tv/subject/634114"
   },
   {
-    "id": "643652",
-    "type": "link",
+    "id": "321689",
+    "type": "tmdb",
     "title": "ALIUS -特定事象捜査ファイル-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/fc/643652_EWIMp.jpg",
     "releaseDate": "2026-07-01",
-    "mediaType": "real",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "6话 /  2026年7月 / 山本大奨 / 小島聡一郎 / 佐々木蔵之介",
-    "link": "https://bgm.tv/subject/643652"
+    "link": null,
+    "tmdb_id": "321689",
+    "tmdb_site_id": "tv/321689",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "642434",
@@ -51,7 +76,7 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026-07-10 / 蒼井翔太、青木陽菜、angela、内田真礼、岡咲美保、岸田教団&THE明星ロケッツ、東山奈央、harmoe、fripSide、MADKID、May'n、RAISE A SUILEN／石原夏織、伊藤美来、A3!、小倉唯、小野大輔、GRANRODEO、佐々木李子、鈴木このみ、TrySail、夏吉ゆうこ (かぐや from 超かぐや姫！)、前島亜美、MYTH & ROID／愛美、i☆Ris、ウマ娘 プリティーダービー、オーイシマサヨシ（大石昌良）、大西亜玖璃、スフィア、芹澤優 feat. MOTSU、CHiCO with HoneyWorks、仲村宗悟、HoneyWorks feat. ハコニワリリィ、ReoNa",
+    "description": "3话 /  2026-07-10 / 蒼井翔太、青木陽菜、angela、いきづらい部！、内田真礼、岡咲美保、岸田教団&THE明星ロケッツ、東山奈央、harmoe、fripSide、MADKID、May'n、RAISE A SUILEN／石原夏織、伊藤美来、A3!、小倉唯、小野大輔、GRANRODEO、佐々木李子、鈴木このみ、高橋李依 (TVアニメ｢Re:ゼロから始める異世界生活｣ エミリア役)、TrySail、夏吉ゆうこ (かぐや from 超かぐや姫！)、前島亜美、MYTH & ROID／アイドルマスター シャイニーカラーズ【イルミネーションスターズ】、愛美、i☆Ris、ウマ娘 プリティーダービー、オーイシマサヨシ（大石昌良）、大西亜玖璃、スフィア、芹澤優 feat. MOTSU、CHiCO with HoneyWorks、DOES、仲村宗悟、HoneyWorks feat. ハコニワリリィ、ReoNa",
     "link": "https://bgm.tv/subject/636896"
   },
   {
@@ -272,16 +297,5 @@
     "rating": "",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
-  },
-  {
-    "id": "528731",
-    "type": "link",
-    "title": "泥面人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/bd/528731_n7ZiD.jpg",
-    "releaseDate": "2026-10-23",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
-    "link": "https://bgm.tv/subject/528731"
   }
 ]

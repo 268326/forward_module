@@ -11,6 +11,28 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
+  },
+  {
+    "id": "428025",
+    "type": "link",
+    "title": "街头霸王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
+    "link": "https://bgm.tv/subject/428025"
+  },
+  {
     "id": "650384",
     "type": "link",
     "title": "わたしの知らない子どもたち",
@@ -38,17 +60,6 @@
       "TW"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "428025",
-    "type": "link",
-    "title": "街头霸王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
-    "link": "https://bgm.tv/subject/428025"
   },
   {
     "id": "213375",
@@ -102,26 +113,15 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "642227",
+    "id": "578392",
     "type": "link",
-    "title": "ママがもうこの世界にいなくても 私の命の日記",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
+    "title": "キリコのタクト～YELL～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/86/578392_78V2w.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
-    "link": "https://bgm.tv/subject/642227"
-  },
-  {
-    "id": "622250",
-    "type": "link",
-    "title": "时薪300日元的死神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
-    "link": "https://bgm.tv/subject/622250"
+    "description": "1话 /  2026年10月2日 / 鈴木京香",
+    "link": "https://bgm.tv/subject/578392"
   },
   {
     "id": "657525",
@@ -135,6 +135,50 @@
     "link": "https://bgm.tv/subject/657525"
   },
   {
+    "id": "642227",
+    "type": "link",
+    "title": "ママがもうこの世界にいなくても 私の命の日記",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
+    "link": "https://bgm.tv/subject/642227"
+  },
+  {
+    "id": "660124",
+    "type": "link",
+    "title": "本当にあった話（の話）",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/0e/660124_Haaee.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 水上恒司",
+    "link": "https://bgm.tv/subject/660124"
+  },
+  {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
+  },
+  {
+    "id": "658997",
+    "type": "link",
+    "title": "舞台『ブルーロック』5th STAGE ー新英雄大戦（ネオ・エゴイストリーグ）開幕ー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/48/658997_ru7XD.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-01 / 伊勢直弘 / 伊勢直弘",
+    "link": "https://bgm.tv/subject/658997"
+  },
+  {
     "id": "645791",
     "type": "link",
     "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
@@ -144,6 +188,17 @@
     "rating": "",
     "description": "2话 /  2026年9月26日",
     "link": "https://bgm.tv/subject/645791"
+  },
+  {
+    "id": "638983",
+    "type": "link",
+    "title": "藁にもすがる獣たち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
+    "link": "https://bgm.tv/subject/638983"
   },
   {
     "id": "600005",
@@ -168,28 +223,6 @@
     "link": "https://bgm.tv/subject/633558"
   },
   {
-    "id": "638983",
-    "type": "link",
-    "title": "藁にもすがる獣たち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
-    "link": "https://bgm.tv/subject/638983"
-  },
-  {
-    "id": "632522",
-    "type": "link",
-    "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
-    "releaseDate": "2026-09-22",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年9月22日",
-    "link": "https://bgm.tv/subject/632522"
-  },
-  {
     "id": "639664",
     "type": "link",
     "title": "Morfonica LIVE「Movement」",
@@ -201,15 +234,15 @@
     "link": "https://bgm.tv/subject/639664"
   },
   {
-    "id": "640614",
+    "id": "632522",
     "type": "link",
-    "title": "学园偶像音乐剧 2026年公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/31/640614_tdQ7n.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
+    "releaseDate": "2026-09-22",
     "mediaType": "real",
     "rating": "",
-    "description": "13话 /  2026-09-19 / 岸本功喜 / 岸本功喜 / 堀内まり菜、浅井七海、杏ジュリア、清水理子、由良朱合、宮本佳林、安本彩花／南野巴那、仲村悠菜／及川結依、井上音生、村山結香、岡村さやか、蒼乃夕妃",
-    "link": "https://bgm.tv/subject/640614"
+    "description": "2话 /  2026年9月22日",
+    "link": "https://bgm.tv/subject/632522"
   },
   {
     "id": "628086",
@@ -234,47 +267,14 @@
     "link": "https://bgm.tv/subject/647204"
   },
   {
-    "id": "526932",
+    "id": "640614",
     "type": "link",
-    "title": "踊る大捜査線 N.E.W.",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/84/526932_BURnz.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
-    "link": "https://bgm.tv/subject/526932"
-  },
-  {
-    "id": "658184",
-    "type": "link",
-    "title": "ペコポン侵略ミュージカル『ケロロ軍曹』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/16/658184_8Miyn.jpg",
+    "title": "学园偶像音乐剧 2026年公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/31/640614_tdQ7n.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-18 / 川尻恵太（SUGARBOY） / 川尻恵太（SUGARBOY）",
-    "link": "https://bgm.tv/subject/658184"
-  },
-  {
-    "id": "580127",
-    "type": "link",
-    "title": "生化危机：爆发夜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_14t34.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams、Zach Cherry、Kali Reis、Paul Walter Hauser",
-    "link": "https://bgm.tv/subject/580127"
-  },
-  {
-    "id": "644128",
-    "type": "link",
-    "title": "Imy 1st One-man Live『Epheria』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/89/644128_B445y.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-13 / Imy",
-    "link": "https://bgm.tv/subject/644128"
+    "description": "13话 /  2026-09-19 / 岸本功喜 / 岸本功喜 / 堀内まり菜、浅井七海、杏ジュリア、清水理子、由良朱合、宮本佳林、安本彩花／南野巴那、仲村悠菜／及川結依、井上音生、村山結香、岡村さやか、蒼乃夕妃",
+    "link": "https://bgm.tv/subject/640614"
   }
 ]

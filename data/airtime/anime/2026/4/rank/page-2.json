@@ -1,5 +1,16 @@
 [
   {
+    "id": "505401",
+    "type": "link",
+    "title": "无敌少侠 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
+    "releaseDate": "2026-03-18",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
+    "link": "https://bgm.tv/subject/505401"
+  },
+  {
     "id": "312522",
     "type": "tmdb",
     "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
@@ -16,20 +27,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "274622",
-    "type": "tmdb",
-    "title": "加油吧！中村君！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
+    "id": "586102",
+    "type": "link",
+    "title": "银河特急 Milky✩Subway 各站停车前往剧场",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_OZM7q.jpg",
+    "releaseDate": "2026-02-06",
+    "mediaType": "anime",
     "rating": "7.2",
-    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
-    "link": null,
-    "tmdb_id": "274622",
-    "tmdb_site_id": "tv/274622",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "description": "1话 /  2026年2月6日 / 亀山陽平 / 亀山陽平 / 亀山陽平",
+    "link": "https://bgm.tv/subject/586102"
   },
   {
     "id": "312822",
@@ -88,22 +94,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "60761",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
-    "link": null,
-    "tmdb_id": "60761",
-    "tmdb_site_id": "tv/60761/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "276393",
     "type": "tmdb",
     "title": "现在多闻君是哪一面!?",
@@ -136,6 +126,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "60761",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
+    "link": null,
+    "tmdb_id": "60761",
+    "tmdb_site_id": "tv/60761/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "563256",
     "type": "link",
     "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
@@ -145,28 +151,6 @@
     "rating": "7.0",
     "description": "1话 /  2026年5月8日",
     "link": "https://bgm.tv/subject/563256"
-  },
-  {
-    "id": "541814",
-    "type": "link",
-    "title": "偶像大师 百万现场！～终有一天，立于中央～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
-    "releaseDate": "2026-03-27",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
-    "link": "https://bgm.tv/subject/541814"
-  },
-  {
-    "id": "544627",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第3幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "3话 /  2026年3月6日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544627"
   },
   {
     "id": "260463",
@@ -183,6 +167,28 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "544627",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第3幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "3话 /  2026年3月6日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544627"
+  },
+  {
+    "id": "541814",
+    "type": "link",
+    "title": "偶像大师 百万现场！～终有一天，立于中央～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
+    "releaseDate": "2026-03-27",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
+    "link": "https://bgm.tv/subject/541814"
   },
   {
     "id": "91768",
@@ -239,6 +245,17 @@
     "link": "https://bgm.tv/subject/630676"
   },
   {
+    "id": "515869",
+    "type": "link",
+    "title": "剧场版 我心里危险的东西",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
+    "releaseDate": "2026-02-13",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
+    "link": "https://bgm.tv/subject/515869"
+  },
+  {
     "id": "312474",
     "type": "tmdb",
     "title": "日本三国",
@@ -253,17 +270,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "515869",
-    "type": "link",
-    "title": "剧场版 我心里危险的东西",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg",
-    "releaseDate": "2026-02-13",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "1话 /  2026年2月13日 / 陳達理 / 桜井のりお（秋田書店「マンガクロス」連載） / 勝又聖人",
-    "link": "https://bgm.tv/subject/515869"
   },
   {
     "id": "651692",
@@ -310,22 +316,6 @@
     "link": null,
     "tmdb_id": "278271",
     "tmdb_site_id": "tv/278271",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "295357",
-    "type": "tmdb",
-    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/ae/454438_Q43mf.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年4月10日 / 前田洋志 / 武論尊・原哲夫 / 久恒直樹",
-    "link": null,
-    "tmdb_id": "295357",
-    "tmdb_site_id": "tv/295357",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

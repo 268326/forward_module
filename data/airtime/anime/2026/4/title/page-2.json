@@ -1,5 +1,16 @@
 [
   {
+    "id": "655393",
+    "type": "link",
+    "title": "最后的春天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/94/76/655393_nNqnv.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年5月22日 / Mathilde Bédouet",
+    "link": "https://bgm.tv/subject/655393"
+  },
+  {
     "id": "551576",
     "type": "link",
     "title": "鬼泣 第二季",
@@ -31,6 +42,24 @@
     "rating": "7.2",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": "https://bgm.tv/subject/508004"
+  },
+  {
+    "id": "204135",
+    "type": "tmdb",
+    "title": "龙击者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+    "releaseDate": "2026-06-06",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "在一个体育与魔法相结合的世界里，农家男孩 Key 发现了自己超强的天赋，并得知自己可能是传说中的龙击者。",
+    "link": null,
+    "tmdb_id": "204135",
+    "tmdb_site_id": "tv/204135",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "304597",
@@ -205,7 +234,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/5c/525516_Y3koK.jpg",
     "releaseDate": "2026-03-06",
     "mediaType": "anime",
-    "rating": "6.1",
+    "rating": "6.0",
     "description": "1话 /  2026年3月6日 / Daniel Chong",
     "link": "https://bgm.tv/subject/525516"
   },
@@ -232,6 +261,17 @@
     "link": "https://bgm.tv/subject/505401"
   },
   {
+    "id": "659124",
+    "type": "link",
+    "title": "I’d Rather Be a Concorde",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/5d/659124_E01Tj.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026（Annecy Festival） / Javier Fabregas",
+    "link": "https://bgm.tv/subject/659124"
+  },
+  {
     "id": "561639",
     "type": "link",
     "title": "我已不在",
@@ -241,38 +281,5 @@
     "rating": "",
     "description": "2026年 / Nawojka Wierzbowska",
     "link": "https://bgm.tv/subject/561639"
-  },
-  {
-    "id": "643061",
-    "type": "link",
-    "title": "小猫凯文",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/e8/643061_FEiYz.jpg",
-    "releaseDate": "2026-04-20",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "8话 /  2026年4月20日",
-    "link": "https://bgm.tv/subject/643061"
-  },
-  {
-    "id": "489223",
-    "type": "link",
-    "title": "KILLTUBE",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f5/37/489223_B3Jf3.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年春（目标） / 栗林和明 / しまぐちニケ",
-    "link": "https://bgm.tv/subject/489223"
-  },
-  {
-    "id": "610629",
-    "type": "link",
-    "title": "L'amour fou de l'automate",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-02-27",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "2话 /  2026年2月27日",
-    "link": "https://bgm.tv/subject/610629"
   }
 ]

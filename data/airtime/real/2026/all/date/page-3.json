@@ -1,5 +1,60 @@
 [
   {
+    "id": "526932",
+    "type": "link",
+    "title": "踊る大捜査線 N.E.W.",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/84/526932_BURnz.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月18日 / 本広克行 / 君塚良一 / 織田裕二",
+    "link": "https://bgm.tv/subject/526932"
+  },
+  {
+    "id": "580127",
+    "type": "link",
+    "title": "生化危机：爆发夜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5b/580127_14t34.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams、Zach Cherry、Kali Reis、Paul Walter Hauser",
+    "link": "https://bgm.tv/subject/580127"
+  },
+  {
+    "id": "658184",
+    "type": "link",
+    "title": "ペコポン侵略ミュージカル『ケロロ軍曹』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/16/658184_8Miyn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-18 / 川尻恵太（SUGARBOY） / 川尻恵太（SUGARBOY）",
+    "link": "https://bgm.tv/subject/658184"
+  },
+  {
+    "id": "659418",
+    "type": "link",
+    "title": "さとこはいつも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/6d/659418_162T3.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年09月18日 / 沖田修一 / 沖田修一 / 有村架純、石田ひかり、姫野花春",
+    "link": "https://bgm.tv/subject/659418"
+  },
+  {
+    "id": "644128",
+    "type": "link",
+    "title": "Imy 1st One-man Live『Epheria』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/89/644128_B445y.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-13 / Imy",
+    "link": "https://bgm.tv/subject/644128"
+  },
+  {
     "id": "643997",
     "type": "link",
     "title": "milet Hall Tour 2026",
@@ -22,10 +77,21 @@
     "link": "https://bgm.tv/subject/649745"
   },
   {
+    "id": "633337",
+    "type": "link",
+    "title": "现在多闻君是哪一面！？ 舞台",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/45/633337_HXezG.jpg",
+    "releaseDate": "2026-09-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月11日 / 福澤侑 / 川尻恵太（SUGARBOY）",
+    "link": "https://bgm.tv/subject/633337"
+  },
+  {
     "id": "1244492",
     "type": "tmdb",
     "title": "蓦然回首",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/fe/612793_07J2X.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/fe/612793_hs928.jpg",
     "releaseDate": "2026-09-11",
     "mediaType": "movie",
     "rating": "",
@@ -58,6 +124,17 @@
     "rating": "",
     "description": "5话 /  2026年9月8日",
     "link": "https://bgm.tv/subject/641774"
+  },
+  {
+    "id": "659291",
+    "type": "link",
+    "title": "ミュージカル『刀剣乱舞』 ～月夜一縷～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/87/659291_idIqZ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-07 / 茅野イサム / 浅井さやか / 北園涼、大平峻也、松島勇之介、桜井一、水江建太、小越勇輝、明石陸、千葉哲也、北村圭吾",
+    "link": "https://bgm.tv/subject/659291"
   },
   {
     "id": "650415",
@@ -137,6 +214,17 @@
     "link": "https://bgm.tv/subject/658652"
   },
   {
+    "id": "627226",
+    "type": "link",
+    "title": "平行と垂直",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
+    "link": "https://bgm.tv/subject/627226"
+  },
+  {
     "id": "658611",
     "type": "link",
     "title": "人生复本 第二季",
@@ -170,17 +258,6 @@
     "link": "https://bgm.tv/subject/633756"
   },
   {
-    "id": "627226",
-    "type": "link",
-    "title": "平行と垂直",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
-    "link": "https://bgm.tv/subject/627226"
-  },
-  {
     "id": "639960",
     "type": "link",
     "title": "ANIME JAPAN FES 2026 “大阪夏の陣”",
@@ -190,82 +267,5 @@
     "rating": "",
     "description": "1话 /  2026-08-23 / 堀江美都子、森本英世、チャーリー・コーセイ、遠藤正明、山形ユキオ、速水けんたろう",
     "link": "https://bgm.tv/subject/639960"
-  },
-  {
-    "id": "583191",
-    "type": "link",
-    "title": "劇場版『TOKYO MER～走る緊急救命室～CAPITAL CRISIS』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/60/583191_otc9T.jpg",
-    "releaseDate": "2026-08-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月21日 / 松木彩 / 黒岩勉 / 鈴木亮平",
-    "link": "https://bgm.tv/subject/583191"
-  },
-  {
-    "id": "635371",
-    "type": "link",
-    "title": "グノーシア　ザ・ライブプレイングシアター",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c8/635371_WBKwB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-21 / 松崎史也 / 池永英介",
-    "link": "https://bgm.tv/subject/635371"
-  },
-  {
-    "id": "641261",
-    "type": "link",
-    "title": "IDOLiSH7  VISIBLIVE TOUR \"4WARD JOURNEY\"",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/98/e4/641261_Nkza5.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-21 / IDOLiSH7[七瀬陸(CV.小野賢章)/和泉一織(CV.増田俊樹)/二階堂大和(CV.白井悠介)/和泉三月(CV.代永翼)/四葉環(CV.KENN)/逢坂壮五(CV.阿部敦)/六弥ナギ(CV.江口拓也)]、TRIGGER[九条天(CV.斉藤壮馬)/八乙女楽(CV.羽多野渉)/十龍之介(CV.佐藤拓也)]、Re:vale[百(CV.保志総一朗)/千(CV.立花慎之介)]、ŹOOĻ[亥清悠(CV:広瀬裕也)/狗丸トウマ(CV:木村昴)/棗巳波(CV:西山宏太朗)/御堂虎於(CV:近藤隆)]",
-    "link": "https://bgm.tv/subject/641261"
-  },
-  {
-    "id": "617152",
-    "type": "link",
-    "title": "热舞巨星☆光之美少年 The Stage PARTY",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4a/61/617152_A0a7K.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-08-21 / ほさかよう / ほさかよう / 田村升吾、滝澤諒、森田桐矢、寺坂頼我、小辻庵、和合真一、平松來馬、TAISEI(G.U.M)、伊藤裕一、鳳翔大、安藤夢叶、梶田拓希、高橋祐理",
-    "link": "https://bgm.tv/subject/617152"
-  },
-  {
-    "id": "632520",
-    "type": "link",
-    "title": "学園アイドルマスター LIVE TOUR -標- 福井公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/58/6c/632520_555Hs.jpg",
-    "releaseDate": "2026-08-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年8月20日",
-    "link": "https://bgm.tv/subject/632520"
-  },
-  {
-    "id": "298360",
-    "type": "link",
-    "title": "绿灯军团",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/17/298360_aVU07.jpg",
-    "releaseDate": "2026-08-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026年8月16日 / James Hawes",
-    "link": "https://bgm.tv/subject/298360"
-  },
-  {
-    "id": "639959",
-    "type": "link",
-    "title": "スーパーアニソン魂2026 “夏の陣” ～THE LEGENDS～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/16/639959_6r8y2.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-08-16 / 堀江美都子、串田アキラ、影山ヒロノブ、尾藤イサオ、森本英世、山形ユキオ、速水けんたろう、浅岡雄也(FIELD OF VIEW)、清水咲斗子",
-    "link": "https://bgm.tv/subject/639959"
   }
 ]

@@ -82,7 +82,7 @@
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
     "rating": "8.1",
-    "description": "52话 /  2026年6月13日 / 王裕仁 / 忘语",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
     "link": "https://bgm.tv/subject/607915"
   },
   {
@@ -97,6 +97,22 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -150,22 +166,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "551918",
     "type": "link",
     "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
@@ -196,7 +196,7 @@
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_tZvht.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg",
     "releaseDate": "2026-04-10",
     "mediaType": "tv",
     "rating": "7.5",
@@ -215,7 +215,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
     "releaseDate": "2026-04-09",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
     "link": null,
     "tmdb_id": "291403",
@@ -236,20 +236,20 @@
     "link": "https://bgm.tv/subject/243430"
   },
   {
-    "id": "298026",
+    "id": "296286",
     "type": "tmdb",
-    "title": "放开那个女巫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
-    "releaseDate": "2026-03-02",
+    "title": "躲在超市后门抽烟的两人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
+    "releaseDate": "2026-07-09",
     "mediaType": "tv",
-    "rating": "8.1",
-    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "rating": "0.0",
+    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
     "link": null,
-    "tmdb_id": "298026",
-    "tmdb_site_id": "tv/298026",
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -268,6 +268,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "587454",
@@ -324,25 +342,19 @@
     "link": "https://bgm.tv/subject/508004"
   },
   {
-    "id": "505401",
-    "type": "link",
-    "title": "无敌少侠 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
-    "releaseDate": "2026-03-18",
-    "mediaType": "anime",
+    "id": "274622",
+    "type": "tmdb",
+    "title": "加油吧！中村君！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
     "rating": "7.2",
-    "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
-    "link": "https://bgm.tv/subject/505401"
-  },
-  {
-    "id": "586102",
-    "type": "link",
-    "title": "银河特急 Milky✩Subway 各站停车前往剧场",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_OZM7q.jpg",
-    "releaseDate": "2026-02-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "1话 /  2026年2月6日 / 亀山陽平 / 亀山陽平 / 亀山陽平",
-    "link": "https://bgm.tv/subject/586102"
+    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
+    "link": null,
+    "tmdb_id": "274622",
+    "tmdb_site_id": "tv/274622",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

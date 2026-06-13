@@ -1,5 +1,38 @@
 [
   {
+    "id": "643061",
+    "type": "link",
+    "title": "小猫凯文",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/e8/643061_FEiYz.jpg",
+    "releaseDate": "2026-04-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "8话 /  2026年4月20日",
+    "link": "https://bgm.tv/subject/643061"
+  },
+  {
+    "id": "489223",
+    "type": "link",
+    "title": "KILLTUBE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f5/37/489223_B3Jf3.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年春（目标） / 栗林和明 / しまぐちニケ",
+    "link": "https://bgm.tv/subject/489223"
+  },
+  {
+    "id": "610629",
+    "type": "link",
+    "title": "L'amour fou de l'automate",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-02-27",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "2话 /  2026年2月27日",
+    "link": "https://bgm.tv/subject/610629"
+  },
+  {
     "id": "595932",
     "type": "link",
     "title": "La veta del diablo",
@@ -13,12 +46,12 @@
   {
     "id": "644636",
     "type": "link",
-    "title": "紧身衣",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/3e/644636_2Kc4O.jpg",
+    "title": "钢铁男孩",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/3e/644636_yJUcz.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026-10-14(法国) / Louis Clichy",
+    "description": "2026-05-19(戛纳电影节) / 2026-10-14(法国) / Louis Clichy",
     "link": "https://bgm.tv/subject/644636"
   },
   {
@@ -82,6 +115,17 @@
     "link": "https://bgm.tv/subject/625144"
   },
   {
+    "id": "478149",
+    "type": "link",
+    "title": "迷失的露西",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/78/478149_ZBsfR.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026-05-19(戛纳电影节) / 2026-10-28(法国) / Olivier Clert / Michael Morpurgo",
+    "link": "https://bgm.tv/subject/478149"
+  },
+  {
     "id": "579787",
     "type": "link",
     "title": "LV999的村民",
@@ -91,6 +135,17 @@
     "rating": "",
     "description": "2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
     "link": "https://bgm.tv/subject/579787"
+  },
+  {
+    "id": "659182",
+    "type": "link",
+    "title": "迷雾之海的莉迪亚",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/45/659182_X7j5k.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026-02-01(加拿大) / Nancy Florence Savard、Emilie Rosas、Philippe Arseneau Bussières",
+    "link": "https://bgm.tv/subject/659182"
   },
   {
     "id": "295999",
@@ -109,13 +164,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "595884",
+    "type": "link",
+    "title": "蜘蛛侠与他的神奇朋友们 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/2b/595884_0QYyv.jpg",
+    "releaseDate": "2026-07-13",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月13日",
+    "link": "https://bgm.tv/subject/595884"
+  },
+  {
     "id": "290295",
     "type": "tmdb",
     "title": "寻爱交配季",
     "posterPath": "https://image.tmdb.org/t/p/w500/cEij3jggWnDM4jsdkazK2cuvjtt.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "tv",
-    "rating": "7.9",
+    "rating": "8.0",
     "description": "故事在动物世界开展，熊、浣熊、鹿、狐狸等角色依次登场，加上众多情欲满满的可爱森林生物，大伙一同探索爱情、性与关系，以及寻找伴侣和延续种族命脉的共通需求。",
     "link": null,
     "tmdb_id": "290295",
@@ -205,7 +271,7 @@
   {
     "id": "658869",
     "type": "link",
-    "title": "NAFCAオリジナルアニメ【ほくとと影マル 一巻「原画トレスにチャレンジしてみるワン」】",
+    "title": "NAFCAオリジナルアニメ【ほくとと影マル】",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/7a/658869_cI9C6.jpg",
     "releaseDate": "2026-06-08",
     "mediaType": "anime",
@@ -228,71 +294,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "620918",
-    "type": "link",
-    "title": "NEEDY GIRL OVERDOSE -OVERTURE-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/f0/620918_9DX09.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "1话 /  2026年3月6日",
-    "link": "https://bgm.tv/subject/620918"
-  },
-  {
-    "id": "647677",
-    "type": "link",
-    "title": "Negative Space",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026-03-31 / Ameya Ajay",
-    "link": "https://bgm.tv/subject/647677"
-  },
-  {
-    "id": "495292",
-    "type": "link",
-    "title": "Ninja Skooler",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/90/b7/495292_C9OzS.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年 / 宝井俊介 / KINEMA CITRUS／breccia / はみ",
-    "link": "https://bgm.tv/subject/495292"
-  },
-  {
-    "id": "623248",
-    "type": "link",
-    "title": "乐高幻影忍者：神龙崛起 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/b9/623248_FIcee.jpg",
-    "releaseDate": "2026-03-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "20话 /  2026年3月26日",
-    "link": "https://bgm.tv/subject/623248"
-  },
-  {
-    "id": "653666",
-    "type": "link",
-    "title": "numb numb",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7d/3d/653666_oh53y.jpg",
-    "releaseDate": "2026-05-20",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "1话 /  2026年5月20日 / 神谷雄貴 / syo5",
-    "link": "https://bgm.tv/subject/653666"
-  },
-  {
-    "id": "640931",
-    "type": "link",
-    "title": "海底小纵队在中国之东海救援",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/c7/640931_77IEQ.jpg",
-    "releaseDate": "2026-02-21",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年2月21日",
-    "link": "https://bgm.tv/subject/640931"
   }
 ]

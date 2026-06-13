@@ -1,5 +1,16 @@
 [
   {
+    "id": "528731",
+    "type": "link",
+    "title": "泥面人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/bd/528731_n7ZiD.jpg",
+    "releaseDate": "2026-10-23",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
+    "link": "https://bgm.tv/subject/528731"
+  },
+  {
     "id": "541822",
     "type": "link",
     "title": "夜魔侠：重生 第二季",
@@ -68,7 +79,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "6.5",
+    "rating": "5.7",
     "description": "虽然英格兰曾经推动现代足球运动的诞生，但他们自己的球队已经陷入失利的泥淖，一度创下最差罚球记录。主教练加雷斯·索斯盖特（约瑟夫·费因斯 饰）知道，他需要正视自己职业生涯留下的阴影，也需要破除球队的点球魔咒，在带领“三狮军团”重写神话，重返辉煌的巅峰。",
     "link": null,
     "tmdb_id": "295532",
@@ -286,16 +297,5 @@
       "DK"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "461696",
-    "type": "link",
-    "title": "好兆头 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
-    "releaseDate": "2026-05-13",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
-    "link": "https://bgm.tv/subject/461696"
   }
 ]
