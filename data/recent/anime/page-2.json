@@ -1,5 +1,27 @@
 [
   {
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
+  },
+  {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
+  },
+  {
     "id": "305329",
     "type": "tmdb",
     "title": "主播女孩重度依赖",
@@ -14,28 +36,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
   },
   {
     "id": "1575337",
@@ -54,6 +54,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "297438",
+    "type": "tmdb",
+    "title": "落语朱音",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_3TPMM.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年4月4日 / 渡辺歩 / 末永裕樹・馬上鷹将（集英社「週刊少年ジャンプ」連載） / 田中紀衣",
+    "link": null,
+    "tmdb_id": "297438",
+    "tmdb_site_id": "tv/297438",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
+    "link": "https://bgm.tv/subject/575559"
+  },
+  {
     "id": "309163",
     "type": "tmdb",
     "title": "没有辣妹会对阿宅温柔!?",
@@ -70,17 +97,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "297438",
+    "id": "65942",
     "type": "tmdb",
-    "title": "落语朱音",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg",
-    "releaseDate": "2026-04-04",
+    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
+    "releaseDate": "2024-10-02",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年4月4日 / 渡辺歩 / 末永裕樹・馬上鷹将（集英社「週刊少年ジャンプ」連載） / 田中紀衣",
+    "rating": "7.2",
+    "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
-    "tmdb_id": "297438",
-    "tmdb_site_id": "tv/297438",
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -102,20 +129,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
-    "releaseDate": "2024-10-02",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
   },
   {
     "id": "253476",
@@ -134,15 +156,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/w89h2R9vaLlF6smgRa4dG6RVE6Z.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "95479",
@@ -207,24 +236,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/w89h2R9vaLlF6smgRa4dG6RVE6Z.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
-    "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "65942",
@@ -307,6 +318,40 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
+    "releaseDate": "2020-07-08",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "13话 /  2020年7月8日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "300126",
     "type": "tmdb",
     "title": "欺诈游戏",
@@ -318,54 +363,6 @@
     "link": null,
     "tmdb_id": "300126",
     "tmdb_site_id": "tv/300126",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "316427",
-    "type": "tmdb",
-    "title": "淫狱团地",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fd/4c/621602_Lq3Q3.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "12话 /  2026年4月5日 / 所俊克 / 搾精研究所、漫画：丈山雄為 / 西本真吾",
-    "link": null,
-    "tmdb_id": "316427",
-    "tmdb_site_id": "tv/316427",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284568",
-    "type": "tmdb",
-    "title": "复制品的我也会谈恋爱。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
-    "link": null,
-    "tmdb_id": "284568",
-    "tmdb_site_id": "tv/284568",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "203737",
-    "type": "tmdb",
-    "title": "【我推的孩子】 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/95/517057_257ad.jpg",
-    "releaseDate": "2026-01-14",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "11话 /  2026年1月14日 / 平牧大輔 / 赤坂アカ×横槍メンゴ（集英社ヤングジャンプコミックス刊） / 平山寛菜",
-    "link": null,
-    "tmdb_id": "203737",
-    "tmdb_site_id": "tv/203737",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
