@@ -185,7 +185,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/7b/599171_9JGa4.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "5.0",
+    "rating": "4.9",
     "description": "2026年4月4日 / 星野真 / あてきち（アルファポリス刊） / 大川美穂子、松本淑恵",
     "link": null,
     "tmdb_id": "303460",
@@ -293,15 +293,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "622206",
-    "type": "link",
+    "id": "312949",
+    "type": "tmdb",
     "title": "尼古喵喵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mVaXYoSvcMWwbbJXKvkZTPdWRkR.jpg",
     "releaseDate": "2026-07-02",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": "https://bgm.tv/subject/622206"
+    "link": null,
+    "tmdb_id": "312949",
+    "tmdb_site_id": "tv/312949",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "198152",

@@ -210,15 +210,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "602733",
-    "type": "link",
+    "id": "312849",
+    "type": "tmdb",
     "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月4日 / 森下柊聖（後藤圭二） / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": "https://bgm.tv/subject/602733"
+    "link": null,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "85937",

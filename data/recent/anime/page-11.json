@@ -75,15 +75,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "538760",
-    "type": "link",
+    "id": "284029",
+    "type": "tmdb",
     "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yxk6gTbLKnENVzej1ER4mH6zfkB.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 西野理恵、倉員千晶",
-    "link": "https://bgm.tv/subject/538760"
+    "link": null,
+    "tmdb_id": "284029",
+    "tmdb_site_id": "tv/284029",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "274580",
