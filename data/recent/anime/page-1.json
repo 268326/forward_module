@@ -258,6 +258,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
+  },
+  {
     "id": "196285",
     "type": "tmdb",
     "title": "异世界悠闲农家 第二季",
@@ -272,17 +283,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "353181",
-    "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
   },
   {
     "id": "285818",
@@ -333,6 +333,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
+  },
+  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -360,21 +371,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "284447",
-    "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
-    "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

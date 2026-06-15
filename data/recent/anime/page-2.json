@@ -1,25 +1,30 @@
 [
   {
+    "id": "284447",
+    "type": "tmdb",
+    "title": "弱弱老师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
+    "link": null,
+    "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "451757",
     "type": "link",
     "title": "瑞克和莫蒂 第九季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
     "releaseDate": "2026-05-24",
     "mediaType": "anime",
-    "rating": "7.5",
+    "rating": "7.6",
     "description": "10话 /  2026年5月24日",
     "link": "https://bgm.tv/subject/451757"
-  },
-  {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "305329",
@@ -33,22 +38,6 @@
     "link": null,
     "tmdb_id": "305329",
     "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超时空辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -70,28 +59,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
-  },
-  {
-    "id": "309163",
+    "id": "1575337",
     "type": "tmdb",
-    "title": "没有辣妹会对阿宅温柔!?",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
+    "title": "超时空辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
     "link": null,
-    "tmdb_id": "309163",
-    "tmdb_site_id": "tv/309163",
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -113,6 +91,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/twbWzRpW1H6l4UAmG3mxu1OCTEh.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "94404",
     "type": "tmdb",
     "title": "异兽魔都 第二季",
@@ -129,6 +125,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
+    "link": "https://bgm.tv/subject/575559"
+  },
+  {
     "id": "501963",
     "type": "link",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -138,6 +145,22 @@
     "rating": "7.8",
     "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
     "link": "https://bgm.tv/subject/501963"
+  },
+  {
+    "id": "309163",
+    "type": "tmdb",
+    "title": "没有辣妹会对阿宅温柔!?",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
+    "link": null,
+    "tmdb_id": "309163",
+    "tmdb_site_id": "tv/309163",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "253476",
@@ -156,24 +179,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/w89h2R9vaLlF6smgRa4dG6RVE6Z.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
-    "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "95479",
     "type": "tmdb",
     "title": "咒术回战 死灭回游 前篇",
@@ -190,22 +195,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "154743",
-    "type": "tmdb",
-    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
-    "link": null,
-    "tmdb_id": "154743",
-    "tmdb_site_id": "tv/154743/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第三季 反击篇",
@@ -218,6 +207,22 @@
     "tmdb_id": "65942",
     "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "154743",
+    "type": "tmdb",
+    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
+    "link": null,
+    "tmdb_id": "154743",
+    "tmdb_site_id": "tv/154743/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -302,22 +307,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "237529",
-    "type": "tmdb",
-    "title": "金牌得主 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/08/548818_iLSG6.jpg",
-    "releaseDate": "2026-01-24",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "9话 /  2026年1月24日 / 山本靖貴 / つるまいかだ（講談社「アフタヌーン」連載） / 亀山千夏",
-    "link": null,
-    "tmdb_id": "237529",
-    "tmdb_site_id": "tv/237529/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "285574",
     "type": "tmdb",
     "title": "与你相恋到生命尽头",
@@ -334,6 +323,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "237529",
+    "type": "tmdb",
+    "title": "金牌得主 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/08/548818_iLSG6.jpg",
+    "releaseDate": "2026-01-24",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "9话 /  2026年1月24日 / 山本靖貴 / つるまいかだ（講談社「アフタヌーン」連載） / 亀山千夏",
+    "link": null,
+    "tmdb_id": "237529",
+    "tmdb_site_id": "tv/237529/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
