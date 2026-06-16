@@ -1,5 +1,23 @@
 [
   {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "284447",
     "type": "tmdb",
     "title": "弱弱老师",
@@ -16,17 +34,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
     "id": "305329",
     "type": "tmdb",
     "title": "主播女孩重度依赖",
@@ -38,54 +45,6 @@
     "link": null,
     "tmdb_id": "305329",
     "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "297438",
-    "type": "tmdb",
-    "title": "落语朱音",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年4月4日 / 渡辺歩 / 末永裕樹・馬上鷹将（集英社「週刊少年ジャンプ」連載） / 田中紀衣",
-    "link": null,
-    "tmdb_id": "297438",
-    "tmdb_site_id": "tv/297438",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超时空辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
-    "releaseDate": "2024-10-02",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -109,6 +68,65 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "8.1",
+    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
+  },
+  {
+    "id": "297438",
+    "type": "tmdb",
+    "title": "落语朱音",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年4月4日 / 渡辺歩 / 末永裕樹・馬上鷹将（集英社「週刊少年ジャンプ」連載） / 田中紀衣",
+    "link": null,
+    "tmdb_id": "297438",
+    "tmdb_site_id": "tv/297438",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
+    "releaseDate": "2024-10-02",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "1575337",
+    "type": "tmdb",
+    "title": "超时空辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
+    "link": null,
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "94404",
     "type": "tmdb",
     "title": "异兽魔都 第二季",
@@ -123,28 +141,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
-  },
-  {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
   },
   {
     "id": "309163",
@@ -163,6 +159,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "575559",
+    "type": "link",
+    "title": "一脸嫌弃表情的妹子给你看胖次R",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
+    "releaseDate": "2026-04-30",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
+    "link": "https://bgm.tv/subject/575559"
+  },
+  {
     "id": "253476",
     "type": "tmdb",
     "title": "异国日记",
@@ -174,22 +181,6 @@
     "link": null,
     "tmdb_id": "253476",
     "tmdb_site_id": "tv/253476",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "95479",
-    "type": "tmdb",
-    "title": "咒术回战 死灭回游 前篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg",
-    "releaseDate": "2026-01-08",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
-    "link": null,
-    "tmdb_id": "95479",
-    "tmdb_site_id": "tv/95479",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -211,18 +202,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "154743",
+    "id": "95479",
     "type": "tmdb",
-    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
-    "releaseDate": "2026-04-03",
+    "title": "咒术回战 死灭回游 前篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg",
+    "releaseDate": "2026-01-08",
     "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
+    "rating": "7.9",
+    "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
     "link": null,
-    "tmdb_id": "154743",
-    "tmdb_site_id": "tv/154743/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "95479",
+    "tmdb_site_id": "tv/95479",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -257,6 +248,40 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "154743",
+    "type": "tmdb",
+    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
+    "link": null,
+    "tmdb_id": "154743",
+    "tmdb_site_id": "tv/154743/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "229858",
@@ -307,22 +332,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "552533",
+    "type": "link",
+    "title": "穹庐下的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ「天幕のジャードゥーガル」（秋田書店） / 吉田健一",
+    "link": "https://bgm.tv/subject/552533"
   },
   {
     "id": "237529",
@@ -341,35 +359,14 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
-    "releaseDate": "2020-07-08",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "13话 /  2020年7月8日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "300126",
-    "type": "tmdb",
-    "title": "欺诈游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "24话 /  2026年4月6日 / 川野麻美 / 甲斐谷忍（集英社ヤングジャンプコミックスDIGITAL刊） / 土屋圭",
-    "link": null,
-    "tmdb_id": "300126",
-    "tmdb_site_id": "tv/300126",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "569116",
+    "type": "link",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "link": "https://bgm.tv/subject/569116"
   }
 ]
