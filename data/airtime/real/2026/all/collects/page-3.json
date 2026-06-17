@@ -1,38 +1,5 @@
 [
   {
-    "id": "513985",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
-  },
-  {
-    "id": "587208",
-    "type": "link",
-    "title": "学園アイドルマスター 初星音楽祭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/587208"
-  },
-  {
-    "id": "609282",
-    "type": "link",
-    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
-    "link": "https://bgm.tv/subject/609282"
-  },
-  {
     "id": "259837",
     "type": "tmdb",
     "title": "超能路人甲",
@@ -69,17 +36,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307652",
+    "id": "315494",
     "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "title": "再生 ～最后英雄～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "rating": "6.7",
+    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
     "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
+    "tmdb_id": "315494",
+    "tmdb_site_id": "tv/315494",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -87,22 +54,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "489598",
+    "type": "link",
+    "title": "帝王计划：怪兽遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
+    "link": "https://bgm.tv/subject/489598"
+  },
+  {
+    "id": "513985",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
   },
   {
     "id": "278882",
@@ -139,6 +110,28 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "587208",
+    "type": "link",
+    "title": "学園アイドルマスター 初星音楽祭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
+    "releaseDate": "2026-02-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/587208"
+  },
+  {
+    "id": "626794",
+    "type": "link",
+    "title": "月夜行路 -答案尽在名作之中-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
+    "link": "https://bgm.tv/subject/626794"
   },
   {
     "id": "307977",
@@ -199,31 +192,56 @@
     "link": "https://bgm.tv/subject/578285"
   },
   {
-    "id": "590729",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
-    "releaseDate": "2026-02-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月14日",
-    "link": "https://bgm.tv/subject/590729"
-  },
-  {
-    "id": "306528",
+    "id": "307652",
     "type": "tmdb",
-    "title": "副会长的主要工作",
-    "posterPath": "https://image.tmdb.org/t/p/w500/57Y40TQME1b8uk487LmhyAbhIXw.jpg",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "学生会室里常年只有两个人——会长灰屋银和副会长栗下泪。原本学生会有许多干部，但由于栗下泪把所有工作都完美处理，其他人干脆不再出现。她外表端庄、成绩优秀，是毫无瑕疵的优等生，唯独对会长不断伸出奇怪的亲昵与捉弄。伪装成淑女的外表下，却藏着只对会长失控的偏爱情绪。在密闭的学生会室里，一场“危险而可爱的偏爱喜剧”就此展开——。\n\n　　本剧改编自逆縞的同名原著漫画。",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
     "link": null,
-    "tmdb_id": "306528",
-    "tmdb_site_id": "tv/306528",
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313902",
+    "type": "tmdb",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "link": null,
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -242,6 +260,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "306528",
+    "type": "tmdb",
+    "title": "副会长的主要工作",
+    "posterPath": "https://image.tmdb.org/t/p/w500/57Y40TQME1b8uk487LmhyAbhIXw.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "学生会室里常年只有两个人——会长灰屋银和副会长栗下泪。原本学生会有许多干部，但由于栗下泪把所有工作都完美处理，其他人干脆不再出现。她外表端庄、成绩优秀，是毫无瑕疵的优等生，唯独对会长不断伸出奇怪的亲昵与捉弄。伪装成淑女的外表下，却藏着只对会长失控的偏爱情绪。在密闭的学生会室里，一场“危险而可爱的偏爱喜剧”就此展开——。\n\n　　本剧改编自逆縞的同名原著漫画。",
+    "link": null,
+    "tmdb_id": "306528",
+    "tmdb_site_id": "tv/306528",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -268,22 +304,26 @@
     "link": "https://bgm.tv/subject/552953"
   },
   {
-    "id": "317001",
-    "type": "tmdb",
-    "title": "满级老祖被虐后全皇室求我回归",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
-    "releaseDate": "2026-05-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
-    "link": null,
-    "tmdb_id": "317001",
-    "tmdb_site_id": "tv/317001",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "590729",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月14日",
+    "link": "https://bgm.tv/subject/590729"
+  },
+  {
+    "id": "583890",
+    "type": "link",
+    "title": "ZUTOMAYO INTENSE II 「坐・ZOMBIE CRAB LABO」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/8b/583890_b5czP.jpg",
+    "releaseDate": "2026-02-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "16话 /  2026年2月28日",
+    "link": "https://bgm.tv/subject/583890"
   },
   {
     "id": "320988",
@@ -313,45 +353,5 @@
     "rating": "",
     "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
     "link": "https://bgm.tv/subject/623665"
-  },
-  {
-    "id": "315494",
-    "type": "tmdb",
-    "title": "重生：最后的英雄",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
-    "link": null,
-    "tmdb_id": "315494",
-    "tmdb_site_id": "tv/315494",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "590022",
-    "type": "link",
-    "title": "暗黑新娘！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/9b/590022_9Zb1V.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年3月6日 / Maggie Gyllenhaal / Maggie Gyllenhaal / Jessie Buckley、Christian Bale",
-    "link": "https://bgm.tv/subject/590022"
-  },
-  {
-    "id": "639143",
-    "type": "link",
-    "title": "木乃伊",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/8f/639143_kqCLp.jpg",
-    "releaseDate": "2026-04-17",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月17日 / Lee Cronin / Lee Cronin / Jack Reynor、Laia Costa",
-    "link": "https://bgm.tv/subject/639143"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": "596942",
+    "type": "link",
+    "title": "AIKATSU! × PRIPARA THE LIVE -Miraculous Stage!-",
+    "posterPath": null,
+    "releaseDate": "2026-03-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年3月21日 / るか(遠藤瑠香)、りえ(藤城リエ)、みき(未来みき)、みほ(天音みほ)、かな(星咲花那)、ななせ(松岡ななせ)、えり(愛野えり)、れみ(美谷玲実)、茜屋日海夏、芹澤優、久保田未夢、山北早紀、澁谷梓希、若井友希、牧野由依、渡部優衣、真田アサミ、斎賀みつき、赤﨑千夏、佐藤あずさ",
+    "link": "https://bgm.tv/subject/596942"
+  },
+  {
     "id": "307750",
     "type": "tmdb",
     "title": "秋叶原迷踪",
@@ -286,16 +297,5 @@
     "rating": "",
     "description": "3话 /  2026年5月9日",
     "link": "https://bgm.tv/subject/648801"
-  },
-  {
-    "id": "549830",
-    "type": "link",
-    "title": "克拉克森的农场 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
-    "releaseDate": "2026-06-03",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
-    "link": "https://bgm.tv/subject/549830"
   }
 ]

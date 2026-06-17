@@ -1,5 +1,16 @@
 [
   {
+    "id": "617739",
+    "type": "link",
+    "title": "てれびくん超バトルDVD  仮面ライダーゼッツ かっとばせ！巨大ロボット コードゼロイダー！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "real",
+    "rating": "6.0",
+    "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
+    "link": "https://bgm.tv/subject/617739"
+  },
+  {
     "id": "304194",
     "type": "tmdb",
     "title": "重启",
@@ -90,31 +101,13 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "276161",
-    "type": "tmdb",
-    "title": "铁拳教育",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "9.4",
-    "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
-    "link": null,
-    "tmdb_id": "276161",
-    "tmdb_site_id": "tv/276161",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "229891",
     "type": "tmdb",
     "title": "爱情怎么翻译？",
     "posterPath": "https://image.tmdb.org/t/p/w500/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.3",
+    "rating": "8.4",
     "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
     "link": null,
     "tmdb_id": "229891",
@@ -124,17 +117,6 @@
       "KR"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "282418",
-    "type": "link",
-    "title": "惩罚者：最后一击",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.1",
-    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
-    "link": "https://bgm.tv/subject/282418"
   },
   {
     "id": "601438",
@@ -148,15 +130,15 @@
     "link": "https://bgm.tv/subject/601438"
   },
   {
-    "id": "633271",
+    "id": "282418",
     "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "7.2",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
+    "rating": "7.1",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
   },
   {
     "id": "289356",
@@ -177,6 +159,39 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.2",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
+    "id": "614123",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
+    "releaseDate": "2026-05-05",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月5日",
+    "link": "https://bgm.tv/subject/614123"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
     "id": "307650",
     "type": "tmdb",
     "title": "侦探先生，你的背包开着呢",
@@ -195,17 +210,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "614123",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/f5/614123_aN11h.jpg",
-    "releaseDate": "2026-05-05",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月5日",
-    "link": "https://bgm.tv/subject/614123"
-  },
-  {
     "id": "544948",
     "type": "link",
     "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
@@ -217,15 +221,44 @@
     "link": "https://bgm.tv/subject/544948"
   },
   {
-    "id": "621874",
+    "id": "533266",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
+    "title": "宇宙巨人：希曼崛起",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
+    "releaseDate": "2026-06-05",
+    "mediaType": "real",
+    "rating": "5.8",
+    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
+    "link": "https://bgm.tv/subject/533266"
+  },
+  {
+    "id": "280632",
+    "type": "tmdb",
+    "title": "成何体统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+    "link": null,
+    "tmdb_id": "280632",
+    "tmdb_site_id": "tv/280632",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "607932",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
   },
   {
     "id": "625916",
@@ -237,6 +270,24 @@
     "rating": "",
     "description": "10话 /  2026年1月20日",
     "link": "https://bgm.tv/subject/625916"
+  },
+  {
+    "id": "313635",
+    "type": "tmdb",
+    "title": "如龙 Powered by 日本统一",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
+    "releaseDate": "2026-02-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "link": null,
+    "tmdb_id": "313635",
+    "tmdb_site_id": "tv/313635",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "588065",
@@ -261,46 +312,6 @@
     "link": "https://bgm.tv/subject/634222"
   },
   {
-    "id": "533266",
-    "type": "link",
-    "title": "宇宙巨人：希曼崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
-    "releaseDate": "2026-06-05",
-    "mediaType": "real",
-    "rating": "5.7",
-    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
-    "link": "https://bgm.tv/subject/533266"
-  },
-  {
-    "id": "607932",
-    "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
-  },
-  {
-    "id": "280632",
-    "type": "tmdb",
-    "title": "成何体统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
-    "link": null,
-    "tmdb_id": "280632",
-    "tmdb_site_id": "tv/280632",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "511454",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
@@ -312,32 +323,21 @@
     "link": "https://bgm.tv/subject/511454"
   },
   {
-    "id": "313635",
+    "id": "278882",
     "type": "tmdb",
-    "title": "如龙 Powered by 日本统一",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
-    "releaseDate": "2026-02-10",
+    "title": "年少有为",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "rating": "7.8",
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
     "link": null,
-    "tmdb_id": "313635",
-    "tmdb_site_id": "tv/313635",
+    "tmdb_id": "278882",
+    "tmdb_site_id": "tv/278882",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "587208",
-    "type": "link",
-    "title": "学園アイドルマスター 初星音楽祭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0c/587208_gFIR4.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/587208"
   }
 ]

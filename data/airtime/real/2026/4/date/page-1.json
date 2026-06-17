@@ -33,6 +33,17 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
+    "id": "494701",
+    "type": "link",
+    "title": "沙丘：第三部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
+    "link": "https://bgm.tv/subject/494701"
+  },
+  {
     "id": "656165",
     "type": "link",
     "title": "人生を変えたコント",
@@ -53,17 +64,6 @@
     "rating": "",
     "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
     "link": "https://bgm.tv/subject/393438"
-  },
-  {
-    "id": "494701",
-    "type": "link",
-    "title": "沙丘：第三部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
-    "link": "https://bgm.tv/subject/494701"
   },
   {
     "id": "612440",
@@ -176,6 +176,17 @@
     "link": "https://bgm.tv/subject/632524"
   },
   {
+    "id": "659173",
+    "type": "link",
+    "title": "4アウト ─もう一度、プレイボール─",
+    "posterPath": null,
+    "releaseDate": "2026-11-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年11月6日 / 相葉雅紀",
+    "link": "https://bgm.tv/subject/659173"
+  },
+  {
     "id": "639278",
     "type": "link",
     "title": "假面骑士KABUTO 20周年 天之继承者",
@@ -196,17 +207,6 @@
     "rating": "",
     "description": "2026年11月6日 / 三島有紀子 / 松岡茉優",
     "link": "https://bgm.tv/subject/657992"
-  },
-  {
-    "id": "659173",
-    "type": "link",
-    "title": "4アウト ─もう一度、プレイボール─",
-    "posterPath": null,
-    "releaseDate": "2026-11-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年11月6日 / 相葉雅紀",
-    "link": "https://bgm.tv/subject/659173"
   },
   {
     "id": "522524",
@@ -253,19 +253,14 @@
     "link": "https://bgm.tv/subject/620303"
   },
   {
-    "id": "287591",
-    "type": "tmdb",
-    "title": "皎洁迎宵之月",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/25/fd/628277_J2UZg.jpg",
-    "releaseDate": "2026-10-23",
-    "mediaType": "tv",
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年10月23日 / 竹村謙太郎 / 徳永友一 / 道枝駿佑",
-    "link": null,
-    "tmdb_id": "287591",
-    "tmdb_site_id": "tv/287591",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
   }
 ]

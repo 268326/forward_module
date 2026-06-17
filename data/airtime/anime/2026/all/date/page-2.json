@@ -1,5 +1,16 @@
 [
   {
+    "id": "655076",
+    "type": "link",
+    "title": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2话 /  2026年8月28日 / アトリエかぐや(BARE&BUNNY)「Pure×Holic ～純潔乙女と婚姻カンケイ！？～」",
+    "link": "https://bgm.tv/subject/655076"
+  },
+  {
     "id": "655061",
     "type": "link",
     "title": "サレ妻は奪われたい",
@@ -18,7 +29,7 @@
     "releaseDate": "2026-08-28",
     "mediaType": "anime",
     "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet (新房昭之・虚淵玄・蒼樹うめ・SHAFT) / 谷口淳一郎",
     "link": "https://bgm.tv/subject/334105"
   },
   {
@@ -249,25 +260,21 @@
     "link": "https://bgm.tv/subject/624691"
   },
   {
-    "id": "571895",
-    "type": "link",
+    "id": "296437",
+    "type": "tmdb",
     "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xWgtg6l6vLaucO5caOwy5GywpX9.jpg",
     "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": "https://bgm.tv/subject/571895"
-  },
-  {
-    "id": "484677",
-    "type": "link",
-    "title": "大圣崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/30/484677_59Kzf.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月10日",
-    "link": "https://bgm.tv/subject/484677"
+    "link": null,
+    "tmdb_id": "296437",
+    "tmdb_site_id": "tv/296437",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

@@ -1,251 +1,19 @@
 [
   {
-    "id": "405591",
-    "type": "link",
-    "title": "重返寂静岭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "real",
-    "rating": "2.9",
-    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
-    "link": "https://bgm.tv/subject/405591"
-  },
-  {
-    "id": "307682",
+    "id": "316178",
     "type": "tmdb",
-    "title": "冬日的什么呀，春日的什么呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
+    "title": "克洛伊玛",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1UurwFgn6YEfJJ1E9LQ2JsDmXIE.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
-    "link": null,
-    "tmdb_id": "307682",
-    "tmdb_site_id": "tv/307682",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "601438",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
-    "releaseDate": "2026-04-25",
-    "mediaType": "real",
-    "rating": "6.4",
-    "description": "2话 /  2026年4月25日",
-    "link": "https://bgm.tv/subject/601438"
-  },
-  {
-    "id": "630694",
-    "type": "link",
-    "title": "フォルティクス　配信！推しを継ぐもの",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/25/630694_RehEf.jpg",
-    "releaseDate": "2026-06-07",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年6月7日 / 坂本浩一 / 足木淳一郎 / 鈴木福、濱田龍臣、武田玲奈",
-    "link": "https://bgm.tv/subject/630694"
-  },
-  {
-    "id": "461696",
-    "type": "link",
-    "title": "好兆头 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
-    "releaseDate": "2026-05-13",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
-    "link": "https://bgm.tv/subject/461696"
-  },
-  {
-    "id": "289356",
-    "type": "tmdb",
-    "title": "北方谦三 水浒传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4FrkTLr5crUUnMBL657kBZgcDnc.jpg",
-    "releaseDate": "2026-02-15",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "累计发行量突破1160万部，在文学史上散发着孤高光辉的北方谦三的历史大河小说《水浒传》，全19卷将在WOWOW完全映像化。故事发生在北宋末期（12世纪初）的中国，志同道合的汉人们聚集在“梁山泊”，为了纠正腐败的社会而勇敢地站起来。在本作品中担任主演的是至今为止引领日本电影、电视剧界的织田裕二，他饰演梁山泊的头领宋江。",
-    "link": null,
-    "tmdb_id": "289356",
-    "tmdb_site_id": "tv/289356",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "254486",
-    "type": "tmdb",
-    "title": "雨霖铃",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
-    "link": null,
-    "tmdb_id": "254486",
-    "tmdb_site_id": "tv/254486",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "279446",
-    "type": "tmdb",
-    "title": "太平年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "tv",
-    "rating": "8.8",
-    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
-    "link": null,
-    "tmdb_id": "279446",
-    "tmdb_site_id": "tv/279446",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "605875",
-    "type": "link",
-    "title": "LoveLive!虹咲学园学园偶像同好会 8th Live! TOKIMEKI Express",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a6/605875_Q6AEO.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "4话 /  2026-06-06 / 虹ヶ咲学園スクールアイドル同好会（大西亜玖璃（上原歩夢 役）、相良茉優（中須かすみ 役）、前田佳織里（桜坂しずく 役）、久保田未夢（朝香果林 役）、村上奈津実（宮下愛 役）、鬼頭明里（近江彼方 役）、林鼓子（優木せつ菜役）、指出毬亜（エマ・ヴェルデ 役）、田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役）、内田秀（ミア・テイラー 役）、法元明菜（鐘嵐珠 役））",
-    "link": "https://bgm.tv/subject/605875"
-  },
-  {
-    "id": "639143",
-    "type": "link",
-    "title": "木乃伊",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/8f/639143_kqCLp.jpg",
-    "releaseDate": "2026-04-17",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月17日 / Lee Cronin / Lee Cronin / Jack Reynor、Laia Costa",
-    "link": "https://bgm.tv/subject/639143"
-  },
-  {
-    "id": "317001",
-    "type": "tmdb",
-    "title": "满级老祖被虐后全皇室求我回归",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
-    "releaseDate": "2026-05-29",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "description": "故事围绕着同时失去工作、恋人和住所的30岁女性艾玛展开。她在落魄之际偶遇神秘资产家克洛伊，两人随即在后者的豪宅中开启了同居生活，并共同经营起一家占卜店。通过使用“克罗尼克卡牌”为人排忧解难，这对性格迥异的搭档在解开咨询者心结的同时，也逐渐挖掘出那些隐藏在日常背后的真相。",
     "link": null,
-    "tmdb_id": "317001",
-    "tmdb_site_id": "tv/317001",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "314642",
-    "type": "tmdb",
-    "title": "为时已是寿司！？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4agYiViMdpyklindbiUJTEFrVCC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "丈夫去世后独自抚养儿子长大的50岁女性待山凑（永作博美 饰），在儿子独立离家后突然失去生活重心。迷茫之际，她意外进入一所“三个月速成寿司职人”的寿司学院学习。面对严肃古板、对寿司抱有极高自尊的男讲师大江户海弥（松山研一 饰），以及性格各异的同学们，凑在手忙脚乱中重新找回生活节奏，也逐渐思考“为自己而活”的意义。与此同时，她与那位总是与自己意见相左的寿司讲师之间，关系悄然发生变化，一段迟来的成年人恋爱也在不知不觉中展开。",
-    "link": null,
-    "tmdb_id": "314642",
-    "tmdb_site_id": "tv/314642",
+    "tmdb_id": "316178",
+    "tmdb_site_id": "tv/316178",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "641417",
-    "type": "link",
-    "title": "超新丁伙头兵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
-    "link": "https://bgm.tv/subject/641417"
-  },
-  {
-    "id": "198178",
-    "type": "tmdb",
-    "title": "奇迹人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5wfW72dFSqJGboyh6fCD01wxrLv.jpg",
-    "releaseDate": "2026-01-27",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-    "link": null,
-    "tmdb_id": "198178",
-    "tmdb_site_id": "tv/198178",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "614611",
-    "type": "link",
-    "title": "提欧奥特曼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/2d/614611_10yCd.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月4日 / 二宮崇 (主导演)、辻本貴則 (主特摄导演) / 田辺茂範 (兼系列构成)",
-    "link": "https://bgm.tv/subject/614611"
-  },
-  {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "224372",
-    "type": "tmdb",
-    "title": "七王国的骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-    "releaseDate": "2026-01-18",
-    "mediaType": "tv",
-    "rating": "8.4",
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-    "link": null,
-    "tmdb_id": "224372",
-    "tmdb_site_id": "tv/224372",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -268,20 +36,179 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "278573",
+    "id": "279446",
     "type": "tmdb",
-    "title": "21世纪大君夫人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "太平年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+    "releaseDate": "2026-01-23",
     "mediaType": "tv",
-    "rating": "8.9",
-    "description": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+    "rating": "8.8",
+    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
     "link": null,
-    "tmdb_id": "278573",
-    "tmdb_site_id": "tv/278573",
+    "tmdb_id": "279446",
+    "tmdb_site_id": "tv/279446",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "KR"
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "252107",
+    "type": "tmdb",
+    "title": "星城",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+    "link": null,
+    "tmdb_id": "252107",
+    "tmdb_site_id": "tv/252107",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "630694",
+    "type": "link",
+    "title": "フォルティクス　配信！推しを継ぐもの",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/25/630694_RehEf.jpg",
+    "releaseDate": "2026-06-07",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年6月7日 / 坂本浩一 / 足木淳一郎 / 鈴木福、濱田龍臣、武田玲奈",
+    "link": "https://bgm.tv/subject/630694"
+  },
+  {
+    "id": "282418",
+    "type": "link",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
+  },
+  {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307682",
+    "type": "tmdb",
+    "title": "冬日的什么呀，春日的什么呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
+    "link": null,
+    "tmdb_id": "307682",
+    "tmdb_site_id": "tv/307682",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "639143",
+    "type": "link",
+    "title": "木乃伊",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/8f/639143_kqCLp.jpg",
+    "releaseDate": "2026-04-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月17日 / Lee Cronin / Lee Cronin / Jack Reynor、Laia Costa",
+    "link": "https://bgm.tv/subject/639143"
+  },
+  {
+    "id": "270476",
+    "type": "tmdb",
+    "title": "寡妇湾",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+    "link": null,
+    "tmdb_id": "270476",
+    "tmdb_site_id": "tv/270476",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314642",
+    "type": "tmdb",
+    "title": "为时已是寿司！？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4agYiViMdpyklindbiUJTEFrVCC.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "丈夫去世后独自抚养儿子长大的50岁女性待山凑（永作博美 饰），在儿子独立离家后突然失去生活重心。迷茫之际，她意外进入一所“三个月速成寿司职人”的寿司学院学习。面对严肃古板、对寿司抱有极高自尊的男讲师大江户海弥（松山研一 饰），以及性格各异的同学们，凑在手忙脚乱中重新找回生活节奏，也逐渐思考“为自己而活”的意义。与此同时，她与那位总是与自己意见相左的寿司讲师之间，关系悄然发生变化，一段迟来的成年人恋爱也在不知不觉中展开。",
+    "link": null,
+    "tmdb_id": "314642",
+    "tmdb_site_id": "tv/314642",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "289356",
+    "type": "tmdb",
+    "title": "北方谦三 水浒传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4FrkTLr5crUUnMBL657kBZgcDnc.jpg",
+    "releaseDate": "2026-02-15",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "累计发行量突破1160万部，在文学史上散发着孤高光辉的北方谦三的历史大河小说《水浒传》，全19卷将在WOWOW完全映像化。故事发生在北宋末期（12世纪初）的中国，志同道合的汉人们聚集在“梁山泊”，为了纠正腐败的社会而勇敢地站起来。在本作品中担任主演的是至今为止引领日本电影、电视剧界的织田裕二，他饰演梁山泊的头领宋江。",
+    "link": null,
+    "tmdb_id": "289356",
+    "tmdb_site_id": "tv/289356",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313902",
+    "type": "tmdb",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "link": null,
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -300,6 +227,35 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "605875",
+    "type": "link",
+    "title": "LoveLive!虹咲学园学园偶像同好会 8th Live! TOKIMEKI Express",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a6/605875_Q6AEO.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "4话 /  2026-06-06 / 虹ヶ咲学園スクールアイドル同好会（大西亜玖璃（上原歩夢 役）、相良茉優（中須かすみ 役）、前田佳織里（桜坂しずく 役）、久保田未夢（朝香果林 役）、村上奈津実（宮下愛 役）、鬼頭明里（近江彼方 役）、林鼓子（優木せつ菜役）、指出毬亜（エマ・ヴェルデ 役）、田中ちえ美（天王寺璃奈 役）、小泉萌香（三船栞子 役）、内田秀（ミア・テイラー 役）、法元明菜（鐘嵐珠 役））",
+    "link": "https://bgm.tv/subject/605875"
+  },
+  {
+    "id": "289147",
+    "type": "tmdb",
+    "title": "灵魂摆渡·十年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+    "releaseDate": "2026-06-02",
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+    "link": null,
+    "tmdb_id": "289147",
+    "tmdb_site_id": "tv/289147",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -333,17 +289,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "289147",
+    "id": "254486",
     "type": "tmdb",
-    "title": "灵魂摆渡·十年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-    "releaseDate": "2026-06-02",
+    "title": "雨霖铃",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wBvTSV8WOk46gUrnn1GfrISvxz7.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.5",
-    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+    "rating": "7.1",
+    "description": "已身居御前四品带刀护卫的展昭，在收到故友留下的悬案证据后只身探寻线索，却遭遇各方势力袭杀，并在途中结识了才貌双全、天性不屈的玲珑山庄大小姐霍玲珑，以及满腔热血、以暴制恶的“锦毛鼠”白玉堂。志同道合的三人一路搜寻线索，行侠仗义，捉拿罪犯，撕破襄阳王多年来编织的遍布朝野和江湖的势力网，最终挫败了襄阳王的阴谋，还百姓安宁。",
     "link": null,
-    "tmdb_id": "289147",
-    "tmdb_site_id": "tv/289147",
+    "tmdb_id": "254486",
+    "tmdb_site_id": "tv/254486",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -351,20 +307,78 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "320988",
+    "id": "280632",
     "type": "tmdb",
-    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
-    "releaseDate": "2026-04-11",
+    "title": "成何体统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
+    "rating": "8.3",
+    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
     "link": null,
-    "tmdb_id": "320988",
-    "tmdb_site_id": "tv/320988",
+    "tmdb_id": "280632",
+    "tmdb_site_id": "tv/280632",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "620973",
+    "type": "link",
+    "title": "头号战队豪兽者 Final Live Tour 2026",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/8a/620973_pPDVt.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "29话 /  2026-03-28 / 井上亜樹子（第1部） / 冬野心央、鈴木秀脩、神田聖司、松本仁、木村魁希、三本木大輔、松本寛也",
+    "link": "https://bgm.tv/subject/620973"
+  },
+  {
+    "id": "317056",
+    "type": "tmdb",
+    "title": "双程",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1uuVhAwTRvileHfXdO46dYTiJef.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "优等生程亦辰与桀骜不驯的陆风意外走近，萌生情愫，在懵懂与挣扎中相爱。恋情暴露引发风波，陆风为保护程亦辰而冲动伤人被家人强制送出国，两人因错过和信件丢失彻底失联。五年后，程亦辰在职场重逢已是总裁的陆风，在陆风的苦苦追求下程亦辰主动去找陆风。却因陆风酒后喝醉产生误会，两人再生裂痕。经历痛苦分离、生死误会，两人认清真心。最终，彼此解开过往心结，选择放下伤害，重新携手共度未来。",
+    "link": null,
+    "tmdb_id": "317056",
+    "tmdb_site_id": "tv/317056",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
+  },
+  {
+    "id": "284110",
+    "type": "tmdb",
+    "title": "主角",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+    "releaseDate": "2026-05-10",
+    "mediaType": "tv",
+    "rating": "9.2",
+    "description": "多年前，县剧团招学员，在团里任司鼓的胡三元替外甥女报名，将年少的她改名易秦娥从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
+    "link": null,
+    "tmdb_id": "284110",
+    "tmdb_site_id": "tv/284110",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   }

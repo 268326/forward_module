@@ -58,6 +58,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "660951",
+    "type": "link",
+    "title": "10回切って倒れない木はない～Huluオリジナルストーリー～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ba/0f/660951_9mj5I.jpg",
+    "releaseDate": "2026-06-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年6月14日 / 松島瑠璃子 / 志尊淳",
+    "link": "https://bgm.tv/subject/660951"
+  },
+  {
     "id": "606014",
     "type": "link",
     "title": "119紧急呼叫 2026 横滨大停电",
@@ -321,16 +332,5 @@
       "GB"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "596942",
-    "type": "link",
-    "title": "AIKATSU! × PRIPARA THE LIVE -Miraculous Stage!-",
-    "posterPath": null,
-    "releaseDate": "2026-03-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年3月21日 / るか(遠藤瑠香)、りえ(藤城リエ)、みき(未来みき)、みほ(天音みほ)、かな(星咲花那)、ななせ(松岡ななせ)、えり(愛野えり)、れみ(美谷玲実)、茜屋日海夏、芹澤優、久保田未夢、山北早紀、澁谷梓希、若井友希、牧野由依、渡部優衣、真田アサミ、斎賀みつき、赤﨑千夏、佐藤あずさ",
-    "link": "https://bgm.tv/subject/596942"
   }
 ]

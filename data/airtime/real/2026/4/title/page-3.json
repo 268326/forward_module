@@ -1,5 +1,16 @@
 [
   {
+    "id": "549830",
+    "type": "link",
+    "title": "克拉克森的农场 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
+    "releaseDate": "2026-06-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
+    "link": "https://bgm.tv/subject/549830"
+  },
+  {
     "id": "528731",
     "type": "link",
     "title": "泥面人",
@@ -79,7 +90,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "5.7",
+    "rating": "5.6",
     "description": "虽然英格兰曾经推动现代足球运动的诞生，但他们自己的球队已经陷入失利的泥淖，一度创下最差罚球记录。主教练加雷斯·索斯盖特（约瑟夫·费因斯 饰）知道，他需要正视自己职业生涯留下的阴影，也需要破除球队的点球魔咒，在带领“三狮军团”重写神话，重返辉煌的巅峰。",
     "link": null,
     "tmdb_id": "295532",
@@ -279,23 +290,5 @@
     "rating": "",
     "description": "2026年6月5日 / 木村太一 / 我人祥太、國吉咲貴 / 片山友希",
     "link": "https://bgm.tv/subject/547096"
-  },
-  {
-    "id": "324850",
-    "type": "tmdb",
-    "title": "Gift som aldrig før",
-    "posterPath": "https://image.tmdb.org/t/p/w500/eNc3INKZBy5wCOLhO9pqc2lOlgd.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "10话 /  2026-04-12 / 平野俊一、加藤尚樹、伊藤弘晃 / 金沢知樹 / 堤真一",
-    "link": null,
-    "tmdb_id": "324850",
-    "tmdb_site_id": "tv/324850",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "DK"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

@@ -1,5 +1,34 @@
 [
   {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "8.1",
+    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
+  },
+  {
     "id": "208493",
     "type": "tmdb",
     "title": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP",
@@ -27,24 +56,6 @@
     "link": "https://bgm.tv/subject/243430"
   },
   {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "286291",
     "type": "tmdb",
     "title": "死亡账号",
@@ -61,15 +72,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "90937",
@@ -78,7 +94,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
     "releaseDate": "2026-03-07",
     "mediaType": "tv",
-    "rating": "5.5",
+    "rating": "5.6",
     "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
     "link": null,
     "tmdb_id": "90937",
@@ -117,22 +133,6 @@
     "link": null,
     "tmdb_id": "276110",
     "tmdb_site_id": "tv/276110",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -219,17 +219,6 @@
     "link": "https://bgm.tv/subject/618795"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
-  },
-  {
     "id": "196950",
     "type": "tmdb",
     "title": "尖帽子的魔法工房",
@@ -242,6 +231,33 @@
     "tmdb_id": "196950",
     "tmdb_site_id": "tv/196950",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
+    "id": "72517",
+    "type": "tmdb",
+    "title": "欢迎来到实力至上主义教室 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
+    "link": null,
+    "tmdb_id": "72517",
+    "tmdb_site_id": "tv/72517/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -262,18 +278,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "72517",
+    "id": "299134",
     "type": "tmdb",
-    "title": "欢迎来到实力至上主义教室 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
-    "releaseDate": "2026-04-01",
+    "title": "女仆小姐的贪吃日常",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/15/580473_uhpVF.jpg",
+    "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "6.1",
-    "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月5日 / 泉保良輔 / 前屋進（講談社「コミックDAYS」連載） / 阿部千秋",
     "link": null,
-    "tmdb_id": "72517",
-    "tmdb_site_id": "tv/72517/season/4",
-    "tmdb_season_number": 4,
+    "tmdb_id": "299134",
+    "tmdb_site_id": "tv/299134",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -296,22 +312,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "254492",
-    "type": "tmdb",
-    "title": "花样少年少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "12话 /  2026年1月4日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 苏诗宜",
-    "link": null,
-    "tmdb_id": "254492",
-    "tmdb_site_id": "tv/254492",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "312522",
     "type": "tmdb",
     "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
@@ -328,29 +328,34 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "631928",
-    "type": "link",
-    "title": "为了没有两对巨乳就无法勃起的丈夫带友人一起的妻子",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "2话 /  2026年4月30日 / 『巨乳が2人いないと勃起しない夫のために友達を連れてきた妻』（立花オミナ）",
-    "link": "https://bgm.tv/subject/631928"
+    "id": "254492",
+    "type": "tmdb",
+    "title": "花样少年少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/23/494564_VD7Jn.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "12话 /  2026年1月4日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 苏诗宜",
+    "link": null,
+    "tmdb_id": "254492",
+    "tmdb_site_id": "tv/254492",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
-    "id": "255492",
+    "id": "305329",
     "type": "tmdb",
-    "title": "天穗之咲稻姬 心轮种稻日记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg",
-    "releaseDate": "2026-02-15",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2话 /  2026年2月15日 / 吉原正行 / えーでるわいす；故事协力：安藤敬而「天穂のサクナヒメ ココロワ稲作日誌」（集英社 JUNP j BOOKS刊） / 藤嶋未央",
+    "rating": "5.0",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
     "link": null,
-    "tmdb_id": "255492",
-    "tmdb_site_id": "tv/255492/season/0",
-    "tmdb_season_number": 0,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

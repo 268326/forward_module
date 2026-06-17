@@ -67,17 +67,6 @@
     "link": "https://bgm.tv/subject/616383"
   },
   {
-    "id": "544628",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第4幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/26/544628_QKSKi.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "3话 /  2026年4月10日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544628"
-  },
-  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -94,6 +83,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "544628",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第4幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/26/544628_QKSKi.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "3话 /  2026年4月10日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544628"
+  },
+  {
     "id": "276393",
     "type": "tmdb",
     "title": "现在多闻君是哪一面!?",
@@ -106,6 +106,22 @@
     "tmdb_id": "276393",
     "tmdb_site_id": "tv/276393",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "60761",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
+    "link": null,
+    "tmdb_id": "60761",
+    "tmdb_site_id": "tv/60761/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -126,22 +142,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "60761",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
-    "link": null,
-    "tmdb_id": "60761",
-    "tmdb_site_id": "tv/60761/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "563256",
     "type": "link",
     "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
@@ -151,22 +151,6 @@
     "rating": "7.0",
     "description": "1话 /  2026年5月8日",
     "link": "https://bgm.tv/subject/563256"
-  },
-  {
-    "id": "260463",
-    "type": "tmdb",
-    "title": "黄泉使者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
-    "link": null,
-    "tmdb_id": "260463",
-    "tmdb_site_id": "tv/260463",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "544627",
@@ -186,9 +170,25 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
     "releaseDate": "2026-03-27",
     "mediaType": "anime",
-    "rating": "6.9",
+    "rating": "7.0",
     "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
     "link": "https://bgm.tv/subject/541814"
+  },
+  {
+    "id": "260463",
+    "type": "tmdb",
+    "title": "黄泉使者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
+    "link": null,
+    "tmdb_id": "260463",
+    "tmdb_site_id": "tv/260463",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "91768",
@@ -207,17 +207,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "217071",
-    "type": "link",
-    "title": "机动警察 EZY 第一章",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "3话 /  2026年5月15日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
-    "link": "https://bgm.tv/subject/217071"
-  },
-  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
@@ -232,6 +221,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "217071",
+    "type": "link",
+    "title": "机动警察 EZY 第一章",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "3话 /  2026年5月15日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
+    "link": "https://bgm.tv/subject/217071"
   },
   {
     "id": "630676",
@@ -272,17 +272,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "651692",
-    "type": "link",
-    "title": "少年与高达",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_F0K0I.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
-    "link": "https://bgm.tv/subject/651692"
-  },
-  {
     "id": "544626",
     "type": "link",
     "title": "少女与战车 lovelove大作战！ 第2幕",
@@ -292,6 +281,17 @@
     "rating": "6.8",
     "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
     "link": "https://bgm.tv/subject/544626"
+  },
+  {
+    "id": "651692",
+    "type": "link",
+    "title": "少年与高达",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_F0K0I.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
+    "link": "https://bgm.tv/subject/651692"
   },
   {
     "id": "549975",
@@ -305,17 +305,17 @@
     "link": "https://bgm.tv/subject/549975"
   },
   {
-    "id": "278271",
+    "id": "295357",
     "type": "tmdb",
-    "title": "透明男与人类女～不久成为夫妇的二人～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/54/525946_DTNzD.jpg",
-    "releaseDate": "2026-01-08",
+    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/ae/454438_Q43mf.jpg",
+    "releaseDate": "2026-04-10",
     "mediaType": "tv",
     "rating": "6.8",
-    "description": "12话 /  2026年1月8日 / 瀬田光穂 / 岩飛猫（双葉社「webアクション」連載） / うなばら海里",
+    "description": "2026年4月10日 / 前田洋志 / 武論尊・原哲夫 / 久恒直樹",
     "link": null,
-    "tmdb_id": "278271",
-    "tmdb_site_id": "tv/278271",
+    "tmdb_id": "295357",
+    "tmdb_site_id": "tv/295357",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

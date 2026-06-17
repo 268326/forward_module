@@ -22,6 +22,24 @@
     "link": "https://bgm.tv/subject/650117"
   },
   {
+    "id": "311125",
+    "type": "tmdb",
+    "title": "以身相許",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年10月16日 / ?田恵輔 / ?田恵輔 / 磯村勇斗、末澤誠也（Aぇ! group）",
+    "link": null,
+    "tmdb_id": "311125",
+    "tmdb_site_id": "tv/311125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "428025",
     "type": "link",
     "title": "街头霸王",
@@ -44,24 +62,6 @@
     "link": "https://bgm.tv/subject/650384"
   },
   {
-    "id": "311125",
-    "type": "tmdb",
-    "title": "以身相許",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年10月16日 / ?田恵輔 / ?田恵輔 / 磯村勇斗、末澤誠也（Aぇ! group）",
-    "link": null,
-    "tmdb_id": "311125",
-    "tmdb_site_id": "tv/311125",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "TW"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "213375",
     "type": "tmdb",
     "title": "幻视任务",
@@ -78,6 +78,17 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "660791",
+    "type": "link",
+    "title": "LoveLive! Series 15th Anniversary LoveLive! Fest 前夜祭 FILM LIVE ～传递给未来的时光胶囊～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f5/3c/660791_4xQeW.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-10-10 / 10日（土）公演：虹ヶ咲学園スクールアイドル同好会（久保田未夢（朝香果林 役）、林鼓子（優木せつ 菜役）、指出毬亜（エマ・ヴェルデ 役））、蓮ノ空女学院スクールアイドルクラブ（櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、三宅美羽（セラス柳田リリエンフェルト 役）、進藤あまね（桂城泉 役））／11日（日）公演：Liella!（伊達さゆり（澁谷かのん 役）、青山なぎさ（葉月恋 役）、鈴原希実（桜小路きな子 役）、結那（ウィーン・マルガレーテ 役））、いきづらい部！ （綾咲穂音（高橋ポルカ 役）、坂野愛羽（金澤奇跡 役）、奥村優季（春宮ゆくり 役）、涼ノ瀬葵音（佐々木翔音 役））／两日出演：スクールアイドルミュージカル（堀内まり菜（椿ルリカ 役）、宮本佳林（滝沢アンズ 役）、浅井七海（皇ユズハ 役）、南野巴那（若槻ミスズ 役）、杏ジュリア（北条ユキノ 役）、及川結依（来栖トア 役）、清水理子（天草ヒカル 役）、井上音生（鈴賀レナ 役）、由良朱合（三笠マーヤ 役）、村山結香（晴風サヤカ 役））",
+    "link": "https://bgm.tv/subject/660791"
   },
   {
     "id": "567892",
@@ -105,12 +116,23 @@
     "id": "646585",
     "type": "link",
     "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/d6/646585_5SzI8.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/d6/646585_pHeWW.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
     "description": "2话 /  2026-10-03 / 千賀光莉、本渡楓、東山奈央、石井あみ、熊田茜音、増井優花",
     "link": "https://bgm.tv/subject/646585"
+  },
+  {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
   },
   {
     "id": "578392",
@@ -157,17 +179,6 @@
     "link": "https://bgm.tv/subject/660124"
   },
   {
-    "id": "622250",
-    "type": "link",
-    "title": "时薪300日元的死神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
-    "link": "https://bgm.tv/subject/622250"
-  },
-  {
     "id": "658997",
     "type": "link",
     "title": "舞台『ブルーロック』5th STAGE ー新英雄大戦（ネオ・エゴイストリーグ）開幕ー",
@@ -188,6 +199,17 @@
     "rating": "",
     "description": "2话 /  2026年9月26日",
     "link": "https://bgm.tv/subject/645791"
+  },
+  {
+    "id": "633558",
+    "type": "link",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
+    "link": "https://bgm.tv/subject/633558"
   },
   {
     "id": "638983",
@@ -212,17 +234,6 @@
     "link": "https://bgm.tv/subject/600005"
   },
   {
-    "id": "633558",
-    "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
-    "link": "https://bgm.tv/subject/633558"
-  },
-  {
     "id": "639664",
     "type": "link",
     "title": "Morfonica LIVE「Movement」",
@@ -245,26 +256,15 @@
     "link": "https://bgm.tv/subject/632522"
   },
   {
-    "id": "628086",
+    "id": "660292",
     "type": "link",
-    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE DAY2 Blooming Sign",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/87/660292_969Be.jpg",
+    "releaseDate": "2026-09-20",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
-    "link": "https://bgm.tv/subject/628086"
-  },
-  {
-    "id": "647204",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE",
-    "posterPath": null,
-    "releaseDate": "2026-09-19",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月19日",
-    "link": "https://bgm.tv/subject/647204"
+    "description": "1话 /  2026年9月20日",
+    "link": "https://bgm.tv/subject/660292"
   },
   {
     "id": "640614",

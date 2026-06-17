@@ -14,7 +14,7 @@
     "id": "583786",
     "type": "link",
     "title": "魔咒",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_3PH9j.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_1OHCV.jpg",
     "releaseDate": "2026-11-25",
     "mediaType": "anime",
     "rating": "",
@@ -165,6 +165,17 @@
     "link": "https://bgm.tv/subject/548156"
   },
   {
+    "id": "499474",
+    "type": "link",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/d4/499474_ARHE9.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月2日 / 小平麻紀 / 和久井健（講談社「週刊少年マガジン」連載） / 大貫健一、太田恵子、露木愛里、高倉香恵",
+    "link": "https://bgm.tv/subject/499474"
+  },
+  {
     "id": "640219",
     "type": "link",
     "title": "LEGO® ONE PIECE",
@@ -251,16 +262,5 @@
     "rating": "",
     "description": "2026年9月4日 / 沓名健一 / SEKIRO： SHADOWS DIE TWICE （株式会社フロム・ソフトウェア） / 岸田隆宏",
     "link": "https://bgm.tv/subject/579533"
-  },
-  {
-    "id": "655076",
-    "type": "link",
-    "title": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年8月28日 / アトリエかぐや(BARE&BUNNY)「Pure×Holic ～純潔乙女と婚姻カンケイ！？～」",
-    "link": "https://bgm.tv/subject/655076"
   }
 ]

@@ -126,15 +126,22 @@
     "link": "https://bgm.tv/subject/478149"
   },
   {
-    "id": "579787",
-    "type": "link",
+    "id": "298994",
+    "type": "tmdb",
     "title": "LV999的村民",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
     "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
-    "link": "https://bgm.tv/subject/579787"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "12话 /  2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
+    "link": null,
+    "tmdb_id": "298994",
+    "tmdb_site_id": "tv/298994",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "659182",
@@ -181,7 +188,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/cEij3jggWnDM4jsdkazK2cuvjtt.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "7.8",
     "description": "故事在动物世界开展，熊、浣熊、鹿、狐狸等角色依次登场，加上众多情欲满满的可爱森林生物，大伙一同探索爱情、性与关系，以及寻找伴侣和延续种族命脉的共通需求。",
     "link": null,
     "tmdb_id": "290295",
@@ -250,7 +257,7 @@
     "id": "646060",
     "type": "link",
     "title": "我与超人的冒险 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_MPFZ7.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/f4/646060_fW8Ff.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
     "rating": "",
