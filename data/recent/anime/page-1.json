@@ -88,7 +88,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "13话 /  2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
     "link": null,
     "tmdb_id": "301944",
@@ -253,6 +253,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "290019",
+    "type": "tmdb",
+    "title": "和班上第二可爱的女孩成为朋友",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
+    "link": null,
+    "tmdb_id": "290019",
+    "tmdb_site_id": "tv/290019",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -269,20 +285,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "290019",
-    "type": "tmdb",
-    "title": "和班上第二可爱的女孩成为朋友",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
-    "link": null,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "278043",
@@ -317,17 +328,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
-  },
-  {
     "id": "291403",
     "type": "tmdb",
     "title": "淡岛百景",
@@ -344,17 +344,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
-  },
-  {
     "id": "451757",
     "type": "link",
     "title": "瑞克和莫蒂 第九季",
@@ -364,5 +353,16 @@
     "rating": "7.5",
     "description": "10话 /  2026年5月24日",
     "link": "https://bgm.tv/subject/451757"
+  },
+  {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
   }
 ]
