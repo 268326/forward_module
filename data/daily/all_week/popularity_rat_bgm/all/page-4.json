@@ -107,11 +107,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/50/520633_szido.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.1",
+    "rating": "6.0",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "520633",
-    "bgm_score": 6.1,
+    "bgm_score": 6.0,
     "bgm_rating_total": 21,
     "bgm_weekday_id": 6,
     "tmdb_id": "299144",
@@ -119,6 +119,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "641036",
+    "type": "link",
+    "title": "牧神记4",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/aa/641036_aCRTc.jpg",
+    "releaseDate": "2026-04-19",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/641036",
+    "bgm_id": "641036",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 7
   },
   {
     "id": "637591",
@@ -149,21 +164,6 @@
     "bgm_score": 5.9,
     "bgm_rating_total": 19,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "641036",
-    "type": "link",
-    "title": "牧神记4",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/aa/641036_aCRTc.jpg",
-    "releaseDate": "2026-04-19",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/641036",
-    "bgm_id": "641036",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 19,
-    "bgm_weekday_id": 7
   },
   {
     "id": "487522",
