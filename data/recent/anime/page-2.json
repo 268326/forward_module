@@ -18,6 +18,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
+  },
+  {
     "id": "315816",
     "type": "tmdb",
     "title": "茉莉花酱的好感度正在崩坏",
@@ -34,17 +45,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
   },
   {
     "id": "284447",
@@ -175,6 +175,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第三季 反击篇",
@@ -216,24 +234,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "95479",
@@ -295,22 +295,6 @@
     "link": "https://bgm.tv/subject/552533"
   },
   {
-    "id": "295751",
-    "type": "tmdb",
-    "title": "一叠间漫画咖啡屋生活！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
-    "link": null,
-    "tmdb_id": "295751",
-    "tmdb_site_id": "tv/295751",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "569116",
     "type": "link",
     "title": "碧蓝之海 第三季",
@@ -320,6 +304,17 @@
     "rating": "8.3",
     "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
     "link": "https://bgm.tv/subject/569116"
+  },
+  {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": "https://bgm.tv/subject/638497"
   },
   {
     "id": "229858",
@@ -338,15 +333,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
+    "id": "295751",
+    "type": "tmdb",
+    "title": "一叠间漫画咖啡屋生活！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
+    "link": null,
+    "tmdb_id": "295751",
+    "tmdb_site_id": "tv/295751",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "288590",

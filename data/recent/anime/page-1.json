@@ -18,22 +18,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "283905",
-    "type": "tmdb",
-    "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
-    "link": null,
-    "tmdb_id": "283905",
-    "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 丧失篇",
@@ -45,6 +29,22 @@
     "link": null,
     "tmdb_id": "65942",
     "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "283905",
+    "type": "tmdb",
+    "title": "上伊那牡丹，酒醉身姿似百合花般",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
+    "link": null,
+    "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -98,22 +98,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "245842",
-    "type": "tmdb",
-    "title": "杖与剑的魔剑谭 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
-    "link": null,
-    "tmdb_id": "245842",
-    "tmdb_site_id": "tv/245842/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "293697",
     "type": "tmdb",
     "title": "想结束这场“我爱你”的游戏",
@@ -126,6 +110,22 @@
     "tmdb_id": "293697",
     "tmdb_site_id": "tv/293697",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "245842",
+    "type": "tmdb",
+    "title": "杖与剑的魔剑谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
+    "link": null,
+    "tmdb_id": "245842",
+    "tmdb_site_id": "tv/245842/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -162,22 +162,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312474",
-    "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
-    "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -190,6 +174,22 @@
     "tmdb_id": "82684",
     "tmdb_site_id": "tv/82684/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312474",
+    "type": "tmdb",
+    "title": "日本三国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "link": null,
+    "tmdb_id": "312474",
+    "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -235,6 +235,17 @@
     "rating": "7.9",
     "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
     "link": "https://bgm.tv/subject/353181"
+  },
+  {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "196285",
@@ -285,15 +296,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
+    "id": "285818",
+    "type": "tmdb",
+    "title": "迦楠大人的白给是恶魔级",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
+    "link": null,
+    "tmdb_id": "285818",
+    "tmdb_site_id": "tv/285818",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278043",
@@ -312,20 +328,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285818",
-    "type": "tmdb",
-    "title": "迦楠大人的白给是恶魔级",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
-    "link": null,
-    "tmdb_id": "285818",
-    "tmdb_site_id": "tv/285818",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
   },
   {
     "id": "291403",
@@ -342,17 +353,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
   },
   {
     "id": "508004",
