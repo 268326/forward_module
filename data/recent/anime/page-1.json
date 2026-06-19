@@ -114,22 +114,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "245842",
-    "type": "tmdb",
-    "title": "杖与剑的魔剑谭 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
-    "link": null,
-    "tmdb_id": "245842",
-    "tmdb_site_id": "tv/245842/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -146,18 +130,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "260463",
+    "id": "245842",
     "type": "tmdb",
-    "title": "黄泉使者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
-    "releaseDate": "2026-04-04",
+    "title": "杖与剑的魔剑谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
+    "releaseDate": "2026-04-12",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
     "link": null,
-    "tmdb_id": "260463",
-    "tmdb_site_id": "tv/260463",
-    "tmdb_season_number": null,
+    "tmdb_id": "245842",
+    "tmdb_site_id": "tv/245842/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -178,17 +162,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312474",
+    "id": "260463",
     "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
+    "title": "黄泉使者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
+    "releaseDate": "2026-04-04",
     "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "rating": "7.0",
+    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
     "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
+    "tmdb_id": "260463",
+    "tmdb_site_id": "tv/260463",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -235,6 +219,22 @@
     "rating": "7.9",
     "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
     "link": "https://bgm.tv/subject/353181"
+  },
+  {
+    "id": "312474",
+    "type": "tmdb",
+    "title": "日本三国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "link": null,
+    "tmdb_id": "312474",
+    "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "607915",
@@ -355,14 +355,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
