@@ -162,6 +162,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "283428",
+    "type": "tmdb",
+    "title": "冰之城墙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428",
+    "tmdb_site_id": "tv/283428",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -178,20 +194,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283428",
-    "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
+  },
+  {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "72517",
@@ -210,17 +232,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "353181",
-    "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
-  },
-  {
     "id": "312474",
     "type": "tmdb",
     "title": "日本三国",
@@ -235,17 +246,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "196285",
@@ -264,22 +264,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "290019",
-    "type": "tmdb",
-    "title": "和班上第二可爱的女孩成为朋友",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
-    "link": null,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -291,6 +275,22 @@
     "link": null,
     "tmdb_id": "209867",
     "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "290019",
+    "type": "tmdb",
+    "title": "和班上第二可爱的女孩成为朋友",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
+    "link": null,
+    "tmdb_id": "290019",
+    "tmdb_site_id": "tv/290019",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -328,33 +328,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
-    "id": "291403",
-    "type": "tmdb",
-    "title": "淡岛百景",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
-    "link": null,
-    "tmdb_id": "291403",
-    "tmdb_site_id": "tv/291403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "153217",
     "type": "tmdb",
     "title": "二十世纪电气目录",
@@ -371,5 +344,27 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
+  },
+  {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "2026年7月5日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
   }
 ]
