@@ -146,6 +146,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
+  },
+  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -160,6 +171,17 @@
     "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
   },
   {
     "id": "283428",
@@ -194,28 +216,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "353181",
-    "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
-  },
-  {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
-  },
-  {
     "id": "72517",
     "type": "tmdb",
     "title": "欢迎来到实力至上主义教室 第四季",
@@ -243,6 +243,22 @@
     "link": null,
     "tmdb_id": "312474",
     "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285818",
+    "type": "tmdb",
+    "title": "迦楠大人的白给是恶魔级",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
+    "link": null,
+    "tmdb_id": "285818",
+    "tmdb_site_id": "tv/285818",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -296,22 +312,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285818",
-    "type": "tmdb",
-    "title": "迦楠大人的白给是恶魔级",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
-    "link": null,
-    "tmdb_id": "285818",
-    "tmdb_site_id": "tv/285818",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -346,17 +346,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
     "id": "501963",
     "type": "link",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -366,5 +355,16 @@
     "rating": "7.8",
     "description": "2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
     "link": "https://bgm.tv/subject/501963"
+  },
+  {
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
   }
 ]
