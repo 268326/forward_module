@@ -1,5 +1,43 @@
 [
   {
+    "id": "505550",
+    "type": "link",
+    "title": "Dark Machine",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年 / 寺田和生 / Project Carbuncle / 吉成鋼(主人设)",
+    "link": "https://bgm.tv/subject/505550"
+  },
+  {
+    "id": "271609",
+    "type": "tmdb",
+    "title": "DARK MOON -黑之月: 月之祭坛-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/fc/513361_D1a22.jpg",
+    "releaseDate": "2026-01-09",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "12话 /  2026年1月9日 / 志賀翔子 / HYBE、랑또 / 猪股雅美",
+    "link": null,
+    "tmdb_id": "271609",
+    "tmdb_site_id": "tv/271609",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "636325",
+    "type": "link",
+    "title": "Defonima",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c1/87/636325_s9ZN9.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026 / go-shu",
+    "link": "https://bgm.tv/subject/636325"
+  },
+  {
     "id": "655393",
     "type": "link",
     "title": "最后的春天",
@@ -162,6 +200,17 @@
     "link": "https://bgm.tv/subject/634029"
   },
   {
+    "id": "661785",
+    "type": "link",
+    "title": "加鲁达：勇敢去梦",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9d/cf/661785_jZZwE.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Ronny Gani",
+    "link": "https://bgm.tv/subject/661785"
+  },
+  {
     "id": "641853",
     "type": "link",
     "title": "Ghosts & Chainsaws",
@@ -219,7 +268,7 @@
   {
     "id": "583786",
     "type": "link",
-    "title": "魔咒",
+    "title": "魔法秘境",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_1OHCV.jpg",
     "releaseDate": "2026-11-25",
     "mediaType": "anime",
@@ -237,49 +286,5 @@
     "rating": "6.0",
     "description": "1话 /  2026年3月6日 / Daniel Chong",
     "link": "https://bgm.tv/subject/525516"
-  },
-  {
-    "id": "643823",
-    "type": "link",
-    "title": "HoYoHoYoにしてあげる♪",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/d0/643823_OHboH.jpg",
-    "releaseDate": "2026-04-23",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年4月23日",
-    "link": "https://bgm.tv/subject/643823"
-  },
-  {
-    "id": "505401",
-    "type": "link",
-    "title": "无敌少侠 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
-    "releaseDate": "2026-03-18",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
-    "link": "https://bgm.tv/subject/505401"
-  },
-  {
-    "id": "659124",
-    "type": "link",
-    "title": "I’d Rather Be a Concorde",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/41/5d/659124_E01Tj.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026（Annecy Festival） / Javier Fabregas",
-    "link": "https://bgm.tv/subject/659124"
-  },
-  {
-    "id": "561639",
-    "type": "link",
-    "title": "我已不在",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c0/0a/561639_8RDMd.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年 / Nawojka Wierzbowska",
-    "link": "https://bgm.tv/subject/561639"
   }
 ]

@@ -109,6 +109,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "661788",
+    "type": "link",
+    "title": "阿马德欧与假设的新世界",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Brenda Ligia、Edu Felistoque",
+    "link": "https://bgm.tv/subject/661788"
+  },
+  {
     "id": "443351",
     "type": "link",
     "title": "在我们之中",
@@ -160,6 +171,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "662014",
+    "type": "link",
+    "title": "夜游者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/74/662014_WvW9s.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Lena von Döhren",
+    "link": "https://bgm.tv/subject/662014"
+  },
+  {
     "id": "544378",
     "type": "link",
     "title": "战斗之魂 绝界之空",
@@ -177,7 +199,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg",
     "releaseDate": "2026-03-07",
     "mediaType": "tv",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "12话 /  2026年3月7日 / 松見真一 / 板垣巴留（秋田書店少年チャンピオン・コミックス刊） / 大津直・乘田拓茂",
     "link": null,
     "tmdb_id": "90937",
@@ -267,41 +289,14 @@
     "link": "https://bgm.tv/subject/583928"
   },
   {
-    "id": "505550",
+    "id": "661787",
     "type": "link",
-    "title": "Dark Machine",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg",
+    "title": "憨丁钱路慌",
+    "posterPath": null,
     "releaseDate": "2026-01-01",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年 / 寺田和生 / Project Carbuncle / 吉成鋼(主人设)",
-    "link": "https://bgm.tv/subject/505550"
-  },
-  {
-    "id": "271609",
-    "type": "tmdb",
-    "title": "DARK MOON -黑之月: 月之祭坛-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/fc/513361_D1a22.jpg",
-    "releaseDate": "2026-01-09",
-    "mediaType": "tv",
-    "rating": "4.1",
-    "description": "12话 /  2026年1月9日 / 志賀翔子 / HYBE、랑또 / 猪股雅美",
-    "link": null,
-    "tmdb_id": "271609",
-    "tmdb_site_id": "tv/271609",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "636325",
-    "type": "link",
-    "title": "Defonima",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c1/87/636325_s9ZN9.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026 / go-shu",
-    "link": "https://bgm.tv/subject/636325"
+    "description": "2026 / Linda Hambäck",
+    "link": "https://bgm.tv/subject/661787"
   }
 ]

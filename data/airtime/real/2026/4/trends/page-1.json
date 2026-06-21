@@ -47,24 +47,6 @@
     "link": "https://bgm.tv/subject/494608"
   },
   {
-    "id": "272432",
-    "type": "tmdb",
-    "title": "低智商犯罪",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
-    "releaseDate": "2026-05-04",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
-    "link": null,
-    "tmdb_id": "272432",
-    "tmdb_site_id": "tv/272432",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "549830",
     "type": "link",
     "title": "克拉克森的农场 第五季",
@@ -74,6 +56,24 @@
     "rating": "",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
+  },
+  {
+    "id": "272432",
+    "type": "tmdb",
+    "title": "低智商犯罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
+    "link": null,
+    "tmdb_id": "272432",
+    "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "300529",
@@ -122,7 +122,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.7",
+    "rating": "8.6",
     "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
     "link": null,
     "tmdb_id": "303143",
@@ -152,44 +152,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "315494",
-    "type": "tmdb",
-    "title": "再生 ～最后英雄～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
-    "link": null,
-    "tmdb_id": "315494",
-    "tmdb_site_id": "tv/315494",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "636399",
     "type": "link",
     "title": "挽救计划",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
     "releaseDate": "2026-03-20",
     "mediaType": "real",
-    "rating": "7.6",
+    "rating": "7.5",
     "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
     "link": "https://bgm.tv/subject/636399"
-  },
-  {
-    "id": "631823",
-    "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
   },
   {
     "id": "305227",
@@ -210,6 +181,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "641417",
+    "type": "link",
+    "title": "超新丁伙头兵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
+    "link": "https://bgm.tv/subject/641417"
+  },
+  {
     "id": "654522",
     "type": "link",
     "title": "校园之外 第一季",
@@ -221,15 +203,134 @@
     "link": "https://bgm.tv/subject/654522"
   },
   {
-    "id": "369191",
+    "id": "631823",
     "type": "link",
-    "title": "航海王 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/99/369191_N1rrT.jpg",
-    "releaseDate": "2026-03-10",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
     "mediaType": "real",
-    "rating": "7.5",
-    "description": "8话 /  2026年3月10日 / Matt Owens、Joe Tracz、Steven Maeda、Eiichiro Oda、尾田栄一郎 (创意监修)",
-    "link": "https://bgm.tv/subject/369191"
+    "rating": "8.4",
+    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
+  },
+  {
+    "id": "315494",
+    "type": "tmdb",
+    "title": "重生：最后的英雄",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
+    "link": null,
+    "tmdb_id": "315494",
+    "tmdb_site_id": "tv/315494",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "224372",
+    "type": "tmdb",
+    "title": "七王国的骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+    "releaseDate": "2026-01-18",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "link": null,
+    "tmdb_id": "224372",
+    "tmdb_site_id": "tv/224372",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "289424",
+    "type": "tmdb",
+    "title": "努力克服自卑的我们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.1",
+    "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+    "link": null,
+    "tmdb_id": "289424",
+    "tmdb_site_id": "tv/289424",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "626794",
+    "type": "link",
+    "title": "月夜行路 -答案尽在名作之中-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
+    "link": "https://bgm.tv/subject/626794"
+  },
+  {
+    "id": "305986",
+    "type": "tmdb",
+    "title": "钟表馆杀人事件",
+    "posterPath": "https://image.tmdb.org/t/p/w500/a65r9Weu0hVLNA7uZFv1YekXImR.jpg",
+    "releaseDate": "2026-02-27",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "改编自绫辻行人创作的同名畅销小说，讲述了编辑江南孝明（奥智哉 饰）与同事前往神秘宅邸“钟表馆”采访灵异事件，却在封闭空间中卷入连环杀人案。同时，推理作家鹿谷门实（青木崇高 饰）也介入调查，共同揭开宅邸与过去惨剧的真相。",
+    "link": null,
+    "tmdb_id": "305986",
+    "tmdb_site_id": "tv/305986",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "289147",
+    "type": "tmdb",
+    "title": "灵魂摆渡·十年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+    "releaseDate": "2026-06-02",
+    "mediaType": "tv",
+    "rating": "9.1",
+    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+    "link": null,
+    "tmdb_id": "289147",
+    "tmdb_site_id": "tv/289147",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "279446",
+    "type": "tmdb",
+    "title": "太平年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+    "releaseDate": "2026-01-23",
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
+    "link": null,
+    "tmdb_id": "279446",
+    "tmdb_site_id": "tv/279446",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "279388",
@@ -259,92 +360,5 @@
     "rating": "5.8",
     "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
     "link": "https://bgm.tv/subject/533266"
-  },
-  {
-    "id": "541822",
-    "type": "link",
-    "title": "夜魔侠：重生 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
-    "link": "https://bgm.tv/subject/541822"
-  },
-  {
-    "id": "641417",
-    "type": "link",
-    "title": "超新丁伙头兵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
-    "link": "https://bgm.tv/subject/641417"
-  },
-  {
-    "id": "626794",
-    "type": "link",
-    "title": "月夜行路 -答案尽在名作之中-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
-    "link": "https://bgm.tv/subject/626794"
-  },
-  {
-    "id": "289424",
-    "type": "tmdb",
-    "title": "努力克服自卑的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
-    "link": null,
-    "tmdb_id": "289424",
-    "tmdb_site_id": "tv/289424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "198178",
-    "type": "tmdb",
-    "title": "奇迹人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5wfW72dFSqJGboyh6fCD01wxrLv.jpg",
-    "releaseDate": "2026-01-27",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-    "link": null,
-    "tmdb_id": "198178",
-    "tmdb_site_id": "tv/198178",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "224372",
-    "type": "tmdb",
-    "title": "七王国的骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-    "releaseDate": "2026-01-18",
-    "mediaType": "tv",
-    "rating": "8.4",
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-    "link": null,
-    "tmdb_id": "224372",
-    "tmdb_site_id": "tv/224372",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

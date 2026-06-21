@@ -1,16 +1,5 @@
 [
   {
-    "id": "505401",
-    "type": "link",
-    "title": "无敌少侠 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
-    "releaseDate": "2026-03-18",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
-    "link": "https://bgm.tv/subject/505401"
-  },
-  {
     "id": "312522",
     "type": "tmdb",
     "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
@@ -18,7 +7,7 @@
     "releaseDate": "2026-04-07",
     "mediaType": "tv",
     "rating": "7.2",
-    "description": "2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "description": "12话 /  2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
     "link": null,
     "tmdb_id": "312522",
     "tmdb_site_id": "tv/312522",
@@ -36,6 +25,17 @@
     "rating": "7.2",
     "description": "1话 /  2026年2月6日 / 亀山陽平 / 亀山陽平 / 亀山陽平",
     "link": "https://bgm.tv/subject/586102"
+  },
+  {
+    "id": "505401",
+    "type": "link",
+    "title": "无敌少侠 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/13/505401_hJRj1.jpg",
+    "releaseDate": "2026-03-18",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "8话 /  2026年3月18日 / Paul Furminger, Haylee Herrick, Vinton Heuck, Jae Harm, William Ruzicka, Jeff Allen, Robert Valley, Cory Evans, Jay Baker",
+    "link": "https://bgm.tv/subject/505401"
   },
   {
     "id": "312822",
@@ -94,6 +94,22 @@
     "link": "https://bgm.tv/subject/544628"
   },
   {
+    "id": "65930/season/0/episode/18",
+    "type": "tmdb",
+    "title": "『我的英雄学院』No.170＋1『More』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/55/644516_Nq35f.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "1话 /  2026-05-02 / 堀越耕平（集英社 ジャンプコミックス刊）",
+    "link": null,
+    "tmdb_id": "65930/season/0/episode/18",
+    "tmdb_site_id": "tv/65930/season/0/episode/18",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "276393",
     "type": "tmdb",
     "title": "现在多闻君是哪一面!?",
@@ -126,6 +142,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "563256",
+    "type": "link",
+    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年5月8日",
+    "link": "https://bgm.tv/subject/563256"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -142,17 +169,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "563256",
-    "type": "link",
-    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年5月8日",
-    "link": "https://bgm.tv/subject/563256"
-  },
-  {
     "id": "544627",
     "type": "link",
     "title": "少女与战车 lovelove大作战！ 第3幕",
@@ -164,13 +180,29 @@
     "link": "https://bgm.tv/subject/544627"
   },
   {
+    "id": "91768",
+    "type": "tmdb",
+    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
+    "link": null,
+    "tmdb_id": "91768",
+    "tmdb_site_id": "tv/91768/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "541814",
     "type": "link",
     "title": "偶像大师 百万现场！～终有一天，立于中央～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
     "releaseDate": "2026-03-27",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
     "link": "https://bgm.tv/subject/541814"
   },
@@ -191,33 +223,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "91768",
-    "type": "tmdb",
-    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
-    "link": null,
-    "tmdb_id": "91768",
-    "tmdb_site_id": "tv/91768/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "7.0",
     "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": null,
     "tmdb_id": "283428",
     "tmdb_site_id": "tv/283428",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "303870",
+    "type": "tmdb",
+    "title": "雾尾粉丝后援会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "12话 /  2026年4月2日 / 外山草 / 地球のお魚ぽんちゃん（リュエルコミックス／実業之日本社 刊） / 林奈美",
+    "link": null,
+    "tmdb_id": "303870",
+    "tmdb_site_id": "tv/303870",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -272,17 +304,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "544626",
-    "type": "link",
-    "title": "少女与战车 lovelove大作战！ 第2幕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
-    "link": "https://bgm.tv/subject/544626"
-  },
-  {
     "id": "651692",
     "type": "link",
     "title": "少年与高达",
@@ -294,30 +315,14 @@
     "link": "https://bgm.tv/subject/651692"
   },
   {
-    "id": "549975",
+    "id": "544626",
     "type": "link",
-    "title": "安昂传奇：最后的气宗",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
-    "releaseDate": "2026-10-09",
+    "title": "少女与战车 lovelove大作战！ 第2幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg",
+    "releaseDate": "2026-01-30",
     "mediaType": "anime",
-    "rating": "6.7",
-    "description": "1话 /  2026年10月9日",
-    "link": "https://bgm.tv/subject/549975"
-  },
-  {
-    "id": "295357",
-    "type": "tmdb",
-    "title": "北斗神拳 -FIST OF THE NORTH STAR-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/ae/454438_Q43mf.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
     "rating": "6.8",
-    "description": "2026年4月10日 / 前田洋志 / 武論尊・原哲夫 / 久恒直樹",
-    "link": null,
-    "tmdb_id": "295357",
-    "tmdb_site_id": "tv/295357",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544626"
   }
 ]

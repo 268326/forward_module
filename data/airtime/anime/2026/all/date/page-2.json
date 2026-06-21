@@ -66,13 +66,24 @@
     "link": "https://bgm.tv/subject/618793"
   },
   {
+    "id": "555710",
+    "type": "link",
+    "title": "时光代理人 第三季 Part 1",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ff/a7/555710_83P17.jpg",
+    "releaseDate": "2026-08-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年8月14日",
+    "link": "https://bgm.tv/subject/555710"
+  },
+  {
     "id": "633836",
     "type": "link",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "7.5",
+    "rating": "7.7",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
   },
@@ -183,6 +194,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "571896",
+    "type": "link",
+    "title": "人造人009 涅墨西斯",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/07/0b/571896_fT9FA.jpg",
+    "releaseDate": "2026-07-19",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "3话 /  2026年7月19日 / 石ノ森章太郎",
+    "link": "https://bgm.tv/subject/571896"
+  },
+  {
     "id": "623228",
     "type": "link",
     "title": "你与烟花与约定",
@@ -203,6 +225,17 @@
     "rating": "",
     "description": "2026年7月13日",
     "link": "https://bgm.tv/subject/595884"
+  },
+  {
+    "id": "662006",
+    "type": "link",
+    "title": "闇芝居 十七期",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/b0/662006_2pM2n.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日",
+    "link": "https://bgm.tv/subject/662006"
   },
   {
     "id": "633711",
@@ -236,45 +269,5 @@
     "rating": "",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": "https://bgm.tv/subject/587109"
-  },
-  {
-    "id": "638185",
-    "type": "link",
-    "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/d8/638185_4Ni0n.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月10日 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊）",
-    "link": "https://bgm.tv/subject/638185"
-  },
-  {
-    "id": "624691",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/5c/624691_3u3s8.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "60话 /  2026年7月10日",
-    "link": "https://bgm.tv/subject/624691"
-  },
-  {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xWgtg6l6vLaucO5caOwy5GywpX9.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": null,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

@@ -43,7 +43,7 @@
     "id": "321689",
     "type": "tmdb",
     "title": "ALIUS -特定事象捜査ファイル-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/fc/643652_EWIMp.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/fc/643652_NNss9.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "tv",
     "rating": "0.0",
@@ -56,6 +56,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "661511",
+    "type": "link",
+    "title": "ANI-ROCK FES.2026 「僕のヒーローアカデミア  PLUS ULTRA LIVE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f7/a9/661511_LvWeH.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-11-22 / Omoinotake、SIX LOUNGE、DISH//、BLUE ENCOUNT、ポルノグラフィティ／秋山黄色、KANA-BOON、TK from 凛として時雨、ポルノグラフィティ、Little Glee Monster",
+    "link": "https://bgm.tv/subject/661511"
   },
   {
     "id": "642434",
@@ -286,16 +297,5 @@
     "rating": "",
     "description": "8话 /  2026年8月5日",
     "link": "https://bgm.tv/subject/534091"
-  },
-  {
-    "id": "648801",
-    "type": "link",
-    "title": "CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/f9/648801_B1P2d.jpg",
-    "releaseDate": "2026-05-09",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026年5月9日",
-    "link": "https://bgm.tv/subject/648801"
   }
 ]

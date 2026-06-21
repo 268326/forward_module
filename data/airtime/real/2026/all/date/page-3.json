@@ -1,5 +1,38 @@
 [
   {
+    "id": "632522",
+    "type": "link",
+    "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
+    "releaseDate": "2026-09-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年9月22日",
+    "link": "https://bgm.tv/subject/632522"
+  },
+  {
+    "id": "639664",
+    "type": "link",
+    "title": "Morfonica LIVE「Movement」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/88/639664_lv9qd.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-22 / Morfonica",
+    "link": "https://bgm.tv/subject/639664"
+  },
+  {
+    "id": "660292",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE DAY2 Blooming Sign",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/87/660292_969Be.jpg",
+    "releaseDate": "2026-09-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年9月20日",
+    "link": "https://bgm.tv/subject/660292"
+  },
+  {
     "id": "647204",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE DAY1 〜夢咲くワンダーミラージュ〜",
@@ -22,6 +55,17 @@
     "link": "https://bgm.tv/subject/640614"
   },
   {
+    "id": "628086",
+    "type": "link",
+    "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
+    "link": "https://bgm.tv/subject/628086"
+  },
+  {
     "id": "526932",
     "type": "link",
     "title": "踊る大捜査線 N.E.W.",
@@ -42,6 +86,17 @@
     "rating": "",
     "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams、Zach Cherry、Kali Reis、Paul Walter Hauser",
     "link": "https://bgm.tv/subject/580127"
+  },
+  {
+    "id": "623923",
+    "type": "link",
+    "title": "八つ墓村",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/dd/623923_2zO52.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月18日 / 清水崇 / 尾上松也",
+    "link": "https://bgm.tv/subject/623923"
   },
   {
     "id": "658184",
@@ -170,15 +225,15 @@
     "link": "https://bgm.tv/subject/650415"
   },
   {
-    "id": "650838",
+    "id": "661992",
     "type": "link",
-    "title": "LoveLive! Superstar!! Liella! 结女运动会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/82/650838_Em7xd.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "虚ろな十字架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/72/661992_fCej1.jpg",
+    "releaseDate": "2026-09-06",
     "mediaType": "real",
     "rating": "",
-    "description": "4话 /  2026-09-05 / Liella!（チーム「あまとう」（Liyuu（唐可可 役）、岬なこ（嵐千砂都 役）、鈴原希実（桜小路きな子 役）、坂倉花（鬼塚冬毬役 ））、チーム「BuBuBuBu♡」（伊達さゆり（澁谷かのん 役）、薮島朱音（米女メイ 役）、大熊和奏（若菜四季 役）、結那（ウィーン・マルガレーテ 役））、チーム「右だC」（ペイトン尚未（平安名すみれ 役）、青山なぎさ（葉月恋 役）、絵森彩（鬼塚夏美 役）））",
-    "link": "https://bgm.tv/subject/650838"
+    "description": "2026年9月6日 / 瀬々敬久 / 杉原憲明 / 香取慎吾",
+    "link": "https://bgm.tv/subject/661992"
   },
   {
     "id": "632521",
@@ -203,69 +258,14 @@
     "link": "https://bgm.tv/subject/650417"
   },
   {
-    "id": "623077",
+    "id": "650838",
     "type": "link",
-    "title": "白鸟与蝙蝠",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a8/75/623077_Iug87.jpg",
+    "title": "LoveLive! Superstar!! Liella! 结女运动会",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/82/650838_Em7xd.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-04 / 岸善幸 / 向井康介 / 松村北斗、今田美桜",
-    "link": "https://bgm.tv/subject/623077"
-  },
-  {
-    "id": "639798",
-    "type": "link",
-    "title": "オルケリア1st LIVE「PRINCESS RESONANCE」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/72/639798_QB99F.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-08-30 / 葵あずさ(空野みなも／プリンセス・リップル役)、藤本侑里(識辺かがり／プリンセス・ジール役)、橘杏咲(一条ながせ／プリンセス・ミーティア役)、鬼頭明里(風花すみれ／プリンセス・ヴィオラ役)、伊藤美来(風花りり／プリンセス・ネージュ役)",
-    "link": "https://bgm.tv/subject/639798"
-  },
-  {
-    "id": "658652",
-    "type": "link",
-    "title": "アニメ『メダリスト』スペシャルエキシビション2026",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/64/02/658652_zGzi3.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026-08-30 / 春瀬なつみ、大塚剛央、市ノ瀬加那、阿部菜摘子、坂泰斗、加藤英美里",
-    "link": "https://bgm.tv/subject/658652"
-  },
-  {
-    "id": "658611",
-    "type": "link",
-    "title": "人生复本 第二季",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-08-28",
-    "link": "https://bgm.tv/subject/658611"
-  },
-  {
-    "id": "633756",
-    "type": "link",
-    "title": "見えない娘 THE INVISIBLES",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/72/633756_LBh5b.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 竹林亮 / 夏生さえり、竹林亮 / 毎熊克哉",
-    "link": "https://bgm.tv/subject/633756"
-  },
-  {
-    "id": "627226",
-    "type": "link",
-    "title": "平行と垂直",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/49/90/627226_l97TZ.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年8月28日 / 小林聖太郎 / 山野海 / 安田章大（SUPER EIGHT）、のん",
-    "link": "https://bgm.tv/subject/627226"
+    "description": "4话 /  2026-09-05 / Liella!（チーム「あまとう」（Liyuu（唐可可 役）、岬なこ（嵐千砂都 役）、鈴原希実（桜小路きな子 役）、坂倉花（鬼塚冬毬役 ））、チーム「BuBuBuBu♡」（伊達さゆり（澁谷かのん 役）、薮島朱音（米女メイ 役）、大熊和奏（若菜四季 役）、結那（ウィーン・マルガレーテ 役））、チーム「右だC」（ペイトン尚未（平安名すみれ 役）、青山なぎさ（葉月恋 役）、絵森彩（鬼塚夏美 役）））",
+    "link": "https://bgm.tv/subject/650838"
   }
 ]

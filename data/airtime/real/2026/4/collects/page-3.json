@@ -18,42 +18,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307682",
-    "type": "tmdb",
-    "title": "冬日的什么呀，春日的什么呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
-    "link": null,
-    "tmdb_id": "307682",
-    "tmdb_site_id": "tv/307682",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315494",
-    "type": "tmdb",
-    "title": "再生 ～最后英雄～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
-    "link": null,
-    "tmdb_id": "315494",
-    "tmdb_site_id": "tv/315494",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "489598",
     "type": "link",
     "title": "帝王计划：怪兽遗产 第二季",
@@ -74,6 +38,24 @@
     "rating": "",
     "description": "1话 /  2026年3月15日",
     "link": "https://bgm.tv/subject/513985"
+  },
+  {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "278882",
@@ -123,6 +105,100 @@
     "link": "https://bgm.tv/subject/587208"
   },
   {
+    "id": "609282",
+    "type": "link",
+    "title": "【10周年記念動画】Go！プリンセスプリキュア ごきげんよう！10thドリームパーティー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/84/609282_Xx1S1.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月10日 / [演出] 田中裕太 / 田中仁 / 春野はるか(嶋村侑)、海藤みなみ(浅野真澄)、天ノ川きらら(山村響)、紅城トワ(沢城みゆき)",
+    "link": "https://bgm.tv/subject/609282"
+  },
+  {
+    "id": "549830",
+    "type": "link",
+    "title": "克拉克森的农场 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
+    "releaseDate": "2026-06-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
+    "link": "https://bgm.tv/subject/549830"
+  },
+  {
+    "id": "273977",
+    "type": "tmdb",
+    "title": "莎拉的真伪人生",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2czgTQKJoBzO7LuX6Gjjn846U76.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "首尔商圈惊现女尸，线索指向曾名动名流圈的奢华品牌代表金莎拉（申惠善 饰）。刑警朴武京（李浚赫 饰）介入调查，却惊觉这位名媛竟无出生与学历记录，身份完全成谜。在优雅与落魄交织的异样证词中，莎拉的人生如同被解构的镜像。这是一场剥开华丽谎言、追索“幽灵”身份的悬疑博弈。她究竟是顶级骗子，还是被世界遗忘的人？",
+    "link": null,
+    "tmdb_id": "273977",
+    "tmdb_site_id": "tv/273977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307682",
+    "type": "tmdb",
+    "title": "冬日的什么呀，春日的什么呢",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4rOz28yig7H1lZZB04SoNNDvyrU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "小说家土田文菜（杉咲花）喜欢偶尔去自助洗衣店享受寂寥的感觉并整理自己的思绪。一天她洗衣服时候遇见了发型师佐伯幸雄（成田凌）。幸雄提醒文菜耳机漏音了，两个人以此为契机聊了起来。洗完衣服，文菜跟着幸雄回家，两个人莫名其妙地开始了交往",
+    "link": null,
+    "tmdb_id": "307682",
+    "tmdb_site_id": "tv/307682",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307652",
+    "type": "tmdb",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "link": null,
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313902",
+    "type": "tmdb",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "link": null,
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "626794",
     "type": "link",
     "title": "月夜行路 -答案尽在名作之中-",
@@ -163,24 +239,6 @@
     "link": "https://bgm.tv/subject/461696"
   },
   {
-    "id": "273977",
-    "type": "tmdb",
-    "title": "莎拉的真伪人生",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2czgTQKJoBzO7LuX6Gjjn846U76.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "首尔商圈惊现女尸，线索指向曾名动名流圈的奢华品牌代表金莎拉（申惠善 饰）。刑警朴武京（李浚赫 饰）介入调查，却惊觉这位名媛竟无出生与学历记录，身份完全成谜。在优雅与落魄交织的异样证词中，莎拉的人生如同被解构的镜像。这是一场剥开华丽谎言、追索“幽灵”身份的悬疑博弈。她究竟是顶级骗子，还是被世界遗忘的人？",
-    "link": null,
-    "tmdb_id": "273977",
-    "tmdb_site_id": "tv/273977",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "578285",
     "type": "link",
     "title": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」",
@@ -192,56 +250,42 @@
     "link": "https://bgm.tv/subject/578285"
   },
   {
-    "id": "307652",
+    "id": "623665",
+    "type": "link",
+    "title": "AGITO 超能力战争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
+    "releaseDate": "2026-04-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
+    "link": "https://bgm.tv/subject/623665"
+  },
+  {
+    "id": "590729",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
+    "releaseDate": "2026-02-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年2月14日",
+    "link": "https://bgm.tv/subject/590729"
+  },
+  {
+    "id": "306528",
     "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "title": "副会长的主要工作",
+    "posterPath": "https://image.tmdb.org/t/p/w500/57Y40TQME1b8uk487LmhyAbhIXw.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "description": "学生会室里常年只有两个人——会长灰屋银和副会长栗下泪。原本学生会有许多干部，但由于栗下泪把所有工作都完美处理，其他人干脆不再出现。她外表端庄、成绩优秀，是毫无瑕疵的优等生，唯独对会长不断伸出奇怪的亲昵与捉弄。伪装成淑女的外表下，却藏着只对会长失控的偏爱情绪。在密闭的学生会室里，一场“危险而可爱的偏爱喜剧”就此展开——。\n\n　　本剧改编自逆縞的同名原著漫画。",
     "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
+    "tmdb_id": "306528",
+    "tmdb_site_id": "tv/306528",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "313902",
-    "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
-    "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "317001",
-    "type": "tmdb",
-    "title": "满级老祖被虐后全皇室求我回归",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
-    "releaseDate": "2026-05-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
-    "link": null,
-    "tmdb_id": "317001",
-    "tmdb_site_id": "tv/317001",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -260,24 +304,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "306528",
-    "type": "tmdb",
-    "title": "副会长的主要工作",
-    "posterPath": "https://image.tmdb.org/t/p/w500/57Y40TQME1b8uk487LmhyAbhIXw.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "学生会室里常年只有两个人——会长灰屋银和副会长栗下泪。原本学生会有许多干部，但由于栗下泪把所有工作都完美处理，其他人干脆不再出现。她外表端庄、成绩优秀，是毫无瑕疵的优等生，唯独对会长不断伸出奇怪的亲昵与捉弄。伪装成淑女的外表下，却藏着只对会长失控的偏爱情绪。在密闭的学生会室里，一场“危险而可爱的偏爱喜剧”就此展开——。\n\n　　本剧改编自逆縞的同名原著漫画。",
-    "link": null,
-    "tmdb_id": "306528",
-    "tmdb_site_id": "tv/306528",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -304,54 +330,21 @@
     "link": "https://bgm.tv/subject/552953"
   },
   {
-    "id": "590729",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！ 〜283スポーツフェスティバル〜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/99/590729_JaDMD.jpg",
-    "releaseDate": "2026-02-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年2月14日",
-    "link": "https://bgm.tv/subject/590729"
-  },
-  {
-    "id": "583890",
-    "type": "link",
-    "title": "ZUTOMAYO INTENSE II 「坐・ZOMBIE CRAB LABO」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/8b/583890_b5czP.jpg",
-    "releaseDate": "2026-02-28",
-    "mediaType": "real",
-    "rating": "",
-    "description": "16话 /  2026年2月28日",
-    "link": "https://bgm.tv/subject/583890"
-  },
-  {
-    "id": "320988",
+    "id": "254498",
     "type": "tmdb",
-    "title": "283 Production XXXX Performance XXX= S/N-GUL4R1TY",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6VbAilTVsGwMiXkfveHVHLgsRgi.jpg",
-    "releaseDate": "2026-04-11",
+    "title": "黑夜告白",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "无机的机械能成为生命吗\n\n这是一个旨在探寻该答案的项目。此次，“Straylight”为本项目提供了全面协助。我们将以该组合中黛冬优子小姐的学习模式为基础，尝试让无机的机械实现与人类的同化。该组合将尝试与无机的机械进行对话。通过对话，去推动其学习与成长。以确保无机的机械不会走上歧途。然后，我们必须做出最终判定。\n\n《无机的机械能成为生命吗》\n\n这是一场通过现场演出进行验证的实验。\n\n图灵测试：档案 “ALEV-1”",
+    "rating": "7.7",
+    "description": "1997年，一桩电梯失踪案，将刑警何远航（潘粤明 饰）、冉方旭（王鹤棣 饰）卷入迷雾。经历波折，两人也曾陷入迷茫与怀疑，最终揭开真相。岁月流转，治愈人生迷惘，坚守正义，以乐观坚韧化解磨难。",
     "link": null,
-    "tmdb_id": "320988",
-    "tmdb_site_id": "tv/320988",
+    "tmdb_id": "254498",
+    "tmdb_site_id": "tv/254498",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "623665",
-    "type": "link",
-    "title": "AGITO 超能力战争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
-    "releaseDate": "2026-04-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
-    "link": "https://bgm.tv/subject/623665"
   }
 ]

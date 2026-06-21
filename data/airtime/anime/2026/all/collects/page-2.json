@@ -1,19 +1,14 @@
 [
   {
-    "id": "288589",
-    "type": "tmdb",
-    "title": "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/8c/554013_MGo2g.jpg",
-    "releaseDate": "2026-01-10",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "12话 /  2026年1月10日 / 畳谷哲也 / 赤池宗（オーバーラップノベルス刊） / 中村真悟",
-    "link": null,
-    "tmdb_id": "288589",
-    "tmdb_site_id": "tv/288589",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "623179",
+    "type": "link",
+    "title": "「ray 超かぐや姫！Version」MV",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/da/623179_ww0Wi.jpg",
+    "releaseDate": "2026-01-31",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "1话 /  2026年1月31日",
+    "link": "https://bgm.tv/subject/623179"
   },
   {
     "id": "280049",
@@ -27,6 +22,22 @@
     "link": null,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "288589",
+    "type": "tmdb",
+    "title": "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/8c/554013_MGo2g.jpg",
+    "releaseDate": "2026-01-10",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "12话 /  2026年1月10日 / 畳谷哲也 / 赤池宗（オーバーラップノベルス刊） / 中村真悟",
+    "link": null,
+    "tmdb_id": "288589",
+    "tmdb_site_id": "tv/288589",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -81,7 +92,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/f9/555445_YBxml.jpg",
     "releaseDate": "2026-01-08",
     "mediaType": "tv",
-    "rating": "4.7",
+    "rating": "4.6",
     "description": "12话 /  2026年1月8日 / 鎌仲史陽 / kiki（GCノベルズ／マイクロマガジン社刊） / 松元美季、松本文男、福世孝明、古澤貴文",
     "link": null,
     "tmdb_id": "285357",
@@ -107,20 +118,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "275902",
+    "id": "296286",
     "type": "tmdb",
-    "title": "神八小妹不可怕",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/33/522414_4VRzA.jpg",
-    "releaseDate": "2026-01-11",
+    "title": "躲在超市后门抽烟的两人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eHz8ZXMeqUOtZXhJTQcuWMMGqEb.jpg",
+    "releaseDate": "2026-07-09",
     "mediaType": "tv",
-    "rating": "6.1",
-    "description": "12话 /  2026年1月11日 / 博史池畠 / 百合太郎（新潮社「くらげバンチ」連載） / 山田太郎、森口弘之、中島瑛介",
+    "rating": "0.0",
+    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
     "link": null,
-    "tmdb_id": "275902",
-    "tmdb_site_id": "tv/275902",
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "94404",
@@ -135,6 +148,22 @@
     "tmdb_id": "94404",
     "tmdb_site_id": "tv/94404/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "275902",
+    "type": "tmdb",
+    "title": "神八小妹不可怕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/33/522414_4VRzA.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "12话 /  2026年1月11日 / 博史池畠 / 百合太郎（新潮社「くらげバンチ」連載） / 山田太郎、森口弘之、中島瑛介",
+    "link": null,
+    "tmdb_id": "275902",
+    "tmdb_site_id": "tv/275902",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -187,6 +216,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "255064",
     "type": "tmdb",
     "title": "达尔文事变",
@@ -219,40 +266,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296286",
+    "id": "259819",
     "type": "tmdb",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/eHz8ZXMeqUOtZXhJTQcuWMMGqEb.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315816",
-    "type": "tmdb",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "title": "公鸡斗士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
     "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "5.2",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
     "link": null,
-    "tmdb_id": "315816",
-    "tmdb_site_id": "tv/315816",
+    "tmdb_id": "259819",
+    "tmdb_site_id": "tv/259819",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "284444",
@@ -266,22 +293,6 @@
     "link": null,
     "tmdb_id": "284444",
     "tmdb_site_id": "tv/284444",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "259819",
-    "type": "tmdb",
-    "title": "公鸡斗士",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/7a/505258_73XO8.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年4月5日 / 鈴木大介 / 桜谷シュウ『ニワトリ・ファイター』 / 茶之原拓也、Shin Joseph",
-    "link": null,
-    "tmdb_id": "259819",
-    "tmdb_site_id": "tv/259819",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -319,33 +330,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285291",
-    "type": "tmdb",
-    "title": "转生之后的我变成了龙蛋",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b7/ce/544106_L6Pj1.jpg",
-    "releaseDate": "2026-01-10",
-    "mediaType": "tv",
-    "rating": "4.2",
-    "description": "12话 /  2026年1月10日 / 高村雄太 / 猫子・NAJI柳田（掲載「SQEXノベル」スクウェア・エニックス刊） / 小野田将人",
-    "link": null,
-    "tmdb_id": "285291",
-    "tmdb_site_id": "tv/285291",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet (新房昭之・虚淵玄・蒼樹うめ・SHAFT) / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
-  },
-  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -357,6 +341,22 @@
     "link": null,
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285291",
+    "type": "tmdb",
+    "title": "转生之后的我变成了龙蛋",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b7/ce/544106_L6Pj1.jpg",
+    "releaseDate": "2026-01-10",
+    "mediaType": "tv",
+    "rating": "4.2",
+    "description": "12话 /  2026年1月10日 / 高村雄太 / 猫子・NAJI柳田（掲載「SQEXノベル」スクウェア・エニックス刊） / 小野田将人",
+    "link": null,
+    "tmdb_id": "285291",
+    "tmdb_site_id": "tv/285291",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

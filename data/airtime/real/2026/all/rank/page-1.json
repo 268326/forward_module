@@ -57,7 +57,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
     "releaseDate": "2026-03-20",
     "mediaType": "real",
-    "rating": "7.6",
+    "rating": "7.5",
     "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
     "link": "https://bgm.tv/subject/636399"
   },
@@ -82,6 +82,24 @@
     "rating": "7.5",
     "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
     "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "272432",
+    "type": "tmdb",
+    "title": "低智商犯罪",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
+    "link": null,
+    "tmdb_id": "272432",
+    "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "300529",

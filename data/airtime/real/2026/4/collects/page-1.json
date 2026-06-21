@@ -6,7 +6,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
     "releaseDate": "2026-03-20",
     "mediaType": "real",
-    "rating": "7.6",
+    "rating": "7.5",
     "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
     "link": "https://bgm.tv/subject/636399"
   },
@@ -76,6 +76,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "276161",
+    "type": "tmdb",
+    "title": "铁拳教育",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
+    "link": null,
+    "tmdb_id": "276161",
+    "tmdb_site_id": "tv/276161",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -189,35 +207,6 @@
     "link": "https://bgm.tv/subject/623261"
   },
   {
-    "id": "276161",
-    "type": "tmdb",
-    "title": "铁拳教育",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "9.5",
-    "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
-    "link": null,
-    "tmdb_id": "276161",
-    "tmdb_site_id": "tv/276161",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "620937",
-    "type": "link",
-    "title": "匹兹堡医护前线 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "15话 /  2026-01-08",
-    "link": "https://bgm.tv/subject/620937"
-  },
-  {
     "id": "300529",
     "type": "tmdb",
     "title": "地狱占星师",
@@ -234,6 +223,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "620937",
+    "type": "link",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "8.0",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
   },
   {
     "id": "613881",
@@ -275,7 +275,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/yLmo3LvIZTzfIzswyQyAovfcfdO.jpg",
     "releaseDate": "2026-05-04",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "7.9",
     "description": "警察张一昂（王骁 饰）因匿名举报信赴三江口调查案件时，意外破获连环杀人案并锁定富商周荣（王传君 饰）犯罪团伙，在与当地蠢贼群体的荒诞互动中，张一昂逐步查明刑警队长被害真相并将真凶绳之以法。",
     "link": null,
     "tmdb_id": "272432",
@@ -287,17 +287,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "478191",
-    "type": "link",
-    "title": "真人快打2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "real",
-    "rating": "6.1",
-    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
-    "link": "https://bgm.tv/subject/478191"
-  },
-  {
     "id": "541822",
     "type": "link",
     "title": "夜魔侠：重生 第二季",
@@ -307,6 +296,17 @@
     "rating": "7.5",
     "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
     "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "478191",
+    "type": "link",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "real",
+    "rating": "6.1",
+    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
+    "link": "https://bgm.tv/subject/478191"
   },
   {
     "id": "198178",

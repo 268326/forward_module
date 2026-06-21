@@ -187,17 +187,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "263330",
+    "id": "65942",
     "type": "tmdb",
-    "title": "靠死亡游戏混饭吃。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0d/a2/510753_14ua5.jpg",
-    "releaseDate": "2026-01-07",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "5.2",
-    "description": "11话 /  2026年1月7日 / 上野壮大 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊） / 長田絵里",
+    "rating": "7.7",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
-    "tmdb_id": "263330",
-    "tmdb_site_id": "tv/263330",
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -212,6 +212,22 @@
     "rating": "7.5",
     "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
     "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "263330",
+    "type": "tmdb",
+    "title": "靠死亡游戏混饭吃。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0d/a2/510753_14ua5.jpg",
+    "releaseDate": "2026-01-07",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "11话 /  2026年1月7日 / 上野壮大 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊） / 長田絵里",
+    "link": null,
+    "tmdb_id": "263330",
+    "tmdb_site_id": "tv/263330",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "117465",
@@ -351,16 +367,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "623179",
-    "type": "link",
-    "title": "「ray 超かぐや姫！Version」MV",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/da/623179_ww0Wi.jpg",
-    "releaseDate": "2026-01-31",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "1话 /  2026年1月31日",
-    "link": "https://bgm.tv/subject/623179"
   }
 ]

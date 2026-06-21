@@ -1,5 +1,45 @@
 [
   {
+    "id": "638185",
+    "type": "link",
+    "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/d8/638185_4Ni0n.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月10日 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊）",
+    "link": "https://bgm.tv/subject/638185"
+  },
+  {
+    "id": "624691",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/5c/624691_3u3s8.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "60话 /  2026年7月10日",
+    "link": "https://bgm.tv/subject/624691"
+  },
+  {
+    "id": "296437",
+    "type": "tmdb",
+    "title": "从0位居民开始的边境领主大人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xWgtg6l6vLaucO5caOwy5GywpX9.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
+    "link": null,
+    "tmdb_id": "296437",
+    "tmdb_site_id": "tv/296437",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "484677",
     "type": "link",
     "title": "大圣崛起",
@@ -278,52 +318,12 @@
   {
     "id": "636067",
     "type": "link",
-    "title": "被遗弃的圣女的异世界饭旅隐藏技能召唤了露营车",
+    "title": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/fd/636067_0uuym.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "anime",
     "rating": "",
     "description": "2026年7月6日 / 濁川敦 / 米織（KADOKAWA『カドカワBOOKS』） / 石井泉",
     "link": "https://bgm.tv/subject/636067"
-  },
-  {
-    "id": "607340",
-    "type": "link",
-    "title": "与奔跑在透明之夜的你，谈一场看不见的恋爱",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし / 澤田慶宏、石井優月",
-    "link": "https://bgm.tv/subject/607340"
-  },
-  {
-    "id": "590786",
-    "type": "link",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_66lw7.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": "https://bgm.tv/subject/590786"
-  },
-  {
-    "id": "298831",
-    "type": "tmdb",
-    "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iSunmtMOna6Mj2DNX6mtAt01aRP.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月6日 / 葛谷直行 / はぐれメタボ（HJノベルス／ホビージャパン）；漫画：おおのいも（HJコミックス／コミックファイア連載） / 姉崎早也花",
-    "link": null,
-    "tmdb_id": "298831",
-    "tmdb_site_id": "tv/298831",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

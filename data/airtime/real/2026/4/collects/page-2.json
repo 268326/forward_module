@@ -6,27 +6,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/1c/617739_Qs23i.jpg",
     "releaseDate": "2026-04-07",
     "mediaType": "real",
-    "rating": "6.0",
+    "rating": "6.1",
     "description": "1话 /  2026年4月7日 / 越知靖 / 千阪拓也、高橋悠也（脚本监修）",
     "link": "https://bgm.tv/subject/617739"
-  },
-  {
-    "id": "304194",
-    "type": "tmdb",
-    "title": "重启",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
-    "link": null,
-    "tmdb_id": "304194",
-    "tmdb_site_id": "tv/304194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "303405",
@@ -40,6 +22,24 @@
     "link": null,
     "tmdb_id": "303405",
     "tmdb_site_id": "tv/303405",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "304194",
+    "type": "tmdb",
+    "title": "重启",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
+    "link": null,
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -119,17 +119,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "601438",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
-    "releaseDate": "2026-04-25",
-    "mediaType": "real",
-    "rating": "6.4",
-    "description": "2话 /  2026年4月25日",
-    "link": "https://bgm.tv/subject/601438"
-  },
-  {
     "id": "282418",
     "type": "link",
     "title": "惩罚者：最后一击",
@@ -139,6 +128,17 @@
     "rating": "7.1",
     "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
     "link": "https://bgm.tv/subject/282418"
+  },
+  {
+    "id": "601438",
+    "type": "link",
+    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
+    "releaseDate": "2026-04-25",
+    "mediaType": "real",
+    "rating": "6.4",
+    "description": "2话 /  2026年4月25日",
+    "link": "https://bgm.tv/subject/601438"
   },
   {
     "id": "289356",
@@ -165,9 +165,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "7.2",
+    "rating": "7.1",
     "description": "8话 /  2026-03-05",
     "link": "https://bgm.tv/subject/633271"
+  },
+  {
+    "id": "607932",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
   },
   {
     "id": "614123",
@@ -192,6 +203,17 @@
     "link": "https://bgm.tv/subject/621874"
   },
   {
+    "id": "625916",
+    "type": "link",
+    "title": "空中浩劫 第26季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
+    "releaseDate": "2026-01-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026年1月20日",
+    "link": "https://bgm.tv/subject/625916"
+  },
+  {
     "id": "307650",
     "type": "tmdb",
     "title": "侦探先生，你的背包开着呢",
@@ -208,17 +230,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "544948",
-    "type": "link",
-    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
-    "link": "https://bgm.tv/subject/544948"
   },
   {
     "id": "533266",
@@ -250,44 +261,33 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "607932",
-    "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
-  },
-  {
-    "id": "625916",
-    "type": "link",
-    "title": "空中浩劫 第26季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
-    "releaseDate": "2026-01-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年1月20日",
-    "link": "https://bgm.tv/subject/625916"
-  },
-  {
-    "id": "313635",
+    "id": "315494",
     "type": "tmdb",
-    "title": "如龙 Powered by 日本统一",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
-    "releaseDate": "2026-02-10",
+    "title": "重生：最后的英雄",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "rating": "6.7",
+    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
     "link": null,
-    "tmdb_id": "313635",
-    "tmdb_site_id": "tv/313635",
+    "tmdb_id": "315494",
+    "tmdb_site_id": "tv/315494",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "544948",
+    "type": "link",
+    "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/19/544948_DcAx0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
+    "link": "https://bgm.tv/subject/544948"
   },
   {
     "id": "588065",
@@ -323,20 +323,20 @@
     "link": "https://bgm.tv/subject/511454"
   },
   {
-    "id": "278882",
+    "id": "313635",
     "type": "tmdb",
-    "title": "年少有为",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "如龙 Powered by 日本统一",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
+    "releaseDate": "2026-02-10",
     "mediaType": "tv",
-    "rating": "7.8",
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
+    "rating": "8.0",
+    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
     "link": null,
-    "tmdb_id": "278882",
-    "tmdb_site_id": "tv/278882",
+    "tmdb_id": "313635",
+    "tmdb_site_id": "tv/313635",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   }

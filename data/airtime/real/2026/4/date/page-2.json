@@ -1,5 +1,21 @@
 [
   {
+    "id": "287591",
+    "type": "tmdb",
+    "title": "皎洁迎宵之月",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/25/fd/628277_J2UZg.jpg",
+    "releaseDate": "2026-10-23",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "1话 /  2026年10月23日 / 竹村謙太郎 / 徳永友一 / 道枝駿佑",
+    "link": null,
+    "tmdb_id": "287591",
+    "tmdb_site_id": "tv/287591",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "528731",
     "type": "link",
     "title": "泥面人",
@@ -22,24 +38,6 @@
     "link": "https://bgm.tv/subject/650117"
   },
   {
-    "id": "311125",
-    "type": "tmdb",
-    "title": "以身相許",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年10月16日 / ?田恵輔 / ?田恵輔 / 磯村勇斗、末澤誠也（Aぇ! group）",
-    "link": null,
-    "tmdb_id": "311125",
-    "tmdb_site_id": "tv/311125",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "TW"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "428025",
     "type": "link",
     "title": "街头霸王",
@@ -60,6 +58,24 @@
     "rating": "",
     "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
     "link": "https://bgm.tv/subject/650384"
+  },
+  {
+    "id": "311125",
+    "type": "tmdb",
+    "title": "以身相許",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iIOD7eQo55v0JwRHLlolYmPp3Dx.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年10月16日 / ?田恵輔 / ?田恵輔 / 磯村勇斗、末澤誠也（Aぇ! group）",
+    "link": null,
+    "tmdb_id": "311125",
+    "tmdb_site_id": "tv/311125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "213375",
@@ -124,17 +140,6 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "622250",
-    "type": "link",
-    "title": "时薪300日元的死神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
-    "link": "https://bgm.tv/subject/622250"
-  },
-  {
     "id": "578392",
     "type": "link",
     "title": "キリコのタクト～YELL～",
@@ -144,6 +149,17 @@
     "rating": "",
     "description": "1话 /  2026年10月2日 / 鈴木京香",
     "link": "https://bgm.tv/subject/578392"
+  },
+  {
+    "id": "661806",
+    "type": "link",
+    "title": "潘朵拉之心 RetraceⅡ-madness of lost memory-",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-02 / 山崎彬 / 山崎彬 / 横山賀三",
+    "link": "https://bgm.tv/subject/661806"
   },
   {
     "id": "657525",
@@ -168,6 +184,17 @@
     "link": "https://bgm.tv/subject/642227"
   },
   {
+    "id": "637421",
+    "type": "link",
+    "title": "あなたの息子ひき出します！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ef/ca/637421_iJwTI.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 深川栄洋 / 深川栄洋 / 宮澤美保、平野ノラ、のせりん、小野光南翔、大森南朋、吉行和子、生瀬勝久、かとうかず子、石崎、江口のりこ、白川和子、平田敦子、綾田俊樹、大後寿々花、小松和重、柄本明、西岡德馬、天海祐希",
+    "link": "https://bgm.tv/subject/637421"
+  },
+  {
     "id": "660124",
     "type": "link",
     "title": "本当にあった話（の話）",
@@ -177,6 +204,28 @@
     "rating": "",
     "description": "2026年10月2日 / 水上恒司",
     "link": "https://bgm.tv/subject/660124"
+  },
+  {
+    "id": "661729",
+    "type": "link",
+    "title": "沖晴くんの涙を殺して",
+    "posterPath": null,
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 矢崎仁司 / 広瀬アリス",
+    "link": "https://bgm.tv/subject/661729"
+  },
+  {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
   },
   {
     "id": "658997",
@@ -201,17 +250,6 @@
     "link": "https://bgm.tv/subject/645791"
   },
   {
-    "id": "633558",
-    "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
-    "link": "https://bgm.tv/subject/633558"
-  },
-  {
     "id": "638983",
     "type": "link",
     "title": "藁にもすがる獣たち",
@@ -234,47 +272,14 @@
     "link": "https://bgm.tv/subject/600005"
   },
   {
-    "id": "639664",
+    "id": "633558",
     "type": "link",
-    "title": "Morfonica LIVE「Movement」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/88/639664_lv9qd.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "ナギダイアリー",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
+    "releaseDate": "2026-09-25",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-09-22 / Morfonica",
-    "link": "https://bgm.tv/subject/639664"
-  },
-  {
-    "id": "632522",
-    "type": "link",
-    "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
-    "releaseDate": "2026-09-22",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年9月22日",
-    "link": "https://bgm.tv/subject/632522"
-  },
-  {
-    "id": "660292",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE DAY2 Blooming Sign",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/22/87/660292_969Be.jpg",
-    "releaseDate": "2026-09-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年9月20日",
-    "link": "https://bgm.tv/subject/660292"
-  },
-  {
-    "id": "640614",
-    "type": "link",
-    "title": "学园偶像音乐剧 2026年公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/31/640614_tdQ7n.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "13话 /  2026-09-19 / 岸本功喜 / 岸本功喜 / 堀内まり菜、浅井七海、杏ジュリア、清水理子、由良朱合、宮本佳林、安本彩花／南野巴那、仲村悠菜／及川結依、井上音生、村山結香、岡村さやか、蒼乃夕妃",
-    "link": "https://bgm.tv/subject/640614"
+    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
+    "link": "https://bgm.tv/subject/633558"
   }
 ]
