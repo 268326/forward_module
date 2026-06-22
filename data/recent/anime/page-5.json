@@ -103,7 +103,7 @@
     "releaseDate": "2020-01-01",
     "mediaType": "tv",
     "rating": "10.0",
-    "description": "普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。",
+    "description": "普通高中生菜月昴从便利店回家时，突然被强制召唤到异世界。刚抵达就遭遇地痞围殴、险些丧命，此时银发少女爱蜜莉雅与猫精灵帕克救下了他。昴为报恩，主动帮少女寻找被偷走的徽章，途中结识菲鲁特、罗姆爷。但在追查过程中，昴与爱蜜莉雅惨遭猎肠者艾尔莎刺杀死亡；随后触发专属能力死亡回归——死后时间回溯到刚被召唤到异世界的瞬间，开启无限轮回，誓要改变必死的命运。（本次新编集版在第一季动画基础上追加新场景，以2话合并成1话的形式制作成单集时长1小时的特别篇）",
     "link": null,
     "tmdb_id": "322512",
     "tmdb_site_id": "tv/322512",
@@ -221,15 +221,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "622633",
-    "type": "link",
-    "title": "世界在起舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg",
+    "id": "312020",
+    "type": "tmdb",
+    "title": "ワールド イズ ダンシング",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oOmQf94idSBnDueIrM3FNQy8IXw.jpg",
     "releaseDate": "2026-07-02",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年7月2日 / 黒柳トシマサ / 三原和人『ワールド イズ ダンシング』 (講談社モーニングKC刊) / 佐々木啓悟",
-    "link": "https://bgm.tv/subject/622633"
+    "link": null,
+    "tmdb_id": "312020",
+    "tmdb_site_id": "tv/312020",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "46195",
