@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/94/487522_tfxN1.jpg",
     "releaseDate": "2026-04-16",
     "mediaType": "anime",
-    "rating": "7.1",
+    "rating": "7.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/487522",
     "bgm_id": "487522",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 13,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 4
   },
   {
@@ -41,8 +41,23 @@
     "link": "http://bgm.tv/subject/564361",
     "bgm_id": "564361",
     "bgm_score": 5.6,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "607043",
+    "type": "link",
+    "title": "小3阿贝 QQ小芝麻",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/607043",
+    "bgm_id": "607043",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
   },
   {
     "id": "629167",
@@ -58,21 +73,6 @@
     "bgm_score": 6.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "607043",
-    "type": "link",
-    "title": "小3阿贝 QQ小芝麻",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/607043",
-    "bgm_id": "607043",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
   },
   {
     "id": "616378",

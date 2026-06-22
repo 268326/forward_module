@@ -98,6 +98,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "293697",
     "type": "tmdb",
     "title": "想结束这场“我爱你”的游戏",
@@ -152,25 +170,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "7.8",
+    "rating": "7.7",
     "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
     "link": "https://bgm.tv/subject/607915"
-  },
-  {
-    "id": "82684",
-    "type": "tmdb",
-    "title": "关于我转生变成史莱姆这档事 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_ZRYPc.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
-    "link": null,
-    "tmdb_id": "82684",
-    "tmdb_site_id": "tv/82684/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "353181",
@@ -196,6 +198,22 @@
     "tmdb_id": "283428",
     "tmdb_site_id": "tv/283428",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "82684",
+    "type": "tmdb",
+    "title": "关于我转生变成史莱姆这档事 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_ZRYPc.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
+    "link": null,
+    "tmdb_id": "82684",
+    "tmdb_site_id": "tv/82684/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -264,6 +282,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "196285",
     "type": "tmdb",
     "title": "异世界悠闲农家 第二季",
@@ -296,6 +332,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": "https://bgm.tv/subject/501963"
+  },
+  {
     "id": "290019",
     "type": "tmdb",
     "title": "和班上第二可爱的女孩成为朋友",
@@ -326,45 +373,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事发生在明治四十年（1907 年）在京都伏见居住的百川稻子什么都不擅长，每天都被父亲责骂，对于她来说的救赎就是祈祷神佛，某天一如往常她前往伏见稻荷神社参拜神明，遇到了一位自由奔放的少年坂本喜八，坂本喜八对稻子说不要信这些看不见的东西，从今之后将是电气时代。而此时稻子的 父亲对稻子说了关于结婚的事情，而且是父亲单方面决定的，稻子本来是放弃抵抗认为自己的价值就是如此，但坂本喜八打开了稻子想要离开这个家的心声，带着稻子离开了这个封闭的家。阻止结婚的方法是找出奇书《二十世纪电气目录》，那是喜八童年时代写下的关于电气的预言书，而喜八过去的哥哥清六带走这本书之后下落不明，喜八和稻子为了寻找这本奇书在京都和滋贺等地逃窜，消失的“电气目录”和其背后隐藏的秘密都等待揭开。",
-    "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
   }
 ]
