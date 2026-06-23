@@ -54,20 +54,44 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
+    "id": "288971",
     "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
-    "releaseDate": "2026-04-04",
+    "title": "穹庐下的魔女",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bJw09VllnGmHQlKUV4ziti2QTHN.jpg",
+    "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "4.9",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "rating": "0.0",
+    "description": "　　十三世纪，幼小的奴隶希塔拉在伊朗东部城市图斯被奴隶商委托给一个学者辈出的家族进行教育。希塔拉起初试图逃跑，但她被教导了知识的重要性，希塔拉在这里被女主人法蒂玛视为女儿般的宠爱，并学习了欧几里得的《几何原本》等诸多知识。家族的继承人穆罕默德为了研究学问而前往内沙布尔后 8 年，图斯遭到蒙古人的袭击。希塔拉被拖雷的军队俘虏，法蒂玛为了保护希塔拉而被杀害。此外，《几何原本》也被抢走了。被带到蒙古的希塔拉开始思考对蒙古的复仇。",
     "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
+    "tmdb_id": "288971",
+    "tmdb_site_id": "tv/288971",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": "https://bgm.tv/subject/638497"
+  },
+  {
+    "id": "569116",
+    "type": "link",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "link": "https://bgm.tv/subject/569116"
   },
   {
     "id": "284447",
@@ -102,6 +126,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_3fRrj.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第三季 反击篇",
@@ -118,46 +158,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "288971",
-    "type": "tmdb",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/A62nNZKHo1Ee8AjXHFAu6ykM66F.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　十三世纪，幼小的奴隶希塔拉在伊朗东部城市图斯被奴隶商委托给一个学者辈出的家族进行教育。希塔拉起初试图逃跑，但她被教导了知识的重要性，希塔拉在这里被女主人法蒂玛视为女儿般的宠爱，并学习了欧几里得的《几何原本》等诸多知识。家族的继承人穆罕默德为了研究学问而前往内沙布尔后 8 年，图斯遭到蒙古人的袭击。希塔拉被拖雷的军队俘虏，法蒂玛为了保护希塔拉而被杀害。此外，《几何原本》也被抢走了。被带到蒙古的希塔拉开始思考对蒙古的复仇。",
-    "link": null,
-    "tmdb_id": "288971",
-    "tmdb_site_id": "tv/288971",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "569116",
-    "type": "link",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "8.2",
-    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
-    "link": "https://bgm.tv/subject/569116"
-  },
-  {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
-  },
-  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活",
@@ -172,6 +172,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "633836",
+    "type": "link",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
+    "link": "https://bgm.tv/subject/633836"
   },
   {
     "id": "315816",
@@ -192,22 +203,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超时空辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "309163",
     "type": "tmdb",
     "title": "没有辣妹会对阿宅温柔!?",
@@ -224,31 +219,31 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633836",
-    "type": "link",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
-  },
-  {
-    "id": "253476",
+    "id": "1575337",
     "type": "tmdb",
-    "title": "异国日记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/bf/493016_Qqmf5.jpg",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "8.4",
-    "description": "13话 /  2026年1月4日 / 大城美幸 / ヤマシタトモコ（祥伝社 FEEL COMICS） / 羽山賢二",
+    "title": "超时空辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
     "link": null,
-    "tmdb_id": "253476",
-    "tmdb_site_id": "tv/253476",
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "545008",
+    "type": "link",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": "https://bgm.tv/subject/545008"
   },
   {
     "id": "94404",
@@ -267,6 +262,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "295071",
+    "type": "tmdb",
+    "title": "再见，拉拉",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eMXafJcr4MWb4X8JQ5nw5xPt6yM.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": null,
+    "tmdb_id": "295071",
+    "tmdb_site_id": "tv/295071",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "105248",
     "type": "tmdb",
     "title": "赛博浪客",
@@ -278,60 +291,6 @@
     "link": null,
     "tmdb_id": "105248",
     "tmdb_site_id": "tv/105248",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "154743",
-    "type": "tmdb",
-    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "5.4",
-    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
-    "link": null,
-    "tmdb_id": "154743",
-    "tmdb_site_id": "tv/154743/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "575559",
-    "type": "link",
-    "title": "一脸嫌弃表情的妹子给你看胖次R",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
-    "releaseDate": "2026-04-30",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
-  },
-  {
-    "id": "545008",
-    "type": "link",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": "https://bgm.tv/subject/545008"
-  },
-  {
-    "id": "95479",
-    "type": "tmdb",
-    "title": "咒术回战 死灭回游 前篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg",
-    "releaseDate": "2026-01-08",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
-    "link": null,
-    "tmdb_id": "95479",
-    "tmdb_site_id": "tv/95479",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -353,5 +312,43 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "253476",
+    "type": "tmdb",
+    "title": "异国日记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/bf/493016_Qqmf5.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "13话 /  2026年1月4日 / 大城美幸 / ヤマシタトモコ（祥伝社 FEEL COMICS） / 羽山賢二",
+    "link": null,
+    "tmdb_id": "253476",
+    "tmdb_site_id": "tv/253476",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
+    "id": "627136",
+    "type": "link",
+    "title": "正后方的神威",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "link": "https://bgm.tv/subject/627136"
   }
 ]
