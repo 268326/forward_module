@@ -247,20 +247,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "72517",
-    "type": "tmdb",
-    "title": "欢迎来到实力至上主义教室 第四季",
+    "id": "510710",
+    "type": "link",
+    "title": "欢迎来到实力至上主义的教室 第四季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
     "releaseDate": "2026-04-01",
-    "mediaType": "tv",
+    "mediaType": "anime",
     "rating": "6.1",
     "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
-    "link": null,
-    "tmdb_id": "72517",
-    "tmdb_site_id": "tv/72517/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "link": "https://bgm.tv/subject/510710"
   },
   {
     "id": "312474",
