@@ -113,25 +113,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
     "releaseDate": "2026-06-13",
     "mediaType": "anime",
-    "rating": "7.8",
+    "rating": "7.7",
     "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
     "link": "https://bgm.tv/subject/607915"
-  },
-  {
-    "id": "37854",
-    "type": "tmdb",
-    "title": "航海王 埃鲁巴夫篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
-    "link": null,
-    "tmdb_id": "37854",
-    "tmdb_site_id": "tv/37854/season/23",
-    "tmdb_season_number": 23,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "94404",
@@ -146,6 +130,22 @@
     "tmdb_id": "94404",
     "tmdb_site_id": "tv/94404/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "37854",
+    "type": "tmdb",
+    "title": "航海王 埃鲁巴夫篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/602059_4j4UW.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "2026年4月5日 / 尾田栄一郎(集英社「週刊少年ジャンプ」連載) / 松田翠",
+    "link": null,
+    "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854/season/23",
+    "tmdb_season_number": 23,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -220,6 +220,17 @@
     "link": "https://bgm.tv/subject/243430"
   },
   {
+    "id": "633836",
+    "type": "link",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
+    "link": "https://bgm.tv/subject/633836"
+  },
+  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -281,22 +292,6 @@
     "link": "https://bgm.tv/subject/587454"
   },
   {
-    "id": "274622",
-    "type": "tmdb",
-    "title": "加油吧！中村君！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
-    "link": null,
-    "tmdb_id": "274622",
-    "tmdb_site_id": "tv/274622",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "229443",
     "type": "tmdb",
     "title": "公主大人“拷问”的时间到了 第二季",
@@ -313,6 +308,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "274622",
+    "type": "tmdb",
+    "title": "加油吧！中村君！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
+    "link": null,
+    "tmdb_id": "274622",
+    "tmdb_site_id": "tv/274622",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
+  },
+  {
     "id": "203737",
     "type": "tmdb",
     "title": "【我推的孩子】 第三季",
@@ -327,34 +349,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/eHz8ZXMeqUOtZXhJTQcuWMMGqEb.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
   }
 ]

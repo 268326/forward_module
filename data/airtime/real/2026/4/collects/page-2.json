@@ -83,24 +83,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312723",
-    "type": "tmdb",
-    "title": "牙狼＜GARO＞ 东之界楼",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
-    "releaseDate": "2026-01-29",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "结束了在克莱亚市的战斗后，流牙为了净化铠甲而前往莱因市。\n\n然而，映入眼帘的却是广袤无垠的沙漠。\n\n在勉强逃过沙漠化的城市・萨冈，大量霍拉出现，异常事态让整个城市陷入混乱。\n\n为了拯救这场危机而出在城市中的，是龙族魔戒法师・埃尔米娜与莉杏。\n\n莉杏在与流牙一同前往克莱亚市的途中，因为龙女的召集而履行了另一项使命。\n\n大量增生的霍拉、披着废弃物的强大敌人，以及无差别袭击的身份不明魔戒骑士。\n\n更有神秘魔戒法师・列克托尔悄然逼近流牙——。\n\n在愈发混乱的战斗中，流牙与莉杏仿佛被引导般再次重逢。\n\n战斗结束后，流牙看见了旧日盟友龙女已变得面目全非的身影。\n\n当龙女的生命走到尽头时，她告知世界将迎来巨大的灾厄。\n\n流牙与莉杏为阻止这一切而挺身而出，\n\n但在前方等待他们的，是作为守护者所必须面对的壮烈宿命。\n\n动摇流牙与莉杏二人命运的战斗，即将拉开序幕。",
-    "link": null,
-    "tmdb_id": "312723",
-    "tmdb_site_id": "tv/312723",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "229891",
     "type": "tmdb",
     "title": "爱情怎么翻译？",
@@ -119,15 +101,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "282418",
-    "type": "link",
-    "title": "惩罚者：最后一击",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.1",
-    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
-    "link": "https://bgm.tv/subject/282418"
+    "id": "312723",
+    "type": "tmdb",
+    "title": "牙狼＜GARO＞ 东之界楼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dirt5hRr2gkinOZs6OSbFcMeuZX.jpg",
+    "releaseDate": "2026-01-29",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "结束了在克莱亚市的战斗后，流牙为了净化铠甲而前往莱因市。\n\n然而，映入眼帘的却是广袤无垠的沙漠。\n\n在勉强逃过沙漠化的城市・萨冈，大量霍拉出现，异常事态让整个城市陷入混乱。\n\n为了拯救这场危机而出在城市中的，是龙族魔戒法师・埃尔米娜与莉杏。\n\n莉杏在与流牙一同前往克莱亚市的途中，因为龙女的召集而履行了另一项使命。\n\n大量增生的霍拉、披着废弃物的强大敌人，以及无差别袭击的身份不明魔戒骑士。\n\n更有神秘魔戒法师・列克托尔悄然逼近流牙——。\n\n在愈发混乱的战斗中，流牙与莉杏仿佛被引导般再次重逢。\n\n战斗结束后，流牙看见了旧日盟友龙女已变得面目全非的身影。\n\n当龙女的生命走到尽头时，她告知世界将迎来巨大的灾厄。\n\n流牙与莉杏为阻止这一切而挺身而出，\n\n但在前方等待他们的，是作为守护者所必须面对的壮烈宿命。\n\n动摇流牙与莉杏二人命运的战斗，即将拉开序幕。",
+    "link": null,
+    "tmdb_id": "312723",
+    "tmdb_site_id": "tv/312723",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "601438",
@@ -139,6 +128,28 @@
     "rating": "6.4",
     "description": "2话 /  2026年4月25日",
     "link": "https://bgm.tv/subject/601438"
+  },
+  {
+    "id": "631823",
+    "type": "link",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "real",
+    "rating": "8.0",
+    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
+  },
+  {
+    "id": "282418",
+    "type": "link",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
   },
   {
     "id": "289356",
@@ -170,17 +181,6 @@
     "link": "https://bgm.tv/subject/633271"
   },
   {
-    "id": "607932",
-    "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
-  },
-  {
     "id": "614123",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
@@ -192,26 +192,15 @@
     "link": "https://bgm.tv/subject/614123"
   },
   {
-    "id": "621874",
+    "id": "607932",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
-    "releaseDate": "2026-05-06",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年5月6日",
-    "link": "https://bgm.tv/subject/621874"
-  },
-  {
-    "id": "625916",
-    "type": "link",
-    "title": "空中浩劫 第26季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
-    "releaseDate": "2026-01-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年1月20日",
-    "link": "https://bgm.tv/subject/625916"
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
   },
   {
     "id": "307650",
@@ -232,33 +221,55 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "625916",
+    "type": "link",
+    "title": "空中浩劫 第26季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
+    "releaseDate": "2026-01-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026年1月20日",
+    "link": "https://bgm.tv/subject/625916"
+  },
+  {
+    "id": "621874",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY2 Grand bal masqué",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/22/621874_AmmnM.jpg",
+    "releaseDate": "2026-05-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月6日",
+    "link": "https://bgm.tv/subject/621874"
+  },
+  {
     "id": "533266",
     "type": "link",
     "title": "宇宙巨人：希曼崛起",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
     "releaseDate": "2026-06-05",
     "mediaType": "real",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
     "link": "https://bgm.tv/subject/533266"
-  },
-  {
-    "id": "280632",
-    "type": "tmdb",
-    "title": "成何体统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
-    "link": null,
-    "tmdb_id": "280632",
-    "tmdb_site_id": "tv/280632",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "315494",
@@ -277,6 +288,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "549830",
+    "type": "link",
+    "title": "克拉克森的农场 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
+    "releaseDate": "2026-06-03",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
+    "link": "https://bgm.tv/subject/549830"
   },
   {
     "id": "544948",
@@ -301,42 +323,20 @@
     "link": "https://bgm.tv/subject/588065"
   },
   {
-    "id": "634222",
-    "type": "link",
-    "title": "真相捕捉 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2b/634222_Wk1S4.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-03-08 / Ben Chanan / Holliday Grainger, Paapa Essiedu",
-    "link": "https://bgm.tv/subject/634222"
-  },
-  {
-    "id": "511454",
-    "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
-    "releaseDate": "2026-03-14",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年3月14日",
-    "link": "https://bgm.tv/subject/511454"
-  },
-  {
-    "id": "313635",
+    "id": "280632",
     "type": "tmdb",
-    "title": "如龙 Powered by 日本统一",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
-    "releaseDate": "2026-02-10",
+    "title": "成何体统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "rating": "8.3",
+    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
     "link": null,
-    "tmdb_id": "313635",
-    "tmdb_site_id": "tv/313635",
+    "tmdb_id": "280632",
+    "tmdb_site_id": "tv/280632",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   }

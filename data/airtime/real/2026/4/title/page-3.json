@@ -33,6 +33,17 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
+    "id": "663484",
+    "type": "link",
+    "title": "歪心狼对阵ACME",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/8e/663484_8vbV3.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年8月28日 / Dave Green / James Gunn、Jeremy Slater、Samy Burch / Will Forte、Lana Condor、Tone Bell、John Cena",
+    "link": "https://bgm.tv/subject/663484"
+  },
+  {
     "id": "541822",
     "type": "link",
     "title": "夜魔侠：重生 第二季",
@@ -193,6 +204,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "662671",
+    "type": "link",
+    "title": "dual twin live tour 三浦 あずさ・秋月 律子 twin live “ つみまつよるまち ”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/5a/662671_5wU00.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026-08-07",
+    "link": "https://bgm.tv/subject/662671"
+  },
+  {
+    "id": "662670",
+    "type": "link",
+    "title": "dual twin live tour 双海 亜美・双海 真美 twin live “ ふたごぼしのつばさ ”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/bc/662670_iJ5dy.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026-08-06",
+    "link": "https://bgm.tv/subject/662670"
+  },
+  {
     "id": "494701",
     "type": "link",
     "title": "沙丘：第三部分",
@@ -257,38 +290,5 @@
     "rating": "",
     "description": "2026-04-04 / 上杉真央(mAO)、ZAQ、鈴木このみ、ChouCho、春奈るな、分島花音",
     "link": "https://bgm.tv/subject/636002"
-  },
-  {
-    "id": "621076",
-    "type": "link",
-    "title": "布朗神父 第十三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/5f/621076_Hw0Pd.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-01-19",
-    "link": "https://bgm.tv/subject/621076"
-  },
-  {
-    "id": "637701",
-    "type": "link",
-    "title": "为全人类 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/35/637701_8g6Pm.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-03-27 / Sergio Mimica-Gezzan, Andrew Stanton, Dan Liu, Meera Menon, Maja Vrvilo, Dennie Gordon, Allen Coulter, Sarah Boyd, Craig Zisk, Lukas Ettlin, John Dahl, Sylvain White, Wendey Stanzler, Michael Morris, Seth Gordon / Joel Kinnaman, Shantel VanSanten, Wrenn Schmidt, Jodi Balfour, Michael Dorman, Sarah Jones, Krys Marshall, Sonya Walger, Casey W. Johnson, Coral Peña, Cynthy Wu, Edi Gathegi, Toby Kebbell, Tyner Rushing, Daniel Stern, Svetlana Efremova, Piotr Adamczyk",
-    "link": "https://bgm.tv/subject/637701"
-  },
-  {
-    "id": "657943",
-    "type": "link",
-    "title": "Free! Series ORCHESTRA CONCERT 2026 ―Beyond the New Journey―",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5e/71/657943_CACZu.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-08-02 / 指揮：吉田行地、管弦楽：Heartbeat Symphony、コーラス：Zinee&issei",
-    "link": "https://bgm.tv/subject/657943"
   }
 ]

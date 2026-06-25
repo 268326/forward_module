@@ -1,5 +1,82 @@
 [
   {
+    "id": "639663",
+    "type": "link",
+    "title": "电影名侦探光之美少女！不可思议的庭院与两人的秘密",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8c/e1/639663_iY3I9.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月18日 / 上田華子 / 東堂いづみ / 宮本絵美子",
+    "link": "https://bgm.tv/subject/639663"
+  },
+  {
+    "id": "557818",
+    "type": "link",
+    "title": "小羊肖恩：青苔农场的怪兽",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/00/40/557818_R3xCC.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年9月18日",
+    "link": "https://bgm.tv/subject/557818"
+  },
+  {
+    "id": "653508",
+    "type": "link",
+    "title": "南方公园 第29季",
+    "posterPath": null,
+    "releaseDate": "2026-09-16",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月16日",
+    "link": "https://bgm.tv/subject/653508"
+  },
+  {
+    "id": "663228",
+    "type": "link",
+    "title": "映画「宇宙なんちゃら こてつくん」うっかり出てきた宇宙人を探せ！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/cf/663228_7fbbn.jpg",
+    "releaseDate": "2026-09-11",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月11日 / 筒井芳典 / にしむらゆうじ",
+    "link": "https://bgm.tv/subject/663228"
+  },
+  {
+    "id": "659249",
+    "type": "link",
+    "title": "村又小姐的爱情",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-09-11",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年9月11日",
+    "link": "https://bgm.tv/subject/659249"
+  },
+  {
+    "id": "563041",
+    "type": "link",
+    "title": "最终乐章 吹响吧！上低音号 后篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/a6/563041_dLFAU.jpg",
+    "releaseDate": "2026-09-11",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "2026年9月11日 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』）",
+    "link": "https://bgm.tv/subject/563041"
+  },
+  {
+    "id": "579533",
+    "type": "link",
+    "title": "SEKIRO: NO DEFEAT",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/04/579533_tacCl.jpg",
+    "releaseDate": "2026-09-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年9月4日 / 沓名健一 / SEKIRO： SHADOWS DIE TWICE （株式会社フロム・ソフトウェア） / 岸田隆宏",
+    "link": "https://bgm.tv/subject/579533"
+  },
+  {
     "id": "655076",
     "type": "link",
     "title": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION",
@@ -91,7 +168,7 @@
     "id": "643828",
     "type": "link",
     "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_v67rA.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
     "releaseDate": "2026-08-08",
     "mediaType": "anime",
     "rating": "",
@@ -110,6 +187,28 @@
     "link": "https://bgm.tv/subject/560379"
   },
   {
+    "id": "663137",
+    "type": "link",
+    "title": "瑞奇·热维斯之街猫一族",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c8/0f/663137_GzGCZ.jpg",
+    "releaseDate": "2026-08-07",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年8月7日",
+    "link": "https://bgm.tv/subject/663137"
+  },
+  {
+    "id": "582920",
+    "type": "link",
+    "title": "有兽焉 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/61/582920_Y8t5X.jpg",
+    "releaseDate": "2026-08-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年8月5日",
+    "link": "https://bgm.tv/subject/582920"
+  },
+  {
     "id": "653307",
     "type": "link",
     "title": "飞出个未来 第14季(Hulu版)",
@@ -119,6 +218,24 @@
     "rating": "",
     "description": "10话 /  2026年8月3日",
     "link": "https://bgm.tv/subject/653307"
+  },
+  {
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2GY0gSYfDtF553UPWiMB4XIqlEh.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "7话 /  2026年8月2日 / 李书宇、断片黑线（刘文钰） / 李书宇、断片黑线（刘文钰）",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "658066",
@@ -152,122 +269,5 @@
     "rating": "",
     "description": "1话 /  2026年7月31日 / Resta!",
     "link": "https://bgm.tv/subject/643933"
-  },
-  {
-    "id": "615446",
-    "type": "link",
-    "title": "电影蜡笔小新：奇奇怪怪！我的妖怪假期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_44cYz.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
-    "link": "https://bgm.tv/subject/615446"
-  },
-  {
-    "id": "610494",
-    "type": "link",
-    "title": "电影 吉伊卡哇: 人鱼之岛的秘密",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/fc/610494_LCo8L.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月24日 / 及川啓 / ナガノ",
-    "link": "https://bgm.tv/subject/610494"
-  },
-  {
-    "id": "321553",
-    "type": "tmdb",
-    "title": "穿越时空成仙帝，系统迟到八万年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/qvYNSY8ftTthfeSyVXU4rlLJYu4.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "仙帝赵英雄苦修数千年，卡在仙帝境无法破碎虚空。八万年未激活的最强修真系统突然上线，首个任务竟是抽八万年前欺辱他的气运之子张三屁股九九八十一下，奖励为破境关键 “鸿蒙道韵”。赵英雄回归青云宗，发现张三已成美艳失忆的宗门祖师，宗门衰败仅剩三女弟子，还遭嗜血门围攻。他覆灭嗜血门后完成任务，张三晋级金丹，自己也获鸿蒙道韵。系统坑人不断：猎捕活物不说明规则、发筑基体验卡坑他变筑基期，引来血冥渊、天机老人追杀。赵英雄靠仙帝智慧忽悠弟子、拖延时间，待神兽归来恢复实力反杀天机老人，收编鸿蒙仙府、天剑圣地，将青云宗打造成青云仙门。随着鸿蒙道韵增多，他发现重生、系统迟到、宗门衰败，皆源于八万年天道棋局，博弈才刚开启。",
-    "link": null,
-    "tmdb_id": "321553",
-    "tmdb_site_id": "tv/321553",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "571896",
-    "type": "link",
-    "title": "人造人009 涅墨西斯",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/07/0b/571896_fT9FA.jpg",
-    "releaseDate": "2026-07-19",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "3话 /  2026年7月19日 / 石ノ森章太郎",
-    "link": "https://bgm.tv/subject/571896"
-  },
-  {
-    "id": "623228",
-    "type": "link",
-    "title": "你与烟花与约定",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/92/623228_1G2es.jpg",
-    "releaseDate": "2026-07-17",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月17日 / 鈴木慧 / 真戸香（小学館「ガガガ文庫」刊） / 渡辺裕二",
-    "link": "https://bgm.tv/subject/623228"
-  },
-  {
-    "id": "595884",
-    "type": "link",
-    "title": "蜘蛛侠与他的神奇朋友们 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/2b/595884_0QYyv.jpg",
-    "releaseDate": "2026-07-13",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月13日",
-    "link": "https://bgm.tv/subject/595884"
-  },
-  {
-    "id": "662006",
-    "type": "link",
-    "title": "闇芝居 十七期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/b0/662006_2pM2n.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月12日",
-    "link": "https://bgm.tv/subject/662006"
-  },
-  {
-    "id": "633711",
-    "type": "link",
-    "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ea/4c/633711_amtml.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月12日 / 板井寛樹 / 小野可奈子",
-    "link": "https://bgm.tv/subject/633711"
-  },
-  {
-    "id": "545008",
-    "type": "link",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": "https://bgm.tv/subject/545008"
-  },
-  {
-    "id": "587109",
-    "type": "link",
-    "title": "花织同学转生后还是想干架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
-    "link": "https://bgm.tv/subject/587109"
   }
 ]

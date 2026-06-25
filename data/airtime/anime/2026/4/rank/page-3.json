@@ -1,5 +1,27 @@
 [
   {
+    "id": "651692",
+    "type": "link",
+    "title": "少年与高达",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a3/db/651692_F0K0I.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
+    "link": "https://bgm.tv/subject/651692"
+  },
+  {
+    "id": "544626",
+    "type": "link",
+    "title": "少女与战车 lovelove大作战！ 第2幕",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "3话 /  2026年1月30日 / 下田正美 / 「ガールズ＆パンツァー」シリーズ；漫画：弐尉マルコ / 杉本功",
+    "link": "https://bgm.tv/subject/544626"
+  },
+  {
     "id": "549975",
     "type": "link",
     "title": "安昂传奇：最后的气宗",
@@ -9,6 +31,22 @@
     "rating": "6.7",
     "description": "1话 /  2026年10月9日",
     "link": "https://bgm.tv/subject/549975"
+  },
+  {
+    "id": "312474",
+    "type": "tmdb",
+    "title": "日本三国",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
+    "link": null,
+    "tmdb_id": "312474",
+    "tmdb_site_id": "tv/312474",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "295357",
@@ -38,22 +76,6 @@
     "link": null,
     "tmdb_id": "278271",
     "tmdb_site_id": "tv/278271",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "309163",
-    "type": "tmdb",
-    "title": "没有辣妹会对阿宅温柔!?",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "12话 /  2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
-    "link": null,
-    "tmdb_id": "309163",
-    "tmdb_site_id": "tv/309163",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -107,22 +129,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196950",
-    "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
-    "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "627556",
     "type": "link",
     "title": "呼唤少女特别篇 想做的事到底是什么",
@@ -132,22 +138,6 @@
     "rating": "6.6",
     "description": "1话 /  2026年2月14日 / 邓小冰 / 刘伟源、邓小冰 / 丘卓星",
     "link": "https://bgm.tv/subject/627556"
-  },
-  {
-    "id": "306762",
-    "type": "tmdb",
-    "title": "棱镜恋曲",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
-    "releaseDate": "2026-01-15",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
-    "link": null,
-    "tmdb_id": "306762",
-    "tmdb_site_id": "tv/306762",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "117465",
@@ -166,20 +156,58 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "196285",
+    "id": "306762",
     "type": "tmdb",
-    "title": "异世界悠闲农家 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/71/575057_BCS8O.jpg",
-    "releaseDate": "2026-04-06",
+    "title": "棱镜恋曲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/78/a4/611089_z5or8.jpg",
+    "releaseDate": "2026-01-15",
     "mediaType": "tv",
     "rating": "6.6",
-    "description": "12话 /  2026年4月6日 / 倉谷涼一 / 内藤騎之介「異世界のんびり農家」 / 齊藤佳子",
+    "description": "20话 /  2026年1月15日 / 中澤一登 / 神尾葉子 / 高橋靖子",
     "link": null,
-    "tmdb_id": "196285",
-    "tmdb_site_id": "tv/196285/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "306762",
+    "tmdb_site_id": "tv/306762",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "309163",
+    "type": "tmdb",
+    "title": "没有辣妹会对阿宅温柔!?",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "12话 /  2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
+    "link": null,
+    "tmdb_id": "309163",
+    "tmdb_site_id": "tv/309163",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "638494",
+    "type": "link",
+    "title": "Re：从零开始的休息时间4",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/a4/638494_E7Ieh.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "anime",
+    "rating": "6.3",
+    "description": "2026年4月8日 / 芦名みのる / 長月達平(MF文庫J「Re:ゼロから始める異世界生活」／KADOKAWA刊) / 小角色设定：たけはらみのる",
+    "link": "https://bgm.tv/subject/638494"
+  },
+  {
+    "id": "507819",
+    "type": "link",
+    "title": "一人之下 第六季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_OD5zd.jpg",
+    "releaseDate": "2026-01-02",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "26话 /  2026年1月2日 / 米二 / 陈淑君",
+    "link": "https://bgm.tv/subject/507819"
   },
   {
     "id": "301944",
@@ -214,28 +242,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "507819",
-    "type": "link",
-    "title": "一人之下 第六季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_OD5zd.jpg",
-    "releaseDate": "2026-01-02",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "26话 /  2026年1月2日 / 米二 / 陈淑君",
-    "link": "https://bgm.tv/subject/507819"
-  },
-  {
-    "id": "638494",
-    "type": "link",
-    "title": "Re：从零开始的休息时间4",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/a4/638494_E7Ieh.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "2026年4月8日 / 芦名みのる / 長月達平(MF文庫J「Re:ゼロから始める異世界生活」／KADOKAWA刊) / 小角色设定：たけはらみのる",
-    "link": "https://bgm.tv/subject/638494"
-  },
-  {
     "id": "139060",
     "type": "tmdb",
     "title": "魔都精兵的奴隶 第二季",
@@ -268,6 +274,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "196285",
+    "type": "tmdb",
+    "title": "异世界悠闲农家 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/71/575057_BCS8O.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年4月6日 / 倉谷涼一 / 内藤騎之介「異世界のんびり農家」 / 齊藤佳子",
+    "link": null,
+    "tmdb_id": "196285",
+    "tmdb_site_id": "tv/196285/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "560192",
     "type": "link",
     "title": "奇迹梦之队",
@@ -290,22 +312,6 @@
     "link": "https://bgm.tv/subject/631928"
   },
   {
-    "id": "293697",
-    "type": "tmdb",
-    "title": "想结束这场“我爱你”的游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
-    "releaseDate": "2026-04-14",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
-    "link": null,
-    "tmdb_id": "293697",
-    "tmdb_site_id": "tv/293697",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "305567",
     "type": "tmdb",
     "title": "左撇子艾伦",
@@ -322,34 +328,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284568",
+    "id": "293697",
     "type": "tmdb",
-    "title": "复制品的我也会谈恋爱。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a4/537722_4SIF6.jpg",
-    "releaseDate": "2026-04-07",
+    "title": "想结束这场“我爱你”的游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+    "releaseDate": "2026-04-14",
     "mediaType": "tv",
-    "rating": "6.4",
-    "description": "13话 /  2026年4月7日 / 木村隆一 / 榛名丼（電撃文庫/KADOKAWA刊） / 安彦英二",
+    "rating": "6.5",
+    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
     "link": null,
-    "tmdb_id": "284568",
-    "tmdb_site_id": "tv/284568",
+    "tmdb_id": "293697",
+    "tmdb_site_id": "tv/293697",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "216467",
-    "type": "tmdb",
-    "title": "夜樱家的大作战 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/fc/517027_seRWW.jpg",
-    "releaseDate": "2026-04-12",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "2026年4月12日 / 中津川孝広 / 権平ひつじ（集英社ジャンプコミックス刊） / 髙橋瑞紀",
-    "link": null,
-    "tmdb_id": "216467",
-    "tmdb_site_id": "tv/216467/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

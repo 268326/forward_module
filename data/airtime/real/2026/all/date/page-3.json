@@ -1,14 +1,14 @@
 [
   {
-    "id": "632522",
+    "id": "638983",
     "type": "link",
-    "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
-    "releaseDate": "2026-09-22",
+    "title": "藁にもすがる獣たち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026年9月22日",
-    "link": "https://bgm.tv/subject/632522"
+    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
+    "link": "https://bgm.tv/subject/638983"
   },
   {
     "id": "639664",
@@ -20,6 +20,17 @@
     "rating": "",
     "description": "2026-09-22 / Morfonica",
     "link": "https://bgm.tv/subject/639664"
+  },
+  {
+    "id": "632522",
+    "type": "link",
+    "title": "学園アイドルマスター LIVE TOUR -標- 岩手公演",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/4f/632522_u4pCU.jpg",
+    "releaseDate": "2026-09-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年9月22日",
+    "link": "https://bgm.tv/subject/632522"
   },
   {
     "id": "660292",
@@ -58,12 +69,45 @@
     "id": "628086",
     "type": "link",
     "title": "人生不易部 2nd LIVE Dou-Da? DOING! ～Reply to L～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_MZ5wn.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/b4/628086_3Tv8z.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
     "description": "2话 /  2026-09-19 / いきづらい部！（綾咲穂音（高橋ポルカ 役）、遠藤璃菜（麻布麻衣 役）、宮野芹（五桐玲 役）、藤野こころ（駒形花火 役）、坂野愛羽（金澤奇跡 役）、瀬古梨愛（調布のりこ 役）、奥村優季（春宮ゆくり 役）、天沢朱音（此花輝夜 役）、小戸森穂花（山田真緑 役）、涼ノ瀬葵音（佐々木翔音 役））",
     "link": "https://bgm.tv/subject/628086"
+  },
+  {
+    "id": "623923",
+    "type": "link",
+    "title": "八つ墓村",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/dd/623923_2zO52.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月18日 / 清水崇 / 尾上松也",
+    "link": "https://bgm.tv/subject/623923"
+  },
+  {
+    "id": "659418",
+    "type": "link",
+    "title": "さとこはいつも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/6d/659418_162T3.jpg",
+    "releaseDate": "2026-09-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年09月18日 / 沖田修一 / 沖田修一 / 有村架純、石田ひかり、姫野花春",
+    "link": "https://bgm.tv/subject/659418"
+  },
+  {
+    "id": "658184",
+    "type": "link",
+    "title": "ペコポン侵略ミュージカル『ケロロ軍曹』",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/16/658184_8Miyn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-18 / 川尻恵太（SUGARBOY） / 川尻恵太（SUGARBOY）",
+    "link": "https://bgm.tv/subject/658184"
   },
   {
     "id": "526932",
@@ -86,39 +130,6 @@
     "rating": "",
     "description": "1话 /  2026年9月18日 / Zach Cregger / Zach Cregger、Shay Hatten / Austin Abrams、Zach Cherry、Kali Reis、Paul Walter Hauser",
     "link": "https://bgm.tv/subject/580127"
-  },
-  {
-    "id": "623923",
-    "type": "link",
-    "title": "八つ墓村",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/dd/623923_2zO52.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月18日 / 清水崇 / 尾上松也",
-    "link": "https://bgm.tv/subject/623923"
-  },
-  {
-    "id": "658184",
-    "type": "link",
-    "title": "ペコポン侵略ミュージカル『ケロロ軍曹』",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/16/658184_8Miyn.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-18 / 川尻恵太（SUGARBOY） / 川尻恵太（SUGARBOY）",
-    "link": "https://bgm.tv/subject/658184"
-  },
-  {
-    "id": "659418",
-    "type": "link",
-    "title": "さとこはいつも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/6d/659418_162T3.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年09月18日 / 沖田修一 / 沖田修一 / 有村架純、石田ひかり、姫野花春",
-    "link": "https://bgm.tv/subject/659418"
   },
   {
     "id": "644128",
@@ -154,17 +165,6 @@
     "link": "https://bgm.tv/subject/649745"
   },
   {
-    "id": "633337",
-    "type": "link",
-    "title": "现在多闻君是哪一面！？ 舞台",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/45/633337_HXezG.jpg",
-    "releaseDate": "2026-09-11",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月11日 / 福澤侑 / 川尻恵太（SUGARBOY）",
-    "link": "https://bgm.tv/subject/633337"
-  },
-  {
     "id": "1244492",
     "type": "tmdb",
     "title": "蓦然回首",
@@ -179,6 +179,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "633337",
+    "type": "link",
+    "title": "现在多闻君是哪一面！？ 舞台",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/45/633337_HXezG.jpg",
+    "releaseDate": "2026-09-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年9月11日 / 福澤侑 / 川尻恵太（SUGARBOY）",
+    "link": "https://bgm.tv/subject/633337"
   },
   {
     "id": "656642",
@@ -214,6 +225,24 @@
     "link": "https://bgm.tv/subject/659291"
   },
   {
+    "id": "326140",
+    "type": "tmdb",
+    "title": "虚ろな十字架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/72/661992_fCej1.jpg",
+    "releaseDate": "2026-09-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年9月6日 / 瀬々敬久 / 杉原憲明 / 香取慎吾",
+    "link": null,
+    "tmdb_id": "326140",
+    "tmdb_site_id": "tv/326140",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "650415",
     "type": "link",
     "title": "花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」",
@@ -223,17 +252,6 @@
     "rating": "",
     "description": "1话 /  2026年9月6日 / 花譜",
     "link": "https://bgm.tv/subject/650415"
-  },
-  {
-    "id": "661992",
-    "type": "link",
-    "title": "虚ろな十字架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/72/661992_fCej1.jpg",
-    "releaseDate": "2026-09-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月6日 / 瀬々敬久 / 杉原憲明 / 香取慎吾",
-    "link": "https://bgm.tv/subject/661992"
   },
   {
     "id": "632521",
@@ -256,16 +274,5 @@
     "rating": "",
     "description": "1话 /  2026年9月5日 / 花譜、理芽、春猿火、ヰ世界情緒、幸祜、空爽、明透、琶舞、心世紀 (御莉姫、佳鏡院、硝子宮) from 少女革命計画、罪十罰 (氷夏至、美古途、夕凪機) from 少女革命計画",
     "link": "https://bgm.tv/subject/650417"
-  },
-  {
-    "id": "650838",
-    "type": "link",
-    "title": "LoveLive! Superstar!! Liella! 结女运动会",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/82/650838_Em7xd.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "4话 /  2026-09-05 / Liella!（チーム「あまとう」（Liyuu（唐可可 役）、岬なこ（嵐千砂都 役）、鈴原希実（桜小路きな子 役）、坂倉花（鬼塚冬毬役 ））、チーム「BuBuBuBu♡」（伊達さゆり（澁谷かのん 役）、薮島朱音（米女メイ 役）、大熊和奏（若菜四季 役）、結那（ウィーン・マルガレーテ 役））、チーム「右だC」（ペイトン尚未（平安名すみれ 役）、青山なぎさ（葉月恋 役）、絵森彩（鬼塚夏美 役）））",
-    "link": "https://bgm.tv/subject/650838"
   }
 ]

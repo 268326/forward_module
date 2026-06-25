@@ -1,5 +1,60 @@
 [
   {
+    "id": "636256",
+    "type": "link",
+    "title": "GRIDDOWN",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/22/636256_V40HV.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026",
+    "link": "https://bgm.tv/subject/636256"
+  },
+  {
+    "id": "502499",
+    "type": "link",
+    "title": "GROTESQQQUE -グロテスク-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fc/502499_tTN91.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年 / 安野将人、岩崎将大、錦織敦史",
+    "link": "https://bgm.tv/subject/502499"
+  },
+  {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": null,
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "15话 /  2026年10月14日",
+    "link": "https://bgm.tv/subject/573707"
+  },
+  {
+    "id": "583786",
+    "type": "link",
+    "title": "魔法秘境",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_1OHCV.jpg",
+    "releaseDate": "2026-11-25",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年11月25日 / Josie Trinidad、Jason Hand",
+    "link": "https://bgm.tv/subject/583786"
+  },
+  {
+    "id": "525516",
+    "type": "link",
+    "title": "河狸变身计划",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/5c/525516_Y3koK.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "1话 /  2026年3月6日 / Daniel Chong",
+    "link": "https://bgm.tv/subject/525516"
+  },
+  {
     "id": "643823",
     "type": "link",
     "title": "HoYoHoYoにしてあげる♪",
@@ -9,6 +64,17 @@
     "rating": "",
     "description": "1话 /  2026年4月23日",
     "link": "https://bgm.tv/subject/643823"
+  },
+  {
+    "id": "659143",
+    "type": "link",
+    "title": "浪中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/d1/659143_ALNOA.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月1日 / Phuong Mai Nguyen / AJ Dungo",
+    "link": "https://bgm.tv/subject/659143"
   },
   {
     "id": "505401",
@@ -31,6 +97,17 @@
     "rating": "",
     "description": "1话 /  2026（Annecy Festival） / Javier Fabregas",
     "link": "https://bgm.tv/subject/659124"
+  },
+  {
+    "id": "663419",
+    "type": "link",
+    "title": "Jim Queen à la recherche de la Chloroqueer",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/af/663419_dp7ZF.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026-06-17 / Nicolas Athane、Marco Nguyen",
+    "link": "https://bgm.tv/subject/663419"
   },
   {
     "id": "662384",
@@ -77,6 +154,17 @@
     "link": "https://bgm.tv/subject/489223"
   },
   {
+    "id": "663444",
+    "type": "link",
+    "title": "一家之主 第15季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f8/663444_i2im9.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月20日",
+    "link": "https://bgm.tv/subject/663444"
+  },
+  {
     "id": "610629",
     "type": "link",
     "title": "L'amour fou de l'automate",
@@ -110,6 +198,17 @@
     "link": "https://bgm.tv/subject/644636"
   },
   {
+    "id": "662977",
+    "type": "link",
+    "title": "Le Vertige",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/c9/662977_gg7pT.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026-06-10 / Quentin Dupieux",
+    "link": "https://bgm.tv/subject/662977"
+  },
+  {
     "id": "640219",
     "type": "link",
     "title": "LEGO® ONE PIECE",
@@ -135,7 +234,7 @@
     "id": "300126",
     "type": "tmdb",
     "title": "欺诈游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_4AttU.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/50/580133_V380S.jpg",
     "releaseDate": "2026-04-06",
     "mediaType": "tv",
     "rating": "5.8",
@@ -168,128 +267,5 @@
     "rating": "5.1",
     "description": "1话 /  2026年2月2日 / 藍にいな",
     "link": "https://bgm.tv/subject/625144"
-  },
-  {
-    "id": "478149",
-    "type": "link",
-    "title": "迷失的露西",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/78/478149_ZBsfR.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026-05-19(戛纳电影节) / 2026-10-28(法国) / Olivier Clert / Michael Morpurgo",
-    "link": "https://bgm.tv/subject/478149"
-  },
-  {
-    "id": "298994",
-    "type": "tmdb",
-    "title": "LV999的村民",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "12话 /  2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
-    "link": null,
-    "tmdb_id": "298994",
-    "tmdb_site_id": "tv/298994",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "659182",
-    "type": "link",
-    "title": "迷雾之海的莉迪亚",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/45/659182_X7j5k.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026-02-01(加拿大) / Nancy Florence Savard、Emilie Rosas、Philippe Arseneau Bussières",
-    "link": "https://bgm.tv/subject/659182"
-  },
-  {
-    "id": "295999",
-    "type": "tmdb",
-    "title": "摩绪",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/af/570448_2265u.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "2026年4月4日 / 佐藤照雄 / 高橋留美子（小学館「週刊少年サンデー」連載） / 菱沼義仁",
-    "link": null,
-    "tmdb_id": "295999",
-    "tmdb_site_id": "tv/295999",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "661948",
-    "type": "link",
-    "title": "MAPPA 15th Anniversary Movie",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/74/661948_1jkum.jpg",
-    "releaseDate": "2026-06-19",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年6月19日 / 工藤晃子",
-    "link": "https://bgm.tv/subject/661948"
-  },
-  {
-    "id": "595884",
-    "type": "link",
-    "title": "蜘蛛侠与他的神奇朋友们 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/2b/595884_0QYyv.jpg",
-    "releaseDate": "2026-07-13",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月13日",
-    "link": "https://bgm.tv/subject/595884"
-  },
-  {
-    "id": "290295",
-    "type": "tmdb",
-    "title": "寻爱交配季",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cEij3jggWnDM4jsdkazK2cuvjtt.jpg",
-    "releaseDate": "2026-05-22",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "故事在动物世界开展，熊、浣熊、鹿、狐狸等角色依次登场，加上众多情欲满满的可爱森林生物，大伙一同探索爱情、性与关系，以及寻找伴侣和延续种族命脉的共通需求。",
-    "link": null,
-    "tmdb_id": "290295",
-    "tmdb_site_id": "tv/290295",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636362",
-    "type": "link",
-    "title": "Melting Yellow",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/6a/636362_2k3ad.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026 / 長江心春",
-    "link": "https://bgm.tv/subject/636362"
-  },
-  {
-    "id": "154526",
-    "type": "tmdb",
-    "title": "极速车魂 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5b/c9/530110_EQtrE.jpg",
-    "releaseDate": "2026-01-04",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "13话 /  2026年1月4日 / 中智仁 / しげの秀一（講談社「ヤングマガジン」連載） / 恩田尚之",
-    "link": null,
-    "tmdb_id": "154526",
-    "tmdb_site_id": "tv/154526",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

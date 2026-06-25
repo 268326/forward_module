@@ -1,5 +1,217 @@
 [
   {
+    "id": "615446",
+    "type": "link",
+    "title": "电影蜡笔小新：奇奇怪怪！我的妖怪假期",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_44cYz.jpg",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
+    "link": "https://bgm.tv/subject/615446"
+  },
+  {
+    "id": "501732",
+    "type": "link",
+    "title": "蝙蝠侠：披风战士 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/501732_IKKVV.jpg",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月31日",
+    "link": "https://bgm.tv/subject/501732"
+  },
+  {
+    "id": "574041",
+    "type": "link",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8a/1a/574041_6zN6c.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月26日",
+    "link": "https://bgm.tv/subject/574041"
+  },
+  {
+    "id": "530725",
+    "type": "link",
+    "title": "死神 千年血战篇-祸进谭-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "8.8",
+    "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+    "link": "https://bgm.tv/subject/530725"
+  },
+  {
+    "id": "610494",
+    "type": "link",
+    "title": "电影 吉伊卡哇: 人鱼之岛的秘密",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/fc/610494_LCo8L.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月24日 / 及川啓 / ナガノ",
+    "link": "https://bgm.tv/subject/610494"
+  },
+  {
+    "id": "321553",
+    "type": "tmdb",
+    "title": "穿越时空成仙帝，系统迟到八万年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qvYNSY8ftTthfeSyVXU4rlLJYu4.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "仙帝赵英雄苦修数千年，卡在仙帝境无法破碎虚空。八万年未激活的最强修真系统突然上线，首个任务竟是抽八万年前欺辱他的气运之子张三屁股九九八十一下，奖励为破境关键 “鸿蒙道韵”。赵英雄回归青云宗，发现张三已成美艳失忆的宗门祖师，宗门衰败仅剩三女弟子，还遭嗜血门围攻。他覆灭嗜血门后完成任务，张三晋级金丹，自己也获鸿蒙道韵。系统坑人不断：猎捕活物不说明规则、发筑基体验卡坑他变筑基期，引来血冥渊、天机老人追杀。赵英雄靠仙帝智慧忽悠弟子、拖延时间，待神兽归来恢复实力反杀天机老人，收编鸿蒙仙府、天剑圣地，将青云宗打造成青云仙门。随着鸿蒙道韵增多，他发现重生、系统迟到、宗门衰败，皆源于八万年天道棋局，博弈才刚开启。",
+    "link": null,
+    "tmdb_id": "321553",
+    "tmdb_site_id": "tv/321553",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？第六季",
+    "posterPath": null,
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "13话 /  2026年7月23日",
+    "link": "https://bgm.tv/subject/574794"
+  },
+  {
+    "id": "572768",
+    "type": "link",
+    "title": "一念永恒 完结季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/da/572768_D25Ve.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月22日",
+    "link": "https://bgm.tv/subject/572768"
+  },
+  {
+    "id": "663444",
+    "type": "link",
+    "title": "一家之主 第15季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f8/663444_i2im9.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月20日",
+    "link": "https://bgm.tv/subject/663444"
+  },
+  {
+    "id": "607933",
+    "type": "link",
+    "title": "万古至尊：李云霄传",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/c0/607933_uzVv6.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月20日 / 太一生水",
+    "link": "https://bgm.tv/subject/607933"
+  },
+  {
+    "id": "317256",
+    "type": "tmdb",
+    "title": "サイボーグ009 ネメシス",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
+    "releaseDate": "2026-07-19",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "3话 /  2026年7月19日 / 石ノ森章太郎",
+    "link": null,
+    "tmdb_id": "317256",
+    "tmdb_site_id": "tv/317256",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "623228",
+    "type": "link",
+    "title": "你与烟花与约定",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/92/623228_1G2es.jpg",
+    "releaseDate": "2026-07-17",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月17日 / 鈴木慧 / 真戸香（小学館「ガガガ文庫」刊） / 渡辺裕二",
+    "link": "https://bgm.tv/subject/623228"
+  },
+  {
+    "id": "595884",
+    "type": "link",
+    "title": "蜘蛛侠与他的神奇朋友们 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/2b/595884_0QYyv.jpg",
+    "releaseDate": "2026-07-13",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月13日",
+    "link": "https://bgm.tv/subject/595884"
+  },
+  {
+    "id": "662006",
+    "type": "link",
+    "title": "闇芝居 十七期",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/b0/662006_tnf6N.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日",
+    "link": "https://bgm.tv/subject/662006"
+  },
+  {
+    "id": "633711",
+    "type": "link",
+    "title": "プラノサウルス ガチコセイブツ部",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ea/4c/633711_amtml.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日 / 板井寛樹 / 小野可奈子",
+    "link": "https://bgm.tv/subject/633711"
+  },
+  {
+    "id": "545008",
+    "type": "link",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": "https://bgm.tv/subject/545008"
+  },
+  {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": null,
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年7月11日 / 肥志",
+    "link": "https://bgm.tv/subject/589368"
+  },
+  {
+    "id": "587109",
+    "type": "link",
+    "title": "花织同学转生后还是想干架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "link": "https://bgm.tv/subject/587109"
+  },
+  {
     "id": "638185",
     "type": "link",
     "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
@@ -78,252 +290,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "98865",
-    "type": "tmdb",
-    "title": "梅比乌斯之尘",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月9日 / 岩崎太郎",
-    "link": null,
-    "tmdb_id": "98865",
-    "tmdb_site_id": "tv/98865",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "ようじょしぇんき2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日",
-    "link": "https://bgm.tv/subject/658254"
-  },
-  {
-    "id": "642935",
-    "type": "link",
-    "title": "魔女之谷的夜",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9c/642935_BrWoW.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 宮崎吾朗、山下明彦",
-    "link": "https://bgm.tv/subject/642935"
-  },
-  {
-    "id": "625215",
-    "type": "link",
-    "title": "雷霆三人行",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/48/625215_E5Z5i.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 池田祐輝（講談社「月刊少年マガジン」連載）",
-    "link": "https://bgm.tv/subject/625215"
-  },
-  {
-    "id": "297826",
-    "type": "tmdb",
-    "title": "盗掘王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月8日 / 우승욱(Woo Seung Wook) / 산지직송(SAN.G)・윤쓰(Yuns)(REDICE STUDIO) / 이현정[Lee Hyun Joung]",
-    "link": null,
-    "tmdb_id": "297826",
-    "tmdb_site_id": "tv/297826",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "585820",
-    "type": "link",
-    "title": "克雷瓦提斯 第二季 -魔兽之王与虚伪的勇者传承-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
-    "link": "https://bgm.tv/subject/585820"
-  },
-  {
-    "id": "572613",
-    "type": "link",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
-    "link": "https://bgm.tv/subject/572613"
-  },
-  {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": "https://bgm.tv/subject/565701"
-  },
-  {
-    "id": "412144",
-    "type": "link",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_hj2MY.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊）",
-    "link": "https://bgm.tv/subject/412144"
-  },
-  {
-    "id": "339515",
-    "type": "link",
-    "title": "幼女战记 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
-    "link": "https://bgm.tv/subject/339515"
-  },
-  {
-    "id": "314054",
-    "type": "tmdb",
-    "title": "天是红河岸",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
-    "link": null,
-    "tmdb_id": "314054",
-    "tmdb_site_id": "tv/314054",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "612697",
-    "type": "link",
-    "title": "铠真传 武士军团 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/ce/612697_B5f6f.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月7日 / 藤田陽一 / 矢立肇 / 室田雄平；恶役人物设定：ことぶきつかさ",
-    "link": "https://bgm.tv/subject/612697"
-  },
-  {
-    "id": "302519",
-    "type": "tmdb",
-    "title": "奇招百出的维多利亚",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月7日 / 木村延景 / 守雨（MFブックス／KADOKAWA刊） / 大沢美奈",
-    "link": null,
-    "tmdb_id": "302519",
-    "tmdb_site_id": "tv/302519",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ff1G9mLkK3Fzb8M1eKKj1lmPoi8.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　孤儿院兼国家战用魔术武器育成机关收容无依的小孩，培养成战争用的魔术武器，死亡对在这里生活的孩子们来说稀松平常，无法尽情地表达悲伤。\n\n　　14岁少女席娜某天早上得知室友在战争中丧生，她压抑心中的悲伤，无法完全接纳自己的境遇。\n\n　　晚上她遇到一个满身血迹的少女——\n\n　　第二天，名叫美美的少女转进席娜的班上。\n\n　　有传闻说美美是学校的秘密武器，两人的邂逅，令席娜的心慢慢产生变化。",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "255358",
-    "type": "tmdb",
-    "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "https://image.tmdb.org/t/p/w500/14udGIBIqwivmzW1f12sQoIsqsr.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
-    "link": null,
-    "tmdb_id": "255358",
-    "tmdb_site_id": "tv/255358",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6zC4Jnicxa5X5E3ux4rSQF6IUDS.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "637339",
-    "type": "link",
-    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/a9/637339_93zPo.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月6日 / 三浦大輔（アニメーションディレクター） / 原案：武論尊・原哲夫；作画：倉尾宏（ゼノンコミックス／コアミックス）",
-    "link": "https://bgm.tv/subject/637339"
-  },
-  {
-    "id": "636067",
-    "type": "link",
-    "title": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/fd/636067_0uuym.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月6日 / 濁川敦 / 米織（KADOKAWA『カドカワBOOKS』） / 石井泉",
-    "link": "https://bgm.tv/subject/636067"
   }
 ]

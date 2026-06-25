@@ -1,23 +1,5 @@
 [
   {
-    "id": "220102",
-    "type": "tmdb",
-    "title": "暗影蜘蛛侠",
-    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
-    "releaseDate": "2026-05-27",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
-    "link": null,
-    "tmdb_id": "220102",
-    "tmdb_site_id": "tv/220102",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "276161",
     "type": "tmdb",
     "title": "铁拳教育",
@@ -36,15 +18,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "5.2",
-    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
-    "link": "https://bgm.tv/subject/494608"
+    "id": "220102",
+    "type": "tmdb",
+    "title": "暗影蜘蛛侠",
+    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
+    "releaseDate": "2026-05-27",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
+    "link": null,
+    "tmdb_id": "220102",
+    "tmdb_site_id": "tv/220102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "549830",
@@ -56,6 +45,28 @@
     "rating": "",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
+  },
+  {
+    "id": "494631",
+    "type": "link",
+    "title": "龙之家族 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/37/494631_Ys5dH.jpg",
+    "releaseDate": "2026-06-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年6月21日",
+    "link": "https://bgm.tv/subject/494631"
+  },
+  {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "5.2",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
   },
   {
     "id": "272432",
@@ -76,13 +87,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "607932",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
+  },
+  {
     "id": "300529",
     "type": "tmdb",
     "title": "地狱占星师",
     "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.8",
+    "rating": "7.9",
     "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
     "link": null,
     "tmdb_id": "300529",
@@ -92,6 +114,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636399",
+    "type": "link",
+    "title": "挽救计划",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
+    "releaseDate": "2026-03-20",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
+    "link": "https://bgm.tv/subject/636399"
   },
   {
     "id": "507727",
@@ -105,31 +138,31 @@
     "link": "https://bgm.tv/subject/507727"
   },
   {
-    "id": "607932",
+    "id": "631823",
     "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
     "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
+    "rating": "8.0",
+    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
   },
   {
-    "id": "303143",
+    "id": "317001",
     "type": "tmdb",
-    "title": "我的王室死对头",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
     "mediaType": "tv",
-    "rating": "8.6",
-    "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
     "link": null,
-    "tmdb_id": "303143",
-    "tmdb_site_id": "tv/303143",
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "KR"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -152,44 +185,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "636399",
-    "type": "link",
-    "title": "挽救计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
-    "releaseDate": "2026-03-20",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
-    "link": "https://bgm.tv/subject/636399"
-  },
-  {
-    "id": "305227",
+    "id": "303143",
     "type": "tmdb",
-    "title": "丰臣兄弟！",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dAiJlvQx5xb5RHVwoXX7SXoJq3M.jpg",
-    "releaseDate": "2026-01-04",
+    "title": "我的王室死对头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "8.6",
-    "description": "本剧描述天下人丰臣秀吉之弟，武将丰臣秀长的一生；以其视角描述丰臣兄弟凭借兄弟之间的深厚羁绊完成天下统一伟业的奇迹，另外也动态地描绘战国时代的丰富多彩的娱乐事迹！",
+    "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
     "link": null,
-    "tmdb_id": "305227",
-    "tmdb_site_id": "tv/305227",
+    "tmdb_id": "303143",
+    "tmdb_site_id": "tv/303143",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "641417",
-    "type": "link",
-    "title": "超新丁伙头兵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
-    "link": "https://bgm.tv/subject/641417"
   },
   {
     "id": "654522",
@@ -203,33 +214,37 @@
     "link": "https://bgm.tv/subject/654522"
   },
   {
-    "id": "631823",
+    "id": "641417",
     "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
+    "title": "超新丁伙头兵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "8.4",
-    "description": "2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
+    "rating": "",
+    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
+    "link": "https://bgm.tv/subject/641417"
   },
   {
-    "id": "315494",
-    "type": "tmdb",
-    "title": "重生：最后的英雄",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
+    "id": "626794",
+    "type": "link",
+    "title": "月夜行路 -答案尽在名作之中-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
-    "link": null,
-    "tmdb_id": "315494",
-    "tmdb_site_id": "tv/315494",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
+    "link": "https://bgm.tv/subject/626794"
+  },
+  {
+    "id": "559852",
+    "type": "link",
+    "title": "VIVANT続編",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7b/559852_SaFcU.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年7月 / 堺雅人",
+    "link": "https://bgm.tv/subject/559852"
   },
   {
     "id": "224372",
@@ -250,33 +265,69 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "289424",
+    "id": "533266",
+    "type": "link",
+    "title": "宇宙巨人：希曼崛起",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
+    "releaseDate": "2026-06-05",
+    "mediaType": "real",
+    "rating": "5.7",
+    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
+    "link": "https://bgm.tv/subject/533266"
+  },
+  {
+    "id": "306479",
     "type": "tmdb",
-    "title": "努力克服自卑的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nUUqgOoVJSpc9QYzRDK0kZ5g8eG.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "PROJECT R.E.D.",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
+    "releaseDate": "2026-02-15",
     "mediaType": "tv",
-    "rating": "8.1",
-    "description": "一名怀抱梦想的导演，为了出道努力了20年，意气消磨殆尽，直到遇见一位疲于奔命的制作人，帮他重新找回自我价值。",
+    "rating": "4.3",
+    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
     "link": null,
-    "tmdb_id": "289424",
-    "tmdb_site_id": "tv/289424",
+    "tmdb_id": "306479",
+    "tmdb_site_id": "tv/306479",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "KR"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "626794",
-    "type": "link",
-    "title": "月夜行路 -答案尽在名作之中-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/03/626794_uD14r.jpg",
+    "id": "198178",
+    "type": "tmdb",
+    "title": "奇迹人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5wfW72dFSqJGboyh6fCD01wxrLv.jpg",
+    "releaseDate": "2026-01-27",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
+    "link": null,
+    "tmdb_id": "198178",
+    "tmdb_site_id": "tv/198178",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "315494",
+    "type": "tmdb",
+    "title": "重生：最后的英雄",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zL38GHxXhkMdi3yk5m35nbCNWgH.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
-    "link": "https://bgm.tv/subject/626794"
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "本作讲述了一位从成功IT社长转生为面临困境的普通人的男性之“再生＝REBORN”的故事。被称为时代宠儿的新兴IT企业社长根尾光诚，为实现君临业界顶点的野心而一意孤行，为此向创业成员强人所难，并毫不留情地将其舍弃。其在媒体上傲慢言论频出，被视为冷酷无情之人。某日，光诚遭人推下楼梯坠亡。不知为何，他在医院中醒来，发现自己已转生到2012年的世界，化身为与自己相貌一模一样的野本英人。\n\n　　作为东京下町萧条关闭的商店街上某家洗衣店的继承人英人，光诚开始了与自己原本性格和生活截然不同的人生。等待着他的是与那些转生前2026年自己曾倚仗财富名声打压过的商店街居民们的生活。光诚决心以手中掌握的“未来14年记忆”为武器，以英人的身份活下去，同时追查2026年杀害自己的真凶。最终，他将站在苦境的平民立场，与那些极致追求财富与名声的上层阶级展开对决。",
+    "link": null,
+    "tmdb_id": "315494",
+    "tmdb_site_id": "tv/315494",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "305986",
@@ -295,70 +346,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "289147",
-    "type": "tmdb",
-    "title": "灵魂摆渡·十年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-    "releaseDate": "2026-06-02",
-    "mediaType": "tv",
-    "rating": "9.1",
-    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
-    "link": null,
-    "tmdb_id": "289147",
-    "tmdb_site_id": "tv/289147",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "279446",
-    "type": "tmdb",
-    "title": "太平年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "tv",
-    "rating": "8.8",
-    "description": "公元941年，吴越国王钱元瓘离世，新主少年继位，吴越王室陷入内外交困。五年后，王弟钱弘俶自请随使臣北上汴梁朝贺正旦，然而汴梁的局面竟是契丹兵临城下，天子石重贵称臣契丹，宰相冯道在风雨飘摇中权衡各方。此行，钱弘俶经历了北方家国破碎、人伦失序的惨淡，在危难中与郭荣和赵匡胤结下深厚的情谊。回到吴越国，钱弘俶一改往日自由散漫的个性，在朝廷大展拳脚，内除奸臣、外打豪强，又于政权动乱之时扛起国主的重任。另一方面，北方的赵匡胤，继承了郭荣未竟的事业，建立北宋政权，兴兵南下。最终，在北宋统一的大势和天下黎庶的福祉面前，赵匡胤、钱弘俶摒弃兵戈，于太平兴国三年（公元978年）完成了“纳土归宋”和平统一的历史创举。",
-    "link": null,
-    "tmdb_id": "279446",
-    "tmdb_site_id": "tv/279446",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "279388",
-    "type": "tmdb",
-    "title": "逐玉",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
-    "link": null,
-    "tmdb_id": "279388",
-    "tmdb_site_id": "tv/279388",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "533266",
-    "type": "link",
-    "title": "宇宙巨人：希曼崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
-    "releaseDate": "2026-06-05",
-    "mediaType": "real",
-    "rating": "5.8",
-    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
-    "link": "https://bgm.tv/subject/533266"
   }
 ]

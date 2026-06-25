@@ -1,74 +1,14 @@
 [
   {
-    "id": "461696",
+    "id": "658610",
     "type": "link",
-    "title": "好兆头 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
-    "releaseDate": "2026-05-13",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
-    "link": "https://bgm.tv/subject/461696"
-  },
-  {
-    "id": "601438",
-    "type": "link",
-    "title": "THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/8f/601438_ME9Fn.jpg",
-    "releaseDate": "2026-04-25",
-    "mediaType": "real",
-    "rating": "6.4",
-    "description": "2话 /  2026年4月25日",
-    "link": "https://bgm.tv/subject/601438"
-  },
-  {
-    "id": "246029",
-    "type": "tmdb",
-    "title": "喧嘩独学",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/77/623841_bjJ7e.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "2026-06-11 / 武内英樹 / 徳永友一 / 鈴鹿央士",
-    "link": null,
-    "tmdb_id": "246029",
-    "tmdb_site_id": "tv/246029",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "639965",
-    "type": "link",
-    "title": "举办BGP！祝愿电影大卖！in 准备好！莲之空！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b7/db/639965_57OvR.jpg",
+    "title": "谜探休格 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5a/658610_Dh9M8.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-04-06 / 楡井希実、野中ここな、菅叶和、櫻井陽菜、葉山風花、来栖りん、三宅美羽、進藤あまね、花宮初奈、佐々木琴子、月音こな",
-    "link": "https://bgm.tv/subject/639965"
-  },
-  {
-    "id": "405591",
-    "type": "link",
-    "title": "重返寂静岭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "real",
-    "rating": "2.9",
-    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
-    "link": "https://bgm.tv/subject/405591"
-  },
-  {
-    "id": "547412",
-    "type": "link",
-    "title": "如月千早武道館単独公演「OathONE」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/7e/547412_p26gX.jpg",
-    "releaseDate": "2026-01-24",
-    "mediaType": "real",
-    "rating": "8.7",
-    "description": "2话 /  2026年1月24日",
-    "link": "https://bgm.tv/subject/547412"
+    "description": "8话 /  2026-06-19 / Fernando Meirelles, Adam Arkin / Colin Farrell, Amy Ryan, Dennis Boutsikaris, Anna Gunn, James Cromwell, Kirby Howell-Baptiste, Nate Corddry, Sydney Chandler, Alex Hernandez",
+    "link": "https://bgm.tv/subject/658610"
   },
   {
     "id": "304928",
@@ -89,130 +29,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "308275",
-    "type": "tmdb",
-    "title": "如果不是本命就好了",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kqklAcwga8fvyc0pMVxwBw33tZI.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "在旅行社工作的大沼实歩乃，刚与交往六年的恋人分手，转眼已满30岁。此时，公司来了位新同事——嬉野栄成。十年前，两人各自有伴侣却陷入肉体关系，是彼此的“共犯”。如今再相遇，栄成依旧用那熟悉的低语挑动她：“我们是不是命中注定？” 随着重逢而复苏的快感与渴望，让实歩乃再次陷落，但栄成的真实心意却始终捉不住——她到底是本命，还是玩伴？成年后仍无法摆脱的秘密关系，让她一步步沉溺其中。",
-    "link": null,
-    "tmdb_id": "308275",
-    "tmdb_site_id": "tv/308275",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "270572",
-    "type": "tmdb",
-    "title": "蝇王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
-    "releaseDate": "2026-02-08",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
-    "link": null,
-    "tmdb_id": "270572",
-    "tmdb_site_id": "tv/270572",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "478191",
-    "type": "link",
-    "title": "真人快打2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "real",
-    "rating": "6.1",
-    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
-    "link": "https://bgm.tv/subject/478191"
-  },
-  {
-    "id": "300751",
-    "type": "tmdb",
-    "title": "续面续缘BRAVO！",
-    "posterPath": "https://image.tmdb.org/t/p/w500/qPCjZ5tOGKcNnHjlKCVZmDctztC.jpg",
-    "releaseDate": "2026-01-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "主题为拉面与芭蕾的女性友谊剧",
-    "link": null,
-    "tmdb_id": "300751",
-    "tmdb_site_id": "tv/300751",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "614611",
-    "type": "link",
-    "title": "提欧奥特曼",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/37/2d/614611_10yCd.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月4日 / 二宮崇 (主导演)、辻本貴則 (主特摄导演) / 田辺茂範 (兼系列构成)",
-    "link": "https://bgm.tv/subject/614611"
-  },
-  {
-    "id": "255661",
-    "type": "tmdb",
-    "title": "青年夏洛克",
-    "posterPath": "https://image.tmdb.org/t/p/w500/beWoUmSdD8BHGmtodOoxVYQO6lG.jpg",
-    "releaseDate": "2026-03-04",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "这部玩世不恭、动作场面精彩的推理影集由盖瑞奇执导，讲述夏洛克福尔摩斯的传奇起源，描绘这位著名侦探最早期的冒险故事。",
-    "link": null,
-    "tmdb_id": "255661",
-    "tmdb_site_id": "tv/255661",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "319990",
-    "type": "tmdb",
-    "title": "ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-",
-    "posterPath": "https://image.tmdb.org/t/p/w500/k1URf9DWhw5Cc4k9IhCrsOQWXBm.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026-07-03 / 山田篤宏、下津優太、近藤亮太 / 保坂大輔、稲本達郎",
-    "link": null,
-    "tmdb_id": "319990",
-    "tmdb_site_id": "tv/319990",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "654657",
-    "type": "link",
-    "title": "断林镇谜案 第十二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/da/92/654657_y83Ef.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "6话 /  2026-04-06",
-    "link": "https://bgm.tv/subject/654657"
-  },
-  {
     "id": "282810",
     "type": "tmdb",
     "title": "法官李汉英",
@@ -231,28 +47,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "625916",
-    "type": "link",
-    "title": "空中浩劫 第26季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/63/625916_Nbomf.jpg",
-    "releaseDate": "2026-01-20",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年1月20日",
-    "link": "https://bgm.tv/subject/625916"
-  },
-  {
-    "id": "315702",
+    "id": "314639",
     "type": "tmdb",
-    "title": "午夜出租车",
-    "posterPath": "https://image.tmdb.org/t/p/w500/3hGPd0j6w2VK1DdUo0LM2QM3OwW.jpg",
-    "releaseDate": "2026-06-01",
+    "title": "银河的一票",
+    "posterPath": "https://image.tmdb.org/t/p/w500/goU5BxUsRn2w4lui9iw8DVOYaQJ.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "全剧将镜头对准穿梭在东京夜色里的一辆出租车。古川琴音饰演29岁的司机兰象子，她不善言辞也不刻意迎合，却总能让乘车人在日后反复回味起那个夜晚的风景。车厢内交织着形形色色的人生，在见证无数人生的交汇后，即将步入三十岁的她，开始直面内心的真实渴求。",
+    "rating": "7.0",
+    "description": "故事始于一封揭发政治家不正行为的告发信。执政党干事长之女、同时也是秘书的星野茉莉（黑木华 饰）暗中追查真相，却因此被父亲切割，失去工作与容身之所，人生瞬间跌入谷底。走投无路之际，她遇见了性格爽朗、毫无政治经验的小酒馆妈妈桑月冈明里（野吕佳代 饰）。一次突如其来的东京都知事选举，让茉莉萌生念头——推举这个“政治素人”参选。两名背景与性格截然不同的女性就此携手，在权谋与舆论交织的选战中并肩作战，展开一场笑中带泪、热血又另类的“选举娱乐”故事。",
     "link": null,
-    "tmdb_id": "315702",
-    "tmdb_site_id": "tv/315702",
+    "tmdb_id": "314639",
+    "tmdb_site_id": "tv/314639",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -260,59 +65,237 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "642555",
+    "id": "643869",
     "type": "link",
-    "title": "花譜｜宿声 in Hong Kong",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/90/1b/642555_cQLii.jpg",
-    "releaseDate": "2026-05-30",
+    "title": "自称悪役令嬢な婚約者の観察記録。～バーティア様を愛でるラジオ。～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0a/da/643869_dsX15.jpg",
+    "releaseDate": "2026-04-01",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年5月30日 / 花譜",
-    "link": "https://bgm.tv/subject/642555"
+    "description": "2026年4月1日 / 富田美憂",
+    "link": "https://bgm.tv/subject/643869"
   },
   {
-    "id": "489598",
+    "id": "546050",
     "type": "link",
-    "title": "帝王计划：怪兽遗产 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
+    "title": "铁肺",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2a/23/546050_8Em98.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年1月30日 / Mark Fischbach / Mark Fischbach / Mark Fischbach、Caroline Rose Kaplan",
+    "link": "https://bgm.tv/subject/546050"
+  },
+  {
+    "id": "315758",
+    "type": "tmdb",
+    "title": "伪装的真实之吻",
+    "posterPath": "https://image.tmdb.org/t/p/w500/j8RF51fG37ski8xmynpv7RjKTSx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "本剧讲述业务部同期的四谷良与志藤全，自高中时代起就凡事较劲，成绩、运动、人气，甚至谁先升职都能拿来比个高下。多年后在公司意外重逢，曾被时间冲淡的竞争心再次燃起。两人即使成为同事，也习惯向对方发起新的挑战。一次玩笑般的「持久对决」让彼此的关系越界，情势从竞争逐渐转向亲密攻防。谁都不愿认输的他们，最终订下新的赌约──先攻陷对方、掳获芳心的人就算胜利！",
+    "link": null,
+    "tmdb_id": "315758",
+    "tmdb_site_id": "tv/315758",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316254",
+    "type": "tmdb",
+    "title": "BORDERLESS～广域移动搜查队～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6YRlr1z8bcXalWKuj1PZY459pW8.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "4.5",
+    "description": "非职业组刑警仲泽桃子（土屋太凤 饰）与新人刑警黄泽蕾（佐藤胜利 饰）同属警视厅“移动搜查课”，这是一个驾驶多功能搜查卡车奔赴各地调查案件的特殊部门。当案件跨越多个地区时，警视厅与各地警察之间常因管辖权产生对立，而移动搜查课正是为打破这种局面而设立。性格直率冲动的桃子，与因一次失误被调来的热血新人蕾，在被称为“一番星”的搜查车上，与队友们奔赴各地现场追查真相。在一次次广域案件调查中，两人逐渐成长，也慢慢揭开各自隐藏的过去。",
+    "link": null,
+    "tmdb_id": "316254",
+    "tmdb_site_id": "tv/316254",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317056",
+    "type": "tmdb",
+    "title": "双程",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1uuVhAwTRvileHfXdO46dYTiJef.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "优等生程亦辰与桀骜不驯的陆风意外走近，萌生情愫，在懵懂与挣扎中相爱。恋情暴露引发风波，陆风为保护程亦辰而冲动伤人被家人强制送出国，两人因错过和信件丢失彻底失联。五年后，程亦辰在职场重逢已是总裁的陆风，在陆风的苦苦追求下程亦辰主动去找陆风。却因陆风酒后喝醉产生误会，两人再生裂痕。经历痛苦分离、生死误会，两人认清真心。最终，彼此解开过往心结，选择放下伤害，重新携手共度未来。",
+    "link": null,
+    "tmdb_id": "317056",
+    "tmdb_site_id": "tv/317056",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN",
+      "SG"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "285838",
+    "type": "tmdb",
+    "title": "夺命许愿",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "一款神秘的应用程序承诺能实现愿望，却紧接着启动死亡倒计时。一群青少年因此卷入其中，他们必须打破这条致命连锁才能活下去。",
+    "link": null,
+    "tmdb_id": "285838",
+    "tmdb_site_id": "tv/285838",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "405591",
+    "type": "link",
+    "title": "重返寂静岭",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
+    "releaseDate": "2026-01-23",
+    "mediaType": "real",
+    "rating": "2.9",
+    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
+    "link": "https://bgm.tv/subject/405591"
+  },
+  {
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
+  },
+  {
+    "id": "316461",
+    "type": "tmdb",
+    "title": "烟蓝雨后晴",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iMl06yaMs1z23r1w0sj8YhtoQ7l.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "　曾在药企担任王牌销售的吾妻朔太郎（武田航平 饰）因事业瓶颈陷入迷茫，目前处于无职状态；他在偶然中被当年的职场劲敌、如今从事医疗翻译工作的久慈静（涩谷谦人 饰）所救。这对曾在八年前共度过一夜的旧友，在人生的转折点再度重逢，共同面对职场压力、亲人老去以及生活选择，开启了一段苦甜参半的成年爱情故事。",
+    "link": null,
+    "tmdb_id": "316461",
+    "tmdb_site_id": "tv/316461",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "645772",
+    "type": "link",
+    "title": "Yuna First Live",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/32/6b/645772_x6b8m.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
-    "link": "https://bgm.tv/subject/489598"
+    "description": "1话 /  2026-04-29",
+    "link": "https://bgm.tv/subject/645772"
   },
   {
-    "id": "633271",
+    "id": "478191",
     "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "真人快打2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/f2/478191_h0GK3.jpg",
+    "releaseDate": "2026-05-08",
     "mediaType": "real",
-    "rating": "7.1",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
+    "rating": "6.1",
+    "description": "1话 /  2026年5月8日 / Simon McQuoid / Jeremy Slater / Karl Urban、Adeline Rudolph、Ludi Lin、Jessica McNamee",
+    "link": "https://bgm.tv/subject/478191"
   },
   {
-    "id": "655114",
-    "type": "link",
-    "title": "Bad Thoughts Season 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/6a/655114_V8uvq.jpg",
+    "id": "317317",
+    "type": "tmdb",
+    "title": "我所憧憬的作家不是人类",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vcK2LE6UHt1B776bZX0gt5eAOiH.jpg",
+    "releaseDate": "2026-05-04",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "御崎禅（京本大我 饰）曾是风靡一时的畅销小说家，却在某个契机下舍弃人类身份，成为吸血鬼。失去创作热情的他，在与新人编辑濑名朝日（樱田日和 饰）和年轻刑警的相处中，逐渐找回对爱与友情等人类情感的感知。凭借能从血液中读取记忆的“念写”能力，以及读心术、催眠术等超常力量与敏锐推理，御崎禅屡次破解警方束手无策的疑难案件，在非人之身中重新面对“人性”的意义。\n\n本剧改编自澤村御影的同名原著小说。",
+    "link": null,
+    "tmdb_id": "317317",
+    "tmdb_site_id": "tv/317317",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314364",
+    "type": "tmdb",
+    "title": "时光代理人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aB4fF9AuwkvAF8NbpTRcTxtAE7.jpg",
     "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "《时光代理人》是由汤浅弘章执导，富冈淳广、土城温美编剧，佐藤大树与本乡奏多主演的电视剧作品。该剧于2026年4月11日首播，全剧共10集。",
+    "link": null,
+    "tmdb_id": "314364",
+    "tmdb_site_id": "tv/314364",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317415",
+    "type": "tmdb",
+    "title": "那位天才对伪装女友过分执着",
+    "posterPath": "https://image.tmdb.org/t/p/w500/m6XRjT1xoEDyx9opBdKi35KrDXa.jpg",
+    "releaseDate": "2026-04-23",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "29岁的星野凛没有男友也没有工作，人生陷入低谷。她努力参加相亲寻找新恋情，却被突然出现的“神秘又没礼貌的男人”搅得一团糟。某天，在哥哥的拜托下，她接下了为一位“海归天才程序员”做家务的短期委托。没想到出现在她面前的雇主，竟然正是那位让她相亲失败的若月郁。孤高的天才程序员与爱操心的倒霉女孩，由契约关系开始的同居生活逐渐展开，而若月也开始对这个“伪装女友”产生越来越强的执着，一段甜度爆表的恋爱喜剧由此展开。\n\n　　本剧改编自村山犬的同名原著漫画。",
+    "link": null,
+    "tmdb_id": "317415",
+    "tmdb_site_id": "tv/317415",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "647204",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 14thLIVE DAY1 〜夢咲くワンダーミラージュ〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/c9/647204_y6xR7.jpg",
+    "releaseDate": "2026-09-19",
     "mediaType": "real",
     "rating": "",
-    "description": "6话 /  May 24, 2026 / Tom Segura",
-    "link": "https://bgm.tv/subject/655114"
+    "description": "1话 /  2026年9月19日",
+    "link": "https://bgm.tv/subject/647204"
   },
   {
-    "id": "494631",
+    "id": "547412",
     "type": "link",
-    "title": "龙之家族 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/37/494631_Ys5dH.jpg",
-    "releaseDate": "2026-06-21",
+    "title": "如月千早武道館単独公演「OathONE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/7e/547412_p26gX.jpg",
+    "releaseDate": "2026-01-24",
     "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026年6月21日",
-    "link": "https://bgm.tv/subject/494631"
+    "rating": "8.7",
+    "description": "2话 /  2026年1月24日",
+    "link": "https://bgm.tv/subject/547412"
   },
   {
     "id": "607931",
@@ -324,5 +307,52 @@
     "rating": "",
     "description": "2话 /  2026年5月16日",
     "link": "https://bgm.tv/subject/607931"
+  },
+  {
+    "id": "322072",
+    "type": "tmdb",
+    "title": "你在夏日之中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/he0yILQnhKDO8Tr94s9R0eFgDzb.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　性格率直的户田涉（奥智哉 饰）与校园风云人物佐伯千晴（杢代和人 饰）因共同的电影爱好而结缘。在千晴告白后，两人约定利用暑假进行一场电影圣地巡礼。这段从高中延伸至大学的时光，细腻记录了两人之间青涩而熠熠生辉的成长与爱恋。",
+    "link": null,
+    "tmdb_id": "322072",
+    "tmdb_site_id": "tv/322072",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323411",
+    "type": "tmdb",
+    "title": "吸血鬼莱斯特",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2EeNjYLPtqT6yT9hGEGyJRzXlgQ.jpg",
+    "releaseDate": "2026-06-07",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "在以摇滚乐为主题的新季中，吸血鬼莱斯特开启了一场火花四溅的跨城巡演，同时被那些来自狂野叛逆过去的“缪斯”所纠缠。随着乐队人气和明星光环的飙升，莱斯特对吸血鬼和人类的影响力也与日俱增，在吸血鬼人口非自然激增的“大转化”背景下，其他人不得不面对莱斯特的全新势力。",
+    "link": null,
+    "tmdb_id": "323411",
+    "tmdb_site_id": "tv/323411",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "620937",
+    "type": "link",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "8.0",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
   }
 ]

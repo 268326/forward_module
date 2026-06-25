@@ -1,5 +1,45 @@
 [
   {
+    "id": "308828",
+    "type": "tmdb",
+    "title": "乔巴的日常",
+    "posterPath": "https://image.tmdb.org/t/p/w500/y8intXjXK5FG8JaAYjLy2uyK1PQ.jpg",
+    "releaseDate": "2026-01-05",
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "12话 /  2026年1月5日 / 『ONE PIECE CHOPPER’s』（『ONE PIECE』（原作：尾田栄一郎）より）",
+    "link": null,
+    "tmdb_id": "308828",
+    "tmdb_site_id": "tv/308828",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "583928",
+    "type": "link",
+    "title": "Critterz",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/95/0e/583928_lc280.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年",
+    "link": "https://bgm.tv/subject/583928"
+  },
+  {
+    "id": "661787",
+    "type": "link",
+    "title": "憨丁钱路慌",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Linda Hambäck",
+    "link": "https://bgm.tv/subject/661787"
+  },
+  {
     "id": "505550",
     "type": "link",
     "title": "Dark Machine",
@@ -156,6 +196,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "663136",
+    "type": "link",
+    "title": "忘却之岛",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/d1/663136_M6b92.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年9月25日 / Joel Crawford、Januel Mercado",
+    "link": "https://bgm.tv/subject/663136"
+  },
+  {
     "id": "653307",
     "type": "link",
     "title": "飞出个未来 第14季(Hulu版)",
@@ -242,49 +293,5 @@
     "rating": "6.0",
     "description": "1话 /  2026年2月13日 / Tyree Dillihay / Chris Tougas",
     "link": "https://bgm.tv/subject/560192"
-  },
-  {
-    "id": "636256",
-    "type": "link",
-    "title": "GRIDDOWN",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/22/636256_V40HV.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026",
-    "link": "https://bgm.tv/subject/636256"
-  },
-  {
-    "id": "502499",
-    "type": "link",
-    "title": "GROTESQQQUE -グロテスク-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fc/502499_tTN91.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年 / 安野将人、岩崎将大、錦織敦史",
-    "link": "https://bgm.tv/subject/502499"
-  },
-  {
-    "id": "583786",
-    "type": "link",
-    "title": "魔法秘境",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_1OHCV.jpg",
-    "releaseDate": "2026-11-25",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年11月25日 / Josie Trinidad、Jason Hand",
-    "link": "https://bgm.tv/subject/583786"
-  },
-  {
-    "id": "525516",
-    "type": "link",
-    "title": "河狸变身计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/09/5c/525516_Y3koK.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "1话 /  2026年3月6日 / Daniel Chong",
-    "link": "https://bgm.tv/subject/525516"
   }
 ]

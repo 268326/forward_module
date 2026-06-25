@@ -1,5 +1,16 @@
 [
   {
+    "id": "650117",
+    "type": "link",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
+  },
+  {
     "id": "287591",
     "type": "tmdb",
     "title": "皎洁迎宵之月",
@@ -25,28 +36,6 @@
     "rating": "",
     "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
     "link": "https://bgm.tv/subject/528731"
-  },
-  {
-    "id": "650117",
-    "type": "link",
-    "title": "昨夜は殺れたかも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
-    "link": "https://bgm.tv/subject/650117"
-  },
-  {
-    "id": "428025",
-    "type": "link",
-    "title": "街头霸王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
-    "link": "https://bgm.tv/subject/428025"
   },
   {
     "id": "650384",
@@ -76,6 +65,17 @@
       "TW"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "428025",
+    "type": "link",
+    "title": "街头霸王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
+    "link": "https://bgm.tv/subject/428025"
   },
   {
     "id": "213375",
@@ -118,17 +118,6 @@
     "link": "https://bgm.tv/subject/567892"
   },
   {
-    "id": "630421",
-    "type": "link",
-    "title": "刀剣乱舞 - ICE BLADE -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-10-03",
-    "link": "https://bgm.tv/subject/630421"
-  },
-  {
     "id": "646585",
     "type": "link",
     "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
@@ -140,48 +129,15 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "578392",
+    "id": "630421",
     "type": "link",
-    "title": "キリコのタクト～YELL～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/86/578392_78V2w.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月2日 / 鈴木京香",
-    "link": "https://bgm.tv/subject/578392"
-  },
-  {
-    "id": "661806",
-    "type": "link",
-    "title": "潘朵拉之心 RetraceⅡ-madness of lost memory-",
-    "posterPath": null,
+    "title": "刀剣乱舞 - ICE BLADE -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-10-02 / 山崎彬 / 山崎彬 / 横山賀三",
-    "link": "https://bgm.tv/subject/661806"
-  },
-  {
-    "id": "657525",
-    "type": "link",
-    "title": "ファーストボイス ―私たちの逆転裁判―",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/61/657525_5yh5B.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 綾瀬はるか",
-    "link": "https://bgm.tv/subject/657525"
-  },
-  {
-    "id": "642227",
-    "type": "link",
-    "title": "ママがもうこの世界にいなくても 私の命の日記",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
-    "link": "https://bgm.tv/subject/642227"
+    "description": "2026-10-03",
+    "link": "https://bgm.tv/subject/630421"
   },
   {
     "id": "637421",
@@ -228,6 +184,50 @@
     "link": "https://bgm.tv/subject/622250"
   },
   {
+    "id": "578392",
+    "type": "link",
+    "title": "キリコのタクト～YELL～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/86/578392_78V2w.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月2日 / 鈴木京香",
+    "link": "https://bgm.tv/subject/578392"
+  },
+  {
+    "id": "661806",
+    "type": "link",
+    "title": "潘朵拉之心 RetraceⅡ-madness of lost memory-",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-02 / 山崎彬 / 山崎彬 / 横山賀三",
+    "link": "https://bgm.tv/subject/661806"
+  },
+  {
+    "id": "657525",
+    "type": "link",
+    "title": "ファーストボイス ―私たちの逆転裁判―",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/61/657525_5yh5B.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 綾瀬はるか",
+    "link": "https://bgm.tv/subject/657525"
+  },
+  {
+    "id": "642227",
+    "type": "link",
+    "title": "ママがもうこの世界にいなくても 私の命の日記",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
+    "link": "https://bgm.tv/subject/642227"
+  },
+  {
     "id": "658997",
     "type": "link",
     "title": "舞台『ブルーロック』5th STAGE ー新英雄大戦（ネオ・エゴイストリーグ）開幕ー",
@@ -239,6 +239,17 @@
     "link": "https://bgm.tv/subject/658997"
   },
   {
+    "id": "662973",
+    "type": "link",
+    "title": "KSL Live World 2026 - Sing with the Wind -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/e0/662973_2x4Xu.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-09-26 / ASCA、大原ゆい子、鈴木このみ、fhána、sana(37/sajou no hana)、多田葵、水谷瑠奈、YURiKA、Lia",
+    "link": "https://bgm.tv/subject/662973"
+  },
+  {
     "id": "645791",
     "type": "link",
     "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
@@ -248,17 +259,6 @@
     "rating": "",
     "description": "2话 /  2026年9月26日",
     "link": "https://bgm.tv/subject/645791"
-  },
-  {
-    "id": "638983",
-    "type": "link",
-    "title": "藁にもすがる獣たち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
-    "link": "https://bgm.tv/subject/638983"
   },
   {
     "id": "600005",
