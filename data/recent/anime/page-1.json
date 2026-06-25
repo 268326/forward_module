@@ -116,6 +116,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
+  },
+  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -130,17 +141,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "293697",
@@ -159,6 +159,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
+  },
+  {
     "id": "245842",
     "type": "tmdb",
     "title": "杖与剑的魔剑谭 第二季",
@@ -171,33 +182,6 @@
     "tmdb_id": "245842",
     "tmdb_site_id": "tv/245842/season/2",
     "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "353181",
-    "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
-  },
-  {
-    "id": "283428",
-    "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -231,6 +215,22 @@
     "link": "https://bgm.tv/subject/501963"
   },
   {
+    "id": "283428",
+    "type": "tmdb",
+    "title": "冰之城墙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428",
+    "tmdb_site_id": "tv/283428",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -253,7 +253,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
     "releaseDate": "2026-04-01",
     "mediaType": "anime",
-    "rating": "6.1",
+    "rating": "6.0",
     "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
     "link": "https://bgm.tv/subject/510710"
   },
