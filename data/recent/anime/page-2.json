@@ -1,34 +1,5 @@
 [
   {
-    "id": "288971",
-    "type": "tmdb",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bJw09VllnGmHQlKUV4ziti2QTHN.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　十三世纪，幼小的奴隶希塔拉在伊朗东部城市图斯被奴隶商委托给一个学者辈出的家族进行教育。希塔拉起初试图逃跑，但她被教导了知识的重要性，希塔拉在这里被女主人法蒂玛视为女儿般的宠爱，并学习了欧几里得的《几何原本》等诸多知识。家族的继承人穆罕默德为了研究学问而前往内沙布尔后 8 年，图斯遭到蒙古人的袭击。希塔拉被拖雷的军队俘虏，法蒂玛为了保护希塔拉而被杀害。此外，《几何原本》也被抢走了。被带到蒙古的希塔拉开始思考对蒙古的复仇。",
-    "link": null,
-    "tmdb_id": "288971",
-    "tmdb_site_id": "tv/288971",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
-  },
-  {
     "id": "569116",
     "type": "link",
     "title": "碧蓝之海 第三季",
@@ -38,6 +9,38 @@
     "rating": "8.2",
     "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
     "link": "https://bgm.tv/subject/569116"
+  },
+  {
+    "id": "278043",
+    "type": "tmdb",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": null,
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "209867",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -56,6 +59,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "633836",
+    "type": "link",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
+    "link": "https://bgm.tv/subject/633836"
+  },
+  {
     "id": "291403",
     "type": "tmdb",
     "title": "淡岛百景",
@@ -70,39 +84,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
-    "id": "633836",
-    "type": "link",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
   },
   {
     "id": "295071",
@@ -123,6 +104,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
     "id": "545008",
     "type": "link",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -132,22 +124,6 @@
     "rating": "",
     "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
     "link": "https://bgm.tv/subject/545008"
-  },
-  {
-    "id": "284447",
-    "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
-    "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "255358",
@@ -161,6 +137,46 @@
     "link": null,
     "tmdb_id": "255358",
     "tmdb_site_id": "tv/255358",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
+    "id": "627136",
+    "type": "link",
+    "title": "正后方的神威",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "link": "https://bgm.tv/subject/627136"
+  },
+  {
+    "id": "300112",
+    "type": "tmdb",
+    "title": "BanG Dream! YUME∞MITA",
+    "posterPath": "https://image.tmdb.org/t/p/w500/g2rOrzJ2CrjuJeNErWJ1p1jGq6g.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
+    "link": null,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -184,6 +200,38 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/78/140001_Ew1mo.jpg",
+    "releaseDate": "2016-04-03",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "25话 /  2016年4月3日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "284447",
+    "type": "tmdb",
+    "title": "弱弱老师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
+    "link": null,
+    "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -198,17 +246,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "627136",
-    "type": "link",
-    "title": "正后方的神威",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
-    "link": "https://bgm.tv/subject/627136"
   },
   {
     "id": "305329",
@@ -227,44 +264,35 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "598058",
-    "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
-  },
-  {
-    "id": "65942",
+    "id": "296101",
     "type": "tmdb",
-    "title": "Re：从零开始的异世界生活",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/78/140001_Ew1mo.jpg",
-    "releaseDate": "2016-04-03",
+    "title": "成长秀～向日葵马戏团～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gZtpp4njyNIT0v6bpOp295zg43.jpg",
+    "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "25话 /  2016年4月3日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
+    "rating": "0.0",
+    "description": "2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
     "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
+    "tmdb_id": "296101",
+    "tmdb_site_id": "tv/296101",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "300112",
+    "id": "312949",
     "type": "tmdb",
-    "title": "BanG Dream! YUME∞MITA",
-    "posterPath": "https://image.tmdb.org/t/p/w500/g2rOrzJ2CrjuJeNErWJ1p1jGq6g.jpg",
+    "title": "尼古喵喵",
+    "posterPath": "https://image.tmdb.org/t/p/w500/27LmYzUAS9DWTRRRCMP0p5wund.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
+    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
     "link": null,
-    "tmdb_id": "300112",
-    "tmdb_site_id": "tv/300112",
+    "tmdb_id": "312949",
+    "tmdb_site_id": "tv/312949",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -288,20 +316,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超时空辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
   },
   {
     "id": "105248",
@@ -320,39 +343,19 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "315816",
+    "id": "1575337",
     "type": "tmdb",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "title": "超时空辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
     "link": null,
-    "tmdb_id": "315816",
-    "tmdb_site_id": "tv/315816",
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "成长秀～向日葵马戏团～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gZtpp4njyNIT0v6bpOp295zg43.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
-    "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
