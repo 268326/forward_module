@@ -113,15 +113,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "613438",
-    "type": "link",
+    "id": "307585",
+    "type": "tmdb",
     "title": "我家的弟弟们真是让您费心了",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
     "releaseDate": "2026-07-03",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
-    "link": "https://bgm.tv/subject/613438"
+    "link": null,
+    "tmdb_id": "307585",
+    "tmdb_site_id": "tv/307585",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "212949",

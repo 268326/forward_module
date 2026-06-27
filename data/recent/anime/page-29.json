@@ -278,19 +278,17 @@
     "id": "296437",
     "type": "tmdb",
     "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xWgtg6l6vLaucO5caOwy5GywpX9.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
     "releaseDate": "2026-07-10",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
     "link": null,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "113137",

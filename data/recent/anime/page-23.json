@@ -48,15 +48,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "590786",
-    "type": "link",
+    "id": "302051",
+    "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg",
     "releaseDate": "2026-07-06",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": "https://bgm.tv/subject/590786"
+    "link": null,
+    "tmdb_id": "302051",
+    "tmdb_site_id": "tv/302051",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "62327",

@@ -65,7 +65,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "6.0",
     "description": "由绝望中转生的最强贤者，到400年后的世界一展外挂威能！  大贤者艾福达尔从现代转生至异世界后，将人生的一切都花费在研究魔导上。  当他了解到自己才能的极限，到达绝望与后悔的尽头后－－划下了生命句点。  在那之后过了400年……艾福达尔成功地第二次转生，不仅保有前世的魔术知识与力量转世重生，更再度以登上魔导巅峰为目标。  然而新世界的魔法文明已衰退，他的魔法竟然变成了奇迹般的神乎其技－－  贤者从绝望中转生的犯规级学院奇幻故事，在此揭开序幕！",
     "link": null,
     "tmdb_id": "314554",
@@ -170,15 +170,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "587109",
-    "type": "link",
+    "id": "312266",
+    "type": "tmdb",
     "title": "花织同学转生后还是想干架",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
-    "link": "https://bgm.tv/subject/587109"
+    "link": null,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "259819",

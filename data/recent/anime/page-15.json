@@ -51,19 +51,17 @@
     "id": "314054",
     "type": "tmdb",
     "title": "天是红河岸",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wWlfBMTA7VygmYC4KUg2qLWJGmv.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/b7/627648_V00Vh.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
     "link": null,
     "tmdb_id": "314054",
     "tmdb_site_id": "tv/314054",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "30981",
@@ -248,7 +246,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/05/449343_7rR9S.jpg",
     "releaseDate": "2026-06-11",
     "mediaType": "anime",
-    "rating": "6.9",
+    "rating": "7.1",
     "description": "8话 /  2026年6月11日 / 史涓生、邓志巍 / 许先哲 / 主角人物设计：史涓生、邓志巍、王通晓、赵然；人物设计：史涓生、邓志巍、王通晓、徐维纳、郭秋雨、刘馨、李荣月、徐啸宇、曹倩雯",
     "link": "https://bgm.tv/subject/449343"
   },

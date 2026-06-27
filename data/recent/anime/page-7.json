@@ -99,19 +99,17 @@
     "id": "287075",
     "type": "tmdb",
     "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_avGso.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
     "link": null,
     "tmdb_id": "287075",
     "tmdb_site_id": "tv/287075",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "139060",

@@ -360,14 +360,19 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "614594",
-    "type": "link",
+    "id": "312507",
+    "type": "tmdb",
     "title": "令和的斑小姐",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/c5/614594_ZW9b2.jpg",
     "releaseDate": "2026-07-02",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "13话 /  2026年7月2日 / 鈴木理人 / ともつか治臣（「令和のダラさん」／KADOKAWA刊） / 菊田幸一",
-    "link": "https://bgm.tv/subject/614594"
+    "link": null,
+    "tmdb_id": "312507",
+    "tmdb_site_id": "tv/312507",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

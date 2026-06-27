@@ -318,19 +318,17 @@
     "id": "298831",
     "type": "tmdb",
     "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iSunmtMOna6Mj2DNX6mtAt01aRP.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e2/dd/579246_61291.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "2026年7月6日 / 葛谷直行 / はぐれメタボ（HJノベルス／ホビージャパン）；漫画：おおのいも（HJコミックス／コミックファイア連載） / 姉崎早也花",
     "link": null,
     "tmdb_id": "298831",
     "tmdb_site_id": "tv/298831",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "212162",
@@ -368,18 +366,16 @@
     "id": "298994",
     "type": "tmdb",
     "title": "LV999的村民",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "12话 /  2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
     "link": null,
     "tmdb_id": "298994",
     "tmdb_site_id": "tv/298994",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

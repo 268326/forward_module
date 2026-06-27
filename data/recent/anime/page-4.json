@@ -70,7 +70,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/9a/513208_UFZ41.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "7.0",
     "description": "12话 /  2026年4月2日 / 外山草 / 地球のお魚ぽんちゃん（リュエルコミックス／実業之日本社 刊） / 林奈美",
     "link": null,
     "tmdb_id": "303870",
@@ -155,33 +155,36 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "607340",
-    "type": "link",
+    "id": "309974",
+    "type": "tmdb",
     "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
     "releaseDate": "2026-07-06",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし / 澤田慶宏、石井優月",
-    "link": "https://bgm.tv/subject/607340"
+    "link": null,
+    "tmdb_id": "309974",
+    "tmdb_site_id": "tv/309974",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "308874",
     "type": "tmdb",
     "title": "少女怪兽焦糖味",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1JW6hx7sAU1qRpYSxXpYb9B2xaG.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
     "link": null,
     "tmdb_id": "308874",
     "tmdb_site_id": "tv/308874",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "273467",

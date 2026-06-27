@@ -219,15 +219,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "595106",
-    "type": "link",
+    "id": "302824",
+    "type": "tmdb",
     "title": "Let's Go 怪奇组",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_ll6Jj.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
-    "link": "https://bgm.tv/subject/595106"
+    "link": null,
+    "tmdb_id": "302824",
+    "tmdb_site_id": "tv/302824",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "621843",
