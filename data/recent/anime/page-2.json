@@ -1,14 +1,19 @@
 [
   {
-    "id": "569116",
-    "type": "link",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "8.3",
-    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
-    "link": "https://bgm.tv/subject/569116"
+    "id": "196285",
+    "type": "tmdb",
+    "title": "异世界悠闲农家 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/71/575057_BCS8O.jpg",
+    "releaseDate": "2026-04-06",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年4月6日 / 倉谷涼一 / 内藤騎之介「異世界のんびり農家」 / 齊藤佳子",
+    "link": null,
+    "tmdb_id": "196285",
+    "tmdb_site_id": "tv/196285/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278043",
@@ -43,22 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
-    "releaseDate": "2024-10-02",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "633836",
     "type": "link",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
@@ -68,22 +57,6 @@
     "rating": "7.7",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
-  },
-  {
-    "id": "291403",
-    "type": "tmdb",
-    "title": "淡岛百景",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
-    "link": null,
-    "tmdb_id": "291403",
-    "tmdb_site_id": "tv/291403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "295071",
@@ -104,26 +77,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
-  },
-  {
-    "id": "545008",
-    "type": "link",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": "https://bgm.tv/subject/545008"
+    "id": "291403",
+    "type": "tmdb",
+    "title": "淡岛百景",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
+    "link": null,
+    "tmdb_id": "291403",
+    "tmdb_site_id": "tv/291403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "255358",
@@ -142,6 +109,33 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "545008",
+    "type": "link",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": "https://bgm.tv/subject/545008"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
+    "releaseDate": "2024-10-02",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "8话 /  2024年10月2日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "598058",
@@ -166,6 +160,17 @@
     "link": "https://bgm.tv/subject/627136"
   },
   {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
     "id": "300112",
     "type": "tmdb",
     "title": "BanG Dream! YUME∞MITA",
@@ -177,6 +182,24 @@
     "link": null,
     "tmdb_id": "300112",
     "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312949",
+    "type": "tmdb",
+    "title": "尼古喵喵",
+    "posterPath": "https://image.tmdb.org/t/p/w500/27LmYzUAS9DWTRRRCMP0p5wund.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+    "link": null,
+    "tmdb_id": "312949",
+    "tmdb_site_id": "tv/312949",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -198,6 +221,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296101",
+    "type": "tmdb",
+    "title": "成长秀～向日葵马戏团～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gZtpp4njyNIT0v6bpOp295zg43.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+    "link": null,
+    "tmdb_id": "296101",
+    "tmdb_site_id": "tv/296101",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "65942",
@@ -264,49 +305,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "成长秀～向日葵马戏团～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gZtpp4njyNIT0v6bpOp295zg43.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
-    "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "312949",
-    "type": "tmdb",
-    "title": "尼古喵喵",
-    "posterPath": "https://image.tmdb.org/t/p/w500/27LmYzUAS9DWTRRRCMP0p5wund.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": null,
-    "tmdb_id": "312949",
-    "tmdb_site_id": "tv/312949",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "309163",
     "type": "tmdb",
     "title": "没有辣妹会对阿宅温柔!?",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/b9/590393_4so3z.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "6.6",
+    "rating": "6.5",
     "description": "12话 /  2026年4月8日 / 三田新 / のりしろちゃん、漫画：魚住さかな（「月刊コミックゼノン」連載／コアミックス） / 松田りおん",
     "link": null,
     "tmdb_id": "309163",
@@ -316,15 +321,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
+    "id": "287028",
+    "type": "tmdb",
+    "title": "描绘直至生命尽头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bycBcdf2LuM1kr1wQbgUgIWMOzf.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月3日 / 赤城博昭 / とよ田みのる（小学館「ゲッサン」連載中）",
+    "link": null,
+    "tmdb_id": "287028",
+    "tmdb_site_id": "tv/287028",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "105248",
