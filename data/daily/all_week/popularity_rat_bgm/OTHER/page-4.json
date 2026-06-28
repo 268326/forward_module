@@ -1,20 +1,5 @@
 [
   {
-    "id": "637591",
-    "type": "link",
-    "title": "遮天 第四季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ba/b7/637591_1F43i.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/637591",
-    "bgm_id": "637591",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "575244",
     "type": "link",
     "title": "沧元图 第三季",

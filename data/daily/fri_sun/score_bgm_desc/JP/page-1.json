@@ -11,10 +11,32 @@
     "link": null,
     "bgm_id": "616453",
     "bgm_score": 5.3,
-    "bgm_rating_total": 187,
+    "bgm_rating_total": 200,
     "bgm_weekday_id": 7,
     "tmdb_id": "324120",
     "tmdb_site_id": "tv/324120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "299962",
+    "type": "tmdb",
+    "title": "ねずみくんのチョッキ",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jci1UzaAZeT38UpakXIGvE9lGlC.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "582598",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "299962",
+    "tmdb_site_id": "tv/299962",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -33,32 +55,10 @@
     "link": null,
     "bgm_id": "609183",
     "bgm_score": 4.6,
-    "bgm_rating_total": 1059,
+    "bgm_rating_total": 1065,
     "bgm_weekday_id": 7,
     "tmdb_id": "315816",
     "tmdb_site_id": "tv/315816",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "299962",
-    "type": "tmdb",
-    "title": "ねずみくんのチョッキ",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jci1UzaAZeT38UpakXIGvE9lGlC.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "582598",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "299962",
-    "tmdb_site_id": "tv/299962",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
