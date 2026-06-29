@@ -22,17 +22,6 @@
     "link": "https://bgm.tv/subject/547412"
   },
   {
-    "id": "620937",
-    "type": "link",
-    "title": "匹兹堡医护前线 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "15话 /  2026-01-08",
-    "link": "https://bgm.tv/subject/620937"
-  },
-  {
     "id": "224372",
     "type": "tmdb",
     "title": "七王国的骑士",
@@ -49,6 +38,17 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "620937",
+    "type": "link",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.9",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
   },
   {
     "id": "636399",
@@ -196,6 +196,24 @@
     "link": "https://bgm.tv/subject/623261"
   },
   {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "478191",
     "type": "link",
     "title": "真人快打2",
@@ -307,23 +325,5 @@
     "rating": "2.9",
     "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
     "link": "https://bgm.tv/subject/405591"
-  },
-  {
-    "id": "306479",
-    "type": "tmdb",
-    "title": "PROJECT R.E.D.",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
-    "releaseDate": "2026-02-15",
-    "mediaType": "tv",
-    "rating": "4.3",
-    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
-    "link": null,
-    "tmdb_id": "306479",
-    "tmdb_site_id": "tv/306479",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

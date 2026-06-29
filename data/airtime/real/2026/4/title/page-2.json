@@ -102,6 +102,17 @@
     "link": "https://bgm.tv/subject/636896"
   },
   {
+    "id": "663891",
+    "type": "link",
+    "title": "Ave Mujica 7th LIVE「Virtus」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/84/663891_tbbE5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-24",
+    "link": "https://bgm.tv/subject/663891"
+  },
+  {
     "id": "576403",
     "type": "link",
     "title": "Ave Mujica LIVE TOUR 2026「Exitus」",
@@ -162,6 +173,39 @@
     "rating": "9.6",
     "description": "1话 /  2026年2月28日",
     "link": "https://bgm.tv/subject/540469"
+  },
+  {
+    "id": "663892",
+    "type": "link",
+    "title": "BanG Dream! 13th☆LIVE DAY1 : Poppin'Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/63/e5/663892_N72xn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-10",
+    "link": "https://bgm.tv/subject/663892"
+  },
+  {
+    "id": "663893",
+    "type": "link",
+    "title": "BanG Dream! 13th☆LIVE DAY2 : 夢限大みゅーたいぷ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/14/663893_ED2nZ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-11",
+    "link": "https://bgm.tv/subject/663893"
+  },
+  {
+    "id": "663894",
+    "type": "link",
+    "title": "BanG Dream! 13th☆LIVE DAY3：RAISE A SUILEN",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/f1/663894_lEHx2.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-12",
+    "link": "https://bgm.tv/subject/663894"
   },
   {
     "id": "626113",
@@ -253,49 +297,5 @@
     "rating": "",
     "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋（TEAM NACS）、松田龍平",
     "link": "https://bgm.tv/subject/637146"
-  },
-  {
-    "id": "636116",
-    "type": "link",
-    "title": "B小町ライブツアー2026 –Beyond the Brilliance Virtual Live -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/7f/636116_VjEO9.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-04-25",
-    "link": "https://bgm.tv/subject/636116"
-  },
-  {
-    "id": "642455",
-    "type": "link",
-    "title": "Canna Lily 1st ONE-MAN LIVE「未明に咲く花」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/0e/642455_h2i1u.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-06-26 / Canna Lily",
-    "link": "https://bgm.tv/subject/642455"
-  },
-  {
-    "id": "635059",
-    "type": "link",
-    "title": "暗鸦战士：共生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/09/635059_uX88B.jpg",
-    "releaseDate": "2026-02-19",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年2月19日",
-    "link": "https://bgm.tv/subject/635059"
-  },
-  {
-    "id": "534091",
-    "type": "link",
-    "title": "百年孤独 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a6/50/534091_8m1DT.jpg",
-    "releaseDate": "2026-08-05",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026年8月5日",
-    "link": "https://bgm.tv/subject/534091"
   }
 ]

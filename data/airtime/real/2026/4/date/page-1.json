@@ -1,5 +1,16 @@
 [
   {
+    "id": "664233",
+    "type": "link",
+    "title": "millsage 1st LIVE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/b5/664233_9JDZ4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-12-25",
+    "link": "https://bgm.tv/subject/664233"
+  },
+  {
     "id": "538498",
     "type": "link",
     "title": "SUKIYAKI 昂首向前走",
@@ -33,6 +44,17 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
+    "id": "656165",
+    "type": "link",
+    "title": "人生を変えたコント",
+    "posterPath": null,
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / 大橋和也（なにわ男子）",
+    "link": "https://bgm.tv/subject/656165"
+  },
+  {
     "id": "393438",
     "type": "link",
     "title": "复仇者联盟5：毁灭日",
@@ -55,15 +77,15 @@
     "link": "https://bgm.tv/subject/494701"
   },
   {
-    "id": "656165",
+    "id": "664234",
     "type": "link",
-    "title": "人生を変えたコント",
-    "posterPath": null,
-    "releaseDate": "2026-12-18",
+    "title": "一家Dumb Rock! 1st LIVE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/17/664234_BQpLr.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年12月18日 / 大橋和也（なにわ男子）",
-    "link": "https://bgm.tv/subject/656165"
+    "description": "2026-12-12",
+    "link": "https://bgm.tv/subject/664234"
   },
   {
     "id": "612440",
@@ -220,17 +242,6 @@
     "link": "https://bgm.tv/subject/659173"
   },
   {
-    "id": "646304",
-    "type": "link",
-    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-11-03 / Diamond Dust",
-    "link": "https://bgm.tv/subject/646304"
-  },
-  {
     "id": "522524",
     "type": "link",
     "title": "哥斯拉-0.0",
@@ -242,25 +253,14 @@
     "link": "https://bgm.tv/subject/522524"
   },
   {
-    "id": "633242",
+    "id": "646304",
     "type": "link",
-    "title": "龙二",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/6f/633242_ULz6K.jpg",
-    "releaseDate": "2026-10-30",
+    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年10月30日 / 水田伸生 / 柳楽優弥",
-    "link": "https://bgm.tv/subject/633242"
-  },
-  {
-    "id": "620303",
-    "type": "link",
-    "title": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/b4/620303_A2f0w.jpg",
-    "releaseDate": "2026-10-24",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年10月24日",
-    "link": "https://bgm.tv/subject/620303"
+    "description": "2026-11-03 / Diamond Dust",
+    "link": "https://bgm.tv/subject/646304"
   }
 ]

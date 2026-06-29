@@ -1,5 +1,49 @@
 [
   {
+    "id": "633242",
+    "type": "link",
+    "title": "龙二",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/6f/633242_ULz6K.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月30日 / 水田伸生 / 柳楽優弥",
+    "link": "https://bgm.tv/subject/633242"
+  },
+  {
+    "id": "663891",
+    "type": "link",
+    "title": "Ave Mujica 7th LIVE「Virtus」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/84/663891_tbbE5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-24",
+    "link": "https://bgm.tv/subject/663891"
+  },
+  {
+    "id": "620303",
+    "type": "link",
+    "title": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/b4/620303_A2f0w.jpg",
+    "releaseDate": "2026-10-24",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026年10月24日",
+    "link": "https://bgm.tv/subject/620303"
+  },
+  {
+    "id": "528731",
+    "type": "link",
+    "title": "泥面人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/bd/528731_n7ZiD.jpg",
+    "releaseDate": "2026-10-23",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
+    "link": "https://bgm.tv/subject/528731"
+  },
+  {
     "id": "650117",
     "type": "link",
     "title": "昨夜は殺れたかも",
@@ -27,15 +71,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "528731",
+    "id": "428025",
     "type": "link",
-    "title": "泥面人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/bd/528731_n7ZiD.jpg",
-    "releaseDate": "2026-10-23",
+    "title": "街头霸王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
+    "releaseDate": "2026-10-16",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan、Hossein Amini / Tom Rhys Harries、Naomi Ackie",
-    "link": "https://bgm.tv/subject/528731"
+    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
+    "link": "https://bgm.tv/subject/428025"
   },
   {
     "id": "650384",
@@ -67,17 +111,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "428025",
-    "type": "link",
-    "title": "街头霸王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
-    "link": "https://bgm.tv/subject/428025"
-  },
-  {
     "id": "213375",
     "type": "tmdb",
     "title": "幻视任务",
@@ -94,6 +127,39 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "663894",
+    "type": "link",
+    "title": "BanG Dream! 13th☆LIVE DAY3：RAISE A SUILEN",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/f1/663894_lEHx2.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-12",
+    "link": "https://bgm.tv/subject/663894"
+  },
+  {
+    "id": "663893",
+    "type": "link",
+    "title": "BanG Dream! 13th☆LIVE DAY2 : 夢限大みゅーたいぷ",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/14/663893_ED2nZ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-11",
+    "link": "https://bgm.tv/subject/663893"
+  },
+  {
+    "id": "663892",
+    "type": "link",
+    "title": "BanG Dream! 13th☆LIVE DAY1 : Poppin'Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/63/e5/663892_N72xn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-10",
+    "link": "https://bgm.tv/subject/663892"
   },
   {
     "id": "660791",
@@ -118,6 +184,17 @@
     "link": "https://bgm.tv/subject/567892"
   },
   {
+    "id": "630421",
+    "type": "link",
+    "title": "刀剣乱舞 - ICE BLADE -",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-03",
+    "link": "https://bgm.tv/subject/630421"
+  },
+  {
     "id": "646585",
     "type": "link",
     "title": "名探偵プリキュア！LIVE2026 キュアット熱唱！はなまるShowtime☆",
@@ -129,15 +206,26 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "630421",
+    "id": "657525",
     "type": "link",
-    "title": "刀剣乱舞 - ICE BLADE -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "ファーストボイス ―私たちの逆転裁判―",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/61/657525_5yh5B.jpg",
+    "releaseDate": "2026-10-02",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-10-03",
-    "link": "https://bgm.tv/subject/630421"
+    "description": "2026年10月2日 / 綾瀬はるか",
+    "link": "https://bgm.tv/subject/657525"
+  },
+  {
+    "id": "642227",
+    "type": "link",
+    "title": "ママがもうこの世界にいなくても 私の命の日記",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
+    "link": "https://bgm.tv/subject/642227"
   },
   {
     "id": "637421",
@@ -193,93 +281,5 @@
     "rating": "",
     "description": "1话 /  2026年10月2日 / 鈴木京香",
     "link": "https://bgm.tv/subject/578392"
-  },
-  {
-    "id": "661806",
-    "type": "link",
-    "title": "潘朵拉之心 RetraceⅡ-madness of lost memory-",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-10-02 / 山崎彬 / 山崎彬 / 横山賀三",
-    "link": "https://bgm.tv/subject/661806"
-  },
-  {
-    "id": "657525",
-    "type": "link",
-    "title": "ファーストボイス ―私たちの逆転裁判―",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/61/657525_5yh5B.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 綾瀬はるか",
-    "link": "https://bgm.tv/subject/657525"
-  },
-  {
-    "id": "642227",
-    "type": "link",
-    "title": "ママがもうこの世界にいなくても 私の命の日記",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
-    "link": "https://bgm.tv/subject/642227"
-  },
-  {
-    "id": "658997",
-    "type": "link",
-    "title": "舞台『ブルーロック』5th STAGE ー新英雄大戦（ネオ・エゴイストリーグ）開幕ー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/48/658997_ru7XD.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-10-01 / 伊勢直弘 / 伊勢直弘",
-    "link": "https://bgm.tv/subject/658997"
-  },
-  {
-    "id": "662973",
-    "type": "link",
-    "title": "KSL Live World 2026 - Sing with the Wind -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/e0/662973_2x4Xu.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-26 / ASCA、大原ゆい子、鈴木このみ、fhána、sana(37/sajou no hana)、多田葵、水谷瑠奈、YURiKA、Lia",
-    "link": "https://bgm.tv/subject/662973"
-  },
-  {
-    "id": "645791",
-    "type": "link",
-    "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/15/645791_SOJt7.jpg",
-    "releaseDate": "2026-09-26",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年9月26日",
-    "link": "https://bgm.tv/subject/645791"
-  },
-  {
-    "id": "600005",
-    "type": "link",
-    "title": "しびれ",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/95/600005_yZIt0.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 内山拓也 / 内山拓也 / 北村匠海",
-    "link": "https://bgm.tv/subject/600005"
-  },
-  {
-    "id": "633558",
-    "type": "link",
-    "title": "ナギダイアリー",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/10/2d/633558_lAl3c.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年9月25日 / 深田晃司 / 深田晃司 / 松たか子、石橋静河",
-    "link": "https://bgm.tv/subject/633558"
   }
 ]

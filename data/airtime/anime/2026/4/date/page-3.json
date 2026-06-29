@@ -1,14 +1,21 @@
 [
   {
-    "id": "615446",
-    "type": "link",
-    "title": "电影蜡笔小新：奇奇怪怪！我的妖怪假期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_44cYz.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
-    "link": "https://bgm.tv/subject/615446"
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2GY0gSYfDtF553UPWiMB4XIqlEh.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该动画讲述主角关潮因缘际会进入“记忆管理局”，由此与管理员方糖、百重等人一起克服难关、共同成长的故事。作品拥有新颖独特的世界观设定与细腻治愈的情感内核，展现一个普通人如何放下过去、直面当下、找回勇气。",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "501732",
@@ -20,6 +27,50 @@
     "rating": "",
     "description": "2026年7月31日",
     "link": "https://bgm.tv/subject/501732"
+  },
+  {
+    "id": "615446",
+    "type": "link",
+    "title": "电影蜡笔小新：奇奇怪怪！我的妖怪假期",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_44cYz.jpg",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
+    "link": "https://bgm.tv/subject/615446"
+  },
+  {
+    "id": "643933",
+    "type": "link",
+    "title": "欢迎来到后宫岛",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月31日 / Resta!",
+    "link": "https://bgm.tv/subject/643933"
+  },
+  {
+    "id": "651573",
+    "type": "link",
+    "title": "玩美×玩媚",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2话 /  2026年7月31日 / メツブシ「デコ×デコ」(ジーオーティー刊)",
+    "link": "https://bgm.tv/subject/651573"
+  },
+  {
+    "id": "658066",
+    "type": "link",
+    "title": "田舎にはこれくらいしか娯楽がない",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2话 /  2026年7月31日 / 『田舎にはこれくらいしか娯楽がない』（陸の孤島亭[しゃよー]）",
+    "link": "https://bgm.tv/subject/658066"
   },
   {
     "id": "574041",
@@ -44,17 +95,6 @@
     "link": "https://bgm.tv/subject/530725"
   },
   {
-    "id": "610494",
-    "type": "link",
-    "title": "电影 吉伊卡哇: 人鱼之岛的秘密",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/fc/610494_LCo8L.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月24日 / 及川啓 / ナガノ",
-    "link": "https://bgm.tv/subject/610494"
-  },
-  {
     "id": "321553",
     "type": "tmdb",
     "title": "穿越时空成仙帝，系统迟到八万年",
@@ -73,6 +113,35 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "610494",
+    "type": "link",
+    "title": "电影 吉伊卡哇: 人鱼之岛的秘密",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/fc/610494_LCo8L.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年7月24日 / 及川啓 / ナガノ",
+    "link": "https://bgm.tv/subject/610494"
+  },
+  {
+    "id": "208208",
+    "type": "tmdb",
+    "title": "Breaking Bear",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "8话 /  2026年7月24日",
+    "link": null,
+    "tmdb_id": "208208",
+    "tmdb_site_id": "tv/208208",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "574794",
     "type": "link",
     "title": "是王者啊？第六季",
@@ -80,7 +149,7 @@
     "releaseDate": "2026-07-23",
     "mediaType": "anime",
     "rating": "",
-    "description": "13话 /  2026年7月23日",
+    "description": "14话 /  2026年7月23日",
     "link": "https://bgm.tv/subject/574794"
   },
   {
@@ -91,19 +160,8 @@
     "releaseDate": "2026-07-22",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月22日",
+    "description": "2026年7月22日 / 苏晓光 / 耳根",
     "link": "https://bgm.tv/subject/572768"
-  },
-  {
-    "id": "663444",
-    "type": "link",
-    "title": "一家之主 第15季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f8/663444_i2im9.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月20日",
-    "link": "https://bgm.tv/subject/663444"
   },
   {
     "id": "607933",
@@ -115,6 +173,17 @@
     "rating": "",
     "description": "2026年7月20日 / 太一生水",
     "link": "https://bgm.tv/subject/607933"
+  },
+  {
+    "id": "663444",
+    "type": "link",
+    "title": "一家之主 第15季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f8/663444_i2im9.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月20日",
+    "link": "https://bgm.tv/subject/663444"
   },
   {
     "id": "317256",
@@ -146,6 +215,17 @@
     "link": "https://bgm.tv/subject/623228"
   },
   {
+    "id": "663982",
+    "type": "link",
+    "title": "精灵梦叶罗丽 第十一季 下",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/a5/663982_3B5Ok.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "26话 /  2026年7月16日",
+    "link": "https://bgm.tv/subject/663982"
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -157,15 +237,20 @@
     "link": "https://bgm.tv/subject/595884"
   },
   {
-    "id": "662006",
-    "type": "link",
-    "title": "闇芝居 十七期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/b0/662006_tnf6N.jpg",
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
     "releaseDate": "2026-07-12",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
-    "description": "2026年7月12日",
-    "link": "https://bgm.tv/subject/662006"
+    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": null,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "633711",
@@ -179,15 +264,31 @@
     "link": "https://bgm.tv/subject/633711"
   },
   {
-    "id": "545008",
+    "id": "662006",
     "type": "link",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "title": "闇芝居 十七期",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/b0/662006_tnf6N.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": "https://bgm.tv/subject/545008"
+    "description": "2026年7月12日",
+    "link": "https://bgm.tv/subject/662006"
+  },
+  {
+    "id": "312266",
+    "type": "tmdb",
+    "title": "花织同学转生后还是想干架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "link": null,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "589368",
@@ -199,96 +300,5 @@
     "rating": "",
     "description": "12话 /  2026年7月11日 / 肥志",
     "link": "https://bgm.tv/subject/589368"
-  },
-  {
-    "id": "587109",
-    "type": "link",
-    "title": "花织同学转生后还是想干架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
-    "link": "https://bgm.tv/subject/587109"
-  },
-  {
-    "id": "638185",
-    "type": "link",
-    "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/d8/638185_4Ni0n.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月10日 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊）",
-    "link": "https://bgm.tv/subject/638185"
-  },
-  {
-    "id": "624691",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/5c/624691_3u3s8.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "60话 /  2026年7月10日",
-    "link": "https://bgm.tv/subject/624691"
-  },
-  {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xWgtg6l6vLaucO5caOwy5GywpX9.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": null,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "484677",
-    "type": "link",
-    "title": "大圣崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/30/484677_59Kzf.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月10日",
-    "link": "https://bgm.tv/subject/484677"
-  },
-  {
-    "id": "478223",
-    "type": "link",
-    "title": "三国第一部：争洛阳",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d1/2c/478223_rn4lv.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月10日 / 谢君伟",
-    "link": "https://bgm.tv/subject/478223"
-  },
-  {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "躲在超市后门抽烟的两人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/eHz8ZXMeqUOtZXhJTQcuWMMGqEb.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "每天过着社畜生活的上班族佐佐木，唯一的慰藉就是常去超市的收银员山田。某天疲惫不堪的他再次前往超市寻求治愈，却发现山田刚好不在。郁闷的他试图通过抽烟缓解压力，却怎么也找不到吸烟区，还被路人投以嫌弃的目光。就在这时，一位穿着奇特的田山女士把他带到了超市后面一起抽烟。从此，他便经常跑来和田山一起吞云吐雾、谈天说地。然而这位田山女士的真实身份竟然是……",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "663136",
+    "type": "link",
+    "title": "忘却之岛",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/d1/663136_M6b92.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年9月25日 / Joel Crawford、Januel Mercado",
+    "link": "https://bgm.tv/subject/663136"
+  },
+  {
+    "id": "662989",
+    "type": "link",
+    "title": "NTR骑士",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-09-25",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年9月25日 / 戦争屋さん",
+    "link": "https://bgm.tv/subject/662989"
+  },
+  {
+    "id": "659247",
+    "type": "link",
+    "title": "被寝取的巨乳人妻们2",
+    "posterPath": "/img/no_icon_subject.png",
+    "releaseDate": "2026-09-18",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年9月18日",
+    "link": "https://bgm.tv/subject/659247"
+  },
+  {
     "id": "639663",
     "type": "link",
     "title": "电影名侦探光之美少女！不可思议的庭院与两人的秘密",
@@ -62,7 +95,7 @@
     "releaseDate": "2026-09-11",
     "mediaType": "anime",
     "rating": "5.0",
-    "description": "2026年9月11日 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』）",
+    "description": "2026年9月11日 / 小川太一 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』） / 池田晶子、池田和美",
     "link": "https://bgm.tv/subject/563041"
   },
   {
@@ -106,7 +139,7 @@
     "releaseDate": "2026-08-28",
     "mediaType": "anime",
     "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet (新房昭之・虚淵玄・蒼樹うめ・SHAFT) / 谷口淳一郎",
+    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
     "link": "https://bgm.tv/subject/334105"
   },
   {
@@ -150,7 +183,7 @@
     "releaseDate": "2026-08-14",
     "mediaType": "anime",
     "rating": "",
-    "description": "12话 /  2026年8月14日",
+    "description": "12话 /  2026年8月14日 / 执行导演：鲁元元 / 李豪凌 / Inplick",
     "link": "https://bgm.tv/subject/555710"
   },
   {
@@ -160,7 +193,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
     "releaseDate": "2026-08-12",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
     "link": "https://bgm.tv/subject/633836"
   },
@@ -198,6 +231,17 @@
     "link": "https://bgm.tv/subject/663137"
   },
   {
+    "id": "663646",
+    "type": "link",
+    "title": "从口蹄疫中活下来的猪",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/92/663646_K2cIb.jpg",
+    "releaseDate": "2026-08-05",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年8月5日 / 허범욱",
+    "link": "https://bgm.tv/subject/663646"
+  },
+  {
     "id": "582920",
     "type": "link",
     "title": "有兽焉 第六季",
@@ -218,56 +262,5 @@
     "rating": "",
     "description": "10话 /  2026年8月3日",
     "link": "https://bgm.tv/subject/653307"
-  },
-  {
-    "id": "280564",
-    "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2GY0gSYfDtF553UPWiMB4XIqlEh.jpg",
-    "releaseDate": "2026-08-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "7话 /  2026年8月2日 / 李书宇、断片黑线（刘文钰） / 李书宇、断片黑线（刘文钰）",
-    "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "658066",
-    "type": "link",
-    "title": "田舎にはこれくらいしか娯楽がない",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年7月31日 / 『田舎にはこれくらいしか娯楽がない』（陸の孤島亭[しゃよー]）",
-    "link": "https://bgm.tv/subject/658066"
-  },
-  {
-    "id": "651573",
-    "type": "link",
-    "title": "玩美×玩媚",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2话 /  2026年7月31日 / メツブシ「デコ×デコ」(ジーオーティー刊)",
-    "link": "https://bgm.tv/subject/651573"
-  },
-  {
-    "id": "643933",
-    "type": "link",
-    "title": "欢迎来到后宫岛",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / Resta!",
-    "link": "https://bgm.tv/subject/643933"
   }
 ]

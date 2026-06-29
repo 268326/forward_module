@@ -1,5 +1,34 @@
 [
   {
+    "id": "208208",
+    "type": "tmdb",
+    "title": "Breaking Bear",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "8话 /  2026年7月24日",
+    "link": null,
+    "tmdb_id": "208208",
+    "tmdb_site_id": "tv/208208",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "659438",
+    "type": "link",
+    "title": "Camp Snoopy Season 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/15/659438_A77F0.jpg",
+    "releaseDate": "2026-06-26",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年6月26日",
+    "link": "https://bgm.tv/subject/659438"
+  },
+  {
     "id": "308828",
     "type": "tmdb",
     "title": "乔巴的日常",
@@ -128,7 +157,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
     "releaseDate": "2026-06-06",
     "mediaType": "tv",
-    "rating": "7.5",
+    "rating": "7.8",
     "description": "在一个体育与魔法相结合的世界里，农家男孩 Key 发现了自己超强的天赋，并得知自己可能是传说中的龙击者。",
     "link": null,
     "tmdb_id": "204135",
@@ -271,27 +300,5 @@
     "rating": "",
     "description": "2026 / Lee Hardcastle",
     "link": "https://bgm.tv/subject/641853"
-  },
-  {
-    "id": "619324",
-    "type": "link",
-    "title": "Gluttomy",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/16/619324_ZobpB.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "1话 /  2026年1月23日 / rapitus",
-    "link": "https://bgm.tv/subject/619324"
-  },
-  {
-    "id": "560192",
-    "type": "link",
-    "title": "奇迹梦之队",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3d/2c/560192_7eL8o.jpg",
-    "releaseDate": "2026-02-13",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "1话 /  2026年2月13日 / Tyree Dillihay / Chris Tougas",
-    "link": "https://bgm.tv/subject/560192"
   }
 ]

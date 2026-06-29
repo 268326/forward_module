@@ -93,13 +93,24 @@
     "link": "https://bgm.tv/subject/653289"
   },
   {
+    "id": "664060",
+    "type": "link",
+    "title": "AKANE On My Mind〜饅頭こわい",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/d3/664060_EFVFY.jpg",
+    "releaseDate": "2026-06-27",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年6月27日 / 渡辺歩",
+    "link": "https://bgm.tv/subject/664060"
+  },
+  {
     "id": "1432547",
     "type": "tmdb",
     "title": "杀戮轮回",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/c8/543589_aT033.jpg",
     "releaseDate": "2026-01-09",
     "mediaType": "movie",
-    "rating": "4.7",
+    "rating": "4.8",
     "description": "1话 /  2026年1月9日 / 桜坂洋『All You Need Is Kill』（集英社刊）",
     "link": null,
     "tmdb_id": "1432547",
@@ -167,19 +178,17 @@
     "id": "300112",
     "type": "tmdb",
     "title": "BanG Dream! YUME∞MITA",
-    "posterPath": "https://image.tmdb.org/t/p/w500/g2rOrzJ2CrjuJeNErWJ1p1jGq6g.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "",
     "description": "2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香",
     "link": null,
     "tmdb_id": "300112",
     "tmdb_site_id": "tv/300112",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "501732",
@@ -245,19 +254,17 @@
     "id": "285993",
     "type": "tmdb",
     "title": "暗黑灯火",
-    "posterPath": "https://image.tmdb.org/t/p/w500/g1cVGFne1lqUguswjG7vHoefwhN.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "次郎是一个拥有与动物交谈能力的少年。从小由祖父抚养并接受忍者训练，他因与众不同而被他人疏远，却在动物中找到了慰藉，并致力于保护它们。一天，他救了一只受伤的黑猫——拉格，但很快发现它并非普通的猫，而是一只“物怪”，正被一个神秘组织追捕。面对这一情况，次郎毫不犹豫地决定帮助他的新朋友。",
+    "rating": "",
+    "description": "2026年7月4日 / 馬引圭 / タカキツヨシ（集英社刊） / 鈴木豪",
     "link": null,
     "tmdb_id": "285993",
     "tmdb_site_id": "tv/285993",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "530725",
@@ -280,16 +287,5 @@
     "rating": "",
     "description": "2026 / Grigory Loupain",
     "link": "https://bgm.tv/subject/651837"
-  },
-  {
-    "id": "659438",
-    "type": "link",
-    "title": "Camp Snoopy Season 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/15/659438_A77F0.jpg",
-    "releaseDate": "2026-06-26",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年6月26日",
-    "link": "https://bgm.tv/subject/659438"
   }
 ]
