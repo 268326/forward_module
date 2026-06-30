@@ -347,15 +347,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "571910",
-    "type": "link",
+    "id": "296436",
+    "type": "tmdb",
     "title": "无自觉圣女今天也无意识地释放力量",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gHtmP0fpNbPXRxYGIYzrbJsUuWi.jpg",
     "releaseDate": "2026-06-30",
-    "mediaType": "anime",
-    "rating": "",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年6月30日 / 熨斗谷充孝 / あーもんど（「アース・スター ルナ」アース・スター エンターテイメント刊）；漫画：えとうヨナ / 永井泰平",
-    "link": "https://bgm.tv/subject/571910"
+    "link": null,
+    "tmdb_id": "296436",
+    "tmdb_site_id": "tv/296436",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "45782",
