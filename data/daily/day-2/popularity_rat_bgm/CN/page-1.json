@@ -1,0 +1,24 @@
+[
+  {
+    "id": "326844",
+    "type": "tmdb",
+    "title": "百日成王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5XbPHLjPf4WK1S7rH6htbjCcOAw.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "607929",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "326844",
+    "tmdb_site_id": "tv/326844",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  }
+]
