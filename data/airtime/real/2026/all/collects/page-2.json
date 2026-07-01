@@ -29,24 +29,6 @@
     "link": "https://bgm.tv/subject/617739"
   },
   {
-    "id": "304194",
-    "type": "tmdb",
-    "title": "重启",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
-    "link": null,
-    "tmdb_id": "304194",
-    "tmdb_site_id": "tv/304194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "303405",
     "type": "tmdb",
     "title": "九条的大罪",
@@ -58,6 +40,24 @@
     "link": null,
     "tmdb_id": "303405",
     "tmdb_site_id": "tv/303405",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "304194",
+    "type": "tmdb",
+    "title": "重启",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJ61VKSd3QkPOloquJ1lF0RLS3f.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "性情温和的糕点师早濑陆（铃木亮平 饰）与妻子夏海、儿子和母亲经营“早濑洋菓子店”。但两年半前妻子失踪，后被发现遇害，早濑却被诬为凶手。与此同时，警视厅刑警仪堂步（铃木亮平 饰）登场——他是不择手段、与黑社会勾结的恶警。面对绝境，早濑决心洗清罪名，重启人生，化身为仪堂追查真凶。夏海的前同事、会计师幸后一香（户田惠梨香 饰）协助他整容改貌，但她的真实意图仍笼罩在谜团之中。",
+    "link": null,
+    "tmdb_id": "304194",
+    "tmdb_site_id": "tv/304194",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -83,24 +83,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "279388",
-    "type": "tmdb",
-    "title": "逐玉",
-    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
-    "releaseDate": "2026-03-06",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
-    "link": null,
-    "tmdb_id": "279388",
-    "tmdb_site_id": "tv/279388",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "312723",
     "type": "tmdb",
     "title": "牙狼＜GARO＞ 东之界楼",
@@ -119,13 +101,31 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "279388",
+    "type": "tmdb",
+    "title": "逐玉",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cYV1cn51qeu7aLqMUrSsmPe1QNo.jpg",
+    "releaseDate": "2026-03-06",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名为报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，相爱之人被迫分离。樊长玉拿着杀猪刀上战场，寻亲寻夫寻正义；谢征恢复铁血侯爷，护国护爱护真相！两人终于战场重逢，并肩搏杀，不畏生死；揭破真相，不惧威权；回归家园，不忘初心！",
+    "link": null,
+    "tmdb_id": "279388",
+    "tmdb_site_id": "tv/279388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "229891",
     "type": "tmdb",
     "title": "爱情怎么翻译？",
     "posterPath": "https://image.tmdb.org/t/p/w500/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.3",
+    "rating": "8.4",
     "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
     "link": null,
     "tmdb_id": "229891",
@@ -135,6 +135,17 @@
       "KR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "282418",
+    "type": "link",
+    "title": "惩罚者：最后一击",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
+    "link": "https://bgm.tv/subject/282418"
   },
   {
     "id": "601438",
@@ -159,35 +170,13 @@
     "link": "https://bgm.tv/subject/631823"
   },
   {
-    "id": "282418",
-    "type": "link",
-    "title": "惩罚者：最后一击",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/31/282418_CUI3c.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.1",
-    "description": "1话 /  2026-05-12 / Jon Bernthal / Jon Bernthal",
-    "link": "https://bgm.tv/subject/282418"
-  },
-  {
-    "id": "633271",
-    "type": "link",
-    "title": "泰迪熊 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.1",
-    "description": "8话 /  2026-03-05",
-    "link": "https://bgm.tv/subject/633271"
-  },
-  {
     "id": "549830",
     "type": "link",
     "title": "克拉克森的农场 第五季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
     "releaseDate": "2026-06-03",
     "mediaType": "real",
-    "rating": "8.3",
+    "rating": "8.4",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
   },
@@ -210,6 +199,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
+    "id": "607932",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
+  },
+  {
     "id": "614123",
     "type": "link",
     "title": "THE IDOLM@STER MILLION LIVE! 13thLIVE DAY1 全力援走",
@@ -230,17 +241,6 @@
     "rating": "",
     "description": "10话 /  2026-04-08 / 丸谷俊平、明石広人 / 清水友佳子 / 波瑠、麻生久美子",
     "link": "https://bgm.tv/subject/626794"
-  },
-  {
-    "id": "607932",
-    "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
   },
   {
     "id": "621874",
@@ -301,6 +301,35 @@
     "link": "https://bgm.tv/subject/625916"
   },
   {
+    "id": "280632",
+    "type": "tmdb",
+    "title": "成何体统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sgVBl9UD2s8GZDBia65WFkIViso.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "该剧改编自七英俊同名小说，并延续书中风格，讲述了一段男女主共同穿进书中世界，成为反派角色，试图扭转原剧情中悲惨结局的奇幻冒险。张三和王翠花披着冷面帝王和祸水妖妃的马甲，在暗流涌动的宫廷内外步步为营，却于不经意间撩动了真情，相互戒备的心在各种交锋中悄然融化，在这个异世之中成为彼此的故乡。故事中有笑有泪，有轻松搞笑也有浪漫唯美，但无论书中世界如何变幻莫测，真心终能战胜虚伪、相爱抵万难。",
+    "link": null,
+    "tmdb_id": "280632",
+    "tmdb_site_id": "tv/280632",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "511454",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
+    "releaseDate": "2026-03-14",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月14日",
+    "link": "https://bgm.tv/subject/511454"
+  },
+  {
     "id": "544948",
     "type": "link",
     "title": "新年早々 不適切にもほどがある！ ～真面目な話、しちゃダメですか？～",
@@ -310,27 +339,5 @@
     "rating": "",
     "description": "1话 /  2026-01-04 / 金子文紀 / 宮藤官九郎 / 阿部サダヲ",
     "link": "https://bgm.tv/subject/544948"
-  },
-  {
-    "id": "588065",
-    "type": "link",
-    "title": "呼啸山庄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/19/588065_Ehlz0.jpg",
-    "releaseDate": "2026-02-13",
-    "mediaType": "real",
-    "rating": "4.4",
-    "description": "1话 /  2026年2月13日 / Emerald Fennell / Emerald Fennell / Margot Robbie、Jacob Elordi",
-    "link": "https://bgm.tv/subject/588065"
-  },
-  {
-    "id": "533266",
-    "type": "link",
-    "title": "宇宙巨人：希曼崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
-    "releaseDate": "2026-06-05",
-    "mediaType": "real",
-    "rating": "5.7",
-    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
-    "link": "https://bgm.tv/subject/533266"
   }
 ]

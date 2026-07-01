@@ -1,16 +1,5 @@
 [
   {
-    "id": "533266",
-    "type": "link",
-    "title": "宇宙巨人：希曼崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
-    "releaseDate": "2026-06-05",
-    "mediaType": "real",
-    "rating": "5.7",
-    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
-    "link": "https://bgm.tv/subject/533266"
-  },
-  {
     "id": "280632",
     "type": "tmdb",
     "title": "成何体统",
@@ -29,33 +18,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "489598",
+    "id": "511454",
     "type": "link",
-    "title": "帝王计划：怪兽遗产 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/6f/511454_KBWo8.jpg",
+    "releaseDate": "2026-03-14",
     "mediaType": "real",
     "rating": "",
-    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
-    "link": "https://bgm.tv/subject/489598"
-  },
-  {
-    "id": "313635",
-    "type": "tmdb",
-    "title": "如龙 Powered by 日本统一",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
-    "releaseDate": "2026-02-10",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
-    "link": null,
-    "tmdb_id": "313635",
-    "tmdb_site_id": "tv/313635",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "description": "1话 /  2026年3月14日",
+    "link": "https://bgm.tv/subject/511454"
   },
   {
     "id": "304928",
@@ -69,6 +40,24 @@
     "link": null,
     "tmdb_id": "304928",
     "tmdb_site_id": "tv/304928",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313635",
+    "type": "tmdb",
+    "title": "如龙 Powered by 日本统一",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
+    "releaseDate": "2026-02-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "本作为世嘉人气游戏《人中之龙》系列与任侠影视作品《日本统一》的联动真人剧集。由“人中之龙工作室”全程监修，并由描绘日本极道社会的《日本统一》原班制作团队操刀。剧集以几乎完全忠实于原作的形式，改编了全球累计出货量突破3000万份的《人中之龙》系列初代作品，并讲述了与游戏《人中之龙 极3 / 人中之龙3外传 Dark Ties》紧密相连的故事。主演阵容包括《日本统一》的核心演员本宫泰风（饰演 桐生一马）与山口祥行（饰演 真岛吾朗），以及游戏原声优中谷一博（饰演 锦山彰）和实力派演员松田贤二（饰演 伊达真）。",
+    "link": null,
+    "tmdb_id": "313635",
+    "tmdb_site_id": "tv/313635",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -98,51 +87,15 @@
     "link": "https://bgm.tv/subject/634222"
   },
   {
-    "id": "259837",
-    "type": "tmdb",
-    "title": "超能路人甲",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "tv",
-    "rating": "9.1",
-    "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
-    "link": null,
-    "tmdb_id": "259837",
-    "tmdb_site_id": "tv/259837",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "513985",
+    "id": "489598",
     "type": "link",
-    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
-    "releaseDate": "2026-03-15",
+    "title": "帝王计划：怪兽遗产 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/ce/489598_UYTwU.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026年3月15日",
-    "link": "https://bgm.tv/subject/513985"
-  },
-  {
-    "id": "278882",
-    "type": "tmdb",
-    "title": "年少有为",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
-    "link": null,
-    "tmdb_id": "278882",
-    "tmdb_site_id": "tv/278882",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "description": "10话 /  2026-02-27 / Lawrence Trilling, Hiromi Kamata, Andy Goddard, Matt Shakman, Mairzee Almas, Julian Holmes, Jeff King / Anna Sawai, Kiersey Clemons, Ren Watabe, Mari Yamamoto, Anders Holm, Wyatt Russell, Kurt Russell, Joe Tippett, Elisa Lasowski, Mirelly Taylor, Takehiro Hira",
+    "link": "https://bgm.tv/subject/489598"
   },
   {
     "id": "587208",
@@ -203,38 +156,49 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307652",
+    "id": "513985",
+    "type": "link",
+    "title": "THE IDOLM@STER MILLION LIVE! 11thLIVE DAY2 百合咲き誇るレムリア",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/ef/513985_OT7D6.jpg",
+    "releaseDate": "2026-03-15",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年3月15日",
+    "link": "https://bgm.tv/subject/513985"
+  },
+  {
+    "id": "259837",
     "type": "tmdb",
-    "title": "谎中之谎终为谎",
-    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "超能路人甲",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
+    "releaseDate": "2026-05-15",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "rating": "9.0",
+    "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
     "link": null,
-    "tmdb_id": "307652",
-    "tmdb_site_id": "tv/307652",
+    "tmdb_id": "259837",
+    "tmdb_site_id": "tv/259837",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "313902",
+    "id": "278882",
     "type": "tmdb",
-    "title": "被女孩子逆推不行吗？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
-    "releaseDate": "2026-03-05",
+    "title": "年少有为",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
+    "rating": "7.8",
+    "description": "大厂打工人裴谦惨遭辞退之际，意外获得神秘大佬的邀请，创办了一家必须以亏损为目标的公司，于是他故意集齐各种不靠谱的虾兵蟹将，绞尽脑汁地给员工加薪放假发福利，又投资了一个个奇葩项目，不料竟一次次意外反转，屡战屡赚。裴谦有苦难言，却成为了员工心中的良心老板，业界公认的商业奇才，不得不带领公司继续逆风翻盘，终成当地第一集团。",
     "link": null,
-    "tmdb_id": "313902",
-    "tmdb_site_id": "tv/313902",
+    "tmdb_id": "278882",
+    "tmdb_site_id": "tv/278882",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -279,31 +243,40 @@
     "link": "https://bgm.tv/subject/578285"
   },
   {
-    "id": "623665",
-    "type": "link",
-    "title": "AGITO 超能力战争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
-    "releaseDate": "2026-04-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
-    "link": "https://bgm.tv/subject/623665"
+    "id": "307652",
+    "type": "tmdb",
+    "title": "谎中之谎终为谎",
+    "posterPath": "https://image.tmdb.org/t/p/w500/njLBj0GM4eBZuSYdnzbF0OOITmC.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该剧以圣诞节为背景，描绘围绕谎言展开的人间百态。主人公大森光（菊地凛子 饰）长期被谎言左右，在离婚后生活接连遭遇不幸，对周围人的话语难以信任。而在圣诞前夜，雪花静静飘落的夜晚，一家勉强维持营业的小酒馆里，聚集了一群古怪的客人。\n\n　　锦户亮饰演光的前夫·小林幸助。竹原饰演不善交际但正义感极强的自称刑警·并木正义。盐野饰演在圣诞前夜盯上独自一人女性的自称婚姻诈骗犯·中村信。",
+    "link": null,
+    "tmdb_id": "307652",
+    "tmdb_site_id": "tv/307652",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "55006",
+    "id": "313902",
     "type": "tmdb",
-    "title": "恶之华",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c9/ac/610617_f1X2F.jpg",
-    "releaseDate": "2026-04-09",
+    "title": "被女孩子逆推不行吗？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o9f68RV70l6ums5BzzR6MT7RVd0.jpg",
+    "releaseDate": "2026-03-05",
     "mediaType": "tv",
-    "rating": "",
-    "description": "12话 /  2026年4月9日 / ヤングポール、井口昇 / 目黒啓太、たかせしゅうほう / 鈴木福、あの",
+    "rating": "0.0",
+    "description": "外表清纯、恋爱经验不算少的梶谷美月，其实一直不擅长接受男性的亲密主动，因此每段感情都难以长久。24岁的她为了获得“普通女孩的幸福”，开始与在知名商社工作的精英篠宫孝之交往。然而两人的第一次亲密接触却出现异样——原来篠宫同样不擅长主动，对亲密关系怀有自卑与心理阴影。看到他羞涩道歉的模样，美月第一次心跳加速，也逐渐意识到自己真正渴望的是成为主动的一方。当两人坦面对方的笨拙与脆弱，一段打破性别刻板印象的恋爱关系悄然萌芽。\n\n本剧改编自ねじがなめた担同名原著漫画。",
     "link": null,
-    "tmdb_id": "55006",
-    "tmdb_site_id": "tv/55006",
+    "tmdb_id": "313902",
+    "tmdb_site_id": "tv/313902",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "590729",
@@ -344,5 +317,34 @@
     "rating": "",
     "description": "2话 /  2026年5月16日",
     "link": "https://bgm.tv/subject/607931"
+  },
+  {
+    "id": "552953",
+    "type": "link",
+    "title": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg",
+    "releaseDate": "2026-02-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "3话 /  2026年2月21日",
+    "link": "https://bgm.tv/subject/552953"
+  },
+  {
+    "id": "312725",
+    "type": "tmdb",
+    "title": "九号秘事之黑帷背后",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9fw7aE5iRvsFCVFO5WgaHWLrK0H.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "link": null,
+    "tmdb_id": "312725",
+    "tmdb_site_id": "tv/312725",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

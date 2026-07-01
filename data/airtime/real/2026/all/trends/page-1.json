@@ -53,9 +53,27 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
     "releaseDate": "2026-06-03",
     "mediaType": "real",
-    "rating": "8.3",
+    "rating": "8.4",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
+  },
+  {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "272432",
@@ -98,24 +116,6 @@
     "link": "https://bgm.tv/subject/494608"
   },
   {
-    "id": "317001",
-    "type": "tmdb",
-    "title": "满级老祖被虐后全皇室求我回归",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
-    "releaseDate": "2026-05-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
-    "link": null,
-    "tmdb_id": "317001",
-    "tmdb_site_id": "tv/317001",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "305986",
     "type": "tmdb",
     "title": "钟表馆杀人事件",
@@ -132,6 +132,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "654522",
+    "type": "link",
+    "title": "校园之外 第一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/43/654522_qU0FT.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-05-13",
+    "link": "https://bgm.tv/subject/654522"
   },
   {
     "id": "308216",
@@ -152,15 +163,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "654522",
+    "id": "507727",
     "type": "link",
-    "title": "校园之外 第一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/43/654522_qU0FT.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "星球大战：曼达洛人与古古",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
+    "releaseDate": "2026-05-22",
     "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-05-13",
-    "link": "https://bgm.tv/subject/654522"
+    "rating": "6.2",
+    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
+    "link": "https://bgm.tv/subject/507727"
   },
   {
     "id": "300529",
@@ -192,15 +203,15 @@
     "link": "https://bgm.tv/subject/631823"
   },
   {
-    "id": "507727",
+    "id": "641417",
     "type": "link",
-    "title": "星球大战：曼达洛人与古古",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
-    "releaseDate": "2026-05-22",
+    "title": "超新丁伙头兵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.2",
-    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
-    "link": "https://bgm.tv/subject/507727"
+    "rating": "",
+    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
+    "link": "https://bgm.tv/subject/641417"
   },
   {
     "id": "501703",
@@ -225,35 +236,6 @@
     "link": "https://bgm.tv/subject/636399"
   },
   {
-    "id": "259837",
-    "type": "tmdb",
-    "title": "超能路人甲",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8uhY6EYNJH4tkdfC1zY8ZoVk7eM.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "tv",
-    "rating": "9.1",
-    "description": "世界末日论盛行的 1999 年世纪末，一群原本平凡的“路人甲”意外获得超能力，却没有走上典型英雄之路，反而以各自不按牌理出牌的方式组成临时英雄联盟，对抗威胁世界和平的反派势力，在混乱与笑料之中肩负起守护世界的任务。",
-    "link": null,
-    "tmdb_id": "259837",
-    "tmdb_site_id": "tv/259837",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "641417",
-    "type": "link",
-    "title": "超新丁伙头兵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
-    "link": "https://bgm.tv/subject/641417"
-  },
-  {
     "id": "303143",
     "type": "tmdb",
     "title": "我的王室死对头",
@@ -265,72 +247,6 @@
     "link": null,
     "tmdb_id": "303143",
     "tmdb_site_id": "tv/303143",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "559852",
-    "type": "link",
-    "title": "VIVANT続編",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7b/559852_SaFcU.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月 / 堺雅人",
-    "link": "https://bgm.tv/subject/559852"
-  },
-  {
-    "id": "224372",
-    "type": "tmdb",
-    "title": "七王国的骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-    "releaseDate": "2026-01-18",
-    "mediaType": "tv",
-    "rating": "8.4",
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-    "link": null,
-    "tmdb_id": "224372",
-    "tmdb_site_id": "tv/224372",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "253960",
-    "type": "tmdb",
-    "title": "气体人第一号",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mDOof2cB6Qq8MQMEidyingX1LLz.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "本作是以1960年上映的东宝特摄电影『ガス人間第1号』《气体人第一号》（导演：本多猪四郎，编剧：木村武）为原作，由日韩的创作者以现代视角重新构建的完全原创故事重启作品。\n\n当一位嘉宾评论员在直播中肿胀爆炸时，这种前所未有、难以想象的犯罪令全世界陷入震惊。在这起可怕的谋杀背后，是一个似乎凭空消失的人：气体人。由于没有人能够掌握他的真实身份，这个未知者宣布将执行一系列针对性暗杀行动。他在每一次无法解释的攻击中逃避身份识别和抓捕，全国逐渐笼罩在恐慌之下。",
-    "link": null,
-    "tmdb_id": "253960",
-    "tmdb_site_id": "tv/253960",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "299365",
-    "type": "tmdb",
-    "title": "新进职员姜会长",
-    "posterPath": "https://image.tmdb.org/t/p/w500/viNlJhAM4ztlSC0xle0nnxR3f4Q.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "改编自同名网路小说，讲述被誉为「商业之神」的顶尖大企业——崔成集团会长「姜龙浩」（孙贤周 饰），因一场意外而被迫开启「人生第二回」，展开一段重新审视自我的「重启人生」故事。",
-    "link": null,
-    "tmdb_id": "299365",
-    "tmdb_site_id": "tv/299365",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "KR"
@@ -354,5 +270,88 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "224372",
+    "type": "tmdb",
+    "title": "七王国的骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
+    "releaseDate": "2026-01-18",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "link": null,
+    "tmdb_id": "224372",
+    "tmdb_site_id": "tv/224372",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "252107",
+    "type": "tmdb",
+    "title": "星城",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+    "link": null,
+    "tmdb_id": "252107",
+    "tmdb_site_id": "tv/252107",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314639",
+    "type": "tmdb",
+    "title": "银河的一票",
+    "posterPath": "https://image.tmdb.org/t/p/w500/goU5BxUsRn2w4lui9iw8DVOYaQJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "故事始于一封揭发政治家不正行为的告发信。执政党干事长之女、同时也是秘书的星野茉莉（黑木华 饰）暗中追查真相，却因此被父亲切割，失去工作与容身之所，人生瞬间跌入谷底。走投无路之际，她遇见了性格爽朗、毫无政治经验的小酒馆妈妈桑月冈明里（野吕佳代 饰）。一次突如其来的东京都知事选举，让茉莉萌生念头——推举这个“政治素人”参选。两名背景与性格截然不同的女性就此携手，在权谋与舆论交织的选战中并肩作战，展开一场笑中带泪、热血又另类的“选举娱乐”故事。",
+    "link": null,
+    "tmdb_id": "314639",
+    "tmdb_site_id": "tv/314639",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316178",
+    "type": "tmdb",
+    "title": "黑江与江间",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1UurwFgn6YEfJJ1E9LQ2JsDmXIE.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事围绕着同时失去工作、恋人和住所的30岁女性艾玛展开。她在落魄之际偶遇神秘资产家克洛伊，两人随即在后者的豪宅中开启了同居生活，并共同经营起一家占卜店。通过使用“克罗尼克卡牌”为人排忧解难，这对性格迥异的搭档在解开咨询者心结的同时，也逐渐挖掘出那些隐藏在日常背后的真相。",
+    "link": null,
+    "tmdb_id": "316178",
+    "tmdb_site_id": "tv/316178",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "533266",
+    "type": "link",
+    "title": "宇宙巨人：希曼崛起",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
+    "releaseDate": "2026-06-05",
+    "mediaType": "real",
+    "rating": "5.7",
+    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
+    "link": "https://bgm.tv/subject/533266"
   }
 ]

@@ -28,7 +28,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
     "releaseDate": "2026-01-18",
     "mediaType": "tv",
-    "rating": "8.4",
+    "rating": "8.5",
     "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
     "link": null,
     "tmdb_id": "224372",
@@ -162,7 +162,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
     "releaseDate": "2026-04-24",
     "mediaType": "real",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
     "link": "https://bgm.tv/subject/638448"
   },
@@ -196,24 +196,6 @@
     "link": "https://bgm.tv/subject/623261"
   },
   {
-    "id": "317001",
-    "type": "tmdb",
-    "title": "满级老祖被虐后全皇室求我回归",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
-    "releaseDate": "2026-05-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
-    "link": null,
-    "tmdb_id": "317001",
-    "tmdb_site_id": "tv/317001",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "478191",
     "type": "link",
     "title": "真人快打2",
@@ -239,6 +221,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },

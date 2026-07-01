@@ -1,5 +1,16 @@
 [
   {
+    "id": "664233",
+    "type": "link",
+    "title": "millsage 1st LIVE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/b5/664233_9JDZ4.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-12-25",
+    "link": "https://bgm.tv/subject/664233"
+  },
+  {
     "id": "538498",
     "type": "link",
     "title": "SUKIYAKI 昂首向前走",
@@ -18,7 +29,7 @@
     "releaseDate": "2026-12-25",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋、松田龍平",
+    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋（TEAM NACS）、松田龍平",
     "link": "https://bgm.tv/subject/637146"
   },
   {
@@ -33,17 +44,6 @@
     "link": "https://bgm.tv/subject/645135"
   },
   {
-    "id": "393438",
-    "type": "link",
-    "title": "复仇者联盟5：毁灭日",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
-    "link": "https://bgm.tv/subject/393438"
-  },
-  {
     "id": "494701",
     "type": "link",
     "title": "沙丘：第三部分",
@@ -55,15 +55,59 @@
     "link": "https://bgm.tv/subject/494701"
   },
   {
+    "id": "656165",
+    "type": "link",
+    "title": "人生を変えたコント",
+    "posterPath": null,
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月18日 / 大橋和也（なにわ男子）",
+    "link": "https://bgm.tv/subject/656165"
+  },
+  {
+    "id": "393438",
+    "type": "link",
+    "title": "复仇者联盟5：毁灭日",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f8/dc/393438_VaH1V.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年12月18日 / Anthony Russo、Joe Russo / Michael Waldron、Stephen McFeely / Chris Hemsworth、Vanessa Kirby、Anthony Mackie、Sebastian Stan、Letitia Wright、Paul Rudd、Wyatt Russell、Tenoch Huerta Mejía、Ebon Moss-Bachrach、Simu Liu、Florence Pugh、Pedro Pascal、Robert Downey Jr.",
+    "link": "https://bgm.tv/subject/393438"
+  },
+  {
+    "id": "664234",
+    "type": "link",
+    "title": "一家Dumb Rock! 1st LIVE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/17/664234_BQpLr.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-12-12",
+    "link": "https://bgm.tv/subject/664234"
+  },
+  {
     "id": "612440",
     "type": "link",
     "title": "勇敢者的游戏3",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d0/50/612440_ttt00.jpg",
     "releaseDate": "2026-12-11",
     "mediaType": "real",
     "rating": "",
     "description": "2026年12月11日 / Jake Kasdan / Jake Kasdan、Jeff Pinkner、Scott Rosenberg / Dwayne Johnson、Jack Black、Kevin Hart、Karen Gillan",
     "link": "https://bgm.tv/subject/612440"
+  },
+  {
+    "id": "656708",
+    "type": "link",
+    "title": "お姉ちゃんの翠くん",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/dc/656708_Tmkmk.jpg",
+    "releaseDate": "2026-12-04",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月4日 / 木村真人 / 吉川菜美 / 橋本将生（timelesz）",
+    "link": "https://bgm.tv/subject/656708"
   },
   {
     "id": "635924",
@@ -84,7 +128,7 @@
     "releaseDate": "2026-11-27",
     "mediaType": "real",
     "rating": "",
-    "description": "2026年11月27日 / 広瀬奈々子 / 長澤まさみ、柄本佑、石橋静河",
+    "description": "2026年11月27日 / 広瀬奈々子 / 広瀬奈々子 / 長澤まさみ、柄本佑、石橋静河",
     "link": "https://bgm.tv/subject/638757"
   },
   {
@@ -95,8 +139,30 @@
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "3话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
+    "description": "4话 /  2026-11-22 / 桜内梨子（リリー 役）、津島善子（ヨハネ 役）、小原鞠莉（マリー 役）",
     "link": "https://bgm.tv/subject/644090"
+  },
+  {
+    "id": "661511",
+    "type": "link",
+    "title": "ANI-ROCK FES.2026 「僕のヒーローアカデミア  PLUS ULTRA LIVE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f7/a9/661511_LvWeH.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026-11-22 / Omoinotake、SIX LOUNGE、DISH//、BLUE ENCOUNT、ポルノグラフィティ／秋山黄色、KANA-BOON、TK from 凛として時雨、ポルノグラフィティ、Little Glee Monster",
+    "link": "https://bgm.tv/subject/661511"
+  },
+  {
+    "id": "657364",
+    "type": "link",
+    "title": "饥饿游戏：收获日出",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/90/1a/657364_ZLLhx.jpg",
+    "releaseDate": "2026-11-20",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年11月20日 / Francis Lawrence / Billy Ray / Joseph Zada、Jesse Plemons",
+    "link": "https://bgm.tv/subject/657364"
   },
   {
     "id": "567322",
@@ -110,10 +176,32 @@
     "link": "https://bgm.tv/subject/567322"
   },
   {
+    "id": "657523",
+    "type": "link",
+    "title": "負けへんで",
+    "posterPath": null,
+    "releaseDate": "2026-11-13",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年11月13日 / 本木克英 / 内野聖陽",
+    "link": "https://bgm.tv/subject/657523"
+  },
+  {
+    "id": "537681",
+    "type": "link",
+    "title": "指环王：力量之戒 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/97/537681_j5810.jpg",
+    "releaseDate": "2026-11-11",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年11月11日 / Charlotte Brändström、Sanaa Hamri、Stefan Schwartz / J. D. Payne、Patrick McKay、Justin Doble",
+    "link": "https://bgm.tv/subject/537681"
+  },
+  {
     "id": "632524",
     "type": "link",
     "title": "学園アイドルマスター LIVE TOUR -標- ファイナル公演",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6b/77/632524_ESPjS.jpg",
     "releaseDate": "2026-11-07",
     "mediaType": "real",
     "rating": "",
@@ -132,6 +220,28 @@
     "link": "https://bgm.tv/subject/639278"
   },
   {
+    "id": "657992",
+    "type": "link",
+    "title": "男ともだち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0d/66/657992_1CxIS.jpg",
+    "releaseDate": "2026-11-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年11月6日 / 三島有紀子 / 松岡茉優",
+    "link": "https://bgm.tv/subject/657992"
+  },
+  {
+    "id": "659173",
+    "type": "link",
+    "title": "4アウト ─もう一度、プレイボール─",
+    "posterPath": null,
+    "releaseDate": "2026-11-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年11月6日 / 相葉雅紀",
+    "link": "https://bgm.tv/subject/659173"
+  },
+  {
     "id": "522524",
     "type": "link",
     "title": "哥斯拉-0.0",
@@ -143,127 +253,14 @@
     "link": "https://bgm.tv/subject/522524"
   },
   {
-    "id": "633242",
+    "id": "646304",
     "type": "link",
-    "title": "RYUJI 竜二",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2e/6f/633242_ULz6K.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月30日 / 水田伸生 / 柳楽優弥",
-    "link": "https://bgm.tv/subject/633242"
-  },
-  {
-    "id": "620303",
-    "type": "link",
-    "title": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/b4/620303_A2f0w.jpg",
-    "releaseDate": "2026-10-24",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026年10月24日",
-    "link": "https://bgm.tv/subject/620303"
-  },
-  {
-    "id": "287591",
-    "type": "tmdb",
-    "title": "うるわしの宵の月",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/25/fd/628277_J2UZg.jpg",
-    "releaseDate": "2026-10-23",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "1话 /  2026年10月23日 / 竹村謙太郎 / 道枝駿佑",
-    "link": null,
-    "tmdb_id": "287591",
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "528731",
-    "type": "link",
-    "title": "泥面人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/bd/528731_n7ZiD.jpg",
-    "releaseDate": "2026-10-23",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月23日 / James Watkins / Mike Flanagan / Tom Rhys Harries、Naomi Ackie",
-    "link": "https://bgm.tv/subject/528731"
-  },
-  {
-    "id": "604863",
-    "type": "link",
-    "title": "mentor",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2b/06/604863_RI1A1.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月16日 / 磯村勇斗、末澤誠也（Aぇ! group）",
-    "link": "https://bgm.tv/subject/604863"
-  },
-  {
-    "id": "428025",
-    "type": "link",
-    "title": "街头霸王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b8/428025_56E22.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / Dalan Musson / Noah Centineo、Andrew Koji、Callina Liang",
-    "link": "https://bgm.tv/subject/428025"
-  },
-  {
-    "id": "567892",
-    "type": "link",
-    "title": "汝、星のごとく",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/c7/567892_mW54W.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月9日 / 藤井道人 / 安達奈緒子 / 横浜流星、広瀬すず",
-    "link": "https://bgm.tv/subject/567892"
-  },
-  {
-    "id": "630421",
-    "type": "link",
-    "title": "刀剣乱舞 - ICE BLADE -",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/26/02/630421_gejRJ.jpg",
+    "title": "ガールズバンドクライ Special LIVE “赤色の響祭”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/646304_EMMNh.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-10-03",
-    "link": "https://bgm.tv/subject/630421"
-  },
-  {
-    "id": "642227",
-    "type": "link",
-    "title": "ママがもうこの世界にいなくても 私の命の日記",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/94/642227_Od8hj.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 山戸結希 / 川口春奈、高杉真宙",
-    "link": "https://bgm.tv/subject/642227"
-  },
-  {
-    "id": "645791",
-    "type": "link",
-    "title": "283 PRODUCTION Solo Live Collection -Master ShowPiece-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/15/645791_SOJt7.jpg",
-    "releaseDate": "2026-09-26",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年9月26日",
-    "link": "https://bgm.tv/subject/645791"
-  },
-  {
-    "id": "638983",
-    "type": "link",
-    "title": "藁にもすがる獣たち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/71/638983_ml8Xj.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-09-25 / 城定秀夫 / 城定秀夫、小林靖子 / 鈴鹿央士",
-    "link": "https://bgm.tv/subject/638983"
+    "description": "2026-11-03 / Diamond Dust",
+    "link": "https://bgm.tv/subject/646304"
   }
 ]

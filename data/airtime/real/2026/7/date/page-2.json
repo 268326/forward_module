@@ -11,6 +11,17 @@
     "link": "https://bgm.tv/subject/633242"
   },
   {
+    "id": "663891",
+    "type": "link",
+    "title": "Ave Mujica 7th LIVE「Virtus」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/84/663891_tbbE5.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-24",
+    "link": "https://bgm.tv/subject/663891"
+  },
+  {
     "id": "620303",
     "type": "link",
     "title": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
@@ -22,15 +33,15 @@
     "link": "https://bgm.tv/subject/620303"
   },
   {
-    "id": "663891",
+    "id": "650117",
     "type": "link",
-    "title": "Ave Mujica 7th LIVE「Virtus」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/84/663891_tbbE5.jpg",
+    "title": "昨夜は殺れたかも",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
     "rating": "",
-    "description": "2026-10-24",
-    "link": "https://bgm.tv/subject/663891"
+    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
+    "link": "https://bgm.tv/subject/650117"
   },
   {
     "id": "287591",
@@ -60,15 +71,15 @@
     "link": "https://bgm.tv/subject/528731"
   },
   {
-    "id": "650117",
+    "id": "650384",
     "type": "link",
-    "title": "昨夜は殺れたかも",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/44/d2/650117_BmnJQ.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "わたしの知らない子どもたち",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
+    "releaseDate": "2026-10-16",
     "mediaType": "real",
     "rating": "",
-    "description": "1话 /  2026-10-23 / 松木創 / ブラジリィー・アン・山田 / 吉野北人、鈴木愛理",
-    "link": "https://bgm.tv/subject/650117"
+    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
+    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "311125",
@@ -98,17 +109,6 @@
     "rating": "",
     "description": "1话 /  2026年10月16日 / Kitao Sakurai（キタオ・サクライ） / T. J. Fixman、Kitao Sakurai / Noah Centineo、Andrew Koji、Callina Liang",
     "link": "https://bgm.tv/subject/428025"
-  },
-  {
-    "id": "650384",
-    "type": "link",
-    "title": "わたしの知らない子どもたち",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/8b/650384_VNCtq.jpg",
-    "releaseDate": "2026-10-16",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月16日 / 西川美和 / 西川美和 / 小八重葵美、二階堂ふみ",
-    "link": "https://bgm.tv/subject/650384"
   },
   {
     "id": "213375",
@@ -206,50 +206,6 @@
     "link": "https://bgm.tv/subject/646585"
   },
   {
-    "id": "622250",
-    "type": "link",
-    "title": "时薪300日元的死神",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
-    "link": "https://bgm.tv/subject/622250"
-  },
-  {
-    "id": "578392",
-    "type": "link",
-    "title": "キリコのタクト～YELL～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/86/578392_78V2w.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年10月2日 / 鈴木京香",
-    "link": "https://bgm.tv/subject/578392"
-  },
-  {
-    "id": "661806",
-    "type": "link",
-    "title": "潘朵拉之心 RetraceⅡ-madness of lost memory-",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-10-02 / 山崎彬 / 山崎彬 / 横山賀三",
-    "link": "https://bgm.tv/subject/661806"
-  },
-  {
-    "id": "657525",
-    "type": "link",
-    "title": "ファーストボイス ―私たちの逆転裁判―",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/61/657525_5yh5B.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年10月2日 / 綾瀬はるか",
-    "link": "https://bgm.tv/subject/657525"
-  },
-  {
     "id": "642227",
     "type": "link",
     "title": "ママがもうこの世界にいなくても 私の命の日記",
@@ -281,5 +237,49 @@
     "rating": "",
     "description": "2026年10月2日 / 水上恒司",
     "link": "https://bgm.tv/subject/660124"
+  },
+  {
+    "id": "661729",
+    "type": "link",
+    "title": "沖晴くんの涙を殺して",
+    "posterPath": null,
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 矢崎仁司 / 広瀬アリス",
+    "link": "https://bgm.tv/subject/661729"
+  },
+  {
+    "id": "622250",
+    "type": "link",
+    "title": "时薪300日元的死神",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e0/83/622250_DlFrb.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年10月2日 / 酒井麻衣 / 福田果歩 / 西畑大吾、福本莉子",
+    "link": "https://bgm.tv/subject/622250"
+  },
+  {
+    "id": "578392",
+    "type": "link",
+    "title": "キリコのタクト～YELL～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b5/86/578392_78V2w.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026年10月2日 / 鈴木京香",
+    "link": "https://bgm.tv/subject/578392"
+  },
+  {
+    "id": "661806",
+    "type": "link",
+    "title": "潘朵拉之心 RetraceⅡ-madness of lost memory-",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-10-02 / 山崎彬 / 山崎彬 / 横山賀三",
+    "link": "https://bgm.tv/subject/661806"
   }
 ]

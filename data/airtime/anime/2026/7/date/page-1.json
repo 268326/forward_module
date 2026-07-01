@@ -11,15 +11,88 @@
     "link": "https://bgm.tv/subject/503237"
   },
   {
+    "id": "499105",
+    "type": "link",
+    "title": "愤怒的小鸟3",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/88/0d/499105_C2G6a.jpg",
+    "releaseDate": "2026-12-23",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年12月23日 / John Rice",
+    "link": "https://bgm.tv/subject/499105"
+  },
+  {
+    "id": "663442",
+    "type": "link",
+    "title": "雷·古恩：黑暗星城",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/5c/663442_600RG.jpg",
+    "releaseDate": "2026-12-18",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年12月18日 / Brad Bird",
+    "link": "https://bgm.tv/subject/663442"
+  },
+  {
+    "id": "664308",
+    "type": "link",
+    "title": "Lilo & Scratch",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/f3/664308_0Ve34.jpg",
+    "releaseDate": "2026-11-25",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年11月25日",
+    "link": "https://bgm.tv/subject/664308"
+  },
+  {
     "id": "583786",
     "type": "link",
-    "title": "魔咒",
-    "posterPath": null,
+    "title": "魔法秘境",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/583786_1OHCV.jpg",
     "releaseDate": "2026-11-25",
     "mediaType": "anime",
     "rating": "",
     "description": "1话 /  2026年11月25日 / Josie Trinidad、Jason Hand",
     "link": "https://bgm.tv/subject/583786"
+  },
+  {
+    "id": "298103",
+    "type": "tmdb",
+    "title": "不虐待我的继母与继姐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1i67CAfM8JsUvVOA6K6OC05L7X0.jpg",
+    "releaseDate": "2026-11-20",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "1话 /  2026年11月20日 / Alyce Tzue",
+    "link": null,
+    "tmdb_id": "298103",
+    "tmdb_site_id": "tv/298103",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "621555",
+    "type": "link",
+    "title": "装甲骑兵 灰色的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/bb/621555_XdLjA.jpg",
+    "releaseDate": "2026-11-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年11月20日 / 押井守 / 高橋良輔",
+    "link": "https://bgm.tv/subject/621555"
+  },
+  {
+    "id": "617452",
+    "type": "link",
+    "title": "魔法公主明琪桃子 向着憧憬之梦 真心的二重奏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/35/c7/617452_2MX6x.jpg",
+    "releaseDate": "2026-11-13",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年11月13日 / 渡辺歩 / 葦プロダクション / わたなべひろし、とみながまり",
+    "link": "https://bgm.tv/subject/617452"
   },
   {
     "id": "477456",
@@ -47,7 +120,7 @@
     "id": "483867",
     "type": "link",
     "title": "戴帽子的猫",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/f0/483867_2W4HC.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/f0/483867_oUGeS.jpg",
     "releaseDate": "2026-11-06",
     "mediaType": "anime",
     "rating": "",
@@ -61,9 +134,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/80/415482_5885x.jpg",
     "releaseDate": "2026-10-23",
     "mediaType": "anime",
-    "rating": "9.0",
+    "rating": "8.8",
     "description": "1话 /  2026年10月23日 / 小島正幸 / つくしあきひと（竹書房「竹コミ！」） / 黒田結花、黄瀬和哉 (Production I.G)",
     "link": "https://bgm.tv/subject/415482"
+  },
+  {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
   },
   {
     "id": "589284",
@@ -77,15 +161,15 @@
     "link": "https://bgm.tv/subject/589284"
   },
   {
-    "id": "644636",
+    "id": "573707",
     "type": "link",
-    "title": "紧身衣",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/eb/3e/644636_2Kc4O.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "极恶老大 第三季",
+    "posterPath": null,
+    "releaseDate": "2026-10-14",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026-10-14(法国) / Louis Clichy",
-    "link": "https://bgm.tv/subject/644636"
+    "description": "15话 /  2026年10月14日",
+    "link": "https://bgm.tv/subject/573707"
   },
   {
     "id": "626870",
@@ -116,7 +200,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "1话 /  2026年10月9日",
     "link": "https://bgm.tv/subject/549975"
   },
@@ -124,7 +208,7 @@
     "id": "208829",
     "type": "link",
     "title": "少女与战车 最终章 第5话",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9c/b8/208829_k5k0l.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9c/b8/208829_Kz7zB.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
     "rating": "7.1",
@@ -154,6 +238,28 @@
     "link": "https://bgm.tv/subject/548156"
   },
   {
+    "id": "499474",
+    "type": "link",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/d4/499474_ARHE9.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月2日 / 小平麻紀 / 和久井健（講談社「週刊少年マガジン」連載） / 大貫健一、太田恵子、露木愛里、高倉香恵",
+    "link": "https://bgm.tv/subject/499474"
+  },
+  {
+    "id": "650428",
+    "type": "link",
+    "title": "傷だらけ聖女より報復をこめて Season2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月1日 / 深瀬沙哉 / 『傷だらけ聖女より報復をこめて』　編乃肌、SORAJIMA",
+    "link": "https://bgm.tv/subject/650428"
+  },
+  {
     "id": "640219",
     "type": "link",
     "title": "LEGO® ONE PIECE",
@@ -163,104 +269,5 @@
     "rating": "",
     "description": "2026年9月29日",
     "link": "https://bgm.tv/subject/640219"
-  },
-  {
-    "id": "639663",
-    "type": "link",
-    "title": "电影名侦探光之美少女！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8c/e1/639663_jNMje.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年9月18日",
-    "link": "https://bgm.tv/subject/639663"
-  },
-  {
-    "id": "557818",
-    "type": "link",
-    "title": "小羊肖恩：青苔农场的怪兽",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/00/40/557818_R3xCC.jpg",
-    "releaseDate": "2026-09-18",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年9月18日",
-    "link": "https://bgm.tv/subject/557818"
-  },
-  {
-    "id": "563041",
-    "type": "link",
-    "title": "最终乐章 吹响吧！上低音号 后篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/a6/563041_X0778.jpg",
-    "releaseDate": "2026-09-11",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "2026年9月11日 / 武田綾乃 （宝島社文庫『響け！ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章』）",
-    "link": "https://bgm.tv/subject/563041"
-  },
-  {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈魔女之夜的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_U5T14.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
-  },
-  {
-    "id": "633318",
-    "type": "link",
-    "title": "不知火",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/40/633318_Cak7A.jpg",
-    "releaseDate": "2026-08-21",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年8月21日 / 片野坂亮 / 片野坂亮",
-    "link": "https://bgm.tv/subject/633318"
-  },
-  {
-    "id": "622412",
-    "type": "link",
-    "title": "机动警察 EZY 第二章",
-    "posterPath": null,
-    "releaseDate": "2026-08-14",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "3话 /  2026年8月14日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
-    "link": "https://bgm.tv/subject/622412"
-  },
-  {
-    "id": "633836",
-    "type": "link",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_hVGc7.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
-  },
-  {
-    "id": "643933",
-    "type": "link",
-    "title": "欢迎来到后宫岛",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / Resta!",
-    "link": "https://bgm.tv/subject/643933"
-  },
-  {
-    "id": "615446",
-    "type": "link",
-    "title": "蜡笔小新：奇奇怪怪！我的妖怪假期",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/3c/615446_re2YN.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年7月31日 / 渡辺正樹 / 臼井儀人",
-    "link": "https://bgm.tv/subject/615446"
   }
 ]

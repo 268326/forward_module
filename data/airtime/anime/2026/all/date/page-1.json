@@ -14,7 +14,7 @@
     "id": "499105",
     "type": "link",
     "title": "愤怒的小鸟3",
-    "posterPath": null,
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/88/0d/499105_C2G6a.jpg",
     "releaseDate": "2026-12-23",
     "mediaType": "anime",
     "rating": "",
@@ -139,6 +139,17 @@
     "link": "https://bgm.tv/subject/415482"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "589284",
     "type": "link",
     "title": "青春笨蛋少年不做亲爱的朋友的梦",
@@ -258,16 +269,5 @@
     "rating": "",
     "description": "2026年9月29日",
     "link": "https://bgm.tv/subject/640219"
-  },
-  {
-    "id": "664538",
-    "type": "link",
-    "title": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION",
-    "posterPath": "/img/no_icon_subject.png",
-    "releaseDate": "2026-09-25",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "3话 /  2026年9月25日 / 源「無自覚な幼馴染と興味本位でヤってみたら」（ジーオーティー刊）",
-    "link": "https://bgm.tv/subject/664538"
   }
 ]
