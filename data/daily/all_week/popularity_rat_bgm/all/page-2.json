@@ -197,6 +197,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "517106",
+    "type": "link",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/00/517106_kDd70.jpg",
+    "releaseDate": "0000-00-00",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/517106",
+    "bgm_id": "517106",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "98865",
     "type": "tmdb",
     "title": "梅比乌斯之尘",
@@ -294,19 +309,19 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "517106",
+    "id": "565701",
     "type": "link",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/00/517106_kDd70.jpg",
-    "releaseDate": "0000-00-00",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/517106",
-    "bgm_id": "517106",
-    "bgm_score": 7.2,
+    "rating": "6.2",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/565701",
+    "bgm_id": "565701",
+    "bgm_score": 6.2,
     "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
+    "bgm_weekday_id": 3
   },
   {
     "id": "298994",
@@ -424,25 +439,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "298831",
-    "type": "tmdb",
-    "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e2/dd/579246_61291.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "[星期一]",
-    "link": null,
-    "bgm_id": "579246",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "298831",
-    "tmdb_site_id": "tv/298831",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

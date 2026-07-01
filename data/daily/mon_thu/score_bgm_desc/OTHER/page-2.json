@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "558064",
     "bgm_score": 6.6,
-    "bgm_rating_total": 59,
+    "bgm_rating_total": 62,
     "bgm_weekday_id": 3,
     "tmdb_id": "286346",
     "tmdb_site_id": "tv/286346",
@@ -120,6 +120,36 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "565701",
+    "type": "link",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/565701",
+    "bgm_id": "565701",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "481295",
+    "type": "link",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "500458",
     "type": "link",
     "title": "胶囊计划 奇迹",
@@ -132,21 +162,6 @@
     "bgm_id": "500458",
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/565701",
-    "bgm_id": "565701",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 3,
     "bgm_weekday_id": 3
   },
   {
@@ -265,21 +280,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "481295",
-    "type": "link",
-    "title": "X战警97 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/481295",
-    "bgm_id": "481295",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   },
   {
     "id": "630164",

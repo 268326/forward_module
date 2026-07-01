@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 309,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 313,
     "bgm_weekday_id": 7
   },
   {
@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ce/3a/255209_9w0tU.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "6.6",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "255209",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 34,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.5,
-    "bgm_rating_total": 21,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 7
   },
   {
@@ -70,6 +70,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/638497",
+    "bgm_id": "638497",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -88,21 +103,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/638497",
-    "bgm_id": "638497",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 12,
-    "bgm_weekday_id": 7
   },
   {
     "id": "615835",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "298994",
+    "type": "tmdb",
+    "title": "LV999的村民",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/57/579787_9aHqE.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "579787",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "298994",
+    "tmdb_site_id": "tv/298994",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "302051",
     "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
@@ -122,21 +142,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/565701",
-    "bgm_id": "565701",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3
   },
   {
     "id": "326119",
@@ -301,6 +306,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "481295",
+    "type": "link",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -381,21 +401,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "481295",
-    "type": "link",
-    "title": "X战警97 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/481295",
-    "bgm_id": "481295",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   },
   {
     "id": "326697",

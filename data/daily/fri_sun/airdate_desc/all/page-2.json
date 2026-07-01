@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 6.7,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7
   },
   {
@@ -76,7 +76,7 @@
     "link": null,
     "bgm_id": "538760",
     "bgm_score": 6.6,
-    "bgm_rating_total": 87,
+    "bgm_rating_total": 92,
     "bgm_weekday_id": 6,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",
@@ -238,12 +238,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 309,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 313,
     "bgm_weekday_id": 7
   },
   {
@@ -328,7 +328,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11418,
+    "bgm_rating_total": 11419,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
