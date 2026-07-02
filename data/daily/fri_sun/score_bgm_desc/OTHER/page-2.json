@@ -1,5 +1,20 @@
 [
   {
+    "id": "454083",
+    "type": "link",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_4DZpt.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/454083",
+    "bgm_id": "454083",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "638497",
     "type": "link",
     "title": "相反的你和我 第二季",
@@ -15,24 +30,9 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "454083",
-    "type": "link",
-    "title": "碧蓝航线：微速前行！第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_4DZpt.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/454083",
-    "bgm_id": "454083",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "295071",
     "type": "tmdb",
-    "title": "再见，拉拉",
+    "title": "再见菈菈",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",

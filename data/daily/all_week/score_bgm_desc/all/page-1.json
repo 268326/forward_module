@@ -157,21 +157,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638151",
-    "type": "link",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "9.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/638151",
-    "bgm_id": "638151",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "302824",
     "type": "tmdb",
     "title": "Let&#39;s Go 怪奇组",
@@ -385,35 +370,13 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14524,
+    "bgm_rating_total": 14525,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "326119",
-    "type": "tmdb",
-    "title": "雷霆三人行",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
-    "link": null,
-    "bgm_id": "625215",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "326119",
-    "tmdb_site_id": "tv/326119",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "298103",
@@ -431,6 +394,43 @@
     "bgm_weekday_id": 5,
     "tmdb_id": "298103",
     "tmdb_site_id": "tv/298103",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "638151",
+    "type": "link",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/638151",
+    "bgm_id": "638151",
+    "bgm_score": 8.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "326119",
+    "type": "tmdb",
+    "title": "雷霆三人行",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
+    "link": null,
+    "bgm_id": "625215",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "326119",
+    "tmdb_site_id": "tv/326119",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

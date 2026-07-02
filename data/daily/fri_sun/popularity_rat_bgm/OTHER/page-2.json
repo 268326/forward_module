@@ -1,18 +1,23 @@
 [
   {
-    "id": "638151",
-    "type": "link",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
+    "id": "307585",
+    "type": "tmdb",
+    "title": "我家的弟弟们真是让您费心了",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/fb/613438_pJVpS.jpg",
     "releaseDate": "2026-07-03",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "9.5",
     "description": "[星期五]",
-    "link": "http://bgm.tv/subject/638151",
-    "bgm_id": "638151",
+    "link": null,
+    "bgm_id": "613438",
     "bgm_score": 9.5,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
+    "bgm_weekday_id": 5,
+    "tmdb_id": "307585",
+    "tmdb_site_id": "tv/307585",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "285993",

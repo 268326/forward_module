@@ -1,5 +1,45 @@
 [
   {
+    "id": "270603",
+    "type": "tmdb",
+    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8f/47/511177_EP43p.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "511177",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "270603",
+    "tmdb_site_id": "tv/270603",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312507",
+    "type": "tmdb",
+    "title": "令和的斑小姐",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/c5/614594_ZW9b2.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "614594",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "312507",
+    "tmdb_site_id": "tv/312507",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "565701",
     "type": "link",
     "title": "乡下大叔成为剑圣 第二季",
@@ -11,21 +51,6 @@
     "link": "http://bgm.tv/subject/565701",
     "bgm_id": "565701",
     "bgm_score": 6.2,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "637124",
-    "type": "link",
-    "title": "花样少年少女 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/20/0f/637124_6DDda.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/637124",
-    "bgm_id": "637124",
-    "bgm_score": 7.4,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 3
   },
@@ -50,24 +75,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312507",
+    "id": "326119",
     "type": "tmdb",
-    "title": "令和的斑小姐",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/c5/614594_ZW9b2.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "雷霆三人行",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "tv",
-    "rating": "6.5",
-    "description": "[星期四]",
+    "rating": "0.0",
+    "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
     "link": null,
-    "bgm_id": "614594",
-    "bgm_score": 6.5,
+    "bgm_id": "625215",
+    "bgm_score": 8.0,
     "bgm_rating_total": 4,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "312507",
-    "tmdb_site_id": "tv/312507",
+    "bgm_weekday_id": 3,
+    "tmdb_id": "326119",
+    "tmdb_site_id": "tv/326119",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "284581",
@@ -154,41 +181,19 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326119",
-    "type": "tmdb",
-    "title": "雷霆三人行",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
-    "link": null,
-    "bgm_id": "625215",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "326119",
-    "tmdb_site_id": "tv/326119",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "616616",
+    "id": "481295",
     "type": "link",
-    "title": "百姓贵族 第四季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/80/616616_YoPfY.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/616616",
-    "bgm_id": "616616",
-    "bgm_score": 4.0,
+    "rating": "6.7",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 6.7,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 3
   },
   {
     "id": "636067",
@@ -234,21 +239,6 @@
     "bgm_score": 9.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "481295",
-    "type": "link",
-    "title": "X战警97 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/481295",
-    "bgm_id": "481295",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3
   },
   {
     "id": "500458",
@@ -418,5 +408,20 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "630164",
+    "type": "link",
+    "title": "澈底对你成瘾",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/2b/630164_rIi5N.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/630164",
+    "bgm_id": "630164",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
   }
 ]

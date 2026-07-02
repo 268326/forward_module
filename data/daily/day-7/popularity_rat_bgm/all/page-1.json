@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
     "bgm_score": 7.7,
-    "bgm_rating_total": 315,
+    "bgm_rating_total": 319,
     "bgm_weekday_id": 7
   },
   {
@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.8,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -41,12 +41,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/96/f8/598058_1RcCL.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "7.5",
+    "rating": "7.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 23,
+    "bgm_score": 7.6,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7
   },
   {
@@ -67,7 +67,7 @@
   {
     "id": "295071",
     "type": "tmdb",
-    "title": "再见，拉拉",
+    "title": "再见菈菈",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
@@ -105,6 +105,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "454083",
+    "type": "link",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_4DZpt.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/454083",
+    "bgm_id": "454083",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "615835",
     "type": "link",
     "title": "炒翻天",
@@ -117,21 +132,6 @@
     "bgm_id": "615835",
     "bgm_score": 8.0,
     "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "454083",
-    "type": "link",
-    "title": "碧蓝航线：微速前行！第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_4DZpt.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/454083",
-    "bgm_id": "454083",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 6,
     "bgm_weekday_id": 7
   },
   {

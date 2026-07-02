@@ -1,5 +1,25 @@
 [
   {
+    "id": "293489",
+    "type": "tmdb",
+    "title": "鬼的新娘",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b9/ac/563745_YI26V.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "563745",
+    "bgm_score": 9.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "293489",
+    "tmdb_site_id": "tv/293489",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "577191",
     "type": "link",
     "title": "航海王 女英雄们的故事",
@@ -33,21 +53,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "638151",
-    "type": "link",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "9.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/638151",
-    "bgm_id": "638151",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "285993",

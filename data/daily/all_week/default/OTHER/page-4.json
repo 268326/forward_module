@@ -1,20 +1,5 @@
 [
   {
-    "id": "577191",
-    "type": "link",
-    "title": "航海王 女英雄们的故事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/dd/577191_c7zCc.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "9.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/577191",
-    "bgm_id": "577191",
-    "bgm_score": 9.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "300267",
     "type": "tmdb",
     "title": "世界最强的后卫 ～迷宫国的新人探索者～",
@@ -61,12 +46,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/96/f8/598058_1RcCL.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "7.5",
+    "rating": "7.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 23,
+    "bgm_score": 7.6,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7
   },
   {

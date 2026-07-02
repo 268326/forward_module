@@ -135,21 +135,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638151",
-    "type": "link",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "9.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/638151",
-    "bgm_id": "638151",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "302824",
     "type": "tmdb",
     "title": "Let&#39;s Go 怪奇组",
@@ -341,13 +326,28 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14524,
+    "bgm_rating_total": 14525,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "638151",
+    "type": "link",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/638151",
+    "bgm_id": "638151",
+    "bgm_score": 8.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
   },
   {
     "id": "286345",
@@ -385,21 +385,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "627136",
-    "type": "link",
-    "title": "正后方的神威",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/627136",
-    "bgm_id": "627136",
-    "bgm_score": 7.8,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "312266",
     "type": "tmdb",
     "title": "花织即使是转生也想打架",
@@ -418,5 +403,20 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "627136",
+    "type": "link",
+    "title": "正后方的神威",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/627136",
+    "bgm_id": "627136",
+    "bgm_score": 7.7,
+    "bgm_rating_total": 12,
+    "bgm_weekday_id": 5
   }
 ]
