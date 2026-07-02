@@ -213,12 +213,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "anime",
-    "rating": "8.7",
+    "rating": "8.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
-    "bgm_score": 8.7,
-    "bgm_rating_total": 26,
+    "bgm_score": 8.6,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 6
   },
   {
@@ -266,21 +266,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "627136",
-    "type": "link",
-    "title": "正后方的神威",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "8.1",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/627136",
-    "bgm_id": "627136",
-    "bgm_score": 8.1,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -316,6 +301,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "627136",
+    "type": "link",
+    "title": "正后方的神威",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/627136",
+    "bgm_id": "627136",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "312266",
     "type": "tmdb",
     "title": "花织即使是转生也想打架",
@@ -342,12 +342,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "7.8",
+    "rating": "7.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 7.8,
-    "bgm_rating_total": 313,
+    "bgm_score": 7.7,
+    "bgm_rating_total": 315,
     "bgm_weekday_id": 7
   },
   {
@@ -362,7 +362,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11419,
+    "bgm_rating_total": 11418,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",

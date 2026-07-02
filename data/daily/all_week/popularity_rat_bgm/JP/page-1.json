@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "630163",
     "bgm_score": 5.3,
-    "bgm_rating_total": 33,
+    "bgm_rating_total": 35,
     "bgm_weekday_id": 3,
     "tmdb_id": "314554",
     "tmdb_site_id": "tv/314554",
@@ -44,6 +44,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "98865",
+    "type": "tmdb",
+    "title": "梅比乌斯之尘",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "276787",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "98865",
+    "tmdb_site_id": "tv/98865",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "312849",
     "type": "tmdb",
     "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
@@ -59,28 +81,6 @@
     "bgm_weekday_id": 6,
     "tmdb_id": "312849",
     "tmdb_site_id": "tv/312849",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "98865",
-    "type": "tmdb",
-    "title": "梅比乌斯之尘",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期四]",
-    "link": null,
-    "bgm_id": "276787",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "98865",
-    "tmdb_site_id": "tv/98865",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -201,7 +201,7 @@
     "id": "326697",
     "type": "tmdb",
     "title": "地球大好き！きっくん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/dd/532053_NK9BA.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5DeX1qTH98C52Tmlxc0QxFVPwyp.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "tv",
     "rating": "0.0",
