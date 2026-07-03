@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.6,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 6
   },
   {
@@ -257,7 +257,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.8,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -371,19 +371,26 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "615835",
-    "type": "link",
+    "id": "308403",
+    "type": "tmdb",
     "title": "炒翻天",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/b5/615835_kEUex.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "8.0",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/615835",
+    "link": null,
     "bgm_id": "615835",
     "bgm_score": 8.0,
     "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "619052",

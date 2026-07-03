@@ -318,7 +318,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.6,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 6
   },
   {
@@ -344,21 +344,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "569116",
-    "type": "link",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "8.3",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/569116",
-    "bgm_id": "569116",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 26,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "37854",
     "type": "tmdb",
     "title": "航海王",
@@ -370,7 +355,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14525,
+    "bgm_rating_total": 14527,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -414,6 +399,21 @@
     "bgm_score": 8.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "569116",
+    "type": "link",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "8.2",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/569116",
+    "bgm_id": "569116",
+    "bgm_score": 8.2,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 1
   },
   {
     "id": "326119",

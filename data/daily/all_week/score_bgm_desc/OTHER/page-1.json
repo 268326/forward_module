@@ -296,23 +296,8 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.6,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "569116",
-    "type": "link",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "8.3",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/569116",
-    "bgm_id": "569116",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 26,
-    "bgm_weekday_id": 1
   },
   {
     "id": "37854",
@@ -326,7 +311,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14525,
+    "bgm_rating_total": 14527,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -350,6 +335,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "569116",
+    "type": "link",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "8.2",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/569116",
+    "bgm_id": "569116",
+    "bgm_score": 8.2,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -370,21 +370,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "615835",
-    "type": "link",
-    "title": "炒翻天",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/b5/615835_kEUex.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/615835",
-    "bgm_id": "615835",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "312266",
     "type": "tmdb",
     "title": "花织即使是转生也想打架",
@@ -403,6 +388,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/501963",
+    "bgm_id": "501963",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 337,
+    "bgm_weekday_id": 7
   },
   {
     "id": "627136",

@@ -44,6 +44,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "308403",
+    "type": "tmdb",
+    "title": "炒翻天",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "615835",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "312849",
     "type": "tmdb",
     "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",

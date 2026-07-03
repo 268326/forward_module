@@ -26,12 +26,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 319,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 337,
     "bgm_weekday_id": 7
   },
   {
@@ -46,7 +46,7 @@
     "link": null,
     "bgm_id": "538760",
     "bgm_score": 6.6,
-    "bgm_rating_total": 107,
+    "bgm_rating_total": 118,
     "bgm_weekday_id": 6,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",
@@ -66,7 +66,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.8,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -86,7 +86,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.6,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 6
   },
   {
@@ -111,12 +111,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 14,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 7
   },
   {
@@ -186,7 +186,7 @@
     "link": null,
     "bgm_id": "552533",
     "bgm_score": 7.0,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 6,
     "tmdb_id": "288971",
     "tmdb_site_id": "tv/288971",
@@ -267,19 +267,26 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "615835",
-    "type": "link",
+    "id": "308403",
+    "type": "tmdb",
     "title": "炒翻天",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/b5/615835_kEUex.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "8.0",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/615835",
+    "link": null,
     "bgm_id": "615835",
     "bgm_score": 8.0,
     "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "296101",

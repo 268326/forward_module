@@ -1,5 +1,20 @@
 [
   {
+    "id": "621843",
+    "type": "link",
+    "title": "岩元前辈的推荐",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a7/0a/621843_5tN5J.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "2.1",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/621843",
+    "bgm_id": "621843",
+    "bgm_score": 2.1,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -132,28 +147,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "282580",
-    "type": "tmdb",
-    "title": "花仙子之魔法香对论",
-    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
-    "link": null,
-    "bgm_id": "449354",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282580",
-    "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "574794",

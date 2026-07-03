@@ -26,12 +26,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 319,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 337,
     "bgm_weekday_id": 7
   },
   {
@@ -140,21 +140,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "615835",
-    "type": "link",
-    "title": "炒翻天",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/b5/615835_kEUex.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/615835",
-    "bgm_id": "615835",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "619052",
     "type": "link",
     "title": "あはれ！名作くん 完全新作",
@@ -206,12 +191,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 14,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 7
   },
   {

@@ -1,5 +1,20 @@
 [
   {
+    "id": "630164",
+    "type": "link",
+    "title": "澈底对你成瘾",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/2b/630164_rIi5N.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/630164",
+    "bgm_id": "630164",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "658254",
     "type": "link",
     "title": "ようじょしぇんき2",
@@ -13,28 +28,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "282580",
-    "type": "tmdb",
-    "title": "花仙子之魔法香对论",
-    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
-    "link": null,
-    "bgm_id": "449354",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282580",
-    "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "574794",
