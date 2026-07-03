@@ -1,23 +1,18 @@
 [
   {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "Grow Up Show ～向日葵马戏团～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "id": "529723",
+    "type": "link",
+    "title": "魔法光源股份有限公司 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/28/ae/529723_9qSo4.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "tv",
+    "mediaType": "anime",
     "rating": "6.8",
     "description": "[星期六]",
-    "link": null,
-    "bgm_id": "570583",
+    "link": "http://bgm.tv/subject/529723",
+    "bgm_id": "529723",
     "bgm_score": 6.8,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
   },
   {
     "id": "153217",
@@ -51,7 +46,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 6.8,
-    "bgm_rating_total": 17,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 7
   },
   {
@@ -66,7 +61,7 @@
     "link": null,
     "bgm_id": "538760",
     "bgm_score": 6.6,
-    "bgm_rating_total": 118,
+    "bgm_rating_total": 127,
     "bgm_weekday_id": 6,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",

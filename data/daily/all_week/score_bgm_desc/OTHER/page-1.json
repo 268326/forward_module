@@ -185,26 +185,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/a1/571895_yITHq.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "571895",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "287075",
     "type": "tmdb",
     "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
@@ -276,7 +256,7 @@
     "link": null,
     "bgm_id": "496276",
     "bgm_score": 8.7,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 2,
     "tmdb_id": "255358",
     "tmdb_site_id": "tv/255358",
@@ -311,7 +291,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14527,
+    "bgm_rating_total": 14526,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -346,7 +326,7 @@
     "link": "http://bgm.tv/subject/569116",
     "bgm_id": "569116",
     "bgm_score": 8.2,
-    "bgm_rating_total": 30,
+    "bgm_rating_total": 31,
     "bgm_weekday_id": 1
   },
   {
@@ -365,6 +345,26 @@
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296437",
+    "type": "tmdb",
+    "title": "从0位居民开始的边境领主大人",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/a1/571895_yITHq.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "[星期五]",
+    "link": null,
+    "bgm_id": "571895",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "296437",
+    "tmdb_site_id": "tv/296437",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -390,21 +390,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/501963",
-    "bgm_id": "501963",
-    "bgm_score": 7.8,
-    "bgm_rating_total": 337,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "627136",
     "type": "link",
     "title": "正后方的神威",
@@ -418,5 +403,20 @@
     "bgm_score": 7.7,
     "bgm_rating_total": 12,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/501963",
+    "bgm_id": "501963",
+    "bgm_score": 7.7,
+    "bgm_rating_total": 334,
+    "bgm_weekday_id": 7
   }
 ]
