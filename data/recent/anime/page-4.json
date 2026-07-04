@@ -32,15 +32,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638151",
-    "type": "link",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_4cZdo.jpg",
+    "id": "280049",
+    "type": "tmdb",
+    "title": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2z8wbBH2r4JZMyhC2ruKnxwTjlg.jpg",
     "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "2026年7月3日 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊）",
-    "link": "https://bgm.tv/subject/638151"
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "“招待您进入永无止境的游戏？”废游戏宅·山田健一偶然发现了一款没有标题的谜之网络游戏。在设定难易度时，他毫不犹豫地选择了最高难度。没想到当他按下“地狱模式”之后，竟然转生成了异世界的农奴！转生成少年“亚莲”的健一，一边掌握着“召唤士”这个充满谜团的职业，在没有攻略也没有讨论区的异世界里，寻找成为最强的道路。",
+    "link": null,
+    "tmdb_id": "280049",
+    "tmdb_site_id": "tv/280049",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "154743",
@@ -94,7 +101,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1d/71/528828_oQl2M.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "anime",
-    "rating": "",
+    "rating": "6.7",
     "description": "2026年7月6日 / 小野勝巳 / 秤猿鬼（オーバーラップノベルス刊）/ 漫画: サワノアキラ(澤野明)（「コミックガルド」連載） / 今西亨",
     "link": "https://bgm.tv/subject/528828"
   },
@@ -150,7 +157,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_yITHq.jpg",
     "releaseDate": "2026-07-10",
     "mediaType": "tv",
-    "rating": "6.3",
+    "rating": "6.0",
     "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
     "link": null,
     "tmdb_id": "296437",

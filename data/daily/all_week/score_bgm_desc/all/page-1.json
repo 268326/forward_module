@@ -253,12 +253,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "anime",
-    "rating": "8.6",
+    "rating": "8.7",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
-    "bgm_score": 8.6,
-    "bgm_rating_total": 27,
+    "bgm_score": 8.7,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 6
   },
   {
@@ -284,26 +284,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "255358",
-    "type": "tmdb",
-    "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7e/10/496276_HWJgp.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "[星期二]",
-    "link": null,
-    "bgm_id": "496276",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 34,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "255358",
-    "tmdb_site_id": "tv/255358",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "37854",
     "type": "tmdb",
     "title": "航海王",
@@ -315,7 +295,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14528,
+    "bgm_rating_total": 14529,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -357,7 +337,7 @@
     "link": "http://bgm.tv/subject/569116",
     "bgm_id": "569116",
     "bgm_score": 8.1,
-    "bgm_rating_total": 35,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 1
   },
   {
@@ -403,6 +383,41 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "255358",
+    "type": "tmdb",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7e/10/496276_HWJgp.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "496276",
+    "bgm_score": 7.9,
+    "bgm_rating_total": 70,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "255358",
+    "tmdb_site_id": "tv/255358",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/501963",
+    "bgm_id": "501963",
+    "bgm_score": 7.9,
+    "bgm_rating_total": 590,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "312266",
     "type": "tmdb",
     "title": "花织即使是转生也想打架",
@@ -421,20 +436,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "501963",
-    "type": "link",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/501963",
-    "bgm_id": "501963",
-    "bgm_score": 7.8,
-    "bgm_rating_total": 422,
-    "bgm_weekday_id": 7
   }
 ]

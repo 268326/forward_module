@@ -1,25 +1,5 @@
 [
   {
-    "id": "287075",
-    "type": "tmdb",
-    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cf/0b/530729_avGso.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "530729",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "287075",
-    "tmdb_site_id": "tv/287075",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "293489",
     "type": "tmdb",
     "title": "鬼的新娘",
@@ -380,6 +360,21 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/624691",
     "bgm_id": "624691",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "664856",
+    "type": "link",
+    "title": "ばなにゃ あっとほーむぱーてぃー",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/664856",
+    "bgm_id": "664856",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
