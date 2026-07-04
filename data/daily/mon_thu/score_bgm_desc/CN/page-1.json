@@ -1,27 +1,5 @@
 [
   {
-    "id": "282580",
-    "type": "tmdb",
-    "title": "花仙子之魔法香对论",
-    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
-    "link": null,
-    "bgm_id": "449354",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282580",
-    "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "326844",
     "type": "tmdb",
     "title": "百日成王",
@@ -37,6 +15,28 @@
     "bgm_weekday_id": 2,
     "tmdb_id": "326844",
     "tmdb_site_id": "tv/326844",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "282580",
+    "type": "tmdb",
+    "title": "花仙子之魔法香对论",
+    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
+    "link": null,
+    "bgm_id": "449354",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282580",
+    "tmdb_site_id": "tv/282580",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"

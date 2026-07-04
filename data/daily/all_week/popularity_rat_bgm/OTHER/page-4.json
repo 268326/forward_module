@@ -30,21 +30,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "651872",
-    "type": "link",
-    "title": "パンの赤ちゃん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/bd/2d/651872_0FMCj.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/651872",
-    "bgm_id": "651872",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "574041",
     "type": "link",
     "title": "柯蒂斯总统",

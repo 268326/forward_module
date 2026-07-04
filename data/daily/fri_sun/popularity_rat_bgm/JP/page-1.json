@@ -1,20 +1,20 @@
 [
   {
-    "id": "312849",
+    "id": "325052",
     "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "正后方的神威",
+    "posterPath": "https://image.tmdb.org/t/p/w500/eB3kUvHD5WLzkEHJNM32v2O8PCY.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "「我，想要这个人。」\n\n人人向往的「完美千金」，此花雏子。身为日本第一财阀千金的她，突然指名偶然相遇的庶民男高中生──友成伊月，担任自己的专属「侍从」。\n\n雏子表面上看似品行端正，真面目却是连换衣服都无法独力完成、毫无生活能力的「懒散女孩」──\n\n被名门家族的种种束缚绑住，不得不扮演「完美千金」的雏子。一心想守护她、无微不至照顾着她的伊月。渐渐地，雏子也开始对他全力撒娇……\n\n与反差萌得惹人怜爱的千金小姐，一段跨越主仆界线、甜到不行的恋爱物语，即将揭开序幕。",
+    "description": "[星期五]",
     "link": null,
-    "bgm_id": "602733",
-    "bgm_score": 8.6,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
+    "bgm_id": "627136",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 61,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -32,11 +32,33 @@
     "description": "[星期日]",
     "link": null,
     "bgm_id": "615835",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 7,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312849",
+    "type": "tmdb",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/o6k2eVEowtfwTKnKvbKUn87LGzX.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "「我，想要这个人。」\n\n人人向往的「完美千金」，此花雏子。身为日本第一财阀千金的她，突然指名偶然相遇的庶民男高中生──友成伊月，担任自己的专属「侍从」。\n\n雏子表面上看似品行端正，真面目却是连换衣服都无法独力完成、毫无生活能力的「懒散女孩」──\n\n被名门家族的种种束缚绑住，不得不扮演「完美千金」的雏子。一心想守护她、无微不至照顾着她的伊月。渐渐地，雏子也开始对他全力撒娇……\n\n与反差萌得惹人怜爱的千金小姐，一段跨越主仆界线、甜到不行的恋爱物语，即将揭开序幕。",
+    "link": null,
+    "bgm_id": "602733",
+    "bgm_score": 8.6,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -81,6 +103,28 @@
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "327228",
+    "type": "tmdb",
+    "title": "パンの赤ちゃん",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gBNB83kkOlpoxy1gxUdUE9lpuny.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "651872",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "327228",
+    "tmdb_site_id": "tv/327228",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

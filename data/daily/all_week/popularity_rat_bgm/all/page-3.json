@@ -1,5 +1,50 @@
 [
   {
+    "id": "481295",
+    "type": "link",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "565701",
+    "type": "link",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/565701",
+    "bgm_id": "565701",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "529723",
+    "type": "link",
+    "title": "魔法光源股份有限公司 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/28/ae/529723_9qSo4.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/529723",
+    "bgm_id": "529723",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "326119",
     "type": "tmdb",
     "title": "雷霆三人行",
@@ -20,21 +65,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "638151",
-    "type": "link",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/0b/638151_4cZdo.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "8.3",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/638151",
-    "bgm_id": "638151",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 5
   },
   {
     "id": "300267",
@@ -161,21 +191,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "481295",
-    "type": "link",
-    "title": "X战警97 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/481295",
-    "bgm_id": "481295",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3
   },
   {
     "id": "298103",
@@ -330,24 +345,26 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "307585",
+    "id": "282580",
     "type": "tmdb",
-    "title": "我家的弟弟们真是让您费心了",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/fb/613438_pJVpS.jpg",
-    "releaseDate": "2026-07-03",
+    "title": "花仙子之魔法香对论",
+    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
+    "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "9.5",
-    "description": "[星期五]",
+    "rating": "0.0",
+    "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
     "link": null,
-    "bgm_id": "613438",
-    "bgm_score": 9.5,
+    "bgm_id": "449354",
+    "bgm_score": 6.5,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "307585",
-    "tmdb_site_id": "tv/307585",
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282580",
+    "tmdb_site_id": "tv/282580",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "285993",
@@ -372,7 +389,7 @@
   {
     "id": "302824",
     "type": "tmdb",
-    "title": "Let&#39;s Go 怪奇组",
+    "title": "Let's Go 怪奇组",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
@@ -423,27 +440,5 @@
     "bgm_score": 9.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "282580",
-    "type": "tmdb",
-    "title": "花仙子之魔法香对论",
-    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "《花仙子之魔法香对论》是由东映动画 ，腾讯视频出品，东映动画，娃娃鱼动画工作室制作的作品。",
-    "link": null,
-    "bgm_id": "449354",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282580",
-    "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

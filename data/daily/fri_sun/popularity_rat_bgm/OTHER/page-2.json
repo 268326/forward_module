@@ -22,7 +22,7 @@
   {
     "id": "302824",
     "type": "tmdb",
-    "title": "Let&#39;s Go 怪奇组",
+    "title": "Let's Go 怪奇组",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
@@ -38,6 +38,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "2.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 2.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
   },
   {
     "id": "631018",
@@ -110,21 +125,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/589368",
     "bgm_id": "589368",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "651872",
-    "type": "link",
-    "title": "パンの赤ちゃん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/bd/2d/651872_0FMCj.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/651872",
-    "bgm_id": "651872",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

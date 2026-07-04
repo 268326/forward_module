@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/637124",
     "bgm_id": "637124",
     "bgm_score": 5.9,
-    "bgm_rating_total": 14,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 3
   },
   {
@@ -26,28 +26,13 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14526,
+    "bgm_rating_total": 14528,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "517106",
-    "type": "link",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/00/517106_kDd70.jpg",
-    "releaseDate": "0000-00-00",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/517106",
-    "bgm_id": "517106",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 2
   },
   {
     "id": "542046",
