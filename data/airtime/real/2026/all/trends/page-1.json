@@ -1,12 +1,30 @@
 [
   {
+    "id": "308216",
+    "type": "tmdb",
+    "title": "提欧奥特曼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rPGJuw3wZ0xdlPGVWQZhcbWATbn.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "在宇宙某处存在着一颗名为“H12”的行星。这颗与地球极为相似的行星，曾遭到从外星来袭的宇宙怪兽的袭击。随着行星逐渐崩坏、走向灭亡，有一位宇宙人逃到了地球。这位名叫“提欧”的孤独宇宙人，以明心大学兽医学院学生光石息吹的身份生活，最终成长为“奥特曼”。",
+    "link": null,
+    "tmdb_id": "308216",
+    "tmdb_site_id": "tv/308216",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "276161",
     "type": "tmdb",
     "title": "铁拳教育",
     "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.5",
+    "rating": "9.4",
     "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
     "link": null,
     "tmdb_id": "276161",
@@ -16,6 +34,17 @@
       "KR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "494631",
+    "type": "link",
+    "title": "龙之家族 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/37/494631_Ys5dH.jpg",
+    "releaseDate": "2026-06-21",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年6月21日",
+    "link": "https://bgm.tv/subject/494631"
   },
   {
     "id": "220102",
@@ -36,24 +65,13 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "494631",
-    "type": "link",
-    "title": "龙之家族 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/68/37/494631_Ys5dH.jpg",
-    "releaseDate": "2026-06-21",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026年6月21日",
-    "link": "https://bgm.tv/subject/494631"
-  },
-  {
     "id": "549830",
     "type": "link",
     "title": "克拉克森的农场 第五季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
     "releaseDate": "2026-06-03",
     "mediaType": "real",
-    "rating": "8.4",
+    "rating": "8.3",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
   },
@@ -76,6 +94,36 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "253960",
+    "type": "tmdb",
+    "title": "气体人第一号",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jRINbGiI9wjM9gwxw4IT5G0ErlU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "本作是以1960年上映的东宝特摄电影『ガス人間第1号』《气体人第一号》（导演：本多猪四郎，编剧：木村武）为原作，由日韩的创作者以现代视角重新构建的完全原创故事重启作品。\n\n当一位嘉宾评论员在直播中肿胀爆炸时，这种前所未有、难以想象的犯罪令全世界陷入震惊。在这起可怕的谋杀背后，是一个似乎凭空消失的人：气体人。由于没有人能够掌握他的真实身份，这个未知者宣布将执行一系列针对性暗杀行动。他在每一次无法解释的攻击中逃避身份识别和抓捕，全国逐渐笼罩在恐慌之下。",
+    "link": null,
+    "tmdb_id": "253960",
+    "tmdb_site_id": "tv/253960",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "607932",
+    "type": "link",
+    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
+    "releaseDate": "2026-06-06",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2话 /  2026年6月6日",
+    "link": "https://bgm.tv/subject/607932"
+  },
+  {
     "id": "272432",
     "type": "tmdb",
     "title": "低智商犯罪",
@@ -92,17 +140,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "607932",
-    "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
   },
   {
     "id": "494608",
@@ -134,6 +171,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "631823",
+    "type": "link",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "real",
+    "rating": "7.9",
+    "description": "12话 /  2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
+  },
+  {
     "id": "654522",
     "type": "link",
     "title": "校园之外 第一季",
@@ -143,35 +191,6 @@
     "rating": "",
     "description": "8话 /  2026-05-13",
     "link": "https://bgm.tv/subject/654522"
-  },
-  {
-    "id": "308216",
-    "type": "tmdb",
-    "title": "提欧奥特曼",
-    "posterPath": "https://image.tmdb.org/t/p/w500/rPGJuw3wZ0xdlPGVWQZhcbWATbn.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "在宇宙某处存在着一颗名为“H12”的行星。这颗与地球极为相似的行星，曾遭到从外星来袭的宇宙怪兽的袭击。随着行星逐渐崩坏、走向灭亡，有一位宇宙人逃到了地球。这位名叫“提欧”的孤独宇宙人，以明心大学兽医学院学生光石息吹的身份生活，最终成长为“奥特曼”。",
-    "link": null,
-    "tmdb_id": "308216",
-    "tmdb_site_id": "tv/308216",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "507727",
-    "type": "link",
-    "title": "星球大战：曼达洛人与古古",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
-    "releaseDate": "2026-05-22",
-    "mediaType": "real",
-    "rating": "6.2",
-    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
-    "link": "https://bgm.tv/subject/507727"
   },
   {
     "id": "300529",
@@ -192,28 +211,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "631823",
-    "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "real",
-    "rating": "8.0",
-    "description": "12话 /  2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
-  },
-  {
-    "id": "641417",
-    "type": "link",
-    "title": "超新丁伙头兵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
-    "link": "https://bgm.tv/subject/641417"
-  },
-  {
     "id": "501703",
     "type": "link",
     "title": "超级少女",
@@ -223,6 +220,24 @@
     "rating": "4.1",
     "description": "1话 /  2026年6月26日 / Craig Gillespie / Ana Nogueira / Milly Alcock",
     "link": "https://bgm.tv/subject/501703"
+  },
+  {
+    "id": "278605",
+    "type": "tmdb",
+    "title": "南部档案",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
+    "link": null,
+    "tmdb_id": "278605",
+    "tmdb_site_id": "tv/278605",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "636399",
@@ -236,58 +251,26 @@
     "link": "https://bgm.tv/subject/636399"
   },
   {
-    "id": "303143",
-    "type": "tmdb",
-    "title": "我的王室死对头",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
+    "id": "507727",
+    "type": "link",
+    "title": "星球大战：曼达洛人与古古",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "real",
+    "rating": "6.2",
+    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
+    "link": "https://bgm.tv/subject/507727"
+  },
+  {
+    "id": "641417",
+    "type": "link",
+    "title": "超新丁伙头兵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.7",
-    "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
-    "link": null,
-    "tmdb_id": "303143",
-    "tmdb_site_id": "tv/303143",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "289147",
-    "type": "tmdb",
-    "title": "灵魂摆渡·十年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-    "releaseDate": "2026-06-02",
-    "mediaType": "tv",
-    "rating": "9.1",
-    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
-    "link": null,
-    "tmdb_id": "289147",
-    "tmdb_site_id": "tv/289147",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "224372",
-    "type": "tmdb",
-    "title": "七王国的骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
-    "releaseDate": "2026-01-18",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
-    "link": null,
-    "tmdb_id": "224372",
-    "tmdb_site_id": "tv/224372",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
+    "link": "https://bgm.tv/subject/641417"
   },
   {
     "id": "252107",
@@ -344,14 +327,25 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "533266",
+    "id": "559852",
     "type": "link",
-    "title": "宇宙巨人：希曼崛起",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f0/0f/533266_Ohrgs.jpg",
-    "releaseDate": "2026-06-05",
+    "title": "VIVANT続編",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7b/559852_SaFcU.jpg",
+    "releaseDate": "2026-07-01",
     "mediaType": "real",
-    "rating": "5.7",
-    "description": "2026年6月5日 / Travis Knight / Chris Butler、Aaron Nee、Adam Nee、David Callaham / Nicholas Galitzine",
-    "link": "https://bgm.tv/subject/533266"
+    "rating": "",
+    "description": "2026年7月 / 堺雅人",
+    "link": "https://bgm.tv/subject/559852"
+  },
+  {
+    "id": "658614",
+    "type": "link",
+    "title": "羊毛战记 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/b9/658614_o76iI.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "10话 /  2026-07-03 / Rebecca Ferguson",
+    "link": "https://bgm.tv/subject/658614"
   }
 ]

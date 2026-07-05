@@ -1,5 +1,16 @@
 [
   {
+    "id": "637146",
+    "type": "link",
+    "title": "BYE BYE LOVE 探偵はBARにいる",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/0c/637146_kTM9M.jpg",
+    "releaseDate": "2026-12-25",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋（TEAM NACS）、松田龍平",
+    "link": "https://bgm.tv/subject/637146"
+  },
+  {
     "id": "636116",
     "type": "link",
     "title": "B小町ライブツアー2026 –Beyond the Brilliance Virtual Live -",
@@ -72,7 +83,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
     "releaseDate": "2026-06-03",
     "mediaType": "real",
-    "rating": "8.4",
+    "rating": "8.3",
     "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
     "link": "https://bgm.tv/subject/549830"
   },
@@ -279,16 +290,5 @@
     "rating": "",
     "description": "3话 /  2026-08-06",
     "link": "https://bgm.tv/subject/662670"
-  },
-  {
-    "id": "494701",
-    "type": "link",
-    "title": "沙丘：第三部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/494701_wQ9F9.jpg",
-    "releaseDate": "2026-12-18",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月18日 / Denis Villeneuve / Denis Villeneuve、Brian K. Vaughan / Timothée Chalamet、Zendaya",
-    "link": "https://bgm.tv/subject/494701"
   }
 ]

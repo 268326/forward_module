@@ -11,13 +11,24 @@
     "link": "https://bgm.tv/subject/600013"
   },
   {
+    "id": "615068",
+    "type": "link",
+    "title": "<센과 치히로의 행방불명> 오리지널 투어",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cd/f3/615068_e4398.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-01-07 / 上白石萌音、川栄李奈、醍醐虎汰朗、増子敦貴、阿久津仁愛",
+    "link": "https://bgm.tv/subject/615068"
+  },
+  {
     "id": "319617",
     "type": "tmdb",
     "title": "100天后分手的我和他",
     "posterPath": "https://image.tmdb.org/t/p/w500/kh27IA3R2sJQMzCi15PqfOXvZXU.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "7.3",
     "description": "春日佑马与长谷川树在社群爆红，被视为理想的同性情侣。为了让更多人理解同志伴侣的生活，佑马答应接受纪录片拍摄，然而，在开拍前，他们其实已经分手。为了完成拍摄，佑马说服树继续扮演恩爱恋人，镜头捕捉到的，是真正的幸福？或是精心编排的谎言？一个想成为完美伴侣的人，另一个被理想关系压得喘不过气的人，再加上浑然未知真相的导演，这100天的纪录片，究竟是分手的倒数计时？还是重新开始的起点？他们能诚实面对彼此真正的心？",
     "link": null,
     "tmdb_id": "319617",
@@ -264,7 +275,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
     "releaseDate": "2026-01-18",
     "mediaType": "tv",
-    "rating": "8.5",
+    "rating": "8.4",
     "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
     "link": null,
     "tmdb_id": "224372",
@@ -314,23 +325,5 @@
     "rating": "",
     "description": "2话 /  2026年7月4日",
     "link": "https://bgm.tv/subject/615700"
-  },
-  {
-    "id": "250505",
-    "type": "tmdb",
-    "title": "阿加莎·克里斯蒂之七面钟",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nrmJhb5wB5cDTOWebIzyXqfiGMc.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "1925年，英格兰一座乡间大宅铺张设宴，席间一个恶作剧出了差错，竟闹出人命。绰号“邦德尔”的艾琳·布伦特着手探查真相，她外表不像侦探，但生性活泼好奇，究竟命案背后的可怕阴谋会如何改变她的人生？乡间大宅里又暗藏什么秘密？",
-    "link": null,
-    "tmdb_id": "250505",
-    "tmdb_site_id": "tv/250505",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

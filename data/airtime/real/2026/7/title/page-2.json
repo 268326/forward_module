@@ -1,5 +1,23 @@
 [
   {
+    "id": "250505",
+    "type": "tmdb",
+    "title": "阿加莎·克里斯蒂之七面钟",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nrmJhb5wB5cDTOWebIzyXqfiGMc.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "1925年，英格兰一座乡间大宅铺张设宴，席间一个恶作剧出了差错，竟闹出人命。绰号“邦德尔”的艾琳·布伦特着手探查真相，她外表不像侦探，但生性活泼好奇，究竟命案背后的可怕阴谋会如何改变她的人生？乡间大宅里又暗藏什么秘密？",
+    "link": null,
+    "tmdb_id": "250505",
+    "tmdb_site_id": "tv/250505",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "596942",
     "type": "link",
     "title": "AIKATSU! × PRIPARA THE LIVE -Miraculous Stage!-",
@@ -286,16 +304,5 @@
     "rating": "",
     "description": "8话 /  2026年1月29日",
     "link": "https://bgm.tv/subject/627635"
-  },
-  {
-    "id": "637146",
-    "type": "link",
-    "title": "BYE BYE LOVE 探偵はBARにいる",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b0/0c/637146_kTM9M.jpg",
-    "releaseDate": "2026-12-25",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年12月25日 / 白石和彌 / 古沢良太、須藤泰司 / 大泉洋（TEAM NACS）、松田龍平",
-    "link": "https://bgm.tv/subject/637146"
   }
 ]

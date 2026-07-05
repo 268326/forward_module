@@ -28,7 +28,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/iCSojpvw1i8gLa3f18bonavB4aJ.jpg",
     "releaseDate": "2026-01-18",
     "mediaType": "tv",
-    "rating": "8.5",
+    "rating": "8.4",
     "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
     "link": null,
     "tmdb_id": "224372",
@@ -84,24 +84,6 @@
     "link": "https://bgm.tv/subject/541822"
   },
   {
-    "id": "300529",
-    "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
-    "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "272432",
     "type": "tmdb",
     "title": "低智商犯罪",
@@ -116,6 +98,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "300529",
+    "type": "tmdb",
+    "title": "地狱占星师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "link": null,
+    "tmdb_id": "300529",
+    "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -144,7 +144,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.5",
+    "rating": "9.4",
     "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
     "link": null,
     "tmdb_id": "276161",
@@ -196,6 +196,24 @@
     "link": "https://bgm.tv/subject/623261"
   },
   {
+    "id": "308216",
+    "type": "tmdb",
+    "title": "提欧奥特曼",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rPGJuw3wZ0xdlPGVWQZhcbWATbn.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "在宇宙某处存在着一颗名为“H12”的行星。这颗与地球极为相似的行星，曾遭到从外星来袭的宇宙怪兽的袭击。随着行星逐渐崩坏、走向灭亡，有一位宇宙人逃到了地球。这位名叫“提欧”的孤独宇宙人，以明心大学兽医学院学生光石息吹的身份生活，最终成长为“奥特曼”。",
+    "link": null,
+    "tmdb_id": "308216",
+    "tmdb_site_id": "tv/308216",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "478191",
     "type": "link",
     "title": "真人快打2",
@@ -221,24 +239,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "317001",
-    "type": "tmdb",
-    "title": "满级老祖被虐后全皇室求我回归",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
-    "releaseDate": "2026-05-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
-    "link": null,
-    "tmdb_id": "317001",
-    "tmdb_site_id": "tv/317001",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -294,6 +294,24 @@
     "link": "https://bgm.tv/subject/480966"
   },
   {
+    "id": "317001",
+    "type": "tmdb",
+    "title": "满级老祖被虐后全皇室求我回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6vGi6SA9RAMn64ZvTIJbe4zuGd3.jpg",
+    "releaseDate": "2026-05-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "狐仙黎九歌为报皇恩，断尾九次镇守大玄国运五百年。最后一次祈福前夕，她暂失法力，遭锦妃当街凌辱、毁坏令牌，致天地异变。皇室纵容加害，令其心寒，但她仍为苍生暂代万民之苦。恢复法力后，她显仙威平乱惩奸，并赏识愿承百姓之苦的镇南王顾翎晨。助其登基重塑国运后，黎九歌飘然离去，重归仙班。",
+    "link": null,
+    "tmdb_id": "317001",
+    "tmdb_site_id": "tv/317001",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "613881",
     "type": "link",
     "title": "假面骑士Eins with GirlsRemix",
@@ -314,16 +332,5 @@
     "rating": "5.2",
     "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
     "link": "https://bgm.tv/subject/494608"
-  },
-  {
-    "id": "405591",
-    "type": "link",
-    "title": "重返寂静岭",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/25/405591_87oB1.jpg",
-    "releaseDate": "2026-01-23",
-    "mediaType": "real",
-    "rating": "2.9",
-    "description": "1话 /  2026年1月23日 / Christophe Gans / Christophe Gans、Sandra Vo-Anh、Will Schneider / Jeremy Irvine、Hannah Emily Anderson",
-    "link": "https://bgm.tv/subject/405591"
   }
 ]
