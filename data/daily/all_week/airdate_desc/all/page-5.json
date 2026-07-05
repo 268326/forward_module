@@ -1,5 +1,25 @@
 [
   {
+    "id": "30983",
+    "type": "tmdb",
+    "title": "名侦探柯南",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/88/899_REwVW.jpg",
+    "releaseDate": "1996-01-08",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "899",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 11421,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "30983",
+    "tmdb_site_id": "tv/30983",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "542046",
     "type": "link",
     "title": "完美世界剧场版 九劫焚天",
