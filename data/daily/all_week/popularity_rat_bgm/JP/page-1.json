@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "627136",
     "bgm_score": 5.8,
-    "bgm_rating_total": 273,
+    "bgm_rating_total": 308,
     "bgm_weekday_id": 5,
     "tmdb_id": "325052",
     "tmdb_site_id": "tv/325052",
@@ -32,33 +32,11 @@
     "description": "炒炒炒！炒得热气冲天、香味四溢！！一个是中国菜得霸王，一个是中国菜得帝王，两位顶尖厨师得竞争，延续到了下一代。霸王得传人—秋山酱，认为料理得好坯在于『胜负』；帝王得传人—五番町雾子，认为『心』才是料理好坯得关键，孰对孰错，就由锅里见真章！！",
     "link": null,
     "bgm_id": "615835",
-    "bgm_score": 6.9,
-    "bgm_rating_total": 102,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 154,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "314554",
-    "type": "tmdb",
-    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
-    "link": null,
-    "bgm_id": "630163",
-    "bgm_score": 5.1,
-    "bgm_rating_total": 86,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "314554",
-    "tmdb_site_id": "tv/314554",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -77,10 +55,32 @@
     "link": null,
     "bgm_id": "602733",
     "bgm_score": 6.2,
-    "bgm_rating_total": 81,
+    "bgm_rating_total": 96,
     "bgm_weekday_id": 6,
     "tmdb_id": "312849",
     "tmdb_site_id": "tv/312849",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314554",
+    "type": "tmdb",
+    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
+    "link": null,
+    "bgm_id": "630163",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 94,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "314554",
+    "tmdb_site_id": "tv/314554",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -99,32 +99,10 @@
     "link": null,
     "bgm_id": "638151",
     "bgm_score": 5.9,
-    "bgm_rating_total": 71,
+    "bgm_rating_total": 75,
     "bgm_weekday_id": 5,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "324335",
-    "type": "tmdb",
-    "title": "岩元前辈的推荐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kkK5nwGKtsFj4r6GnH1meNi6V0G.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "1910年代，由大日本帝国陆军设立的学校——陆军栖凤中学。这是一个为获取可用于军事的超常力量而收集、研究超自然现象的特殊机构。栖凤中学三年级学生岩元胡堂奉军部指令，奔赴全国各地进行调查。然而他所到之处，总会出现拥有特殊能力的“能力者”……！等待着岩元的各种怪奇事件与“能力者”们。向这些“能力者”递出前往学园的“推荐信”的岩元，其真正的意图究竟是……？怪奇与超自然现象，以及“能力者”的存在——揭开他们时代帷幕的浪漫奇谭，就此开幕！",
-    "link": null,
-    "bgm_id": "621843",
-    "bgm_score": 3.1,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "324335",
-    "tmdb_site_id": "tv/324335",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -143,10 +121,32 @@
     "link": null,
     "bgm_id": "456080",
     "bgm_score": 4.6,
-    "bgm_rating_total": 17,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 1,
     "tmdb_id": "250008",
     "tmdb_site_id": "tv/250008",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "324335",
+    "type": "tmdb",
+    "title": "岩元前辈的推荐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kkK5nwGKtsFj4r6GnH1meNi6V0G.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "1910年代，由大日本帝国陆军设立的学校——陆军栖凤中学。这是一个为获取可用于军事的超常力量而收集、研究超自然现象的特殊机构。栖凤中学三年级学生岩元胡堂奉军部指令，奔赴全国各地进行调查。然而他所到之处，总会出现拥有特殊能力的“能力者”……！等待着岩元的各种怪奇事件与“能力者”们。向这些“能力者”递出前往学园的“推荐信”的岩元，其真正的意图究竟是……？怪奇与超自然现象，以及“能力者”的存在——揭开他们时代帷幕的浪漫奇谭，就此开幕！",
+    "link": null,
+    "bgm_id": "621843",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 21,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "324335",
+    "tmdb_site_id": "tv/324335",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -165,10 +165,32 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.6,
-    "bgm_rating_total": 17,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "284581",
+    "type": "tmdb",
+    "title": "最强出涸皇子的暗跃帝位争夺 虽然对帝位没兴趣，但我不想死所以让我弟当皇帝吧",
+    "posterPath": "https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "无能萎靡的皇子艾诺特声望低落。\n\n　　他生活浪荡，还被帝国上下看扁成「优点都被杰出的双胞胎弟弟吸收殆尽的『废渣皇子』」。\n\n　　然而，面临皇子间的帝位之争越趋激烈的危机，艾诺特终于决心拿出真本事。\n\n　　「我没有打算成为皇帝，但是要我被斗垮而死于非命嘛，想都别想。」\n\n　　深藏已久的稀世才智发挥出谋略与谈判术，再加上「操控古代禁忌魔法之顶尖SS级冒险者」的真正实力及其地位──\n\n　　掩饰真身于暗中活跃的废渣皇子将运用一切，并带着肯为他奉献的举国第一美姬，从幕后支配这场帝位之争！",
+    "link": null,
+    "bgm_id": "456081",
+    "bgm_score": 4.1,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "284581",
+    "tmdb_site_id": "tv/284581",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -187,7 +209,7 @@
     "link": null,
     "bgm_id": "584641",
     "bgm_score": 6.6,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 2,
     "tmdb_id": "302519",
     "tmdb_site_id": "tv/302519",
@@ -257,28 +279,6 @@
     "bgm_weekday_id": 3,
     "tmdb_id": "326119",
     "tmdb_site_id": "tv/326119",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "284581",
-    "type": "tmdb",
-    "title": "最强出涸皇子的暗跃帝位争夺 虽然对帝位没兴趣，但我不想死所以让我弟当皇帝吧",
-    "posterPath": "https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "无能萎靡的皇子艾诺特声望低落。\n\n　　他生活浪荡，还被帝国上下看扁成「优点都被杰出的双胞胎弟弟吸收殆尽的『废渣皇子』」。\n\n　　然而，面临皇子间的帝位之争越趋激烈的危机，艾诺特终于决心拿出真本事。\n\n　　「我没有打算成为皇帝，但是要我被斗垮而死于非命嘛，想都别想。」\n\n　　深藏已久的稀世才智发挥出谋略与谈判术，再加上「操控古代禁忌魔法之顶尖SS级冒险者」的真正实力及其地位──\n\n　　掩饰真身于暗中活跃的废渣皇子将运用一切，并带着肯为他奉献的举国第一美姬，从幕后支配这场帝位之争！",
-    "link": null,
-    "bgm_id": "456081",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "284581",
-    "tmdb_site_id": "tv/284581",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
