@@ -1,5 +1,20 @@
 [
   {
+    "id": "481295",
+    "type": "link",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "565701",
     "type": "link",
     "title": "乡下大叔成为剑圣 第二季",
@@ -13,26 +28,6 @@
     "bgm_score": 6.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "314054",
-    "type": "tmdb",
-    "title": "天是红河岸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "[星期二]",
-    "link": null,
-    "bgm_id": "627648",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "314054",
-    "tmdb_site_id": "tv/314054",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "298831",

@@ -52,6 +52,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "295840",
     "type": "tmdb",
     "title": "斗球儿弹子",
@@ -115,21 +130,6 @@
     "bgm_score": 9.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
   },
   {
     "id": "662006",
