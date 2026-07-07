@@ -97,6 +97,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "658254",
+    "type": "link",
+    "title": "ようじょしぇんき2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/658254",
+    "bgm_id": "658254",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "501732",
     "type": "link",
     "title": "蝙蝠侠：披风战士 第二季",
@@ -234,21 +249,6 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/630164",
     "bgm_id": "630164",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "ようじょしぇんき2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/658254",
-    "bgm_id": "658254",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
