@@ -1,5 +1,21 @@
 [
   {
+    "id": "284447",
+    "type": "tmdb",
+    "title": "弱弱老师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
+    "link": null,
+    "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -16,6 +32,60 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "298103",
+    "type": "tmdb",
+    "title": "不虐待我的继母与继姐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1i67CAfM8JsUvVOA6K6OC05L7X0.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
+    "link": null,
+    "tmdb_id": "298103",
+    "tmdb_site_id": "tv/298103",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "302519",
+    "type": "tmdb",
+    "title": "奇招百出的维多利亚",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月7日 / 木村延景 / 守雨（MFブックス／KADOKAWA刊） / 大沢美奈",
+    "link": null,
+    "tmdb_id": "302519",
+    "tmdb_site_id": "tv/302519",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "98865",
+    "type": "tmdb",
+    "title": "梅比乌斯之尘",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年7月9日 / 岩崎太郎",
+    "link": null,
+    "tmdb_id": "98865",
+    "tmdb_site_id": "tv/98865",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "105248",
     "type": "tmdb",
     "title": "赛博浪客",
@@ -27,22 +97,6 @@
     "link": null,
     "tmdb_id": "105248",
     "tmdb_site_id": "tv/105248",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "300267",
-    "type": "tmdb",
-    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "12话 /  2026年7月5日 / 柳瀬雄之 / とーわ / 柳元絵梨子",
-    "link": null,
-    "tmdb_id": "300267",
-    "tmdb_site_id": "tv/300267",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -80,53 +134,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298103",
-    "type": "tmdb",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1i67CAfM8JsUvVOA6K6OC05L7X0.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
-    "link": null,
-    "tmdb_id": "298103",
-    "tmdb_site_id": "tv/298103",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "98865",
-    "type": "tmdb",
-    "title": "梅比乌斯之尘",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月9日 / 岩崎太郎",
-    "link": null,
-    "tmdb_id": "98865",
-    "tmdb_site_id": "tv/98865",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "353181",
-    "type": "link",
-    "title": "佐贺偶像是传奇 梦想银河乐园",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
-    "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
-  },
-  {
     "id": "309163",
     "type": "tmdb",
     "title": "没有辣妹会对阿宅温柔!?",
@@ -143,22 +150,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "302519",
-    "type": "tmdb",
-    "title": "奇招百出的维多利亚",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aJcMTjkB9HVo5wMhPLOzD2xIevS.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年7月7日 / 木村延景 / 守雨（MFブックス／KADOKAWA刊） / 大沢美奈",
-    "link": null,
-    "tmdb_id": "302519",
-    "tmdb_site_id": "tv/302519",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "353181",
+    "type": "link",
+    "title": "佐贺偶像是传奇 梦想银河乐园",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
+    "releaseDate": "2025-10-24",
+    "mediaType": "anime",
+    "rating": "7.9",
+    "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
+    "link": "https://bgm.tv/subject/353181"
   },
   {
     "id": "253476",
@@ -172,6 +172,38 @@
     "link": null,
     "tmdb_id": "253476",
     "tmdb_site_id": "tv/253476",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "307585",
+    "type": "tmdb",
+    "title": "我家的弟弟们真是让您费心了",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
+    "link": null,
+    "tmdb_id": "307585",
+    "tmdb_site_id": "tv/307585",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298831",
+    "type": "tmdb",
+    "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e2/dd/579246_61291.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "4.6",
+    "description": "2026年7月6日 / 葛谷直行 / はぐれメタボ（HJノベルス／ホビージャパン）；漫画：おおのいも（HJコミックス／コミックファイア連載） / 姉崎早也花",
+    "link": null,
+    "tmdb_id": "298831",
+    "tmdb_site_id": "tv/298831",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -225,99 +257,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "307585",
-    "type": "tmdb",
-    "title": "我家的弟弟们真是让您费心了",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/fb/613438_pJVpS.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "24话 /  2026年7月3日 / 難波日登志 / オザキアキラ（集英社「別冊マーガレット」連載） / 平岩栞、福島陽子",
-    "link": null,
-    "tmdb_id": "307585",
-    "tmdb_site_id": "tv/307585",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
-  },
-  {
-    "id": "315816",
-    "type": "tmdb",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
-    "link": null,
-    "tmdb_id": "315816",
-    "tmdb_site_id": "tv/315816",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "95479",
-    "type": "tmdb",
-    "title": "咒术回战 死灭回游 前篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg",
-    "releaseDate": "2026-01-08",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
-    "link": null,
-    "tmdb_id": "95479",
-    "tmdb_site_id": "tv/95479",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "65942",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第二季 后半部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/64/316247_Yd3F5.jpg",
-    "releaseDate": "2021-01-06",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2021年1月6日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
-    "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "295751",
-    "type": "tmdb",
-    "title": "一叠间漫画咖啡屋生活！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
-    "link": null,
-    "tmdb_id": "295751",
-    "tmdb_site_id": "tv/295751",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "94664",
     "type": "tmdb",
     "title": "无职转生～到了异世界就拿出真本事～",
@@ -352,6 +291,83 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
+  },
+  {
+    "id": "315816",
+    "type": "tmdb",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "link": null,
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第二季 后半部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/aa/64/316247_Yd3F5.jpg",
+    "releaseDate": "2021-01-06",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "12话 /  2021年1月6日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "295751",
+    "type": "tmdb",
+    "title": "一叠间漫画咖啡屋生活！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/d6/569161_MtUOQ.jpg",
+    "releaseDate": "2026-04-11",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "11话 /  2026年4月11日 / 渡部穏寛 / ひさまくまこ（芳文社「まんがタイムきらら」） / 上原史也",
+    "link": null,
+    "tmdb_id": "295751",
+    "tmdb_site_id": "tv/295751",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "95479",
+    "type": "tmdb",
+    "title": "咒术回战 死灭回游 前篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg",
+    "releaseDate": "2026-01-08",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
+    "link": null,
+    "tmdb_id": "95479",
+    "tmdb_site_id": "tv/95479",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "69346",
     "type": "tmdb",
     "title": "幼女战记",
@@ -364,22 +380,6 @@
     "tmdb_id": "69346",
     "tmdb_site_id": "tv/69346",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94404",
-    "type": "tmdb",
-    "title": "异兽魔都 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/46/1d/474371_147kq.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "11话 /  2026年4月1日 / 林祐一郎 / 林田球（小学館「ゲッサン」刊） / 岸友洋",
-    "link": null,
-    "tmdb_id": "94404",
-    "tmdb_site_id": "tv/94404/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

@@ -98,7 +98,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.1,
-    "bgm_rating_total": 503,
+    "bgm_rating_total": 563,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -118,7 +118,7 @@
     "link": "http://bgm.tv/subject/454083",
     "bgm_id": "454083",
     "bgm_score": 6.6,
-    "bgm_rating_total": 48,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 7
   },
   {
@@ -133,7 +133,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.1,
-    "bgm_rating_total": 337,
+    "bgm_rating_total": 382,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -148,12 +148,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/dd/577191_c7zCc.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 100,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 120,
     "bgm_weekday_id": 7
   },
   {
@@ -168,7 +168,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 5.3,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -188,7 +188,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.6,
-    "bgm_rating_total": 24,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -203,12 +203,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/96/f8/598058_1RcCL.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 271,
+    "bgm_score": 7.5,
+    "bgm_rating_total": 311,
     "bgm_weekday_id": 7
   },
   {
@@ -223,7 +223,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.8,
-    "bgm_rating_total": 154,
+    "bgm_rating_total": 170,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -275,7 +275,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 326,
+    "bgm_rating_total": 364,
     "bgm_weekday_id": 7
   },
   {
@@ -305,7 +305,7 @@
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
     "bgm_score": 8.0,
-    "bgm_rating_total": 1373,
+    "bgm_rating_total": 1437,
     "bgm_weekday_id": 7
   }
 ]

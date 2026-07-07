@@ -1,14 +1,19 @@
 [
   {
-    "id": "510710",
-    "type": "link",
-    "title": "欢迎来到实力至上主义的教室 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
-    "link": "https://bgm.tv/subject/510710"
+    "id": "296437",
+    "type": "tmdb",
+    "title": "从0位居民开始的边境领主大人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_yITHq.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
+    "link": null,
+    "tmdb_id": "296437",
+    "tmdb_site_id": "tv/296437",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "260463",
@@ -25,6 +30,28 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "510710",
+    "type": "link",
+    "title": "欢迎来到实力至上主义的教室 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/46/510710_rHO8M.jpg",
+    "releaseDate": "2026-04-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "16话 /  2026年4月1日 / 野亦則行 / 衣笠彰梧（MF文庫J「ようこそ実力至上主義の教室へ」/KADOKAWA刊） / 河野真貴",
+    "link": "https://bgm.tv/subject/510710"
+  },
+  {
+    "id": "530725",
+    "type": "link",
+    "title": "死神 千年血战篇-祸进谭-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "8.6",
+    "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+    "link": "https://bgm.tv/subject/530725"
   },
   {
     "id": "285818",
@@ -59,33 +86,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_yITHq.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": null,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "530725",
-    "type": "link",
-    "title": "死神 千年血战篇-祸进谭-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "8.6",
-    "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
-    "link": "https://bgm.tv/subject/530725"
-  },
-  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -100,6 +100,62 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "454083",
+    "type": "link",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
+    "link": "https://bgm.tv/subject/454083"
+  },
+  {
+    "id": "529723",
+    "type": "link",
+    "title": "魔法光源股份有限公司 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/ae/529723_9qSo4.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "2026年7月4日 / 福島利規 / 岩田雪花・青木裕（集英社「少年ジャンプ＋」連載） / 藤井昌宏",
+    "link": "https://bgm.tv/subject/529723"
+  },
+  {
+    "id": "312266",
+    "type": "tmdb",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "link": null,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "326119",
+    "type": "tmdb",
+    "title": "雷霆三人行",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
+    "link": null,
+    "tmdb_id": "326119",
+    "tmdb_site_id": "tv/326119",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "209867",
@@ -134,22 +190,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "290019",
-    "type": "tmdb",
-    "title": "和班上第二可爱的女孩成为朋友",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
-    "link": null,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "312474",
     "type": "tmdb",
     "title": "日本三国",
@@ -166,40 +206,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326119",
-    "type": "tmdb",
-    "title": "雷霆三人行",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oWgzYbhhsU3Hepem2sjBtJof27B.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "平凡无奇的中学生平太郎、燕和广志在平太郎的妹妹失踪后踏上了一段非同寻常的冒险之旅。",
-    "link": null,
-    "tmdb_id": "326119",
-    "tmdb_site_id": "tv/326119",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "312266",
-    "type": "tmdb",
-    "title": "花织即使是转生也想打架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
-    "link": null,
-    "tmdb_id": "312266",
-    "tmdb_site_id": "tv/312266",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "508004",
     "type": "link",
     "title": "石纪元 科学与未来 第3部分",
@@ -209,6 +215,38 @@
     "rating": "7.2",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": "https://bgm.tv/subject/508004"
+  },
+  {
+    "id": "290019",
+    "type": "tmdb",
+    "title": "和班上第二可爱的女孩成为朋友",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
+    "link": null,
+    "tmdb_id": "290019",
+    "tmdb_site_id": "tv/290019",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "300267",
+    "type": "tmdb",
+    "title": "世界最强的后卫 ～迷宫国的新人探索者～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/58/583862_6YGGE.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "12话 /  2026年7月5日 / 柳瀬雄之 / とーわ / 柳元絵梨子",
+    "link": null,
+    "tmdb_id": "300267",
+    "tmdb_site_id": "tv/300267",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -227,15 +265,42 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "529723",
-    "type": "link",
-    "title": "魔法光源股份有限公司 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/ae/529723_9qSo4.jpg",
+    "id": "285993",
+    "type": "tmdb",
+    "title": "暗黑灯火",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg",
     "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "2026年7月4日 / 馬引圭 / タカキツヨシ（集英社刊） / 鈴木豪",
+    "link": null,
+    "tmdb_id": "285993",
+    "tmdb_site_id": "tv/285993",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "565701",
+    "type": "link",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "6.4",
-    "description": "2026年7月4日 / 福島利規 / 岩田雪花・青木裕（集英社「少年ジャンプ＋」連載） / 藤井昌宏",
-    "link": "https://bgm.tv/subject/529723"
+    "rating": "",
+    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "link": "https://bgm.tv/subject/565701"
+  },
+  {
+    "id": "412144",
+    "type": "link",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年7月8日 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊）",
+    "link": "https://bgm.tv/subject/412144"
   },
   {
     "id": "305329",
@@ -270,28 +335,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "412144",
-    "type": "link",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊）",
-    "link": "https://bgm.tv/subject/412144"
-  },
-  {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": "https://bgm.tv/subject/565701"
-  },
-  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第三季 反击篇",
@@ -306,48 +349,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "285993",
-    "type": "tmdb",
-    "title": "暗黑灯火",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2026年7月4日 / 馬引圭 / タカキツヨシ（集英社刊） / 鈴木豪",
-    "link": null,
-    "tmdb_id": "285993",
-    "tmdb_site_id": "tv/285993",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284447",
-    "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
-    "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "454083",
-    "type": "link",
-    "title": "碧蓝航线：微速前行！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
-    "link": "https://bgm.tv/subject/454083"
   }
 ]
