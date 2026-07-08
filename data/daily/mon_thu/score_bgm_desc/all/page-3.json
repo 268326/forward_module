@@ -30,6 +30,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "592111",
+    "type": "link",
+    "title": "东大高武学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8a/19/592111_Xv8VC.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/592111",
+    "bgm_id": "592111",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "663982",
     "type": "link",
     "title": "精灵梦叶罗丽 第十一季 下",

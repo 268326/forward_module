@@ -1,5 +1,25 @@
 [
   {
+    "id": "314054",
+    "type": "tmdb",
+    "title": "天是红河岸",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "627648",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "314054",
+    "tmdb_site_id": "tv/314054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "412144",
     "type": "link",
     "title": "恋爱游戏世界对路人角色很不友好 第二季",
@@ -13,26 +33,6 @@
     "bgm_score": 6.8,
     "bgm_rating_total": 10,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "314054",
-    "type": "tmdb",
-    "title": "天是红河岸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "[星期二]",
-    "link": null,
-    "bgm_id": "627648",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "314054",
-    "tmdb_site_id": "tv/314054",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "481295",
@@ -65,6 +65,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "612697",
+    "type": "link",
+    "title": "铠真传 武士军团 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_B5f6f.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/612697",
+    "bgm_id": "612697",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "637339",
     "type": "link",
     "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
@@ -78,21 +93,6 @@
     "bgm_score": 6.7,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "612697",
-    "type": "link",
-    "title": "铠真传 武士军团 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_B5f6f.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "anime",
-    "rating": "9.5",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/612697",
-    "bgm_id": "612697",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 2
   },
   {
     "id": "500458",
@@ -123,21 +123,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "638995",
-    "type": "link",
-    "title": "拯救替身千金的是冷酷无情冰之王子的爱",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/96/aa/638995_mM0aJ.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/638995",
-    "bgm_id": "638995",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
   },
   {
     "id": "658254",
@@ -240,6 +225,21 @@
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/574794",
     "bgm_id": "574794",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "592111",
+    "type": "link",
+    "title": "东大高武学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8a/19/592111_Xv8VC.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/592111",
+    "bgm_id": "592111",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4

@@ -1,17 +1,32 @@
 [
   {
+    "id": "619052",
+    "type": "link",
+    "title": "あはれ！名作くん 完全新作",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/dd/82/619052_B0qAA.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/619052",
+    "bgm_id": "619052",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "633354",
     "type": "link",
     "title": "同一个研讨会的染谷同学是AV女优的事",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "5.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 7
   },
   {
@@ -41,7 +56,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 419,
+    "bgm_rating_total": 442,
     "bgm_weekday_id": 7
   },
   {
