@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.5,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 6
   },
   {
@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.7,
-    "bgm_rating_total": 71,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 6
   },
   {
@@ -86,7 +86,7 @@
     "link": "http://bgm.tv/subject/517106",
     "bgm_id": "517106",
     "bgm_score": 6.1,
-    "bgm_rating_total": 18,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 5
   },
   {
@@ -186,28 +186,13 @@
     "link": null,
     "bgm_id": "571895",
     "bgm_score": 5.8,
-    "bgm_rating_total": 81,
+    "bgm_rating_total": 84,
     "bgm_weekday_id": 5,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "624691",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6c/5c/624691_3u3s8.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/624691",
-    "bgm_id": "624691",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
   },
   {
     "id": "664856",
@@ -231,12 +216,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ce/3a/255209_9w0tU.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.1",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "255209",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 672,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 725,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -256,7 +241,7 @@
     "link": "http://bgm.tv/subject/454083",
     "bgm_id": "454083",
     "bgm_score": 6.6,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 7
   },
   {
@@ -271,7 +256,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.2,
-    "bgm_rating_total": 472,
+    "bgm_rating_total": 504,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -283,7 +268,7 @@
     "id": "577191",
     "type": "link",
     "title": "航海王 女英雄们的故事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/dd/577191_c7zCc.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/dd/577191_5RoIl.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
     "rating": "6.6",
@@ -291,7 +276,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.6,
-    "bgm_rating_total": 168,
+    "bgm_rating_total": 185,
     "bgm_weekday_id": 7
   },
   {
@@ -321,12 +306,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "5.7",
+    "rating": "5.8",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "595106",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 33,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 35,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -346,7 +331,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 381,
+    "bgm_rating_total": 407,
     "bgm_weekday_id": 7
   },
   {
@@ -391,7 +376,22 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 442,
+    "bgm_rating_total": 468,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "659686",
+    "type": "link",
+    "title": "トミカとトム シーズン2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/659686",
+    "bgm_id": "659686",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 7
   }
 ]

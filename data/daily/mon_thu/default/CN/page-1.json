@@ -10,8 +10,8 @@
     "description": "小饭店老板明被命运逼入绝境，为救挚爱同时为亲友复仇，他吞下真烈王灵魂与之共生，踏上了反抗假烈王之路。在百日之内，他与真烈王一起一路对抗财阀与贪官，凭借超强记忆习得失传魔法，逐步积累力量、伙伴与民心。誓要率领不断壮大的队伍推翻暴政，帮助真烈王夺回王位，完成复仇、救回爱人，还天下安宁。",
     "link": null,
     "bgm_id": "607929",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 7,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 2,
     "tmdb_id": "326844",
     "tmdb_site_id": "tv/326844",
@@ -37,6 +37,28 @@
     "bgm_weekday_id": 4,
     "tmdb_id": "282580",
     "tmdb_site_id": "tv/282580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323839",
+    "type": "tmdb",
+    "title": "东大高武学院",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nQIYptZQP4bHb0S40cgqUhQtxGK.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
+    "link": null,
+    "bgm_id": "592111",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "323839",
+    "tmdb_site_id": "tv/323839",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"

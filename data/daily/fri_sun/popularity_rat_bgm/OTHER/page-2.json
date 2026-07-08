@@ -41,11 +41,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "4.3",
+    "rating": "4.0",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/665747",
     "bgm_id": "665747",
-    "bgm_score": 4.3,
+    "bgm_score": 4.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 6
   },
@@ -123,21 +123,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "624691",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6c/5c/624691_3u3s8.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/624691",
-    "bgm_id": "624691",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
   },
   {
     "id": "589368",
