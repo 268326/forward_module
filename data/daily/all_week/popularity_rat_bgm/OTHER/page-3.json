@@ -1,5 +1,25 @@
 [
   {
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "545008",
+    "bgm_score": 7.6,
+    "bgm_rating_total": 23,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "637124",
     "type": "link",
     "title": "花样少年少女 第二季",
@@ -15,26 +35,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "295840",
-    "type": "tmdb",
-    "title": "斗球女弹子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5a/fe/569671_0HZvf.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "[星期一]",
-    "link": null,
-    "bgm_id": "569671",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 21,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "295840",
-    "tmdb_site_id": "tv/295840",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "517106",
     "type": "link",
     "title": "擅长逃跑的殿下 第二季",
@@ -48,6 +48,21 @@
     "bgm_score": 6.1,
     "bgm_rating_total": 19,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.9",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 7
   },
   {
     "id": "312266",
@@ -70,21 +85,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "612697",
     "type": "link",
     "title": "铠真传 武士军团 第2部分",
@@ -96,7 +96,7 @@
     "link": "http://bgm.tv/subject/612697",
     "bgm_id": "612697",
     "bgm_score": 6.0,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 2
   },
   {
@@ -151,12 +151,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "5.3",
+    "rating": "4.3",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/658254",
     "bgm_id": "658254",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 3,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 3
   },
   {

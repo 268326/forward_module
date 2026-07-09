@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "8.0",
+    "rating": "8.1",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1649,
+    "bgm_score": 8.1,
+    "bgm_rating_total": 1737,
     "bgm_weekday_id": 7
   },
   {
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 487,
+    "bgm_rating_total": 502,
     "bgm_weekday_id": 7
   },
   {
@@ -76,7 +76,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 423,
+    "bgm_rating_total": 432,
     "bgm_weekday_id": 7
   },
   {
@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.2,
-    "bgm_rating_total": 525,
+    "bgm_rating_total": 548,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -111,7 +111,7 @@
     "link": "http://bgm.tv/subject/454083",
     "bgm_id": "454083",
     "bgm_score": 6.6,
-    "bgm_rating_total": 69,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 7
   },
   {
@@ -126,7 +126,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.5,
-    "bgm_rating_total": 199,
+    "bgm_rating_total": 215,
     "bgm_weekday_id": 7
   },
   {
@@ -141,7 +141,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.2,
-    "bgm_rating_total": 753,
+    "bgm_rating_total": 787,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -161,28 +161,13 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.8,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
   },
   {
     "id": "619052",
@@ -211,7 +196,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 5.0,
-    "bgm_rating_total": 56,
+    "bgm_rating_total": 58,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -220,10 +205,25 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.9",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "574041",
     "type": "link",
     "title": "柯蒂斯总统",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8a/1a/574041_6zN6c.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8a/1a/574041_K8Kkk.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "anime",
     "rating": "N/A",
