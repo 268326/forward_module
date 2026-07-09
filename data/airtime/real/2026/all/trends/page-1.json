@@ -3,7 +3,7 @@
     "id": "308216",
     "type": "tmdb",
     "title": "提欧奥特曼",
-    "posterPath": "https://image.tmdb.org/t/p/w500/rPGJuw3wZ0xdlPGVWQZhcbWATbn.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vwM8JJbjfyE8OY1GlkOHUIEhKrq.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
     "rating": "10.0",
@@ -24,7 +24,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.4",
+    "rating": "9.5",
     "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
     "link": null,
     "tmdb_id": "276161",
@@ -45,35 +45,6 @@
     "rating": "",
     "description": "8话 /  2026年6月21日",
     "link": "https://bgm.tv/subject/494631"
-  },
-  {
-    "id": "220102",
-    "type": "tmdb",
-    "title": "暗影蜘蛛侠",
-    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
-    "releaseDate": "2026-05-27",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
-    "link": null,
-    "tmdb_id": "220102",
-    "tmdb_site_id": "tv/220102",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "549830",
-    "type": "link",
-    "title": "克拉克森的农场 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
-    "releaseDate": "2026-06-03",
-    "mediaType": "real",
-    "rating": "8.3",
-    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
-    "link": "https://bgm.tv/subject/549830"
   },
   {
     "id": "317001",
@@ -100,8 +71,8 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/jRINbGiI9wjM9gwxw4IT5G0ErlU.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.2",
-    "description": "本作是以1960年上映的东宝特摄电影『ガス人間第1号』《气体人第一号》（导演：本多猪四郎，编剧：木村武）为原作，由日韩的创作者以现代视角重新构建的完全原创故事重启作品。\n\n当一位嘉宾评论员在直播中肿胀爆炸时，这种前所未有、难以想象的犯罪令全世界陷入震惊。在这起可怕的谋杀背后，是一个似乎凭空消失的人：气体人。由于没有人能够掌握他的真实身份，这个未知者宣布将执行一系列针对性暗杀行动。他在每一次无法解释的攻击中逃避身份识别和抓捕，全国逐渐笼罩在恐慌之下。",
+    "rating": "7.8",
+    "description": "冈本贤治是一位停职中的刑警，受命追查造成一连串离奇命案的罪魁祸首。一切始于一位大学教授在电视直播中身体突然膨胀爆炸，所有人惊魂未定之际，一名自称是“气体人”的男子登场，预告自己即将连续杀人，令整个社会陷入恐慌。贤治和记者京子竭尽全力挖掘真相、追捕凶手，这名罪犯的行为却似乎嘲弄着徒劳追捕他的相关当局。每一桩新的杀戮，都让社会遭到无形的恐惧进一步侵蚀。",
     "link": null,
     "tmdb_id": "253960",
     "tmdb_site_id": "tv/253960",
@@ -113,15 +84,44 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "607932",
+    "id": "549830",
     "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
+    "title": "克拉克森的农场 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e6/11/549830_dyJsA.jpg",
+    "releaseDate": "2026-06-03",
     "mediaType": "real",
-    "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
+    "rating": "8.4",
+    "description": "8话 /  2026年6月3日 / Jeremy Clarkson",
+    "link": "https://bgm.tv/subject/549830"
+  },
+  {
+    "id": "220102",
+    "type": "tmdb",
+    "title": "暗影蜘蛛侠",
+    "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
+    "releaseDate": "2026-05-27",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
+    "link": null,
+    "tmdb_id": "220102",
+    "tmdb_site_id": "tv/220102",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "5.2",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
   },
   {
     "id": "272432",
@@ -142,17 +142,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "494608",
-    "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "real",
-    "rating": "5.2",
-    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
-    "link": "https://bgm.tv/subject/494608"
-  },
-  {
     "id": "305986",
     "type": "tmdb",
     "title": "钟表馆杀人事件",
@@ -169,57 +158,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "631823",
-    "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "real",
-    "rating": "7.9",
-    "description": "12话 /  2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
-  },
-  {
-    "id": "654522",
-    "type": "link",
-    "title": "校园之外 第一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/43/654522_qU0FT.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-05-13",
-    "link": "https://bgm.tv/subject/654522"
-  },
-  {
-    "id": "300529",
-    "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
-    "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "501703",
-    "type": "link",
-    "title": "超级少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/e5/501703_Jjj2E.jpg",
-    "releaseDate": "2026-06-26",
-    "mediaType": "real",
-    "rating": "4.1",
-    "description": "1话 /  2026年6月26日 / Craig Gillespie / Ana Nogueira / Milly Alcock",
-    "link": "https://bgm.tv/subject/501703"
   },
   {
     "id": "278605",
@@ -240,26 +178,37 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "636399",
+    "id": "650082",
     "type": "link",
-    "title": "挽救计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
-    "releaseDate": "2026-03-20",
+    "title": "绣球花之下",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/6a/650082_S4S6q.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
-    "link": "https://bgm.tv/subject/636399"
+    "rating": "",
+    "description": "2026-07-05 / 城定秀夫、頃安祐良、日髙貴士 / 高田亮、清水匡 / 山田涼介",
+    "link": "https://bgm.tv/subject/650082"
   },
   {
-    "id": "507727",
+    "id": "658614",
     "type": "link",
-    "title": "星球大战：曼达洛人与古古",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
-    "releaseDate": "2026-05-22",
+    "title": "羊毛战记 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/b9/658614_o76iI.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.2",
-    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
-    "link": "https://bgm.tv/subject/507727"
+    "rating": "",
+    "description": "10话 /  2026-07-03 / Rebecca Ferguson",
+    "link": "https://bgm.tv/subject/658614"
+  },
+  {
+    "id": "631823",
+    "type": "link",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "real",
+    "rating": "7.9",
+    "description": "12话 /  2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
   },
   {
     "id": "641417",
@@ -273,13 +222,42 @@
     "link": "https://bgm.tv/subject/641417"
   },
   {
+    "id": "654522",
+    "type": "link",
+    "title": "校园之外 第一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/43/654522_qU0FT.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-05-13",
+    "link": "https://bgm.tv/subject/654522"
+  },
+  {
+    "id": "319990",
+    "type": "tmdb",
+    "title": "怪奇-伊藤润二令人彻夜难眠的奇异故事－",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1MD0ERkCtmuzbrq3N1LEL9fngCn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本作精选日本知名恐怖漫画家伊藤润二笔下充满独特疯狂气息的经典作品，改编为真人单元剧。以浓雾弥漫小镇中流行的“辻占”所隐藏的恐惧与执念为主轴，收录《死者的恋爱烦恼》《幻痛宅邸》《肋骨女子》《霸凌女孩》《偷脸人》《父亲的心》《记忆》《二手唱片》《笔友》《押切异谈》《地缚者》《富夫·红高领》《缓慢的离别》等13个怪异故事。由伊藤润二的惊悚世界观与新锐创作者联手，以单元剧形式呈现令人不寒而栗、难以入眠的奇妙恐怖体验。",
+    "link": null,
+    "tmdb_id": "319990",
+    "tmdb_site_id": "tv/319990",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "252107",
     "type": "tmdb",
     "title": "星城",
     "posterPath": "https://image.tmdb.org/t/p/w500/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
     "link": null,
     "tmdb_id": "252107",
@@ -291,17 +269,39 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "314639",
+    "id": "501703",
+    "type": "link",
+    "title": "超级少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/e5/501703_Jjj2E.jpg",
+    "releaseDate": "2026-06-26",
+    "mediaType": "real",
+    "rating": "4.1",
+    "description": "1话 /  2026年6月26日 / Craig Gillespie / Ana Nogueira / Milly Alcock",
+    "link": "https://bgm.tv/subject/501703"
+  },
+  {
+    "id": "636399",
+    "type": "link",
+    "title": "挽救计划",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
+    "releaseDate": "2026-03-20",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
+    "link": "https://bgm.tv/subject/636399"
+  },
+  {
+    "id": "323013",
     "type": "tmdb",
-    "title": "银河的一票",
-    "posterPath": "https://image.tmdb.org/t/p/w500/goU5BxUsRn2w4lui9iw8DVOYaQJ.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "我的虚构",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6KK1DaWAwL5GHiCgCWLBVZpNjbl.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "故事始于一封揭发政治家不正行为的告发信。执政党干事长之女、同时也是秘书的星野茉莉（黑木华 饰）暗中追查真相，却因此被父亲切割，失去工作与容身之所，人生瞬间跌入谷底。走投无路之际，她遇见了性格爽朗、毫无政治经验的小酒馆妈妈桑月冈明里（野吕佳代 饰）。一次突如其来的东京都知事选举，让茉莉萌生念头——推举这个“政治素人”参选。两名背景与性格截然不同的女性就此携手，在权谋与舆论交织的选战中并肩作战，展开一场笑中带泪、热血又另类的“选举娱乐”故事。",
+    "rating": "0.0",
+    "description": "生活在连续1100天零案件、和平安宁小镇“森沼NEX TOWN”的伊川正树（玉森裕太 饰），是一名在养老院工作的普通护理员。他与结婚六年的妻子真弓及宠物文鸟过着平凡而幸福的生活。然而，一场坠落事故后，昏迷一周醒来的他却发现，自己的生活早已被陌生人取代——家中住着“另一个自己”，同事、邻居甚至深爱的妻子，全都不记得他的存在。被迫从幸福日常坠入混乱与孤立的正树，只能独自追查真相。随着谜团层层揭开，一个与记忆、身份有关的惊人秘密也逐渐浮出水面。故事将追问：记忆，真的就是真实吗？",
     "link": null,
-    "tmdb_id": "314639",
-    "tmdb_site_id": "tv/314639",
+    "tmdb_id": "323013",
+    "tmdb_site_id": "tv/323013",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -309,43 +309,57 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "316178",
+    "id": "299365",
     "type": "tmdb",
-    "title": "黑江与江间",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1UurwFgn6YEfJJ1E9LQ2JsDmXIE.jpg",
+    "title": "新进职员姜会长",
+    "posterPath": "https://image.tmdb.org/t/p/w500/j4HpgSdpRW61cDMeRhz31h24Kps.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "改编自同名网路小说，讲述被誉为「商业之神」的顶尖大企业——崔成集团会长「姜龙浩」（孙贤周 饰），因一场意外而被迫开启「人生第二回」，展开一段重新审视自我的「重启人生」故事。",
+    "link": null,
+    "tmdb_id": "299365",
+    "tmdb_site_id": "tv/299365",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "305227",
+    "type": "tmdb",
+    "title": "丰臣兄弟！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dAiJlvQx5xb5RHVwoXX7SXoJq3M.jpg",
+    "releaseDate": "2026-01-04",
+    "mediaType": "tv",
+    "rating": "8.6",
+    "description": "本剧描述天下人丰臣秀吉之弟，武将丰臣秀长的一生；以其视角描述丰臣兄弟凭借兄弟之间的深厚羁绊完成天下统一伟业的奇迹，另外也动态地描绘战国时代的丰富多彩的娱乐事迹！",
+    "link": null,
+    "tmdb_id": "305227",
+    "tmdb_site_id": "tv/305227",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323859",
+    "type": "tmdb",
+    "title": "再见黑色",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6q3DzpC7r9FWPI9Q8uU8z3JYojR.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "故事围绕着同时失去工作、恋人和住所的30岁女性艾玛展开。她在落魄之际偶遇神秘资产家克洛伊，两人随即在后者的豪宅中开启了同居生活，并共同经营起一家占卜店。通过使用“克罗尼克卡牌”为人排忧解难，这对性格迥异的搭档在解开咨询者心结的同时，也逐渐挖掘出那些隐藏在日常背后的真相。",
+    "description": "故事背景设定在繁华却复杂的东京池袋地区。西池袋警署新设立了“犯罪受害者支援室”，在这里，警察们将贴身陪伴遭遇各类案件的受害者及遗属，协助他们重新积极面对生活。\n\n黑木夏海（小池荣子 饰）是一个能够平等且设身处地陪伴受害者的前刑警，心理学家白石绘梨子（北香那 饰）作为派遣支援员加入，她虽有专业知识却不擅长与人沟通。这两个性格截然相反、内心却各自怀有创伤的边缘人组成搭档，在没有标准答案的部门里互相扶持，共同面对受害者们的痛苦。",
     "link": null,
-    "tmdb_id": "316178",
-    "tmdb_site_id": "tv/316178",
+    "tmdb_id": "323859",
+    "tmdb_site_id": "tv/323859",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "559852",
-    "type": "link",
-    "title": "VIVANT続編",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7b/559852_SaFcU.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月 / 堺雅人",
-    "link": "https://bgm.tv/subject/559852"
-  },
-  {
-    "id": "658614",
-    "type": "link",
-    "title": "羊毛战记 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/b9/658614_o76iI.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "10话 /  2026-07-03 / Rebecca Ferguson",
-    "link": "https://bgm.tv/subject/658614"
   }
 ]

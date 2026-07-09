@@ -1,5 +1,16 @@
 [
   {
+    "id": "651837",
+    "type": "link",
+    "title": "Bonsai Security (Dollyanna's Dream)",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Grigory Loupain",
+    "link": "https://bgm.tv/subject/651837"
+  },
+  {
     "id": "208208",
     "type": "tmdb",
     "title": "Breaking Bear",
@@ -124,7 +135,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_4aQov.jpg",
     "releaseDate": "2026-05-12",
     "mediaType": "anime",
-    "rating": "3.4",
+    "rating": "3.5",
     "description": "8话 /  2026年5月12日 / Adi Shankar",
     "link": "https://bgm.tv/subject/551576"
   },
@@ -153,12 +164,12 @@
   {
     "id": "204135",
     "type": "tmdb",
-    "title": "龙击者",
+    "title": "魔龙突击队",
     "posterPath": "https://image.tmdb.org/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
     "releaseDate": "2026-06-06",
     "mediaType": "tv",
-    "rating": "7.9",
-    "description": "在一个体育与魔法相结合的世界里，农家男孩 Key 发现了自己超强的天赋，并得知自己可能是传说中的龙击者。",
+    "rating": "7.7",
+    "description": "12 岁乡下少年 Key（奇） 从小梦想进入卡尔・阿斯特洛克学院，尽管他一开始看起来毫无魔法天赋。\n\n入学后，Key 意外觉醒体内沉睡的巨龙之力，成为传说中的 Dragon Striker（魔龙使者）。\n\n他与天才守门员 Ssyelle（赛伊） 组队，集结一群被低估的 “乌合之众”，挑战校园冠军强队。",
     "link": null,
     "tmdb_id": "204135",
     "tmdb_site_id": "tv/204135",
@@ -289,16 +300,5 @@
     "rating": "",
     "description": "2026 / Ronny Gani",
     "link": "https://bgm.tv/subject/661785"
-  },
-  {
-    "id": "641853",
-    "type": "link",
-    "title": "Ghosts & Chainsaws",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026 / Lee Hardcastle",
-    "link": "https://bgm.tv/subject/641853"
   }
 ]

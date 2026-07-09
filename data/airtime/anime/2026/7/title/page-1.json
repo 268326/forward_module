@@ -164,6 +164,17 @@
     "link": "https://bgm.tv/subject/638186"
   },
   {
+    "id": "549975",
+    "type": "link",
+    "title": "神通安昂：最后的气宗",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_58HUD.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "1话 /  2026年7月25日 / Lauren Montgomery",
+    "link": "https://bgm.tv/subject/549975"
+  },
+  {
     "id": "578262",
     "type": "link",
     "title": "BanG Dream! Ave Mujica prima aurora",
@@ -257,7 +268,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "6.4",
+    "rating": "6.0",
     "description": "2026年7月4日 / 馬引圭 / タカキツヨシ（集英社刊） / 鈴木豪",
     "link": null,
     "tmdb_id": "285993",
@@ -273,19 +284,8 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "anime",
-    "rating": "8.6",
+    "rating": "8.5",
     "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": "https://bgm.tv/subject/530725"
-  },
-  {
-    "id": "651837",
-    "type": "link",
-    "title": "Bonsai Security (Dollyanna's Dream)",
-    "posterPath": null,
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026 / Grigory Loupain",
-    "link": "https://bgm.tv/subject/651837"
   }
 ]

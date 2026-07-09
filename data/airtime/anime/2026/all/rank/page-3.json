@@ -1,5 +1,48 @@
 [
   {
+    "id": "60761",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
+    "releaseDate": "2026-04-05",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "13话 /  2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
+    "link": null,
+    "tmdb_id": "60761",
+    "tmdb_site_id": "tv/60761/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "91768",
+    "type": "tmdb",
+    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "24话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
+    "link": null,
+    "tmdb_id": "91768",
+    "tmdb_site_id": "tv/91768/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "563256",
+    "type": "link",
+    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
+    "releaseDate": "2026-05-08",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "1话 /  2026年5月8日",
+    "link": "https://bgm.tv/subject/563256"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -14,33 +57,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "295071",
-    "type": "tmdb",
-    "title": "再见菈菈",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
-    "link": null,
-    "tmdb_id": "295071",
-    "tmdb_site_id": "tv/295071",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "541814",
-    "type": "link",
-    "title": "偶像大师 百万现场！～终有一天，立于中央～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
-    "releaseDate": "2026-03-27",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
-    "link": "https://bgm.tv/subject/541814"
   },
   {
     "id": "303870",
@@ -70,6 +86,17 @@
     "link": "https://bgm.tv/subject/544627"
   },
   {
+    "id": "541814",
+    "type": "link",
+    "title": "偶像大师 百万现场！～终有一天，立于中央～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/4f/541814_eGXFf.jpg",
+    "releaseDate": "2026-03-27",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "1话 /  2026年3月27日 / 綿田慎也 / バンダイナムコエンターテインメント / 蔦佳穂里",
+    "link": "https://bgm.tv/subject/541814"
+  },
+  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -86,22 +113,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312949",
-    "type": "tmdb",
-    "title": "尼古喵喵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": null,
-    "tmdb_id": "312949",
-    "tmdb_site_id": "tv/312949",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "441800",
     "type": "link",
     "title": "玩具总动员5",
@@ -111,17 +122,6 @@
     "rating": "6.8",
     "description": "1话 /  2026年6月19日 / Andrew Stanton",
     "link": "https://bgm.tv/subject/441800"
-  },
-  {
-    "id": "577226",
-    "type": "link",
-    "title": "诡秘之主特别篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_CLc9Z.jpg",
-    "releaseDate": "2026-06-20",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "3话 /  2026年6月20日 / 爱潜水的乌贼 / 人物设定总监：申琳；人物设定指导：向宇；人物设定：向宇、罗晓莉、任玉洁、许槟彬、杨栋梁、杨思羽",
-    "link": "https://bgm.tv/subject/577226"
   },
   {
     "id": "630676",
@@ -146,17 +146,6 @@
     "link": "https://bgm.tv/subject/515869"
   },
   {
-    "id": "217071",
-    "type": "link",
-    "title": "机动警察 EZY 第一章",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg",
-    "releaseDate": "2026-05-15",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "3话 /  2026年5月15日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
-    "link": "https://bgm.tv/subject/217071"
-  },
-  {
     "id": "651692",
     "type": "link",
     "title": "少年与高达",
@@ -166,6 +155,17 @@
     "rating": "6.8",
     "description": "1话 /  2026年5月15日 / ハヤカワツクロ / 矢立肇、富野由悠季 / 戸井田珠里",
     "link": "https://bgm.tv/subject/651692"
+  },
+  {
+    "id": "217071",
+    "type": "link",
+    "title": "机动警察 EZY 第一章",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_QLrr9.jpg",
+    "releaseDate": "2026-05-15",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "3话 /  2026年5月15日 / 出渕裕 / ヘッドギア / 佐藤嵩光",
+    "link": "https://bgm.tv/subject/217071"
   },
   {
     "id": "544626",
@@ -179,31 +179,26 @@
     "link": "https://bgm.tv/subject/544626"
   },
   {
-    "id": "549975",
+    "id": "577226",
     "type": "link",
-    "title": "安昂传奇：最后的气宗",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_dX0Yu.jpg",
-    "releaseDate": "2026-10-09",
+    "title": "诡秘之主特别篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b9/99/577226_CLc9Z.jpg",
+    "releaseDate": "2026-06-20",
     "mediaType": "anime",
     "rating": "6.7",
-    "description": "1话 /  2026年10月9日",
-    "link": "https://bgm.tv/subject/549975"
+    "description": "3话 /  2026年6月20日 / 爱潜水的乌贼 / 人物设定总监：申琳；人物设定指导：向宇；人物设定：向宇、罗晓莉、任玉洁、许槟彬、杨栋梁、杨思羽",
+    "link": "https://bgm.tv/subject/577226"
   },
   {
-    "id": "300112",
-    "type": "tmdb",
-    "title": "BanG Dream! YUME∞MITA",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "13话 /  2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香、石神直紀",
-    "link": null,
-    "tmdb_id": "300112",
-    "tmdb_site_id": "tv/300112",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "549975",
+    "type": "link",
+    "title": "神通安昂：最后的气宗",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/f8/549975_58HUD.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "1话 /  2026年7月25日 / Lauren Montgomery",
+    "link": "https://bgm.tv/subject/549975"
   },
   {
     "id": "295357",
@@ -222,6 +217,56 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "300112",
+    "type": "tmdb",
+    "title": "BanG Dream! YUME∞MITA",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "13话 /  2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香、石神直紀",
+    "link": null,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "309974",
+    "type": "tmdb",
+    "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月",
+    "link": null,
+    "tmdb_id": "309974",
+    "tmdb_site_id": "tv/309974",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "308403",
+    "type": "tmdb",
+    "title": "炒翻天",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "炒炒炒！炒得热气冲天、香味四溢！！一个是中国菜得霸王，一个是中国菜得帝王，两位顶尖厨师得竞争，延续到了下一代。霸王得传人—秋山酱，认为料理得好坯在于『胜负』；帝王得传人—五番町雾子，认为『心』才是料理好坯得关键，孰对孰错，就由锅里见真章！！",
+    "link": null,
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "278271",
     "type": "tmdb",
     "title": "透明男与人类女～不久成为夫妇的二人～",
@@ -238,6 +283,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "585820",
+    "type": "link",
+    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "link": "https://bgm.tv/subject/585820"
+  },
+  {
+    "id": "454083",
+    "type": "link",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
+    "link": "https://bgm.tv/subject/454083"
+  },
+  {
     "id": "308874",
     "type": "tmdb",
     "title": "少女怪兽焦糖味",
@@ -250,86 +317,6 @@
     "tmdb_id": "308874",
     "tmdb_site_id": "tv/308874",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "312474",
-    "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
-    "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284029",
-    "type": "tmdb",
-    "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
-    "link": null,
-    "tmdb_id": "284029",
-    "tmdb_site_id": "tv/284029",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "306721",
-    "type": "tmdb",
-    "title": "名侦探光之美少女！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg",
-    "releaseDate": "2026-02-01",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "51话 /  2026年2月1日 / 東堂いづみ (連載/講談社「たのしい幼稚園」「おともだち」) / 矢野茜",
-    "link": null,
-    "tmdb_id": "306721",
-    "tmdb_site_id": "tv/306721",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "249907",
-    "type": "tmdb",
-    "title": "判处勇者刑 惩罚勇者9004队刑务纪录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7f/9b/445905_M0j2M.jpg",
-    "releaseDate": "2026-01-03",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "12话 /  2026年1月3日 / 高嶋宏之 / ロケット商会（電撃の新文芸/KADOKAWA刊） / 野田猛",
-    "link": null,
-    "tmdb_id": "249907",
-    "tmdb_site_id": "tv/249907",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "91801",
-    "type": "tmdb",
-    "title": "入间同学入魔了 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4d/eb/524486_5vyCJ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "24话 /  2026年4月4日 / 辻橋綾佳 / 西修（秋田書店「週刊少年チャンピオン」連載） / 原由美子",
-    "link": null,
-    "tmdb_id": "91801",
-    "tmdb_site_id": "tv/91801/season/4",
-    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

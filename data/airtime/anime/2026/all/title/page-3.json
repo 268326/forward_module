@@ -1,5 +1,16 @@
 [
   {
+    "id": "641853",
+    "type": "link",
+    "title": "Ghosts & Chainsaws",
+    "posterPath": null,
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Lee Hardcastle",
+    "link": "https://bgm.tv/subject/641853"
+  },
+  {
     "id": "619324",
     "type": "link",
     "title": "Gluttomy",
@@ -62,7 +73,7 @@
     "releaseDate": "2026-11-25",
     "mediaType": "anime",
     "rating": "",
-    "description": "1话 /  2026年11月25日 / Josie Trinidad、Jason Hand",
+    "description": "1话 /  2026年11月25日 / Fawn Veerasunthorn、Jason Hand",
     "link": "https://bgm.tv/subject/583786"
   },
   {
@@ -251,16 +262,5 @@
     "rating": "",
     "description": "2026年9月29日",
     "link": "https://bgm.tv/subject/640219"
-  },
-  {
-    "id": "654342",
-    "type": "link",
-    "title": "Les Lapins Trois-Oreilles",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/d1/654342_d7ONT.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026-01-18 / Michel Ocelot",
-    "link": "https://bgm.tv/subject/654342"
   }
 ]

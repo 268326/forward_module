@@ -29,7 +29,7 @@
     "releaseDate": "2026-01-18",
     "mediaType": "tv",
     "rating": "8.4",
-    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。",
+    "description": "在《权力的游戏》故事发生的一百年前，两位不太可能成为英雄的人物闯入了维斯特洛：高个骑士邓肯和他的侍从伊戈。在这个时代，坦格利安家族仍然掌握着铁王座，人们对最后一条龙的记忆也还尚未消失，伟大的命运、强劲的敌人和充满危险的英勇行为都在等待着这对意料之外又不可比拟的朋友。",
     "link": null,
     "tmdb_id": "224372",
     "tmdb_site_id": "tv/224372",
@@ -108,7 +108,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.9",
+    "rating": "8.0",
     "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
     "link": null,
     "tmdb_id": "300529",
@@ -116,6 +116,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "276161",
+    "type": "tmdb",
+    "title": "铁拳教育",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
+    "link": null,
+    "tmdb_id": "276161",
+    "tmdb_site_id": "tv/276161",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -134,24 +152,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "276161",
-    "type": "tmdb",
-    "title": "铁拳教育",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "9.4",
-    "description": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
-    "link": null,
-    "tmdb_id": "276161",
-    "tmdb_site_id": "tv/276161",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -191,7 +191,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.4",
+    "rating": "6.3",
     "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
     "link": "https://bgm.tv/subject/623261"
   },
@@ -199,7 +199,7 @@
     "id": "308216",
     "type": "tmdb",
     "title": "提欧奥特曼",
-    "posterPath": "https://image.tmdb.org/t/p/w500/rPGJuw3wZ0xdlPGVWQZhcbWATbn.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vwM8JJbjfyE8OY1GlkOHUIEhKrq.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
     "rating": "10.0",
@@ -267,20 +267,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
     "releaseDate": "2026-05-22",
     "mediaType": "real",
-    "rating": "6.2",
+    "rating": "6.3",
     "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
     "link": "https://bgm.tv/subject/507727"
-  },
-  {
-    "id": "620971",
-    "type": "link",
-    "title": "头号战队豪兽者VS奔奔者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "5.9",
-    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
-    "link": "https://bgm.tv/subject/620971"
   },
   {
     "id": "480966",
@@ -292,6 +281,17 @@
     "rating": "6.4",
     "description": "1话 /  2026-02-17 / 袁和平 / 俞白眉、苏照彬、陈大利、杨子 / 吴京、謝霆鋒",
     "link": "https://bgm.tv/subject/480966"
+  },
+  {
+    "id": "620971",
+    "type": "link",
+    "title": "头号战队豪兽者VS奔奔者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/ff/620971_99b69.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "5.8",
+    "description": "1话 /  2026-03-20 / 中澤祥次郎 / 樋口達人",
+    "link": "https://bgm.tv/subject/620971"
   },
   {
     "id": "317001",

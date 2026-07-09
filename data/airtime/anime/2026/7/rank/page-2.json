@@ -1,5 +1,16 @@
 [
   {
+    "id": "587454",
+    "type": "link",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "5话 /  2026年1月1日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": "https://bgm.tv/subject/587454"
+  },
+  {
     "id": "229443",
     "type": "tmdb",
     "title": "公主大人“拷问”的时间到了 第二季",
@@ -14,6 +25,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298026",
+    "type": "tmdb",
+    "title": "放开那个女巫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+    "releaseDate": "2026-03-02",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "现代人程岩意外猝死，灵魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰·温布顿。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊地发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇。在罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；与此同时，罗兰还面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "link": null,
+    "tmdb_id": "298026",
+    "tmdb_site_id": "tv/298026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "274622",
@@ -32,26 +61,31 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "598058",
-    "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
+    "id": "69346",
+    "type": "tmdb",
+    "title": "幼女战记 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+    "link": null,
+    "tmdb_id": "69346",
+    "tmdb_site_id": "tv/69346/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
-    "id": "451757",
+    "id": "569116",
     "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "anime",
-    "rating": "7.4",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
+    "rating": "7.3",
+    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "link": "https://bgm.tv/subject/569116"
   },
   {
     "id": "203737",
@@ -70,6 +104,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "508004",
+    "type": "link",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": "https://bgm.tv/subject/508004"
+  },
+  {
     "id": "285574",
     "type": "tmdb",
     "title": "与你相恋到生命尽头",
@@ -86,15 +131,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "508004",
-    "type": "link",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "anime",
+    "id": "295071",
+    "type": "tmdb",
+    "title": "再见菈菈",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
     "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": null,
+    "tmdb_id": "295071",
+    "tmdb_site_id": "tv/295071",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "283905",
@@ -124,17 +174,6 @@
     "link": "https://bgm.tv/subject/505401"
   },
   {
-    "id": "586102",
-    "type": "link",
-    "title": "银河特急 Milky✩Subway 各站停车前往剧场",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_OZM7q.jpg",
-    "releaseDate": "2026-02-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "1话 /  2026年2月6日 / 亀山陽平 / 亀山陽平 / 亀山陽平",
-    "link": "https://bgm.tv/subject/586102"
-  },
-  {
     "id": "312822",
     "type": "tmdb",
     "title": "扮演姐姐",
@@ -153,22 +192,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "在超市后门吸烟的二人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "296101",
     "type": "tmdb",
     "title": "Grow Up Show ～向日葵马戏团～",
@@ -176,10 +199,37 @@
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
     "rating": "7.2",
-    "description": "2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
     "link": null,
     "tmdb_id": "296101",
     "tmdb_site_id": "tv/296101",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "586102",
+    "type": "link",
+    "title": "银河特急 Milky✩Subway 各站停车前往剧场",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/c8/586102_OZM7q.jpg",
+    "releaseDate": "2026-02-06",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "1话 /  2026年2月6日 / 亀山陽平 / 亀山陽平 / 亀山陽平",
+    "link": "https://bgm.tv/subject/586102"
+  },
+  {
+    "id": "283428",
+    "type": "tmdb",
+    "title": "冰之城墙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428",
+    "tmdb_site_id": "tv/283428",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -201,20 +251,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283428",
-    "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
+    "id": "616383",
+    "type": "link",
+    "title": "《新世纪福音战士》30周年纪念特别放映",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_YX4Yb.jpg",
+    "releaseDate": "2026-02-21",
+    "mediaType": "anime",
     "rating": "7.1",
-    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "description": "1话 /  2026年2月21日 / 浅野直之",
+    "link": "https://bgm.tv/subject/616383"
   },
   {
     "id": "544628",
@@ -228,15 +273,20 @@
     "link": "https://bgm.tv/subject/544628"
   },
   {
-    "id": "616383",
-    "type": "link",
-    "title": "《新世纪福音战士》30周年纪念特别放映",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/93/616383_YX4Yb.jpg",
-    "releaseDate": "2026-02-21",
-    "mediaType": "anime",
+    "id": "296286",
+    "type": "tmdb",
+    "title": "在超市后门吸烟的二人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
     "rating": "7.1",
-    "description": "1话 /  2026年2月21日 / 浅野直之",
-    "link": "https://bgm.tv/subject/616383"
+    "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
+    "link": null,
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "288551",
@@ -250,6 +300,22 @@
     "link": null,
     "tmdb_id": "288551",
     "tmdb_site_id": "tv/288551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312949",
+    "type": "tmdb",
+    "title": "尼古喵喵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+    "link": null,
+    "tmdb_id": "312949",
+    "tmdb_site_id": "tv/312949",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -283,65 +349,6 @@
     "tmdb_id": "65930/season/0/episode/18",
     "tmdb_site_id": "tv/65930/season/0/episode/18",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "563256",
-    "type": "link",
-    "title": "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/4f/563256_mZIJ9.jpg",
-    "releaseDate": "2026-05-08",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "1话 /  2026年5月8日",
-    "link": "https://bgm.tv/subject/563256"
-  },
-  {
-    "id": "312020",
-    "type": "tmdb",
-    "title": "THE WORLD IS DANCING 世界在起舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
-    "link": null,
-    "tmdb_id": "312020",
-    "tmdb_site_id": "tv/312020",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "91768",
-    "type": "tmdb",
-    "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/e6/469104_SMf0k.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "24话 /  2026年4月4日 / 岩崎良明 / 香月美夜（TOブックス刊） / 簑輪愛子",
-    "link": null,
-    "tmdb_id": "91768",
-    "tmdb_site_id": "tv/91768/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "60761",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年4月5日 / 大庭秀昭 / 寺嶋裕二（講談社「週刊少年マガジン」所載） / 東海林康和",
-    "link": null,
-    "tmdb_id": "60761",
-    "tmdb_site_id": "tv/60761/season/4",
-    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }
