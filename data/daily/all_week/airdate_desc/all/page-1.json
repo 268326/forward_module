@@ -253,6 +253,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-15",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -364,7 +379,7 @@
     "link": null,
     "bgm_id": "571895",
     "bgm_score": 5.8,
-    "bgm_rating_total": 84,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 5,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
@@ -393,20 +408,5 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "664856",
-    "type": "link",
-    "title": "香蕉喵10周年纪念特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/664856",
-    "bgm_id": "664856",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
   }
 ]
