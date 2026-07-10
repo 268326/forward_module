@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "anime",
-    "rating": "8.1",
+    "rating": "8.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
-    "bgm_score": 8.1,
-    "bgm_rating_total": 1737,
+    "bgm_score": 8.0,
+    "bgm_rating_total": 1733,
     "bgm_weekday_id": 7
   },
   {
@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.2,
-    "bgm_rating_total": 787,
+    "bgm_rating_total": 814,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -46,7 +46,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.2,
-    "bgm_rating_total": 548,
+    "bgm_rating_total": 562,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -66,7 +66,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 502,
+    "bgm_rating_total": 514,
     "bgm_weekday_id": 7
   },
   {
@@ -81,7 +81,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 432,
+    "bgm_rating_total": 444,
     "bgm_weekday_id": 7
   },
   {
@@ -96,7 +96,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.5,
-    "bgm_rating_total": 215,
+    "bgm_rating_total": 220,
     "bgm_weekday_id": 7
   },
   {
@@ -106,12 +106,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_DtM3t.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/454083",
     "bgm_id": "454083",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 72,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 76,
     "bgm_weekday_id": 7
   },
   {
@@ -146,7 +146,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.8,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 40,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -166,7 +166,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 7.6,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -181,12 +181,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.9",
+    "rating": "4.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 10,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 7
   },
   {
@@ -235,10 +235,25 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中第六季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "633711",
     "type": "link",
     "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_amtml.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
     "rating": "N/A",

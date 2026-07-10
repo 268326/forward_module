@@ -15,21 +15,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "664856",
-    "type": "link",
-    "title": "香蕉喵10周年纪念特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/664856",
-    "bgm_id": "664856",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "287028",
     "type": "tmdb",
     "title": "描绘直至生命尽头",
@@ -41,13 +26,28 @@
     "link": null,
     "bgm_id": "545917",
     "bgm_score": 7.6,
-    "bgm_rating_total": 585,
+    "bgm_rating_total": 600,
     "bgm_weekday_id": 5,
     "tmdb_id": "287028",
     "tmdb_site_id": "tv/287028",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "664856",
+    "type": "link",
+    "title": "香蕉喵10周年纪念特别篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/664856",
+    "bgm_id": "664856",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
   },
   {
     "id": "307585",
@@ -61,7 +61,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 6.2,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 50,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -81,7 +81,7 @@
     "link": "http://bgm.tv/subject/517106",
     "bgm_id": "517106",
     "bgm_score": 6.1,
-    "bgm_rating_total": 19,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 5
   },
   {

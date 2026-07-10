@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 7.6,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.5,
-    "bgm_rating_total": 215,
+    "bgm_rating_total": 220,
     "bgm_weekday_id": 7
   },
   {
@@ -81,7 +81,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.8,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 40,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -101,7 +101,22 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 432,
+    "bgm_rating_total": 444,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中第六季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 7
   },
   {
@@ -126,19 +141,19 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.9",
+    "rating": "4.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 10,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 7
   },
   {
     "id": "633711",
     "type": "link",
     "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_amtml.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
     "rating": "N/A",
@@ -161,7 +176,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 502,
+    "bgm_rating_total": 514,
     "bgm_weekday_id": 7
   },
   {
