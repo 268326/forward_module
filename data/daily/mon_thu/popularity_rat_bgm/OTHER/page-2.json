@@ -50,6 +50,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "500458",
+    "type": "link",
+    "title": "胶囊计划 奇迹",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/500458",
+    "bgm_id": "500458",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "612697",
     "type": "link",
     "title": "铠真传 武士军团 第2部分",
@@ -63,21 +78,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "500458",
-    "type": "link",
-    "title": "胶囊计划 奇迹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/500458",
-    "bgm_id": "500458",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 3
   },
   {
     "id": "481295",

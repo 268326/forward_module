@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.4,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 6
   },
   {
@@ -73,6 +73,21 @@
     "bgm_score": 6.7,
     "bgm_rating_total": 72,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "542847",
+    "type": "link",
+    "title": "怪物大师",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/542847",
+    "bgm_id": "542847",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
   },
   {
     "id": "574794",
@@ -306,7 +321,7 @@
     "link": null,
     "bgm_id": "571895",
     "bgm_score": 5.8,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 97,
     "bgm_weekday_id": 5,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
@@ -341,7 +356,7 @@
     "link": null,
     "bgm_id": "571784",
     "bgm_score": 7.1,
-    "bgm_rating_total": 2572,
+    "bgm_rating_total": 2599,
     "bgm_weekday_id": 4,
     "tmdb_id": "296286",
     "tmdb_site_id": "tv/296286",
@@ -361,27 +376,12 @@
     "link": null,
     "bgm_id": "339515",
     "bgm_score": 7.2,
-    "bgm_rating_total": 261,
+    "bgm_rating_total": 273,
     "bgm_weekday_id": 3,
     "tmdb_id": "69346",
     "tmdb_site_id": "tv/69346/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "412144",
-    "type": "link",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/412144",
-    "bgm_id": "412144",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 50,
-    "bgm_weekday_id": 3
   }
 ]

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 5.0,
-    "bgm_rating_total": 58,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "456080",
     "bgm_score": 4.9,
-    "bgm_rating_total": 167,
+    "bgm_rating_total": 171,
     "bgm_weekday_id": 1,
     "tmdb_id": "250008",
     "tmdb_site_id": "tv/250008",
@@ -53,13 +53,79 @@
     "link": null,
     "bgm_id": "579246",
     "bgm_score": 4.9,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 1,
     "tmdb_id": "298831",
     "tmdb_site_id": "tv/298831",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "314554",
+    "type": "tmdb",
+    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
+    "link": null,
+    "bgm_id": "630163",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 118,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "314554",
+    "tmdb_site_id": "tv/314554",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "297826",
+    "type": "tmdb",
+    "title": "盗掘王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
+    "link": null,
+    "bgm_id": "621835",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 58,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "297826",
+    "tmdb_site_id": "tv/297826",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "98865",
+    "type": "tmdb",
+    "title": "梅比乌斯之尘",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "276787",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 48,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "98865",
+    "tmdb_site_id": "tv/98865",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "633354",
@@ -88,54 +154,10 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 4.7,
-    "bgm_rating_total": 43,
+    "bgm_rating_total": 48,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "297826",
-    "type": "tmdb",
-    "title": "盗掘王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
-    "link": null,
-    "bgm_id": "621835",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 50,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "297826",
-    "tmdb_site_id": "tv/297826",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "98865",
-    "type": "tmdb",
-    "title": "梅比乌斯之尘",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期四]",
-    "link": null,
-    "bgm_id": "276787",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 33,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "98865",
-    "tmdb_site_id": "tv/98865",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -186,18 +208,40 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/b9/ac/563745_YI26V.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "4.3",
+    "rating": "4.2",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "563745",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 40,
+    "bgm_score": 4.2,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "314561",
+    "type": "tmdb",
+    "title": "澈底对你成瘾",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pkH9EpzbiLVqC6tPV0tFaijBTFa.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "身为外貌协会且私生活混乱的大学生明仁，对顶着一张漂亮脸蛋且态度冷酷的冴怎么看都不顺眼。在得知联谊时看上的女生也喜欢冴之后，明仁不爽到了极点。就在这个时候，他在爱情旅馆一条街撞见冴和其他男人发生争执。面对与平时截然不同，浑身破绽的冴，明仁忍不住将他强硬地推倒，此时冴出乎意料之外的反应让他澈底失控——！ ？",
+    "link": null,
+    "bgm_id": "630164",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "314561",
+    "tmdb_site_id": "tv/314561",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "665747",
@@ -213,28 +257,6 @@
     "bgm_score": 4.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "314561",
-    "type": "tmdb",
-    "title": "澈底对你成瘾",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pkH9EpzbiLVqC6tPV0tFaijBTFa.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "身为外貌协会且私生活混乱的大学生明仁，对顶着一张漂亮脸蛋且态度冷酷的冴怎么看都不顺眼。在得知联谊时看上的女生也喜欢冴之后，明仁不爽到了极点。就在这个时候，他在爱情旅馆一条街撞见冴和其他男人发生争执。面对与平时截然不同，浑身破绽的冴，明仁忍不住将他强硬地推倒，此时冴出乎意料之外的反应让他澈底失控——！ ？",
-    "link": null,
-    "bgm_id": "630164",
-    "bgm_score": 3.8,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "314561",
-    "tmdb_site_id": "tv/314561",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "324335",
@@ -393,26 +415,19 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "326893",
-    "type": "tmdb",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
-    "link": null,
-    "bgm_id": "624691",
+    "id": "542847",
+    "type": "link",
+    "title": "怪物大师",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/542847",
+    "bgm_id": "542847",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "326893",
-    "tmdb_site_id": "tv/326893",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 5
   },
   {
     "id": "208208",
@@ -433,28 +448,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "326695",
-    "type": "tmdb",
-    "title": "择日飞升",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yZAGhLdtD75LSO8cOF40r4u3yku.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "讲述捕蛇少年许应因目睹村神草菅人命而弑杀村神，逐步解开体内秘藏，在挑战诸天神魔中突破自我，最终证道飞升。",
-    "link": null,
-    "bgm_id": "491578",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "326695",
-    "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   }

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "545917",
     "bgm_score": 7.6,
-    "bgm_rating_total": 600,
+    "bgm_rating_total": 616,
     "bgm_weekday_id": 5,
     "tmdb_id": "287028",
     "tmdb_site_id": "tv/287028",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "571895",
     "bgm_score": 5.8,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 97,
     "bgm_weekday_id": 5,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 6.2,
-    "bgm_rating_total": 50,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -102,6 +102,21 @@
     "bgm_id": "501732",
     "bgm_score": 10.0,
     "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "542847",
+    "type": "link",
+    "title": "怪物大师",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/542847",
+    "bgm_id": "542847",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 5
   }
 ]

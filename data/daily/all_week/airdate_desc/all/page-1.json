@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.4,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 6
   },
   {
@@ -73,6 +73,21 @@
     "bgm_score": 6.7,
     "bgm_rating_total": 72,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "542847",
+    "type": "link",
+    "title": "怪物大师",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/542847",
+    "bgm_id": "542847",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
   },
   {
     "id": "208208",
@@ -381,25 +396,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a2/a1/571895_yITHq.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "571895",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 89,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

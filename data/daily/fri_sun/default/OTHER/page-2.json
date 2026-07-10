@@ -1,5 +1,20 @@
 [
   {
+    "id": "501963",
+    "type": "link",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/501963",
+    "bgm_id": "501963",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 1765,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -46,7 +61,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.5,
-    "bgm_rating_total": 220,
+    "bgm_rating_total": 224,
     "bgm_weekday_id": 7
   },
   {
@@ -61,7 +76,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 5.0,
-    "bgm_rating_total": 58,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -101,7 +116,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 444,
+    "bgm_rating_total": 461,
     "bgm_weekday_id": 7
   },
   {
@@ -176,7 +191,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 514,
+    "bgm_rating_total": 532,
     "bgm_weekday_id": 7
   },
   {

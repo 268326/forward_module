@@ -1,5 +1,25 @@
 [
   {
+    "id": "312266",
+    "type": "tmdb",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "587109",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -26,7 +46,7 @@
     "link": null,
     "bgm_id": "602733",
     "bgm_score": 6.0,
-    "bgm_rating_total": 141,
+    "bgm_rating_total": 144,
     "bgm_weekday_id": 6,
     "tmdb_id": "312849",
     "tmdb_site_id": "tv/312849",
@@ -70,7 +90,7 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.5,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -129,7 +149,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.2,
-    "bgm_rating_total": 814,
+    "bgm_rating_total": 845,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -144,12 +164,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_DtM3t.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/454083",
     "bgm_id": "454083",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 76,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 7
   },
   {
@@ -164,7 +184,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.2,
-    "bgm_rating_total": 562,
+    "bgm_rating_total": 570,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -184,7 +204,7 @@
     "link": "http://bgm.tv/subject/501963",
     "bgm_id": "501963",
     "bgm_score": 8.0,
-    "bgm_rating_total": 1733,
+    "bgm_rating_total": 1765,
     "bgm_weekday_id": 7
   },
   {
@@ -256,7 +276,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.5,
-    "bgm_rating_total": 220,
+    "bgm_rating_total": 224,
     "bgm_weekday_id": 7
   },
   {
@@ -271,7 +291,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 5.0,
-    "bgm_rating_total": 58,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -311,7 +331,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 444,
+    "bgm_rating_total": 461,
     "bgm_weekday_id": 7
   },
   {
@@ -340,8 +360,8 @@
     "description": "炒炒炒！炒得热气冲天、香味四溢！！一个是中国菜得霸王，一个是中国菜得帝王，两位顶尖厨师得竞争，延续到了下一代。霸王得传人—秋山酱，认为料理得好坯在于『胜负』；帝王得传人—五番町雾子，认为『心』才是料理好坯得关键，孰对孰错，就由锅里见真章！！",
     "link": null,
     "bgm_id": "615835",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 246,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 256,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -408,22 +428,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 514,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "659686",
-    "type": "link",
-    "title": "トミカとトム シーズン2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/659686",
-    "bgm_id": "659686",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_rating_total": 532,
     "bgm_weekday_id": 7
   }
 ]

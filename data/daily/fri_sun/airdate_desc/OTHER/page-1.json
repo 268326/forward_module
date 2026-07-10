@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.4,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 6
   },
   {
@@ -73,6 +73,21 @@
     "bgm_score": 6.7,
     "bgm_rating_total": 72,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "542847",
+    "type": "link",
+    "title": "怪物大师",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/542847",
+    "bgm_id": "542847",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
   },
   {
     "id": "576780",
@@ -201,7 +216,7 @@
     "link": null,
     "bgm_id": "571895",
     "bgm_score": 5.8,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 97,
     "bgm_weekday_id": 5,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
@@ -236,7 +251,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 6.2,
-    "bgm_rating_total": 814,
+    "bgm_rating_total": 845,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -251,12 +266,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/12/454083_DtM3t.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/454083",
     "bgm_id": "454083",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 76,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 7
   },
   {
@@ -271,7 +286,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.2,
-    "bgm_rating_total": 562,
+    "bgm_rating_total": 570,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -291,7 +306,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.5,
-    "bgm_rating_total": 220,
+    "bgm_rating_total": 224,
     "bgm_weekday_id": 7
   },
   {
@@ -306,7 +321,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 5.0,
-    "bgm_rating_total": 58,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -346,7 +361,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 444,
+    "bgm_rating_total": 461,
     "bgm_weekday_id": 7
   },
   {
@@ -377,21 +392,6 @@
     "bgm_id": "633354",
     "bgm_score": 4.8,
     "bgm_rating_total": 11,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/638497",
-    "bgm_id": "638497",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 514,
     "bgm_weekday_id": 7
   }
 ]

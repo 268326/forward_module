@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.4,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 6
   },
   {
@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/b9/ac/563745_YI26V.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "4.3",
+    "rating": "4.2",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "563745",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 40,
+    "bgm_score": 4.2,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -88,7 +88,7 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.5,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -266,6 +266,28 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "326893",
+    "type": "tmdb",
+    "title": "喜羊羊与灰太狼之破界山海诀",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
+    "link": null,
+    "bgm_id": "624691",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "326893",
+    "tmdb_site_id": "tv/326893",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "662006",
     "type": "link",
     "title": "暗芝居 第十七季",
@@ -281,26 +303,19 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "326893",
-    "type": "tmdb",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
-    "link": null,
-    "bgm_id": "624691",
+    "id": "542847",
+    "type": "link",
+    "title": "怪物大师",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/542847",
+    "bgm_id": "542847",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "326893",
-    "tmdb_site_id": "tv/326893",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 5
   },
   {
     "id": "208208",
@@ -409,21 +424,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "633711",
-    "type": "link",
-    "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633711",
-    "bgm_id": "633711",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7
