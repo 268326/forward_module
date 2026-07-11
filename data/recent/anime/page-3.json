@@ -1,32 +1,5 @@
 [
   {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": "https://bgm.tv/subject/565701"
-  },
-  {
-    "id": "293697",
-    "type": "tmdb",
-    "title": "想结束这场“我爱你”的游戏",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
-    "releaseDate": "2026-04-14",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
-    "link": null,
-    "tmdb_id": "293697",
-    "tmdb_site_id": "tv/293697",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "302519",
     "type": "tmdb",
     "title": "奇招百出的维多利亚",
@@ -45,6 +18,33 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "530725",
+    "type": "link",
+    "title": "死神 千年血战篇-祸进谭-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+    "link": "https://bgm.tv/subject/530725"
+  },
+  {
+    "id": "245842",
+    "type": "tmdb",
+    "title": "杖与剑的魔剑谭 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/19/515856_RNj5p.jpg",
+    "releaseDate": "2026-04-12",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年4月12日 / 中野英明 / 大森藤ノ；漫画：青井聖 / 小野早香",
+    "link": null,
+    "tmdb_id": "245842",
+    "tmdb_site_id": "tv/245842/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -61,22 +61,47 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298103",
+    "id": "454083",
+    "type": "link",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
+    "link": "https://bgm.tv/subject/454083"
+  },
+  {
+    "id": "301944",
     "type": "tmdb",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/67EGk9hsaBtpzmNNtA0kCXvmi2F.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "婚姻剧毒",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/dc/590353_M0laM.jpg",
+    "releaseDate": "2026-04-07",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。\n\n『继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！ 』\n\n虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然「完全不虐待我」！ ？\n\n既温柔又温暖，与新家人共度的日子将治愈你的心。\n\n温馨的反差喜剧现在开幕！",
+    "rating": "6.2",
+    "description": "13话 /  2026年4月7日 / 堀元宣 / 静脈・依田瑞稀（集英社「少年ジャンプ＋」連載） / 徳岡紘平",
     "link": null,
-    "tmdb_id": "298103",
-    "tmdb_site_id": "tv/298103",
+    "tmdb_id": "301944",
+    "tmdb_site_id": "tv/301944",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "293697",
+    "type": "tmdb",
+    "title": "想结束这场“我爱你”的游戏",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/5a/564289_b6sb7.jpg",
+    "releaseDate": "2026-04-14",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年4月14日 / 谷東 / 堂本裕貴（小学館「サンデーうぇぶり」連載中） / 福地友樹",
+    "link": null,
+    "tmdb_id": "293697",
+    "tmdb_site_id": "tv/293697",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "288551",
@@ -93,28 +118,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "530725",
-    "type": "link",
-    "title": "死神 千年血战篇-祸进谭-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "8.4",
-    "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
-    "link": "https://bgm.tv/subject/530725"
-  },
-  {
-    "id": "454083",
-    "type": "link",
-    "title": "碧蓝航线：微速前行！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
-    "link": "https://bgm.tv/subject/454083"
   },
   {
     "id": "529723",
@@ -155,22 +158,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285818",
-    "type": "tmdb",
-    "title": "迦楠大人的白给是恶魔级",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
-    "link": null,
-    "tmdb_id": "285818",
-    "tmdb_site_id": "tv/285818",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "300267",
     "type": "tmdb",
     "title": "世界最强的后卫 ～迷宫国的新人探索者～",
@@ -193,11 +180,27 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "7.2",
+    "rating": "7.0",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",
     "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285818",
+    "type": "tmdb",
+    "title": "迦楠大人的白给是恶魔级",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/61/552589_CqLqQ.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "12话 /  2026年4月4日 / 室谷靖 / nonco（講談社「週刊少年マガジン」連載） / 皆川愛香利",
+    "link": null,
+    "tmdb_id": "285818",
+    "tmdb_site_id": "tv/285818",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -219,22 +222,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043",
-    "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "285993",
     "type": "tmdb",
     "title": "暗黑灯火",
@@ -251,17 +238,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "209867",
+    "id": "278043",
     "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
-    "tmdb_id": "209867",
-    "tmdb_site_id": "tv/209867",
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -273,11 +260,45 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e2/dd/579246_61291.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "4.9",
+    "rating": "5.0",
     "description": "12话 /  2026年7月6日 / 葛谷直行 / はぐれメタボ（HJノベルス／ホビージャパン）；漫画：おおのいも（HJコミックス／コミックファイア連載） / 姉崎早也花",
     "link": null,
     "tmdb_id": "298831",
     "tmdb_site_id": "tv/298831",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "98865",
+    "type": "tmdb",
+    "title": "梅比乌斯之尘",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "陨石坠落后的第十年，由于巨大结晶释放出的神秘粒子“梅比乌斯之尘”的影响，一部分孩子获得了名为“拉姆斯”的特殊能力。这些特殊能力者由于生存范围受到限制，被禁止离开“新胜鹿镇”。为了排解无法离开的烦闷，高中生荒木与妹妹斯特拉、青梅竹马奥尔加等人组成“警跃者”队伍，运用异能全身心投入到争夺领地的游戏中。然而，直到有一天，“拉姆斯”的研究者汤田博士请求他们协助一项实验，荒木等人决定参与其中，他们的命运由此开始转动。",
+    "link": null,
+    "tmdb_id": "98865",
+    "tmdb_site_id": "tv/98865",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "209867",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -326,35 +347,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "290019",
+    "id": "297826",
     "type": "tmdb",
-    "title": "和班上第二可爱的女孩成为朋友",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/2a/456079_4171E.jpg",
-    "releaseDate": "2026-04-07",
+    "title": "盗掘王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年4月7日 / 橘秀樹 / たかた（株式会社KADOKAWA　角川スニーカー文庫刊） / 滝本祥子",
+    "rating": "0.0",
+    "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
     "link": null,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
+    "tmdb_id": "297826",
+    "tmdb_site_id": "tv/297826",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "312474",
-    "type": "tmdb",
-    "title": "日本三国",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "12话 /  2026年4月5日 / 寺澤和晃 / 松木いっか（小学館「マンガワン」連載） / 阿比留隆彦",
-    "link": null,
-    "tmdb_id": "312474",
-    "tmdb_site_id": "tv/312474",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

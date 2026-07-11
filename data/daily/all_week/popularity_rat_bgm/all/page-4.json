@@ -67,6 +67,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "664856",
+    "type": "link",
+    "title": "香蕉喵10周年纪念特别篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/664856",
+    "bgm_id": "664856",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "665747",
     "type": "link",
     "title": "「斩-ZAN-」试播片",
@@ -95,21 +110,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "664856",
-    "type": "link",
-    "title": "香蕉喵10周年纪念特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/664856",
-    "bgm_id": "664856",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "576780",
@@ -331,7 +331,7 @@
     "id": "323839",
     "type": "tmdb",
     "title": "东大高武学院",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ksaBqIKOfDklbMBvscq6zkV6LrA.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
     "releaseDate": "2026-07-16",
     "mediaType": "tv",
     "rating": "0.0",

@@ -6,12 +6,12 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "8.0",
     "description": "炒炒炒！炒得热气冲天、香味四溢！！一个是中国菜得霸王，一个是中国菜得帝王，两位顶尖厨师得竞争，延续到了下一代。霸王得传人—秋山酱，认为料理得好坯在于『胜负』；帝王得传人—五番町雾子，认为『心』才是料理好坯得关键，孰对孰错，就由锅里见真章！！",
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.7,
-    "bgm_rating_total": 256,
+    "bgm_rating_total": 262,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -78,7 +78,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 532,
+    "bgm_rating_total": 549,
     "bgm_weekday_id": 7
   },
   {
