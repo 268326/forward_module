@@ -256,7 +256,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "212949",
+    "id": "42951",
     "type": "tmdb",
     "title": "赌博默示录 破戒录篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ca/12317_Qqy2H.jpg",
@@ -265,9 +265,9 @@
     "rating": "7.8",
     "description": "26话 /  2011年4月5日 / 佐藤雄三 / 福本伸行 / 高田晴仁",
     "link": null,
-    "tmdb_id": "212949",
-    "tmdb_site_id": "tv/212949",
-    "tmdb_season_number": null,
+    "tmdb_id": "42951",
+    "tmdb_site_id": "tv/42951/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

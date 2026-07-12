@@ -32,15 +32,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "353181",
-    "type": "link",
+    "id": "959646",
+    "type": "tmdb",
     "title": "佐贺偶像是传奇 梦想银河乐园",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
     "releaseDate": "2025-10-24",
-    "mediaType": "anime",
-    "rating": "7.8",
+    "mediaType": "movie",
+    "rating": "7.9",
     "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
-    "link": "https://bgm.tv/subject/353181"
+    "link": null,
+    "tmdb_id": "959646",
+    "tmdb_site_id": "movie/959646",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -116,19 +121,17 @@
     "id": "315054",
     "type": "tmdb",
     "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/a8/631018_i8egE.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "有一份通知从天而降来到没落贵族的千金，艾尔莎的身边。那就是来自超级精英贵族，尤里乌斯的求婚。“如此出色的人为何要找我？”尽管虽然觉得不可思议但还是决定结婚，可是在婚礼后，迄今为止一直温柔平静的尤里乌斯突然性情大变！用冰冷的声音传达道“今后，我完全没有打算要爱你”？！性格别扭的次任公爵×积极向上的没落千金的令人焦急的心动恋爱故事。",
+    "rating": "5.5",
+    "description": "12话 /  2026年7月4日 / まついひとゆき / 水埜なつ・三沢ケイ（「COMICポラリス」連載／フレックスコミックス刊） / 八尋裕子",
     "link": null,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "95479",
@@ -262,19 +265,17 @@
     "id": "315816",
     "type": "tmdb",
     "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/50/ac/609183_hr8ZH.jpg",
     "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "5.2",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+    "rating": "4.6",
+    "description": "8话 /  2026年4月5日 / 佐々木純人 / 小麦りん / 那須玲奈",
     "link": null,
     "tmdb_id": "315816",
     "tmdb_site_id": "tv/315816",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "303870",
@@ -309,15 +310,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "515595",
-    "type": "link",
+    "id": "1363974",
+    "type": "tmdb",
     "title": "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/84/515595_xP1P5.jpg",
     "releaseDate": "2026-02-27",
-    "mediaType": "anime",
+    "mediaType": "movie",
     "rating": "5.0",
     "description": "1话 /  2026年2月27日 / 菊地康仁 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
-    "link": "https://bgm.tv/subject/515595"
+    "link": null,
+    "tmdb_id": "1363974",
+    "tmdb_site_id": "movie/1363974",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65844",

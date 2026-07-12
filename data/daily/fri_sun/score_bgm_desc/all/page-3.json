@@ -1,5 +1,20 @@
 [
   {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中第六季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "328237",
     "type": "tmdb",
     "title": "プラノサウルス ガチコセイブツ部",

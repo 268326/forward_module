@@ -1,5 +1,20 @@
 [
   {
+    "id": "627136",
+    "type": "link",
+    "title": "从后面来的神威先生",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/627136",
+    "bgm_id": "627136",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 461,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～",
@@ -11,7 +26,7 @@
     "link": null,
     "bgm_id": "638151",
     "bgm_score": 6.0,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 113,
     "bgm_weekday_id": 5,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049",

@@ -69,19 +69,17 @@
     "id": "250008",
     "type": "tmdb",
     "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_C4q4C.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "6.0",
-    "description": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们动画全集改编自由雲雀湯创作、由シソ担任插画的一部轻小说作品。『因为我们一直是朋友!』 年幼的夏末，和重要的男性朋友定下了约定。7年后，转入城市高中的隼人重逢的青梅竹马……变成了清纯可爱的美少女! 被称为“高岭之花”的春希，只要和隼人独处，就会以天真地对我笑，在空无一人的教室里交换便当，在家里一起玩游戏……但如果被揶揄，把她当女孩子对待，她就会满脸通红，这样的地方突然很可爱。 乡村与都市，少年与少女，成长的心灵与身体。如果在分开的时间里有变化的东西，也有不变的想法和约定…… 和原\"男性朋友\"的青梅竹马编织的青春爱情喜剧开幕!",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
     "link": null,
     "tmdb_id": "250008",
     "tmdb_site_id": "tv/250008",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "286346",
@@ -116,26 +114,36 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633836",
-    "type": "link",
+    "id": "65942",
+    "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
     "releaseDate": "2026-08-12",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.6",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
-    "id": "517106",
-    "type": "link",
+    "id": "222623",
+    "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
     "releaseDate": "2026-07-17",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "6.3",
     "description": "2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
-    "link": "https://bgm.tv/subject/517106"
+    "link": null,
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "298994",
@@ -187,7 +195,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_82Fm9.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "5.8",
+    "rating": "5.9",
     "description": "12话 /  2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
     "link": null,
     "tmdb_id": "287075",
@@ -215,15 +223,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "528828",
-    "type": "link",
+    "id": "123528",
+    "type": "tmdb",
     "title": "骸骨骑士大人异世界冒险中 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1d/71/528828_oQl2M.jpg",
     "releaseDate": "2026-07-06",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.6",
     "description": "12话 /  2026年7月6日 / 小野勝巳 / 秤猿鬼（オーバーラップノベルス刊）/ 漫画: サワノアキラ(澤野明)（「コミックガルド」連載） / 今西亨",
-    "link": "https://bgm.tv/subject/528828"
+    "link": null,
+    "tmdb_id": "123528",
+    "tmdb_site_id": "tv/123528/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "326119",
@@ -281,7 +294,7 @@
     "id": "296437",
     "type": "tmdb",
     "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_yITHq.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
     "releaseDate": "2026-07-10",
     "mediaType": "tv",
     "rating": "5.7",
@@ -294,15 +307,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "412144",
-    "type": "link",
+    "id": "139512",
+    "type": "tmdb",
     "title": "恋爱游戏世界对路人角色很不友好 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
     "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.7",
+    "mediaType": "tv",
+    "rating": "5.6",
     "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": "https://bgm.tv/subject/412144"
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "298103",
@@ -329,7 +347,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "6.2",
+    "rating": "6.1",
     "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
     "link": "https://bgm.tv/subject/565701"
   },

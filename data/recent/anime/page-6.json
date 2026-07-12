@@ -128,15 +128,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637124",
-    "type": "link",
+    "id": "254492",
+    "type": "tmdb",
     "title": "花样少年少女 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/20/0f/637124_6DDda.jpg",
     "releaseDate": "2026-07-01",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.8",
     "description": "13话 /  2026年7月1日 / 竹村菜月 / 中条比紗也（白泉社・花とゆめコミックス） / 蘇詩宜（苏诗宜）",
-    "link": "https://bgm.tv/subject/637124"
+    "link": null,
+    "tmdb_id": "254492",
+    "tmdb_site_id": "tv/254492/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "209867",

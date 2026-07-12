@@ -114,15 +114,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "603352",
-    "type": "link",
+    "id": "110837",
+    "type": "tmdb",
     "title": "文豪野犬 汪！第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/c8/603352_n5RgE.jpg",
     "releaseDate": "2026-07-02",
-    "mediaType": "anime",
-    "rating": "6.5",
+    "mediaType": "tv",
+    "rating": "6.4",
     "description": "12话 /  2026年7月2日 / 菊池聡延 / 朝霧カフカ；漫画：かないねこ / 代見裕美",
-    "link": "https://bgm.tv/subject/603352"
+    "link": null,
+    "tmdb_id": "110837",
+    "tmdb_site_id": "tv/110837/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "42500",
@@ -312,15 +317,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "575559",
-    "type": "link",
+    "id": "80867",
+    "type": "tmdb",
     "title": "一脸嫌弃表情的妹子给你看胖次R",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/1e/575559_v6ks9.jpg",
     "releaseDate": "2026-04-30",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.5",
     "description": "6话 /  2026年4月30日 / 深瀬沙哉 / 40原",
-    "link": "https://bgm.tv/subject/575559"
+    "link": null,
+    "tmdb_id": "80867",
+    "tmdb_site_id": "tv/80867/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "1429",

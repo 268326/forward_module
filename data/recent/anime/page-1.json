@@ -1,14 +1,19 @@
 [
   {
-    "id": "501963",
-    "type": "link",
+    "id": "94664",
+    "type": "tmdb",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "8.1",
+    "mediaType": "tv",
+    "rating": "8.0",
     "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "312949",
@@ -81,7 +86,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "7.8",
+    "rating": "7.9",
     "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ（秋田書店「Souffle」連載） / 吉田健一",
     "link": null,
     "tmdb_id": "288971",
@@ -107,15 +112,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "569116",
-    "type": "link",
+    "id": "79166",
+    "type": "tmdb",
     "title": "碧蓝之海 第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
     "releaseDate": "2026-07-06",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.3",
     "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
-    "link": "https://bgm.tv/subject/569116"
+    "link": null,
+    "tmdb_id": "79166",
+    "tmdb_site_id": "tv/79166/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "638497",
@@ -183,7 +193,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
     "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "7.7",
+    "rating": "7.6",
     "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる（小学館「ゲッサン」連載中） / 瀬川健寿",
     "link": null,
     "tmdb_id": "287028",
@@ -253,7 +263,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "6.4",
+    "rating": "6.3",
     "description": "13话 /  2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
     "link": null,
     "tmdb_id": "312020",
@@ -298,19 +308,17 @@
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
-    "posterPath": "https://image.tmdb.org/t/p/w500/tS7mxwOZrbW5IhGUMjOvWIg0YlT.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "炒炒炒！炒得热气冲天、香味四溢！！一个是中国菜得霸王，一个是中国菜得帝王，两位顶尖厨师得竞争，延续到了下一代。霸王得传人—秋山酱，认为料理得好坯在于『胜负』；帝王得传人—五番町雾子，认为『心』才是料理好坯得关键，孰对孰错，就由锅里见真章！！",
+    "rating": "6.8",
+    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
     "link": null,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "117120",
@@ -319,7 +327,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
     "link": null,
     "tmdb_id": "117120",
@@ -329,15 +337,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "585820",
-    "type": "link",
+    "id": "258348",
+    "type": "tmdb",
     "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
     "releaseDate": "2026-07-08",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "6.6",
     "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
-    "link": "https://bgm.tv/subject/585820"
+    "link": null,
+    "tmdb_id": "258348",
+    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "309974",
@@ -346,7 +359,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "6.7",
+    "rating": "6.8",
     "description": "2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月",
     "link": null,
     "tmdb_id": "309974",

@@ -45,15 +45,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "454083",
-    "type": "link",
+    "id": "109805",
+    "type": "tmdb",
     "title": "碧蓝航线：微速前行！第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "6.6",
     "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
-    "link": "https://bgm.tv/subject/454083"
+    "link": null,
+    "tmdb_id": "109805",
+    "tmdb_site_id": "tv/109805/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "245842",
@@ -78,7 +83,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.6",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",
@@ -120,15 +125,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "529723",
-    "type": "link",
+    "id": "240576",
+    "type": "tmdb",
     "title": "魔法光源股份有限公司 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/ae/529723_9qSo4.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "6.4",
     "description": "2026年7月4日 / 福島利規 / 岩田雪花・青木裕（集英社「少年ジャンプ＋」連載） / 藤井昌宏",
-    "link": "https://bgm.tv/subject/529723"
+    "link": null,
+    "tmdb_id": "240576",
+    "tmdb_site_id": "tv/240576/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "293697",
@@ -212,7 +222,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "5.9",
+    "rating": "6.0",
     "description": "2026年7月4日 / 馬引圭 / タカキツヨシ（集英社刊） / 鈴木豪",
     "link": null,
     "tmdb_id": "285993",
@@ -306,20 +316,18 @@
   {
     "id": "297826",
     "type": "tmdb",
-    "title": "盗掘王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/arohqBQaGUFnqNqwERlIVQNmLFv.jpg",
+    "title": "盗墓王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/d3/621835_IFhDH.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2025年，世界各地出现了神秘的「古墓」，古墓中的「文物」能赋予持有者异能力，更有不少人利用这些力量谋财。靠着「遗物」赋予的异能力以盗墓为生的刚力辽河，却因雇主大河原泰政的背叛，在「墓」中被逼入绝境，命悬一线。此时，一个突然开口说话的「乌鸦遗物」救了他一命。回过神来，他发现自己竟穿越回到了15年前的2025年！为了向大河原报复，辽河凭借著未来的记忆与知识作为武器，向所有掌握财富与权力的统治者们亮出獠牙！他将利用「文物」攀上世界顶点，成为真正的「盗墓王」!",
+    "rating": "4.7",
+    "description": "12话 /  2026年7月8日 / 우승욱(Woo Seung Wook) / 산지직송(SAN.G)・윤쓰(Yuns)(REDICE STUDIO) / 이현정[Lee Hyun Joung]",
     "link": null,
     "tmdb_id": "297826",
     "tmdb_site_id": "tv/297826",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
