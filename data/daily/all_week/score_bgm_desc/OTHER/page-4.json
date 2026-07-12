@@ -1,5 +1,35 @@
 [
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？第六季",
+    "posterPath": null,
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "663982",
+    "type": "link",
+    "title": "精灵梦叶罗丽 第十一季 下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/a5/663982_3B5Ok.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/663982",
+    "bgm_id": "663982",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "542847",
     "type": "link",
     "title": "怪物大师",
@@ -55,21 +85,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "633711",
-    "type": "link",
-    "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633711",
-    "bgm_id": "633711",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

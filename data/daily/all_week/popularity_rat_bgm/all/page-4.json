@@ -58,12 +58,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "4.3",
+    "rating": "4.4",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/658254",
     "bgm_id": "658254",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 4.4,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 3
   },
   {
@@ -276,6 +276,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "516426",
+    "type": "link",
+    "title": "一斩苍穹",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ef/2e/516426_f5iQZ.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/516426",
+    "bgm_id": "516426",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "326697",
     "type": "tmdb",
     "title": "地球大好き！きっくん",
@@ -378,27 +393,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "208208",
-    "type": "tmdb",
-    "title": "Breaking Bear",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "663695",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "208208",
-    "tmdb_site_id": "tv/208208",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

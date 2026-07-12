@@ -1,18 +1,25 @@
 [
   {
-    "id": "633711",
-    "type": "link",
+    "id": "328237",
+    "type": "tmdb",
     "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/m1yevLnfeARJSA3KinN9JvDjXFv.jpg",
     "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633711",
+    "link": null,
     "bgm_id": "633711",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "328237",
+    "tmdb_site_id": "tv/328237",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "659686",

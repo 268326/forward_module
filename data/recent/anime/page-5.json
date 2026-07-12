@@ -1,21 +1,5 @@
 [
   {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
-    "releaseDate": "2024-04-07",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "237529",
     "type": "tmdb",
     "title": "金牌得主 第二季",
@@ -32,13 +16,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "105248",
+    "type": "tmdb",
+    "title": "赛博浪客",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/83/309311_dJU58.jpg",
+    "releaseDate": "2022-09-13",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "10话 /  2022年9月13日 / 今石洋之 / CD Projekt（Cyberpunk 2077, set in a universe created by Mike Pondsmith） / 吉成曜",
+    "link": null,
+    "tmdb_id": "105248",
+    "tmdb_site_id": "tv/105248",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "353181",
     "type": "link",
     "title": "佐贺偶像是传奇 梦想银河乐园",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/6e/353181_3ksLx.jpg",
     "releaseDate": "2025-10-24",
     "mediaType": "anime",
-    "rating": "7.9",
+    "rating": "7.8",
     "description": "1话 /  2025年10月24日 / 佐藤威・石田貴史 / 広報広聴課ゾンビ係 / 深川可純・山口仁七・崔ふみひで",
     "link": "https://bgm.tv/subject/353181"
   },
@@ -54,6 +54,22 @@
     "link": null,
     "tmdb_id": "65942",
     "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
+    "releaseDate": "2021-10-03",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "12话 /  2021年10月3日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆、髙橋瑞紀",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -86,6 +102,35 @@
     "link": "https://bgm.tv/subject/451757"
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "8话 /  2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
+    "link": "https://bgm.tv/subject/633354"
+  },
+  {
+    "id": "315054",
+    "type": "tmdb",
+    "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "有一份通知从天而降来到没落贵族的千金，艾尔莎的身边。那就是来自超级精英贵族，尤里乌斯的求婚。“如此出色的人为何要找我？”尽管虽然觉得不可思议但还是决定结婚，可是在婚礼后，迄今为止一直温柔平静的尤里乌斯突然性情大变！用冰冷的声音传达道“今后，我完全没有打算要爱你”？！性格别扭的次任公爵×积极向上的没落千金的令人焦急的心动恋爱故事。",
+    "link": null,
+    "tmdb_id": "315054",
+    "tmdb_site_id": "tv/315054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "95479",
     "type": "tmdb",
     "title": "咒术回战 死灭回游 前篇",
@@ -97,22 +142,6 @@
     "link": null,
     "tmdb_id": "95479",
     "tmdb_site_id": "tv/95479",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
-    "releaseDate": "2021-10-03",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "12话 /  2021年10月3日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆、髙橋瑞紀",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -182,40 +211,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "315054",
+    "id": "297557",
     "type": "tmdb",
-    "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "黑猫与魔女的教室",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/1b/576351_3yf4O.jpg",
+    "releaseDate": "2026-04-12",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "有一份通知从天而降来到没落贵族的千金，艾尔莎的身边。那就是来自超级精英贵族，尤里乌斯的求婚。“如此出色的人为何要找我？”尽管虽然觉得不可思议但还是决定结婚，可是在婚礼后，迄今为止一直温柔平静的尤里乌斯突然性情大变！用冰冷的声音传达道“今后，我完全没有打算要爱你”？！性格别扭的次任公爵×积极向上的没落千金的令人焦急的心动恋爱故事。",
+    "rating": "5.8",
+    "description": "2026年4月12日 / 龍輪直征 / 金田陽介（講談社「マガジンポケット」連載） / 小野田貴之",
     "link": null,
-    "tmdb_id": "315054",
-    "tmdb_site_id": "tv/315054",
+    "tmdb_id": "297557",
+    "tmdb_site_id": "tv/297557",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "315816",
-    "type": "tmdb",
-    "title": "茉莉花酱的好感度正在崩坏",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
-    "releaseDate": "2026-04-05",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
-    "link": null,
-    "tmdb_id": "315816",
-    "tmdb_site_id": "tv/315816",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "284568",
@@ -250,47 +259,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "8话 /  2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
-    "link": "https://bgm.tv/subject/633354"
-  },
-  {
-    "id": "297557",
+    "id": "315816",
     "type": "tmdb",
-    "title": "黑猫与魔女的教室",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/1b/576351_3yf4O.jpg",
-    "releaseDate": "2026-04-12",
+    "title": "茉莉花酱的好感度正在崩坏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ga9HboJAMkTjvOzaimjedeCP8fe.jpg",
+    "releaseDate": "2026-04-05",
     "mediaType": "tv",
-    "rating": "5.8",
-    "description": "2026年4月12日 / 龍輪直征 / 金田陽介（講談社「マガジンポケット」連載） / 小野田貴之",
+    "rating": "5.2",
+    "description": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
     "link": null,
-    "tmdb_id": "297557",
-    "tmdb_site_id": "tv/297557",
+    "tmdb_id": "315816",
+    "tmdb_site_id": "tv/315816",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "274622",
-    "type": "tmdb",
-    "title": "加油吧！中村君！！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
-    "releaseDate": "2026-04-01",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
-    "link": null,
-    "tmdb_id": "274622",
-    "tmdb_site_id": "tv/274622",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "303870",
@@ -352,17 +336,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "306721",
+    "id": "274622",
     "type": "tmdb",
-    "title": "名侦探光之美少女！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg",
-    "releaseDate": "2026-02-01",
+    "title": "加油吧！中村君！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/508455_6RoG6.jpg",
+    "releaseDate": "2026-04-01",
     "mediaType": "tv",
-    "rating": "6.7",
-    "description": "51话 /  2026年2月1日 / 東堂いづみ (連載/講談社「たのしい幼稚園」「おともだち」) / 矢野茜",
+    "rating": "7.3",
+    "description": "13话 /  2026年4月1日 / 梅木葵 / 春泥（ヒーローズ刊） / 梅木葵",
     "link": null,
-    "tmdb_id": "306721",
-    "tmdb_site_id": "tv/306721",
+    "tmdb_id": "274622",
+    "tmdb_site_id": "tv/274622",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "277513",
+    "type": "tmdb",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
+    "releaseDate": "2025-07-07",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2025年7月7日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": null,
+    "tmdb_id": "277513",
+    "tmdb_site_id": "tv/277513",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

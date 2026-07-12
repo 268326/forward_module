@@ -1,5 +1,35 @@
 [
   {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/598058",
+    "bgm_id": "598058",
+    "bgm_score": 7.4,
+    "bgm_rating_total": 497,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中第六季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "619052",
     "type": "link",
     "title": "あはれ！名作くん 完全新作",
@@ -26,22 +56,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.8,
-    "bgm_rating_total": 12,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "633711",
-    "type": "link",
-    "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633711",
-    "bgm_id": "633711",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7
   },
   {
@@ -56,7 +71,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 562,
+    "bgm_rating_total": 571,
     "bgm_weekday_id": 7
   },
   {

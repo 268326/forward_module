@@ -1,5 +1,20 @@
 [
   {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中第六季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
@@ -11,7 +26,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.7,
-    "bgm_rating_total": 270,
+    "bgm_rating_total": 285,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -48,23 +63,30 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.8,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7
   },
   {
-    "id": "633711",
-    "type": "link",
+    "id": "328237",
+    "type": "tmdb",
     "title": "プラノサウルス ガチコセイブツ部",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ea/4c/633711_V28UU.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/m1yevLnfeARJSA3KinN9JvDjXFv.jpg",
     "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633711",
+    "link": null,
     "bgm_id": "633711",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "328237",
+    "tmdb_site_id": "tv/328237",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "638497",
@@ -78,7 +100,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 562,
+    "bgm_rating_total": 571,
     "bgm_weekday_id": 7
   },
   {

@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/5a/fe/569671_0HZvf.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "6.3",
+    "rating": "6.2",
     "description": "[星期一]",
     "link": null,
     "bgm_id": "569671",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 24,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 1,
     "tmdb_id": "295840",
     "tmdb_site_id": "tv/295840",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/637124",
     "bgm_id": "637124",
     "bgm_score": 5.8,
-    "bgm_rating_total": 24,
+    "bgm_rating_total": 25,
     "bgm_weekday_id": 3
   },
   {
@@ -116,12 +116,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "4.3",
+    "rating": "4.4",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/658254",
     "bgm_id": "658254",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 4.4,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 3
   },
   {
@@ -198,6 +198,21 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "516426",
+    "type": "link",
+    "title": "一斩苍穹",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ef/2e/516426_f5iQZ.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/516426",
+    "bgm_id": "516426",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
   },
   {
     "id": "641326",
