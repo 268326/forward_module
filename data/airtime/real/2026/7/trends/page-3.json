@@ -1,37 +1,110 @@
 [
   {
-    "id": "285838",
-    "type": "tmdb",
-    "title": "夺命许愿",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zMuisSjF08Fuk5ywZH9k1ab2SiW.jpg",
+    "id": "620937",
+    "type": "link",
+    "title": "匹兹堡医护前线 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/97/43/620937_x6tHx.jpg",
     "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.9",
+    "description": "15话 /  2026-01-08",
+    "link": "https://bgm.tv/subject/620937"
+  },
+  {
+    "id": "317246",
+    "type": "tmdb",
+    "title": "顾问：书写死亡的男人",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gYjE0gnKjeVa8HTrHYcumY2F8Ny.jpg",
+    "releaseDate": "2026-06-07",
     "mediaType": "tv",
-    "rating": "8.1",
-    "description": "一款神秘的应用程序承诺能实现愿望，却紧接着启动死亡倒计时。一群青少年因此卷入其中，他们必须打破这条致命连锁才能活下去。",
+    "rating": "0.0",
+    "description": "怀揣小说家梦想、在旧书店打工的推理迷伊崎耀，某日接到自称出版社代理人的神秘男子邀约，请他撰写一部犯罪小说——内容是让名为“主人公”的目标在无人察觉的情况下被“完美暗杀”。在对方话术诱导下，伊崎毫不怀疑地完成了作品，却震惊地发现小说情节竟在现实中一一成真。原来，有一家神秘公司专门执行“杀害”任务，并派出神秘女经理监视他。被卷入将“死亡”商品化的巨大黑暗组织，伊崎逐渐失去退路，他的命运也被推向未知深渊。",
     "link": null,
-    "tmdb_id": "285838",
-    "tmdb_site_id": "tv/285838",
+    "tmdb_id": "317246",
+    "tmdb_site_id": "tv/317246",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "KR"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "289147",
+    "id": "639253",
+    "type": "link",
+    "title": "ラジオもガンバレ！中村くん！！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/1f/639253_19GgS.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-04-02 / 小林千晃（中村男久斗役）、榊原優希（広瀬愛貴役）",
+    "link": "https://bgm.tv/subject/639253"
+  },
+  {
+    "id": "321267",
     "type": "tmdb",
-    "title": "灵魂摆渡·十年",
-    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
-    "releaseDate": "2026-06-02",
+    "title": "有点伟大的旅程",
+    "posterPath": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "9.1",
-    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+    "rating": "7.3",
+    "description": "杰里米·克拉克森、理查德·哈蒙德和詹姆斯·梅共同主持了三场特别节目，回顾他们在《伟大的旅程》中最难忘的时刻。从加利福尼亚到蒙古，再到意大利以及途经的各个地方，他们日渐模糊的记忆在这些旅程中徐徐展开。",
     "link": null,
-    "tmdb_id": "289147",
-    "tmdb_site_id": "tv/289147",
+    "tmdb_id": "321267",
+    "tmdb_site_id": "tv/321267",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "GB"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "622067",
+    "type": "link",
+    "title": "奥德赛",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/1e/622067_6O8yo.jpg",
+    "releaseDate": "2026-07-17",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年7月17日、2026年8月14日（中国大陆） / Christopher Nolan / Christopher Nolan / Matt Damon",
+    "link": "https://bgm.tv/subject/622067"
+  },
+  {
+    "id": "658138",
+    "type": "link",
+    "title": "大追跡～警視庁SSBC強行犯係～ Season2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1d/9e/658138_D521u.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年7月22日 / 福田靖 / 大森南朋、相葉雅紀、松下奈緒",
+    "link": "https://bgm.tv/subject/658138"
+  },
+  {
+    "id": "541822",
+    "type": "link",
+    "title": "夜魔侠：重生 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
+    "releaseDate": "2026-03-25",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "8话 /  2026年3月25日 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
+    "link": "https://bgm.tv/subject/541822"
+  },
+  {
+    "id": "244189",
+    "type": "tmdb",
+    "title": "向流星许愿的我们",
+    "posterPath": "https://image.tmdb.org/t/p/w500/h24N0obh83475hufeu6sex4ZE18.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
+    "link": null,
+    "tmdb_id": "244189",
+    "tmdb_site_id": "tv/244189",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "TW"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -54,74 +127,60 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "286360",
+    "id": "252161",
     "type": "tmdb",
-    "title": "最后一排的男孩",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yJQrIrVEI03HhDsD44mYbdFlwgp.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "凶宅专卖店",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bpTdunSUVZ9rxNfQIQBCmS9gaWF.jpg",
+    "releaseDate": "2026-01-16",
     "mediaType": "tv",
-    "rating": "7.9",
-    "description": "一名曾经写作失意、后来转任教授的男子，在学生的作品中发现罕见才华，并逐渐对他的草稿产生执念，而两人的私人指导也开始走偏。",
+    "rating": "9.5",
+    "description": "阿泽为了妹妹欣爱的医药费，打算出售居住多年的凶宅，却误打误撞成了义胜房屋的菜鸟房仲，这间凶宅专卖店，有着亲切的中年店长雄哥、举止像流氓的勇仁、零食不离手的馒头。第一天上班，阿泽就遇上灵异事件，慈安堂的毕婆婆带着有灵异体质的孙女小墨前来搭救。这一群杂牌军就这么经营起来，更加入了新人伙伴李静。正当大伙度过一次次卖屋危机时，殊不知，背后有着更大的阴谋等着他们……",
     "link": null,
-    "tmdb_id": "286360",
-    "tmdb_site_id": "tv/286360",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316992",
-    "type": "tmdb",
-    "title": "汤姆·汉克斯讲二战",
-    "posterPath": "https://image.tmdb.org/t/p/w500/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "二战结束至今已过去八十年，这场战争依旧深刻塑造着现代世界的政治格局与集体记忆。影片由汤姆·汉克斯担任讲述，以当代视角重新审视这场改变人类历史进程的全球冲突，在宏大战争叙事之外，也试图还原“全面战争”背后真实而沉重的人性代价。",
-    "link": null,
-    "tmdb_id": "316992",
-    "tmdb_site_id": "tv/316992",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "198178",
-    "type": "tmdb",
-    "title": "奇迹人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5wfW72dFSqJGboyh6fCD01wxrLv.jpg",
-    "releaseDate": "2026-01-27",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "该剧改编自漫威漫画，主要讲述了好莱坞演员西蒙·威廉姆斯进入超级英雄世界，获得超能力，成为新超级英雄“奇迹人”的故事。",
-    "link": null,
-    "tmdb_id": "198178",
-    "tmdb_site_id": "tv/198178",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "244189",
-    "type": "tmdb",
-    "title": "向流星许愿的我们",
-    "posterPath": "https://image.tmdb.org/t/p/w500/h24N0obh83475hufeu6sex4ZE18.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "在能以愿望交换现实的星浦屿，绝望的何向永许愿「想消失」，醒来竟变成被世界遗忘的「钟小右」，仅剩挚友李宛哲知情。同时，向永暗恋的皓维带着伤痛返岛，不自觉被小右吸引；而宛哲向流星祈求轰烈爱情，唤来了神秘渔工小海。 当愿望的代价浮现，记忆与身分面临消逝的危机。四人交织出两段命定却危险的爱恋，他们必须在幻影与真实间做出抉择，完成一段关于奇幻与自我救赎的疗愈之旅。",
-    "link": null,
-    "tmdb_id": "244189",
-    "tmdb_site_id": "tv/244189",
+    "tmdb_id": "252161",
+    "tmdb_site_id": "tv/252161",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "TW"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "653460",
+    "type": "link",
+    "title": "CROSSROAD ～急诊救命的约定～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/e9/653460_cbL1A.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-07-07 / 及川拓郎、中前勇児 / 髙橋泉 / 今田美桜",
+    "link": "https://bgm.tv/subject/653460"
+  },
+  {
+    "id": "664548",
+    "type": "link",
+    "title": "还没完呢！在日向坂相遇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/50/664548_k4izn.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026-07-06 / 日向坂46",
+    "link": "https://bgm.tv/subject/664548"
+  },
+  {
+    "id": "289147",
+    "type": "tmdb",
+    "title": "灵魂摆渡·十年",
+    "posterPath": "https://image.tmdb.org/t/p/w500/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+    "releaseDate": "2026-06-02",
+    "mediaType": "tv",
+    "rating": "9.1",
+    "description": "幻海市，拥有阴阳眼的夏冬青（刘智扬 饰）与九天玄女娅（肖茵 饰）已结为夫妻，共同经营着昼夜转换的444号便利店。一位酷似失踪老友赵吏的“守夜人”赵恒之（于毅 饰）突然出现，与二人结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起奇异事件，然而一场意外打破了平静。红月当空之际，众人联手诛灭幕后阴谋，幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+    "link": null,
+    "tmdb_id": "289147",
+    "tmdb_site_id": "tv/289147",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -153,28 +212,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "623665",
-    "type": "link",
-    "title": "AGITO 超能力战争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/83/623665_ozHZF.jpg",
-    "releaseDate": "2026-04-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年4月29日 / 田﨑竜太 / 井上敏樹",
-    "link": "https://bgm.tv/subject/623665"
-  },
-  {
-    "id": "323569",
+    "id": "311844",
     "type": "tmdb",
-    "title": "仆人的王子殿下",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pJdli3trZ1dUmRwkYXW3sZKiSUp.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "乞救之噬，覆食殆尽",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8nPGMEjFFqyuT3NZZfKsVxJ0q2b.jpg",
+    "releaseDate": "2026-02-12",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "　　社长之子、文武双全、校内站在金字塔顶端的五藤直也（小川饰），以及每天被他使唤来使唤去、身处底层阴角的高明（濑户饰）。即使面对直也不讲理的要求，高明也一直顺从。十年后，直也经营公司失败，失去了一切，处于无业状态。而高明则作为一家初创公司的年轻社长取得了成功，两人的社会地位完全逆转。即便如此，高明如今仍像“仆人”一样侍奉在直也身边。这是一种可悲又滑稽，略带扭曲却从未中断的关系。作品中描绘了两人在近乎执着的专一情感，以及自尊与自卑的夹缝中挣扎，同时关系逐渐发生变化的模样。\n\n　　故事讲述了曾经如“王子”般君临天下的男人，与一直服从于他的“仆人”，在社会地位逆转后，历经十年的主仆关系。",
+    "description": "新人偶像南濑天在团体中长期遭受排挤与欺凌。某天，她意外获得机会，在人气演员宝生千秋主演的电视剧中担任替身，从而与他相遇。起初，千秋只是接受朋友的赌约，抱着玩笑的心态接近天，却渐渐被她的单纯与坚强吸引。随着感情加深，他的爱开始失控，从温柔守护变成强烈占有。爱与执念的界线逐渐崩塌，一场危险而扭曲的恋情悄然展开。",
     "link": null,
-    "tmdb_id": "323569",
-    "tmdb_site_id": "tv/323569",
+    "tmdb_id": "311844",
+    "tmdb_site_id": "tv/311844",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -182,22 +230,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "278178",
-    "type": "tmdb",
-    "title": "我会找到你",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xlmw7sjlcnBGpp8NK18YBD6soz3.jpg",
+    "id": "664854",
+    "type": "link",
+    "title": "世界奇妙物语 2026 夏季特别篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/8a/664854_p51fX.jpg",
     "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.2",
-    "description": "一名父亲因被误判杀害亲生儿子而入狱，却在得知儿子可能仍然活着后，展开一场绝望的救子行动。",
-    "link": null,
-    "tmdb_id": "278178",
-    "tmdb_site_id": "tv/278178",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-06-27",
+    "link": "https://bgm.tv/subject/664854"
   },
   {
     "id": "304928",
@@ -211,73 +252,6 @@
     "link": null,
     "tmdb_id": "304928",
     "tmdb_site_id": "tv/304928",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "613912",
-    "type": "link",
-    "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/d5/613912_r38YL.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
-    "link": "https://bgm.tv/subject/613912"
-  },
-  {
-    "id": "246029",
-    "type": "tmdb",
-    "title": "喧嘩独学",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/77/623841_bjJ7e.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "2026-06-11 / 武内英樹 / 徳永友一 / 鈴鹿央士",
-    "link": null,
-    "tmdb_id": "246029",
-    "tmdb_site_id": "tv/246029",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633250",
-    "type": "link",
-    "title": "岸辺露伴は動かない「泉京香は黙らない」",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/46/633250_5dB3B.jpg",
-    "releaseDate": "2026-05-04",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年5月4日 / 関友太郎、平瀬謙太朗 / 飯豊まりえ、高橋一生",
-    "link": "https://bgm.tv/subject/633250"
-  },
-  {
-    "id": "642429",
-    "type": "link",
-    "title": "MUSIC AWARDS JAPAN WEEK SPECIAL LIVE  リスアニ！LIVE on TOKYO ANIME MUSIC HIGHLIGHTS",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/7e/642429_FbDuB.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026-06-09 / アイドルマスター シャイニーカラーズ【コメティック】、オーイシマサヨシ（大石昌良）、TrySail、MyGO!!!!!、 ラブライブ！サンシャイン!!【Guilty Kiss,Saint Snow】、TeddyLoid（Special DJ SET）",
-    "link": "https://bgm.tv/subject/642429"
-  },
-  {
-    "id": "314642",
-    "type": "tmdb",
-    "title": "为时已是寿司！？",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4agYiViMdpyklindbiUJTEFrVCC.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "丈夫去世后独自抚养儿子长大的50岁女性待山凑（永作博美 饰），在儿子独立离家后突然失去生活重心。迷茫之际，她意外进入一所“三个月速成寿司职人”的寿司学院学习。面对严肃古板、对寿司抱有极高自尊的男讲师大江户海弥（松山研一 饰），以及性格各异的同学们，凑在手忙脚乱中重新找回生活节奏，也逐渐思考“为自己而活”的意义。与此同时，她与那位总是与自己意见相左的寿司讲师之间，关系悄然发生变化，一段迟来的成年人恋爱也在不知不觉中展开。",
-    "link": null,
-    "tmdb_id": "314642",
-    "tmdb_site_id": "tv/314642",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -303,6 +277,57 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "642429",
+    "type": "link",
+    "title": "MUSIC AWARDS JAPAN WEEK SPECIAL LIVE  リスアニ！LIVE on TOKYO ANIME MUSIC HIGHLIGHTS",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2f/7e/642429_FbDuB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-06-09 / アイドルマスター シャイニーカラーズ【コメティック】、オーイシマサヨシ（大石昌良）、TrySail、MyGO!!!!!、 ラブライブ！サンシャイン!!【Guilty Kiss,Saint Snow】、TeddyLoid（Special DJ SET）",
+    "link": "https://bgm.tv/subject/642429"
+  },
+  {
+    "id": "665122",
+    "type": "link",
+    "title": "野探哈莉 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0e/7e/665122_zXyyR.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "6话 /  2026-06-22",
+    "link": "https://bgm.tv/subject/665122"
+  },
+  {
+    "id": "229891",
+    "type": "tmdb",
+    "title": "爱情怎么翻译？",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kDd4zcu7ZxshPabiznEHQfl7khz.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.4",
+    "description": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
+    "link": null,
+    "tmdb_id": "229891",
+    "tmdb_site_id": "tv/229891",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "633271",
+    "type": "link",
+    "title": "泰迪熊 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/23/633271_7onv6.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "7.1",
+    "description": "8话 /  2026-03-05",
+    "link": "https://bgm.tv/subject/633271"
+  },
+  {
     "id": "289424",
     "type": "tmdb",
     "title": "努力克服自卑的我们",
@@ -314,78 +339,6 @@
     "link": null,
     "tmdb_id": "289424",
     "tmdb_site_id": "tv/289424",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323858",
-    "type": "tmdb",
-    "title": "亲爱的丈夫～完美妻子的谎言～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u8us0TfjfPEEBquebe37V5Avx56.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "聚焦于一对结婚10年、在外人眼中完美无瑕的恩爱夫妻。丈夫是节目的王牌主持，妻子则是打理他演艺事务的个人事务所精明女总裁。然而，世人皆不知妻子那近乎疯狂的控制欲——跟踪、盗听、甚至不惜代价挖出竞争对手的丑闻，只为将丈夫完美掌控。就在丈夫忍无可忍递出离婚协议书的第二天，妻子却突然离奇“死亡”。随着丈夫开始追寻爱妻的死亡真相，那些不为人知的伪装与秘密也开始逐一剥落。",
-    "link": null,
-    "tmdb_id": "323858",
-    "tmdb_site_id": "tv/323858",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323411",
-    "type": "tmdb",
-    "title": "吸血鬼莱斯特",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2EeNjYLPtqT6yT9hGEGyJRzXlgQ.jpg",
-    "releaseDate": "2026-06-07",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "在以摇滚乐为主题的新季中，吸血鬼莱斯特开启了一场火花四溅的跨城巡演，同时被那些来自狂野叛逆过去的“缪斯”所纠缠。随着乐队人气和明星光环的飙升，莱斯特对吸血鬼和人类的影响力也与日俱增，在吸血鬼人口非自然激增的“大转化”背景下，其他人不得不面对莱斯特的全新势力。",
-    "link": null,
-    "tmdb_id": "323411",
-    "tmdb_site_id": "tv/323411",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "258865",
-    "type": "tmdb",
-    "title": "白日提灯​",
-    "posterPath": "https://image.tmdb.org/t/p/w500/Av5Bpf3nAMPDQFx3iVAy4m6bntY.jpg",
-    "releaseDate": "2026-03-28",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "天赋卓然的万灵之主贺思慕，在休沐觅食时意外遇见了小将军段胥。携带着她故人之物的这个小将军似乎并非真正的段胥？两人你来我往互相试探，贺思慕终于了解了段胥黑暗的过往以及心中的志向，而段胥也发现了贺思慕的坚守和孤独。寿命不过百年的凡人和四百岁仍是少女的恶鬼，以爱意抵抗时间洪流。",
-    "link": null,
-    "tmdb_id": "258865",
-    "tmdb_site_id": "tv/258865",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "282810",
-    "type": "tmdb",
-    "title": "法官李汉英",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pSvHtvThGPOstnl2eK1oc0CQWaa.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "讲述了一名在大型律师事务所工作的奴隶法官李汉英，回到十年前以新的选择惩罚恶人的故事。",
-    "link": null,
-    "tmdb_id": "282810",
-    "tmdb_site_id": "tv/282810",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "KR"

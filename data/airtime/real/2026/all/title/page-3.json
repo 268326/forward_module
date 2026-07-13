@@ -1,5 +1,16 @@
 [
   {
+    "id": "627635",
+    "type": "link",
+    "title": "布里奇顿 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/af/627635_XKRe9.jpg",
+    "releaseDate": "2026-01-29",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026年1月29日",
+    "link": "https://bgm.tv/subject/627635"
+  },
+  {
     "id": "637146",
     "type": "link",
     "title": "BYE BYE LOVE 探偵はBARにいる",
@@ -114,10 +125,10 @@
     "type": "link",
     "title": "夜魔侠：重生 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
-    "releaseDate": "2026-01-01",
+    "releaseDate": "2026-03-25",
     "mediaType": "real",
     "rating": "7.5",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
+    "description": "8话 /  2026年3月25日 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
     "link": "https://bgm.tv/subject/541822"
   },
   {
@@ -279,16 +290,5 @@
     "rating": "",
     "description": "3话 /  2026-08-07",
     "link": "https://bgm.tv/subject/662671"
-  },
-  {
-    "id": "662670",
-    "type": "link",
-    "title": "dual twin live tour 双海 亜美・双海 真美 twin live “ ふたごぼしのつばさ ”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/bc/662670_iJ5dy.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "3话 /  2026-08-06",
-    "link": "https://bgm.tv/subject/662670"
   }
 ]

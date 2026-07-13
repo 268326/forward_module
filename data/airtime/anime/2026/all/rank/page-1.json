@@ -32,15 +32,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "501963",
-    "type": "link",
+    "id": "94664",
+    "type": "tmdb",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "8.1",
+    "mediaType": "tv",
+    "rating": "8.0",
     "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": "https://bgm.tv/subject/501963"
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "95479",
@@ -65,8 +70,8 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "7.8",
-    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ（秋田書店「Souffle」連載） / 吉田健一",
+    "rating": "7.9",
+    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
     "link": null,
     "tmdb_id": "288971",
     "tmdb_site_id": "tv/288971",
@@ -86,22 +91,6 @@
     "link": "https://bgm.tv/subject/623179"
   },
   {
-    "id": "237529",
-    "type": "tmdb",
-    "title": "金牌得主 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/08/548818_iLSG6.jpg",
-    "releaseDate": "2026-01-24",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "9话 /  2026年1月24日 / 山本靖貴 / つるまいかだ（講談社「アフタヌーン」連載） / 亀山千夏",
-    "link": null,
-    "tmdb_id": "237529",
-    "tmdb_site_id": "tv/237529/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 丧失篇",
@@ -118,6 +107,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "237529",
+    "type": "tmdb",
+    "title": "金牌得主 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/08/548818_iLSG6.jpg",
+    "releaseDate": "2026-01-24",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "9话 /  2026年1月24日 / 山本靖貴 / つるまいかだ（講談社「アフタヌーン」連載） / 亀山千夏",
+    "link": null,
+    "tmdb_id": "237529",
+    "tmdb_site_id": "tv/237529/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -129,6 +134,22 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "291403",
+    "type": "tmdb",
+    "title": "淡岛百景",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "releaseDate": "2026-04-09",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
+    "link": null,
+    "tmdb_id": "291403",
+    "tmdb_site_id": "tv/291403",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -150,29 +171,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "291403",
-    "type": "tmdb",
-    "title": "淡岛百景",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "releaseDate": "2026-04-09",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
-    "link": null,
-    "tmdb_id": "291403",
-    "tmdb_site_id": "tv/291403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "287028",
     "type": "tmdb",
     "title": "描绘直至生命尽头",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
     "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "7.6",
+    "rating": "7.7",
     "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる（小学館「ゲッサン」連載中） / 瀬川健寿",
     "link": null,
     "tmdb_id": "287028",
@@ -214,28 +219,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "607915",
-    "type": "link",
-    "title": "凡人修仙传 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
-    "releaseDate": "2026-06-13",
-    "mediaType": "anime",
-    "rating": "7.6",
-    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
-    "link": "https://bgm.tv/subject/607915"
-  },
-  {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
-  },
-  {
     "id": "255358",
     "type": "tmdb",
     "title": "攻壳机动队 THE GHOST IN THE SHELL",
@@ -250,6 +233,39 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": "https://bgm.tv/subject/638497"
+  },
+  {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "209867",
@@ -268,26 +284,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
-  },
-  {
-    "id": "633836",
-    "type": "link",
+    "id": "65942",
+    "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
     "releaseDate": "2026-08-12",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.6",
     "description": "8话 /  2026年8月12日 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）",
-    "link": "https://bgm.tv/subject/633836"
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "243430",
@@ -301,6 +311,17 @@
     "link": "https://bgm.tv/subject/243430"
   },
   {
+    "id": "451757",
+    "type": "link",
+    "title": "瑞克和莫蒂 第九季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
+    "releaseDate": "2026-05-24",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "10话 /  2026年5月24日",
+    "link": "https://bgm.tv/subject/451757"
+  },
+  {
     "id": "598058",
     "type": "link",
     "title": "超超超超超喜欢你的100个女朋友 第三季",
@@ -310,17 +331,6 @@
     "rating": "7.4",
     "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
     "link": "https://bgm.tv/subject/598058"
-  },
-  {
-    "id": "451757",
-    "type": "link",
-    "title": "瑞克和莫蒂 第九季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/87/a0/451757_qpMMi.jpg",
-    "releaseDate": "2026-05-24",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "10话 /  2026年5月24日",
-    "link": "https://bgm.tv/subject/451757"
   },
   {
     "id": "229858",

@@ -1,5 +1,106 @@
 [
   {
+    "id": "306479",
+    "type": "tmdb",
+    "title": "PROJECT R.E.D.",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
+    "releaseDate": "2026-02-15",
+    "mediaType": "tv",
+    "rating": "4.3",
+    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
+    "link": null,
+    "tmdb_id": "306479",
+    "tmdb_site_id": "tv/306479",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303143",
+    "type": "tmdb",
+    "title": "我的王室死对头",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.7",
+    "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
+    "link": null,
+    "tmdb_id": "303143",
+    "tmdb_site_id": "tv/303143",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "641417",
+    "type": "link",
+    "title": "超新丁伙头兵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
+    "link": "https://bgm.tv/subject/641417"
+  },
+  {
+    "id": "325021",
+    "type": "tmdb",
+    "title": "请保持名侦探原来的样子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/u1uIRELX4g2Hq6Hoj37wxjElo8D.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乡村小学教师枫，因受到外祖父的影响，自幼便是坚定的推理迷。如今外祖父身患路易体痴呆症，常常能看到一些常人无法察觉的诡异幻觉。当枫将身边发生的各种日常谜团带给外祖父时，他总能敏锐地在幻觉中捕捉到真相的蛛丝马迹，化身“名探侦”逐一破解。",
+    "link": null,
+    "tmdb_id": "325021",
+    "tmdb_site_id": "tv/325021",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316178",
+    "type": "tmdb",
+    "title": "黑江与江间",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1UurwFgn6YEfJJ1E9LQ2JsDmXIE.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "故事围绕着同时失去工作、恋人和住所的30岁女性艾玛展开。她在落魄之际偶遇神秘资产家克洛伊，两人随即在后者的豪宅中开启了同居生活，并共同经营起一家占卜店。通过使用“克罗尼克卡牌”为人排忧解难，这对性格迥异的搭档在解开咨询者心结的同时，也逐渐挖掘出那些隐藏在日常背后的真相。",
+    "link": null,
+    "tmdb_id": "316178",
+    "tmdb_site_id": "tv/316178",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323859",
+    "type": "tmdb",
+    "title": "再见黑色",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6M8jVvxhtuPjlOO3cQcomrqJU0T.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事背景设定在繁华却复杂的东京池袋地区。西池袋警署新设立了“犯罪受害者支援室”，在这里，警察们将贴身陪伴遭遇各类案件的受害者及遗属，协助他们重新积极面对生活。\n\n黑木夏海（小池荣子 饰）是一个能够平等且设身处地陪伴受害者的前刑警，心理学家白石绘梨子（北香那 饰）作为派遣支援员加入，她虽有专业知识却不擅长与人沟通。这两个性格截然相反、内心却各自怀有创伤的边缘人组成搭档，在没有标准答案的部门里互相扶持，共同面对受害者们的痛苦。",
+    "link": null,
+    "tmdb_id": "323859",
+    "tmdb_site_id": "tv/323859",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "314639",
     "type": "tmdb",
     "title": "银河的一票",
@@ -18,20 +119,60 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "316178",
+    "id": "636399",
+    "type": "link",
+    "title": "挽救计划",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
+    "releaseDate": "2026-03-20",
+    "mediaType": "real",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
+    "link": "https://bgm.tv/subject/636399"
+  },
+  {
+    "id": "559852",
+    "type": "link",
+    "title": "VIVANT続編",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7b/559852_D00d1.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "2026年7月 / 堺雅人",
+    "link": "https://bgm.tv/subject/559852"
+  },
+  {
+    "id": "324584",
     "type": "tmdb",
-    "title": "黑江与江间",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1UurwFgn6YEfJJ1E9LQ2JsDmXIE.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "明明已经杀了丈夫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xarn1cwqL02WI1PQQMMXF5JlTRP.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "故事围绕着同时失去工作、恋人和住所的30岁女性艾玛展开。她在落魄之际偶遇神秘资产家克洛伊，两人随即在后者的豪宅中开启了同居生活，并共同经营起一家占卜店。通过使用“克罗尼克卡牌”为人排忧解难，这对性格迥异的搭档在解开咨询者心结的同时，也逐渐挖掘出那些隐藏在日常背后的真相。",
+    "description": "妻子莉乃（内田理央 饰演）擅长烹饪，丈夫庆太（渡边圭祐 饰）温柔体贴。这对夫妻原本过着幸福的生活，然而在结婚纪念日当晚，一段突如其来的直播视频彻底粉碎了莉乃的日常。视频中，戴着面具的丈夫正与一名陌生女子纠缠在一起。得知遭到背叛的莉乃冲入密会现场，在愤怒之下将丈夫庆太乱刀刺死。\n\n然而，莉乃随即遭到了情人英玲奈的反杀，同样丢了性命。当她再次睁开眼时，却发现自己回到了“丈夫出轨被揭穿的那一天”。为了向丈夫和情人复仇，她尝试了各种方法，但每一次都以丧命告终，并再次回到过去。\n\n为什么会发生时间倒流？自己的“复仇”真的错了吗？在不断循环的“死亡轮回”中，莉乃最终触及了一个令人震惊的真相。无尽的爱与疯狂不断加速，将她推入了深不见底的深渊之中。",
     "link": null,
-    "tmdb_id": "316178",
-    "tmdb_site_id": "tv/316178",
+    "tmdb_id": "324584",
+    "tmdb_site_id": "tv/324584",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303084",
+    "type": "tmdb",
+    "title": "入戏",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9HH3S9jjN8mQsvrC6wpS4xiCEcR.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "需要机会告别事业困境的张准去试戏电影《入戏》，遇上了年少成名的影帝甄心。桀骜不逊还是没有边界？面对甄心的得寸进尺，张准摸不清楚甄心的脾气却只能忍耐，最终他通过试戏拿到了角色，与甄心在戏内开始了医生与病患的爱欲较量。可谁能想到甄心却在戏外强吻了他，从那一刻开始戏内戏外是谁已入戏……",
+    "link": null,
+    "tmdb_id": "303084",
+    "tmdb_site_id": "tv/303084",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -54,80 +195,66 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "300529",
+    "id": "270572",
     "type": "tmdb",
-    "title": "地狱占星师",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "蝇王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
+    "releaseDate": "2026-02-08",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "rating": "7.6",
+    "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
     "link": null,
-    "tmdb_id": "300529",
-    "tmdb_site_id": "tv/300529",
+    "tmdb_id": "270572",
+    "tmdb_site_id": "tv/270572",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "GB"
     ],
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "607932",
+    "id": "633250",
     "type": "link",
-    "title": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/87/607932_a7286.jpg",
-    "releaseDate": "2026-06-06",
+    "title": "岸辺露伴は動かない「泉京香は黙らない」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b2/46/633250_5dB3B.jpg",
+    "releaseDate": "2026-05-04",
     "mediaType": "real",
     "rating": "",
-    "description": "2话 /  2026年6月6日",
-    "link": "https://bgm.tv/subject/607932"
+    "description": "2026年5月4日 / 関友太郎、平瀬謙太朗 / 飯豊まりえ、高橋一生",
+    "link": "https://bgm.tv/subject/633250"
   },
   {
-    "id": "303143",
-    "type": "tmdb",
-    "title": "我的王室死对头",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "8.8",
-    "description": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
-    "link": null,
-    "tmdb_id": "303143",
-    "tmdb_site_id": "tv/303143",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "507727",
+    "id": "658610",
     "type": "link",
-    "title": "星球大战：曼达洛人与古古",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
-    "releaseDate": "2026-05-22",
+    "title": "谜探休格 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5a/658610_Dh9M8.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "6.3",
-    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
-    "link": "https://bgm.tv/subject/507727"
+    "rating": "",
+    "description": "8话 /  2026-06-19 / Fernando Meirelles, Adam Arkin / Colin Farrell, Amy Ryan, Dennis Boutsikaris, Anna Gunn, James Cromwell, Kirby Howell-Baptiste, Nate Corddry, Sydney Chandler, Alex Hernandez",
+    "link": "https://bgm.tv/subject/658610"
   },
   {
-    "id": "306479",
-    "type": "tmdb",
-    "title": "PROJECT R.E.D.",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pk3UTxbjjs1kmSm8noEp1UiV71c.jpg",
-    "releaseDate": "2026-02-15",
-    "mediaType": "tv",
-    "rating": "4.3",
-    "description": "自1975年以来，日本标志性的超级战队系列一直引领着特摄界的格局。如今，在50年之后，日本每周特摄剧的播出时段将迎来东映公司推出的全新企划——PROJECT R.E.D.（全称：Records of Extraordinary Dimensions，意为\"异常维度记录\"）。PROJECT R.E.D. 是一部以红色英雄为主角的全新特摄系列。",
-    "link": null,
-    "tmdb_id": "306479",
-    "tmdb_site_id": "tv/306479",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "613912",
+    "type": "link",
+    "title": "LoveLive!莲之空女学院学园偶像俱乐部 6th Live Dream ～Bloom Garden Party～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/06/d5/613912_r38YL.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-05-02 / 蓮ノ空女学院スクールアイドルクラブ（楡井希実（日野下花帆 役）、野中ここな（村野さやか 役）、菅叶和（大沢瑠璃乃 役）、 櫻井陽菜（百生吟子 役）、葉山風花（徒町小鈴 役）、来栖りん（安養寺姫芽 役）、 三宅美羽（セラス 柳田 リリエンフェルト 役）、進藤あまね（桂城泉 役））",
+    "link": "https://bgm.tv/subject/613912"
+  },
+  {
+    "id": "622414",
+    "type": "link",
+    "title": "狱所三星主厨",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/7d/622414_jULsV.jpg",
+    "releaseDate": "2026-05-23",
+    "mediaType": "real",
+    "rating": "",
+    "description": "5话 /  2026年5月23日 / 本橋圭太、瀬野尾一 / 鈴木香里、服部隆、青塚美穂 / 小池栄子",
+    "link": "https://bgm.tv/subject/622414"
   },
   {
     "id": "270476",
@@ -148,15 +275,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "622414",
+    "id": "507727",
     "type": "link",
-    "title": "狱所三星主厨",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/7d/622414_jULsV.jpg",
-    "releaseDate": "2026-05-23",
+    "title": "星球大战：曼达洛人与古古",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f1/507727_Hg8cH.jpg",
+    "releaseDate": "2026-05-22",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2026年5月22日 / Jon Favreau / Jon Favreau、Dave Filoni、Noah Kloor / Pedro Pascal",
+    "link": "https://bgm.tv/subject/507727"
+  },
+  {
+    "id": "461696",
+    "type": "link",
+    "title": "好兆头 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
+    "releaseDate": "2026-05-13",
     "mediaType": "real",
     "rating": "",
-    "description": "5话 /  2026年5月23日 / 本橋圭太、瀬野尾一 / 鈴木香里、服部隆、青塚美穂 / 小池栄子",
-    "link": "https://bgm.tv/subject/622414"
+    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
+    "link": "https://bgm.tv/subject/461696"
   },
   {
     "id": "489598",
@@ -170,67 +308,20 @@
     "link": "https://bgm.tv/subject/489598"
   },
   {
-    "id": "270572",
+    "id": "296206",
     "type": "tmdb",
-    "title": "蝇王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pU6wg7nLxlCzq0Ng761k3Gf8ZBz.jpg",
-    "releaseDate": "2026-02-08",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上，随着社会习俗的消失和任何负责任的统治尝试的失败，他们逐渐陷入无政府状态的故事。",
-    "link": null,
-    "tmdb_id": "270572",
-    "tmdb_site_id": "tv/270572",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "GB"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "325021",
-    "type": "tmdb",
-    "title": "请保持名侦探原来的样子",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u1uIRELX4g2Hq6Hoj37wxjElo8D.jpg",
+    "title": "金特务：本色回归",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qhQDBIuzNHru06O3q3Q9IC0Nam3.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "乡村小学教师枫，因受到外祖父的影响，自幼便是坚定的推理迷。如今外祖父身患路易体痴呆症，常常能看到一些常人无法察觉的诡异幻觉。当枫将身边发生的各种日常谜团带给外祖父时，他总能敏锐地在幻觉中捕捉到真相的蛛丝马迹，化身“名探侦”逐一破解。",
+    "rating": "7.5",
+    "description": "改编自同名网络漫画，讲述的是原本只想平凡当个父亲的金部长，在挚爱的女儿突然失踪后，不得不揭开自己极力隐藏的真实身份，为了救回女儿不惜一切的故事。",
     "link": null,
-    "tmdb_id": "325021",
-    "tmdb_site_id": "tv/325021",
+    "tmdb_id": "296206",
+    "tmdb_site_id": "tv/296206",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "480966",
-    "type": "link",
-    "title": "镖人：风起大漠",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/66/480966_9MjZA.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "6.4",
-    "description": "1话 /  2026-02-17 / 袁和平 / 俞白眉、苏照彬、陈大利、杨子 / 吴京、謝霆鋒",
-    "link": "https://bgm.tv/subject/480966"
-  },
-  {
-    "id": "320075",
-    "type": "tmdb",
-    "title": "麦卡托·骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gNpQAqBSOGUDVuZIpauHK2bgSD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "人气女作家（恒松祐里）向恶名昭彰的私家侦探麦卡托（水泽林太郎）提出调查委托，称“自己可能正遭人追杀”。每天送达的神秘扑克牌仿佛预示着“杀人倒计时”，这究竟意味着什么……？麦卡托与他的助手兼作家美袋三条（须贺健太）的推理锋芒毕露——。",
-    "link": null,
-    "tmdb_id": "320075",
-    "tmdb_site_id": "tv/320075",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -253,119 +344,14 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "324584",
-    "type": "tmdb",
-    "title": "明明已经杀了丈夫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/rTrSGfWd6XdMfErppxVmOSYoZVE.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "妻子莉乃（内田理央 饰演）擅长烹饪，丈夫庆太（渡边圭祐 饰）温柔体贴。这对夫妻原本过着幸福的生活，然而在结婚纪念日当晚，一段突如其来的直播视频彻底粉碎了莉乃的日常。视频中，戴着面具的丈夫正与一名陌生女子纠缠在一起。得知遭到背叛的莉乃冲入密会现场，在愤怒之下将丈夫庆太乱刀刺死。\n\n然而，莉乃随即遭到了情人英玲奈的反杀，同样丢了性命。当她再次睁开眼时，却发现自己回到了“丈夫出轨被揭穿的那一天”。为了向丈夫和情人复仇，她尝试了各种方法，但每一次都以丧命告终，并再次回到过去。\n\n为什么会发生时间倒流？自己的“复仇”真的错了吗？在不断循环的“死亡轮回”中，莉乃最终触及了一个令人震惊的真相。无尽的爱与疯狂不断加速，将她推入了深不见底的深渊之中。",
-    "link": null,
-    "tmdb_id": "324584",
-    "tmdb_site_id": "tv/324584",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "322055",
-    "type": "tmdb",
-    "title": "检察官的提案",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "曾因“杀人犯之子”的标签饱受欺凌的李彩河，在洗清冤屈后成为一名八级检察院调查员。他被分配到檀岘分局，努力开启新生活，却意外与曾帮助过他的检察官朱泰善重逢。朱泰善性格完美主义且敏感古怪，在一次共同值夜班后，他对李彩河产生了浓厚兴趣。为了调查一桩悬而未决的谋杀案，朱泰善提议李彩河担任自己的专属调查员。两人在压抑又充满张力的办公环境下，展开了一场徘徊于职场正义与禁忌情感之间的危险博弈。",
-    "link": null,
-    "tmdb_id": "322055",
-    "tmdb_site_id": "tv/322055",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "KR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "559852",
+    "id": "480966",
     "type": "link",
-    "title": "VIVANT続編",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7b/559852_D00d1.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026年7月 / 堺雅人",
-    "link": "https://bgm.tv/subject/559852"
-  },
-  {
-    "id": "658610",
-    "type": "link",
-    "title": "谜探休格 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5a/658610_Dh9M8.jpg",
+    "title": "镖人：风起大漠",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a5/66/480966_9MjZA.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-06-19 / Fernando Meirelles, Adam Arkin / Colin Farrell, Amy Ryan, Dennis Boutsikaris, Anna Gunn, James Cromwell, Kirby Howell-Baptiste, Nate Corddry, Sydney Chandler, Alex Hernandez",
-    "link": "https://bgm.tv/subject/658610"
-  },
-  {
-    "id": "541822",
-    "type": "link",
-    "title": "夜魔侠：重生 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
-    "link": "https://bgm.tv/subject/541822"
-  },
-  {
-    "id": "461696",
-    "type": "link",
-    "title": "好兆头 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c2/b6/461696_W76Z6.jpg",
-    "releaseDate": "2026-05-13",
-    "mediaType": "real",
-    "rating": "",
-    "description": "1话 /  2026年5月13日 / Rachel Talalay / Neil Gaiman",
-    "link": "https://bgm.tv/subject/461696"
-  },
-  {
-    "id": "307650",
-    "type": "tmdb",
-    "title": "侦探先生，你的背包开着呢",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hnAhD9fcmkt2HXC341yPFfPirGP.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "乡下温泉街“西谷温泉”里，侦探兼发明家一之濑洋辅（松田龙平 饰）住在自家废弃的老旅馆，并将这里改造成充满离奇发明品的侦探事务所。曾在美国成功开发“将负面情绪转化为能量”的技术，使小镇出现许多不可思议的装置。每天都有性格独特的居民带来奇怪却温暖的委托，洋辅便以异想天开的机制与奇招处理难题。一桩桩古怪事件在笑声中解决，也让人与人之间的羁绊在这座温泉街悄然升温。",
-    "link": null,
-    "tmdb_id": "307650",
-    "tmdb_site_id": "tv/307650",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "317246",
-    "type": "tmdb",
-    "title": "顾问：书写死亡的男人",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gYjE0gnKjeVa8HTrHYcumY2F8Ny.jpg",
-    "releaseDate": "2026-06-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "怀揣小说家梦想、在旧书店打工的推理迷伊崎耀，某日接到自称出版社代理人的神秘男子邀约，请他撰写一部犯罪小说——内容是让名为“主人公”的目标在无人察觉的情况下被“完美暗杀”。在对方话术诱导下，伊崎毫不怀疑地完成了作品，却震惊地发现小说情节竟在现实中一一成真。原来，有一家神秘公司专门执行“杀害”任务，并派出神秘女经理监视他。被卷入将“死亡”商品化的巨大黑暗组织，伊崎逐渐失去退路，他的命运也被推向未知深渊。",
-    "link": null,
-    "tmdb_id": "317246",
-    "tmdb_site_id": "tv/317246",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "rating": "6.4",
+    "description": "1话 /  2026-02-17 / 袁和平 / 俞白眉、苏照彬、陈大利、杨子 / 吴京、謝霆鋒",
+    "link": "https://bgm.tv/subject/480966"
   }
 ]

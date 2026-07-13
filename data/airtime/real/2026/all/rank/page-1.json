@@ -77,10 +77,10 @@
     "type": "link",
     "title": "夜魔侠：重生 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4e/541822_Q3M3O.jpg",
-    "releaseDate": "2026-01-01",
+    "releaseDate": "2026-03-25",
     "mediaType": "real",
     "rating": "7.5",
-    "description": "8话 /  March 25, 2026 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
+    "description": "8话 /  2026年3月25日 / Justin Benson, Aaron Moorhead, Michael Cuesta, Jeffrey Nachmanoff, David Boyd / Charlie Cox, Vincent D'Onofrio, Margarita Levieva, Zabryna Guevara, Nikki M. James, Genneya Walton, Arty Froushan, Clark Johnson, Michael Gandolfini, Ayelet Zurer, Deborah Ann Woll",
     "link": "https://bgm.tv/subject/541822"
   },
   {
@@ -108,7 +108,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "7.8",
     "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
     "link": null,
     "tmdb_id": "300529",
@@ -156,17 +156,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "638448",
-    "type": "link",
-    "title": "迈克尔·杰克逊：巨星之路",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
-    "releaseDate": "2026-04-24",
-    "mediaType": "real",
-    "rating": "6.9",
-    "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
-    "link": "https://bgm.tv/subject/638448"
-  },
-  {
     "id": "279446",
     "type": "tmdb",
     "title": "太平年",
@@ -185,15 +174,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "623261",
+    "id": "638448",
     "type": "link",
-    "title": "头号战队豪兽者 Polar Beginning",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
-    "releaseDate": "2026-01-01",
+    "title": "迈克尔·杰克逊：巨星之路",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/638448_jgG0g.jpg",
+    "releaseDate": "2026-04-24",
     "mediaType": "real",
-    "rating": "6.3",
-    "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
-    "link": "https://bgm.tv/subject/623261"
+    "rating": "6.9",
+    "description": "2026年4月24日 / Antoine Fuqua / John Logan / Jaafar Jackson",
+    "link": "https://bgm.tv/subject/638448"
   },
   {
     "id": "308216",
@@ -202,7 +191,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/vwM8JJbjfyE8OY1GlkOHUIEhKrq.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "10.0",
+    "rating": "9.5",
     "description": "在宇宙某处存在着一颗名为“H12”的行星。这颗与地球极为相似的行星，曾遭到从外星来袭的宇宙怪兽的袭击。随着行星逐渐崩坏、走向灭亡，有一位宇宙人逃到了地球。这位名叫“提欧”的孤独宇宙人，以明心大学兽医学院学生光石息吹的身份生活，最终成长为“奥特曼”。",
     "link": null,
     "tmdb_id": "308216",
@@ -212,6 +201,17 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "623261",
+    "type": "link",
+    "title": "头号战队豪兽者 Polar Beginning",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0b/623261_KzHgB.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "6.3",
+    "description": "1话 /  2026-04-19 / 宮﨑駿 / 長谷川圭一",
+    "link": "https://bgm.tv/subject/623261"
   },
   {
     "id": "478191",
@@ -231,7 +231,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
     "releaseDate": "2026-05-27",
     "mediaType": "tv",
-    "rating": "8.5",
+    "rating": "8.4",
     "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
     "link": null,
     "tmdb_id": "220102",

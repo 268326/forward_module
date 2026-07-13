@@ -1,5 +1,16 @@
 [
   {
+    "id": "530725",
+    "type": "link",
+    "title": "死神 千年血战篇-祸进谭-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "8.2",
+    "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+    "link": "https://bgm.tv/subject/530725"
+  },
+  {
     "id": "651837",
     "type": "link",
     "title": "Bonsai Security (Dollyanna's Dream)",
@@ -69,6 +80,17 @@
     "link": "https://bgm.tv/subject/583928"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "10话 /  2026年秋 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "661787",
     "type": "link",
     "title": "憨丁钱路慌",
@@ -135,7 +157,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/b7/551576_4aQov.jpg",
     "releaseDate": "2026-05-12",
     "mediaType": "anime",
-    "rating": "3.5",
+    "rating": "3.6",
     "description": "8话 /  2026年5月12日 / Adi Shankar",
     "link": "https://bgm.tv/subject/551576"
   },
@@ -278,27 +300,5 @@
     "rating": "",
     "description": "2026年5月15日",
     "link": "https://bgm.tv/subject/655808"
-  },
-  {
-    "id": "634029",
-    "type": "link",
-    "title": "Gamer Girls Music Video",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/a2/634029_lgC8e.jpg",
-    "releaseDate": "2026-01-14",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026年1月14日 / Veronica Bassetto",
-    "link": "https://bgm.tv/subject/634029"
-  },
-  {
-    "id": "661785",
-    "type": "link",
-    "title": "加鲁达：勇敢去梦",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9d/cf/661785_jZZwE.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026 / Ronny Gani",
-    "link": "https://bgm.tv/subject/661785"
   }
 ]

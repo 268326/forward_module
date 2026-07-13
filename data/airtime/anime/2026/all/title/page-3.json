@@ -1,5 +1,27 @@
 [
   {
+    "id": "634029",
+    "type": "link",
+    "title": "Gamer Girls Music Video",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/a2/634029_lgC8e.jpg",
+    "releaseDate": "2026-01-14",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "1话 /  2026年1月14日 / Veronica Bassetto",
+    "link": "https://bgm.tv/subject/634029"
+  },
+  {
+    "id": "661785",
+    "type": "link",
+    "title": "加鲁达：勇敢去梦",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9d/cf/661785_jZZwE.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026 / Ronny Gani",
+    "link": "https://bgm.tv/subject/661785"
+  },
+  {
     "id": "641853",
     "type": "link",
     "title": "Ghosts & Chainsaws",
@@ -240,27 +262,5 @@
     "rating": "",
     "description": "2026-05-19(戛纳电影节) / 2026-10-14(法国) / Louis Clichy",
     "link": "https://bgm.tv/subject/644636"
-  },
-  {
-    "id": "662977",
-    "type": "link",
-    "title": "Le Vertige",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6e/c9/662977_gg7pT.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "1话 /  2026-06-10 / Quentin Dupieux",
-    "link": "https://bgm.tv/subject/662977"
-  },
-  {
-    "id": "640219",
-    "type": "link",
-    "title": "LEGO® ONE PIECE",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/54/51/640219_20wA9.jpg",
-    "releaseDate": "2026-09-29",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年9月29日",
-    "link": "https://bgm.tv/subject/640219"
   }
 ]

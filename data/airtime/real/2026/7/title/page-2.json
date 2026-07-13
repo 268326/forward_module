@@ -98,6 +98,17 @@
     "link": "https://bgm.tv/subject/642434"
   },
   {
+    "id": "667240",
+    "type": "link",
+    "title": "Anime Expo 2026「J-POP SOUND CAPSULE」",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/66/4e/667240_FW7US.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "1话 /  2026-07-02 / 菅野よう子、ALI、Roselia、SPYAIR、高橋洋子",
+    "link": "https://bgm.tv/subject/667240"
+  },
+  {
     "id": "639960",
     "type": "link",
     "title": "ANIME JAPAN FES 2026 “大阪夏の陣”",
@@ -293,16 +304,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "627635",
-    "type": "link",
-    "title": "布里奇顿 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1e/af/627635_XKRe9.jpg",
-    "releaseDate": "2026-01-29",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026年1月29日",
-    "link": "https://bgm.tv/subject/627635"
   }
 ]

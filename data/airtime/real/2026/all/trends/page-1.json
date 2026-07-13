@@ -6,7 +6,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/vwM8JJbjfyE8OY1GlkOHUIEhKrq.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "10.0",
+    "rating": "9.5",
     "description": "在宇宙某处存在着一颗名为“H12”的行星。这颗与地球极为相似的行星，曾遭到从外星来袭的宇宙怪兽的袭击。随着行星逐渐崩坏、走向灭亡，有一位宇宙人逃到了地球。这位名叫“提欧”的孤独宇宙人，以明心大学兽医学院学生光石息吹的身份生活，最终成长为“奥特曼”。",
     "link": null,
     "tmdb_id": "308216",
@@ -47,6 +47,25 @@
     "link": "https://bgm.tv/subject/494631"
   },
   {
+    "id": "253960",
+    "type": "tmdb",
+    "title": "气体人第一号",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jRINbGiI9wjM9gwxw4IT5G0ErlU.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "冈本贤治是一位停职中的刑警，受命追查造成一连串离奇命案的罪魁祸首。一切始于一位大学教授在电视直播中身体突然膨胀爆炸，所有人惊魂未定之际，一名自称是“气体人”的男子登场，预告自己即将连续杀人，令整个社会陷入恐慌。贤治和记者京子竭尽全力挖掘真相、追捕凶手，这名罪犯的行为却似乎嘲弄着徒劳追捕他的相关当局。每一桩新的杀戮，都让社会遭到无形的恐惧进一步侵蚀。",
+    "link": null,
+    "tmdb_id": "253960",
+    "tmdb_site_id": "tv/253960",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "KR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "317001",
     "type": "tmdb",
     "title": "满级老祖被虐后全皇室求我回归",
@@ -65,21 +84,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "253960",
+    "id": "319990",
     "type": "tmdb",
-    "title": "气体人第一号",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jRINbGiI9wjM9gwxw4IT5G0ErlU.jpg",
+    "title": "怪奇-伊藤润二令人彻夜难眠的奇异故事－",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1MD0ERkCtmuzbrq3N1LEL9fngCn.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.8",
-    "description": "冈本贤治是一位停职中的刑警，受命追查造成一连串离奇命案的罪魁祸首。一切始于一位大学教授在电视直播中身体突然膨胀爆炸，所有人惊魂未定之际，一名自称是“气体人”的男子登场，预告自己即将连续杀人，令整个社会陷入恐慌。贤治和记者京子竭尽全力挖掘真相、追捕凶手，这名罪犯的行为却似乎嘲弄着徒劳追捕他的相关当局。每一桩新的杀戮，都让社会遭到无形的恐惧进一步侵蚀。",
+    "rating": "0.0",
+    "description": "本作精选日本知名恐怖漫画家伊藤润二笔下充满独特疯狂气息的经典作品，改编为真人单元剧。以浓雾弥漫小镇中流行的“辻占”所隐藏的恐惧与执念为主轴，收录《死者的恋爱烦恼》《幻痛宅邸》《肋骨女子》《霸凌女孩》《偷脸人》《父亲的心》《记忆》《二手唱片》《笔友》《押切异谈》《地缚者》《富夫·红高领》《缓慢的离别》等13个怪异故事。由伊藤润二的惊悚世界观与新锐创作者联手，以单元剧形式呈现令人不寒而栗、难以入眠的奇妙恐怖体验。",
     "link": null,
-    "tmdb_id": "253960",
-    "tmdb_site_id": "tv/253960",
+    "tmdb_id": "319990",
+    "tmdb_site_id": "tv/319990",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP",
-      "KR"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -95,13 +113,24 @@
     "link": "https://bgm.tv/subject/549830"
   },
   {
+    "id": "494608",
+    "type": "link",
+    "title": "黑袍纠察队 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "real",
+    "rating": "5.2",
+    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
+    "link": "https://bgm.tv/subject/494608"
+  },
+  {
     "id": "220102",
     "type": "tmdb",
     "title": "暗影蜘蛛侠",
     "posterPath": "https://image.tmdb.org/t/p/w500/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
     "releaseDate": "2026-05-27",
     "mediaType": "tv",
-    "rating": "8.5",
+    "rating": "8.4",
     "description": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
     "link": null,
     "tmdb_id": "220102",
@@ -113,15 +142,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "494608",
+    "id": "650082",
     "type": "link",
-    "title": "黑袍纠察队 第五季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4e/494608_ZzVsb.jpg",
-    "releaseDate": "2026-04-08",
+    "title": "绣球花之下",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/6a/650082_S4S6q.jpg",
+    "releaseDate": "2026-01-01",
     "mediaType": "real",
-    "rating": "5.2",
-    "description": "8话 /  2026年4月8日 / Philip Sgriccia、Shana Stein、Karen Gaviola、Catriona McKenzie、Sylvain White / Paul Grellong、Jessica Chou、Ellie Monahan、Geoff Aull、Judalina Neira、David Reed、Anslem Richardson / Karl Urban、Jack Quaid、Antony Starr、Erin Moriarty、Dominique McElligott、Jessie T. Usher",
-    "link": "https://bgm.tv/subject/494608"
+    "rating": "",
+    "description": "2026-07-05 / 城定秀夫、頃安祐良、日髙貴士 / 高田亮、清水匡 / 山田涼介",
+    "link": "https://bgm.tv/subject/650082"
   },
   {
     "id": "272432",
@@ -135,6 +164,35 @@
     "link": null,
     "tmdb_id": "272432",
     "tmdb_site_id": "tv/272432",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "631823",
+    "type": "link",
+    "title": "孤独的美食家 第十一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "real",
+    "rating": "7.9",
+    "description": "12话 /  2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
+    "link": "https://bgm.tv/subject/631823"
+  },
+  {
+    "id": "278605",
+    "type": "tmdb",
+    "title": "南部档案",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
+    "link": null,
+    "tmdb_id": "278605",
+    "tmdb_site_id": "tv/278605",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -160,35 +218,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "278605",
-    "type": "tmdb",
-    "title": "南部档案",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
-    "link": null,
-    "tmdb_id": "278605",
-    "tmdb_site_id": "tv/278605",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "650082",
-    "type": "link",
-    "title": "绣球花之下",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/62/6a/650082_S4S6q.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "2026-07-05 / 城定秀夫、頃安祐良、日髙貴士 / 高田亮、清水匡 / 山田涼介",
-    "link": "https://bgm.tv/subject/650082"
-  },
-  {
     "id": "658614",
     "type": "link",
     "title": "羊毛战记 第三季",
@@ -200,50 +229,17 @@
     "link": "https://bgm.tv/subject/658614"
   },
   {
-    "id": "631823",
-    "type": "link",
-    "title": "孤独的美食家 第十一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/ee/631823_qdQQZ.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "real",
-    "rating": "7.9",
-    "description": "12话 /  2026年4月3日 / 北畑龍一、井川尊史、北尾賢人、中山大暉、田尾彩美 / 田口佳宏、児玉頼子 / 松重豊",
-    "link": "https://bgm.tv/subject/631823"
-  },
-  {
-    "id": "641417",
-    "type": "link",
-    "title": "超新丁伙头兵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/69/a8/641417_e1oD0.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "12话 /  2026-05-11 / 조남형 / 최룡 / 박지훈、윤경호、한동희、이홍내",
-    "link": "https://bgm.tv/subject/641417"
-  },
-  {
-    "id": "654522",
-    "type": "link",
-    "title": "校园之外 第一季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/43/654522_qU0FT.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "real",
-    "rating": "",
-    "description": "8话 /  2026-05-13",
-    "link": "https://bgm.tv/subject/654522"
-  },
-  {
-    "id": "319990",
+    "id": "322570",
     "type": "tmdb",
-    "title": "怪奇-伊藤润二令人彻夜难眠的奇异故事－",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1MD0ERkCtmuzbrq3N1LEL9fngCn.jpg",
+    "title": "直到T恤干了为止",
+    "posterPath": "https://image.tmdb.org/t/p/w500/vdulPvBCv3RzH4smvp4hu2n78i8.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "本作精选日本知名恐怖漫画家伊藤润二笔下充满独特疯狂气息的经典作品，改编为真人单元剧。以浓雾弥漫小镇中流行的“辻占”所隐藏的恐惧与执念为主轴，收录《死者的恋爱烦恼》《幻痛宅邸》《肋骨女子》《霸凌女孩》《偷脸人》《父亲的心》《记忆》《二手唱片》《笔友》《押切异谈》《地缚者》《富夫·红高领》《缓慢的离别》等13个怪异故事。由伊藤润二的惊悚世界观与新锐创作者联手，以单元剧形式呈现令人不寒而栗、难以入眠的奇妙恐怖体验。",
+    "description": "40岁的杂志编辑咲子（苍井优 饰）原本深信自己拥有美满的婚姻，但在卷入一场事故后，她意外发现丈夫在每个月“第3个星期五”都有一段完全对不上号的神秘行踪。于是，在看似美满的婚姻背后，她将面对人性中真实而扭曲的“不伦”。",
     "link": null,
-    "tmdb_id": "319990",
-    "tmdb_site_id": "tv/319990",
+    "tmdb_id": "322570",
+    "tmdb_site_id": "tv/322570",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -251,44 +247,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "252107",
+    "id": "322055",
     "type": "tmdb",
-    "title": "星城",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+    "title": "检察官室的提案",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4A5Sl89zZ0WRKj5QrhMxgBFiQYc.jpg",
     "releaseDate": "2026-01-01",
     "mediaType": "tv",
-    "rating": "7.3",
-    "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+    "rating": "6.0",
+    "description": "曾因“杀人犯之子”的标签饱受欺凌的李彩河，在洗清冤屈后成为一名八级检察院调查员。他被分配到檀岘分局，努力开启新生活，却意外与曾帮助过他的检察官朱泰善重逢。朱泰善性格完美主义且敏感古怪，在一次共同值夜班后，他对李彩河产生了浓厚兴趣。为了调查一桩悬而未决的谋杀案，朱泰善提议李彩河担任自己的专属调查员。两人在压抑又充满张力的办公环境下，展开了一场徘徊于职场正义与禁忌情感之间的危险博弈。",
     "link": null,
-    "tmdb_id": "252107",
-    "tmdb_site_id": "tv/252107",
+    "tmdb_id": "322055",
+    "tmdb_site_id": "tv/322055",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "US"
+      "KR"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "501703",
-    "type": "link",
-    "title": "超级少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/e5/501703_Jjj2E.jpg",
-    "releaseDate": "2026-06-26",
-    "mediaType": "real",
-    "rating": "4.1",
-    "description": "1话 /  2026年6月26日 / Craig Gillespie / Ana Nogueira / Milly Alcock",
-    "link": "https://bgm.tv/subject/501703"
-  },
-  {
-    "id": "636399",
-    "type": "link",
-    "title": "挽救计划",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c3/db/636399_T3qzN.jpg",
-    "releaseDate": "2026-03-20",
-    "mediaType": "real",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月20日 / Phil Lord、Christopher Miller / Drew Goddard / Ryan Gosling",
-    "link": "https://bgm.tv/subject/636399"
   },
   {
     "id": "323013",
@@ -305,6 +279,35 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "654522",
+    "type": "link",
+    "title": "校园之外 第一季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/43/654522_qU0FT.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "real",
+    "rating": "",
+    "description": "8话 /  2026-05-13",
+    "link": "https://bgm.tv/subject/654522"
+  },
+  {
+    "id": "252107",
+    "type": "tmdb",
+    "title": "星城",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
+    "link": null,
+    "tmdb_id": "252107",
+    "tmdb_site_id": "tv/252107",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -327,6 +330,35 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "501703",
+    "type": "link",
+    "title": "超级少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5c/e5/501703_Jjj2E.jpg",
+    "releaseDate": "2026-06-26",
+    "mediaType": "real",
+    "rating": "3.9",
+    "description": "1话 /  2026年6月26日 / Craig Gillespie / Ana Nogueira / Milly Alcock",
+    "link": "https://bgm.tv/subject/501703"
+  },
+  {
+    "id": "300529",
+    "type": "tmdb",
+    "title": "地狱占星师",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jJFgBl3EILtmD6q2GsFtxYXmVax.jpg",
+    "releaseDate": "2026-01-01",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "细木数子是一位善于六星占术的占卜师，以直言不讳、充满警戒意味的预言，如“大杀界”和“你会下地狱”等语句席卷日本。她出身战后贫困家庭，二十多岁就一手创立多间知名夜店，成为东京夜生活名气响叮当的“银座女王”。后来，她以占卜师之姿在电视圈和出版界一枝独秀，笔下著作更创下吉尼斯世界纪录。然而，她的崛起也伴随着欺诈指控及黑帮流言的阴影。这个充满争议的大人物究竟真实面貌为何？",
+    "link": null,
+    "tmdb_id": "300529",
+    "tmdb_site_id": "tv/300529",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "305227",
     "type": "tmdb",
     "title": "丰臣兄弟！",
@@ -338,24 +370,6 @@
     "link": null,
     "tmdb_id": "305227",
     "tmdb_site_id": "tv/305227",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323859",
-    "type": "tmdb",
-    "title": "再见黑色",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6q3DzpC7r9FWPI9Q8uU8z3JYojR.jpg",
-    "releaseDate": "2026-01-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事背景设定在繁华却复杂的东京池袋地区。西池袋警署新设立了“犯罪受害者支援室”，在这里，警察们将贴身陪伴遭遇各类案件的受害者及遗属，协助他们重新积极面对生活。\n\n黑木夏海（小池荣子 饰）是一个能够平等且设身处地陪伴受害者的前刑警，心理学家白石绘梨子（北香那 饰）作为派遣支援员加入，她虽有专业知识却不擅长与人沟通。这两个性格截然相反、内心却各自怀有创伤的边缘人组成搭档，在没有标准答案的部门里互相扶持，共同面对受害者们的痛苦。",
-    "link": null,
-    "tmdb_id": "323859",
-    "tmdb_site_id": "tv/323859",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
