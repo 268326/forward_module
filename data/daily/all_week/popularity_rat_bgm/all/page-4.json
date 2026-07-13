@@ -1,27 +1,5 @@
 [
   {
-    "id": "282580",
-    "type": "tmdb",
-    "title": "花仙子之魔法香对论",
-    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "根据原作动画《花仙子》（东映动画）改编。 立志成为调香师的学徒露米在归家途中遭遇黑雾袭击，危难间在自称是花星使者的黑猫的指引下，唤醒了祖先留下的古董花钥匙的力量，并变身成为花仙子。 由于七色花被黑暗魔法侵蚀而凋零，七片花瓣散落在花都镇各处，导致异象频出蚕食人们的心智。为了花都镇的安危，露米作为继承了花仙血统的后人，肩负起净化并收集七片花瓣的使命，运用花香魔法驱散人们心中的黑暗，开启一场魔法少女的成长之旅。 而在这场冒险中，露米却遭到来自另一名神秘花仙子的攻击，而自己身边的这只黑猫竟也有着意想不到的身份……",
-    "link": null,
-    "bgm_id": "449354",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282580",
-    "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "481295",
     "type": "link",
     "title": "X战警97 第二季",
@@ -35,6 +13,28 @@
     "bgm_score": 6.5,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "282580",
+    "type": "tmdb",
+    "title": "花仙子之魔法香对论",
+    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "根据原作动画《花仙子》（东映动画）改编。 立志成为调香师的学徒露米在归家途中遭遇黑雾袭击，危难间在自称是花星使者的黑猫的指引下，唤醒了祖先留下的古董花钥匙的力量，并变身成为花仙子。 由于七色花被黑暗魔法侵蚀而凋零，七片花瓣散落在花都镇各处，导致异象频出蚕食人们的心智。为了花都镇的安危，露米作为继承了花仙血统的后人，肩负起净化并收集七片花瓣的使命，运用花香魔法驱散人们心中的黑暗，开启一场魔法少女的成长之旅。 而在这场冒险中，露米却遭到来自另一名神秘花仙子的攻击，而自己身边的这只黑猫竟也有着意想不到的身份……",
+    "link": null,
+    "bgm_id": "449354",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282580",
+    "tmdb_site_id": "tv/282580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "637339",
@@ -112,6 +112,43 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "326893",
+    "type": "tmdb",
+    "title": "喜羊羊与灰太狼之破界山海诀",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
+    "link": null,
+    "bgm_id": "624691",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "326893",
+    "tmdb_site_id": "tv/326893",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "668022",
+    "type": "link",
+    "title": "交叉行动",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c2/71/668022_fJ6dk.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/668022",
+    "bgm_id": "668022",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "576780",
     "type": "link",
     "title": "炼气十万年特别篇 阳极天下",
@@ -164,6 +201,51 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "662006",
+    "type": "link",
+    "title": "暗芝居 第十七季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/662006",
+    "bgm_id": "662006",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "668108",
+    "type": "link",
+    "title": "《灵能百分百》动画10周年纪念特别映像",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/668108",
+    "bgm_id": "668108",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "663444",
+    "type": "link",
+    "title": "一家之主 第15季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1e/f8/663444_i2im9.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/663444",
+    "bgm_id": "663444",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "542046",
     "type": "link",
     "title": "完美世界剧场版 九劫焚天",
@@ -194,56 +276,26 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "326893",
+    "id": "328237",
     "type": "tmdb",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
-    "releaseDate": "2026-07-10",
+    "title": "プラノサウルス ガチコセイブツ部",
+    "posterPath": "https://image.tmdb.org/t/p/w500/m1yevLnfeARJSA3KinN9JvDjXFv.jpg",
+    "releaseDate": "2026-07-12",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
+    "rating": "0.0",
+    "description": "[星期日]",
     "link": null,
-    "bgm_id": "624691",
-    "bgm_score": 7.0,
+    "bgm_id": "633711",
+    "bgm_score": 5.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "326893",
-    "tmdb_site_id": "tv/326893",
+    "bgm_weekday_id": 7,
+    "tmdb_id": "328237",
+    "tmdb_site_id": "tv/328237",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "CN"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "668022",
-    "type": "link",
-    "title": "交叉行动",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c2/71/668022_fJ6dk.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668022",
-    "bgm_id": "668022",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "662006",
-    "type": "link",
-    "title": "暗芝居 第十七季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/662006",
-    "bgm_id": "662006",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
   },
   {
     "id": "595884",
@@ -271,21 +323,6 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/607933",
     "bgm_id": "607933",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "663444",
-    "type": "link",
-    "title": "一家之主 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1e/f8/663444_i2im9.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/663444",
-    "bgm_id": "663444",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
@@ -343,55 +380,18 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "574794",
+    "id": "668113",
     "type": "link",
-    "title": "是王者啊？第六季",
-    "posterPath": null,
-    "releaseDate": "2026-07-23",
+    "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6e/76/668113_xH76x.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "anime",
     "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/668113",
+    "bgm_id": "668113",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "323839",
-    "type": "tmdb",
-    "title": "东大高武学院",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
-    "link": null,
-    "bgm_id": "592111",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "323839",
-    "tmdb_site_id": "tv/323839",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "663982",
-    "type": "link",
-    "title": "精灵梦叶罗丽 第十一季 下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/a5/663982_3B5Ok.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/663982",
-    "bgm_id": "663982",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 3
   }
 ]

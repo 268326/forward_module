@@ -136,7 +136,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
     "releaseDate": "2026-07-17",
     "mediaType": "tv",
-    "rating": "6.3",
+    "rating": "6.4",
     "description": "2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
     "link": null,
     "tmdb_id": "222623",
@@ -157,6 +157,38 @@
     "link": null,
     "tmdb_id": "298994",
     "tmdb_site_id": "tv/298994",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "287075",
+    "type": "tmdb",
+    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_82Fm9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
+    "link": null,
+    "tmdb_id": "287075",
+    "tmdb_site_id": "tv/287075",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312266",
+    "type": "tmdb",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "link": null,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -187,22 +219,6 @@
     "rating": "7.6",
     "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
     "link": "https://bgm.tv/subject/607915"
-  },
-  {
-    "id": "287075",
-    "type": "tmdb",
-    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_82Fm9.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
-    "link": null,
-    "tmdb_id": "287075",
-    "tmdb_site_id": "tv/287075",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "314554",
@@ -257,22 +273,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312507",
-    "type": "tmdb",
-    "title": "令和妖神斑小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/c5/614594_f5Szx.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "13话 /  2026年7月2日 / 鈴木理人 / ともつか治臣（「令和のダラさん」／KADOKAWA刊） / 菊田幸一",
-    "link": null,
-    "tmdb_id": "312507",
-    "tmdb_site_id": "tv/312507",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～",
@@ -289,6 +289,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312507",
+    "type": "tmdb",
+    "title": "令和妖神斑小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/c5/614594_f5Szx.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "13话 /  2026年7月2日 / 鈴木理人 / ともつか治臣（「令和のダラさん」／KADOKAWA刊） / 菊田幸一",
+    "link": null,
+    "tmdb_id": "312507",
+    "tmdb_site_id": "tv/312507",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "296437",
@@ -329,7 +345,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/67EGk9hsaBtpzmNNtA0kCXvmi2F.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "7.0",
     "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。“继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！”虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然“完全不虐待我”！ ？既温柔又温暖，与新家人共度的日子将治愈你的心。温馨的反差喜剧现在开幕！",
     "link": null,
     "tmdb_id": "298103",
@@ -352,35 +368,21 @@
     "link": "https://bgm.tv/subject/565701"
   },
   {
-    "id": "196950",
+    "id": "302519",
     "type": "tmdb",
-    "title": "尖帽子的魔法工房",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg",
-    "releaseDate": "2026-04-06",
+    "title": "奇招百出的维多利亚",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2odRPZeecKXpTboMutt4X49NRDD.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "6.3",
-    "description": "13话 /  2026年4月6日 / 渡辺歩 / 白浜鴎（講談社「モーニング・ツー」連載） / うなばら海里",
+    "rating": "0.0",
+    "description": "　　顶尖特务克萝伊脱离组织后，改名换姓，以维多利亚的身份过着新的生活。\n\n　　她在辗转抵达艾许伯里王国后，遇见了被母亲遗弃的少女诺娜，以及骑士团诚实可靠的团长杰佛瑞。\n\n　　杰佛瑞成为了领养诺娜的维多利亚的身份保证人，这三个各自背负着伤痛过去的人，逐渐成为彼此生命中不可或缺的存在。\n\n　　维多利亚所梦寐以求的幸福，最终会去往何处呢？",
     "link": null,
-    "tmdb_id": "196950",
-    "tmdb_site_id": "tv/196950",
+    "tmdb_id": "302519",
+    "tmdb_site_id": "tv/302519",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "283428",
-    "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
