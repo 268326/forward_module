@@ -1,5 +1,20 @@
 [
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "327228",
     "type": "tmdb",
     "title": "パンの赤ちゃん",

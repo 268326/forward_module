@@ -75,6 +75,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "662681",
+    "type": "link",
+    "title": "万古神帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
+    "releaseDate": "2026-07-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/662681",
+    "bgm_id": "662681",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "641326",
     "type": "link",
     "title": "妖神记 第十季",
@@ -85,6 +100,21 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/641326",
     "bgm_id": "641326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "662682",
+    "type": "link",
+    "title": "顾长歌：我！天命大反派",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/07/07/662682_ooNRN.jpg",
+    "releaseDate": "2026-07-15",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/662682",
+    "bgm_id": "662682",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
@@ -135,6 +165,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "668407",
+    "type": "link",
+    "title": "つかめ！理科ダマン",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/668407",
+    "bgm_id": "668407",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "542847",
     "type": "link",
     "title": "怪物大师",
@@ -145,6 +190,21 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/542847",
     "bgm_id": "542847",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "662680",
+    "type": "link",
+    "title": "死灵法师！我即是天灾",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b3/da/662680_6P2P4.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/662680",
+    "bgm_id": "662680",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
