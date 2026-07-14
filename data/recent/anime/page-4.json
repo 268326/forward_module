@@ -16,6 +16,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "325158",
+    "type": "tmdb",
+    "title": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
+    "posterPath": "https://image.tmdb.org/t/p/w500/f7qMDdhpC4yXmlJo5tvdwRO9JtE.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "大家好——我是高梨凛，一位二十多岁的职场人士。\n\n让我简单介绍一下我目前的情况。\n\n只有我一个人被召唤到了异世界——留下了可爱的女高中生们——然后就孤零零地被抛在了这里。\n\n你可能会觉得我会不知所措……但实际上，我一点也不担心。\n\n毕竟，我的技能——“萌酱”（我可靠的露营车）和“生存策略”——简直是神级水平。\n\n我想：“为什么不把爱好——独自露营和烹饪——延续到这个新世界呢？就这么办！”\n\n就这样，一群可爱的伙伴开始陆续出现！\n\n好啦，让我们一起踏上这个异世界的美食之旅吧！\n\n快上车！\n\n为了充分利用这个新世界——萌酱，全速前进！",
+    "link": null,
+    "tmdb_id": "325158",
+    "tmdb_site_id": "tv/325158",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "290019",
     "type": "tmdb",
     "title": "和班上第二可爱的女孩成为朋友",
@@ -64,22 +82,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "325158",
+    "id": "94664",
     "type": "tmdb",
-    "title": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
-    "posterPath": "https://image.tmdb.org/t/p/w500/f7qMDdhpC4yXmlJo5tvdwRO9JtE.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "无职转生～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+    "releaseDate": "2021-01-10",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "大家好——我是高梨凛，一位二十多岁的职场人士。\n\n让我简单介绍一下我目前的情况。\n\n只有我一个人被召唤到了异世界——留下了可爱的女高中生们——然后就孤零零地被抛在了这里。\n\n你可能会觉得我会不知所措……但实际上，我一点也不担心。\n\n毕竟，我的技能——“萌酱”（我可靠的露营车）和“生存策略”——简直是神级水平。\n\n我想：“为什么不把爱好——独自露营和烹饪——延续到这个新世界呢？就这么办！”\n\n就这样，一群可爱的伙伴开始陆续出现！\n\n好啦，让我们一起踏上这个异世界的美食之旅吧！\n\n快上车！\n\n为了充分利用这个新世界——萌酱，全速前进！",
+    "rating": "7.9",
+    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
     "link": null,
-    "tmdb_id": "325158",
-    "tmdb_site_id": "tv/325158",
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -93,22 +109,6 @@
     "link": null,
     "tmdb_id": "65942",
     "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
-    "releaseDate": "2021-01-10",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -130,22 +130,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284447",
-    "type": "tmdb",
-    "title": "弱弱老师",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
-    "releaseDate": "2026-04-11",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
-    "link": null,
-    "tmdb_id": "284447",
-    "tmdb_site_id": "tv/284447",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "307585",
     "type": "tmdb",
     "title": "我家的弟弟们真是让您费心了",
@@ -162,33 +146,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942",
+    "id": "284447",
     "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
-    "releaseDate": "2020-07-08",
+    "title": "弱弱老师",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ec/526789_707JL.jpg",
+    "releaseDate": "2026-04-11",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "13话 /  2020年7月8日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
+    "rating": "5.9",
+    "description": "12话 /  2026年4月11日 / 石踊宏 / 福地カミオ（講談社「週刊少年マガジン」連載） / 相坂ナオキ",
     "link": null,
-    "tmdb_id": "65942",
-    "tmdb_site_id": "tv/65942",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "69346",
-    "type": "tmdb",
-    "title": "幼女战记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/e3/167655_O0npY.jpg",
-    "releaseDate": "2017-01-06",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "12话 /  2017年1月6日 / 上村泰 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
-    "link": null,
-    "tmdb_id": "69346",
-    "tmdb_site_id": "tv/69346",
+    "tmdb_id": "284447",
+    "tmdb_site_id": "tv/284447",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -210,6 +178,54 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "69346",
+    "type": "tmdb",
+    "title": "幼女战记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dd/e3/167655_O0npY.jpg",
+    "releaseDate": "2017-01-06",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "12话 /  2017年1月6日 / 上村泰 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+    "link": null,
+    "tmdb_id": "69346",
+    "tmdb_site_id": "tv/69346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "65942",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
+    "releaseDate": "2020-07-08",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "13话 /  2020年7月8日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
+    "link": null,
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "314054",
+    "type": "tmdb",
+    "title": "天是红河岸",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/b7/627648_V00Vh.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
+    "link": null,
+    "tmdb_id": "314054",
+    "tmdb_site_id": "tv/314054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "297438",
     "type": "tmdb",
     "title": "落语朱音",
@@ -226,17 +242,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "314054",
+    "id": "94664",
     "type": "tmdb",
-    "title": "天是红河岸",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/b7/627648_V00Vh.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+    "releaseDate": "2023-07-02",
     "mediaType": "tv",
-    "rating": "5.3",
-    "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
+    "rating": "7.3",
+    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
     "link": null,
-    "tmdb_id": "314054",
-    "tmdb_site_id": "tv/314054",
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "302824",
+    "type": "tmdb",
+    "title": "Let's Go 怪奇组",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_ll6Jj.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
+    "link": null,
+    "tmdb_id": "302824",
+    "tmdb_site_id": "tv/302824",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -258,20 +290,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "302824",
-    "type": "tmdb",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_ll6Jj.jpg",
+    "id": "577191",
+    "type": "link",
+    "title": "航海王 女英雄们的故事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_c7zCc.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
-    "link": null,
-    "tmdb_id": "302824",
-    "tmdb_site_id": "tv/302824",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
+    "link": "https://bgm.tv/subject/577191"
   },
   {
     "id": "253476",
@@ -308,33 +335,6 @@
   {
     "id": "94664",
     "type": "tmdb",
-    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
-    "releaseDate": "2023-07-02",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "577191",
-    "type": "link",
-    "title": "航海王 女英雄们的故事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_c7zCc.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
-    "link": "https://bgm.tv/subject/577191"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
     "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
     "releaseDate": "2024-04-07",
@@ -347,6 +347,17 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.9",
+    "description": "8话 /  2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
+    "link": "https://bgm.tv/subject/633354"
   },
   {
     "id": "296436",
@@ -365,21 +376,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "154743",
-    "type": "tmdb",
-    "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/53/22/458684_28O4i.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "12话 /  2026年4月3日 / 熊野千尋 / 佐伯さん（GA文庫／SBクリエイティブ刊） / 野口孝行",
-    "link": null,
-    "tmdb_id": "154743",
-    "tmdb_site_id": "tv/154743/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 235,
+    "bgm_rating_total": 266,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.4,
-    "bgm_rating_total": 275,
+    "bgm_rating_total": 280,
     "bgm_weekday_id": 7
   },
   {
@@ -81,7 +81,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.8,
-    "bgm_rating_total": 53,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -101,7 +101,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 549,
+    "bgm_rating_total": 561,
     "bgm_weekday_id": 7
   },
   {
@@ -126,12 +126,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/b5/615835_IbNAh.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "615835",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 342,
+    "bgm_score": 6.9,
+    "bgm_rating_total": 347,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -181,7 +181,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.6,
-    "bgm_rating_total": 658,
+    "bgm_rating_total": 662,
     "bgm_weekday_id": 7
   },
   {
@@ -226,7 +226,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 5.8,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7
   }
 ]
