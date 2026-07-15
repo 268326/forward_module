@@ -123,7 +123,7 @@
     "id": "574794",
     "type": "link",
     "title": "是王者啊？第六季",
-    "posterPath": null,
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
     "releaseDate": "2026-07-23",
     "mediaType": "anime",
     "rating": "N/A",
@@ -210,6 +210,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
@@ -260,21 +275,6 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-15",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "662682",
     "type": "link",
     "title": "顾长歌：我！天命大反派",
@@ -316,7 +316,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 306,
+    "bgm_rating_total": 326,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -351,7 +351,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 5.7,
-    "bgm_rating_total": 15,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 7
   },
   {
@@ -366,7 +366,7 @@
     "link": null,
     "bgm_id": "587109",
     "bgm_score": 6.7,
-    "bgm_rating_total": 182,
+    "bgm_rating_total": 196,
     "bgm_weekday_id": 6,
     "tmdb_id": "312266",
     "tmdb_site_id": "tv/312266",

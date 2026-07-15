@@ -1,27 +1,5 @@
 [
   {
-    "id": "298103",
-    "type": "tmdb",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/67EGk9hsaBtpzmNNtA0kCXvmi2F.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。“继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！”虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然“完全不虐待我”！ ？既温柔又温暖，与新家人共度的日子将治愈你的心。温馨的反差喜剧现在开幕！",
-    "link": null,
-    "bgm_id": "572613",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 119,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "298103",
-    "tmdb_site_id": "tv/298103",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～",
@@ -33,10 +11,32 @@
     "link": null,
     "bgm_id": "638151",
     "bgm_score": 6.0,
-    "bgm_rating_total": 119,
+    "bgm_rating_total": 123,
     "bgm_weekday_id": 5,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "298103",
+    "type": "tmdb",
+    "title": "不虐待我的继母与继姐",
+    "posterPath": "https://image.tmdb.org/t/p/w500/67EGk9hsaBtpzmNNtA0kCXvmi2F.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "中村美冶是某个名家的庶女，她与母亲两人过着贫困却幸福的日子。然而某一天，她最爱的母亲过世，她也因此被接回了本家鸿藏家。而在那里等待着美冶的，是继母昭瑠，以及继姐茉里香与爱里沙。“继母和继姐们肯定很厌恶妾室的孩子……不管会被怎么对待都放马过来吧！”虽然美冶已经做好了心理准备，但本该令人畏惧的继母和继姐们……居然“完全不虐待我”！ ？既温柔又温暖，与新家人共度的日子将治愈你的心。温馨的反差喜剧现在开幕！",
+    "link": null,
+    "bgm_id": "572613",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 121,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "298103",
+    "tmdb_site_id": "tv/298103",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

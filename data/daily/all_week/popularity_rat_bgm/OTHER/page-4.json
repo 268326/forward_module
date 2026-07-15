@@ -90,21 +90,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-15",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "662682",
     "type": "link",
     "title": "顾长歌：我！天命大反派",
@@ -138,7 +123,7 @@
     "id": "574794",
     "type": "link",
     "title": "是王者啊？第六季",
-    "posterPath": null,
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
     "releaseDate": "2026-07-23",
     "mediaType": "anime",
     "rating": "N/A",
@@ -220,6 +205,21 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/589368",
     "bgm_id": "589368",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

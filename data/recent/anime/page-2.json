@@ -1,21 +1,5 @@
 [
   {
-    "id": "270603",
-    "type": "tmdb",
-    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "5.4",
-    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
-    "link": null,
-    "tmdb_id": "270603",
-    "tmdb_site_id": "tv/270603",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "312849",
     "type": "tmdb",
     "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
@@ -32,6 +16,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "270603",
+    "type": "tmdb",
+    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "5.4",
+    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "link": null,
+    "tmdb_id": "270603",
+    "tmdb_site_id": "tv/270603",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -82,6 +82,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "312266",
+    "type": "tmdb",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "link": null,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "302051",
     "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
@@ -109,22 +125,6 @@
     "link": null,
     "tmdb_id": "286346",
     "tmdb_site_id": "tv/286346",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "312266",
-    "type": "tmdb",
-    "title": "花织即使是转生也想打架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
-    "link": null,
-    "tmdb_id": "312266",
-    "tmdb_site_id": "tv/312266",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -194,22 +194,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312522",
-    "type": "tmdb",
-    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "12话 /  2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
-    "link": null,
-    "tmdb_id": "312522",
-    "tmdb_site_id": "tv/312522",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "314554",
     "type": "tmdb",
     "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
@@ -240,6 +224,22 @@
     "tmdb_id": "123528",
     "tmdb_site_id": "tv/123528/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312522",
+    "type": "tmdb",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "12话 /  2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "link": null,
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -280,54 +280,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312507",
-    "type": "tmdb",
-    "title": "令和妖神斑小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/c5/614594_f5Szx.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "13话 /  2026年7月2日 / 鈴木理人 / ともつか治臣（「令和のダラさん」／KADOKAWA刊） / 菊田幸一",
-    "link": null,
-    "tmdb_id": "312507",
-    "tmdb_site_id": "tv/312507",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": null,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "139512",
-    "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "298103",
     "type": "tmdb",
     "title": "不虐待我的继母与继姐",
@@ -346,6 +298,54 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "296437",
+    "type": "tmdb",
+    "title": "从0位居民开始的边境领主大人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
+    "link": null,
+    "tmdb_id": "296437",
+    "tmdb_site_id": "tv/296437",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312507",
+    "type": "tmdb",
+    "title": "令和妖神斑小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/29/c5/614594_f5Szx.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "13话 /  2026年7月2日 / 鈴木理人 / ともつか治臣（「令和のダラさん」／KADOKAWA刊） / 菊田幸一",
+    "link": null,
+    "tmdb_id": "312507",
+    "tmdb_site_id": "tv/312507",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "139512",
+    "type": "tmdb",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "565701",
     "type": "link",
     "title": "乡下大叔成为剑圣 第二季",
@@ -355,6 +355,22 @@
     "rating": "6.1",
     "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
     "link": "https://bgm.tv/subject/565701"
+  },
+  {
+    "id": "109805",
+    "type": "tmdb",
+    "title": "碧蓝航线：微速前行！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
+    "link": null,
+    "tmdb_id": "109805",
+    "tmdb_site_id": "tv/109805/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "302519",
@@ -373,21 +389,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "109805",
-    "type": "tmdb",
-    "title": "碧蓝航线：微速前行！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/12/454083_DtM3t.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "12话 /  2026年7月5日 / 牧俊治 / ホリ（月刊ComicREX/一迅社刊）；『アズールレーン』運営（蛮啾网络、勇仕网络） / 森七奈",
-    "link": null,
-    "tmdb_id": "109805",
-    "tmdb_site_id": "tv/109805/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

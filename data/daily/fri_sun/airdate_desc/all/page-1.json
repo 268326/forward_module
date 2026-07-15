@@ -186,6 +186,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
@@ -217,7 +232,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 306,
+    "bgm_rating_total": 326,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -274,7 +289,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 5.7,
-    "bgm_rating_total": 15,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 7
   },
   {
@@ -289,7 +304,7 @@
     "link": null,
     "bgm_id": "587109",
     "bgm_score": 6.7,
-    "bgm_rating_total": 182,
+    "bgm_rating_total": 196,
     "bgm_weekday_id": 6,
     "tmdb_id": "312266",
     "tmdb_site_id": "tv/312266",
@@ -324,7 +339,7 @@
     "link": null,
     "bgm_id": "571895",
     "bgm_score": 5.7,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 5,
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
@@ -343,8 +358,8 @@
     "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
     "link": null,
     "bgm_id": "624691",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 3,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5,
     "tmdb_id": "326893",
     "tmdb_site_id": "tv/326893",
@@ -396,7 +411,7 @@
     "link": null,
     "bgm_id": "572613",
     "bgm_score": 6.1,
-    "bgm_rating_total": 119,
+    "bgm_rating_total": 121,
     "bgm_weekday_id": 5,
     "tmdb_id": "298103",
     "tmdb_site_id": "tv/298103",
@@ -405,25 +420,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ce/3a/255209_9w0tU.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "255209",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 1082,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]
