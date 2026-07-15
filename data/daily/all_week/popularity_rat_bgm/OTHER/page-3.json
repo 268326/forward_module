@@ -40,6 +40,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "314054",
+    "type": "tmdb",
+    "title": "天是红河岸",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "627648",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 49,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "314054",
+    "tmdb_site_id": "tv/314054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "530725",
     "type": "link",
     "title": "死神 千年血战篇-祸进谭-",
@@ -53,26 +73,6 @@
     "bgm_score": 8.2,
     "bgm_rating_total": 49,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "314054",
-    "type": "tmdb",
-    "title": "天是红河岸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "5.1",
-    "description": "[星期二]",
-    "link": null,
-    "bgm_id": "627648",
-    "bgm_score": 5.1,
-    "bgm_rating_total": 48,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "314054",
-    "tmdb_site_id": "tv/314054",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "295840",
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.5,
-    "bgm_rating_total": 33,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -186,7 +186,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.9,
-    "bgm_rating_total": 18,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 7
   },
   {
@@ -211,12 +211,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.6",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 8,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 3
   },
   {

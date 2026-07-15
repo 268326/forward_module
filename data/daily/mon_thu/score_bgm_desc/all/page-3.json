@@ -1,5 +1,20 @@
 [
   {
+    "id": "607933",
+    "type": "link",
+    "title": "万古至尊：李云霄传",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/2f/c0/607933_uzVv6.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/607933",
+    "bgm_id": "607933",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "516426",
     "type": "link",
     "title": "一斩苍穹",
@@ -50,21 +65,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "662682",
-    "type": "link",
-    "title": "顾长歌：我！天命大反派",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/07/07/662682_ooNRN.jpg",
-    "releaseDate": "2026-07-15",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/662682",
-    "bgm_id": "662682",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   },
   {
     "id": "668113",

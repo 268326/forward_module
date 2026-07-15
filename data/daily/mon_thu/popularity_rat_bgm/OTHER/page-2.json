@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 4.9,
-    "bgm_rating_total": 67,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "627648",
     "bgm_score": 5.1,
-    "bgm_rating_total": 48,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 2,
     "tmdb_id": "314054",
     "tmdb_site_id": "tv/314054",
@@ -106,12 +106,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.6",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 8,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 3
   },
   {
@@ -220,6 +220,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "662682",
+    "type": "link",
+    "title": "顾长歌：我！天命大反派",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/07/07/662682_ooNRN.jpg",
+    "releaseDate": "2026-07-15",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/662682",
+    "bgm_id": "662682",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -278,21 +293,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "662682",
-    "type": "link",
-    "title": "顾长歌：我！天命大反派",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/07/07/662682_ooNRN.jpg",
-    "releaseDate": "2026-07-15",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/662682",
-    "bgm_id": "662682",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   },
   {
     "id": "668113",
