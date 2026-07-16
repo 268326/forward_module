@@ -1,27 +1,5 @@
 [
   {
-    "id": "317256",
-    "type": "tmdb",
-    "title": "人造人009 涅墨西斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
-    "releaseDate": "2026-07-19",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "571896",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "317256",
-    "tmdb_site_id": "tv/317256",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "574041",
     "type": "link",
     "title": "柯蒂斯总统",
@@ -48,7 +26,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.3,
-    "bgm_rating_total": 297,
+    "bgm_rating_total": 299,
     "bgm_weekday_id": 7
   },
   {
@@ -103,7 +81,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 595,
+    "bgm_rating_total": 600,
     "bgm_weekday_id": 7
   },
   {
@@ -133,7 +111,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.9,
-    "bgm_rating_total": 377,
+    "bgm_rating_total": 380,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -163,12 +141,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "4.9",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 21,
+    "bgm_score": 4.9,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 7
   },
   {
@@ -205,7 +183,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 721,
+    "bgm_rating_total": 730,
     "bgm_weekday_id": 7
   },
   {

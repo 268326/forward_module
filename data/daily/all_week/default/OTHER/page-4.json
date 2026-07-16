@@ -1,25 +1,5 @@
 [
   {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ce/3a/255209_9w0tU.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "255209",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 1145,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "109805",
     "type": "tmdb",
     "title": "碧蓝航线：微速前行！第二季",
@@ -51,7 +31,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.3,
-    "bgm_rating_total": 791,
+    "bgm_rating_total": 800,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -71,7 +51,7 @@
     "link": null,
     "bgm_id": "501963",
     "bgm_score": 8.0,
-    "bgm_rating_total": 2188,
+    "bgm_rating_total": 2205,
     "bgm_weekday_id": 7,
     "tmdb_id": "94664",
     "tmdb_site_id": "tv/94664/season/3",
@@ -91,7 +71,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 382,
+    "bgm_rating_total": 399,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -126,7 +106,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.3,
-    "bgm_rating_total": 297,
+    "bgm_rating_total": 299,
     "bgm_weekday_id": 7
   },
   {
@@ -181,7 +161,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 595,
+    "bgm_rating_total": 600,
     "bgm_weekday_id": 7
   },
   {
@@ -211,7 +191,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.9,
-    "bgm_rating_total": 377,
+    "bgm_rating_total": 380,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -241,12 +221,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "4.9",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 21,
+    "bgm_score": 4.9,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 7
   },
   {
@@ -261,7 +241,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 721,
+    "bgm_rating_total": 730,
     "bgm_weekday_id": 7
   },
   {
