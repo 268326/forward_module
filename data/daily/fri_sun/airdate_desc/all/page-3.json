@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "501963",
     "bgm_score": 8.0,
-    "bgm_rating_total": 2205,
+    "bgm_rating_total": 2252,
     "bgm_weekday_id": 7,
     "tmdb_id": "94664",
     "tmdb_site_id": "tv/94664/season/3",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "545917",
     "bgm_score": 7.7,
-    "bgm_rating_total": 887,
+    "bgm_rating_total": 896,
     "bgm_weekday_id": 5,
     "tmdb_id": "287028",
     "tmdb_site_id": "tv/287028",
@@ -60,19 +60,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "627136",
-    "type": "link",
+    "id": "325052",
+    "type": "tmdb",
     "title": "从后面来的神威先生",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rsiaa0j80ZgD4z8QIO51gvpBMS6.jpg",
     "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/627136",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "这种除灵屌爆啦！！！！自称“只是看得见幽灵”的平凡女高中生志津香，活用自己容易被幽灵缠上的特殊体质，作为助手协助知名的灵能力者神威除灵。神威拥有压倒性的灵力，却使用前所未闻的“干”法来除灵！？饱受灵异事件折腾的志津香，究竟能否迎来安宁的一天呢？“超（操）”除灵仪式即将展开！！急急如律令妖魔鬼怪色色退散！！！！",
+    "link": null,
     "bgm_id": "627136",
     "bgm_score": 5.7,
-    "bgm_rating_total": 514,
-    "bgm_weekday_id": 5
+    "bgm_rating_total": 517,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "280049",
@@ -86,7 +93,7 @@
     "link": null,
     "bgm_id": "638151",
     "bgm_score": 6.1,
-    "bgm_rating_total": 127,
+    "bgm_rating_total": 128,
     "bgm_weekday_id": 5,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049",
@@ -95,6 +102,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "668586",
+    "type": "link",
+    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/668586",
+    "bgm_id": "668586",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
   },
   {
     "id": "30983",
@@ -108,7 +130,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11446,
+    "bgm_rating_total": 11445,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
