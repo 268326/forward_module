@@ -1,5 +1,25 @@
 [
   {
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "545008",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 424,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "317256",
     "type": "tmdb",
     "title": "人造人009 涅墨西斯",
@@ -83,7 +103,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.7,
-    "bgm_rating_total": 60,
+    "bgm_rating_total": 61,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -103,7 +123,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 609,
+    "bgm_rating_total": 613,
     "bgm_weekday_id": 7
   },
   {
@@ -133,7 +153,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.9,
-    "bgm_rating_total": 384,
+    "bgm_rating_total": 386,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -205,7 +225,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 735,
+    "bgm_rating_total": 743,
     "bgm_weekday_id": 7
   },
   {

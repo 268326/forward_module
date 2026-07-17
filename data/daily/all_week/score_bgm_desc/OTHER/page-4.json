@@ -15,6 +15,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "491582",
+    "type": "link",
+    "title": "天子传奇：姬发篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/491582",
+    "bgm_id": "491582",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",

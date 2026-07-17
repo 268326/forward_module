@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.0,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 73,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "637124",
     "bgm_score": 5.8,
-    "bgm_rating_total": 30,
+    "bgm_rating_total": 31,
     "bgm_weekday_id": 3,
     "tmdb_id": "254492",
     "tmdb_site_id": "tv/254492/season/2",
@@ -115,6 +115,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "637339",
+    "type": "link",
+    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/637339",
+    "bgm_id": "637339",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "612697",
     "type": "link",
     "title": "铠真传 武士军团 第2部分",
@@ -128,21 +143,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "637339",
-    "type": "link",
-    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/637339",
-    "bgm_id": "637339",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 1
   },
   {
     "id": "481295",
@@ -218,6 +218,21 @@
     "bgm_score": 1.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "491582",
+    "type": "link",
+    "title": "天子传奇：姬发篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/491582",
+    "bgm_id": "491582",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
   },
   {
     "id": "595884",

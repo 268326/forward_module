@@ -1,5 +1,20 @@
 [
   {
+    "id": "637339",
+    "type": "link",
+    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/637339",
+    "bgm_id": "637339",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "612697",
     "type": "link",
     "title": "铠真传 武士军团 第2部分",
@@ -13,21 +28,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "637339",
-    "type": "link",
-    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/637339",
-    "bgm_id": "637339",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 1
   },
   {
     "id": "481295",
@@ -119,6 +119,28 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "323839",
+    "type": "tmdb",
+    "title": "东大高武学院",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
+    "link": null,
+    "bgm_id": "592111",
+    "bgm_score": 3.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "323839",
+    "tmdb_site_id": "tv/323839",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "665747",
     "type": "link",
     "title": "「斩-ZAN-」试播片",
@@ -162,28 +184,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "323839",
-    "type": "tmdb",
-    "title": "东大高武学院",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
-    "link": null,
-    "bgm_id": "592111",
-    "bgm_score": 2.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "323839",
-    "tmdb_site_id": "tv/323839",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "668022",
@@ -320,6 +320,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "491582",
+    "type": "link",
+    "title": "天子传奇：姬发篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/491582",
+    "bgm_id": "491582",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -378,27 +393,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "326697",
-    "type": "tmdb",
-    "title": "地球大好き！きっくん",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5DeX1qTH98C52Tmlxc0QxFVPwyp.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "532053",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "326697",
-    "tmdb_site_id": "tv/326697",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

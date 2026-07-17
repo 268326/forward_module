@@ -1,5 +1,27 @@
 [
   {
+    "id": "326697",
+    "type": "tmdb",
+    "title": "地球大好き！きっくん",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5DeX1qTH98C52Tmlxc0QxFVPwyp.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "532053",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "326697",
+    "tmdb_site_id": "tv/326697",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
