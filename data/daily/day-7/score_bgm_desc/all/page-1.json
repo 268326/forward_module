@@ -33,7 +33,7 @@
     "link": null,
     "bgm_id": "501963",
     "bgm_score": 8.0,
-    "bgm_rating_total": 2258,
+    "bgm_rating_total": 2272,
     "bgm_weekday_id": 7,
     "tmdb_id": "94664",
     "tmdb_site_id": "tv/94664/season/3",
@@ -53,7 +53,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 748,
+    "bgm_rating_total": 752,
     "bgm_weekday_id": 7
   },
   {
@@ -68,7 +68,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 618,
+    "bgm_rating_total": 619,
     "bgm_weekday_id": 7
   },
   {
@@ -83,7 +83,7 @@
     "link": null,
     "bgm_id": "495291",
     "bgm_score": 7.3,
-    "bgm_rating_total": 830,
+    "bgm_rating_total": 840,
     "bgm_weekday_id": 7,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
@@ -103,7 +103,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 6.9,
-    "bgm_rating_total": 390,
+    "bgm_rating_total": 398,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -123,7 +123,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 436,
+    "bgm_rating_total": 446,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -163,7 +163,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.3,
-    "bgm_rating_total": 304,
+    "bgm_rating_total": 305,
     "bgm_weekday_id": 7
   },
   {
@@ -178,13 +178,28 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 5.9,
-    "bgm_rating_total": 1183,
+    "bgm_rating_total": 1196,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "668108",
+    "type": "link",
+    "title": "《灵能百分百》动画10周年纪念特别映像",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/668108",
+    "bgm_id": "668108",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 7
   },
   {
     "id": "302824",
@@ -205,21 +220,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "668108",
-    "type": "link",
-    "title": "《灵能百分百》动画10周年纪念特别映像",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/668108",
-    "bgm_id": "668108",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 7
   },
   {
     "id": "619052",
@@ -259,21 +259,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 24,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "300267",
     "type": "tmdb",
     "title": "世界最强的后卫 ～迷宫国的新人探索者～",
@@ -292,6 +277,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 25,
+    "bgm_weekday_id": 7
   },
   {
     "id": "662006",

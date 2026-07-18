@@ -1,5 +1,20 @@
 [
   {
+    "id": "549975",
+    "type": "link",
+    "title": "神通安昂：最后的气宗",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/f8/549975_58HUD.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/549975",
+    "bgm_id": "549975",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 74,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "293489",
     "type": "tmdb",
     "title": "鬼的新娘",
@@ -20,22 +35,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "222623",
+    "id": "307585",
     "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
+    "title": "我家的弟弟们真是让您费心了",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/fb/613438_pJVpS.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "6.6",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": null,
-    "bgm_id": "517106",
-    "bgm_score": 6.6,
+    "bgm_id": "613438",
+    "bgm_score": 5.7,
     "bgm_rating_total": 64,
     "bgm_weekday_id": 5,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "307585",
+    "tmdb_site_id": "tv/307585",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -51,7 +66,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 6.2,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -75,26 +90,6 @@
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "307585",
-    "type": "tmdb",
-    "title": "我家的弟弟们真是让您费心了",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/fb/613438_pJVpS.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "613438",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 60,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "307585",
-    "tmdb_site_id": "tv/307585",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -163,12 +158,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.9",
+    "rating": "4.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 24,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 25,
     "bgm_weekday_id": 7
   },
   {
@@ -178,12 +173,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
-    "rating": "5.7",
+    "rating": "5.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 18,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 7
   },
   {
@@ -197,7 +192,7 @@
     "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
     "link": null,
     "bgm_id": "624691",
-    "bgm_score": 6.0,
+    "bgm_score": 5.8,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 5,
     "tmdb_id": "326893",
@@ -221,6 +216,21 @@
     "bgm_id": "664856",
     "bgm_score": 5.4,
     "bgm_rating_total": 5,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "668022",
+    "type": "link",
+    "title": "交叉行动",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c2/71/668022_fJ6dk.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "6.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/668022",
+    "bgm_id": "668022",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 5
   },
   {
@@ -252,21 +262,6 @@
     "bgm_score": 4.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "668022",
-    "type": "link",
-    "title": "交叉行动",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c2/71/668022_fJ6dk.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668022",
-    "bgm_id": "668022",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "576780",
@@ -334,6 +329,28 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "326695",
+    "type": "tmdb",
+    "title": "择日飞升",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
+    "link": null,
+    "bgm_id": "491578",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "326695",
+    "tmdb_site_id": "tv/326695",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "328237",
@@ -408,20 +425,5 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "668586",
-    "type": "link",
-    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668586",
-    "bgm_id": "668586",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
   }
 ]
