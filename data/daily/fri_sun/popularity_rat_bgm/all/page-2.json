@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.7,
-    "bgm_rating_total": 74,
+    "bgm_rating_total": 75,
     "bgm_weekday_id": 6
   },
   {
@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.9,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -61,12 +61,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/28/ae/529723_9qSo4.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.1",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "529723",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 63,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 64,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.7,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -173,12 +173,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.9",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 20,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 7
   },
   {
@@ -217,6 +217,28 @@
     "bgm_score": 5.4,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "317256",
+    "type": "tmdb",
+    "title": "人造人009 涅墨西斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
+    "releaseDate": "2026-07-19",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "571896",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "317256",
+    "tmdb_site_id": "tv/317256",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "668022",
@@ -279,28 +301,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "317256",
-    "type": "tmdb",
-    "title": "人造人009 涅墨西斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
-    "releaseDate": "2026-07-19",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "571896",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "317256",
-    "tmdb_site_id": "tv/317256",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "619052",
     "type": "link",
     "title": "あはれ！名作くん 完全新作",
@@ -353,6 +353,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "328237",
     "type": "tmdb",
     "title": "普拉诺龙 硬核生物部",
@@ -403,27 +418,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "208208",
-    "type": "tmdb",
-    "title": "Breaking Bear",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "663695",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "208208",
-    "tmdb_site_id": "tv/208208",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

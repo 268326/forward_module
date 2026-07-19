@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.7,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -76,12 +76,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.9",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 20,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 7
   },
   {
@@ -190,6 +190,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "542847",
     "type": "link",
     "title": "怪物大师",
@@ -233,21 +248,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "589368",
-    "type": "link",
-    "title": "如果历史是一群喵 大明皇朝篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/589368",
-    "bgm_id": "589368",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "641326",
