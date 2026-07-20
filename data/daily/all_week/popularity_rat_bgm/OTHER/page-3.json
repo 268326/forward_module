@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "627648",
     "bgm_score": 4.8,
-    "bgm_rating_total": 56,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 2,
     "tmdb_id": "314054",
     "tmdb_site_id": "tv/314054",
@@ -71,7 +71,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.2,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 6
   },
   {
@@ -146,7 +146,7 @@
     "link": null,
     "bgm_id": "603352",
     "bgm_score": 6.4,
-    "bgm_rating_total": 26,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 4,
     "tmdb_id": "110837",
     "tmdb_site_id": "tv/110837/season/2",
@@ -181,7 +181,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.0,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7
   },
   {
@@ -196,7 +196,7 @@
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
     "bgm_score": 6.5,
-    "bgm_rating_total": 10,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 3
   },
   {
@@ -272,21 +272,6 @@
     "bgm_id": "664856",
     "bgm_score": 5.4,
     "bgm_rating_total": 5,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "668022",
-    "type": "link",
-    "title": "交叉行动",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c2/71/668022_fJ6dk.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668022",
-    "bgm_id": "668022",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 3,
     "bgm_weekday_id": 5
   },
   {
@@ -393,5 +378,20 @@
     "bgm_score": 1.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "501732",
+    "type": "link",
+    "title": "蝙蝠侠：披风战士 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/a1/501732_IKKVV.jpg",
+    "releaseDate": "2026-07-31",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/501732",
+    "bgm_id": "501732",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
   }
 ]

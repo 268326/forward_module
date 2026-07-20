@@ -1,5 +1,25 @@
 [
   {
+    "id": "293489",
+    "type": "tmdb",
+    "title": "鬼的新娘",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b9/ac/563745_YI26V.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "3.9",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "563745",
+    "bgm_score": 3.9,
+    "bgm_rating_total": 77,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "293489",
+    "tmdb_site_id": "tv/293489",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "549975",
     "type": "link",
     "title": "神通安昂：最后的气宗",
@@ -13,26 +33,6 @@
     "bgm_score": 6.7,
     "bgm_rating_total": 75,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "293489",
-    "type": "tmdb",
-    "title": "鬼的新娘",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b9/ac/563745_YI26V.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "3.9",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "563745",
-    "bgm_score": 3.9,
-    "bgm_rating_total": 73,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "293489",
-    "tmdb_site_id": "tv/293489",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "307585",
@@ -106,7 +106,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.2,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 6
   },
   {
@@ -120,7 +120,7 @@
     "description": "1910年代，由大日本帝国陆军设立的学校——陆军栖凤中学。这是一个为获取可用于军事的超常力量而收集、研究超自然现象的特殊机构。栖凤中学三年级学生岩元胡堂奉军部指令，奔赴全国各地进行调查。然而他所到之处，总会出现拥有特殊能力的“能力者”……！等待着岩元的各种怪奇事件与“能力者”们。向这些“能力者”递出前往学园的“推荐信”的岩元，其真正的意图究竟是……？怪奇与超自然现象，以及“能力者”的存在——揭开他们时代帷幕的浪漫奇谭，就此开幕！",
     "link": null,
     "bgm_id": "621843",
-    "bgm_score": 3.6,
+    "bgm_score": 3.5,
     "bgm_rating_total": 43,
     "bgm_weekday_id": 6,
     "tmdb_id": "324335",
@@ -178,7 +178,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.0,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7
   },
   {
@@ -189,11 +189,11 @@
     "releaseDate": "2026-07-19",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "[星期日]",
+    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
     "link": null,
     "bgm_id": "571896",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 12,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -241,21 +241,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "668022",
-    "type": "link",
-    "title": "交叉行动",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c2/71/668022_fJ6dk.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668022",
-    "bgm_id": "668022",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "665747",
     "type": "link",
     "title": "「斩-ZAN-」试播片",
@@ -284,6 +269,28 @@
     "bgm_score": 4.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "326695",
+    "type": "tmdb",
+    "title": "择日飞升",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
+    "link": null,
+    "bgm_id": "491578",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "326695",
+    "tmdb_site_id": "tv/326695",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "576780",
@@ -329,28 +336,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "326695",
-    "type": "tmdb",
-    "title": "择日飞升",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
-    "link": null,
-    "bgm_id": "491578",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "326695",
-    "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "589368",
@@ -418,5 +403,27 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "208208",
+    "type": "tmdb",
+    "title": "Breaking Bear",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期五]",
+    "link": null,
+    "bgm_id": "663695",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "208208",
+    "tmdb_site_id": "tv/208208",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

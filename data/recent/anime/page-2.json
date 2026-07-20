@@ -50,22 +50,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "250008",
-    "type": "tmdb",
-    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_C4q4C.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.1",
-    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
-    "link": null,
-    "tmdb_id": "250008",
-    "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
@@ -93,6 +77,22 @@
     "link": null,
     "tmdb_id": "302051",
     "tmdb_site_id": "tv/302051",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "250008",
+    "type": "tmdb",
+    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_C4q4C.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
+    "link": null,
+    "tmdb_id": "250008",
+    "tmdb_site_id": "tv/250008",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -136,7 +136,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "tv",
-    "rating": "5.2",
+    "rating": "5.1",
     "description": "12话 /  2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
     "link": null,
     "tmdb_id": "298994",
@@ -152,7 +152,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
     "releaseDate": "2026-04-08",
     "mediaType": "tv",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
     "tmdb_id": "65942",
@@ -212,22 +212,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "123528",
-    "type": "tmdb",
-    "title": "骸骨骑士大人异世界冒险中 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1d/71/528828_oQl2M.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "12话 /  2026年7月6日 / 小野勝巳 / 秤猿鬼（オーバーラップノベルス刊）/ 漫画: サワノアキラ(澤野明)（「コミックガルド」連載） / 今西亨",
-    "link": null,
-    "tmdb_id": "123528",
-    "tmdb_site_id": "tv/123528/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "298103",
     "type": "tmdb",
     "title": "不虐待我的继母与继姐",
@@ -244,6 +228,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "123528",
+    "type": "tmdb",
+    "title": "骸骨骑士大人异世界冒险中 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1d/71/528828_oQl2M.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "12话 /  2026年7月6日 / 小野勝巳 / 秤猿鬼（オーバーラップノベルス刊）/ 漫画: サワノアキラ(澤野明)（「コミックガルド」連載） / 今西亨",
+    "link": null,
+    "tmdb_id": "123528",
+    "tmdb_site_id": "tv/123528/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "326119",
@@ -270,7 +270,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "5.9",
     "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
     "link": "https://bgm.tv/subject/565701"
   },
@@ -281,7 +281,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/2z8wbBH2r4JZMyhC2ruKnxwTjlg.jpg",
     "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "“招待您进入永无止境的游戏？”废游戏宅·山田健一偶然发现了一款没有标题的谜之网络游戏。在设定难易度时，他毫不犹豫地选择了最高难度。没想到当他按下“地狱模式”之后，竟然转生成了异世界的农奴！转生成少年“亚莲”的健一，一边掌握着“召唤士”这个充满谜团的职业，在没有攻略也没有讨论区的异世界里，寻找成为最强的道路。",
     "link": null,
     "tmdb_id": "280049",
@@ -291,22 +291,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": null,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "139512",
@@ -321,6 +305,22 @@
     "tmdb_id": "139512",
     "tmdb_site_id": "tv/139512/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296437",
+    "type": "tmdb",
+    "title": "从0位居民开始的边境领主大人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
+    "link": null,
+    "tmdb_id": "296437",
+    "tmdb_site_id": "tv/296437",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

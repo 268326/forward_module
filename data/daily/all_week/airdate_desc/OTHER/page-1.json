@@ -71,7 +71,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.2,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 6
   },
   {
@@ -251,7 +251,7 @@
     "link": null,
     "bgm_id": "517106",
     "bgm_score": 6.6,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 135,
     "bgm_weekday_id": 5,
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
@@ -331,7 +331,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 479,
+    "bgm_rating_total": 499,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -366,7 +366,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.0,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 7
   }
 ]
