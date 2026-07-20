@@ -1,20 +1,5 @@
 [
   {
-    "id": "501732",
-    "type": "link",
-    "title": "蝙蝠侠：披风战士 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/a1/501732_IKKVV.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/501732",
-    "bgm_id": "501732",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "516426",
     "type": "link",
     "title": "一斩苍穹",
@@ -251,7 +236,7 @@
     "link": null,
     "bgm_id": "517106",
     "bgm_score": 6.6,
-    "bgm_rating_total": 135,
+    "bgm_rating_total": 143,
     "bgm_weekday_id": 5,
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
@@ -331,7 +316,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 499,
+    "bgm_rating_total": 536,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -368,5 +353,25 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 24,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "312266",
+    "type": "tmdb",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "587109",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 325,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

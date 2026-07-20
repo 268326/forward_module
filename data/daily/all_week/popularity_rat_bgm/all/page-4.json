@@ -290,21 +290,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "501732",
-    "type": "link",
-    "title": "蝙蝠侠：披风战士 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/a1/501732_IKKVV.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/501732",
-    "bgm_id": "501732",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -397,6 +382,21 @@
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/516426",
     "bgm_id": "516426",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
+    "id": "662681",
+    "type": "link",
+    "title": "万古神帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
+    "releaseDate": "2026-07-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/662681",
+    "bgm_id": "662681",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2

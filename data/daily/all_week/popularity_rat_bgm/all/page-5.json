@@ -1,20 +1,5 @@
 [
   {
-    "id": "662681",
-    "type": "link",
-    "title": "万古神帝",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
-    "releaseDate": "2026-07-21",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/662681",
-    "bgm_id": "662681",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "326697",
     "type": "tmdb",
     "title": "地球大好き！きっくん",

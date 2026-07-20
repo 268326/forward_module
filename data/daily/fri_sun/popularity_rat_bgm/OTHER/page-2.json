@@ -1,20 +1,20 @@
 [
   {
-    "id": "302824",
+    "id": "307585",
     "type": "tmdb",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "我家的弟弟们真是让您费心了",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/fb/613438_pJVpS.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
     "rating": "5.7",
-    "description": "[星期日]",
+    "description": "[星期五]",
     "link": null,
-    "bgm_id": "595106",
+    "bgm_id": "613438",
     "bgm_score": 5.7,
-    "bgm_rating_total": 63,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "302824",
-    "tmdb_site_id": "tv/302824",
+    "bgm_rating_total": 64,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "307585",
+    "tmdb_site_id": "tv/307585",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -66,7 +66,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.8,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 7
   },
   {
@@ -158,21 +158,6 @@
     "bgm_score": 5.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "501732",
-    "type": "link",
-    "title": "蝙蝠侠：披风战士 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/a1/501732_IKKVV.jpg",
-    "releaseDate": "2026-07-31",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/501732",
-    "bgm_id": "501732",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
   },
   {
     "id": "589368",
