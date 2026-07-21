@@ -1,5 +1,20 @@
 [
   {
+    "id": "662681",
+    "type": "link",
+    "title": "万古神帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
+    "releaseDate": "2026-07-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/662681",
+    "bgm_id": "662681",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "326697",
     "type": "tmdb",
     "title": "地球大好き！きっくん",
@@ -25,7 +40,7 @@
     "id": "329026",
     "type": "tmdb",
     "title": "李熊猫",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/2e/26/642666_tALbN.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nawBG1OVDR6nF0uoq6jz7MZ4g2H.jpg",
     "releaseDate": "2026-07-29",
     "mediaType": "tv",
     "rating": "0.0",
@@ -169,21 +184,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "327228",

@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.2,
-    "bgm_rating_total": 51,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 6
   },
   {
@@ -165,21 +165,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "607933",
-    "type": "link",
-    "title": "万古至尊：李云霄传",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/2f/c0/607933_uzVv6.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/607933",
-    "bgm_id": "607933",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "663444",
     "type": "link",
     "title": "一家之主 第15季",
@@ -201,12 +186,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
     "releaseDate": "2026-07-18",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "6.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/576780",
     "bgm_id": "576780",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 6.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 6
   },
   {
@@ -216,12 +201,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
     "releaseDate": "2026-07-18",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "4.0",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/641326",
     "bgm_id": "641326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 4.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 6
   },
   {
@@ -236,7 +221,7 @@
     "link": null,
     "bgm_id": "517106",
     "bgm_score": 6.6,
-    "bgm_rating_total": 143,
+    "bgm_rating_total": 149,
     "bgm_weekday_id": 5,
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
@@ -316,7 +301,7 @@
     "link": null,
     "bgm_id": "545008",
     "bgm_score": 6.8,
-    "bgm_rating_total": 536,
+    "bgm_rating_total": 558,
     "bgm_weekday_id": 7,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
@@ -331,12 +316,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
-    "rating": "4.0",
+    "rating": "4.3",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/662006",
     "bgm_id": "662006",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -366,12 +351,27 @@
     "link": null,
     "bgm_id": "587109",
     "bgm_score": 6.7,
-    "bgm_rating_total": 325,
+    "bgm_rating_total": 332,
     "bgm_weekday_id": 6,
     "tmdb_id": "312266",
     "tmdb_site_id": "tv/312266",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
   }
 ]

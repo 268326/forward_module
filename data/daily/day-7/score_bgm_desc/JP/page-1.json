@@ -1,27 +1,5 @@
 [
   {
-    "id": "317256",
-    "type": "tmdb",
-    "title": "人造人009 涅墨西斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
-    "releaseDate": "2026-07-19",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
-    "link": null,
-    "bgm_id": "571896",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 19,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "317256",
-    "tmdb_site_id": "tv/317256",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "328237",
     "type": "tmdb",
     "title": "普拉诺龙 硬核生物部",
@@ -37,6 +15,28 @@
     "bgm_weekday_id": 7,
     "tmdb_id": "328237",
     "tmdb_site_id": "tv/328237",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317256",
+    "type": "tmdb",
+    "title": "人造人009 涅墨西斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
+    "releaseDate": "2026-07-19",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
+    "link": null,
+    "bgm_id": "571896",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 22,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "317256",
+    "tmdb_site_id": "tv/317256",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

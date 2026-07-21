@@ -163,6 +163,36 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "662006",
+    "type": "link",
+    "title": "暗芝居 第十七季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/662006",
+    "bgm_id": "662006",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "6.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "665747",
     "type": "link",
     "title": "「斩-ZAN-」试播片",
@@ -176,21 +206,6 @@
     "bgm_score": 4.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "662006",
-    "type": "link",
-    "title": "暗芝居 第十七季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/662006",
-    "bgm_id": "662006",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 7
   },
   {
     "id": "572768",
@@ -228,21 +243,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "576780",
-    "type": "link",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
-    "bgm_id": "576780",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "619052",
@@ -305,6 +305,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "328237",
     "type": "tmdb",
     "title": "普拉诺龙 硬核生物部",
@@ -357,19 +372,26 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "607933",
-    "type": "link",
+    "id": "329125",
+    "type": "tmdb",
     "title": "万古至尊：李云霄传",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/2f/c0/607933_uzVv6.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6UE31KRwZmuvoAGvYxi3LvNElIw.jpg",
     "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/607933",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
+    "link": null,
     "bgm_id": "607933",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
+    "bgm_weekday_id": 1,
+    "tmdb_id": "329125",
+    "tmdb_site_id": "tv/329125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "516426",
@@ -382,21 +404,6 @@
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/516426",
     "bgm_id": "516426",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "662681",
-    "type": "link",
-    "title": "万古神帝",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
-    "releaseDate": "2026-07-21",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/662681",
-    "bgm_id": "662681",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2

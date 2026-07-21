@@ -1,5 +1,20 @@
 [
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "491582",
     "type": "link",
     "title": "天子传奇：姬发篇",
@@ -25,21 +40,6 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/595884",
     "bgm_id": "595884",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "607933",
-    "type": "link",
-    "title": "万古至尊：李云霄传",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/2f/c0/607933_uzVv6.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/607933",
-    "bgm_id": "607933",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
@@ -178,21 +178,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "574041",
