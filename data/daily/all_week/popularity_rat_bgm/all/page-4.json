@@ -178,6 +178,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "572768",
+    "type": "link",
+    "title": "一念永恒 完结季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/572768",
+    "bgm_id": "572768",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "576780",
     "type": "link",
     "title": "炼气十万年特别篇 阳极天下",
@@ -206,21 +221,6 @@
     "bgm_score": 4.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "572768",
-    "type": "link",
-    "title": "一念永恒 完结季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_D25Ve.jpg",
-    "releaseDate": "2026-07-22",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/572768",
-    "bgm_id": "572768",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3
   },
   {
     "id": "326695",
@@ -319,6 +319,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "662681",
+    "type": "link",
+    "title": "万古神帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
+    "releaseDate": "2026-07-21",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/662681",
+    "bgm_id": "662681",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "662682",
     "type": "link",
     "title": "顾长歌：我！天命大反派",
@@ -392,20 +407,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "516426",
-    "type": "link",
-    "title": "一斩苍穹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ef/2e/516426_f5iQZ.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/516426",
-    "bgm_id": "516426",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
   }
 ]

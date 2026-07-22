@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.0,
-    "bgm_rating_total": 87,
+    "bgm_rating_total": 89,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -178,7 +178,7 @@
     "id": "572768",
     "type": "link",
     "title": "一念永恒 完结季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_D25Ve.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
     "releaseDate": "2026-07-22",
     "mediaType": "anime",
     "rating": "10.0",
@@ -186,7 +186,7 @@
     "link": "http://bgm.tv/subject/572768",
     "bgm_id": "572768",
     "bgm_score": 10.0,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 3
   },
   {
@@ -203,6 +203,21 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "662681",
+    "type": "link",
+    "title": "万古神帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
+    "releaseDate": "2026-07-21",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/662681",
+    "bgm_id": "662681",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 2
   },
   {
     "id": "662682",
@@ -260,21 +275,6 @@
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/516426",
     "bgm_id": "516426",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "662681",
-    "type": "link",
-    "title": "万古神帝",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
-    "releaseDate": "2026-07-21",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/662681",
-    "bgm_id": "662681",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2

@@ -48,7 +48,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.3,
-    "bgm_rating_total": 321,
+    "bgm_rating_total": 325,
     "bgm_weekday_id": 7
   },
   {
@@ -78,11 +78,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "5.7",
+    "rating": "5.8",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "595106",
-    "bgm_score": 5.7,
+    "bgm_score": 5.8,
     "bgm_rating_total": 67,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
@@ -103,7 +103,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 683,
+    "bgm_rating_total": 692,
     "bgm_weekday_id": 7
   },
   {
@@ -133,7 +133,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 7.0,
-    "bgm_rating_total": 470,
+    "bgm_rating_total": 482,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -205,7 +205,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 837,
+    "bgm_rating_total": 847,
     "bgm_weekday_id": 7
   },
   {
