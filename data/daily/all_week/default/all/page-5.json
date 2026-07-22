@@ -6,12 +6,12 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
     "releaseDate": "2026-07-19",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "6.0",
     "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
     "link": null,
     "bgm_id": "571896",
     "bgm_score": 4.5,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -48,7 +48,7 @@
     "link": "http://bgm.tv/subject/577191",
     "bgm_id": "577191",
     "bgm_score": 6.3,
-    "bgm_rating_total": 317,
+    "bgm_rating_total": 321,
     "bgm_weekday_id": 7
   },
   {
@@ -103,7 +103,7 @@
     "link": "http://bgm.tv/subject/598058",
     "bgm_id": "598058",
     "bgm_score": 7.4,
-    "bgm_rating_total": 678,
+    "bgm_rating_total": 683,
     "bgm_weekday_id": 7
   },
   {
@@ -133,7 +133,7 @@
     "link": null,
     "bgm_id": "615835",
     "bgm_score": 7.0,
-    "bgm_rating_total": 467,
+    "bgm_rating_total": 470,
     "bgm_weekday_id": 7,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
@@ -205,7 +205,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 833,
+    "bgm_rating_total": 837,
     "bgm_weekday_id": 7
   },
   {
@@ -250,7 +250,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.0,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 7
   }
 ]
