@@ -1,18 +1,40 @@
 [
   {
-    "id": "516426",
+    "id": "595884",
     "type": "link",
-    "title": "一斩苍穹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ef/2e/516426_f5iQZ.jpg",
-    "releaseDate": "2026-07-28",
+    "title": "蜘蛛侠与他的神奇朋友们 第五季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b2/2b/595884_0QYyv.jpg",
+    "releaseDate": "2026-07-13",
     "mediaType": "anime",
     "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/516426",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/595884",
+    "bgm_id": "595884",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/N2OHiWa4TdjwGjsjwuP75l3qyk.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
     "bgm_id": "516426",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326697",
@@ -72,21 +94,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "574794",
-    "type": "link",
-    "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
-    "releaseDate": "2026-07-23",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "663982",
@@ -152,7 +159,7 @@
     "id": "208208",
     "type": "tmdb",
     "title": "Breaking Bear",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4ZT3gTxOqWLH7MhOgLfh3y57agS.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "tv",
     "rating": "0.0",
@@ -208,19 +215,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "574041",
-    "type": "link",
+    "id": "296756",
+    "type": "tmdb",
     "title": "柯蒂斯总统",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8a/1a/574041_K8Kkk.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
     "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/574041",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
     "bgm_id": "574041",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "613039",

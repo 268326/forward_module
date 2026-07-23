@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.0,
-    "bgm_rating_total": 90,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -26,11 +26,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "4.7",
+    "rating": "4.6",
     "description": "[星期二]",
     "link": null,
     "bgm_id": "627648",
-    "bgm_score": 4.7,
+    "bgm_score": 4.6,
     "bgm_rating_total": 60,
     "bgm_weekday_id": 2,
     "tmdb_id": "314054",
@@ -235,6 +235,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "491582",
     "type": "link",
     "title": "天子传奇：姬发篇",
@@ -265,21 +280,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "516426",
-    "type": "link",
-    "title": "一斩苍穹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ef/2e/516426_f5iQZ.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/516426",
-    "bgm_id": "516426",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
@@ -293,21 +293,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "574794",
-    "type": "link",
-    "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
-    "releaseDate": "2026-07-23",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "663982",

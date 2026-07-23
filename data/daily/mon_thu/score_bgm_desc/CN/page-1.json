@@ -32,33 +32,11 @@
     "description": "根据原作动画《花仙子》（东映动画）改编。 立志成为调香师的学徒露米在归家途中遭遇黑雾袭击，危难间在自称是花星使者的黑猫的指引下，唤醒了祖先留下的古董花钥匙的力量，并变身成为花仙子。 由于七色花被黑暗魔法侵蚀而凋零，七片花瓣散落在花都镇各处，导致异象频出蚕食人们的心智。为了花都镇的安危，露米作为继承了花仙血统的后人，肩负起净化并收集七片花瓣的使命，运用花香魔法驱散人们心中的黑暗，开启一场魔法少女的成长之旅。 而在这场冒险中，露米却遭到来自另一名神秘花仙子的攻击，而自己身边的这只黑猫竟也有着意想不到的身份……",
     "link": null,
     "bgm_id": "449354",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 6,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 4,
     "tmdb_id": "282580",
     "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323839",
-    "type": "tmdb",
-    "title": "东大高武学院",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
-    "link": null,
-    "bgm_id": "592111",
-    "bgm_score": 3.3,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "323839",
-    "tmdb_site_id": "tv/323839",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -81,6 +59,50 @@
     "bgm_weekday_id": 1,
     "tmdb_id": "329125",
     "tmdb_site_id": "tv/329125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323839",
+    "type": "tmdb",
+    "title": "东大高武学院",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
+    "link": null,
+    "bgm_id": "592111",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "323839",
+    "tmdb_site_id": "tv/323839",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/N2OHiWa4TdjwGjsjwuP75l3qyk.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
+    "bgm_id": "516426",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"

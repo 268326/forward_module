@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.0,
-    "bgm_rating_total": 90,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "579246",
     "bgm_score": 5.0,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 99,
     "bgm_weekday_id": 1,
     "tmdb_id": "298831",
     "tmdb_site_id": "tv/298831",
@@ -55,26 +55,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "314054",
-    "type": "tmdb",
-    "title": "天是红河岸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "[星期二]",
-    "link": null,
-    "bgm_id": "627648",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 60,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "314054",
-    "tmdb_site_id": "tv/314054",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "297826",
     "type": "tmdb",
     "title": "盗墓王",
@@ -86,7 +66,7 @@
     "link": null,
     "bgm_id": "621835",
     "bgm_score": 4.7,
-    "bgm_rating_total": 105,
+    "bgm_rating_total": 108,
     "bgm_weekday_id": 3,
     "tmdb_id": "297826",
     "tmdb_site_id": "tv/297826",
@@ -101,7 +81,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "tv",
-    "rating": "7.0",
+    "rating": "5.0",
     "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
     "link": null,
     "bgm_id": "630163",
@@ -128,10 +108,30 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 4.7,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 104,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "314054",
+    "type": "tmdb",
+    "title": "天是红河岸",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/11/b7/627648_V00Vh.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "4.6",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "627648",
+    "bgm_score": 4.6,
+    "bgm_rating_total": 60,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "314054",
+    "tmdb_site_id": "tv/314054",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -159,6 +159,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "317256",
+    "type": "tmdb",
+    "title": "人造人009 涅墨西斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
+    "releaseDate": "2026-07-19",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
+    "link": null,
+    "bgm_id": "571896",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "317256",
+    "tmdb_site_id": "tv/317256",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "658254",
     "type": "link",
     "title": "ようじょしぇんき2",
@@ -172,28 +194,6 @@
     "bgm_score": 4.4,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "317256",
-    "type": "tmdb",
-    "title": "人造人009 涅墨西斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
-    "releaseDate": "2026-07-19",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
-    "link": null,
-    "bgm_id": "571896",
-    "bgm_score": 4.4,
-    "bgm_rating_total": 29,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "317256",
-    "tmdb_site_id": "tv/317256",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "662006",
@@ -248,21 +248,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "665747",
-    "type": "link",
-    "title": "「斩-ZAN-」试播片",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665747",
-    "bgm_id": "665747",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "293489",
     "type": "tmdb",
     "title": "鬼的新娘",
@@ -283,6 +268,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "665747",
+    "type": "link",
+    "title": "「斩-ZAN-」试播片",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "3.7",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665747",
+    "bgm_id": "665747",
+    "bgm_score": 3.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "324335",
     "type": "tmdb",
     "title": "岩元前辈的推荐",
@@ -301,28 +301,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323839",
-    "type": "tmdb",
-    "title": "东大高武学院",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
-    "link": null,
-    "bgm_id": "592111",
-    "bgm_score": 3.3,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "323839",
-    "tmdb_site_id": "tv/323839",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -364,6 +342,28 @@
     "bgm_weekday_id": 1,
     "tmdb_id": "329125",
     "tmdb_site_id": "tv/329125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323839",
+    "type": "tmdb",
+    "title": "东大高武学院",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
+    "link": null,
+    "bgm_id": "592111",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "323839",
+    "tmdb_site_id": "tv/323839",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -423,6 +423,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "491582",
     "type": "link",
     "title": "天子传奇：姬发篇",
@@ -433,21 +448,6 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/491582",
     "bgm_id": "491582",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "595884",
-    "type": "link",
-    "title": "蜘蛛侠与他的神奇朋友们 第五季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b2/2b/595884_0QYyv.jpg",
-    "releaseDate": "2026-07-13",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/595884",
-    "bgm_id": "595884",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1

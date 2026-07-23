@@ -1,5 +1,20 @@
 [
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -60,21 +75,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "516426",
-    "type": "link",
-    "title": "一斩苍穹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ef/2e/516426_f5iQZ.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/516426",
-    "bgm_id": "516426",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
@@ -88,21 +88,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "574794",
-    "type": "link",
-    "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
-    "releaseDate": "2026-07-23",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "663982",
@@ -178,21 +163,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "574041",
-    "type": "link",
-    "title": "柯蒂斯总统",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8a/1a/574041_K8Kkk.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/574041",
-    "bgm_id": "574041",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   },
   {
     "id": "613039",

@@ -1,9 +1,31 @@
 [
   {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "208208",
     "type": "tmdb",
     "title": "Breaking Bear",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8sWLmm1l8uKL9ItlkEMLxwXjWaj.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4ZT3gTxOqWLH7MhOgLfh3y57agS.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "tv",
     "rating": "0.0",

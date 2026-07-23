@@ -20,5 +20,27 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/N2OHiWa4TdjwGjsjwuP75l3qyk.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
+    "bgm_id": "516426",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
