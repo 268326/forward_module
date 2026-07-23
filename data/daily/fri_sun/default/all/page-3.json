@@ -33,7 +33,22 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 847,
+    "bgm_rating_total": 853,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "642680",
+    "type": "link",
+    "title": "天子传奇：洪武大帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/22/ca/642680_Qj5hu.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/642680",
+    "bgm_id": "642680",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 7
   },
   {

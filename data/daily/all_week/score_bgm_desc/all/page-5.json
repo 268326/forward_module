@@ -76,7 +76,7 @@
   {
     "id": "574794",
     "type": "link",
-    "title": "是王者啊？第六季",
+    "title": "是王者啊？ 第6季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
     "releaseDate": "2026-07-23",
     "mediaType": "anime",
@@ -233,6 +233,21 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "642680",
+    "type": "link",
+    "title": "天子传奇：洪武大帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/22/ca/642680_Qj5hu.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/642680",
+    "bgm_id": "642680",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7
