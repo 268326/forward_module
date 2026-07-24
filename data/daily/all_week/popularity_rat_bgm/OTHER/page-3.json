@@ -1,5 +1,25 @@
 [
   {
+    "id": "302824",
+    "type": "tmdb",
+    "title": "Let's Go 怪奇组",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "595106",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 70,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "302824",
+    "tmdb_site_id": "tv/302824",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "307585",
     "type": "tmdb",
     "title": "我家的弟弟们真是让您费心了",
@@ -15,26 +35,6 @@
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "302824",
-    "type": "tmdb",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "595106",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 68,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "302824",
-    "tmdb_site_id": "tv/302824",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -71,7 +71,7 @@
     "link": "http://bgm.tv/subject/530725",
     "bgm_id": "530725",
     "bgm_score": 8.2,
-    "bgm_rating_total": 55,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 6
   },
   {
@@ -135,6 +135,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "668108",
+    "type": "link",
+    "title": "《灵能百分百》动画10周年纪念特别映像",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/668108",
+    "bgm_id": "668108",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 29,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "110837",
     "type": "tmdb",
     "title": "文豪野犬 汪！第二季",
@@ -170,21 +185,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "668108",
-    "type": "link",
-    "title": "《灵能百分百》动画10周年纪念特别映像",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/668108",
-    "bgm_id": "668108",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 27,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "500458",
     "type": "link",
     "title": "胶囊计划 奇迹",
@@ -200,6 +200,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "612697",
+    "type": "link",
+    "title": "铠真传 武士军团 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_B5f6f.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/612697",
+    "bgm_id": "612697",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "637339",
     "type": "link",
     "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
@@ -213,21 +228,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "612697",
-    "type": "link",
-    "title": "铠真传 武士军团 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_B5f6f.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/612697",
-    "bgm_id": "612697",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 2
   },
   {
     "id": "481295",
