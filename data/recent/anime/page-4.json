@@ -96,15 +96,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "508004",
-    "type": "link",
+    "id": "86031",
+    "type": "tmdb",
     "title": "石纪元 科学与未来 第3部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
     "releaseDate": "2026-04-02",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.2",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": "https://bgm.tv/subject/508004"
+    "link": null,
+    "tmdb_id": "86031",
+    "tmdb_site_id": "tv/86031",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "69346",
@@ -204,7 +209,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/11/b7/627648_V00Vh.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "4.6",
+    "rating": "4.5",
     "description": "2026年7月7日 / 小林浩輔 / 篠原千絵「天は赤い河のほとり」（小学館刊） / 藤﨑賢二(藤崎賢二)",
     "link": null,
     "tmdb_id": "314054",
@@ -246,33 +251,36 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "577191",
-    "type": "link",
+    "id": "1659389",
+    "type": "tmdb",
     "title": "航海王 女英雄们的故事",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b1/dd/577191_c7zCc.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
+    "mediaType": "movie",
     "rating": "6.3",
     "description": "1话 /  2026年7月5日 / 鎌谷悠 / 『ONE PIECE novel HEROINES』 小説：江坂純／イラストレーション：諏訪さやか(集英社 JUMP j BOOKS刊) (『ONE PIECE』(原作：尾田栄一郎)より) / 小島崇史",
-    "link": "https://bgm.tv/subject/577191"
+    "link": null,
+    "tmdb_id": "1659389",
+    "tmdb_site_id": "movie/1659389",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "296436",
     "type": "tmdb",
     "title": "无自觉圣女今天也无意识地释放力量",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gHtmP0fpNbPXRxYGIYzrbJsUuWi.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg",
     "releaseDate": "2026-06-30",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "优秀的桑切斯公爵家中有两位姊妹。\n\n姐姐芙萝拉是才色兼备的圣女候补。\n\n妹妹卡洛琳娜是个既平凡又毫无才能的淘汰品……\n\n这样的卡洛琳娜为了调整与邻国的关系，被安排了与第二皇子的婚事。\n\n然而，传闻中的皇子是一位既野蛮又残酷无比的人物。\n\n「如果我能派上用场的话」如此想着于是接受了政治联姻的卡洛琳娜，在出嫁后彻底改变了人生。\n\n收到与传闻相反的绅士皇子、皇帝及皇后的正面评价，她终于能得到认可！？",
+    "rating": "4.4",
+    "description": "2026年6月30日 / 熨斗谷充孝 / あーもんど（「アース・スター ルナ」アース・スター エンターテイメント刊）；漫画：えとうヨナ / 永井泰平",
     "link": null,
     "tmdb_id": "296436",
     "tmdb_site_id": "tv/296436",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",

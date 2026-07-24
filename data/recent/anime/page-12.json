@@ -128,15 +128,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "616453",
-    "type": "link",
+    "id": "316715",
+    "type": "tmdb",
     "title": "这样高大的女孩子你喜欢吗？",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a4/3f/616453_q2e2i.jpg",
     "releaseDate": "2026-04-05",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.3",
     "description": "12话 /  2026年4月5日 / 藁井草太 / 愛染五郎（竹コミ！／竹書房） / 足高長江",
-    "link": "https://bgm.tv/subject/616453"
+    "link": null,
+    "tmdb_id": "316715",
+    "tmdb_site_id": "tv/316715",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "639938",
@@ -214,15 +219,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "612697",
-    "type": "link",
+    "id": "293629",
+    "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/ce/612697_B5f6f.jpg",
     "releaseDate": "2026-07-07",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
     "description": "12话 /  2026年7月7日 / 藤田陽一 / 矢立肇 / 室田雄平；恶役人物设定：ことぶきつかさ",
-    "link": "https://bgm.tv/subject/612697"
+    "link": null,
+    "tmdb_id": "293629",
+    "tmdb_site_id": "tv/293629",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "78102",

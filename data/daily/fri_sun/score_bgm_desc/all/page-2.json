@@ -1,5 +1,20 @@
 [
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "326893",
     "type": "tmdb",
     "title": "喜羊羊与灰太狼之破界山海诀",
@@ -22,28 +37,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "326695",
-    "type": "tmdb",
-    "title": "择日飞升",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
-    "link": null,
-    "bgm_id": "491578",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "326695",
-    "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "285993",
     "type": "tmdb",
     "title": "暗黑灯火",
@@ -55,7 +48,7 @@
     "link": null,
     "bgm_id": "542603",
     "bgm_score": 5.8,
-    "bgm_rating_total": 117,
+    "bgm_rating_total": 119,
     "bgm_weekday_id": 6,
     "tmdb_id": "285993",
     "tmdb_site_id": "tv/285993",
@@ -75,7 +68,7 @@
     "link": null,
     "bgm_id": "255209",
     "bgm_score": 5.8,
-    "bgm_rating_total": 1371,
+    "bgm_rating_total": 1383,
     "bgm_weekday_id": 7,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
@@ -95,7 +88,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.8,
-    "bgm_rating_total": 70,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -107,23 +100,21 @@
     "id": "325052",
     "type": "tmdb",
     "title": "从后面来的神威先生",
-    "posterPath": "https://image.tmdb.org/t/p/w500/rsiaa0j80ZgD4z8QIO51gvpBMS6.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
     "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "这种除灵屌爆啦！！！！自称“只是看得见幽灵”的平凡女高中生志津香，活用自己容易被幽灵缠上的特殊体质，作为助手协助知名的灵能力者神威除灵。神威拥有压倒性的灵力，却使用前所未闻的“干”法来除灵！？饱受灵异事件折腾的志津香，究竟能否迎来安宁的一天呢？“超（操）”除灵仪式即将展开！！急急如律令妖魔鬼怪色色退散！！！！",
+    "rating": "5.7",
+    "description": "[星期五]",
     "link": null,
     "bgm_id": "627136",
     "bgm_score": 5.7,
-    "bgm_rating_total": 598,
+    "bgm_rating_total": 600,
     "bgm_weekday_id": 5,
     "tmdb_id": "325052",
     "tmdb_site_id": "tv/325052",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "287075",
@@ -137,7 +128,7 @@
     "link": null,
     "bgm_id": "530729",
     "bgm_score": 5.7,
-    "bgm_rating_total": 192,
+    "bgm_rating_total": 193,
     "bgm_weekday_id": 6,
     "tmdb_id": "287075",
     "tmdb_site_id": "tv/287075",
@@ -247,7 +238,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.9,
-    "bgm_rating_total": 27,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 7
   },
   {
@@ -262,7 +253,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 4.7,
-    "bgm_rating_total": 104,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -297,7 +288,7 @@
     "link": null,
     "bgm_id": "571896",
     "bgm_score": 4.2,
-    "bgm_rating_total": 34,
+    "bgm_rating_total": 35,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -334,7 +325,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.7,
-    "bgm_rating_total": 92,
+    "bgm_rating_total": 94,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -361,11 +352,11 @@
     "id": "324335",
     "type": "tmdb",
     "title": "岩元前辈的推荐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kkK5nwGKtsFj4r6GnH1meNi6V0G.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a7/0a/621843_5tN5J.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "2.0",
-    "description": "1910年代，由大日本帝国陆军设立的学校——陆军栖凤中学。这是一个为获取可用于军事的超常力量而收集、研究超自然现象的特殊机构。栖凤中学三年级学生岩元胡堂奉军部指令，奔赴全国各地进行调查。然而他所到之处，总会出现拥有特殊能力的“能力者”……！等待着岩元的各种怪奇事件与“能力者”们。向这些“能力者”递出前往学园的“推荐信”的岩元，其真正的意图究竟是……？怪奇与超自然现象，以及“能力者”的存在——揭开他们时代帷幕的浪漫奇谭，就此开幕！",
+    "rating": "3.5",
+    "description": "[星期六]",
     "link": null,
     "bgm_id": "621843",
     "bgm_score": 3.5,
@@ -374,10 +365,8 @@
     "tmdb_id": "324335",
     "tmdb_site_id": "tv/324335",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "328237",
@@ -404,7 +393,7 @@
   {
     "id": "542847",
     "type": "link",
-    "title": "怪物大师",
+    "title": "怪物大师之穿越时空的怪物",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "anime",

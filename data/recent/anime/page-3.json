@@ -1,14 +1,19 @@
 [
   {
-    "id": "530725",
-    "type": "link",
+    "id": "30984",
+    "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "8.2",
     "description": "2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
-    "link": "https://bgm.tv/subject/530725"
+    "link": null,
+    "tmdb_id": "30984",
+    "tmdb_site_id": "tv/30984",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "300267",
@@ -158,19 +163,17 @@
     "id": "98865",
     "type": "tmdb",
     "title": "梅比乌斯之尘",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cc/46/276787_4oO0A.jpg",
     "releaseDate": "2026-07-09",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "陨石坠落后的第十年，由于巨大结晶释放出的神秘粒子“梅比乌斯之尘”的影响，一部分孩子获得了名为“拉姆斯”的特殊能力。这些特殊能力者由于生存范围受到限制，被禁止离开“新胜鹿镇”。为了排解无法离开的烦闷，高中生荒木与妹妹斯特拉、青梅竹马奥尔加等人组成“警跃者”队伍，运用异能全身心投入到争夺领地的游戏中。然而，直到有一天，“拉姆斯”的研究者汤田博士请求他们协助一项实验，荒木等人决定参与其中，他们的命运由此开始转动。",
+    "rating": "4.4",
+    "description": "2026年7月9日 / 岩崎太郎 / メテオアーク社 / 小嶋はつめ",
     "link": null,
     "tmdb_id": "98865",
     "tmdb_site_id": "tv/98865",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "94664",
@@ -224,19 +227,17 @@
     "id": "325158",
     "type": "tmdb",
     "title": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车",
-    "posterPath": "https://image.tmdb.org/t/p/w500/f7qMDdhpC4yXmlJo5tvdwRO9JtE.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/75/fd/636067_0uuym.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "大家好——我是高梨凛，一位二十多岁的职场人士。\n\n让我简单介绍一下我目前的情况。\n\n只有我一个人被召唤到了异世界——留下了可爱的女高中生们——然后就孤零零地被抛在了这里。\n\n你可能会觉得我会不知所措……但实际上，我一点也不担心。\n\n毕竟，我的技能——“萌酱”（我可靠的露营车）和“生存策略”——简直是神级水平。\n\n我想：“为什么不把爱好——独自露营和烹饪——延续到这个新世界呢？就这么办！”\n\n就这样，一群可爱的伙伴开始陆续出现！\n\n好啦，让我们一起踏上这个异世界的美食之旅吧！\n\n快上车！\n\n为了充分利用这个新世界——萌酱，全速前进！",
+    "rating": "5.5",
+    "description": "12话 /  2026年7月6日 / 濁川敦 / 米織（KADOKAWA『カドカワBOOKS』） / 石井泉",
     "link": null,
     "tmdb_id": "325158",
     "tmdb_site_id": "tv/325158",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "196950",

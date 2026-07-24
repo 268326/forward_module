@@ -310,20 +310,18 @@
   {
     "id": "300054",
     "type": "tmdb",
-    "title": "刃牙道：无敌武士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+    "title": "刃牙道",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg",
     "releaseDate": "2026-02-26",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "力量的终极象征“宫本武藏”来到允许使用武器的地下斗技场，愚地独步、涉川刚气、烈海王等强者轮番上阵，挑战武藏如神一般的力量。刀剑与拳头的生死对决，落败者难逃一死，战况令人血脉贲张。\n\n做好心理准备，看刃牙和其他地下斗技场选手英勇迎接全新战斗，凭胜负决定谁才是人类史上最强战士。\n\n该剧改编自板垣惠介的同名漫画，原作于 2014 至 2018 年间在《周刊少年 Champion》上连载。",
+    "rating": "6.1",
+    "description": "13话 /  2026年2月26日 / 平野俊貴 / 板垣恵介（秋田書店「少年チャンピオン・コミックス」刊） / 石川晋吾",
     "link": null,
     "tmdb_id": "300054",
     "tmdb_site_id": "tv/300054",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "74091",

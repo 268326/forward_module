@@ -1,27 +1,5 @@
 [
   {
-    "id": "302519",
-    "type": "tmdb",
-    "title": "奇招百出的维多利亚",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2odRPZeecKXpTboMutt4X49NRDD.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　顶尖特务克萝伊脱离组织后，改名换姓，以维多利亚的身份过着新的生活。\n\n　　她在辗转抵达艾许伯里王国后，遇见了被母亲遗弃的少女诺娜，以及骑士团诚实可靠的团长杰佛瑞。\n\n　　杰佛瑞成为了领养诺娜的维多利亚的身份保证人，这三个各自背负着伤痛过去的人，逐渐成为彼此生命中不可或缺的存在。\n\n　　维多利亚所梦寐以求的幸福，最终会去往何处呢？",
-    "link": null,
-    "bgm_id": "584641",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 133,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "302519",
-    "tmdb_site_id": "tv/302519",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "327843",
     "type": "tmdb",
     "title": "拯救替身千金的是冷酷无情冰之王子的爱",
