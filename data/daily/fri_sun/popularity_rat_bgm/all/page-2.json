@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 6.1,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 73,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -66,7 +66,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 5.6,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -81,12 +81,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "tv",
-    "rating": "8.2",
+    "rating": "8.3",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "530725",
-    "bgm_score": 8.2,
-    "bgm_rating_total": 58,
+    "bgm_score": 8.3,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 6,
     "tmdb_id": "30984",
     "tmdb_site_id": "tv/30984",
@@ -115,6 +115,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "317256",
+    "type": "tmdb",
+    "title": "人造人009 涅墨西斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
+    "releaseDate": "2026-07-19",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
+    "link": null,
+    "bgm_id": "571896",
+    "bgm_score": 4.1,
+    "bgm_rating_total": 39,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "317256",
+    "tmdb_site_id": "tv/317256",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "315054",
     "type": "tmdb",
     "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
@@ -133,28 +155,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "317256",
-    "type": "tmdb",
-    "title": "人造人009 涅墨西斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wR4giIImVT5w043piQPxHXlOqZO.jpg",
-    "releaseDate": "2026-07-19",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
-    "link": null,
-    "bgm_id": "571896",
-    "bgm_score": 4.2,
-    "bgm_rating_total": 35,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "317256",
-    "tmdb_site_id": "tv/317256",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "668108",
@@ -178,12 +178,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.9",
+    "rating": "4.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 28,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 7
   },
   {
@@ -197,11 +197,33 @@
     "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
     "link": null,
     "bgm_id": "624691",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 5,
     "tmdb_id": "326893",
     "tmdb_site_id": "tv/326893",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "326695",
+    "type": "tmdb",
+    "title": "择日飞升",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
+    "link": null,
+    "bgm_id": "491578",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "326695",
+    "tmdb_site_id": "tv/326695",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -224,28 +246,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "326695",
-    "type": "tmdb",
-    "title": "择日飞升",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
-    "link": null,
-    "bgm_id": "491578",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "326695",
-    "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "662006",
     "type": "link",
     "title": "暗芝居 第十七季",
@@ -259,21 +259,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "679496",
-    "type": "link",
-    "title": "甲鉄城のカバネリ ──#無名爛漫 フィギュア発売記念ムービー",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/59/e8/679496_L0lDM.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/679496",
-    "bgm_id": "679496",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 5
   },
   {
     "id": "576780",
@@ -373,6 +358,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "542847",
     "type": "link",
     "title": "怪物大师之穿越时空的怪物",
@@ -409,7 +409,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/4ZT3gTxOqWLH7MhOgLfh3y57agS.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "7.0",
     "description": "[星期五]",
     "link": null,
     "bgm_id": "663695",

@@ -10,8 +10,8 @@
     "description": "身为外貌协会且私生活混乱的大学生明仁，对顶着一张漂亮脸蛋且态度冷酷的冴怎么看都不顺眼。在得知联谊时看上的女生也喜欢冴之后，明仁不爽到了极点。就在这个时候，他在爱情旅馆一条街撞见冴和其他男人发生争执。面对与平时截然不同，浑身破绽的冴，明仁忍不住将他强硬地推倒，此时冴出乎意料之外的反应让他澈底失控——！ ？",
     "link": null,
     "bgm_id": "630164",
-    "bgm_score": 3.2,
-    "bgm_rating_total": 10,
+    "bgm_score": 3.3,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 3,
     "tmdb_id": "314561",
     "tmdb_site_id": "tv/314561",
@@ -156,11 +156,33 @@
     "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
     "link": null,
     "bgm_id": "624691",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 5,
     "tmdb_id": "326893",
     "tmdb_site_id": "tv/326893",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "326695",
+    "type": "tmdb",
+    "title": "择日飞升",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
+    "link": null,
+    "bgm_id": "491578",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "326695",
+    "tmdb_site_id": "tv/326695",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -183,28 +205,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "326695",
-    "type": "tmdb",
-    "title": "择日飞升",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
-    "link": null,
-    "bgm_id": "491578",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "326695",
-    "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "662006",
     "type": "link",
     "title": "暗芝居 第十七季",
@@ -218,21 +218,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "679496",
-    "type": "link",
-    "title": "甲鉄城のカバネリ ──#無名爛漫 フィギュア発売記念ムービー",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/59/e8/679496_L0lDM.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/679496",
-    "bgm_id": "679496",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 5
   },
   {
     "id": "576780",
@@ -410,6 +395,21 @@
     "link": "http://bgm.tv/subject/641326",
     "bgm_id": "641326",
     "bgm_score": 4.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 10.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 6
   }
