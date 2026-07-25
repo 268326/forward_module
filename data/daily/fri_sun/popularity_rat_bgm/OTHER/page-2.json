@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "530725",
     "bgm_score": 8.3,
-    "bgm_rating_total": 59,
+    "bgm_rating_total": 60,
     "bgm_weekday_id": 6,
     "tmdb_id": "30984",
     "tmdb_site_id": "tv/30984",
@@ -111,13 +111,28 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.4,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 7
   },
   {
     "id": "668108",
@@ -132,21 +147,6 @@
     "bgm_id": "668108",
     "bgm_score": 6.1,
     "bgm_rating_total": 30,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 29,
     "bgm_weekday_id": 7
   },
   {
@@ -165,6 +165,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "662006",
     "type": "link",
     "title": "暗芝居 第十七季",
@@ -178,21 +193,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "576780",
-    "type": "link",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
-    "bgm_id": "576780",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
   },
   {
     "id": "665747",
@@ -310,6 +310,21 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/668586",
     "bgm_id": "668586",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "679732",
+    "type": "link",
+    "title": "SEALOOK 2nd season",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/18/b5/679732_fQ4Ii.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/679732",
+    "bgm_id": "679732",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5

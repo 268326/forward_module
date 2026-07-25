@@ -1,18 +1,18 @@
 [
   {
-    "id": "491582",
+    "id": "662682",
     "type": "link",
-    "title": "天子传奇：姬发篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
-    "releaseDate": "2026-07-20",
+    "title": "顾长歌：我！天命大反派",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/07/07/662682_ooNRN.jpg",
+    "releaseDate": "2026-07-15",
     "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/491582",
-    "bgm_id": "491582",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
+    "rating": "1.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/662682",
+    "bgm_id": "662682",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
   },
   {
     "id": "595884",
@@ -208,6 +208,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "679732",
+    "type": "link",
+    "title": "SEALOOK 2nd season",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/18/b5/679732_fQ4Ii.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/679732",
+    "bgm_id": "679732",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "327228",
     "type": "tmdb",
     "title": "面包宝宝",
@@ -236,7 +251,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "1.0",
     "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
     "link": null,
     "bgm_id": "574041",

@@ -15,6 +15,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "662006",
     "type": "link",
     "title": "暗芝居 第十七季",
@@ -28,21 +43,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "576780",
-    "type": "link",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
-    "bgm_id": "576780",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
   },
   {
     "id": "665747",
@@ -60,6 +60,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "3.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "619052",
     "type": "link",
     "title": "あはれ！名作くん 完全新作",
@@ -73,6 +88,21 @@
     "bgm_score": 5.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "491582",
+    "type": "link",
+    "title": "天子传奇：姬发篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/491582",
+    "bgm_id": "491582",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
   },
   {
     "id": "663444",
@@ -120,21 +150,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "574794",
-    "type": "link",
-    "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
-    "releaseDate": "2026-07-23",
-    "mediaType": "anime",
-    "rating": "1.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
-    "bgm_score": 1.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -178,21 +193,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "491582",
-    "type": "link",
-    "title": "天子传奇：姬发篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/491582",
-    "bgm_id": "491582",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
   },
   {
     "id": "595884",
@@ -295,6 +295,21 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/668586",
     "bgm_id": "668586",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "679732",
+    "type": "link",
+    "title": "SEALOOK 2nd season",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/18/b5/679732_fQ4Ii.jpg",
+    "releaseDate": "2026-07-24",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/679732",
+    "bgm_id": "679732",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5

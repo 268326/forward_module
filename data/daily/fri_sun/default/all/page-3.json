@@ -1,5 +1,20 @@
 [
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "328237",
     "type": "tmdb",
     "title": "普拉诺龙 硬核生物部",
@@ -33,7 +48,7 @@
     "link": "http://bgm.tv/subject/638497",
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 875,
+    "bgm_rating_total": 882,
     "bgm_weekday_id": 7
   },
   {
