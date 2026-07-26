@@ -203,17 +203,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "598058",
-    "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
-  },
-  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -230,13 +219,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
     "id": "325052",
     "type": "tmdb",
     "title": "从后面来的神威先生",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
     "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "5.7",
+    "rating": "5.6",
     "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
     "link": null,
     "tmdb_id": "325052",
@@ -332,7 +332,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.7",
+    "rating": "6.8",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",

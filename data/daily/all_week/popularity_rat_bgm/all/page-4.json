@@ -22,6 +22,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "572768",
+    "type": "link",
+    "title": "一念永恒 完结季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/572768",
+    "bgm_id": "572768",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "293629",
     "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
@@ -40,21 +55,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "572768",
-    "type": "link",
-    "title": "一念永恒 完结季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
-    "releaseDate": "2026-07-22",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/572768",
-    "bgm_id": "572768",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 3
   },
   {
     "id": "323839",
