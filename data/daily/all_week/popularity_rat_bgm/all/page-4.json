@@ -43,12 +43,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_B5f6f.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "6.0",
+    "rating": "5.8",
     "description": "[星期二]",
     "link": null,
     "bgm_id": "612697",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 8,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 2,
     "tmdb_id": "293629",
     "tmdb_site_id": "tv/293629",
@@ -72,6 +72,28 @@
     "bgm_weekday_id": 4,
     "tmdb_id": "323839",
     "tmdb_site_id": "tv/323839",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "326893",
+    "type": "tmdb",
+    "title": "喜羊羊与灰太狼之破界山海诀",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
+    "link": null,
+    "bgm_id": "624691",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "326893",
+    "tmdb_site_id": "tv/326893",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -109,28 +131,6 @@
     "bgm_weekday_id": 4,
     "tmdb_id": "282580",
     "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "326893",
-    "type": "tmdb",
-    "title": "喜羊羊与灰太狼之破界山海诀",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sZWbNzVhbF3WvuHpFl7KRTJEGHb.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "羊狼意外误入奇幻山海界，邂逅众多上古奇兽，开启一场惊险的跨界冒险。旅途危机四伏，众人凭借彼此的默契协作，一次次化险为夷，逐步探寻隐秘真相，厘清过往尘封旧事。没想到更大的危机步步逼近。最终羊狼携手伙伴同心协力，迎战强敌，打响守护山海界的终极决战。",
-    "link": null,
-    "bgm_id": "624691",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "326893",
-    "tmdb_site_id": "tv/326893",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
