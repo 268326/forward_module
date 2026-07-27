@@ -1,5 +1,21 @@
 [
   {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
+    "releaseDate": "2024-04-07",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "288551",
     "type": "tmdb",
     "title": "木头风纪委员和迷你裙JK的故事",
@@ -34,22 +50,6 @@
   {
     "id": "94664",
     "type": "tmdb",
-    "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
-    "releaseDate": "2024-04-07",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
     "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
     "releaseDate": "2021-10-03",
@@ -64,6 +64,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "8话 /  2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
+    "link": "https://bgm.tv/subject/633354"
+  },
+  {
     "id": "307585",
     "type": "tmdb",
     "title": "我家的弟弟们真是让您费心了",
@@ -75,22 +86,6 @@
     "link": null,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "302824",
-    "type": "tmdb",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_ll6Jj.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
-    "link": null,
-    "tmdb_id": "302824",
-    "tmdb_site_id": "tv/302824",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -112,15 +107,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "id": "302824",
+    "type": "tmdb",
+    "title": "Let's Go 怪奇组",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/8d/595106_ll6Jj.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "8话 /  2026年7月5日 / 庄司二号 / ハピライ☆ちょこ美",
-    "link": "https://bgm.tv/subject/633354"
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "12话 /  2026年7月5日 / 平田豊 / ビュー（小学館クリエイティブ刊） / 山下喜光",
+    "link": null,
+    "tmdb_id": "302824",
+    "tmdb_site_id": "tv/302824",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942",
@@ -139,22 +139,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "86031",
-    "type": "tmdb",
-    "title": "石纪元 科学与未来 第3部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
-    "link": null,
-    "tmdb_id": "86031",
-    "tmdb_site_id": "tv/86031",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "1575337",
     "type": "tmdb",
     "title": "超时空辉夜姬！",
@@ -166,6 +150,22 @@
     "link": null,
     "tmdb_id": "1575337",
     "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "86031",
+    "type": "tmdb",
+    "title": "石纪元 科学与未来 第3部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
+    "link": null,
+    "tmdb_id": "86031",
+    "tmdb_site_id": "tv/86031",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -241,7 +241,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg",
     "releaseDate": "2026-06-30",
     "mediaType": "tv",
-    "rating": "4.3",
+    "rating": "4.4",
     "description": "2026年6月30日 / 熨斗谷充孝 / あーもんど（「アース・スター ルナ」アース・スター エンターテイメント刊）；漫画：えとうヨナ / 永井泰平",
     "link": null,
     "tmdb_id": "296436",
@@ -299,22 +299,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305329",
-    "type": "tmdb",
-    "title": "主播女孩重度依赖",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_CN0mm.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
-    "link": null,
-    "tmdb_id": "305329",
-    "tmdb_site_id": "tv/305329",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "284447",
     "type": "tmdb",
     "title": "弱弱老师",
@@ -347,17 +331,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638185",
-    "type": "link",
-    "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/d8/638185_4Ni0n.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "3.8",
-    "description": "1话 /  2026年7月10日 / 上野壮大 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊） / 長田絵里",
-    "link": "https://bgm.tv/subject/638185"
-  },
-  {
     "id": "315054",
     "type": "tmdb",
     "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
@@ -369,6 +342,33 @@
     "link": null,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "638185",
+    "type": "link",
+    "title": "靠死亡游戏混饭吃。 44:CLOUDY BEACH",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/80/d8/638185_4Ni0n.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "3.8",
+    "description": "1话 /  2026年7月10日 / 上野壮大 / 鵜飼有志（MF文庫J「死亡遊戯で飯を食う。」／KADOKAWA 刊） / 長田絵里",
+    "link": "https://bgm.tv/subject/638185"
+  },
+  {
+    "id": "305329",
+    "type": "tmdb",
+    "title": "主播女孩重度依赖",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_CN0mm.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "13话 /  2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+    "link": null,
+    "tmdb_id": "305329",
+    "tmdb_site_id": "tv/305329",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
