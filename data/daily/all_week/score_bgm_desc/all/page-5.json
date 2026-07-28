@@ -1,5 +1,27 @@
 [
   {
+    "id": "329125",
+    "type": "tmdb",
+    "title": "万古至尊：李云霄传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6UE31KRwZmuvoAGvYxi3LvNElIw.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
+    "link": null,
+    "bgm_id": "607933",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "329125",
+    "tmdb_site_id": "tv/329125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "323839",
     "type": "tmdb",
     "title": "东大高武学院",
@@ -44,19 +66,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "662681",
-    "type": "link",
+    "id": "329260",
+    "type": "tmdb",
     "title": "万古神帝",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/29/37/662681_9996z.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jElv6FJjINzLoGeSDBsrCa4EOeL.jpg",
     "releaseDate": "2026-07-21",
-    "mediaType": "anime",
-    "rating": "1.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/662681",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "《万古神帝》改编自阅文白金作家飞天鱼的同名小说。\n\n八百年前，张若尘身为明帝独子，天资绝世却遭青梅竹马的池瑶公主斩杀；八百年后，他重生在云武郡国的废柴九王子“张若尘”体内，这具身体体弱多病、毫无灵力，与母亲林妃在郡王府备受欺凌。觉醒记忆后，张若尘立誓向已是昆仑界主宰的池瑶女皇复仇，同时守护给予他母爱的林妃。他觉醒时空神武印记，凭前世经验和努力快速成长，岁末考核夺冠后，历经武市斗场厮杀、地府门截杀，进入武市学宫深造。",
+    "link": null,
     "bgm_id": "662681",
     "bgm_score": 1.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
+    "bgm_weekday_id": 2,
+    "tmdb_id": "329260",
+    "tmdb_site_id": "tv/329260",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "662682",
@@ -87,28 +116,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326697",
