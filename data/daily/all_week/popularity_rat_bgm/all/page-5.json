@@ -1,5 +1,42 @@
 [
   {
+    "id": "329125",
+    "type": "tmdb",
+    "title": "万古至尊：李云霄传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6UE31KRwZmuvoAGvYxi3LvNElIw.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
+    "link": null,
+    "bgm_id": "607933",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "329125",
+    "tmdb_site_id": "tv/329125",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "663444",
+    "type": "link",
+    "title": "一家之主 第15季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1e/f8/663444_i2im9.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/663444",
+    "bgm_id": "663444",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "662681",
     "type": "link",
     "title": "万古神帝",
@@ -30,43 +67,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "679578",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/679578",
-    "bgm_id": "679578",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -85,7 +85,7 @@
     "id": "303287",
     "type": "tmdb",
     "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/N2OHiWa4TdjwGjsjwuP75l3qyk.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
     "releaseDate": "2026-07-28",
     "mediaType": "tv",
     "rating": "0.0",

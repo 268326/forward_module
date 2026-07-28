@@ -57,6 +57,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "282580",
+    "type": "tmdb",
+    "title": "花仙子之魔法香对论",
+    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "根据原作动画《花仙子》（东映动画）改编。 立志成为调香师的学徒露米在归家途中遭遇黑雾袭击，危难间在自称是花星使者的黑猫的指引下，唤醒了祖先留下的古董花钥匙的力量，并变身成为花仙子。 由于七色花被黑暗魔法侵蚀而凋零，七片花瓣散落在花都镇各处，导致异象频出蚕食人们的心智。为了花都镇的安危，露米作为继承了花仙血统的后人，肩负起净化并收集七片花瓣的使命，运用花香魔法驱散人们心中的黑暗，开启一场魔法少女的成长之旅。 而在这场冒险中，露米却遭到来自另一名神秘花仙子的攻击，而自己身边的这只黑猫竟也有着意想不到的身份……",
+    "link": null,
+    "bgm_id": "449354",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "282580",
+    "tmdb_site_id": "tv/282580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "323839",
     "type": "tmdb",
     "title": "东大高武学院",
@@ -114,28 +136,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "282580",
-    "type": "tmdb",
-    "title": "花仙子之魔法香对论",
-    "posterPath": "https://image.tmdb.org/t/p/w500/BfiNWlUZBmMj4Jw82kVgiSbrVH.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "根据原作动画《花仙子》（东映动画）改编。 立志成为调香师的学徒露米在归家途中遭遇黑雾袭击，危难间在自称是花星使者的黑猫的指引下，唤醒了祖先留下的古董花钥匙的力量，并变身成为花仙子。 由于七色花被黑暗魔法侵蚀而凋零，七片花瓣散落在花都镇各处，导致异象频出蚕食人们的心智。为了花都镇的安危，露米作为继承了花仙血统的后人，肩负起净化并收集七片花瓣的使命，运用花香魔法驱散人们心中的黑暗，开启一场魔法少女的成长之旅。 而在这场冒险中，露米却遭到来自另一名神秘花仙子的攻击，而自己身边的这只黑猫竟也有着意想不到的身份……",
-    "link": null,
-    "bgm_id": "449354",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "282580",
-    "tmdb_site_id": "tv/282580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326695",
@@ -265,6 +265,28 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "491582",
     "type": "link",
     "title": "天子传奇：姬发篇",
@@ -340,6 +362,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "619052",
     "type": "link",
     "title": "あはれ！名作くん 完全新作",
@@ -375,42 +412,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "329125",
-    "type": "tmdb",
-    "title": "万古至尊：李云霄传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6UE31KRwZmuvoAGvYxi3LvNElIw.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
-    "link": null,
-    "bgm_id": "607933",
-    "bgm_score": 3.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "329125",
-    "tmdb_site_id": "tv/329125",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "663444",
-    "type": "link",
-    "title": "一家之主 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1e/f8/663444_i2im9.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/663444",
-    "bgm_id": "663444",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1
   }
 ]
