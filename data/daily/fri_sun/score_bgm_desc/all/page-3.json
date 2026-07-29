@@ -1,5 +1,42 @@
 [
   {
+    "id": "328237",
+    "type": "tmdb",
+    "title": "普拉诺龙 硬核生物部",
+    "posterPath": "https://image.tmdb.org/t/p/w500/m1yevLnfeARJSA3KinN9JvDjXFv.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "633711",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "328237",
+    "tmdb_site_id": "tv/328237",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "659686",
+    "type": "link",
+    "title": "トミカとトム シーズン2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/659686",
+    "bgm_id": "659686",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "542847",
     "type": "link",
     "title": "怪物大师之穿越时空的怪物",
@@ -67,28 +104,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "327228",
-    "type": "tmdb",
-    "title": "面包宝宝",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gBNB83kkOlpoxy1gxUdUE9lpuny.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "651872",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "327228",
-    "tmdb_site_id": "tv/327228",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "642680",
     "type": "link",
     "title": "天子传奇：洪武大帝",
@@ -99,21 +114,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/642680",
     "bgm_id": "642680",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "659686",
-    "type": "link",
-    "title": "トミカとトム シーズン2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/659686",
-    "bgm_id": "659686",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

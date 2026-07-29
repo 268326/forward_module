@@ -205,19 +205,26 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "576780",
-    "type": "link",
+    "id": "328778",
+    "type": "tmdb",
     "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8t0yywBFcmrC9rt3NHuf09AmeC6.jpg",
     "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "创始之初，混沌侵袭，凡是在这无极世界当中诞生的生命，都会被悄无声息地种下一丝混沌之力，以便在成熟时收割。绝天通为了对抗混沌，收下了他的第一个徒弟徐阴，可是被他寄予厚望的徐阴却背叛了他。千万年后，徐阳掌管天岚宗，五大法座复活徐阴，沉寂了千万年的徐阴拥有了更加强大的混沌之力，阴阳大战，由此开始。",
+    "link": null,
     "bgm_id": "576780",
     "bgm_score": 6.2,
     "bgm_rating_total": 5,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "328778",
+    "tmdb_site_id": "tv/328778",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "613039",
@@ -235,6 +242,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "665747",
+    "type": "link",
+    "title": "「斩-ZAN-」试播片",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "3.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665747",
+    "bgm_id": "665747",
+    "bgm_score": 3.8,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "662006",
     "type": "link",
     "title": "暗芝居 第十七季",
@@ -250,19 +272,26 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "665747",
-    "type": "link",
-    "title": "「斩-ZAN-」试播片",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "anime",
-    "rating": "3.7",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665747",
-    "bgm_id": "665747",
-    "bgm_score": 3.7,
+    "id": "329026",
+    "type": "tmdb",
+    "title": "李熊猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
+    "releaseDate": "2026-07-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
+    "link": null,
+    "bgm_id": "642666",
+    "bgm_score": 4.7,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 3,
+    "tmdb_id": "329026",
+    "tmdb_site_id": "tv/329026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "296756",
@@ -300,6 +329,28 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
+    "bgm_id": "516426",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "329260",
@@ -382,35 +433,5 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "679578",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/679578",
-    "bgm_id": "679578",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "619052",
-    "type": "link",
-    "title": "あはれ！名作くん 完全新作",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/dd/82/619052_B0qAA.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/619052",
-    "bgm_id": "619052",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
   }
 ]

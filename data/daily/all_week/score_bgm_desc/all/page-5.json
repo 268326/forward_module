@@ -1,5 +1,49 @@
 [
   {
+    "id": "327228",
+    "type": "tmdb",
+    "title": "面包宝宝",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gBNB83kkOlpoxy1gxUdUE9lpuny.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "651872",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "327228",
+    "tmdb_site_id": "tv/327228",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "314561",
+    "type": "tmdb",
+    "title": "澈底对你成瘾",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pkH9EpzbiLVqC6tPV0tFaijBTFa.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "身为外貌协会且私生活混乱的大学生明仁，对顶着一张漂亮脸蛋且态度冷酷的冴怎么看都不顺眼。在得知联谊时看上的女生也喜欢冴之后，明仁不爽到了极点。就在这个时候，他在爱情旅馆一条街撞见冴和其他男人发生争执。面对与平时截然不同，浑身破绽的冴，明仁忍不住将他强硬地推倒，此时冴出乎意料之外的反应让他澈底失控——！ ？",
+    "link": null,
+    "bgm_id": "630164",
+    "bgm_score": 3.3,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "314561",
+    "tmdb_site_id": "tv/314561",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "329125",
     "type": "tmdb",
     "title": "万古至尊：李云霄传",
@@ -103,6 +147,36 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "668407",
+    "type": "link",
+    "title": "つかめ！理科ダマン",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/668407",
+    "bgm_id": "668407",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "659686",
+    "type": "link",
+    "title": "トミカとトム シーズン2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/659686",
+    "bgm_id": "659686",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -140,28 +214,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "329026",
-    "type": "tmdb",
-    "title": "李熊猫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
-    "releaseDate": "2026-07-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
-    "link": null,
-    "bgm_id": "642666",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "329026",
-    "tmdb_site_id": "tv/329026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
@@ -187,21 +239,6 @@
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/663982",
     "bgm_id": "663982",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "668407",
-    "type": "link",
-    "title": "つかめ！理科ダマン",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/668407",
-    "bgm_id": "668407",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4
@@ -274,28 +311,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "327228",
-    "type": "tmdb",
-    "title": "面包宝宝",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gBNB83kkOlpoxy1gxUdUE9lpuny.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "651872",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "327228",
-    "tmdb_site_id": "tv/327228",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "642680",
     "type": "link",
     "title": "天子传奇：洪武大帝",
@@ -306,21 +321,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/642680",
     "bgm_id": "642680",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "659686",
-    "type": "link",
-    "title": "トミカとトム シーズン2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/659686",
-    "bgm_id": "659686",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

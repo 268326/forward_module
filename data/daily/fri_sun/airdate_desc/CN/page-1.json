@@ -22,6 +22,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "328778",
+    "type": "tmdb",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8t0yywBFcmrC9rt3NHuf09AmeC6.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "创始之初，混沌侵袭，凡是在这无极世界当中诞生的生命，都会被悄无声息地种下一丝混沌之力，以便在成熟时收割。绝天通为了对抗混沌，收下了他的第一个徒弟徐阴，可是被他寄予厚望的徐阴却背叛了他。千万年后，徐阳掌管天岚宗，五大法座复活徐阴，沉寂了千万年的徐阴拥有了更加强大的混沌之力，阴阳大战，由此开始。",
+    "link": null,
+    "bgm_id": "576780",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "328778",
+    "tmdb_site_id": "tv/328778",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "326893",
     "type": "tmdb",
     "title": "喜羊羊与灰太狼之破界山海诀",

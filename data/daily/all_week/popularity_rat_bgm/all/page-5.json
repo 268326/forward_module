@@ -1,5 +1,57 @@
 [
   {
+    "id": "327228",
+    "type": "tmdb",
+    "title": "面包宝宝",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gBNB83kkOlpoxy1gxUdUE9lpuny.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "651872",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "327228",
+    "tmdb_site_id": "tv/327228",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "619052",
+    "type": "link",
+    "title": "あはれ！名作くん 完全新作",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/dd/82/619052_B0qAA.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/619052",
+    "bgm_id": "619052",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "328237",
     "type": "tmdb",
     "title": "普拉诺龙 硬核生物部",
@@ -59,28 +111,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "662682",
     "type": "link",
     "title": "顾长歌：我！天命大反派",
@@ -94,6 +124,36 @@
     "bgm_score": 1.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "668407",
+    "type": "link",
+    "title": "つかめ！理科ダマン",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/668407",
+    "bgm_id": "668407",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "659686",
+    "type": "link",
+    "title": "トミカとトム シーズン2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/659686",
+    "bgm_id": "659686",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   },
   {
     "id": "595884",
@@ -133,28 +193,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "329026",
-    "type": "tmdb",
-    "title": "李熊猫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
-    "releaseDate": "2026-07-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
-    "link": null,
-    "bgm_id": "642666",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "329026",
-    "tmdb_site_id": "tv/329026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
@@ -180,21 +218,6 @@
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/663982",
     "bgm_id": "663982",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "668407",
-    "type": "link",
-    "title": "つかめ！理科ダマン",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/668407",
-    "bgm_id": "668407",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4
@@ -267,28 +290,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "327228",
-    "type": "tmdb",
-    "title": "面包宝宝",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gBNB83kkOlpoxy1gxUdUE9lpuny.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "651872",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "327228",
-    "tmdb_site_id": "tv/327228",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "642680",
     "type": "link",
     "title": "天子传奇：洪武大帝",
@@ -299,21 +300,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/642680",
     "bgm_id": "642680",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "659686",
-    "type": "link",
-    "title": "トミカとトム シーズン2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/28/659686_001De.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/659686",
-    "bgm_id": "659686",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

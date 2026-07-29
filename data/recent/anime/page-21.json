@@ -208,15 +208,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "501958",
-    "type": "link",
+    "id": "1311031",
+    "type": "tmdb",
     "title": "剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再袭",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0b/501958_VZs4W.jpg",
     "releaseDate": "2025-07-18",
-    "mediaType": "anime",
+    "mediaType": "movie",
     "rating": "7.4",
     "description": "1话 /  2025年7月18日 / 外崎春雄 / 吾峠呼世晴（集英社ジャンプ コミックス刊） / 松島晃",
-    "link": "https://bgm.tv/subject/501958"
+    "link": null,
+    "tmdb_id": "1311031",
+    "tmdb_site_id": "movie/1311031",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "69285",

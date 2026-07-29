@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/565701",
     "bgm_id": "565701",
     "bgm_score": 5.9,
-    "bgm_rating_total": 141,
+    "bgm_rating_total": 142,
     "bgm_weekday_id": 3
   },
   {
@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "621835",
     "bgm_score": 4.5,
-    "bgm_rating_total": 124,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 3,
     "tmdb_id": "297826",
     "tmdb_site_id": "tv/297826",
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 4.9,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 100,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -350,6 +350,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "668407",
+    "type": "link",
+    "title": "つかめ！理科ダマン",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/668407",
+    "bgm_id": "668407",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -390,21 +405,6 @@
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/663982",
     "bgm_id": "663982",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "668407",
-    "type": "link",
-    "title": "つかめ！理科ダマン",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/668407",
-    "bgm_id": "668407",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4

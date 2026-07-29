@@ -1,5 +1,20 @@
 [
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "3.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "314561",
     "type": "tmdb",
     "title": "澈底对你成瘾",
@@ -103,6 +118,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "668407",
+    "type": "link",
+    "title": "つかめ！理科ダマン",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "anime",
+    "rating": "1.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/668407",
+    "bgm_id": "668407",
+    "bgm_score": 1.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "595884",
     "type": "link",
     "title": "蜘蛛侠与他的神奇朋友们 第五季",
@@ -140,28 +170,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "329026",
-    "type": "tmdb",
-    "title": "李熊猫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
-    "releaseDate": "2026-07-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
-    "link": null,
-    "bgm_id": "642666",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "329026",
-    "tmdb_site_id": "tv/329026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
@@ -187,21 +195,6 @@
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/663982",
     "bgm_id": "663982",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "668407",
-    "type": "link",
-    "title": "つかめ！理科ダマン",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
-    "releaseDate": "2026-07-16",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/668407",
-    "bgm_id": "668407",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4
