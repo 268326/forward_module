@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "295071",
     "type": "tmdb",
     "title": "再见菈菈",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "295071",
     "tmdb_site_id": "tv/295071",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -187,22 +187,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "在超市后门吸烟的二人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -214,6 +198,22 @@
     "link": null,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296286",
+    "type": "tmdb",
+    "title": "在超市后门吸烟的二人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
+    "link": null,
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -326,22 +326,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284029",
-    "type": "tmdb",
-    "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
-    "link": null,
-    "tmdb_id": "284029",
-    "tmdb_site_id": "tv/284029",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "309974",
     "type": "tmdb",
     "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
@@ -353,6 +337,22 @@
     "link": null,
     "tmdb_id": "309974",
     "tmdb_site_id": "tv/309974",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "284029",
+    "type": "tmdb",
+    "title": "猫与龙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
+    "link": null,
+    "tmdb_id": "284029",
+    "tmdb_site_id": "tv/284029",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

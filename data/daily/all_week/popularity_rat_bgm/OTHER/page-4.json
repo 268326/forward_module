@@ -15,6 +15,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "613039",
     "type": "link",
     "title": "茶啊二中 第6季",
@@ -28,21 +43,6 @@
     "bgm_score": 6.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "576780",
-    "type": "link",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
-    "bgm_id": "576780",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "662006",
@@ -93,7 +93,7 @@
     "id": "574794",
     "type": "link",
     "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Y4JJj.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
     "releaseDate": "2026-07-23",
     "mediaType": "anime",
     "rating": "3.5",

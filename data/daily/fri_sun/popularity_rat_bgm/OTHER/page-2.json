@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.4,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -126,7 +126,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.7,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 7
   },
   {
@@ -160,6 +160,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "613039",
     "type": "link",
     "title": "茶啊二中 第6季",
@@ -173,21 +188,6 @@
     "bgm_score": 6.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "576780",
-    "type": "link",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
-    "bgm_id": "576780",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "662006",

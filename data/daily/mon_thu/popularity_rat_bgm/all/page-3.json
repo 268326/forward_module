@@ -1,5 +1,20 @@
 [
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "3.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 3.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "329125",
     "type": "tmdb",
     "title": "万古至尊：李云霄传",
@@ -52,28 +67,6 @@
     "bgm_weekday_id": 2,
     "tmdb_id": "303287",
     "tmdb_site_id": "tv/303287",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "329260",
-    "type": "tmdb",
-    "title": "万古神帝",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jElv6FJjINzLoGeSDBsrCa4EOeL.jpg",
-    "releaseDate": "2026-07-21",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "《万古神帝》改编自阅文白金作家飞天鱼的同名小说。\n\n八百年前，张若尘身为明帝独子，天资绝世却遭青梅竹马的池瑶公主斩杀；八百年后，他重生在云武郡国的废柴九王子“张若尘”体内，这具身体体弱多病、毫无灵力，与母亲林妃在郡王府备受欺凌。觉醒记忆后，张若尘立誓向已是昆仑界主宰的池瑶女皇复仇，同时守护给予他母爱的林妃。他觉醒时空神武印记，凭前世经验和努力快速成长，岁末考核夺冠后，历经武市斗场厮杀、地府门截杀，进入武市学宫深造。",
-    "link": null,
-    "bgm_id": "662681",
-    "bgm_score": 1.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "329260",
-    "tmdb_site_id": "tv/329260",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"

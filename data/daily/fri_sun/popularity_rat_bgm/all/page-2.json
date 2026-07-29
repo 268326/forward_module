@@ -125,8 +125,8 @@
     "description": "自人造人战士诞生以来，他们在半个多世纪中，一直守护着人们免受种种威胁和平的敌人的侵袭。\n\n然而，战斗仍在继续——\n\n而如今，一支由9名人造人组成的集团“涅墨西斯”出现了，他们坚信——仅凭009他们，无法引导世界走向安宁。\n\n由能够操控重力的改造人格拉维顿所率领的这支集团，他们所追求的“理想”究竟是什么？\n\n我们，是否即将亲眼见证时代的更迭？",
     "link": null,
     "bgm_id": "571896",
-    "bgm_score": 4.1,
-    "bgm_rating_total": 44,
+    "bgm_score": 4.0,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -148,7 +148,7 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.4,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -168,7 +168,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.7,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 7
   },
   {
@@ -246,6 +246,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "576780",
+    "type": "link",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/576780",
+    "bgm_id": "576780",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "613039",
     "type": "link",
     "title": "茶啊二中 第6季",
@@ -259,21 +274,6 @@
     "bgm_score": 6.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "576780",
-    "type": "link",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/54/576780_uGF28.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/576780",
-    "bgm_id": "576780",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "662006",
@@ -312,7 +312,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "tv",
-    "rating": "5.2",
+    "rating": "5.1",
     "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
     "link": null,
     "bgm_id": "574041",

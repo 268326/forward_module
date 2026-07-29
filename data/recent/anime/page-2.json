@@ -130,22 +130,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "287075",
-    "type": "tmdb",
-    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_82Fm9.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "12话 /  2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
-    "link": null,
-    "tmdb_id": "287075",
-    "tmdb_site_id": "tv/287075",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "298103",
     "type": "tmdb",
     "title": "不虐待我的继母与继姐",
@@ -162,13 +146,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "287075",
+    "type": "tmdb",
+    "title": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_82Fm9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "12话 /  2026年7月4日 / 浜名孝行 / 都築真紀 / 新垣一成",
+    "link": null,
+    "tmdb_id": "287075",
+    "tmdb_site_id": "tv/287075",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "30984",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "7.9",
     "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": null,
     "tmdb_id": "30984",
@@ -237,40 +237,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283905",
-    "type": "tmdb",
-    "title": "上伊那牡丹，酒醉身姿似百合花般",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg",
-    "releaseDate": "2026-04-10",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
-    "link": null,
-    "tmdb_id": "283905",
-    "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "314554",
-    "type": "tmdb",
-    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
-    "link": null,
-    "tmdb_id": "314554",
-    "tmdb_site_id": "tv/314554",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "326119",
     "type": "tmdb",
     "title": "雷霆三人行",
@@ -299,6 +265,40 @@
     "tmdb_id": "139512",
     "tmdb_site_id": "tv/139512/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "314554",
+    "type": "tmdb",
+    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
+    "link": null,
+    "tmdb_id": "314554",
+    "tmdb_site_id": "tv/314554",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "283905",
+    "type": "tmdb",
+    "title": "上伊那牡丹，酒醉身姿似百合花般",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg",
+    "releaseDate": "2026-04-10",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "12话 /  2026年4月10日 / 佐久間貴史 / 塀（秋田書店「チャンピオンクロス」連載） / 吉成鋼",
+    "link": null,
+    "tmdb_id": "283905",
+    "tmdb_site_id": "tv/283905",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
