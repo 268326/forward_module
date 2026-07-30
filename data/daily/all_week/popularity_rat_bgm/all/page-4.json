@@ -1,5 +1,20 @@
 [
   {
+    "id": "572768",
+    "type": "link",
+    "title": "一念永恒 完结季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/572768",
+    "bgm_id": "572768",
+    "bgm_score": 7.4,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "314561",
     "type": "tmdb",
     "title": "澈底对你成瘾",
@@ -20,21 +35,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "572768",
-    "type": "link",
-    "title": "一念永恒 完结季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
-    "releaseDate": "2026-07-22",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/572768",
-    "bgm_id": "572768",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 3
   },
   {
     "id": "293629",
@@ -68,7 +68,7 @@
     "link": null,
     "bgm_id": "449354",
     "bgm_score": 6.0,
-    "bgm_rating_total": 8,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 4,
     "tmdb_id": "282580",
     "tmdb_site_id": "tv/282580",
@@ -136,6 +136,28 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "329026",
+    "type": "tmdb",
+    "title": "李熊猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
+    "releaseDate": "2026-07-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
+    "link": null,
+    "bgm_id": "642666",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "329026",
+    "tmdb_site_id": "tv/329026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326695",
@@ -242,21 +264,21 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "329026",
+    "id": "303287",
     "type": "tmdb",
-    "title": "李熊猫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
-    "releaseDate": "2026-07-29",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kx6156wFLPkUYiR9inxGzMhhGJX.jpg",
+    "releaseDate": "2026-07-28",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
     "link": null,
-    "bgm_id": "642666",
-    "bgm_score": 5.3,
+    "bgm_id": "516426",
+    "bgm_score": 5.5,
     "bgm_rating_total": 4,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "329026",
-    "tmdb_site_id": "tv/329026",
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -292,28 +314,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kx6156wFLPkUYiR9inxGzMhhGJX.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "296756",

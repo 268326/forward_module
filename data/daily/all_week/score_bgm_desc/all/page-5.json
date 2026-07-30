@@ -132,19 +132,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "662682",
-    "type": "link",
+    "id": "330250",
+    "type": "tmdb",
     "title": "顾长歌：我！天命大反派",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/07/07/662682_ooNRN.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dMe2EH1GhPCwgovyAKO2G6oDYbr.jpg",
     "releaseDate": "2026-07-15",
-    "mediaType": "anime",
-    "rating": "1.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/662682",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　改编自飞卢小说网同名小说。\n\n　　顾长歌穿越到玄幻世界，发现自己成了注定被“天命之子”击败的“天命大反派”顾长歌，为求自保并逆天改命，他被迫利用系统和对“爽文套路”的先知，反向算计、掠夺并打压各位“天命之子”，从而获得奖励，一步步走上巅峰。",
+    "link": null,
     "bgm_id": "662682",
     "bgm_score": 1.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 3,
+    "tmdb_id": "330250",
+    "tmdb_site_id": "tv/330250",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "668407",
@@ -274,19 +281,26 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "662680",
-    "type": "link",
+    "id": "330150",
+    "type": "tmdb",
     "title": "死灵法师！我即是天灾",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/b3/da/662680_6P2P4.jpg",
     "releaseDate": "2026-07-24",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/662680",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "改编自飞卢小说网同名小说。 游戏降临现实，世界规则颠覆，人类进入全民转职时代。 机遇之下暗流汹涌，深渊的魔族和龙族同样觊觎新世界，与人类展开旷日持久的战争。 穿越者林默语转职成为该世界唯一隐藏职业——死灵法师，凭借其独特的能力体系和神级天赋，一路不断升级变强，一人成军，为神夏帝国抵御深渊异族的入侵，护国安危，成为打破3方鼎立的破局者，登顶成为世界之王。",
+    "link": null,
     "bgm_id": "662680",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
+    "bgm_weekday_id": 5,
+    "tmdb_id": "330150",
+    "tmdb_site_id": "tv/330150",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "208208",
