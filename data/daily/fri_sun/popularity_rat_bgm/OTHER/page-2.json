@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/28/ae/529723_9qSo4.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "6.1",
+    "rating": "6.0",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "529723",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 77,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -95,6 +95,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 44,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "315054",
     "type": "tmdb",
     "title": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
@@ -115,21 +130,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 42,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "668108",
     "type": "link",
     "title": "《灵能百分百》动画10周年纪念特别映像",
@@ -141,7 +141,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7
   },
   {

@@ -1,25 +1,18 @@
 [
   {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 4.5,
+    "id": "491582",
+    "type": "link",
+    "title": "天子传奇：姬发篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/491582",
+    "bgm_id": "491582",
+    "bgm_score": 6.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 1
   },
   {
     "id": "329260",
@@ -176,6 +169,21 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "466759",
+    "type": "link",
+    "title": "太古神尊",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/dd/466759_0rFPR.jpg",
+    "releaseDate": "2026-07-30",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/466759",
+    "bgm_id": "466759",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
   },
   {
     "id": "663982",

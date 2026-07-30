@@ -41,12 +41,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/28/ae/529723_9qSo4.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "6.1",
+    "rating": "6.0",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "529723",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 77,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -126,7 +126,7 @@
     "link": null,
     "bgm_id": "571896",
     "bgm_score": 4.0,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 46,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -135,6 +135,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 44,
+    "bgm_weekday_id": 7
   },
   {
     "id": "315054",
@@ -157,21 +172,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 42,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "668108",
     "type": "link",
     "title": "《灵能百分百》动画10周年纪念特别映像",
@@ -183,7 +183,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7
   },
   {
@@ -319,7 +319,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "tv",
-    "rating": "5.1",
+    "rating": "5.4",
     "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
     "link": null,
     "bgm_id": "574041",

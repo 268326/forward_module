@@ -255,6 +255,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "466759",
+    "type": "link",
+    "title": "太古神尊",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/dd/466759_0rFPR.jpg",
+    "releaseDate": "2026-07-30",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/466759",
+    "bgm_id": "466759",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "663982",
     "type": "link",
     "title": "精灵梦叶罗丽 第十一季 下",
