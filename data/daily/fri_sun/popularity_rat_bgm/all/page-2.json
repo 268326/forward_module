@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.8,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 104,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -143,12 +143,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.7",
+    "rating": "4.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 44,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 7
   },
   {
@@ -183,7 +183,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 40,
     "bgm_weekday_id": 7
   },
   {
@@ -283,6 +283,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "662006",
+    "type": "link",
+    "title": "暗芝居 第十七季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "3.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/662006",
+    "bgm_id": "662006",
+    "bgm_score": 3.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "665747",
     "type": "link",
     "title": "「斩-ZAN-」试播片",
@@ -296,21 +311,6 @@
     "bgm_score": 3.8,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "662006",
-    "type": "link",
-    "title": "暗芝居 第十七季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "4.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/662006",
-    "bgm_id": "662006",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
   },
   {
     "id": "296756",
