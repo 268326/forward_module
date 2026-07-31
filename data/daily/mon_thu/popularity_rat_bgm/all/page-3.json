@@ -111,6 +111,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "668113",
+    "type": "link",
+    "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6e/76/668113_xH76x.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/668113",
+    "bgm_id": "668113",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "668407",
     "type": "link",
     "title": "つかめ！理科ダマン",
@@ -161,21 +176,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "668113",
-    "type": "link",
-    "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6e/76/668113_xH76x.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/668113",
-    "bgm_id": "668113",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   },
   {
     "id": "466759",

@@ -89,8 +89,8 @@
     "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
     "link": null,
     "bgm_id": "642666",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 8,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 3,
     "tmdb_id": "329026",
     "tmdb_site_id": "tv/329026",
@@ -227,6 +227,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "665747",
+    "type": "link",
+    "title": "「斩-ZAN-」试播片",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "3.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665747",
+    "bgm_id": "665747",
+    "bgm_score": 3.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "303287",
     "type": "tmdb",
     "title": "一斩苍穹",
@@ -301,19 +316,19 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "665747",
+    "id": "668586",
     "type": "link",
-    "title": "「斩-ZAN-」试播片",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "anime",
-    "rating": "3.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665747",
-    "bgm_id": "665747",
-    "bgm_score": 3.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
+    "rating": "5.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/668586",
+    "bgm_id": "668586",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
   },
   {
     "id": "296756",
@@ -388,21 +403,6 @@
     "bgm_score": 3.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "668586",
-    "type": "link",
-    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668586",
-    "bgm_id": "668586",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "589368",

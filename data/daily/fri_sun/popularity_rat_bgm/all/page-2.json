@@ -55,6 +55,26 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "302824",
+    "type": "tmdb",
+    "title": "Let's Go 怪奇组",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "595106",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 75,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "302824",
+    "tmdb_site_id": "tv/302824",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "307585",
     "type": "tmdb",
     "title": "我家的弟弟们真是让您费心了",
@@ -70,26 +90,6 @@
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "302824",
-    "type": "tmdb",
-    "title": "Let's Go 怪奇组",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "595106",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 73,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "302824",
-    "tmdb_site_id": "tv/302824",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -183,7 +183,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 7
   },
   {
@@ -246,6 +246,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "665747",
+    "type": "link",
+    "title": "「斩-ZAN-」试播片",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "anime",
+    "rating": "3.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665747",
+    "bgm_id": "665747",
+    "bgm_score": 3.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "328778",
     "type": "tmdb",
     "title": "炼气十万年特别篇 阳极天下",
@@ -298,19 +313,19 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "665747",
+    "id": "668586",
     "type": "link",
-    "title": "「斩-ZAN-」试播片",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a6/0d/665747_EYtyY.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "anime",
-    "rating": "3.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665747",
-    "bgm_id": "665747",
-    "bgm_score": 3.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
+    "rating": "5.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/668586",
+    "bgm_id": "668586",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
   },
   {
     "id": "296756",
@@ -333,21 +348,6 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "668586",
-    "type": "link",
-    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668586",
-    "bgm_id": "668586",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "589368",
