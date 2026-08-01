@@ -15,6 +15,28 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "329903",
+    "type": "tmdb",
+    "title": "Mickey Mouse Clubhouse+: Mickey's Country Farm Songs",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gnRRHjqLB11nHXGbwIfpAKR4F6X.jpg",
+    "releaseDate": "2026-07-30",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "688623",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "329903",
+    "tmdb_site_id": "tv/329903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "329026",
     "type": "tmdb",
     "title": "李熊猫",
@@ -122,7 +144,7 @@
     "link": null,
     "bgm_id": "530725",
     "bgm_score": 7.9,
-    "bgm_rating_total": 180,
+    "bgm_rating_total": 184,
     "bgm_weekday_id": 6,
     "tmdb_id": "30984",
     "tmdb_site_id": "tv/30984",
@@ -142,7 +164,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.7,
-    "bgm_rating_total": 79,
+    "bgm_rating_total": 81,
     "bgm_weekday_id": 6
   },
   {
@@ -179,7 +201,7 @@
     "id": "330150",
     "type": "tmdb",
     "title": "死灵法师！我即是天灾",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b3/da/662680_6P2P4.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aQrnpoBqwNYdLgZ42k3acwKiah9.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "tv",
     "rating": "0.0",
@@ -418,25 +440,5 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "222623",
-    "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "517106",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 242,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

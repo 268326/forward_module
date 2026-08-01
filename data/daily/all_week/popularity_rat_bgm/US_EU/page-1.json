@@ -22,6 +22,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "329903",
+    "type": "tmdb",
+    "title": "Mickey Mouse Clubhouse+: Mickey's Country Farm Songs",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gnRRHjqLB11nHXGbwIfpAKR4F6X.jpg",
+    "releaseDate": "2026-07-30",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "688623",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "329903",
+    "tmdb_site_id": "tv/329903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "208208",
     "type": "tmdb",
     "title": "Breaking Bear",
