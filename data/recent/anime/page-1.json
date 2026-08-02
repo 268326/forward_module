@@ -48,22 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "300112",
-    "type": "tmdb",
-    "title": "BanG Dream! YUME∞MITA",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "13话 /  2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香、石神直紀",
-    "link": null,
-    "tmdb_id": "300112",
-    "tmdb_site_id": "tv/300112",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "153217",
     "type": "tmdb",
     "title": "二十世纪电气目录",
@@ -80,18 +64,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "79166",
+    "id": "300112",
     "type": "tmdb",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "BanG Dream! YUME∞MITA",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
+    "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "7.1",
-    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "rating": "6.6",
+    "description": "13话 /  2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香、石神直紀",
     "link": null,
-    "tmdb_id": "79166",
-    "tmdb_site_id": "tv/79166/season/3",
-    "tmdb_season_number": 3,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -112,18 +96,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
+    "id": "79166",
     "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "rating": "7.1",
+    "description": "2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
     "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
+    "tmdb_id": "79166",
+    "tmdb_site_id": "tv/79166/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -160,21 +144,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638497",
-    "type": "link",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "255358",
     "type": "tmdb",
     "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_7Arhm.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
     "rating": "7.6",
@@ -185,6 +174,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "638497",
+    "type": "link",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": "https://bgm.tv/subject/638497"
   },
   {
     "id": "286345",
@@ -203,6 +203,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
     "id": "296286",
     "type": "tmdb",
     "title": "在超市后门吸烟的二人",
@@ -217,17 +228,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "598058",
-    "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
   },
   {
     "id": "325052",
@@ -262,22 +262,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "69346",
-    "type": "tmdb",
-    "title": "幼女战记 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
-    "link": null,
-    "tmdb_id": "69346",
-    "tmdb_site_id": "tv/69346/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "117120",
     "type": "tmdb",
     "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
@@ -290,6 +274,22 @@
     "tmdb_id": "117120",
     "tmdb_site_id": "tv/117120",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "69346",
+    "type": "tmdb",
+    "title": "幼女战记 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+    "link": null,
+    "tmdb_id": "69346",
+    "tmdb_site_id": "tv/69346/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
