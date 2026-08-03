@@ -263,7 +263,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e9/a8/631018_i8egE.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "5.4",
+    "rating": "5.5",
     "description": "12话 /  2026年7月4日 / まついひとゆき / 水埜なつ・三沢ケイ（「COMICポラリス」連載／フレックスコミックス刊） / 八尋裕子",
     "link": null,
     "tmdb_id": "315054",
@@ -337,7 +337,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "86031",
+    "id": "86031/season/4/episode/25",
     "type": "tmdb",
     "title": "石纪元 科学与未来 第3部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg",
@@ -346,8 +346,8 @@
     "rating": "7.2",
     "description": "13话 /  2026年4月2日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": null,
-    "tmdb_id": "86031",
-    "tmdb_site_id": "tv/86031",
+    "tmdb_id": "86031/season/4/episode/25",
+    "tmdb_site_id": "tv/86031/season/4/episode/25",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

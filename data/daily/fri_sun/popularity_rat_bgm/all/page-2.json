@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.8,
-    "bgm_rating_total": 106,
+    "bgm_rating_total": 107,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 6.0,
-    "bgm_rating_total": 83,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -148,7 +148,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.6,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 47,
     "bgm_weekday_id": 7
   },
   {
@@ -158,12 +158,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e9/a8/631018_i8egE.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "5.4",
+    "rating": "5.5",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "631018",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 44,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -183,7 +183,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 44,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 7
   },
   {
@@ -231,6 +231,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "664856",
     "type": "link",
     "title": "香蕉喵10周年纪念特别篇",
@@ -259,28 +281,6 @@
     "bgm_score": 3.8,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "328778",
@@ -350,6 +350,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "8.7",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 8.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -400,21 +415,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "679578",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/679578",
-    "bgm_id": "679578",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "619052",

@@ -88,7 +88,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "5.7",
+    "rating": "5.6",
     "description": "13话 /  2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
     "link": null,
     "tmdb_id": "312020",
@@ -98,7 +98,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "30984",
+    "id": "30984/season/2/episode/41",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
@@ -107,8 +107,8 @@
     "rating": "7.9",
     "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": null,
-    "tmdb_id": "30984",
-    "tmdb_site_id": "tv/30984",
+    "tmdb_id": "30984/season/2/episode/41",
+    "tmdb_site_id": "tv/30984/season/2/episode/41",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

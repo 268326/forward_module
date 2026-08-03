@@ -212,7 +212,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "86031",
+    "id": "86031/season/3/episode/12",
     "type": "tmdb",
     "title": "石纪元 新世界 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/03/424372_h6JZ1.jpg",
@@ -221,9 +221,9 @@
     "rating": "7.4",
     "description": "11话 /  2023年10月12日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": null,
-    "tmdb_id": "86031",
-    "tmdb_site_id": "tv/86031/season/3",
-    "tmdb_season_number": 3,
+    "tmdb_id": "86031/season/3/episode/12",
+    "tmdb_site_id": "tv/86031/season/3/episode/12",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

@@ -75,6 +75,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "8.7",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 8.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "491582",
     "type": "link",
     "title": "天子传奇：姬发篇",
@@ -131,21 +146,6 @@
     "link": "http://bgm.tv/subject/641326",
     "bgm_id": "641326",
     "bgm_score": 5.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "679578",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/679578",
-    "bgm_id": "679578",
-    "bgm_score": 10.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 6
   },
@@ -208,6 +208,21 @@
     "bgm_score": 1.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "642680",
+    "type": "link",
+    "title": "天子传奇：洪武大帝",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/22/ca/642680_Qj5hu.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/642680",
+    "bgm_id": "642680",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   },
   {
     "id": "659686",
@@ -298,20 +313,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "642680",
-    "type": "link",
-    "title": "天子传奇：洪武大帝",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/22/ca/642680_Qj5hu.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/642680",
-    "bgm_id": "642680",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   }
 ]

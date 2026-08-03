@@ -173,7 +173,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "86031",
+    "id": "86031/season/4/episode/13",
     "type": "tmdb",
     "title": "石纪元 科学与未来 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/c4/508003_6A6w4.jpg",
@@ -182,9 +182,9 @@
     "rating": "7.5",
     "description": "12话 /  2025年7月10日 / 松下周平 / 稲垣理一郎・Boichi（集英社ジャンプ コミックス刊） / 岩佐裕子",
     "link": null,
-    "tmdb_id": "86031",
-    "tmdb_site_id": "tv/86031/season/4",
-    "tmdb_season_number": 4,
+    "tmdb_id": "86031/season/4/episode/13",
+    "tmdb_site_id": "tv/86031/season/4/episode/13",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

@@ -50,7 +50,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "30984",
+    "id": "30984/season/2/episode/27",
     "type": "tmdb",
     "title": "死神 千年血战篇-相克谭-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/1e/457326_0ElE0.jpg",
@@ -59,14 +59,14 @@
     "rating": "7.4",
     "description": "14话 /  2024年10月5日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史；协力：長谷川亨雄、小松原聖、高柳久美子、川﨑玲奈、堀越久美子、福井麻記",
     "link": null,
-    "tmdb_id": "30984",
-    "tmdb_site_id": "tv/30984/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "30984/season/2/episode/27",
+    "tmdb_site_id": "tv/30984/season/2/episode/27",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "30984",
+    "id": "30984/season/2/episode/14",
     "type": "tmdb",
     "title": "死神 千年血战篇-诀别谭-",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/31/412916_20nTM.jpg",
@@ -75,9 +75,9 @@
     "rating": "7.5",
     "description": "13话 /  2023年7月8日 / 田口智久 / 「BLEACH」久保帯人（集英社） / 工藤昌史",
     "link": null,
-    "tmdb_id": "30984",
-    "tmdb_site_id": "tv/30984/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "30984/season/2/episode/14",
+    "tmdb_site_id": "tv/30984/season/2/episode/14",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

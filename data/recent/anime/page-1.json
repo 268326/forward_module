@@ -176,15 +176,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "638497",
-    "type": "link",
+    "id": "278043",
+    "type": "tmdb",
     "title": "相反的你和我 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.5",
     "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": "https://bgm.tv/subject/638497"
+    "link": null,
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "286345",
@@ -268,7 +273,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",

@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.6,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 47,
     "bgm_weekday_id": 7
   },
   {
@@ -37,19 +37,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "638497",
-    "type": "link",
+    "id": "278043",
+    "type": "tmdb",
     "title": "相反的你和我 第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.5",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/638497",
+    "link": null,
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1031,
-    "bgm_weekday_id": 7
+    "bgm_rating_total": 1037,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "642680",
@@ -58,12 +63,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/22/ca/642680_Qj5hu.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "10.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/642680",
     "bgm_id": "642680",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 7
   },
   {
@@ -108,7 +113,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 44,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 7
   }
 ]
