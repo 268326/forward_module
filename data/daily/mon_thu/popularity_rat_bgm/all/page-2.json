@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "584641",
     "bgm_score": 6.2,
-    "bgm_rating_total": 151,
+    "bgm_rating_total": 150,
     "bgm_weekday_id": 2,
     "tmdb_id": "302519",
     "tmdb_site_id": "tv/302519",
@@ -131,7 +131,7 @@
     "link": null,
     "bgm_id": "636067",
     "bgm_score": 5.4,
-    "bgm_rating_total": 76,
+    "bgm_rating_total": 77,
     "bgm_weekday_id": 1,
     "tmdb_id": "325158",
     "tmdb_site_id": "tv/325158",
@@ -180,6 +180,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "326844",
+    "type": "tmdb",
+    "title": "百日成王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "小饭店老板明被命运逼入绝境，为救挚爱同时为亲友复仇，他吞下真烈王灵魂与之共生，踏上了反抗假烈王之路。在百日之内，他与真烈王一起一路对抗财阀与贪官，凭借超强记忆习得失传魔法，逐步积累力量、伙伴与民心。誓要率领不断壮大的队伍推翻暴政，帮助真烈王夺回王位，完成复仇、救回爱人，还天下安宁。",
+    "link": null,
+    "bgm_id": "607929",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 32,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "326844",
+    "tmdb_site_id": "tv/326844",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "254492",
     "type": "tmdb",
     "title": "花样少年少女 第二季",
@@ -198,28 +220,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "326844",
-    "type": "tmdb",
-    "title": "百日成王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "小饭店老板明被命运逼入绝境，为救挚爱同时为亲友复仇，他吞下真烈王灵魂与之共生，踏上了反抗假烈王之路。在百日之内，他与真烈王一起一路对抗财阀与贪官，凭借超强记忆习得失传魔法，逐步积累力量、伙伴与民心。誓要率领不断壮大的队伍推翻暴政，帮助真烈王夺回王位，完成复仇、救回爱人，还天下安宁。",
-    "link": null,
-    "bgm_id": "607929",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 31,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "326844",
-    "tmdb_site_id": "tv/326844",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "110837",
@@ -285,12 +285,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
     "releaseDate": "2026-07-22",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/572768",
     "bgm_id": "572768",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 11,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 3
   },
   {
