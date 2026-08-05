@@ -1,5 +1,27 @@
 [
   {
+    "id": "329026",
+    "type": "tmdb",
+    "title": "李熊猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
+    "releaseDate": "2026-07-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
+    "link": null,
+    "bgm_id": "642666",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "329026",
+    "tmdb_site_id": "tv/329026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "572768",
     "type": "link",
     "title": "一念永恒 完结季",
@@ -33,28 +55,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "329026",
-    "type": "tmdb",
-    "title": "李熊猫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
-    "releaseDate": "2026-07-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
-    "link": null,
-    "bgm_id": "642666",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 12,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "329026",
-    "tmdb_site_id": "tv/329026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -264,6 +264,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "303287",
     "type": "tmdb",
     "title": "一斩苍穹",
@@ -306,21 +321,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "613039",
-    "type": "link",
-    "title": "茶啊二中 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/613039",
-    "bgm_id": "613039",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
   },
   {
     "id": "662006",
@@ -383,6 +383,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "679578",
     "type": "link",
     "title": "喜羊羊与灰太狼之破界山海诀番外篇",
@@ -411,27 +426,5 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "329260",
-    "type": "tmdb",
-    "title": "万古神帝",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jElv6FJjINzLoGeSDBsrCa4EOeL.jpg",
-    "releaseDate": "2026-07-21",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "《万古神帝》改编自阅文白金作家飞天鱼的同名小说。\n\n八百年前，张若尘身为明帝独子，天资绝世却遭青梅竹马的池瑶公主斩杀；八百年后，他重生在云武郡国的废柴九王子“张若尘”体内，这具身体体弱多病、毫无灵力，与母亲林妃在郡王府备受欺凌。觉醒记忆后，张若尘立誓向已是昆仑界主宰的池瑶女皇复仇，同时守护给予他母爱的林妃。他觉醒时空神武印记，凭前世经验和努力快速成长，岁末考核夺冠后，历经武市斗场厮杀、地府门截杀，进入武市学宫深造。",
-    "link": null,
-    "bgm_id": "662681",
-    "bgm_score": 1.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "329260",
-    "tmdb_site_id": "tv/329260",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

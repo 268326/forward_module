@@ -36,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 7
   },
   {
@@ -105,6 +105,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "679578",
     "type": "link",
     "title": "喜羊羊与灰太狼之破界山海诀番外篇",
@@ -148,21 +163,6 @@
     "bgm_score": 3.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "619052",

@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "579246",
     "bgm_score": 4.9,
-    "bgm_rating_total": 119,
+    "bgm_rating_total": 120,
     "bgm_weekday_id": 1,
     "tmdb_id": "298831",
     "tmdb_site_id": "tv/298831",
@@ -131,7 +131,7 @@
     "link": null,
     "bgm_id": "636067",
     "bgm_score": 5.4,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 1,
     "tmdb_id": "325158",
     "tmdb_site_id": "tv/325158",
@@ -151,7 +151,7 @@
     "link": null,
     "bgm_id": "627648",
     "bgm_score": 4.4,
-    "bgm_rating_total": 70,
+    "bgm_rating_total": 71,
     "bgm_weekday_id": 2,
     "tmdb_id": "314054",
     "tmdb_site_id": "tv/314054",
@@ -171,7 +171,7 @@
     "link": null,
     "bgm_id": "569671",
     "bgm_score": 6.1,
-    "bgm_rating_total": 43,
+    "bgm_rating_total": 44,
     "bgm_weekday_id": 1,
     "tmdb_id": "295840",
     "tmdb_site_id": "tv/295840",
@@ -191,7 +191,7 @@
     "link": null,
     "bgm_id": "607929",
     "bgm_score": 6.4,
-    "bgm_rating_total": 33,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 2,
     "tmdb_id": "326844",
     "tmdb_site_id": "tv/326844",
@@ -279,6 +279,28 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "329026",
+    "type": "tmdb",
+    "title": "李熊猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
+    "releaseDate": "2026-07-29",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
+    "link": null,
+    "bgm_id": "642666",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "329026",
+    "tmdb_site_id": "tv/329026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "572768",
     "type": "link",
     "title": "一念永恒 完结季",
@@ -312,28 +334,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "329026",
-    "type": "tmdb",
-    "title": "李熊猫",
-    "posterPath": "https://image.tmdb.org/t/p/w500/u3LF3q5luzFGiuEwOjGkvnejMpV.jpg",
-    "releaseDate": "2026-07-29",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
-    "link": null,
-    "bgm_id": "642666",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 12,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "329026",
-    "tmdb_site_id": "tv/329026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },

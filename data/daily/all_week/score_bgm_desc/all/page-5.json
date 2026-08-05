@@ -1,5 +1,25 @@
 [
   {
+    "id": "324335",
+    "type": "tmdb",
+    "title": "岩元前辈的推荐",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a7/0a/621843_5tN5J.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "3.7",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "621843",
+    "bgm_score": 3.7,
+    "bgm_rating_total": 50,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "324335",
+    "tmdb_site_id": "tv/324335",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "314561",
     "type": "tmdb",
     "title": "澈底对你成瘾",
@@ -20,26 +40,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "324335",
-    "type": "tmdb",
-    "title": "岩元前辈的推荐",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a7/0a/621843_5tN5J.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "3.6",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "621843",
-    "bgm_score": 3.6,
-    "bgm_rating_total": 48,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "324335",
-    "tmdb_site_id": "tv/324335",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "327228",
