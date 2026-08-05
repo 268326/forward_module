@@ -62,7 +62,7 @@
     "id": "293629/season/1/episode/13",
     "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_B5f6f.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_I4nz4.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
     "rating": "5.7",
@@ -160,6 +160,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "326695",
     "type": "tmdb",
     "title": "择日飞升",
@@ -178,28 +200,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -338,6 +338,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "668586",
     "type": "link",
     "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
@@ -351,6 +366,21 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
   },
   {
     "id": "679578",
@@ -403,35 +433,5 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "668113",
-    "type": "link",
-    "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6e/76/668113_xH76x.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "3.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/668113",
-    "bgm_id": "668113",
-    "bgm_score": 3.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "574794",
-    "type": "link",
-    "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
-    "releaseDate": "2026-07-23",
-    "mediaType": "anime",
-    "rating": "3.5",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
-    "bgm_score": 3.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 4
   }
 ]
