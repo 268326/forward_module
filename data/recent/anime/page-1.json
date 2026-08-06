@@ -80,22 +80,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
-    "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "285574",
     "type": "tmdb",
     "title": "与你相恋到生命尽头",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -224,17 +224,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "598058",
-    "type": "link",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": "https://bgm.tv/subject/598058"
-  },
-  {
     "id": "117120",
     "type": "tmdb",
     "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
@@ -267,6 +256,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "598058",
+    "type": "link",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": "https://bgm.tv/subject/598058"
+  },
+  {
     "id": "69346",
     "type": "tmdb",
     "title": "幼女战记 第二季",
@@ -286,7 +286,7 @@
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_8eC7E.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
     "rating": "7.0",
@@ -331,22 +331,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.6",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "258348",
     "type": "tmdb",
     "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -359,6 +343,22 @@
     "tmdb_id": "258348",
     "tmdb_site_id": "tv/258348/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "308874",
+    "type": "tmdb",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.6",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": null,
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

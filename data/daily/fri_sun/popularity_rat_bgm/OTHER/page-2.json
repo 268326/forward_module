@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.7,
-    "bgm_rating_total": 82,
+    "bgm_rating_total": 83,
     "bgm_weekday_id": 6
   },
   {
@@ -95,6 +95,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "668108",
+    "type": "link",
+    "title": "《灵能百分百》动画10周年纪念特别映像",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/668108",
+    "bgm_id": "668108",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 50,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "633354",
     "type": "link",
     "title": "同一个研讨会的染谷同学是AV女优的事",
@@ -107,21 +122,6 @@
     "bgm_id": "633354",
     "bgm_score": 4.7,
     "bgm_rating_total": 49,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "668108",
-    "type": "link",
-    "title": "《灵能百分百》动画10周年纪念特别映像",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/668108",
-    "bgm_id": "668108",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 48,
     "bgm_weekday_id": 7
   },
   {

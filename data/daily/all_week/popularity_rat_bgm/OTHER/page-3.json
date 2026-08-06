@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 4.9,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 110,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.8,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 110,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -131,7 +131,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.7,
-    "bgm_rating_total": 82,
+    "bgm_rating_total": 83,
     "bgm_weekday_id": 6
   },
   {
@@ -235,6 +235,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "668108",
+    "type": "link",
+    "title": "《灵能百分百》动画10周年纪念特别映像",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/668108",
+    "bgm_id": "668108",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 50,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "633354",
     "type": "link",
     "title": "同一个研讨会的染谷同学是AV女优的事",
@@ -247,21 +262,6 @@
     "bgm_id": "633354",
     "bgm_score": 4.7,
     "bgm_rating_total": 49,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "668108",
-    "type": "link",
-    "title": "《灵能百分百》动画10周年纪念特别映像",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/668108",
-    "bgm_id": "668108",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 48,
     "bgm_weekday_id": 7
   },
   {
@@ -378,7 +378,7 @@
     "id": "293629/season/1/episode/13",
     "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_I4nz4.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_hn4N5.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
     "rating": "5.7",
@@ -416,11 +416,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "6.3",
+    "rating": "6.5",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/481295",
     "bgm_id": "481295",
-    "bgm_score": 6.3,
+    "bgm_score": 6.5,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 3
   },
