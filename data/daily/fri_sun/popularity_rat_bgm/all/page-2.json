@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 5.6,
-    "bgm_rating_total": 76,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "571896",
     "bgm_score": 3.9,
-    "bgm_rating_total": 53,
+    "bgm_rating_total": 54,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -115,6 +115,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "668108",
+    "type": "link",
+    "title": "《灵能百分百》动画10周年纪念特别映像",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "6.1",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/668108",
+    "bgm_id": "668108",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 52,
+    "bgm_weekday_id": 7
   },
   {
     "id": "324335",
@@ -135,21 +150,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "668108",
-    "type": "link",
-    "title": "《灵能百分百》动画10周年纪念特别映像",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/668108",
-    "bgm_id": "668108",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 50,
-    "bgm_weekday_id": 7
   },
   {
     "id": "633354",
@@ -209,6 +209,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "326695",
+    "type": "tmdb",
+    "title": "择日飞升",
+    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
+    "link": null,
+    "bgm_id": "491578",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "326695",
+    "tmdb_site_id": "tv/326695",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "296756",
     "type": "tmdb",
     "title": "柯蒂斯总统",
@@ -227,28 +249,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "326695",
-    "type": "tmdb",
-    "title": "择日飞升",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
-    "link": null,
-    "bgm_id": "491578",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "326695",
-    "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
     ],
     "tmdb_source": "tmdb_api"
   },
