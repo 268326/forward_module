@@ -207,8 +207,8 @@
     "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
     "link": null,
     "bgm_id": "516426",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 6,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 2,
     "tmdb_id": "303287",
     "tmdb_site_id": "tv/303287",
@@ -217,6 +217,21 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "664856",
+    "type": "link",
+    "title": "香蕉喵10周年纪念特别篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
+    "releaseDate": "2026-07-10",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/664856",
+    "bgm_id": "664856",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 5
   },
   {
     "id": "481295",
@@ -247,21 +262,6 @@
     "bgm_score": 4.7,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "664856",
-    "type": "link",
-    "title": "香蕉喵10周年纪念特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ab/40/664856_1N98d.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/664856",
-    "bgm_id": "664856",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 5
   },
   {
     "id": "665747",
