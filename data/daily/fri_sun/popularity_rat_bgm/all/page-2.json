@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.8,
-    "bgm_rating_total": 110,
+    "bgm_rating_total": 111,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 6.0,
-    "bgm_rating_total": 91,
+    "bgm_rating_total": 92,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -66,7 +66,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.9,
-    "bgm_rating_total": 79,
+    "bgm_rating_total": 81,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 5.6,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "571896",
     "bgm_score": 3.9,
-    "bgm_rating_total": 54,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 7,
     "tmdb_id": "317256",
     "tmdb_site_id": "tv/317256",
@@ -128,7 +128,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 7
   },
   {
@@ -163,7 +163,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.7,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 50,
     "bgm_weekday_id": 7
   },
   {
@@ -185,6 +185,28 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326893",
@@ -227,28 +249,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },

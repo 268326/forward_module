@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
     "releaseDate": "2026-07-22",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.0",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/572768",
     "bgm_id": "572768",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 13,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 3
   },
   {
@@ -94,6 +94,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "637339",
     "type": "link",
     "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
@@ -107,6 +129,28 @@
     "bgm_score": 6.1,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
+    "bgm_id": "516426",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "323839",
@@ -168,50 +212,6 @@
     "bgm_weekday_id": 6,
     "tmdb_id": "326695",
     "tmdb_site_id": "tv/326695",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "5.3",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"

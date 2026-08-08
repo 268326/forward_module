@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 6.0,
-    "bgm_rating_total": 91,
+    "bgm_rating_total": 92,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -46,7 +46,7 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 5.9,
-    "bgm_rating_total": 79,
+    "bgm_rating_total": 81,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
@@ -66,7 +66,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 5.6,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -86,7 +86,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 7
   },
   {
@@ -121,7 +121,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.7,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 50,
     "bgm_weekday_id": 7
   },
   {
