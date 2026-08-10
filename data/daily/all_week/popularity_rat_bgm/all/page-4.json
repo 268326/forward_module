@@ -1,20 +1,5 @@
 [
   {
-    "id": "500458",
-    "type": "link",
-    "title": "胶囊计划 奇迹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/500458",
-    "bgm_id": "500458",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "572768",
     "type": "link",
     "title": "一念永恒 完结季",
@@ -26,6 +11,21 @@
     "link": "http://bgm.tv/subject/572768",
     "bgm_id": "572768",
     "bgm_score": 7.0,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "500458",
+    "type": "link",
+    "title": "胶囊计划 奇迹",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/500458",
+    "bgm_id": "500458",
+    "bgm_score": 6.4,
     "bgm_rating_total": 14,
     "bgm_weekday_id": 3
   },
@@ -100,7 +100,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "tv",
-    "rating": "5.3",
+    "rating": "5.4",
     "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机——从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
     "link": null,
     "bgm_id": "574041",
