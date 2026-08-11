@@ -20,6 +20,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "658254",
     "type": "link",
     "title": "ようじょしぇんき2",
@@ -35,6 +50,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 52,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "300267",
     "type": "tmdb",
     "title": "世界最强的后卫 ～迷宫国的新人探索者～",
@@ -46,28 +76,13 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 4.6,
-    "bgm_rating_total": 126,
+    "bgm_rating_total": 127,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 51,
-    "bgm_weekday_id": 7
   },
   {
     "id": "297826",
@@ -110,21 +125,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "589368",
-    "type": "link",
-    "title": "如果历史是一群喵 大明皇朝篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "anime",
-    "rating": "4.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/589368",
-    "bgm_id": "589368",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "641326",
     "type": "link",
     "title": "妖神记 第十季",
@@ -151,7 +151,7 @@
     "link": null,
     "bgm_id": "276787",
     "bgm_score": 4.1,
-    "bgm_rating_total": 128,
+    "bgm_rating_total": 129,
     "bgm_weekday_id": 4,
     "tmdb_id": "98865",
     "tmdb_site_id": "tv/98865",
