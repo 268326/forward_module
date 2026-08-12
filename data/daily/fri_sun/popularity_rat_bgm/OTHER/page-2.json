@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 5.9,
-    "bgm_rating_total": 96,
+    "bgm_rating_total": 97,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.7,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 6
   },
   {
@@ -101,7 +101,7 @@
     "link": null,
     "bgm_id": "621843",
     "bgm_score": 3.7,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 6,
     "tmdb_id": "324335",
     "tmdb_site_id": "tv/324335",
@@ -145,6 +145,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "664856",
     "type": "link",
     "title": "香蕉喵10周年纪念特别篇",
@@ -158,21 +173,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "613039",
-    "type": "link",
-    "title": "茶啊二中 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/613039",
-    "bgm_id": "613039",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
   },
   {
     "id": "665747",

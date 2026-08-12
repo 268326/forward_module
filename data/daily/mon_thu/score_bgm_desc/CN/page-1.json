@@ -28,7 +28,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/jSkwEvYUoTw1frP6w5pucxtqpQs.jpg",
     "releaseDate": "2026-07-29",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "9.0",
     "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
     "link": null,
     "bgm_id": "642666",
@@ -55,7 +55,7 @@
     "link": null,
     "bgm_id": "449354",
     "bgm_score": 5.9,
-    "bgm_rating_total": 11,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 4,
     "tmdb_id": "282580",
     "tmdb_site_id": "tv/282580",
@@ -88,28 +88,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "329125",
-    "type": "tmdb",
-    "title": "万古至尊：李云霄传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6UE31KRwZmuvoAGvYxi3LvNElIw.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
-    "link": null,
-    "bgm_id": "607933",
-    "bgm_score": 3.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "329125",
-    "tmdb_site_id": "tv/329125",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "323839",
     "type": "tmdb",
     "title": "东大高武学院",
@@ -125,6 +103,28 @@
     "bgm_weekday_id": 4,
     "tmdb_id": "323839",
     "tmdb_site_id": "tv/323839",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "329125",
+    "type": "tmdb",
+    "title": "万古至尊：李云霄传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6UE31KRwZmuvoAGvYxi3LvNElIw.jpg",
+    "releaseDate": "2026-07-20",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "天武大陆第三强者，破军武帝古飞扬被世界规则所限，修为困在九天武帝境多年，难以突破。为了摆脱困境，借助神霄宫主曲红颜对自己的爱慕，布下惊天大局，以域外魔气为祭，转世重修。转世之后名为李云霄，是天水国一名15岁少年，也是元帅府李家的嫡长孙。此时天水国外有强敌入侵，内有王子夺嫡，而掌握兵权的李家也成为危机旋涡的中心。面对众人的争权夺利，李云霄站在更高的维度，从容破局。因为他深知，在这个武道至上的世界，一切伟力归于自身，他的目标自始至终只有一个，完成前世布局筑造神境根基。",
+    "link": null,
+    "bgm_id": "607933",
+    "bgm_score": 2.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "329125",
+    "tmdb_site_id": "tv/329125",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
