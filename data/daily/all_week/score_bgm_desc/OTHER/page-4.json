@@ -50,26 +50,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "297826",
-    "type": "tmdb",
-    "title": "盗墓王",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "4.6",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "621835",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 151,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "297826",
-    "tmdb_site_id": "tv/297826",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "300267",
     "type": "tmdb",
     "title": "世界最强的后卫 ～迷宫国的新人探索者～",
@@ -103,6 +83,26 @@
     "bgm_score": 4.6,
     "bgm_rating_total": 52,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "297826",
+    "type": "tmdb",
+    "title": "盗墓王",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "4.5",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "621835",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 153,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "297826",
+    "tmdb_site_id": "tv/297826",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "314054",
