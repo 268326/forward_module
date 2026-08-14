@@ -53,7 +53,7 @@
     "link": null,
     "bgm_id": "587109",
     "bgm_score": 6.8,
-    "bgm_rating_total": 855,
+    "bgm_rating_total": 860,
     "bgm_weekday_id": 6,
     "tmdb_id": "312266",
     "tmdb_site_id": "tv/312266",
@@ -73,7 +73,7 @@
     "link": null,
     "bgm_id": "538760",
     "bgm_score": 6.7,
-    "bgm_rating_total": 555,
+    "bgm_rating_total": 556,
     "bgm_weekday_id": 6,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",
@@ -108,7 +108,7 @@
     "link": null,
     "bgm_id": "617123",
     "bgm_score": 6.6,
-    "bgm_rating_total": 704,
+    "bgm_rating_total": 711,
     "bgm_weekday_id": 4,
     "tmdb_id": "308874",
     "tmdb_site_id": "tv/308874",
@@ -209,6 +209,28 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "328778",
+    "type": "tmdb",
+    "title": "炼气十万年特别篇 阳极天下",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8t0yywBFcmrC9rt3NHuf09AmeC6.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "创始之初，混沌侵袭，凡是在这无极世界当中诞生的生命，都会被悄无声息地种下一丝混沌之力，以便在成熟时收割。绝天通为了对抗混沌，收下了他的第一个徒弟徐阴，可是被他寄予厚望的徐阴却背叛了他。千万年后，徐阳掌管天岚宗，五大法座复活徐阴，沉寂了千万年的徐阴拥有了更加强大的混沌之力，阴阳大战，由此开始。",
+    "link": null,
+    "bgm_id": "576780",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "328778",
+    "tmdb_site_id": "tv/328778",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "296756",
     "type": "tmdb",
     "title": "柯蒂斯总统",
@@ -231,21 +253,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "481295",
-    "type": "link",
-    "title": "X战警97 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "6.2",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/481295",
-    "bgm_id": "481295",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 13,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "300112",
     "type": "tmdb",
     "title": "BanG Dream! YUME∞MITA",
@@ -257,7 +264,7 @@
     "link": null,
     "bgm_id": "583729",
     "bgm_score": 6.2,
-    "bgm_rating_total": 2004,
+    "bgm_rating_total": 2025,
     "bgm_weekday_id": 4,
     "tmdb_id": "300112",
     "tmdb_site_id": "tv/300112",
@@ -277,7 +284,7 @@
     "link": null,
     "bgm_id": "491578",
     "bgm_score": 6.2,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 6,
     "tmdb_id": "326695",
     "tmdb_site_id": "tv/326695",
@@ -288,32 +295,10 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "328778",
-    "type": "tmdb",
-    "title": "炼气十万年特别篇 阳极天下",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8t0yywBFcmrC9rt3NHuf09AmeC6.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "创始之初，混沌侵袭，凡是在这无极世界当中诞生的生命，都会被悄无声息地种下一丝混沌之力，以便在成熟时收割。绝天通为了对抗混沌，收下了他的第一个徒弟徐阴，可是被他寄予厚望的徐阴却背叛了他。千万年后，徐阳掌管天岚宗，五大法座复活徐阴，沉寂了千万年的徐阴拥有了更加强大的混沌之力，阴阳大战，由此开始。",
-    "link": null,
-    "bgm_id": "576780",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "328778",
-    "tmdb_site_id": "tv/328778",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "1659389",
     "type": "tmdb",
     "title": "航海王 女英雄们的故事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/dd/577191_5RoIl.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/dd/577191_c7zCc.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "movie",
     "rating": "6.2",
@@ -321,7 +306,7 @@
     "link": null,
     "bgm_id": "577191",
     "bgm_score": 6.2,
-    "bgm_rating_total": 370,
+    "bgm_rating_total": 371,
     "bgm_weekday_id": 7,
     "tmdb_id": "1659389",
     "tmdb_site_id": "movie/1659389",
@@ -376,7 +361,7 @@
     "link": null,
     "bgm_id": "584641",
     "bgm_score": 6.1,
-    "bgm_rating_total": 166,
+    "bgm_rating_total": 167,
     "bgm_weekday_id": 2,
     "tmdb_id": "302519",
     "tmdb_site_id": "tv/302519",
@@ -416,7 +401,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.1,
-    "bgm_rating_total": 57,
+    "bgm_rating_total": 58,
     "bgm_weekday_id": 7
   },
   {
@@ -448,5 +433,20 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "481295",
+    "type": "link",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 14,
+    "bgm_weekday_id": 3
   }
 ]
