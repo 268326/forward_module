@@ -1,21 +1,19 @@
 [
   {
-    "id": "280564",
+    "id": "325052",
     "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
-    "releaseDate": "2026-08-02",
+    "title": "从后面来的神威先生",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "该动画讲述主角关潮因缘际会进入“记忆管理局”，由此与管理员方糖、百重等人一起克服难关、共同成长的故事。作品拥有新颖独特的世界观设定与细腻治愈的情感内核，展现一个普通人如何放下过去、直面当下、找回勇气。",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
     "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "308874",
@@ -148,6 +146,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
+  },
+  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -164,15 +173,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
+    "id": "65942/season/1/episode/67",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942/season/1/episode/67",
+    "tmdb_site_id": "tv/65942/season/1/episode/67",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "565701",
@@ -197,22 +211,6 @@
     "link": null,
     "tmdb_id": "298103",
     "tmdb_site_id": "tv/298103",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "65942/season/1/episode/67",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942/season/1/episode/67",
-    "tmdb_site_id": "tv/65942/season/1/episode/67",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

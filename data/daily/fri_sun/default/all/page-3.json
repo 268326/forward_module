@@ -48,7 +48,7 @@
     "link": null,
     "bgm_id": "638497",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1205,
+    "bgm_rating_total": 1212,
     "bgm_weekday_id": 7,
     "tmdb_id": "278043/season/1/episode/13",
     "tmdb_site_id": "tv/278043/season/1/episode/13",
@@ -108,12 +108,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/47/668108_K7488.jpg",
     "releaseDate": "2026-07-12",
     "mediaType": "anime",
-    "rating": "6.1",
+    "rating": "6.2",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 58,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 60,
     "bgm_weekday_id": 7
   }
 ]

@@ -86,7 +86,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "6.2",
+    "rating": "6.1",
     "description": "13话 /  2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香、石神直紀",
     "link": null,
     "tmdb_id": "300112",
@@ -112,6 +112,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "117120",
+    "type": "tmdb",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "link": null,
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "285574",
     "type": "tmdb",
     "title": "与你相恋到生命尽头",
@@ -128,17 +144,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "117120",
+    "id": "65942/season/1/episode/78",
     "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "rating": "7.8",
+    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
     "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
+    "tmdb_id": "65942/season/1/episode/78",
+    "tmdb_site_id": "tv/65942/season/1/episode/78",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -187,22 +203,6 @@
     "link": null,
     "tmdb_id": "296101",
     "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "65942/season/1/episode/78",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942/season/1/episode/78",
-    "tmdb_site_id": "tv/65942/season/1/episode/78",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -278,7 +278,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.1",
+    "rating": "7.0",
     "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
     "link": null,
     "tmdb_id": "308403",
@@ -300,22 +300,6 @@
     "tmdb_id": "223564/season/1/episode/25",
     "tmdb_site_id": "tv/223564/season/1/episode/25",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "69346",
-    "type": "tmdb",
-    "title": "幼女战记 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
-    "link": null,
-    "tmdb_id": "69346",
-    "tmdb_site_id": "tv/69346/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -352,6 +336,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "69346",
+    "type": "tmdb",
+    "title": "幼女战记 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+    "link": null,
+    "tmdb_id": "69346",
+    "tmdb_site_id": "tv/69346/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "30984/season/2/episode/41",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
@@ -368,19 +368,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "325052",
+    "id": "280564",
     "type": "tmdb",
-    "title": "从后面来的神威先生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
     "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "rating": "7.5",
+    "description": "该动画讲述主角关潮因缘际会进入“记忆管理局”，由此与管理员方糖、百重等人一起克服难关、共同成长的故事。作品拥有新颖独特的世界观设定与细腻治愈的情感内核，展现一个普通人如何放下过去、直面当下、找回勇气。",
     "link": null,
-    "tmdb_id": "325052",
-    "tmdb_site_id": "tv/325052",
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
