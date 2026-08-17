@@ -38,7 +38,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
     "releaseDate": "2026-07-08",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
     "link": null,
     "tmdb_id": "258348",
@@ -80,22 +80,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "302051",
-    "type": "tmdb",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": null,
-    "tmdb_id": "302051",
-    "tmdb_site_id": "tv/302051",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "312849",
     "type": "tmdb",
     "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
@@ -112,6 +96,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "302051",
+    "type": "tmdb",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "link": null,
+    "tmdb_id": "302051",
+    "tmdb_site_id": "tv/302051",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "283905",
@@ -232,18 +232,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298103",
+    "id": "280049",
     "type": "tmdb",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
+    "rating": "5.9",
+    "description": "2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
     "link": null,
-    "tmdb_id": "298103",
-    "tmdb_site_id": "tv/298103",
-    "tmdb_season_number": null,
+    "tmdb_id": "280049",
+    "tmdb_site_id": "tv/280049/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -266,22 +266,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "280049",
-    "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
-    "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867/season/1/episode/29",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -293,6 +277,22 @@
     "link": null,
     "tmdb_id": "209867/season/1/episode/29",
     "tmdb_site_id": "tv/209867/season/1/episode/29",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298103",
+    "type": "tmdb",
+    "title": "不虐待我的继母与继姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
+    "link": null,
+    "tmdb_id": "298103",
+    "tmdb_site_id": "tv/298103",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

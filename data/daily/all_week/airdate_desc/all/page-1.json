@@ -125,21 +125,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "642680",
-    "type": "link",
-    "title": "天子传奇：洪武大帝",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/22/ca/642680_Qj5hu.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/642680",
-    "bgm_id": "642680",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "30984/season/2/episode/41",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
@@ -151,7 +136,7 @@
     "link": null,
     "bgm_id": "530725",
     "bgm_score": 7.8,
-    "bgm_rating_total": 283,
+    "bgm_rating_total": 288,
     "bgm_weekday_id": 6,
     "tmdb_id": "30984/season/2/episode/41",
     "tmdb_site_id": "tv/30984/season/2/episode/41",
@@ -316,21 +301,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "491582",
-    "type": "link",
-    "title": "天子传奇：姬发篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/491582",
-    "bgm_id": "491582",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "329125",
     "type": "tmdb",
     "title": "万古至尊：李云霄传",
@@ -447,5 +417,47 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "222623",
+    "type": "tmdb",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "releaseDate": "2026-07-17",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "[星期五]",
+    "link": null,
+    "bgm_id": "517106",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 337,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "323839",
+    "type": "tmdb",
+    "title": "东大高武学院",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bQ4oS4RNeLUerTmhLDgHlmEMfbG.jpg",
+    "releaseDate": "2026-07-16",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
+    "link": null,
+    "bgm_id": "592111",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "323839",
+    "tmdb_site_id": "tv/323839",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

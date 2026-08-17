@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.0,
-    "bgm_rating_total": 119,
+    "bgm_rating_total": 120,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -308,21 +308,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "491582",
-    "type": "link",
-    "title": "天子传奇：姬发篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/04/491582_d967P.jpg",
-    "releaseDate": "2026-07-20",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/491582",
-    "bgm_id": "491582",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "668113",

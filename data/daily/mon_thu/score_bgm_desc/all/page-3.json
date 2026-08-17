@@ -1,27 +1,5 @@
 [
   {
-    "id": "314561",
-    "type": "tmdb",
-    "title": "澈底对你成瘾",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pkH9EpzbiLVqC6tPV0tFaijBTFa.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "身为外貌协会且私生活混乱的大学生明仁，对顶着一张漂亮脸蛋且态度冷酷的冴怎么看都不顺眼。在得知联谊时看上的女生也喜欢冴之后，明仁不爽到了极点。就在这个时候，他在爱情旅馆一条街撞见冴和其他男人发生争执。面对与平时截然不同，浑身破绽的冴，明仁忍不住将他强硬地推倒，此时冴出乎意料之外的反应让他澈底失控——！ ？",
-    "link": null,
-    "bgm_id": "630164",
-    "bgm_score": 3.9,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "314561",
-    "tmdb_site_id": "tv/314561",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "326191",
     "type": "tmdb",
     "title": "拯救替身千金的是冷酷无情冰之王子的爱",
