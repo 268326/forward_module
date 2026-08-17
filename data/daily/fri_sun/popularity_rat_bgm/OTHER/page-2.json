@@ -86,7 +86,22 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 63,
+    "bgm_rating_total": 64,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.6",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.6,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 7
   },
   {
@@ -108,21 +123,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 52,
-    "bgm_weekday_id": 7
   },
   {
     "id": "315054",
@@ -151,12 +151,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 9,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 7
   },
   {

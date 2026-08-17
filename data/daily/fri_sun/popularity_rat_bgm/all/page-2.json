@@ -106,7 +106,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 63,
+    "bgm_rating_total": 64,
     "bgm_weekday_id": 7
   },
   {
@@ -132,6 +132,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.6",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.6,
+    "bgm_rating_total": 53,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "324335",
     "type": "tmdb",
     "title": "岩元前辈的推荐",
@@ -150,21 +165,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 52,
-    "bgm_weekday_id": 7
   },
   {
     "id": "315054",
@@ -219,8 +219,8 @@
     "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
     "link": null,
     "bgm_id": "491578",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 10,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 6,
     "tmdb_id": "326695",
     "tmdb_site_id": "tv/326695",
@@ -237,12 +237,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
     "releaseDate": "2026-07-26",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 9,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 7
   },
   {
@@ -294,7 +294,7 @@
     "link": null,
     "bgm_id": "576780",
     "bgm_score": 6.3,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6,
     "tmdb_id": "328778",
     "tmdb_site_id": "tv/328778",
