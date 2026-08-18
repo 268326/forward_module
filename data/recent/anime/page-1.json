@@ -22,7 +22,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "7.9",
+    "rating": "8.0",
     "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
     "link": null,
     "tmdb_id": "94664",
@@ -64,22 +64,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "286345",
-    "type": "tmdb",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": null,
-    "tmdb_id": "286345",
-    "tmdb_site_id": "tv/286345",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942/season/1/episode/78",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
@@ -91,6 +75,22 @@
     "link": null,
     "tmdb_id": "65942/season/1/episode/78",
     "tmdb_site_id": "tv/65942/season/1/episode/78",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": null,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -118,7 +118,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.7",
+    "rating": "6.9",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",
@@ -150,7 +150,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "7.1",
+    "rating": "7.0",
     "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
     "link": null,
     "tmdb_id": "285574",
@@ -230,7 +230,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.5",
+    "rating": "7.7",
     "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
     "tmdb_id": "278043/season/1/episode/13",
@@ -246,7 +246,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
     "link": null,
     "tmdb_id": "308403",
@@ -272,6 +272,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "223564/season/1/episode/25",
+    "type": "tmdb",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+    "link": null,
+    "tmdb_id": "223564/season/1/episode/25",
+    "tmdb_site_id": "tv/223564/season/1/episode/25",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "153217",
     "type": "tmdb",
     "title": "二十世纪电气目录",
@@ -283,22 +299,6 @@
     "link": null,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "223564/season/1/episode/25",
-    "type": "tmdb",
-    "title": "超超超超超喜欢你的100个女朋友 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
-    "link": null,
-    "tmdb_id": "223564/season/1/episode/25",
-    "tmdb_site_id": "tv/223564/season/1/episode/25",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -336,20 +336,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "222623",
+    "id": "280564",
     "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
     "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+    "rating": "7.5",
+    "description": "该动画讲述主角关潮因缘际会进入“记忆管理局”，由此与管理员方糖、百重等人一起克服难关、共同成长的故事。作品拥有新颖独特的世界观设定与细腻治愈的情感内核，展现一个普通人如何放下过去、直面当下、找回勇气。",
     "link": null,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "69346",
@@ -368,21 +370,19 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280564",
+    "id": "222623",
     "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
-    "releaseDate": "2026-08-02",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "releaseDate": "2026-07-17",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "该动画讲述主角关潮因缘际会进入“记忆管理局”，由此与管理员方糖、百重等人一起克服难关、共同成长的故事。作品拥有新颖独特的世界观设定与细腻治愈的情感内核，展现一个普通人如何放下过去、直面当下、找回勇气。",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
     "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
