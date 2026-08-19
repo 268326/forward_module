@@ -1,16 +1,38 @@
 [
   {
+    "id": "329026",
+    "type": "tmdb",
+    "title": "李熊猫",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jSkwEvYUoTw1frP6w5pucxtqpQs.jpg",
+    "releaseDate": "2026-07-29",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "改编自文舟创作的小说，讲述被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王朝秘辛与自身命运之谜的故事。",
+    "link": null,
+    "bgm_id": "642666",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "329026",
+    "tmdb_site_id": "tv/329026",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "481295",
     "type": "link",
     "title": "X战警97 第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "6.1",
+    "rating": "5.9",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/481295",
     "bgm_id": "481295",
-    "bgm_score": 6.1,
+    "bgm_score": 5.9,
     "bgm_rating_total": 15,
     "bgm_weekday_id": 3
   },
@@ -74,21 +96,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "500458",
-    "type": "link",
-    "title": "胶囊计划 奇迹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/500458",
-    "bgm_id": "500458",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "314561",
     "type": "tmdb",
     "title": "澈底对你成瘾",
@@ -111,6 +118,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
+    "bgm_id": "516426",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 12,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "293629/season/1/episode/13",
     "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
@@ -129,28 +158,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/wf16ZxGWFsId0sFkNiAG1yAhK6h.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326695",
