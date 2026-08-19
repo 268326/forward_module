@@ -60,6 +60,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "668586",
+    "type": "link",
+    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/668586",
+    "bgm_id": "668586",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -103,21 +118,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "668586",
-    "type": "link",
-    "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/08/07/668586_5BB7m.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/668586",
-    "bgm_id": "668586",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 5
   },
   {
     "id": "641326",

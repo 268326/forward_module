@@ -1,21 +1,5 @@
 [
   {
-    "id": "325052",
-    "type": "tmdb",
-    "title": "从后面来的神威先生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
-    "link": null,
-    "tmdb_id": "325052",
-    "tmdb_site_id": "tv/325052",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "308874",
     "type": "tmdb",
     "title": "少女怪兽焦糖味",
@@ -32,17 +16,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "258348",
+    "id": "222623",
     "type": "tmdb",
-    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "releaseDate": "2026-07-17",
     "mediaType": "tv",
-    "rating": "6.9",
-    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
     "link": null,
-    "tmdb_id": "258348",
-    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -60,6 +44,22 @@
     "tmdb_id": "250008",
     "tmdb_site_id": "tv/250008",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "258348",
+    "type": "tmdb",
+    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "link": null,
+    "tmdb_id": "258348",
+    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -98,6 +98,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
+  },
+  {
     "id": "302051",
     "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
@@ -112,17 +123,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
   },
   {
     "id": "283905",
@@ -157,6 +157,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "65942/season/1/episode/67",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942/season/1/episode/67",
+    "tmdb_site_id": "tv/65942/season/1/episode/67",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -173,17 +189,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942/season/1/episode/67",
+    "id": "286346",
     "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
+    "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_Q15R6.jpg",
+    "releaseDate": "2026-07-01",
     "mediaType": "tv",
-    "rating": "7.8",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "rating": "6.1",
+    "description": "12话 /  2026年7月1日 / 村川直哉 / あてきち（TOブックス刊） / 徳川恵梨",
     "link": null,
-    "tmdb_id": "65942/season/1/episode/67",
-    "tmdb_site_id": "tv/65942/season/1/episode/67",
+    "tmdb_id": "286346",
+    "tmdb_site_id": "tv/286346",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -214,22 +230,6 @@
     "rating": "5.8",
     "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
     "link": "https://bgm.tv/subject/565701"
-  },
-  {
-    "id": "286346",
-    "type": "tmdb",
-    "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_Q15R6.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "12话 /  2026年7月1日 / 村川直哉 / あてきち（TOブックス刊） / 徳川恵梨",
-    "link": null,
-    "tmdb_id": "286346",
-    "tmdb_site_id": "tv/286346",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "314554",
@@ -282,22 +282,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298103",
-    "type": "tmdb",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
-    "link": null,
-    "tmdb_id": "298103",
-    "tmdb_site_id": "tv/298103",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "139512",
     "type": "tmdb",
     "title": "恋爱游戏世界对路人角色很不友好 第二季",
@@ -310,6 +294,22 @@
     "tmdb_id": "139512",
     "tmdb_site_id": "tv/139512/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298103",
+    "type": "tmdb",
+    "title": "不虐待我的继母与继姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
+    "link": null,
+    "tmdb_id": "298103",
+    "tmdb_site_id": "tv/298103",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
