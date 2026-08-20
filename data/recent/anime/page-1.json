@@ -16,22 +16,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/3",
-    "tmdb_season_number": 3,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942/season/1/episode/78",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
@@ -44,6 +28,22 @@
     "tmdb_id": "65942/season/1/episode/78",
     "tmdb_site_id": "tv/65942/season/1/episode/78",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/3",
+    "tmdb_season_number": 3,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -304,22 +304,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "309974",
-    "type": "tmdb",
-    "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月",
-    "link": null,
-    "tmdb_id": "309974",
-    "tmdb_site_id": "tv/309974",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "30984/season/2/episode/41",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
@@ -331,6 +315,22 @@
     "link": null,
     "tmdb_id": "30984/season/2/episode/41",
     "tmdb_site_id": "tv/30984/season/2/episode/41",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "309974",
+    "type": "tmdb",
+    "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月",
+    "link": null,
+    "tmdb_id": "309974",
+    "tmdb_site_id": "tv/309974",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
