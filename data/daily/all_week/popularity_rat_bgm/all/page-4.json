@@ -22,6 +22,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "481295",
+    "type": "link",
+    "title": "X战警97 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/481295",
+    "bgm_id": "481295",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "282580",
     "type": "tmdb",
     "title": "花仙子之魔法香对论",
@@ -44,21 +59,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "481295",
-    "type": "link",
-    "title": "X战警97 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/481295",
-    "bgm_id": "481295",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 16,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "296756",
     "type": "tmdb",
     "title": "柯蒂斯总统",
@@ -70,7 +70,7 @@
     "link": null,
     "bgm_id": "574041",
     "bgm_score": 6.6,
-    "bgm_rating_total": 16,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 7,
     "tmdb_id": "296756",
     "tmdb_site_id": "tv/296756",
@@ -92,7 +92,7 @@
     "link": "http://bgm.tv/subject/572768",
     "bgm_id": "572768",
     "bgm_score": 7.0,
-    "bgm_rating_total": 15,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 3
   },
   {
