@@ -1,21 +1,5 @@
 [
   {
-    "id": "298994",
-    "type": "tmdb",
-    "title": "LV999的村民",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "4.8",
-    "description": "12话 /  2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
-    "link": null,
-    "tmdb_id": "298994",
-    "tmdb_site_id": "tv/298994",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "1575337",
     "type": "tmdb",
     "title": "超时空辉夜姬！",
@@ -27,6 +11,22 @@
     "link": null,
     "tmdb_id": "1575337",
     "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "298994",
+    "type": "tmdb",
+    "title": "LV999的村民",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "4.8",
+    "description": "12话 /  2026年7月1日 / 葛西良信 / 星月子猫（KADOKAWA刊） / 松本健太郎",
+    "link": null,
+    "tmdb_id": "298994",
+    "tmdb_site_id": "tv/298994",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -128,6 +128,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
     "id": "94664/season/1/episode/12",
     "type": "tmdb",
     "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
@@ -160,22 +171,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "277513",
-    "type": "tmdb",
-    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
-    "releaseDate": "2025-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2025年7月7日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
-    "link": null,
-    "tmdb_id": "277513",
-    "tmdb_site_id": "tv/277513",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "223564",
     "type": "tmdb",
     "title": "超超超超超喜欢你的100个女朋友",
@@ -187,6 +182,22 @@
     "link": null,
     "tmdb_id": "223564",
     "tmdb_site_id": "tv/223564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "277513",
+    "type": "tmdb",
+    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
+    "releaseDate": "2025-07-07",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2025年7月7日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "link": null,
+    "tmdb_id": "277513",
+    "tmdb_site_id": "tv/277513",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -206,17 +217,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
   },
   {
     "id": "82861",
@@ -251,22 +251,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "302519",
-    "type": "tmdb",
-    "title": "奇招百出的维多利亚",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/5b/584641_150ne.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "9话 /  2026年7月7日 / 木村延景 / 守雨（MFブックス／KADOKAWA刊） / 大沢美奈",
-    "link": null,
-    "tmdb_id": "302519",
-    "tmdb_site_id": "tv/302519",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942/season/1/episode/51",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第三季 袭击篇",
@@ -281,6 +265,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "607915",
+    "type": "link",
+    "title": "凡人修仙传 第五季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c9/607915_RBL8u.jpg",
+    "releaseDate": "2026-06-13",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "52话 /  2026年6月13日 / 王裕仁、林宇昂 / 忘语 / 人物设计总监：刘海燕",
+    "link": "https://bgm.tv/subject/607915"
   },
   {
     "id": "306721",
@@ -299,33 +294,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "79166",
+    "id": "65942",
     "type": "tmdb",
-    "title": "碧蓝之海 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
-    "releaseDate": "2025-07-07",
+    "title": "Re：从零开始的异世界生活",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cb/78/140001_Ew1mo.jpg",
+    "releaseDate": "2016-04-03",
     "mediaType": "tv",
-    "rating": "7.3",
-    "description": "12话 /  2025年7月7日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "rating": "7.5",
+    "description": "25话 /  2016年4月3日 / 渡邊政治 / 長月達平（MF文庫J「Re:ゼロから始める異世界生活」/KADOKAWA刊） / 坂井久太",
     "link": null,
-    "tmdb_id": "79166",
-    "tmdb_site_id": "tv/79166/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284581",
-    "type": "tmdb",
-    "title": "最强废渣皇子暗中活跃于帝位之争",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a7/a6/456081_Bs2nE.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "12话 /  2026年7月6日 / 柳瀬雄之 / タンバ（株式会社KADOKAWA 角川スニーカー文庫刊） / 只野和子",
-    "link": null,
-    "tmdb_id": "284581",
-    "tmdb_site_id": "tv/284581",
+    "tmdb_id": "65942",
+    "tmdb_site_id": "tv/65942",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -349,6 +328,22 @@
   {
     "id": "79166",
     "type": "tmdb",
+    "title": "碧蓝之海 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
+    "releaseDate": "2025-07-07",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "12话 /  2025年7月7日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "link": null,
+    "tmdb_id": "79166",
+    "tmdb_site_id": "tv/79166/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "79166",
+    "type": "tmdb",
     "title": "碧蓝之海",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/13/235130_suy3s.jpg",
     "releaseDate": "2018-07-13",
@@ -363,17 +358,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312020",
+    "id": "284581",
     "type": "tmdb",
-    "title": "THE WORLD IS DANCING 世界在起舞",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "最强废渣皇子暗中活跃于帝位之争",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a7/a6/456081_Bs2nE.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "5.5",
-    "description": "13话 /  2026年7月2日 / 黒柳トシマサ / 三原和人（講談社モーニングKC刊） / 佐々木啓悟",
+    "rating": "5.0",
+    "description": "12话 /  2026年7月6日 / 柳瀬雄之 / タンバ（株式会社KADOKAWA 角川スニーカー文庫刊） / 只野和子",
     "link": null,
-    "tmdb_id": "312020",
-    "tmdb_site_id": "tv/312020",
+    "tmdb_id": "284581",
+    "tmdb_site_id": "tv/284581",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
