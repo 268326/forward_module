@@ -64,6 +64,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
+  },
+  {
     "id": "284029",
     "type": "tmdb",
     "title": "猫与龙",
@@ -80,15 +91,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
+    "id": "82684",
+    "type": "tmdb",
+    "title": "关于我转生变成史莱姆这档事 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_ZRYPc.jpg",
+    "releaseDate": "2026-04-03",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "24话 /  2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
+    "link": null,
+    "tmdb_id": "82684",
+    "tmdb_site_id": "tv/82684/season/4",
+    "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "312849",
@@ -107,22 +123,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "82684",
-    "type": "tmdb",
-    "title": "关于我转生变成史莱姆这档事 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_ZRYPc.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "24话 /  2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
-    "link": null,
-    "tmdb_id": "82684",
-    "tmdb_site_id": "tv/82684/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "283905",
@@ -205,22 +205,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "286346",
-    "type": "tmdb",
-    "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_Q15R6.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "12话 /  2026年7月1日 / 村川直哉 / あてきち（TOブックス刊） / 徳川恵梨",
-    "link": null,
-    "tmdb_id": "286346",
-    "tmdb_site_id": "tv/286346",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867/season/1/episode/29",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -237,15 +221,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": "https://bgm.tv/subject/565701"
+    "id": "286346",
+    "type": "tmdb",
+    "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_Q15R6.jpg",
+    "releaseDate": "2026-07-01",
+    "mediaType": "tv",
+    "rating": "6.1",
+    "description": "12话 /  2026年7月1日 / 村川直哉 / あてきち（TOブックス刊） / 徳川恵梨",
+    "link": null,
+    "tmdb_id": "286346",
+    "tmdb_site_id": "tv/286346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "314554",
@@ -266,6 +255,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "565701",
+    "type": "link",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "link": "https://bgm.tv/subject/565701"
+  },
+  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
@@ -277,6 +277,22 @@
     "link": null,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "139512",
+    "type": "tmdb",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "4.8",
+    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -294,22 +310,6 @@
     "tmdb_id": "296437",
     "tmdb_site_id": "tv/296437",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "139512",
-    "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "4.8",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -362,17 +362,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "298103",
+    "id": "1575337",
     "type": "tmdb",
-    "title": "不虐待我的继母与继姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2026年7月8日 / 井上圭介 / おつじ（comic POOL／一迅社刊） / 佐々木睦美",
+    "title": "超时空辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
     "link": null,
-    "tmdb_id": "298103",
-    "tmdb_site_id": "tv/298103",
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

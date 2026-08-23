@@ -272,6 +272,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "30984/season/2/episode/41",
+    "type": "tmdb",
+    "title": "死神 千年血战篇-祸进谭-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+    "link": null,
+    "tmdb_id": "30984/season/2/episode/41",
+    "tmdb_site_id": "tv/30984/season/2/episode/41",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "255358",
     "type": "tmdb",
     "title": "攻壳机动队 THE GHOST IN THE SHELL",
@@ -283,22 +299,6 @@
     "link": null,
     "tmdb_id": "255358",
     "tmdb_site_id": "tv/255358",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "30984/season/2/episode/41",
-    "type": "tmdb",
-    "title": "死神 千年血战篇-祸进谭-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
-    "link": null,
-    "tmdb_id": "30984/season/2/episode/41",
-    "tmdb_site_id": "tv/30984/season/2/episode/41",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -322,22 +322,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "153217",
-    "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
-    "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "309974",
     "type": "tmdb",
     "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
@@ -349,6 +333,22 @@
     "link": null,
     "tmdb_id": "309974",
     "tmdb_site_id": "tv/309974",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

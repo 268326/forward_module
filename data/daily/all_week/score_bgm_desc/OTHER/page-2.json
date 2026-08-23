@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "517106",
     "bgm_score": 6.8,
-    "bgm_rating_total": 360,
+    "bgm_rating_total": 362,
     "bgm_weekday_id": 5,
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "538760",
     "bgm_score": 6.7,
-    "bgm_rating_total": 589,
+    "bgm_rating_total": 591,
     "bgm_weekday_id": 6,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",
@@ -51,7 +51,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.6,
-    "bgm_rating_total": 94,
+    "bgm_rating_total": 95,
     "bgm_weekday_id": 6
   },
   {
@@ -66,7 +66,7 @@
     "link": null,
     "bgm_id": "454083",
     "bgm_score": 6.6,
-    "bgm_rating_total": 140,
+    "bgm_rating_total": 141,
     "bgm_weekday_id": 7,
     "tmdb_id": "109805",
     "tmdb_site_id": "tv/109805/season/2",
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "617123",
     "bgm_score": 6.5,
-    "bgm_rating_total": 753,
+    "bgm_rating_total": 755,
     "bgm_weekday_id": 4,
     "tmdb_id": "308874",
     "tmdb_site_id": "tv/308874",
@@ -161,7 +161,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 7
   },
   {
@@ -231,7 +231,7 @@
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
     "bgm_score": 6.1,
-    "bgm_rating_total": 24,
+    "bgm_rating_total": 25,
     "bgm_weekday_id": 3
   },
   {
@@ -266,7 +266,7 @@
     "link": null,
     "bgm_id": "614594",
     "bgm_score": 6.1,
-    "bgm_rating_total": 255,
+    "bgm_rating_total": 256,
     "bgm_weekday_id": 4,
     "tmdb_id": "312507",
     "tmdb_site_id": "tv/312507",
@@ -376,7 +376,7 @@
     "link": "http://bgm.tv/subject/565701",
     "bgm_id": "565701",
     "bgm_score": 5.8,
-    "bgm_rating_total": 202,
+    "bgm_rating_total": 203,
     "bgm_weekday_id": 3
   },
   {
@@ -431,7 +431,7 @@
     "link": null,
     "bgm_id": "583729",
     "bgm_score": 5.7,
-    "bgm_rating_total": 2211,
+    "bgm_rating_total": 2231,
     "bgm_weekday_id": 4,
     "tmdb_id": "300112",
     "tmdb_site_id": "tv/300112",
