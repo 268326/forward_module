@@ -275,7 +275,7 @@
     "link": null,
     "bgm_id": "571784",
     "bgm_score": 7.0,
-    "bgm_rating_total": 3508,
+    "bgm_rating_total": 3516,
     "bgm_weekday_id": 4,
     "tmdb_id": "296286",
     "tmdb_site_id": "tv/296286",
@@ -295,7 +295,7 @@
     "link": null,
     "bgm_id": "339515",
     "bgm_score": 7.2,
-    "bgm_rating_total": 646,
+    "bgm_rating_total": 647,
     "bgm_weekday_id": 3,
     "tmdb_id": "69346",
     "tmdb_site_id": "tv/69346/season/2",
@@ -335,7 +335,7 @@
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
     "bgm_score": 6.0,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 3
   },
   {
