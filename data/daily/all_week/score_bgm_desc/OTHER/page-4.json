@@ -1,25 +1,5 @@
 [
   {
-    "id": "298994",
-    "type": "tmdb",
-    "title": "LV999的村民",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/57/579787_9aHqE.jpg",
-    "releaseDate": "2026-07-01",
-    "mediaType": "tv",
-    "rating": "4.8",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "579787",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 294,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "298994",
-    "tmdb_site_id": "tv/298994",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "589368",
     "type": "link",
     "title": "如果历史是一群喵 大明皇朝篇",
@@ -33,6 +13,26 @@
     "bgm_score": 4.8,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "298831",
+    "type": "tmdb",
+    "title": "暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e2/dd/579246_61291.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "579246",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 180,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "298831",
+    "tmdb_site_id": "tv/298831",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "300267",
