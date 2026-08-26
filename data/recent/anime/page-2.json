@@ -1,21 +1,5 @@
 [
   {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "258348",
     "type": "tmdb",
     "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -59,6 +43,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "308874",
+    "type": "tmdb",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": null,
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -94,19 +94,17 @@
     "id": "312849",
     "type": "tmdb",
     "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://image.tmdb.org/t/p/w500/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
     "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "“我，想要这个人。”人人向往的“完美千金”，此花雏子。身为日本第一财阀千金的她，突然指名偶然相遇的庶民男高中生──友成伊月，担任自己的专属“侍从”。雏子表面上看似品行端正，真面目却是连换衣服都无法独力完成、毫无生活能力的“懒散女孩”。被名门家族的种种束缚绑住，不得不扮演“完美千金”的雏子。一心想守护她、无微不至照顾着她的伊月。渐渐地，雏子也开始对他全力撒娇……与反差萌得惹人怜爱的千金小姐，一段跨越主仆界线、甜到不行的恋爱物语，即将揭开序幕。",
+    "rating": "5.9",
+    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
     "link": null,
     "tmdb_id": "312849",
     "tmdb_site_id": "tv/312849",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "222623",
@@ -255,6 +253,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "260823",
+    "type": "tmdb",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "link": null,
+    "tmdb_id": "260823",
+    "tmdb_site_id": "tv/260823/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
@@ -271,17 +285,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "565701",
-    "type": "link",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": "https://bgm.tv/subject/565701"
-  },
-  {
     "id": "139512",
     "type": "tmdb",
     "title": "恋爱游戏世界对路人角色很不友好 第二季",
@@ -294,22 +297,6 @@
     "tmdb_id": "139512",
     "tmdb_site_id": "tv/139512/season/2",
     "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
-    "releaseDate": "2021-01-10",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664",
-    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -332,6 +319,22 @@
   {
     "id": "94664",
     "type": "tmdb",
+    "title": "无职转生～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+    "releaseDate": "2021-01-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
     "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
     "releaseDate": "2023-07-02",
@@ -346,6 +349,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
     "id": "1575337",
     "type": "tmdb",
     "title": "超辉夜姬！",
@@ -357,22 +371,6 @@
     "link": null,
     "tmdb_id": "1575337",
     "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "296437",
-    "type": "tmdb",
-    "title": "从0位居民开始的边境领主大人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg",
-    "releaseDate": "2026-07-10",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "2026年7月10日 / 今泉賢一 / 風楼（アース・スターノベル / アース・スター エンターテイメント刊）；漫画：ユンボ / 坪山圭一",
-    "link": null,
-    "tmdb_id": "296437",
-    "tmdb_site_id": "tv/296437",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

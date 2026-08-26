@@ -1,5 +1,35 @@
 [
   {
+    "id": "637339",
+    "type": "link",
+    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "6.1",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/637339",
+    "bgm_id": "637339",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "658254",
+    "type": "link",
+    "title": "ようじょしぇんき2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/658254",
+    "bgm_id": "658254",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "664856",
     "type": "link",
     "title": "香蕉喵10周年纪念特别篇",
