@@ -1,5 +1,16 @@
 [
   {
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
+  },
+  {
     "id": "258348",
     "type": "tmdb",
     "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -16,15 +27,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
+    "id": "308874",
+    "type": "tmdb",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": null,
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "250008",
@@ -38,22 +54,6 @@
     "link": null,
     "tmdb_id": "250008",
     "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -107,22 +107,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "222623",
-    "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
-    "link": null,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942/season/1/episode/67",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 丧失篇",
@@ -139,6 +123,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "222623",
+    "type": "tmdb",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_kDd70.jpg",
+    "releaseDate": "2026-07-17",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+    "link": null,
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -150,22 +150,6 @@
     "link": null,
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "302051",
-    "type": "tmdb",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": null,
-    "tmdb_id": "302051",
-    "tmdb_site_id": "tv/302051",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -187,17 +171,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "209867/season/1/episode/29",
+    "id": "302051",
     "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg",
+    "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
     "link": null,
-    "tmdb_id": "209867/season/1/episode/29",
-    "tmdb_site_id": "tv/209867/season/1/episode/29",
+    "tmdb_id": "302051",
+    "tmdb_site_id": "tv/302051",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -219,6 +203,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "209867/season/1/episode/29",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867/season/1/episode/29",
+    "tmdb_site_id": "tv/209867/season/1/episode/29",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "286346",
     "type": "tmdb",
     "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
@@ -231,22 +231,6 @@
     "tmdb_id": "286346",
     "tmdb_site_id": "tv/286346",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "260823",
-    "type": "tmdb",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": null,
-    "tmdb_id": "260823",
-    "tmdb_site_id": "tv/260823/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -267,6 +251,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "260823",
+    "type": "tmdb",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "link": null,
+    "tmdb_id": "260823",
+    "tmdb_site_id": "tv/260823/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "280049",
@@ -304,7 +304,7 @@
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_8KYoa.jpg",
     "releaseDate": "2026-04-04",
     "mediaType": "tv",
     "rating": "6.9",
@@ -323,7 +323,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
     "releaseDate": "2026-01-30",
     "mediaType": "anime",
-    "rating": "7.5",
+    "rating": "7.4",
     "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
     "link": "https://bgm.tv/subject/243430"
   },

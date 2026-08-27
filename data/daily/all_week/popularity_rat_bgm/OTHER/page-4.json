@@ -1,5 +1,20 @@
 [
   {
+    "id": "613039",
+    "type": "link",
+    "title": "茶啊二中 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/613039",
+    "bgm_id": "613039",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "637339",
     "type": "link",
     "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",

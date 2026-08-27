@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 4.6,
-    "bgm_rating_total": 137,
+    "bgm_rating_total": 138,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -111,7 +111,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.1,
-    "bgm_rating_total": 134,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -226,7 +226,7 @@
     "link": null,
     "bgm_id": "627648",
     "bgm_score": 4.2,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 2,
     "tmdb_id": "314054",
     "tmdb_site_id": "tv/314054",
@@ -246,7 +246,22 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 70,
+    "bgm_rating_total": 71,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 7
   },
   {
@@ -361,7 +376,7 @@
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
     "bgm_score": 6.0,
-    "bgm_rating_total": 29,
+    "bgm_rating_total": 30,
     "bgm_weekday_id": 3
   },
   {
@@ -433,20 +448,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "613039",
-    "type": "link",
-    "title": "茶啊二中 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/a3/12/613039_Z6VM6.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/613039",
-    "bgm_id": "613039",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 7
   }
 ]

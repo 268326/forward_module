@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "286345",
-    "type": "tmdb",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": null,
-    "tmdb_id": "286345",
-    "tmdb_site_id": "tv/286345",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "117120",
     "type": "tmdb",
     "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "117120",
     "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": null,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -224,22 +224,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043/season/1/episode/13",
-    "type": "tmdb",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043/season/1/episode/13",
-    "tmdb_site_id": "tv/278043/season/1/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "280564",
     "type": "tmdb",
     "title": "记忆管理局",
@@ -256,6 +240,22 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "278043/season/1/episode/13",
+    "type": "tmdb",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": null,
+    "tmdb_id": "278043/season/1/episode/13",
+    "tmdb_site_id": "tv/278043/season/1/episode/13",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "308403",
@@ -312,7 +312,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "tv",
-    "rating": "8.2",
+    "rating": "8.3",
     "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": null,
     "tmdb_id": "30984/season/2/episode/41",
