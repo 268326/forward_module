@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "117120",
+    "type": "tmdb",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "link": null,
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -208,22 +208,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "Grow Up Show ～向日葵马戏团～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
-    "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "280564",
     "type": "tmdb",
     "title": "记忆管理局",
@@ -240,6 +224,22 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "296101",
+    "type": "tmdb",
+    "title": "Grow Up Show ～向日葵马戏团～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+    "link": null,
+    "tmdb_id": "296101",
+    "tmdb_site_id": "tv/296101",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278043/season/1/episode/13",
@@ -312,7 +312,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "tv",
-    "rating": "8.2",
+    "rating": "8.3",
     "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": null,
     "tmdb_id": "30984/season/2/episode/41",

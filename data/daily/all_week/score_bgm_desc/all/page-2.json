@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "517106",
     "bgm_score": 6.8,
-    "bgm_rating_total": 376,
+    "bgm_rating_total": 377,
     "bgm_weekday_id": 5,
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
@@ -53,7 +53,7 @@
     "link": null,
     "bgm_id": "538760",
     "bgm_score": 6.7,
-    "bgm_rating_total": 609,
+    "bgm_rating_total": 612,
     "bgm_weekday_id": 6,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",
@@ -68,12 +68,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/01/f8/549975_58HUD.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 96,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 97,
     "bgm_weekday_id": 6
   },
   {
@@ -110,7 +110,7 @@
     "link": null,
     "bgm_id": "617123",
     "bgm_score": 6.5,
-    "bgm_rating_total": 780,
+    "bgm_rating_total": 784,
     "bgm_weekday_id": 4,
     "tmdb_id": "308874",
     "tmdb_site_id": "tv/308874",
@@ -207,7 +207,7 @@
     "link": null,
     "bgm_id": "577191",
     "bgm_score": 6.2,
-    "bgm_rating_total": 386,
+    "bgm_rating_total": 388,
     "bgm_weekday_id": 7,
     "tmdb_id": "1659389",
     "tmdb_site_id": "movie/1659389",
@@ -227,7 +227,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 71,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 7
   },
   {
@@ -277,7 +277,7 @@
     "link": null,
     "bgm_id": "584641",
     "bgm_score": 6.1,
-    "bgm_rating_total": 179,
+    "bgm_rating_total": 181,
     "bgm_weekday_id": 2,
     "tmdb_id": "302519",
     "tmdb_site_id": "tv/302519",
@@ -383,21 +383,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "500458",
-    "type": "link",
-    "title": "胶囊计划 奇迹",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/500458",
-    "bgm_id": "500458",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 30,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "298103",
     "type": "tmdb",
     "title": "不虐待我的继母与继姐",
@@ -409,7 +394,7 @@
     "link": null,
     "bgm_id": "572613",
     "bgm_score": 6.0,
-    "bgm_rating_total": 253,
+    "bgm_rating_total": 255,
     "bgm_weekday_id": 3,
     "tmdb_id": "298103",
     "tmdb_site_id": "tv/298103",
@@ -460,5 +445,20 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "500458",
+    "type": "link",
+    "title": "胶囊计划 奇迹",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/23/500458_jXNh1.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/500458",
+    "bgm_id": "500458",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 3
   }
 ]
