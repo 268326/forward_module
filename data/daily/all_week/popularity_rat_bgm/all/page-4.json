@@ -37,6 +37,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "572768",
+    "type": "link",
+    "title": "一念永恒 完结季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/572768",
+    "bgm_id": "572768",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "282580",
     "type": "tmdb",
     "title": "花仙子之魔法香对论",
@@ -79,21 +94,6 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "572768",
-    "type": "link",
-    "title": "一念永恒 完结季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
-    "releaseDate": "2026-07-22",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/572768",
-    "bgm_id": "572768",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 16,
-    "bgm_weekday_id": 3
   },
   {
     "id": "314561",
