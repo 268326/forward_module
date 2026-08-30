@@ -1,5 +1,20 @@
 [
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "329125",
     "type": "tmdb",
     "title": "万古至尊：李云霄传",
@@ -20,21 +35,6 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "668113",
-    "type": "link",
-    "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6e/76/668113_xH76x.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "3.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/668113",
-    "bgm_id": "668113",
-    "bgm_score": 3.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3
   },
   {
     "id": "327228",
