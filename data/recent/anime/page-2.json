@@ -1,14 +1,19 @@
 [
   {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
+    "id": "325052",
+    "type": "tmdb",
+    "title": "从后面来的神威先生",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "link": null,
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "258348",
@@ -43,22 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "82684",
-    "type": "tmdb",
-    "title": "关于我转生变成史莱姆这档事 第四季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_ZRYPc.jpg",
-    "releaseDate": "2026-04-03",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "24话 /  2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
-    "link": null,
-    "tmdb_id": "82684",
-    "tmdb_site_id": "tv/82684/season/4",
-    "tmdb_season_number": 4,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "250008",
     "type": "tmdb",
     "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
@@ -75,18 +64,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942/season/1/episode/67",
+    "id": "82684",
     "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
-    "releaseDate": "2026-04-08",
+    "title": "关于我转生变成史莱姆这档事 第四季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a4/515594_ZRYPc.jpg",
+    "releaseDate": "2026-04-03",
     "mediaType": "tv",
-    "rating": "7.8",
-    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "rating": "6.3",
+    "description": "24话 /  2026年4月3日 / 津田尚克 / 川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』（講談社「月刊少年シリウス」連載） / 江畑諒真",
     "link": null,
-    "tmdb_id": "65942/season/1/episode/67",
-    "tmdb_site_id": "tv/65942/season/1/episode/67",
-    "tmdb_season_number": null,
+    "tmdb_id": "82684",
+    "tmdb_site_id": "tv/82684/season/4",
+    "tmdb_season_number": 4,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -102,6 +91,22 @@
     "link": null,
     "tmdb_id": "312849",
     "tmdb_site_id": "tv/312849",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "65942/season/1/episode/67",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 丧失篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8e/70/547888_46dnk.jpg",
+    "releaseDate": "2026-04-08",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "11话 /  2026年4月8日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942/season/1/episode/67",
+    "tmdb_site_id": "tv/65942/season/1/episode/67",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -235,6 +240,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
     "id": "260823",
     "type": "tmdb",
     "title": "乡下大叔成为剑圣 第二季",
@@ -269,17 +285,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
-  },
-  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
@@ -312,6 +317,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+    "releaseDate": "2021-01-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -339,22 +360,6 @@
     "link": null,
     "tmdb_id": "1575337",
     "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
-    "releaseDate": "2021-01-10",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

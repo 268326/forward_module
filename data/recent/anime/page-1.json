@@ -134,7 +134,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",
@@ -370,19 +370,14 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "325052",
-    "type": "tmdb",
-    "title": "从后面来的神威先生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
-    "link": null,
-    "tmdb_id": "325052",
-    "tmdb_site_id": "tv/325052",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
   }
 ]
