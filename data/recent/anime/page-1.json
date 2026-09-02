@@ -99,7 +99,7 @@
     "id": "300112",
     "type": "tmdb",
     "title": "BanG Dream! YUME∞MITA",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_coPXm.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
     "rating": "5.5",
@@ -144,22 +144,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "79166",
     "type": "tmdb",
     "title": "碧蓝之海 第三季",
@@ -172,6 +156,22 @@
     "tmdb_id": "79166",
     "tmdb_site_id": "tv/79166/season/3",
     "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -208,22 +208,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280564",
+    "id": "278043/season/1/episode/13",
     "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
-    "releaseDate": "2026-08-02",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "6.7",
-    "description": "该动画讲述主角关潮因缘际会进入“记忆管理局”，由此与管理员方糖、百重等人一起克服难关、共同成长的故事。作品拥有新颖独特的世界观设定与细腻治愈的情感内核，展现一个普通人如何放下过去、直面当下、找回勇气。",
+    "rating": "7.7",
+    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
+    "tmdb_id": "278043/season/1/episode/13",
+    "tmdb_site_id": "tv/278043/season/1/episode/13",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "296101",
@@ -237,22 +235,6 @@
     "link": null,
     "tmdb_id": "296101",
     "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "278043/season/1/episode/13",
-    "type": "tmdb",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043/season/1/episode/13",
-    "tmdb_site_id": "tv/278043/season/1/episode/13",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -288,6 +270,24 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "6.7",
+    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "30984/season/2/episode/41",
