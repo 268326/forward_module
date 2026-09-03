@@ -80,22 +80,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312849",
-    "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": null,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942/season/1/episode/67",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 丧失篇",
@@ -107,6 +91,22 @@
     "link": null,
     "tmdb_id": "65942/season/1/episode/67",
     "tmdb_site_id": "tv/65942/season/1/episode/67",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312849",
+    "type": "tmdb",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "link": null,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -128,22 +128,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "222623",
-    "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
-    "link": null,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -156,6 +140,22 @@
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "222623",
+    "type": "tmdb",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "releaseDate": "2026-07-17",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+    "link": null,
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -192,22 +192,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043",
-    "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -219,6 +203,22 @@
     "link": null,
     "tmdb_id": "270603",
     "tmdb_site_id": "tv/270603",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "278043",
+    "type": "tmdb",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": null,
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -301,6 +301,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "1575337",
+    "type": "tmdb",
+    "title": "超辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
+    "link": null,
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
@@ -333,22 +349,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -365,18 +365,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312522",
+    "id": "94664",
     "type": "tmdb",
-    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
-    "releaseDate": "2026-04-07",
+    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+    "releaseDate": "2023-07-02",
     "mediaType": "tv",
-    "rating": "7.1",
-    "description": "12话 /  2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "rating": "7.3",
+    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
     "link": null,
-    "tmdb_id": "312522",
-    "tmdb_site_id": "tv/312522",
-    "tmdb_season_number": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }
