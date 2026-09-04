@@ -64,22 +64,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "250008",
-    "type": "tmdb",
-    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_C4q4C.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.0",
-    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
-    "link": null,
-    "tmdb_id": "250008",
-    "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "65942/season/1/episode/67",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 丧失篇",
@@ -91,6 +75,22 @@
     "link": null,
     "tmdb_id": "65942/season/1/episode/67",
     "tmdb_site_id": "tv/65942/season/1/episode/67",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "250008",
+    "type": "tmdb",
+    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_C4q4C.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.0",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
+    "link": null,
+    "tmdb_id": "250008",
+    "tmdb_site_id": "tv/250008",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -176,22 +176,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "302051",
-    "type": "tmdb",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": null,
-    "tmdb_id": "302051",
-    "tmdb_site_id": "tv/302051",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -219,6 +203,22 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "302051",
+    "type": "tmdb",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "link": null,
+    "tmdb_id": "302051",
+    "tmdb_site_id": "tv/302051",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -267,6 +267,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "139512",
+    "type": "tmdb",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "4.8",
+    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "314554",
     "type": "tmdb",
     "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
@@ -283,22 +299,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "139512",
-    "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "4.8",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "1575337",

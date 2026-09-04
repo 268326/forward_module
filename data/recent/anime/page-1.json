@@ -224,22 +224,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "Grow Up Show ～向日葵马戏团～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
-    "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
@@ -251,6 +235,22 @@
     "link": null,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296101",
+    "type": "tmdb",
+    "title": "Grow Up Show ～向日葵马戏团～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+    "link": null,
+    "tmdb_id": "296101",
+    "tmdb_site_id": "tv/296101",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
