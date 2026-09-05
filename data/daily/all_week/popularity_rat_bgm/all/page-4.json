@@ -22,6 +22,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "296756",
+    "type": "tmdb",
+    "title": "柯蒂斯总统",
+    "posterPath": "https://image.tmdb.org/t/p/w500/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
+    "releaseDate": "2026-07-26",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机，从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
+    "link": null,
+    "bgm_id": "574041",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "296756",
+    "tmdb_site_id": "tv/296756",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "481295",
     "type": "link",
     "title": "X战警97 第二季",
@@ -70,28 +92,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机，从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 17,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
