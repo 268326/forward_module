@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "565701",
     "bgm_score": 5.8,
-    "bgm_rating_total": 226,
+    "bgm_rating_total": 227,
     "bgm_weekday_id": 3,
     "tmdb_id": "260823",
     "tmdb_site_id": "tv/260823/season/2",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "579246",
     "bgm_score": 4.6,
-    "bgm_rating_total": 203,
+    "bgm_rating_total": 205,
     "bgm_weekday_id": 1,
     "tmdb_id": "298831",
     "tmdb_site_id": "tv/298831",
@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "528828",
     "bgm_score": 5.3,
-    "bgm_rating_total": 187,
+    "bgm_rating_total": 188,
     "bgm_weekday_id": 1,
     "tmdb_id": "123528",
     "tmdb_site_id": "tv/123528/season/2",
@@ -430,6 +430,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "658254",
+    "type": "link",
+    "title": "迷你幼女战记2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/658254",
+    "bgm_id": "658254",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "323839",
     "type": "tmdb",
     "title": "东大高武学院",
@@ -450,20 +465,5 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "迷你幼女战记2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/658254",
-    "bgm_id": "658254",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 3
   }
 ]

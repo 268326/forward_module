@@ -16,22 +16,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "258348",
-    "type": "tmdb",
-    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
-    "link": null,
-    "tmdb_id": "258348",
-    "tmdb_site_id": "tv/258348/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -44,6 +28,22 @@
     "tmdb_id": "82684",
     "tmdb_site_id": "tv/82684/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "258348",
+    "type": "tmdb",
+    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "link": null,
+    "tmdb_id": "258348",
+    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -160,22 +160,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "209867/season/1/episode/29",
-    "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
-    "link": null,
-    "tmdb_id": "209867/season/1/episode/29",
-    "tmdb_site_id": "tv/209867/season/1/episode/29",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -187,6 +171,22 @@
     "link": null,
     "tmdb_id": "270603",
     "tmdb_site_id": "tv/270603",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "209867/season/1/episode/29",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867/season/1/episode/29",
+    "tmdb_site_id": "tv/209867/season/1/episode/29",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -208,6 +208,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
     "id": "302051",
     "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
@@ -222,17 +233,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
   },
   {
     "id": "286346",
@@ -317,22 +317,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280049",
-    "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
-    "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "94664",
     "type": "tmdb",
     "title": "无职转生～到了异世界就拿出真本事～",
@@ -365,18 +349,34 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94664",
+    "id": "280049",
     "type": "tmdb",
-    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
-    "releaseDate": "2023-07-02",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "7.3",
-    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
+    "rating": "5.9",
+    "description": "2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
     "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_id": "280049",
+    "tmdb_site_id": "tv/280049/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "67676",
+    "type": "tmdb",
+    "title": "齐木楠雄的灾难",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/28/181354_smUU3.jpg",
+    "releaseDate": "2016-07-10",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "24话 /  2016年7月10日 / 桜井弘明 / 麻生周一（集英社「週刊少年ジャンプ」連載） / 音地正行",
+    "link": null,
+    "tmdb_id": "67676",
+    "tmdb_site_id": "tv/67676",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }
