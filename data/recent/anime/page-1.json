@@ -240,22 +240,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308403",
-    "type": "tmdb",
-    "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
-    "link": null,
-    "tmdb_id": "308403",
-    "tmdb_site_id": "tv/308403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "296101",
     "type": "tmdb",
     "title": "Grow Up Show ～向日葵马戏团～",
@@ -267,6 +251,22 @@
     "link": null,
     "tmdb_id": "296101",
     "tmdb_site_id": "tv/296101",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "308403",
+    "type": "tmdb",
+    "title": "炒翻天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
+    "link": null,
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -338,17 +338,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
-  },
-  {
     "id": "69346",
     "type": "tmdb",
     "title": "幼女战记 第二季",
@@ -363,6 +352,17 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "643828",
+    "type": "link",
+    "title": "缎带英雄",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
+    "releaseDate": "2026-08-08",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
+    "link": "https://bgm.tv/subject/643828"
   },
   {
     "id": "153217",

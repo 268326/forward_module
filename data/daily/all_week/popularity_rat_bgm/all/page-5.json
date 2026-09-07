@@ -1,20 +1,5 @@
 [
   {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "4.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "329125",
     "type": "tmdb",
     "title": "万古至尊：李云霄传",
@@ -30,28 +15,6 @@
     "bgm_weekday_id": 1,
     "tmdb_id": "329125",
     "tmdb_site_id": "tv/329125",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "330150",
-    "type": "tmdb",
-    "title": "死灵法师！我即是天灾",
-    "posterPath": "https://image.tmdb.org/t/p/w500/aQrnpoBqwNYdLgZ42k3acwKiah9.jpg",
-    "releaseDate": "2026-07-24",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "改编自飞卢小说网同名小说。 游戏降临现实，世界规则颠覆，人类进入全民转职时代。 机遇之下暗流汹涌，深渊的魔族和龙族同样觊觎新世界，与人类展开旷日持久的战争。 穿越者林默语转职成为该世界唯一隐藏职业——死灵法师，凭借其独特的能力体系和神级天赋，一路不断升级变强，一人成军，为神夏帝国抵御深渊异族的入侵，护国安危，成为打破3方鼎立的破局者，登顶成为世界之王。",
-    "link": null,
-    "bgm_id": "662680",
-    "bgm_score": 1.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "330150",
-    "tmdb_site_id": "tv/330150",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -280,7 +243,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/f5wjCX7c0uM0igS4wUoRF5NiiYm.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "tv",
-    "rating": "6.7",
+    "rating": "6.3",
     "description": "[星期五]",
     "link": null,
     "bgm_id": "663695",
