@@ -150,21 +150,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "574794",
-    "type": "link",
-    "title": "是王者啊？ 第6季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
-    "releaseDate": "2026-07-23",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/574794",
-    "bgm_id": "574794",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "641326",
     "type": "link",
     "title": "妖神记 第十季",
@@ -178,6 +163,21 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "574794",
+    "type": "link",
+    "title": "是王者啊？ 第6季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
+    "releaseDate": "2026-07-23",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/574794",
+    "bgm_id": "574794",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
   },
   {
     "id": "619052",

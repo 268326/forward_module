@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "542603",
     "bgm_score": 5.5,
-    "bgm_rating_total": 167,
+    "bgm_rating_total": 168,
     "bgm_weekday_id": 6,
     "tmdb_id": "285993",
     "tmdb_site_id": "tv/285993",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "583862",
     "bgm_score": 4.6,
-    "bgm_rating_total": 150,
+    "bgm_rating_total": 151,
     "bgm_weekday_id": 7,
     "tmdb_id": "300267",
     "tmdb_site_id": "tv/300267",
@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "456081",
     "bgm_score": 5.2,
-    "bgm_rating_total": 149,
+    "bgm_rating_total": 150,
     "bgm_weekday_id": 1,
     "tmdb_id": "284581",
     "tmdb_site_id": "tv/284581",
@@ -246,7 +246,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 7
   },
   {
@@ -261,7 +261,7 @@
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
     "bgm_score": 4.5,
-    "bgm_rating_total": 65,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 7
   },
   {
@@ -356,7 +356,7 @@
     "link": "http://bgm.tv/subject/500458",
     "bgm_id": "500458",
     "bgm_score": 5.8,
-    "bgm_rating_total": 35,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 3
   },
   {
@@ -400,6 +400,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "572768",
+    "type": "link",
+    "title": "一念永恒 完结季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
+    "releaseDate": "2026-07-22",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/572768",
+    "bgm_id": "572768",
+    "bgm_score": 6.9,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "481295",
     "type": "link",
     "title": "X战警97 第二季",
@@ -415,32 +430,17 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "572768",
-    "type": "link",
-    "title": "一念永恒 完结季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fa/da/572768_iX280.jpg",
-    "releaseDate": "2026-07-22",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/572768",
-    "bgm_id": "572768",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 17,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "293629/season/1/episode/13",
     "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/c5/ce/612697_fvrFF.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "[星期二]",
     "link": null,
     "bgm_id": "612697",
-    "bgm_score": 5.6,
+    "bgm_score": 5.5,
     "bgm_rating_total": 12,
     "bgm_weekday_id": 2,
     "tmdb_id": "293629/season/1/episode/13",
