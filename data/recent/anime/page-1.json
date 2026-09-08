@@ -192,22 +192,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "287028",
-    "type": "tmdb",
-    "title": "画完这个再去死",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
-    "link": null,
-    "tmdb_id": "287028",
-    "tmdb_site_id": "tv/287028",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "278043/season/1/episode/13",
     "type": "tmdb",
     "title": "相反的你和我 第二季",
@@ -219,6 +203,22 @@
     "link": null,
     "tmdb_id": "278043/season/1/episode/13",
     "tmdb_site_id": "tv/278043/season/1/episode/13",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "287028",
+    "type": "tmdb",
+    "title": "画完这个再去死",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+    "link": null,
+    "tmdb_id": "287028",
+    "tmdb_site_id": "tv/287028",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -354,17 +354,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "643828",
-    "type": "link",
-    "title": "缎带英雄",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/65/643828_t6U99.jpg",
-    "releaseDate": "2026-08-08",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "1话 /  2026年8月8日 / 五十嵐祐貴 / 新垣一成",
-    "link": "https://bgm.tv/subject/643828"
-  },
-  {
     "id": "153217",
     "type": "tmdb",
     "title": "二十世纪电气目录",
@@ -376,6 +365,22 @@
     "link": null,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "325052",
+    "type": "tmdb",
+    "title": "从后面来的神威先生",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "link": null,
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
