@@ -134,7 +134,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "6.8",
     "description": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
     "tmdb_id": "312266",
@@ -160,22 +160,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "296286",
     "type": "tmdb",
     "title": "在超市后门吸烟的二人",
@@ -192,13 +176,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "278043/season/1/episode/13",
     "type": "tmdb",
     "title": "相反的你和我 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.8",
+    "rating": "7.7",
     "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
     "tmdb_id": "278043/season/1/episode/13",
@@ -240,22 +240,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "Grow Up Show ～向日葵马戏团～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
-    "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
@@ -267,6 +251,22 @@
     "link": null,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "296101",
+    "type": "tmdb",
+    "title": "Grow Up Show ～向日葵马戏团～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+    "link": null,
+    "tmdb_id": "296101",
+    "tmdb_site_id": "tv/296101",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -304,31 +304,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280564",
-    "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
-    "releaseDate": "2026-08-02",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
-    "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "255358",
     "type": "tmdb",
     "title": "攻壳机动队 THE GHOST IN THE SHELL",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
     "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
     "link": null,
     "tmdb_id": "255358",
@@ -352,6 +334,24 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "153217",
