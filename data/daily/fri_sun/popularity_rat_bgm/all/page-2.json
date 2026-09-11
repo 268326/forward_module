@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 5.8,
-    "bgm_rating_total": 125,
+    "bgm_rating_total": 126,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
@@ -83,7 +83,7 @@
     "id": "549975",
     "type": "link",
     "title": "神通安昂：最后的气宗",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/f8/549975_58HUD.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/01/f8/549975_swmz7.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "anime",
     "rating": "6.6",
@@ -110,6 +110,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.6",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.6,
+    "bgm_rating_total": 74,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "317256",
     "type": "tmdb",
     "title": "人造人009 涅墨西斯",
@@ -130,21 +145,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.6",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 73,
-    "bgm_weekday_id": 7
   },
   {
     "id": "315054",
