@@ -1,5 +1,25 @@
 [
   {
+    "id": "326191",
+    "type": "tmdb",
+    "title": "拯救替身千金的是冷酷无情冰之王子的爱",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/96/aa/638995_mM0aJ.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "638995",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "326191",
+    "tmdb_site_id": "tv/326191",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "329026",
     "type": "tmdb",
     "title": "李熊猫",
@@ -18,28 +38,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296756",
-    "type": "tmdb",
-    "title": "柯蒂斯总统",
-    "posterPath": "https://image.tmdb.org/t/p/w500/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-    "releaseDate": "2026-07-26",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机，从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-    "link": null,
-    "bgm_id": "574041",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "296756",
-    "tmdb_site_id": "tv/296756",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -150,8 +148,8 @@
     "description": "乱世之下，妖崇横生，奸佞当道。又值幽界入侵，人、幽两界势力荼毒人间，捕蛇者许应因看不惯为幽界卖命的草头神欺压百姓，反抗犯下弑神之罪，又出手打死了不作为的朝廷官员，遭两界势力追杀，开启了逃亡的生涯…",
     "link": null,
     "bgm_id": "491578",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 13,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 6,
     "tmdb_id": "326695",
     "tmdb_site_id": "tv/326695",
@@ -197,6 +195,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "658254",
+    "type": "link",
+    "title": "迷你幼女战记2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.1",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/658254",
+    "bgm_id": "658254",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "637339",
     "type": "link",
     "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
@@ -210,21 +223,6 @@
     "bgm_score": 6.1,
     "bgm_rating_total": 9,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "迷你幼女战记2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/658254",
-    "bgm_id": "658254",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 3
   },
   {
     "id": "323839",

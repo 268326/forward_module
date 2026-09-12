@@ -20,6 +20,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "658254",
+    "type": "link",
+    "title": "迷你幼女战记2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.1",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/658254",
+    "bgm_id": "658254",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "637339",
     "type": "link",
     "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
@@ -33,21 +48,6 @@
     "bgm_score": 6.1,
     "bgm_rating_total": 9,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "迷你幼女战记2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/658254",
-    "bgm_id": "658254",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 3
   },
   {
     "id": "662006",
