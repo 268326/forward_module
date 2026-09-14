@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "563745",
     "bgm_score": 3.9,
-    "bgm_rating_total": 156,
+    "bgm_rating_total": 158,
     "bgm_weekday_id": 6,
     "tmdb_id": "293489",
     "tmdb_site_id": "tv/293489",
@@ -31,13 +31,28 @@
     "link": null,
     "bgm_id": "529723",
     "bgm_score": 5.8,
-    "bgm_rating_total": 128,
+    "bgm_rating_total": 129,
     "bgm_weekday_id": 6,
     "tmdb_id": "240576",
     "tmdb_site_id": "tv/240576/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 117,
+    "bgm_weekday_id": 7
   },
   {
     "id": "302824",
@@ -51,28 +66,13 @@
     "link": null,
     "bgm_id": "595106",
     "bgm_score": 6.2,
-    "bgm_rating_total": 107,
+    "bgm_rating_total": 108,
     "bgm_weekday_id": 7,
     "tmdb_id": "302824",
     "tmdb_site_id": "tv/302824",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 102,
-    "bgm_weekday_id": 7
   },
   {
     "id": "307585",
@@ -106,7 +106,7 @@
     "link": "http://bgm.tv/subject/549975",
     "bgm_id": "549975",
     "bgm_score": 6.6,
-    "bgm_rating_total": 97,
+    "bgm_rating_total": 98,
     "bgm_weekday_id": 6
   },
   {
@@ -121,7 +121,7 @@
     "link": "http://bgm.tv/subject/668108",
     "bgm_id": "668108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 7
   },
   {

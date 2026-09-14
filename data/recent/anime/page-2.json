@@ -349,15 +349,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "622288",
-    "type": "link",
+    "id": "311842",
+    "type": "tmdb",
     "title": "FX战士久留美",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_R72Y5.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
     "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "8.9",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
-    "link": "https://bgm.tv/subject/622288"
+    "link": null,
+    "tmdb_id": "311842",
+    "tmdb_site_id": "tv/311842",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326788",
