@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "621835",
     "bgm_score": 4.5,
-    "bgm_rating_total": 184,
+    "bgm_rating_total": 185,
     "bgm_weekday_id": 3,
     "tmdb_id": "297826",
     "tmdb_site_id": "tv/297826",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "454083",
     "bgm_score": 6.5,
-    "bgm_rating_total": 163,
+    "bgm_rating_total": 164,
     "bgm_weekday_id": 7,
     "tmdb_id": "109805",
     "tmdb_site_id": "tv/109805/season/2",
@@ -166,12 +166,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "4.7",
+    "rating": "4.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/633354",
     "bgm_id": "633354",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 119,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 123,
     "bgm_weekday_id": 7
   },
   {
@@ -327,6 +327,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "326844",
+    "type": "tmdb",
+    "title": "百日成王",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "小饭店老板明被命运逼入绝境，为救挚爱同时为亲友复仇，他吞下真烈王灵魂与之共生，踏上了反抗假烈王之路。在百日之内，他与真烈王一起一路对抗财阀与贪官，凭借超强记忆习得失传魔法，逐步积累力量、伙伴与民心。誓要率领不断壮大的队伍推翻暴政，帮助真烈王夺回王位，完成复仇、救回爱人，还天下安宁。",
+    "link": null,
+    "bgm_id": "607929",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 54,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "326844",
+    "tmdb_site_id": "tv/326844",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "324335",
     "type": "tmdb",
     "title": "岩元前辈的推荐",
@@ -345,28 +367,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "326844",
-    "type": "tmdb",
-    "title": "百日成王",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "小饭店老板明被命运逼入绝境，为救挚爱同时为亲友复仇，他吞下真烈王灵魂与之共生，踏上了反抗假烈王之路。在百日之内，他与真烈王一起一路对抗财阀与贪官，凭借超强记忆习得失传魔法，逐步积累力量、伙伴与民心。誓要率领不断壮大的队伍推翻暴政，帮助真烈王夺回王位，完成复仇、救回爱人，还天下安宁。",
-    "link": null,
-    "bgm_id": "607929",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 51,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "326844",
-    "tmdb_site_id": "tv/326844",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "295840",
@@ -435,7 +435,7 @@
     "link": null,
     "bgm_id": "603352",
     "bgm_score": 6.4,
-    "bgm_rating_total": 35,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 4,
     "tmdb_id": "110837",
     "tmdb_site_id": "tv/110837/season/2",
