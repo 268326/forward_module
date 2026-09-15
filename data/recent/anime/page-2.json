@@ -112,6 +112,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
     "id": "209867/season/1/episode/29",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -126,17 +137,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
   },
   {
     "id": "283905",
@@ -171,22 +171,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "270603",
-    "type": "tmdb",
-    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "4.9",
-    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
-    "link": null,
-    "tmdb_id": "270603",
-    "tmdb_site_id": "tv/270603",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "302051",
     "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
@@ -198,6 +182,22 @@
     "link": null,
     "tmdb_id": "302051",
     "tmdb_site_id": "tv/302051",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "270603",
+    "type": "tmdb",
+    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "link": null,
+    "tmdb_id": "270603",
+    "tmdb_site_id": "tv/270603",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -219,22 +219,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "139512",
-    "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "4.8",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "67676",
     "type": "tmdb",
     "title": "齐木楠雄的灾难",
@@ -247,6 +231,22 @@
     "tmdb_id": "67676",
     "tmdb_site_id": "tv/67676",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "139512",
+    "type": "tmdb",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "4.8",
+    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -299,6 +299,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "311842",
+    "type": "tmdb",
+    "title": "FX战士久留美",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+    "link": null,
+    "tmdb_id": "311842",
+    "tmdb_site_id": "tv/311842",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "314554",
     "type": "tmdb",
     "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
@@ -313,6 +331,25 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "326788",
+    "type": "tmdb",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
+    "link": null,
+    "tmdb_id": "326788",
+    "tmdb_site_id": "tv/326788",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "PL"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -347,42 +384,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "311842",
-    "type": "tmdb",
-    "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
-    "link": null,
-    "tmdb_id": "311842",
-    "tmdb_site_id": "tv/311842",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "326788",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
-    "link": null,
-    "tmdb_id": "326788",
-    "tmdb_site_id": "tv/326788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "PL"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]
