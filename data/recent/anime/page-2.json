@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284029",
-    "type": "tmdb",
-    "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
-    "link": null,
-    "tmdb_id": "284029",
-    "tmdb_site_id": "tv/284029",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867/season/1/episode/29",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -128,15 +112,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "243430",
-    "type": "link",
-    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
-    "releaseDate": "2026-01-30",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
-    "link": "https://bgm.tv/subject/243430"
+    "id": "284029",
+    "type": "tmdb",
+    "title": "猫与龙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
+    "link": null,
+    "tmdb_id": "284029",
+    "tmdb_site_id": "tv/284029",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "302051",
@@ -187,22 +176,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "270603",
-    "type": "tmdb",
-    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "4.9",
-    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
-    "link": null,
-    "tmdb_id": "270603",
-    "tmdb_site_id": "tv/270603",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "311842",
     "type": "tmdb",
     "title": "FX战士久留美",
@@ -221,6 +194,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "270603",
+    "type": "tmdb",
+    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "link": null,
+    "tmdb_id": "270603",
+    "tmdb_site_id": "tv/270603",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
@@ -235,6 +224,36 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "326788",
+    "type": "tmdb",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
+    "link": null,
+    "tmdb_id": "326788",
+    "tmdb_site_id": "tv/326788",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "PL"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "554779",
+    "type": "link",
+    "title": "学生会也有洞！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
+    "link": "https://bgm.tv/subject/554779"
   },
   {
     "id": "1575337",
@@ -269,25 +288,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326788",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
-    "link": null,
-    "tmdb_id": "326788",
-    "tmdb_site_id": "tv/326788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "PL"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "139512",
     "type": "tmdb",
     "title": "恋爱游戏世界对路人角色很不友好 第二季",
@@ -302,17 +302,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "554779",
-    "type": "link",
-    "title": "学生会也有洞！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
-    "link": "https://bgm.tv/subject/554779"
   },
   {
     "id": "286346",
@@ -331,22 +320,31 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "314554",
+    "id": "243430",
+    "type": "link",
+    "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a0/6f/243430_ntVVy.jpg",
+    "releaseDate": "2026-01-30",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "1话 /  2026年1月30日 / 村瀬修功 / 富野由悠季・矢立肇『機動戦士ガンダム』より / Pablo Uchida、恩田尚之、工原しげき",
+    "link": "https://bgm.tv/subject/243430"
+  },
+  {
+    "id": "260823",
     "type": "tmdb",
-    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
-    "releaseDate": "2026-07-01",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "tv",
-    "rating": "7.3",
-    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
+    "rating": "5.8",
+    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
     "link": null,
-    "tmdb_id": "314554",
-    "tmdb_site_id": "tv/314554",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_id": "260823",
+    "tmdb_site_id": "tv/260823/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "280049",
@@ -365,19 +363,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "260823",
+    "id": "314554",
     "type": "tmdb",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hGWyRXXMUtR8csEkd4FIhIYGEOP.jpg",
+    "releaseDate": "2026-07-01",
     "mediaType": "tv",
-    "rating": "5.8",
-    "description": "2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "rating": "7.4",
+    "description": "从现代日本转生而来，将毕生精力倾注于魔导研究的大贤者埃弗塔尔。可当他得知自己的毫无天赋时，在绝望与悔恨中结束了这一生。\n\n——四百年后。埃弗塔尔带着他前世的知识与魔法，开启了第二回转生，立下决心再次向魔导之巅攀登。然而，等待他的却是一个魔法文明衰退的世界。他所施展的魔法，已被世人称之为“奇迹”领域——\n\n即便如此，他依然坚信自己的魔导还能更上一层楼，并在旅途途中与偶然相遇的奴隶少女阿纳斯塔希娅一同前往魔法学院参加入学考试。\n\n但令人意想不到的是，他们俩人竟碰见了那位跨越了四百多年仍对着埃弗塔尔念念不忘的往昔弟子，现今是魔族中屈指可数的魔法师兼名门学院的院长玛琳。\n\n从绝望之中转生的贤者，将要颠覆世界常识。非同凡响的奇幻学院故事，就此开幕！",
     "link": null,
-    "tmdb_id": "260823",
-    "tmdb_site_id": "tv/260823/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_id": "314554",
+    "tmdb_site_id": "tv/314554",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
