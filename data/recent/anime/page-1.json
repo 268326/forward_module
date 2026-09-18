@@ -64,22 +64,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "295071",
-    "type": "tmdb",
-    "title": "再见菈菈",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
-    "link": null,
-    "tmdb_id": "295071",
-    "tmdb_site_id": "tv/295071",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -91,6 +75,22 @@
     "link": null,
     "tmdb_id": "286345",
     "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "295071",
+    "type": "tmdb",
+    "title": "再见菈菈",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": null,
+    "tmdb_id": "295071",
+    "tmdb_site_id": "tv/295071",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -224,22 +224,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "287028",
-    "type": "tmdb",
-    "title": "画完这个再去死",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "7.8",
-    "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
-    "link": null,
-    "tmdb_id": "287028",
-    "tmdb_site_id": "tv/287028",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "30984/season/2/episode/41",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
@@ -251,6 +235,22 @@
     "link": null,
     "tmdb_id": "30984/season/2/episode/41",
     "tmdb_site_id": "tv/30984/season/2/episode/41",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "287028",
+    "type": "tmdb",
+    "title": "画完这个再去死",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+    "link": null,
+    "tmdb_id": "287028",
+    "tmdb_site_id": "tv/287028",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
