@@ -1,14 +1,21 @@
 [
   {
-    "id": "590553",
-    "type": "link",
-    "title": "铁旅！邂逅铁道少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
+    "id": "302020",
+    "type": "tmdb",
+    "title": "铁旅 邂逅铁道少女",
+    "posterPath": "https://image.tmdb.org/t/p/w500/joiFJ8iP3MIdM1BTQXO9BC81ZEm.jpg",
     "releaseDate": "2026-10-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月8日 / 星野美鈴 / トミーテック / 橋本尚典",
-    "link": "https://bgm.tv/subject/590553"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
+    "link": null,
+    "tmdb_id": "302020",
+    "tmdb_site_id": "tv/302020",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "300131",
@@ -92,7 +99,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/61/bf/571910_LUlnW.jpg",
     "releaseDate": "2026-06-30",
     "mediaType": "tv",
-    "rating": "4.2",
+    "rating": "4.1",
     "description": "12话 /  2026年6月30日 / 熨斗谷充孝 / あーもんど（「アース・スター ルナ」アース・スター エンターテイメント刊）；漫画：えとうヨナ / 永井泰平",
     "link": null,
     "tmdb_id": "296436",
@@ -188,7 +195,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d8/51/231414_8I56c.jpg",
     "releaseDate": "2019-07-08",
     "mediaType": "tv",
-    "rating": "5.0",
+    "rating": "5.1",
     "description": "13话 /  2019年7月8日 / よしもときんじ / 白米良（オーバーラップ文庫刊） / 小島智加",
     "link": null,
     "tmdb_id": "86034",

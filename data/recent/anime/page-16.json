@@ -91,15 +91,22 @@
     "link": "https://bgm.tv/subject/331887"
   },
   {
-    "id": "625799",
-    "type": "link",
+    "id": "313346",
+    "type": "tmdb",
     "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/3a/625799_1myYL.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/d2twigOlajyMBmqjZY0z0XCBwGC.jpg",
     "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月6日 / 本間修 / 六志麻あさ；漫画：業務用餅（講談社「月マガ基地」連載） / 清澤唯人",
-    "link": "https://bgm.tv/subject/625799"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "强化赋予魔术师雷恩，某天突然被公会流放。\n\n　　但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。\n\n　　聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。\n\n　　即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。\n\n　　故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。\n\n　　然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。\n\n　　拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。\n\n　　在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。\n\n　　这是一个失去归宿的人们，自己去抓住生存方式的故事。\n\n　　雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
+    "link": null,
+    "tmdb_id": "313346",
+    "tmdb_site_id": "tv/313346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "69285",
