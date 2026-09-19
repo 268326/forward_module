@@ -20,6 +20,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "303287",
+    "type": "tmdb",
+    "title": "一斩苍穹",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7rDjnBLbJhFN6oLE2uVd9bDx0bU.jpg",
+    "releaseDate": "2026-07-28",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
+    "link": null,
+    "bgm_id": "516426",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "303287",
+    "tmdb_site_id": "tv/303287",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "329026",
     "type": "tmdb",
     "title": "李熊猫",
@@ -35,28 +57,6 @@
     "bgm_weekday_id": 3,
     "tmdb_id": "329026",
     "tmdb_site_id": "tv/329026",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "303287",
-    "type": "tmdb",
-    "title": "一斩苍穹",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7rDjnBLbJhFN6oLE2uVd9bDx0bU.jpg",
-    "releaseDate": "2026-07-28",
-    "mediaType": "tv",
-    "rating": "9.0",
-    "description": "从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50灵石，聆听我的复仇上位计划",
-    "link": null,
-    "bgm_id": "516426",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 19,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "303287",
-    "tmdb_site_id": "tv/303287",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "CN"
@@ -85,11 +85,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/48/4a/481295_Z8c8P.jpg",
     "releaseDate": "2026-07-01",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/481295",
     "bgm_id": "481295",
-    "bgm_score": 5.8,
+    "bgm_score": 5.7,
     "bgm_rating_total": 17,
     "bgm_weekday_id": 3
   },
@@ -235,7 +235,7 @@
     "description": "灵气复苏的都市，妖魔入侵威胁来袭，天生废灵根的少年秦雨体内意外觉醒神力，被选中成为神秘至强功法万物生的传承人。秦雨加入东大高武学院后逐渐结识侠肝义胆的一群伙伴，一起修炼成长，共同守护校园和人族星球。",
     "link": null,
     "bgm_id": "592111",
-    "bgm_score": 3.0,
+    "bgm_score": 2.9,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 4,
     "tmdb_id": "323839",
@@ -321,6 +321,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "5.1",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "665747",
     "type": "link",
     "title": "「斩-ZAN-」试播片",
@@ -333,21 +348,6 @@
     "bgm_id": "665747",
     "bgm_score": 3.4,
     "bgm_rating_total": 7,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "589368",
-    "type": "link",
-    "title": "如果历史是一群喵 大明皇朝篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/589368",
-    "bgm_id": "589368",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 5,
     "bgm_weekday_id": 6
   },
   {
