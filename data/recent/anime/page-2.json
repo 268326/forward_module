@@ -1,28 +1,12 @@
 [
   {
-    "id": "258348",
-    "type": "tmdb",
-    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
-    "link": null,
-    "tmdb_id": "258348",
-    "tmdb_site_id": "tv/258348/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "325052",
     "type": "tmdb",
     "title": "从后面来的神威先生",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
     "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
     "link": null,
     "tmdb_id": "325052",
@@ -44,6 +28,22 @@
     "tmdb_id": "308874",
     "tmdb_site_id": "tv/308874",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "258348",
+    "type": "tmdb",
+    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "link": null,
+    "tmdb_id": "258348",
+    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -112,6 +112,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "311842",
+    "type": "tmdb",
+    "title": "FX战士久留美",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
+    "link": null,
+    "tmdb_id": "311842",
+    "tmdb_site_id": "tv/311842",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "284029",
     "type": "tmdb",
     "title": "猫与龙",
@@ -126,40 +144,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "278043",
-    "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "311842",
-    "type": "tmdb",
-    "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
-    "link": null,
-    "tmdb_id": "311842",
-    "tmdb_site_id": "tv/311842",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "302051",
@@ -194,20 +178,31 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "270603",
+    "id": "278043",
     "type": "tmdb",
-    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
-    "releaseDate": "2026-07-02",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
     "mediaType": "tv",
-    "rating": "4.8",
-    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
-    "tmdb_id": "270603",
-    "tmdb_site_id": "tv/270603",
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "554779",
+    "type": "link",
+    "title": "学生会也有洞！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
+    "link": "https://bgm.tv/subject/554779"
   },
   {
     "id": "326788",
@@ -229,15 +224,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "554779",
-    "type": "link",
-    "title": "学生会也有洞！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
-    "link": "https://bgm.tv/subject/554779"
+    "id": "270603",
+    "type": "tmdb",
+    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "4.8",
+    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
+    "link": null,
+    "tmdb_id": "270603",
+    "tmdb_site_id": "tv/270603",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "222623",
@@ -252,22 +252,6 @@
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
     "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "67676",
-    "type": "tmdb",
-    "title": "齐木楠雄的灾难",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/28/181354_smUU3.jpg",
-    "releaseDate": "2016-07-10",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "24话 /  2016年7月10日 / 桜井弘明 / 麻生周一（集英社「週刊少年ジャンプ」連載） / 音地正行",
-    "link": null,
-    "tmdb_id": "67676",
-    "tmdb_site_id": "tv/67676",
-    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -320,6 +304,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "280049",
+    "type": "tmdb",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
+    "link": null,
+    "tmdb_id": "280049",
+    "tmdb_site_id": "tv/280049/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "260823",
     "type": "tmdb",
     "title": "乡下大叔成为剑圣 第二季",
@@ -331,22 +331,6 @@
     "link": null,
     "tmdb_id": "260823",
     "tmdb_site_id": "tv/260823/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "280049",
-    "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
-    "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -368,6 +352,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "260463",
+    "type": "tmdb",
+    "title": "黄泉使者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
+    "releaseDate": "2026-04-04",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
+    "link": null,
+    "tmdb_id": "260463",
+    "tmdb_site_id": "tv/260463",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "79166",

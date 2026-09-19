@@ -20,6 +20,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "633354",
+    "type": "link",
+    "title": "同一个研讨会的染谷同学是AV女优的事",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/633354",
+    "bgm_id": "633354",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 134,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "240576",
     "type": "tmdb",
     "title": "魔法光源股份有限公司 第二季",
@@ -38,21 +53,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "633354",
-    "type": "link",
-    "title": "同一个研讨会的染谷同学是AV女优的事",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f3/66/633354_zm82g.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/633354",
-    "bgm_id": "633354",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 132,
-    "bgm_weekday_id": 7
   },
   {
     "id": "302824",
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "613438",
     "bgm_score": 5.4,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 5,
     "tmdb_id": "307585",
     "tmdb_site_id": "tv/307585",
@@ -136,7 +136,7 @@
     "link": null,
     "bgm_id": "631018",
     "bgm_score": 5.5,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 6,
     "tmdb_id": "315054",
     "tmdb_site_id": "tv/315054",
@@ -225,6 +225,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "589368",
+    "type": "link",
+    "title": "如果历史是一群喵 大明皇朝篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
+    "releaseDate": "2026-07-11",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/589368",
+    "bgm_id": "589368",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "668586",
     "type": "link",
     "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
@@ -238,21 +253,6 @@
     "bgm_score": 5.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "589368",
-    "type": "link",
-    "title": "如果历史是一群喵 大明皇朝篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/589368",
-    "bgm_id": "589368",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "679578",
