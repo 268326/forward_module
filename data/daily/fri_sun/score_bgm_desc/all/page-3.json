@@ -1,25 +1,18 @@
 [
   {
-    "id": "328237",
-    "type": "tmdb",
-    "title": "普拉诺龙 硬核生物部",
-    "posterPath": "https://image.tmdb.org/t/p/w500/v7boMqycsIjOn3IQBPSFTLfwU1n.jpg",
+    "id": "662006",
+    "type": "link",
+    "title": "暗芝居 第十七季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
     "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "0.0",
+    "mediaType": "anime",
+    "rating": "3.4",
     "description": "[星期日]",
-    "link": null,
-    "bgm_id": "633711",
-    "bgm_score": 3.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "328237",
-    "tmdb_site_id": "tv/328237",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "link": "http://bgm.tv/subject/662006",
+    "bgm_id": "662006",
+    "bgm_score": 3.4,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 7
   },
   {
     "id": "659686",

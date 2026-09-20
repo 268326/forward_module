@@ -1,25 +1,18 @@
 [
   {
-    "id": "328237",
-    "type": "tmdb",
-    "title": "普拉诺龙 硬核生物部",
-    "posterPath": "https://image.tmdb.org/t/p/w500/v7boMqycsIjOn3IQBPSFTLfwU1n.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "0.0",
+    "id": "619052",
+    "type": "link",
+    "title": "做得很好！名作君 完全新作",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/dd/82/619052_B0qAA.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "anime",
+    "rating": "5.5",
     "description": "[星期日]",
-    "link": null,
-    "bgm_id": "633711",
-    "bgm_score": 3.0,
+    "link": "http://bgm.tv/subject/619052",
+    "bgm_id": "619052",
+    "bgm_score": 5.5,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "328237",
-    "tmdb_site_id": "tv/328237",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 7
   },
   {
     "id": "659686",
