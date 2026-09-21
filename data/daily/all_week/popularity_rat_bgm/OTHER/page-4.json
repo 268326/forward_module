@@ -1,5 +1,35 @@
 [
   {
+    "id": "637339",
+    "type": "link",
+    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "anime",
+    "rating": "6.1",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/637339",
+    "bgm_id": "637339",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "658254",
+    "type": "link",
+    "title": "迷你幼女战记2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/658254",
+    "bgm_id": "658254",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "293629/season/1/episode/13",
     "type": "tmdb",
     "title": "铠真传 武士军团 第2部分",
@@ -18,36 +48,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "658254",
-    "type": "link",
-    "title": "迷你幼女战记2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/21/658254_D50aA.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "anime",
-    "rating": "5.2",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/658254",
-    "bgm_id": "658254",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "637339",
-    "type": "link",
-    "title": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d0/a9/637339_93zPo.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/637339",
-    "bgm_id": "637339",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 1
   },
   {
     "id": "664856",
@@ -110,6 +110,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "679578",
+    "type": "link",
+    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
+    "releaseDate": "2026-07-25",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/679578",
+    "bgm_id": "679578",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "668586",
     "type": "link",
     "title": "Dodgers x ONE PIECE | 特別アニメーション映像 2026",
@@ -123,21 +138,6 @@
     "bgm_score": 5.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "679578",
-    "type": "link",
-    "title": "喜羊羊与灰太狼之破界山海诀番外篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/6f/679578_82PoC.jpg",
-    "releaseDate": "2026-07-25",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/679578",
-    "bgm_id": "679578",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "668113",
