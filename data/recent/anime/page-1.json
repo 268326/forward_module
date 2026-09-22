@@ -176,22 +176,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
-    "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
-    "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "278043/season/1/episode/13",
     "type": "tmdb",
     "title": "相反的你和我 第二季",
@@ -208,13 +192,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "285574",
+    "type": "tmdb",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "link": null,
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.4",
     "description": "12话 /  2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
     "link": null,
     "tmdb_id": "308403",
@@ -246,7 +246,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "releaseDate": "2026-07-25",
     "mediaType": "tv",
-    "rating": "8.0",
+    "rating": "7.9",
     "description": "10话 /  2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
     "link": null,
     "tmdb_id": "30984/season/2/episode/41",
@@ -342,27 +342,11 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "5.3",
+    "rating": "5.2",
     "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
     "link": null,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "325052",
-    "type": "tmdb",
-    "title": "从后面来的神威先生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
-    "link": null,
-    "tmdb_id": "325052",
-    "tmdb_site_id": "tv/325052",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -384,5 +368,21 @@
       "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "325052",
+    "type": "tmdb",
+    "title": "从后面来的神威先生",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "link": null,
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
