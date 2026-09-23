@@ -16,22 +16,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "258348",
     "type": "tmdb",
     "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -48,22 +32,54 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "311842",
+    "id": "308874",
     "type": "tmdb",
-    "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
-    "releaseDate": "2026-10-01",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
+    "rating": "6.3",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
     "link": null,
-    "tmdb_id": "311842",
-    "tmdb_site_id": "tv/311842",
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "CN"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "283938",
+    "type": "tmdb",
+    "title": "学生会也有洞！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
+    "link": null,
+    "tmdb_id": "283938",
+    "tmdb_site_id": "tv/283938",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "82684",
@@ -82,20 +98,23 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283938",
+    "id": "326788",
     "type": "tmdb",
-    "title": "学生会也有洞！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
+    "releaseDate": "2026-10-20",
     "mediaType": "tv",
-    "rating": "",
-    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
+    "rating": "0.0",
+    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
     "link": null,
-    "tmdb_id": "283938",
-    "tmdb_site_id": "tv/283938",
+    "tmdb_id": "326788",
+    "tmdb_site_id": "tv/326788",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP",
+      "PL"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "250008",
@@ -128,25 +147,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "326788",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
-    "link": null,
-    "tmdb_id": "326788",
-    "tmdb_site_id": "tv/326788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "PL"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "284029",
@@ -261,6 +261,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
+    "link": "https://bgm.tv/subject/656083"
+  },
+  {
     "id": "1575337",
     "type": "tmdb",
     "title": "超辉夜姬！",
@@ -277,15 +288,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "656083",
+    "id": "639938",
     "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/4f/639938_2JKQ7.jpg",
+    "releaseDate": "2026-09-25",
     "mediaType": "anime",
-    "rating": "5.9",
-    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
-    "link": "https://bgm.tv/subject/656083"
+    "rating": "7.7",
+    "description": "11话 /  2026年9月25日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/639938"
   },
   {
     "id": "286346",
@@ -299,6 +310,22 @@
     "link": null,
     "tmdb_id": "286346",
     "tmdb_site_id": "tv/286346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+    "releaseDate": "2021-01-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -336,46 +363,14 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "260823",
-    "type": "tmdb",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": null,
-    "tmdb_id": "260823",
-    "tmdb_site_id": "tv/260823/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "639938",
+    "id": "568244",
     "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/4f/639938_2JKQ7.jpg",
-    "releaseDate": "2026-09-25",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
+    "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.7",
-    "description": "11话 /  2026年9月25日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/639938"
-  },
-  {
-    "id": "280049",
-    "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
-    "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "rating": "",
+    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "link": "https://bgm.tv/subject/568244"
   }
 ]
