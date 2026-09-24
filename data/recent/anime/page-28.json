@@ -178,22 +178,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "333622",
-    "type": "tmdb",
-    "title": "借出去的魔力要用【分期还款】强制收回",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nPGwleNxxvvSV0iFtMt1c40pgJy.jpg",
+    "id": "606716",
+    "type": "link",
+    "title": "用【循环利息】强制收回借出的魔力",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/15/11/606716_Om183.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。\n\n　　然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。\n\n　　被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
-    "link": null,
-    "tmdb_id": "333622",
-    "tmdb_site_id": "tv/333622",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月3日 / 球野たかひろ（球野貴裕） / まさキチ；作画：飯島しんごう（「COMICメテオ」連載／フレックスコミックス刊） / 森和江",
+    "link": "https://bgm.tv/subject/606716"
   },
   {
     "id": "915403",
