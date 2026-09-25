@@ -1,5 +1,37 @@
 [
   {
+    "id": "153217",
+    "type": "tmdb",
+    "title": "二十世纪电气目录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
+    "link": null,
+    "tmdb_id": "153217",
+    "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "325052",
+    "type": "tmdb",
+    "title": "从后面来的神威先生",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+    "link": null,
+    "tmdb_id": "325052",
+    "tmdb_site_id": "tv/325052",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "258348",
     "type": "tmdb",
     "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -12,22 +44,6 @@
     "tmdb_id": "258348",
     "tmdb_site_id": "tv/258348/season/2",
     "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "283938",
-    "type": "tmdb",
-    "title": "学生会也有洞！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
-    "link": null,
-    "tmdb_id": "283938",
-    "tmdb_site_id": "tv/283938",
-    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -82,23 +98,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "326788",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
-    "link": null,
-    "tmdb_id": "326788",
-    "tmdb_site_id": "tv/326788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "PL"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "639938",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/4f/639938_2JKQ7.jpg",
+    "releaseDate": "2026-09-25",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "11话 /  2026年9月25日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/639938"
   },
   {
     "id": "82684",
@@ -133,22 +141,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312849",
-    "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": null,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "209867/season/1/episode/29",
     "type": "tmdb",
     "title": "葬送的芙莉莲 第二季",
@@ -160,6 +152,22 @@
     "link": null,
     "tmdb_id": "209867/season/1/episode/29",
     "tmdb_site_id": "tv/209867/season/1/episode/29",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312849",
+    "type": "tmdb",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "link": null,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -213,6 +221,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
+    "link": "https://bgm.tv/subject/656083"
+  },
+  {
     "id": "283905",
     "type": "tmdb",
     "title": "上伊那牡丹，酒醉身姿似百合花般",
@@ -227,28 +246,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "639938",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/4f/639938_2JKQ7.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "11话 /  2026年9月25日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/639938"
-  },
-  {
-    "id": "656083",
-    "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
-    "link": "https://bgm.tv/subject/656083"
   },
   {
     "id": "270603",
@@ -267,6 +264,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "link": "https://bgm.tv/subject/568244"
+  },
+  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
@@ -279,22 +287,6 @@
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
     "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -315,15 +307,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
-    "link": "https://bgm.tv/subject/568244"
+    "id": "1575337",
+    "type": "tmdb",
+    "title": "超辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
+    "link": null,
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "260463",
@@ -342,35 +339,37 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "286346",
+    "id": "260823",
     "type": "tmdb",
-    "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_ApStA.jpg",
-    "releaseDate": "2026-07-01",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
     "mediaType": "tv",
     "rating": "5.9",
-    "description": "12话 /  2026年7月1日 / 村川直哉 / あてきち（TOブックス刊） / 徳川恵梨",
+    "description": "12话 /  2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
     "link": null,
-    "tmdb_id": "286346",
-    "tmdb_site_id": "tv/286346",
-    "tmdb_season_number": null,
+    "tmdb_id": "260823",
+    "tmdb_site_id": "tv/260823/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "139512",
+    "id": "284580",
     "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "某暗部的少女共栖",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jpYQjrx6AIL5tbauVY4lqOZrw4Y.jpg",
+    "releaseDate": "2026-10-09",
     "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "rating": "0.0",
+    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_id": "284580",
+    "tmdb_site_id": "tv/284580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

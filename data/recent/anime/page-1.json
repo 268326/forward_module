@@ -22,7 +22,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
     "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.4",
     "description": "12话 /  2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
     "link": null,
     "tmdb_id": "312949",
@@ -134,7 +134,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
     "releaseDate": "2026-07-09",
     "mediaType": "tv",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
     "link": null,
     "tmdb_id": "296286",
@@ -338,6 +338,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "283938",
+    "type": "tmdb",
+    "title": "学生会也有洞！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_Ab0FB.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "",
+    "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
+    "link": null,
+    "tmdb_id": "283938",
+    "tmdb_site_id": "tv/283938",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "255358",
     "type": "tmdb",
     "title": "攻壳机动队 THE GHOST IN THE SHELL",
@@ -354,35 +370,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "153217",
+    "id": "326788",
     "type": "tmdb",
-    "title": "二十世纪电气目录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2GTseVGLsAZlw25PXFMi3UuI77.jpg",
+    "releaseDate": "2026-10-20",
     "mediaType": "tv",
-    "rating": "5.2",
-    "description": "13话 /  2026年7月5日 / 太田稔 / 結城弘 (KAエスマ文庫/京都アニメーション) / 岡村公平",
+    "rating": "0.0",
+    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
     "link": null,
-    "tmdb_id": "153217",
-    "tmdb_site_id": "tv/153217",
+    "tmdb_id": "326788",
+    "tmdb_site_id": "tv/326788",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "325052",
-    "type": "tmdb",
-    "title": "从后面来的神威先生",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "12话 /  2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
-    "link": null,
-    "tmdb_id": "325052",
-    "tmdb_site_id": "tv/325052",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP",
+      "PL"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]
