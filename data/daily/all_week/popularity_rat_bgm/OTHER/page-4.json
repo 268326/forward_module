@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/572768",
     "bgm_id": "572768",
     "bgm_score": 7.1,
-    "bgm_rating_total": 19,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 3
   },
   {
@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/481295",
     "bgm_id": "481295",
     "bgm_score": 5.5,
-    "bgm_rating_total": 18,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 3
   },
   {
@@ -41,7 +41,22 @@
     "link": "http://bgm.tv/subject/613039",
     "bgm_id": "613039",
     "bgm_score": 6.3,
-    "bgm_rating_total": 16,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "662006",
+    "type": "link",
+    "title": "暗芝居 第十七季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "anime",
+    "rating": "3.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/662006",
+    "bgm_id": "662006",
+    "bgm_score": 3.4,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 7
   },
   {
@@ -56,23 +71,8 @@
     "link": "http://bgm.tv/subject/664856",
     "bgm_id": "664856",
     "bgm_score": 5.2,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "662006",
-    "type": "link",
-    "title": "暗芝居 第十七季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/04/b0/662006_tnf6N.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "anime",
-    "rating": "3.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/662006",
-    "bgm_id": "662006",
-    "bgm_score": 3.4,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 7
   },
   {
     "id": "589368",
@@ -81,12 +81,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/66/56/589368_ze71z.jpg",
     "releaseDate": "2026-07-11",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/589368",
     "bgm_id": "589368",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 8,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 6
   },
   {
@@ -116,7 +116,7 @@
     "link": "http://bgm.tv/subject/679578",
     "bgm_id": "679578",
     "bgm_score": 7.8,
-    "bgm_rating_total": 5,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 6
   },
   {
@@ -135,6 +135,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "641326",
+    "type": "link",
+    "title": "妖神记 第十季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
+    "releaseDate": "2026-07-18",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/641326",
+    "bgm_id": "641326",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "668113",
     "type": "link",
     "title": "《PUBG MOBILE：绝地求生M》×《火影忍者疾风传》",
@@ -150,33 +165,18 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "641326",
-    "type": "link",
-    "title": "妖神记 第十季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/e8/641326_FV9IJ.jpg",
-    "releaseDate": "2026-07-18",
-    "mediaType": "anime",
-    "rating": "4.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/641326",
-    "bgm_id": "641326",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "574794",
     "type": "link",
     "title": "是王者啊？ 第6季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/53/ba/574794_Trtz9.jpg",
     "releaseDate": "2026-07-23",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "4.3",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/574794",
     "bgm_id": "574794",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 4
   },
   {
@@ -186,12 +186,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/dd/82/619052_B0qAA.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "anime",
-    "rating": "5.5",
+    "rating": "5.3",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/619052",
     "bgm_id": "619052",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 7
   },
   {
@@ -206,7 +206,7 @@
     "link": "http://bgm.tv/subject/663444",
     "bgm_id": "663444",
     "bgm_score": 6.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 1
   },
   {
@@ -216,12 +216,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/8e/9a/668407_9Z6qP.jpg",
     "releaseDate": "2026-07-16",
     "mediaType": "anime",
-    "rating": "1.0",
+    "rating": "1.5",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/668407",
     "bgm_id": "668407",
-    "bgm_score": 1.0,
-    "bgm_rating_total": 1,
+    "bgm_score": 1.5,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 4
   },
   {
@@ -236,7 +236,7 @@
     "link": "http://bgm.tv/subject/659686",
     "bgm_id": "659686",
     "bgm_score": 1.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 7
   },
   {
@@ -246,12 +246,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/b2/2b/595884_Qskw0.jpg",
     "releaseDate": "2026-07-13",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "7.0",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/595884",
     "bgm_id": "595884",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
   {
@@ -261,12 +261,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/66/a5/663982_3B5Ok.jpg",
     "releaseDate": "2026-07-16",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "8.0",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/663982",
     "bgm_id": "663982",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 8.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 4
   },
   {
@@ -276,12 +276,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/82/74/542847_F06co.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "8.0",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/542847",
     "bgm_id": "542847",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 8.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
   {
@@ -291,12 +291,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/18/b5/679732_fQ4Ii.jpg",
     "releaseDate": "2026-07-24",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "7.0",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/679732",
     "bgm_id": "679732",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   }
 ]
