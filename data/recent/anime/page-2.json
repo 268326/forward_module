@@ -1,5 +1,21 @@
 [
   {
+    "id": "255358",
+    "type": "tmdb",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": null,
+    "tmdb_id": "255358",
+    "tmdb_site_id": "tv/255358",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "153217",
     "type": "tmdb",
     "title": "二十世纪电气目录",
@@ -80,35 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280564",
-    "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
-    "releaseDate": "2026-08-02",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
-    "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "639938",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/4f/639938_2JKQ7.jpg",
-    "releaseDate": "2026-09-25",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "11话 /  2026年9月25日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/639938"
-  },
-  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -125,6 +112,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "250008",
     "type": "tmdb",
     "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
@@ -136,22 +141,6 @@
     "link": null,
     "tmdb_id": "250008",
     "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "209867/season/1/episode/29",
-    "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
-    "link": null,
-    "tmdb_id": "209867/season/1/episode/29",
-    "tmdb_site_id": "tv/209867/season/1/episode/29",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -173,6 +162,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "209867/season/1/episode/29",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867/season/1/episode/29",
+    "tmdb_site_id": "tv/209867/season/1/episode/29",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "284029",
     "type": "tmdb",
     "title": "猫与龙",
@@ -184,22 +189,6 @@
     "link": null,
     "tmdb_id": "284029",
     "tmdb_site_id": "tv/284029",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "278043",
-    "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -221,15 +210,42 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "278043",
+    "type": "tmdb",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": null,
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "656083",
     "type": "link",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
     "link": "https://bgm.tv/subject/656083"
+  },
+  {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "link": "https://bgm.tv/subject/568244"
   },
   {
     "id": "283905",
@@ -264,92 +280,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
-    "link": "https://bgm.tv/subject/568244"
-  },
-  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
     "releaseDate": "2026-07-17",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "6.8",
     "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
     "link": null,
     "tmdb_id": "222623",
     "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
-    "releaseDate": "2021-01-10",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "260463",
-    "type": "tmdb",
-    "title": "黄泉使者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg",
-    "releaseDate": "2026-04-04",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "24话 /  2026年4月4日 / 安藤真裕 / 荒川弘（掲載 月刊「少年ガンガン」スクウェア・エニックス刊） / 新井伸浩",
-    "link": null,
-    "tmdb_id": "260463",
-    "tmdb_site_id": "tv/260463",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "260823",
-    "type": "tmdb",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": null,
-    "tmdb_id": "260823",
-    "tmdb_site_id": "tv/260823/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -371,5 +312,72 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+    "releaseDate": "2021-01-10",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "11话 /  2021年1月10日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "326247",
+    "type": "tmdb",
+    "title": "愚者之夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xf14d9XclRBsQw7mMN6nutQgOva.jpg",
+    "releaseDate": "2026-11-26",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
+    "link": null,
+    "tmdb_id": "326247",
+    "tmdb_site_id": "tv/326247",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "1575337",
+    "type": "tmdb",
+    "title": "超辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
+    "link": null,
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "139512",
+    "type": "tmdb",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
