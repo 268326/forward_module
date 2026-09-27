@@ -1,5 +1,37 @@
 [
   {
+    "id": "280049",
+    "type": "tmdb",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
+    "link": null,
+    "tmdb_id": "280049",
+    "tmdb_site_id": "tv/280049/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "139512",
+    "type": "tmdb",
+    "title": "恋爱游戏世界对路人角色很不友好 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "link": null,
+    "tmdb_id": "139512",
+    "tmdb_site_id": "tv/139512/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "260463",
     "type": "tmdb",
     "title": "黄泉使者",
@@ -32,6 +64,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "1575337",
+    "type": "tmdb",
+    "title": "超辉夜姬！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
+    "releaseDate": "2026-01-22",
+    "mediaType": "movie",
+    "rating": "8.1",
+    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
+    "link": null,
+    "tmdb_id": "1575337",
+    "tmdb_site_id": "movie/1575337",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "286346",
     "type": "tmdb",
     "title": "女主角？圣女？不，我是杂役女仆（自豪）！",
@@ -48,20 +96,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280049",
-    "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
-    "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
+    "link": "https://bgm.tv/subject/637802"
   },
   {
     "id": "277513",
@@ -80,6 +123,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_9shil.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "link": "https://bgm.tv/subject/548156"
+  },
+  {
     "id": "67676",
     "type": "tmdb",
     "title": "齐木楠雄的灾难",
@@ -96,17 +161,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
-    "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
-  },
-  {
     "id": "79166",
     "type": "tmdb",
     "title": "碧蓝之海 第二季",
@@ -121,17 +175,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_0Yb0c.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "1话 /  2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
   },
   {
     "id": "314554",
@@ -168,22 +211,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283428",
-    "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "298994",
     "type": "tmdb",
     "title": "LV999的村民",
@@ -200,15 +227,31 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
+    "id": "283428",
+    "type": "tmdb",
+    "title": "冰之城墙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428",
+    "tmdb_site_id": "tv/283428",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "630160",
     "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
+    "description": "2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
+    "link": "https://bgm.tv/subject/630160"
   },
   {
     "id": "95479/season/1/episode/48",
@@ -259,33 +302,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "37854",
-    "type": "tmdb",
-    "title": "航海王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/97/975_GFGYI.jpg",
-    "releaseDate": "1999-10-20",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "1155话 /  1999年10月20日 / 尾田栄一郎（集英社「週刊少年ジャンプ」連載） / 小泉昇（1-425）→久田和也（385-891）→松田翠（780-782、892-）",
-    "link": null,
-    "tmdb_id": "37854",
-    "tmdb_site_id": "tv/37854",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
-  },
-  {
     "id": "312507",
     "type": "tmdb",
     "title": "令和妖神斑小姐",
@@ -318,44 +334,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "548156",
+    "id": "334105",
     "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_9shil.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_0Yb0c.jpg",
+    "releaseDate": "2026-08-28",
     "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
-    "link": "https://bgm.tv/subject/548156"
+    "rating": "7.7",
+    "description": "1话 /  2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "link": "https://bgm.tv/subject/334105"
   },
   {
-    "id": "253476",
+    "id": "37854",
     "type": "tmdb",
-    "title": "异国日记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fe/bf/493016_Qqmf5.jpg",
-    "releaseDate": "2026-01-04",
+    "title": "航海王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/97/975_GFGYI.jpg",
+    "releaseDate": "1999-10-20",
     "mediaType": "tv",
-    "rating": "8.4",
-    "description": "13话 /  2026年1月4日 / 大城美幸 / ヤマシタトモコ（祥伝社 FEEL COMICS） / 羽山賢二",
+    "rating": "8.3",
+    "description": "1155话 /  1999年10月20日 / 尾田栄一郎（集英社「週刊少年ジャンプ」連載） / 小泉昇（1-425）→久田和也（385-891）→松田翠（780-782、892-）",
     "link": null,
-    "tmdb_id": "253476",
-    "tmdb_site_id": "tv/253476",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "306721",
-    "type": "tmdb",
-    "title": "名侦探光之美少女！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9a/85/611077_P5Pi5.jpg",
-    "releaseDate": "2026-02-01",
-    "mediaType": "tv",
-    "rating": "6.7",
-    "description": "51话 /  2026年2月1日 / 東堂いづみ (連載/講談社「たのしい幼稚園」「おともだち」) / 矢野茜",
-    "link": null,
-    "tmdb_id": "306721",
-    "tmdb_site_id": "tv/306721",
+    "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

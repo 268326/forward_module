@@ -1,21 +1,5 @@
 [
   {
-    "id": "255358",
-    "type": "tmdb",
-    "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
-    "link": null,
-    "tmdb_id": "255358",
-    "tmdb_site_id": "tv/255358",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "153217",
     "type": "tmdb",
     "title": "二十世纪电气目录",
@@ -27,6 +11,22 @@
     "link": null,
     "tmdb_id": "153217",
     "tmdb_site_id": "tv/153217",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "255358",
+    "type": "tmdb",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": null,
+    "tmdb_id": "255358",
+    "tmdb_site_id": "tv/255358",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -80,22 +80,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -108,6 +92,22 @@
     "tmdb_id": "82684",
     "tmdb_site_id": "tv/82684/season/4",
     "tmdb_season_number": 4,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "308874",
+    "type": "tmdb",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": null,
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -130,6 +130,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "link": "https://bgm.tv/subject/568244"
+  },
+  {
     "id": "250008",
     "type": "tmdb",
     "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
@@ -146,20 +157,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312849",
-    "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": null,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
+    "link": "https://bgm.tv/subject/656083"
   },
   {
     "id": "209867/season/1/episode/29",
@@ -173,22 +179,6 @@
     "link": null,
     "tmdb_id": "209867/season/1/episode/29",
     "tmdb_site_id": "tv/209867/season/1/episode/29",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284029",
-    "type": "tmdb",
-    "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
-    "link": null,
-    "tmdb_id": "284029",
-    "tmdb_site_id": "tv/284029",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -210,6 +200,38 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "312849",
+    "type": "tmdb",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "link": null,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "284029",
+    "type": "tmdb",
+    "title": "猫与龙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
+    "link": null,
+    "tmdb_id": "284029",
+    "tmdb_site_id": "tv/284029",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -226,26 +248,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "656083",
-    "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
-    "link": "https://bgm.tv/subject/656083"
-  },
-  {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_vLukv.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
-    "link": "https://bgm.tv/subject/568244"
+    "id": "284580",
+    "type": "tmdb",
+    "title": "某暗部的少女共栖",
+    "posterPath": "https://image.tmdb.org/t/p/w500/jpYQjrx6AIL5tbauVY4lqOZrw4Y.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
+    "link": null,
+    "tmdb_id": "284580",
+    "tmdb_site_id": "tv/284580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "283905",
@@ -296,20 +314,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284580",
+    "id": "326247",
     "type": "tmdb",
-    "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/jpYQjrx6AIL5tbauVY4lqOZrw4Y.jpg",
-    "releaseDate": "2026-10-09",
+    "title": "愚者之夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xf14d9XclRBsQw7mMN6nutQgOva.jpg",
+    "releaseDate": "2026-11-26",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
+    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
     "link": null,
-    "tmdb_id": "284580",
-    "tmdb_site_id": "tv/284580",
+    "tmdb_id": "326247",
+    "tmdb_site_id": "tv/326247",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP"
+      "JP",
+      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -330,54 +349,25 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326247",
-    "type": "tmdb",
-    "title": "愚者之夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xf14d9XclRBsQw7mMN6nutQgOva.jpg",
-    "releaseDate": "2026-11-26",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
-    "link": null,
-    "tmdb_id": "326247",
-    "tmdb_site_id": "tv/326247",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "616808",
+    "type": "link",
+    "title": "野生的大魔王出现了！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
+    "link": "https://bgm.tv/subject/616808"
   },
   {
-    "id": "1575337",
-    "type": "tmdb",
-    "title": "超辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
-    "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "139512",
-    "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "665390",
+    "type": "link",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": "https://bgm.tv/subject/665390"
   }
 ]
