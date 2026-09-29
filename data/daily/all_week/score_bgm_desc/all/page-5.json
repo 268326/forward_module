@@ -115,7 +115,7 @@
     "link": null,
     "bgm_id": "276787",
     "bgm_score": 3.6,
-    "bgm_rating_total": 271,
+    "bgm_rating_total": 275,
     "bgm_weekday_id": 4,
     "tmdb_id": "98865",
     "tmdb_site_id": "tv/98865",
@@ -285,5 +285,20 @@
     "bgm_score": 1.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "708411",
+    "type": "link",
+    "title": "武神主宰 姬州篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/bf/93/708411_7xYqX.jpg",
+    "releaseDate": "2026-07-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/708411",
+    "bgm_id": "708411",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
   }
 ]
