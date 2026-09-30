@@ -11,6 +11,24 @@
     "link": "https://bgm.tv/subject/616808"
   },
   {
+    "id": "284580",
+    "type": "tmdb",
+    "title": "某暗部的少女共栖",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
+    "link": null,
+    "tmdb_id": "284580",
+    "tmdb_site_id": "tv/284580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "30984/season/2/episode/41",
     "type": "tmdb",
     "title": "死神 千年血战篇-祸进谭-",
@@ -43,38 +61,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "255358",
-    "type": "tmdb",
-    "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
-    "link": null,
-    "tmdb_id": "255358",
-    "tmdb_site_id": "tv/255358",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284580",
-    "type": "tmdb",
-    "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
-    "link": null,
-    "tmdb_id": "284580",
-    "tmdb_site_id": "tv/284580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "665390",
+    "type": "link",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": "https://bgm.tv/subject/665390"
   },
   {
     "id": "258348",
@@ -89,6 +84,33 @@
     "tmdb_id": "258348",
     "tmdb_site_id": "tv/258348/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
+    "link": "https://bgm.tv/subject/656083"
+  },
+  {
+    "id": "255358",
+    "type": "tmdb",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": null,
+    "tmdb_id": "255358",
+    "tmdb_site_id": "tv/255358",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -125,17 +147,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "656083",
-    "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
-    "link": "https://bgm.tv/subject/656083"
-  },
-  {
     "id": "82684",
     "type": "tmdb",
     "title": "关于我转生变成史莱姆这档事 第四季",
@@ -152,15 +163,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
+    "id": "637802",
     "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
+    "title": "乱马1/2 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
+    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
+    "link": "https://bgm.tv/subject/637802"
   },
   {
     "id": "308874",
@@ -179,65 +190,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "250008",
-    "type": "tmdb",
-    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
-    "link": null,
-    "tmdb_id": "250008",
-    "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "637802",
+    "id": "548156",
     "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "青之箱 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
-  },
-  {
-    "id": "280564",
-    "type": "tmdb",
-    "title": "记忆管理局",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
-    "releaseDate": "2026-08-02",
-    "mediaType": "tv",
-    "rating": "7.9",
-    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
-    "link": null,
-    "tmdb_id": "280564",
-    "tmdb_site_id": "tv/280564",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "CN"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "209867/season/1/episode/29",
-    "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
-    "link": null,
-    "tmdb_id": "209867/season/1/episode/29",
-    "tmdb_site_id": "tv/209867/season/1/episode/29",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "rating": "7.8",
+    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "link": "https://bgm.tv/subject/548156"
   },
   {
     "id": "326247",
@@ -259,6 +220,38 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "250008",
+    "type": "tmdb",
+    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
+    "link": null,
+    "tmdb_id": "250008",
+    "tmdb_site_id": "tv/250008",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "209867/season/1/episode/29",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
+    "link": null,
+    "tmdb_id": "209867/season/1/episode/29",
+    "tmdb_site_id": "tv/209867/season/1/episode/29",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "278043",
     "type": "tmdb",
     "title": "相反的你和我",
@@ -270,22 +263,6 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "302051",
-    "type": "tmdb",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.4",
-    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
-    "link": null,
-    "tmdb_id": "302051",
-    "tmdb_site_id": "tv/302051",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -307,6 +284,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "302051",
+    "type": "tmdb",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.4",
+    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "link": null,
+    "tmdb_id": "302051",
+    "tmdb_site_id": "tv/302051",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "630160",
+    "type": "link",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
+    "link": "https://bgm.tv/subject/630160"
+  },
+  {
     "id": "284029",
     "type": "tmdb",
     "title": "猫与龙",
@@ -323,15 +327,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.8",
-    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
-    "link": "https://bgm.tv/subject/548156"
+    "id": "280564",
+    "type": "tmdb",
+    "title": "记忆管理局",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mfL3PY7nc3uoG29foUODrKiyHso.jpg",
+    "releaseDate": "2026-08-02",
+    "mediaType": "tv",
+    "rating": "7.9",
+    "description": "关潮为了能回到过去，寻找着能启动时间枪的能源“灼石”，却意外掉入了记忆管理局。为了能重新回到现实，关潮和方糖、百重等记忆管理员一起逐层回收记忆层中的BUG人。随着一场场战斗相继落幕，关潮要面对的是……",
+    "link": null,
+    "tmdb_id": "280564",
+    "tmdb_site_id": "tv/280564",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "CN"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "283905",
@@ -345,22 +356,6 @@
     "link": null,
     "tmdb_id": "283905",
     "tmdb_site_id": "tv/283905",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "270603",
-    "type": "tmdb",
-    "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_JOC1M.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "4.8",
-    "description": "26话 /  2026年7月2日 / 横峯克昌 / 猫子；漫画：武六甲理衣 / 谷圭司、内田孝行",
-    "link": null,
-    "tmdb_id": "270603",
-    "tmdb_site_id": "tv/270603",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
