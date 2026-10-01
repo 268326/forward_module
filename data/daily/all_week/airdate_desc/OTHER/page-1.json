@@ -51,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
     "releaseDate": "2026-10-14",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "5.0",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/573707",
     "bgm_id": "573707",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 3
   },
   {
@@ -75,33 +75,18 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "621073",
-    "type": "link",
-    "title": "和没有信徒的女神大人一起攻略异世界",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/f9/621073_oFcZ3.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/621073",
-    "bgm_id": "621073",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "664389",
     "type": "link",
     "title": "夜樱家的大作战 第二季 第2部分",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "9.0",
+    "rating": "7.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664389",
     "bgm_id": "664389",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 7
   },
   {
@@ -171,12 +156,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.0",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/621108",
     "bgm_id": "621108",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -198,7 +183,7 @@
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_z00Qu.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
     "rating": "N/A",
@@ -261,12 +246,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 23,
+    "bgm_score": 6.9,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 3
   },
   {
@@ -296,7 +281,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.0,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -368,5 +353,20 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "544378",
+    "type": "link",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/544378",
+    "bgm_id": "544378",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 2
   }
 ]

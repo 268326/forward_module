@@ -1,5 +1,20 @@
 [
   {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "206630",
     "type": "tmdb",
     "title": "佐佐木与文鸟小哔 第二季",
@@ -11,13 +26,28 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.0,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
   },
   {
     "id": "584847",
@@ -33,6 +63,21 @@
     "bgm_score": 4.5,
     "bgm_rating_total": 40,
     "bgm_weekday_id": 2
+  },
+  {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
   },
   {
     "id": "390200",
@@ -53,7 +98,7 @@
     "id": "614640",
     "type": "link",
     "title": "PSYREN -决战游戏-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_CV00Q.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_ESMLl.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
     "rating": "N/A",
@@ -115,21 +160,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "573707",
-    "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "665014",
     "type": "link",
     "title": "黑暗学院 第二季",
@@ -175,34 +205,26 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "650428",
-    "type": "link",
-    "title": "黑化吧！圣女大人 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/650428",
-    "bgm_id": "650428",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "700127",
-    "type": "link",
+    "id": "337069",
+    "type": "tmdb",
     "title": "ちょこっとヤバシティ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/11/700127_gLl6x.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/21B8lbtKam0H1qFLWQT5OaraVDn.jpg",
     "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期四]",
-    "link": "http://bgm.tv/subject/700127",
+    "link": null,
     "bgm_id": "700127",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
+    "bgm_weekday_id": 4,
+    "tmdb_id": "337069",
+    "tmdb_site_id": "tv/337069",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "704737",
@@ -215,21 +237,6 @@
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/704737",
     "bgm_id": "704737",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "705980",
-    "type": "link",
-    "title": "熊出没之神奇宝物 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_3tKYt.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/705980",
-    "bgm_id": "705980",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4

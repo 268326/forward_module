@@ -48,7 +48,7 @@
     "link": null,
     "bgm_id": "624085",
     "bgm_score": 7.4,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 2,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
@@ -62,7 +62,7 @@
     "id": "625799",
     "type": "link",
     "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/3a/625799_1myYL.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/3a/625799_ycox6.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "anime",
     "rating": "7.3",
@@ -71,21 +71,6 @@
     "bgm_id": "625799",
     "bgm_score": 7.3,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
     "bgm_weekday_id": 2
   },
   {
@@ -99,8 +84,8 @@
     "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
     "link": null,
     "bgm_id": "513878",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 20,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 2,
     "tmdb_id": "326788",
     "tmdb_site_id": "tv/326788",
@@ -110,6 +95,21 @@
       "PL"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "634708",
+    "type": "link",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/634708",
+    "bgm_id": "634708",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 2
   },
   {
     "id": "285710",

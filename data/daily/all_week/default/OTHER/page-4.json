@@ -1,35 +1,5 @@
 [
   {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_9Xx6g.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "636058",
-    "type": "link",
-    "title": "来自远方",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/58/0c/636058_bDwNj.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636058",
-    "bgm_id": "636058",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "638081",
     "type": "link",
     "title": "小狸猫与小狐狸",
@@ -66,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.7",
+    "rating": "5.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 63,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 68,
     "bgm_weekday_id": 7
   },
   {
@@ -96,12 +66,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "9.0",
+    "rating": "7.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664389",
     "bgm_id": "664389",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 7
   },
   {

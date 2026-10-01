@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14780,
+    "bgm_rating_total": 14783,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -30,8 +30,8 @@
     "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
     "link": null,
     "bgm_id": "622288",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 388,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 464,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -40,6 +40,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "665390",
+    "type": "link",
+    "title": "冰之城墙 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/665390",
+    "bgm_id": "665390",
+    "bgm_score": 7.7,
+    "bgm_rating_total": 42,
+    "bgm_weekday_id": 4
   },
   {
     "id": "584847",
@@ -57,6 +72,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "412008",
+    "type": "link",
+    "title": "转生就是剑 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/412008",
+    "bgm_id": "412008",
+    "bgm_score": 6.9,
+    "bgm_rating_total": 37,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "393010",
     "type": "link",
     "title": "侦探已经死了。 第二季",
@@ -72,21 +102,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "412008",
-    "type": "link",
-    "title": "转生就是剑 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/412008",
-    "bgm_id": "412008",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 23,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "326788",
     "type": "tmdb",
     "title": "赛博朋克：边缘行者 2",
@@ -97,8 +112,8 @@
     "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
     "link": null,
     "bgm_id": "513878",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 20,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 2,
     "tmdb_id": "326788",
     "tmdb_site_id": "tv/326788",
@@ -110,18 +125,40 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "665390",
+    "id": "312850",
+    "type": "tmdb",
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7sKHH0tO4GPfIwlZQbDdKptvaLw.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！\n\n「既然人难免一死，我宁可死在战斗中。」过去曾有个达成弑神伟业的大英雄。\n\n强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？\n\n她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚‧利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!\n\n「──啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！」\n\n由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "link": null,
+    "bgm_id": "624085",
+    "bgm_score": 7.4,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "577237",
     "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.8",
+    "rating": "5.4",
     "description": "[星期四]",
-    "link": "http://bgm.tv/subject/665390",
-    "bgm_id": "665390",
-    "bgm_score": 7.8,
-    "bgm_rating_total": 11,
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 4
   },
   {
@@ -147,28 +184,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312850",
-    "type": "tmdb",
-    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7sKHH0tO4GPfIwlZQbDdKptvaLw.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！\n\n「既然人难免一死，我宁可死在战斗中。」过去曾有个达成弑神伟业的大英雄。\n\n强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？\n\n她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚‧利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!\n\n「──啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！」\n\n由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
-    "link": null,
-    "bgm_id": "624085",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "312850",
-    "tmdb_site_id": "tv/312850",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "206630",
     "type": "tmdb",
     "title": "佐佐木与文鸟小哔 第二季",
@@ -180,7 +195,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.0,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -195,12 +210,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/52/fe/418229_gcFij.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "8.8",
+    "rating": "8.2",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/418229",
     "bgm_id": "418229",
-    "bgm_score": 8.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 8.2,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 1
   },
   {
@@ -210,12 +225,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "6.8",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/634708",
     "bgm_id": "634708",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 2
   },
   {
@@ -229,8 +244,8 @@
     "description": "「罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。」当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为『恩宠』的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
     "link": null,
     "bgm_id": "511936",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 3,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 1,
     "tmdb_id": "305313",
     "tmdb_site_id": "tv/305313",
@@ -244,7 +259,7 @@
     "id": "625799",
     "type": "link",
     "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/3a/625799_1myYL.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/3a/625799_ycox6.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "anime",
     "rating": "7.3",
@@ -358,6 +373,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "654294",
     "type": "link",
     "title": "冰剑的魔术师将要统一世界 第二季",
@@ -393,35 +423,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "544378",
-    "type": "link",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/544378",
-    "bgm_id": "544378",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "593565",
-    "type": "link",
-    "title": "超巡！超条前辈",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/c1/593565_nno0j.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/593565",
-    "bgm_id": "593565",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
   }
 ]

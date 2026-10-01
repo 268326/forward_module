@@ -1,20 +1,5 @@
 [
   {
-    "id": "567896",
-    "type": "link",
-    "title": "黑色五叶草 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/567896",
-    "bgm_id": "567896",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "568525",
     "type": "link",
     "title": "朱色假面",
@@ -71,7 +56,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 53,
+    "bgm_rating_total": 56,
     "bgm_weekday_id": 6
   },
   {
@@ -126,12 +111,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "5.8",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 4,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 6
   },
   {
@@ -258,7 +243,7 @@
     "id": "555605",
     "type": "link",
     "title": "青之芦苇 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_g5si9.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_cLCw5.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "7.4",
@@ -300,33 +285,18 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "621073",
-    "type": "link",
-    "title": "和没有信徒的女神大人一起攻略异世界",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/f9/621073_oFcZ3.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/621073",
-    "bgm_id": "621073",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "630160",
     "type": "link",
     "title": "黑暗召唤师在地下恋爱中",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "5.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/630160",
     "bgm_id": "630160",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -351,12 +321,42 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "9.0",
+    "rating": "7.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "636058",
+    "type": "link",
+    "title": "来自远方",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/58/0c/636058_bDwNj.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636058",
+    "bgm_id": "636058",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 7
   }
 ]

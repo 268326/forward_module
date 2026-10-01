@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11579,
+    "bgm_rating_total": 11583,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -53,7 +53,7 @@
     "id": "283938",
     "type": "tmdb",
     "title": "学生会也有洞！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/c7/554779_Ab0FB.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "7.3",
@@ -141,7 +141,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 53,
+    "bgm_rating_total": 56,
     "bgm_weekday_id": 6
   },
   {
@@ -196,12 +196,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "5.8",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 4,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 6
   },
   {

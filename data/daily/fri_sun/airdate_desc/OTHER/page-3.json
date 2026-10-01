@@ -1,20 +1,5 @@
 [
   {
-    "id": "701782",
-    "type": "link",
-    "title": "Welsh &amp; Shedar",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -26,7 +11,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11579,
+    "bgm_rating_total": 11583,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",

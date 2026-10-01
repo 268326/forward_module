@@ -1,65 +1,5 @@
 [
   {
-    "id": "311842",
-    "type": "tmdb",
-    "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5rGPQKYveS5unWPcJ32BwH9rdvR.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
-    "link": null,
-    "bgm_id": "622288",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 388,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "311842",
-    "tmdb_site_id": "tv/311842",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "326788",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://image.tmdb.org/t/p/w500/d5s0Yp715JEKQO5CoZ5BtrlIzmT.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
-    "link": null,
-    "bgm_id": "513878",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "326788",
-    "tmdb_site_id": "tv/326788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "PL"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "624923",
-    "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/624923",
-    "bgm_id": "624923",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "471844",
     "type": "link",
     "title": "归还者的魔法要特别 第二季",
@@ -90,21 +30,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_F15fl.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -132,21 +57,6 @@
     "bgm_id": "617948",
     "bgm_score": 7.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "621108",
-    "type": "link",
-    "title": "萤火虫的出嫁",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/621108",
-    "bgm_id": "621108",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
   {
@@ -202,6 +112,51 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "634210",
+    "type": "link",
+    "title": "魔法姐妹露露特莉莉 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/634210",
+    "bgm_id": "634210",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "664389",
+    "type": "link",
+    "title": "夜樱家的大作战 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/664389",
+    "bgm_id": "664389",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "412008",
+    "type": "link",
+    "title": "转生就是剑 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/412008",
+    "bgm_id": "412008",
+    "bgm_score": 6.9,
+    "bgm_rating_total": 37,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "302020",
     "type": "tmdb",
     "title": "铁旅 邂逅铁道少女",
@@ -224,34 +179,19 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "412008",
+    "id": "634708",
     "type": "link",
-    "title": "转生就是剑 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
-    "releaseDate": "2026-10-07",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+    "releaseDate": "2026-10-06",
     "mediaType": "anime",
     "rating": "6.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/412008",
-    "bgm_id": "412008",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/634708",
+    "bgm_id": "634708",
     "bgm_score": 6.8,
-    "bgm_rating_total": 23,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_vLukv.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/568244",
-    "bgm_id": "568244",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 16,
-    "bgm_weekday_id": 5
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 2
   },
   {
     "id": "324502",
@@ -260,7 +200,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "tv",
-    "rating": "6.0",
+    "rating": "8.0",
     "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
     "link": null,
     "bgm_id": "657656",
@@ -276,26 +216,19 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "301139",
-    "type": "tmdb",
-    "title": "僵尸搜寻中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
-    "link": null,
-    "bgm_id": "586255",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "301139",
-    "tmdb_site_id": "tv/301139",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/568244",
+    "bgm_id": "568244",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 5
   },
   {
     "id": "616808",
@@ -309,14 +242,14 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 53,
+    "bgm_rating_total": 56,
     "bgm_weekday_id": 6
   },
   {
     "id": "499474",
     "type": "link",
     "title": "东京复仇者 三天战争篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_ARHE9.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
     "rating": "6.4",
@@ -326,6 +259,28 @@
     "bgm_score": 6.4,
     "bgm_rating_total": 10,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "301139",
+    "type": "tmdb",
+    "title": "僵尸搜寻中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+    "link": null,
+    "bgm_id": "586255",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "301139",
+    "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "285710",
@@ -365,6 +320,36 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "705980",
+    "type": "link",
+    "title": "熊出没之神奇宝物 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/705980",
+    "bgm_id": "705980",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "621108",
+    "type": "link",
+    "title": "萤火虫的出嫁",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/621108",
+    "bgm_id": "621108",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "542007",
     "type": "link",
     "title": "转生后的大圣女，极力隐瞒圣女的身分",
@@ -402,18 +387,18 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "637802",
+    "id": "688797",
     "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637802",
-    "bgm_id": "637802",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/688797",
+    "bgm_id": "688797",
     "bgm_score": 6.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   }
 ]
