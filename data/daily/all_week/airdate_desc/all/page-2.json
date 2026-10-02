@@ -1,5 +1,20 @@
 [
   {
+    "id": "412008",
+    "type": "link",
+    "title": "转生就是剑 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/412008",
+    "bgm_id": "412008",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 49,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "471844",
     "type": "link",
     "title": "归还者的魔法要特别 第二季",
@@ -66,7 +81,7 @@
     "link": "http://bgm.tv/subject/646154",
     "bgm_id": "646154",
     "bgm_score": 7.0,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 3
   },
   {
@@ -140,8 +155,8 @@
     "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！\n\n「既然人难免一死，我宁可死在战斗中。」过去曾有个达成弑神伟业的大英雄。\n\n强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？\n\n她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚‧利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!\n\n「──啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！」\n\n由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
     "link": null,
     "bgm_id": "624085",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 9,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 2,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
@@ -218,12 +233,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/52/fe/418229_gcFij.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "8.2",
+    "rating": "7.9",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/418229",
     "bgm_id": "418229",
-    "bgm_score": 8.2,
-    "bgm_rating_total": 6,
+    "bgm_score": 7.9,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 1
   },
   {
@@ -350,12 +365,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_n0qcY.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 14,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 7
   },
   {
@@ -371,21 +386,6 @@
     "bgm_id": "555605",
     "bgm_score": 7.4,
     "bgm_rating_total": 8,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
     "bgm_weekday_id": 7
   }
 ]

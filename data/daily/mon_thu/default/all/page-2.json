@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/646154",
     "bgm_id": "646154",
     "bgm_score": 7.0,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 3
   },
   {
@@ -75,6 +75,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "709475",
+    "type": "link",
+    "title": "ゲルぴよ 第2期",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
+    "releaseDate": "2026-10-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/709475",
+    "bgm_id": "709475",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -111,12 +126,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.7",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 11,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 4
   },
   {
@@ -130,8 +145,8 @@
     "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
     "link": null,
     "bgm_id": "590553",
-    "bgm_score": 6.9,
-    "bgm_rating_total": 9,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 4,
     "tmdb_id": "302020",
     "tmdb_site_id": "tv/302020",
@@ -153,7 +168,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 506,
+    "bgm_rating_total": 600,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -170,12 +185,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "4.0",
+    "rating": "3.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/650428",
     "bgm_id": "650428",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 3.2,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 4
   },
   {
@@ -200,12 +215,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.6",
+    "rating": "7.4",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 79,
+    "bgm_score": 7.4,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 4
   },
   {

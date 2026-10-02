@@ -1,5 +1,35 @@
 [
   {
+    "id": "709475",
+    "type": "link",
+    "title": "ゲルぴよ 第2期",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
+    "releaseDate": "2026-10-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/709475",
+    "bgm_id": "709475",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/513878",
+    "bgm_id": "513878",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 23,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -41,7 +71,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 2
   },
   {
@@ -81,12 +111,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_7SNBy.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.8",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 24,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 3
   },
   {
@@ -96,12 +126,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "6.9",
+    "rating": "6.7",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
-    "bgm_score": 6.9,
-    "bgm_rating_total": 42,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 3
   },
   {
@@ -171,7 +201,7 @@
     "link": "http://bgm.tv/subject/646154",
     "bgm_id": "646154",
     "bgm_score": 7.0,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 3
   },
   {
@@ -301,12 +331,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/52/fe/418229_gcFij.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "8.2",
+    "rating": "7.9",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/418229",
     "bgm_id": "418229",
-    "bgm_score": 8.2,
-    "bgm_rating_total": 6,
+    "bgm_score": 7.9,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 1
   },
   {
@@ -337,41 +367,6 @@
     "bgm_id": "624923",
     "bgm_score": 8.0,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "316694",
-    "type": "tmdb",
-    "title": "转生哥布林有问题吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": null,
-    "bgm_id": "634587",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "316694",
-    "tmdb_site_id": "tv/316694",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "688204",
-    "type": "link",
-    "title": "ゆうさんち！from 遊ハち",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/688204",
-    "bgm_id": "688204",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
     "bgm_weekday_id": 1
   }
 ]

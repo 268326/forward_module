@@ -1,5 +1,35 @@
 [
   {
+    "id": "621108",
+    "type": "link",
+    "title": "萤火虫的出嫁",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/621108",
+    "bgm_id": "621108",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "698981",
+    "type": "link",
+    "title": "探险时光：支线任务 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/698981",
+    "bgm_id": "698981",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "335194",
     "type": "tmdb",
     "title": "魔法★探险家",
@@ -11,7 +41,7 @@
     "link": null,
     "bgm_id": "456078",
     "bgm_score": 6.0,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 31,
     "bgm_weekday_id": 6,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
@@ -59,21 +89,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637802",
-    "bgm_id": "637802",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -111,18 +126,33 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "563508",
+    "type": "link",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "656083",
     "type": "link",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 69,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 73,
     "bgm_weekday_id": 7
   },
   {
@@ -222,21 +252,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "563508",
-    "type": "link",
-    "title": "神秘面包小子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/563508",
-    "bgm_id": "563508",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "632061",
     "type": "link",
     "title": "决斗大师 LOST ～断罪的少年～",
@@ -247,21 +262,6 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/632061",
     "bgm_id": "632061",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5

@@ -1,5 +1,20 @@
 [
   {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "312359",
     "type": "tmdb",
     "title": "龙珠超 比鲁斯",
@@ -63,6 +78,21 @@
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
     "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "698981",
+    "type": "link",
+    "title": "探险时光：支线任务 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/698981",
+    "bgm_id": "698981",
+    "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
@@ -201,21 +231,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "563508",
-    "type": "link",
-    "title": "神秘面包小子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/563508",
-    "bgm_id": "563508",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "632061",
     "type": "link",
     "title": "决斗大师 LOST ～断罪的少年～",
@@ -226,21 +241,6 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/632061",
     "bgm_id": "632061",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5

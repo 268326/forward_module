@@ -1,40 +1,33 @@
 [
   {
-    "id": "301139",
-    "type": "tmdb",
-    "title": "僵尸搜寻中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
-    "link": null,
-    "bgm_id": "586255",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "301139",
-    "tmdb_site_id": "tv/301139",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "6.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
+    "bgm_score": 6.3,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "634708",
+    "type": "link",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/634708",
+    "bgm_id": "634708",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 2
   },
   {
     "id": "630160",
@@ -43,13 +36,28 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/630160",
     "bgm_id": "630160",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "3.2",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 3.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 4
   },
   {
     "id": "290019",
@@ -94,6 +102,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "617948",
+    "type": "link",
+    "title": "桃源暗鬼 ～日光・华严之泷篇～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/617948",
+    "bgm_id": "617948",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
   },
   {
     "id": "567896",
@@ -193,6 +216,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "646154",
+    "type": "link",
+    "title": "世界最强的魔女，就此开始",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/89/fc/646154_uQi81.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/646154",
+    "bgm_id": "646154",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "617273",
     "type": "link",
     "title": "Keroro军曹☆",
@@ -287,21 +325,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "646154",
-    "type": "link",
-    "title": "世界最强的魔女，就此开始",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/89/fc/646154_uQi81.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/646154",
-    "bgm_id": "646154",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -313,21 +336,6 @@
     "link": "http://bgm.tv/subject/449346",
     "bgm_id": "449346",
     "bgm_score": 8.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "650428",
-    "type": "link",
-    "title": "黑化吧！圣女大人 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/650428",
-    "bgm_id": "650428",
-    "bgm_score": 4.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
   },
@@ -347,17 +355,17 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "617948",
+    "id": "563508",
     "type": "link",
-    "title": "桃源暗鬼 ～日光・华严之泷篇～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "5.5",
     "description": "[星期五]",
-    "link": "http://bgm.tv/subject/617948",
-    "bgm_id": "617948",
-    "bgm_score": 7.0,
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
@@ -390,27 +398,5 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "312359",
-    "type": "tmdb",
-    "title": "龙珠超 比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/l3jo8H7Wdr8deirwPwqgupKr40C.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
-    "link": null,
-    "bgm_id": "623249",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "312359",
-    "tmdb_site_id": "tv/312359",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

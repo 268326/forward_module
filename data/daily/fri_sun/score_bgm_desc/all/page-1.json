@@ -30,6 +30,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_n0qcY.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/548156",
+    "bgm_id": "548156",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 16,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "617273",
     "type": "link",
     "title": "Keroro军曹☆",
@@ -45,21 +60,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_n0qcY.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/548156",
-    "bgm_id": "548156",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11583,
+    "bgm_rating_total": 11594,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -95,24 +95,19 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "283938",
-    "type": "tmdb",
-    "title": "学生会也有洞！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
+    "id": "617948",
+    "type": "link",
+    "title": "桃源暗鬼 ～日光・华严之泷篇～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
     "rating": "7.3",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "554779",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/617948",
+    "bgm_id": "617948",
     "bgm_score": 7.3,
-    "bgm_rating_total": 26,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "283938",
-    "tmdb_site_id": "tv/283938",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
   },
   {
     "id": "567896",
@@ -130,6 +125,26 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "283938",
+    "type": "tmdb",
+    "title": "学生会也有洞！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "554779",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 33,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "283938",
+    "tmdb_site_id": "tv/283938",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
@@ -140,8 +155,8 @@
     "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
     "bgm_id": "537738",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 11,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -150,6 +165,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/568244",
+    "bgm_id": "568244",
+    "bgm_score": 7.1,
+    "bgm_rating_total": 45,
+    "bgm_weekday_id": 5
   },
   {
     "id": "593863",
@@ -164,21 +194,6 @@
     "bgm_id": "593863",
     "bgm_score": 7.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "617948",
-    "type": "link",
-    "title": "桃源暗鬼 ～日光・华严之泷篇～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/617948",
-    "bgm_id": "617948",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -279,21 +294,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/568244",
-    "bgm_id": "568244",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 19,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "324502",
     "type": "tmdb",
     "title": "装备我最强",
@@ -316,18 +316,48 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "630160",
+    "type": "link",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/630160",
+    "bgm_id": "630160",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f9/ae/616808_F80Sl.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.5",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 57,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 64,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/637802",
+    "bgm_id": "637802",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6
   },
   {
@@ -337,28 +367,13 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.2",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 10,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/630160",
-    "bgm_id": "630160",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
   },
   {
     "id": "301139",
@@ -371,8 +386,8 @@
     "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
     "link": null,
     "bgm_id": "586255",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 6,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -381,20 +396,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "621108",
-    "type": "link",
-    "title": "萤火虫的出嫁",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/621108",
-    "bgm_id": "621108",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   }
 ]

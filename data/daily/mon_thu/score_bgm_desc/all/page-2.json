@@ -68,7 +68,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 2
   },
   {
@@ -78,12 +78,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "4.0",
+    "rating": "3.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/650428",
     "bgm_id": "650428",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 3.2,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 4
   },
   {
@@ -207,6 +207,21 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/701779",
     "bgm_id": "701779",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "709475",
+    "type": "link",
+    "title": "ゲルぴよ 第2期",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
+    "releaseDate": "2026-10-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/709475",
+    "bgm_id": "709475",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

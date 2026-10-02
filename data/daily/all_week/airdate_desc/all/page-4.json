@@ -1,17 +1,32 @@
 [
   {
+    "id": "606716",
+    "type": "link",
+    "title": "用【循环利息】强制收回借出的魔力",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/11/606716_Om183.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/606716",
+    "bgm_id": "606716",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f9/ae/616808_F80Sl.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.5",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 57,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 64,
     "bgm_weekday_id": 6
   },
   {
@@ -63,15 +78,15 @@
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.0",
+    "rating": "6.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
+    "bgm_score": 6.3,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6
   },
   {
@@ -156,12 +171,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.2",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 10,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 5
   },
   {
@@ -171,12 +186,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "5.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/563508",
     "bgm_id": "563508",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -186,12 +201,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "7.1",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 19,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 5
   },
   {
@@ -201,12 +216,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.3",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
@@ -238,12 +253,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.0",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/698981",
     "bgm_id": "698981",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
   {
@@ -283,12 +298,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.7",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 11,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 4
   },
   {
@@ -303,7 +318,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 506,
+    "bgm_rating_total": 600,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -320,12 +335,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "4.0",
+    "rating": "3.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/650428",
     "bgm_id": "650428",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 3.2,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 4
   },
   {
@@ -335,12 +350,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.6",
+    "rating": "7.4",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 79,
+    "bgm_score": 7.4,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 4
   },
   {
@@ -364,20 +379,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "704737",
-    "type": "link",
-    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/704737",
-    "bgm_id": "704737",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   }
 ]

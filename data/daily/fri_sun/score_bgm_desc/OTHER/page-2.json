@@ -1,5 +1,35 @@
 [
   {
+    "id": "563508",
+    "type": "link",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/656083",
+    "bgm_id": "656083",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 73,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "636023",
     "type": "link",
     "title": "战车椅子",
@@ -30,21 +60,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "563508",
-    "type": "link",
-    "title": "神秘面包小子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/563508",
-    "bgm_id": "563508",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "632061",
     "type": "link",
     "title": "决斗大师 LOST ～断罪的少年～",
@@ -55,21 +70,6 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/632061",
     "bgm_id": "632061",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5

@@ -83,7 +83,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
     "link": null,
     "tmdb_id": "283938",
@@ -125,23 +125,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326788",
-    "type": "tmdb",
+    "id": "513878",
+    "type": "link",
     "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://image.tmdb.org/t/p/w500/d5s0Yp715JEKQO5CoZ5BtrlIzmT.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "Weak Kingsley，一位落魄的赛博朋克传奇人物，如今被迫在没有义体的世界中生存，于一个早已将他抛下的时代里寻找人生的意义。与此同时，致命的流浪者D踏上复仇之路，逐渐接近那些本不该被发现的公司秘密。",
-    "link": null,
-    "tmdb_id": "326788",
-    "tmdb_site_id": "tv/326788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "PL"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
   },
   {
     "id": "286345",
@@ -182,7 +174,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
     "releaseDate": "2026-07-09",
     "mediaType": "tv",
-    "rating": "6.9",
+    "rating": "6.8",
     "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
     "link": null,
     "tmdb_id": "296286",
@@ -214,8 +206,8 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.8",
-    "description": "2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "rating": "7.1",
+    "description": "12话 /  2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
     "link": "https://bgm.tv/subject/568244"
   },
   {
@@ -321,7 +313,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.6",
+    "rating": "7.4",
     "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": "https://bgm.tv/subject/665390"
   },
