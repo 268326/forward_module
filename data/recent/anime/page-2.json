@@ -1,21 +1,30 @@
 [
   {
-    "id": "284580",
+    "id": "616808",
+    "type": "link",
+    "title": "野生的大魔王出现了！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
+    "link": "https://bgm.tv/subject/616808"
+  },
+  {
+    "id": "223564/season/1/episode/25",
     "type": "tmdb",
-    "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
-    "releaseDate": "2026-10-09",
+    "title": "超超超超超喜欢你的100个女朋友 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_R7dl3.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
+    "rating": "7.5",
+    "description": "12话 /  2026年7月5日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
     "link": null,
-    "tmdb_id": "284580",
-    "tmdb_site_id": "tv/284580",
+    "tmdb_id": "223564/season/1/episode/25",
+    "tmdb_site_id": "tv/223564/season/1/episode/25",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "69346",
@@ -34,15 +43,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
+    "id": "637802",
     "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
+    "title": "乱马1/2 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
+    "link": "https://bgm.tv/subject/637802"
+  },
+  {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "7.7",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
+    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "link": "https://bgm.tv/subject/548156"
   },
   {
     "id": "656083",
@@ -54,6 +74,41 @@
     "rating": "5.6",
     "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
     "link": "https://bgm.tv/subject/656083"
+  },
+  {
+    "id": "258348",
+    "type": "tmdb",
+    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "link": null,
+    "tmdb_id": "258348",
+    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "326247",
+    "type": "tmdb",
+    "title": "愚者之夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/xf14d9XclRBsQw7mMN6nutQgOva.jpg",
+    "releaseDate": "2026-11-26",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
+    "link": null,
+    "tmdb_id": "326247",
+    "tmdb_site_id": "tv/326247",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "153217",
@@ -88,31 +143,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
+    "id": "630160",
     "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
-  },
-  {
-    "id": "258348",
-    "type": "tmdb",
-    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
-    "link": null,
-    "tmdb_id": "258348",
-    "tmdb_site_id": "tv/258348/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
+    "link": "https://bgm.tv/subject/630160"
   },
   {
     "id": "255358",
@@ -147,17 +186,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
-    "link": "https://bgm.tv/subject/548156"
-  },
-  {
     "id": "325052",
     "type": "tmdb",
     "title": "从后面来的神威先生",
@@ -190,23 +218,44 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326247",
+    "id": "412008",
+    "type": "link",
+    "title": "转生就是剑 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
+    "link": "https://bgm.tv/subject/412008"
+  },
+  {
+    "id": "302020",
     "type": "tmdb",
-    "title": "愚者之夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/xf14d9XclRBsQw7mMN6nutQgOva.jpg",
-    "releaseDate": "2026-11-26",
+    "title": "铁旅 邂逅铁道少女",
+    "posterPath": "https://image.tmdb.org/t/p/w500/joiFJ8iP3MIdM1BTQXO9BC81ZEm.jpg",
+    "releaseDate": "2026-10-08",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
+    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
     "link": null,
-    "tmdb_id": "326247",
-    "tmdb_site_id": "tv/326247",
+    "tmdb_id": "302020",
+    "tmdb_site_id": "tv/302020",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP",
-      "US"
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "584847",
+    "type": "link",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
+    "link": "https://bgm.tv/subject/584847"
   },
   {
     "id": "308874",
@@ -225,28 +274,35 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
-    "link": "https://bgm.tv/subject/630160"
+    "id": "312850",
+    "type": "tmdb",
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7sKHH0tO4GPfIwlZQbDdKptvaLw.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！\n\n「既然人难免一死，我宁可死在战斗中。」过去曾有个达成弑神伟业的大英雄。\n\n强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？\n\n她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚‧利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!\n\n「──啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！」\n\n由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "link": null,
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
-    "id": "250008",
+    "id": "278043",
     "type": "tmdb",
-    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
     "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
-    "tmdb_id": "250008",
-    "tmdb_site_id": "tv/250008",
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -268,33 +324,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043",
+    "id": "301139",
     "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
-    "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "302020",
-    "type": "tmdb",
-    "title": "铁旅 邂逅铁道少女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/joiFJ8iP3MIdM1BTQXO9BC81ZEm.jpg",
-    "releaseDate": "2026-10-08",
+    "title": "僵尸搜寻中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
+    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
     "link": null,
-    "tmdb_id": "302020",
-    "tmdb_site_id": "tv/302020",
+    "tmdb_id": "301139",
+    "tmdb_site_id": "tv/301139",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -302,60 +342,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "302051",
+    "id": "250008",
     "type": "tmdb",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
+    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "5.4",
-    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
     "link": null,
-    "tmdb_id": "302051",
-    "tmdb_site_id": "tv/302051",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "584847",
-    "type": "link",
-    "title": "弹珠汽水瓶里的千岁同学 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
-    "link": "https://bgm.tv/subject/584847"
-  },
-  {
-    "id": "312849",
-    "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": null,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284029",
-    "type": "tmdb",
-    "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
-    "link": null,
-    "tmdb_id": "284029",
-    "tmdb_site_id": "tv/284029",
+    "tmdb_id": "250008",
+    "tmdb_site_id": "tv/250008",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

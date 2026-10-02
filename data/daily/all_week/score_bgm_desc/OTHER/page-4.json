@@ -1,5 +1,35 @@
 [
   {
+    "id": "551304",
+    "type": "link",
+    "title": "我的幸福婚姻 特别篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_5sWb1.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/551304",
+    "bgm_id": "551304",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "605533",
+    "type": "link",
+    "title": "大叔喜欢可爱小玩意",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/605533",
+    "bgm_id": "605533",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "632817",
     "type": "link",
     "title": "肥志百科 第15季",
@@ -10,21 +40,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/632817",
     "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

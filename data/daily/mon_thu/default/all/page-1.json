@@ -73,12 +73,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "8.0",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/624923",
     "bgm_id": "624923",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 8.0,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 1
   },
   {
@@ -287,12 +287,27 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "7.2",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/634708",
     "bgm_id": "634708",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 2
+  },
+  {
+    "id": "709326",
+    "type": "link",
+    "title": "Kiff: Scarm II: The Screamwriter",
+    "posterPath": null,
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/709326",
+    "bgm_id": "709326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 2
   },
   {
@@ -342,7 +357,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.9,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 3
   },
   {
@@ -399,20 +414,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "573707",
-    "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 3
   }
 ]

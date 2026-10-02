@@ -1,5 +1,20 @@
 [
   {
+    "id": "449346",
+    "type": "link",
+    "title": "大理寺日志 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "8.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/449346",
+    "bgm_id": "449346",
+    "bgm_score": 8.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
@@ -21,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 9,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 4
   },
   {
@@ -66,12 +81,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 42,
+    "bgm_score": 7.6,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 4
   },
   {

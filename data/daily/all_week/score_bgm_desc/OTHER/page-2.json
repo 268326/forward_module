@@ -15,6 +15,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "634210",
     "type": "link",
     "title": "魔法姐妹露露特莉莉 第2部分",
@@ -56,23 +71,8 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.9,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
   },
   {
     "id": "568244",
@@ -81,12 +81,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.8",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 17,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 5
   },
   {
@@ -96,12 +96,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f9/ae/616808_F80Sl.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 56,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 6
   },
   {
@@ -118,6 +118,21 @@
     "bgm_score": 6.4,
     "bgm_rating_total": 10,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "630160",
+    "type": "link",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/630160",
+    "bgm_id": "630160",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7
   },
   {
     "id": "593565",
@@ -180,6 +195,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/637802",
+    "bgm_id": "637802",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -192,36 +222,6 @@
     "bgm_id": "688797",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637802",
-    "bgm_id": "637802",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/630160",
-    "bgm_id": "630160",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -240,6 +240,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "656083",
     "type": "link",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -251,23 +266,8 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.6,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "5.4",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 4
   },
   {
     "id": "206630",
@@ -303,6 +303,21 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   },
   {
     "id": "584847",
@@ -345,21 +360,6 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "614640",
-    "type": "link",
-    "title": "PSYREN -决战游戏-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_ESMLl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/614640",
-    "bgm_id": "614640",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1

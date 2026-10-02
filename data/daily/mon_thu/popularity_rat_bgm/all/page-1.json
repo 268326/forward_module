@@ -23,7 +23,7 @@
     "id": "311842",
     "type": "tmdb",
     "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5rGPQKYveS5unWPcJ32BwH9rdvR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
     "rating": "0.0",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 464,
+    "bgm_rating_total": 506,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -48,13 +48,28 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 42,
+    "bgm_score": 7.6,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "412008",
+    "type": "link",
+    "title": "转生就是剑 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/412008",
+    "bgm_id": "412008",
+    "bgm_score": 6.9,
+    "bgm_rating_total": 42,
+    "bgm_weekday_id": 3
   },
   {
     "id": "584847",
@@ -70,21 +85,6 @@
     "bgm_score": 4.5,
     "bgm_rating_total": 40,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "412008",
-    "type": "link",
-    "title": "转生就是剑 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.9",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/412008",
-    "bgm_id": "412008",
-    "bgm_score": 6.9,
-    "bgm_rating_total": 37,
-    "bgm_weekday_id": 3
   },
   {
     "id": "393010",
@@ -125,6 +125,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "312850",
     "type": "tmdb",
     "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
@@ -145,21 +160,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "5.4",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 4
   },
   {
     "id": "302020",
@@ -225,12 +225,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "7.2",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/634708",
     "bgm_id": "634708",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 2
   },
   {
@@ -254,6 +254,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "624923",
+    "type": "link",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/624923",
+    "bgm_id": "624923",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 1
   },
   {
     "id": "625799",
@@ -284,21 +299,6 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "624923",
-    "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/624923",
-    "bgm_id": "624923",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "306565",

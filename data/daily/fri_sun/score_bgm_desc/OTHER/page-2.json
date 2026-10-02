@@ -1,5 +1,20 @@
 [
   {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "538631",
     "type": "link",
     "title": "降世神通：七个避风港 第一季",
@@ -265,21 +280,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/632817",
     "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

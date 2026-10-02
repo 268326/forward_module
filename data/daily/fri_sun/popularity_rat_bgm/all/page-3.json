@@ -1,5 +1,20 @@
 [
   {
+    "id": "701565",
+    "type": "link",
+    "title": "ふんばるず",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/79/c2/701565_WkAaz.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/701565",
+    "bgm_id": "701565",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "702192",
     "type": "link",
     "title": "极道寿司次郎！",
@@ -80,21 +95,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   },
   {
     "id": "636058",

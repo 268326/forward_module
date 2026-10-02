@@ -57,21 +57,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -122,6 +107,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "636512",
+    "type": "link",
+    "title": "至高之力",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/636512",
+    "bgm_id": "636512",
+    "bgm_score": 8.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "418229",
     "type": "link",
     "title": "魔法少女育成计划 restart",
@@ -134,6 +134,21 @@
     "bgm_id": "418229",
     "bgm_score": 8.2,
     "bgm_rating_total": 6,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "624923",
+    "type": "link",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/624923",
+    "bgm_id": "624923",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 1
   },
   {
@@ -173,43 +188,13 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "8.0",
+    "rating": "7.7",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/617273",
     "bgm_id": "617273",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "636512",
-    "type": "link",
-    "title": "至高之力",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/636512",
-    "bgm_id": "636512",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "665390",
-    "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/665390",
-    "bgm_id": "665390",
     "bgm_score": 7.7,
-    "bgm_rating_total": 42,
-    "bgm_weekday_id": 4
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
   },
   {
     "id": "548156",
@@ -225,6 +210,21 @@
     "bgm_score": 7.7,
     "bgm_rating_total": 14,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "665390",
+    "type": "link",
+    "title": "冰之城墙 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/665390",
+    "bgm_id": "665390",
+    "bgm_score": 7.6,
+    "bgm_rating_total": 79,
+    "bgm_weekday_id": 4
   },
   {
     "id": "30983",
@@ -310,7 +310,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.3,
-    "bgm_rating_total": 24,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -332,6 +332,21 @@
     "bgm_score": 7.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "634708",
+    "type": "link",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/634708",
+    "bgm_id": "634708",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 2
   },
   {
     "id": "284580",
@@ -359,7 +374,7 @@
     "id": "311842",
     "type": "tmdb",
     "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5rGPQKYveS5unWPcJ32BwH9rdvR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
     "rating": "0.0",
@@ -367,7 +382,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 464,
+    "bgm_rating_total": 506,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -376,21 +391,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "624923",
-    "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/624923",
-    "bgm_id": "624923",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "326788",

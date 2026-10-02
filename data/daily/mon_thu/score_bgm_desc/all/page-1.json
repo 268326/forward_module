@@ -122,6 +122,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "624923",
+    "type": "link",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/624923",
+    "bgm_id": "624923",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "657778",
     "type": "link",
     "title": "兽王武神丹帝拜恩",
@@ -143,12 +158,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 42,
+    "bgm_score": 7.6,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 4
   },
   {
@@ -189,10 +204,25 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "634708",
+    "type": "link",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/634708",
+    "bgm_id": "634708",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "311842",
     "type": "tmdb",
     "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5rGPQKYveS5unWPcJ32BwH9rdvR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
     "rating": "0.0",
@@ -200,7 +230,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 464,
+    "bgm_rating_total": 506,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -209,21 +239,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "624923",
-    "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/624923",
-    "bgm_id": "624923",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "326788",
@@ -290,7 +305,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.9,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 3
   },
   {
@@ -314,21 +329,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
   },
   {
     "id": "285710",
@@ -398,25 +398,18 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "305313",
-    "type": "tmdb",
-    "title": "罗梅莉亚战记",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "「罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。」当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为『恩宠』的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
-    "link": null,
-    "bgm_id": "511936",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "305313",
-    "tmdb_site_id": "tv/305313",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 4
   }
 ]

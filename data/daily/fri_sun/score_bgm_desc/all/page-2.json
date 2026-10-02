@@ -1,5 +1,42 @@
 [
   {
+    "id": "335194",
+    "type": "tmdb",
+    "title": "魔法★探险家",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+    "link": null,
+    "bgm_id": "456078",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 32,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "335194",
+    "tmdb_site_id": "tv/335194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "542007",
+    "type": "link",
+    "title": "转生后的大圣女，极力隐瞒圣女的身分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/81/542007_wNKJa.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/542007",
+    "bgm_id": "542007",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "204084",
     "type": "tmdb",
     "title": "梦幻之境",
@@ -22,6 +59,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/637802",
+    "bgm_id": "637802",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -34,58 +86,6 @@
     "bgm_id": "688797",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "335194",
-    "type": "tmdb",
-    "title": "魔法★探险家",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-    "link": null,
-    "bgm_id": "456078",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 29,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "335194",
-    "tmdb_site_id": "tv/335194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637802",
-    "bgm_id": "637802",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/630160",
-    "bgm_id": "630160",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -122,7 +122,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.6,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 7
   },
   {
@@ -146,6 +146,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   },
   {
     "id": "334779",
@@ -382,21 +397,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/694622",
     "bgm_id": "694622",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "701565",
-    "type": "link",
-    "title": "ふんばるず",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/79/c2/701565_WkAaz.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/701565",
-    "bgm_id": "701565",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

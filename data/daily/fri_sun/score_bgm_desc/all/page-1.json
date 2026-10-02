@@ -1,18 +1,18 @@
 [
   {
-    "id": "589775",
+    "id": "636512",
     "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "至高之力",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
+    "rating": "8.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/636512",
+    "bgm_id": "636512",
+    "bgm_score": 8.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
   },
   {
     "id": "507820",
@@ -36,27 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "8.0",
+    "rating": "7.7",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/617273",
     "bgm_id": "617273",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "636512",
-    "type": "link",
-    "title": "至高之力",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/636512",
-    "bgm_id": "636512",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 7.7,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 6
   },
   {
@@ -121,7 +106,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.3,
-    "bgm_rating_total": 24,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -227,6 +212,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "312359",
     "type": "tmdb",
     "title": "龙珠超 比鲁斯",
@@ -279,6 +279,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/568244",
+    "bgm_id": "568244",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 19,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "324502",
     "type": "tmdb",
     "title": "装备我最强",
@@ -301,33 +316,18 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/568244",
-    "bgm_id": "568244",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 17,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f9/ae/616808_F80Sl.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 56,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 6
   },
   {
@@ -346,6 +346,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "630160",
+    "type": "link",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/630160",
+    "bgm_id": "630160",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "301139",
     "type": "tmdb",
     "title": "僵尸搜寻中",
@@ -357,7 +372,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 6.2,
-    "bgm_rating_total": 5,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -381,20 +396,5 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "542007",
-    "type": "link",
-    "title": "转生后的大圣女，极力隐瞒圣女的身分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/81/542007_wNKJa.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/542007",
-    "bgm_id": "542007",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
   }
 ]

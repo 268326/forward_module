@@ -1,5 +1,20 @@
 [
   {
+    "id": "634210",
+    "type": "link",
+    "title": "魔法姐妹露露特莉莉 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/634210",
+    "bgm_id": "634210",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "664389",
     "type": "link",
     "title": "夜樱家的大作战 第二季 第2部分",
@@ -194,21 +209,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
@@ -229,6 +229,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   },
   {
     "id": "688797",
@@ -326,6 +341,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "709326",
+    "type": "link",
+    "title": "Kiff: Scarm II: The Screamwriter",
+    "posterPath": null,
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/709326",
+    "bgm_id": "709326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "665014",
     "type": "link",
     "title": "黑暗学院 第二季",
@@ -354,42 +384,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "576783",
-    "type": "link",
-    "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_fzZXD.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/576783",
-    "bgm_id": "576783",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "337069",
-    "type": "tmdb",
-    "title": "ちょこっとヤバシティ",
-    "posterPath": "https://image.tmdb.org/t/p/w500/21B8lbtKam0H1qFLWQT5OaraVDn.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期四]",
-    "link": null,
-    "bgm_id": "700127",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "337069",
-    "tmdb_site_id": "tv/337069",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

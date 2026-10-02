@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.6,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 7
   },
   {
@@ -51,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "6.4",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/630160",
     "bgm_id": "630160",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 7
   },
   {
@@ -72,6 +72,21 @@
     "bgm_id": "536270",
     "bgm_score": 7.0,
     "bgm_rating_total": 3,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 7
   },
   {
@@ -105,17 +120,17 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "589775",
+    "id": "636023",
     "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "9.0",
+    "rating": "5.0",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 9.0,
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
   },
@@ -175,21 +190,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/632817",
     "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

@@ -1,5 +1,20 @@
 [
   {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "646154",
     "type": "link",
     "title": "世界最强的魔女，就此开始",
@@ -96,12 +111,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 9,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 4
   },
   {
@@ -130,7 +145,7 @@
     "id": "311842",
     "type": "tmdb",
     "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5rGPQKYveS5unWPcJ32BwH9rdvR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
     "rating": "0.0",
@@ -138,7 +153,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 464,
+    "bgm_rating_total": 506,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -185,12 +200,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.6",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 42,
+    "bgm_score": 7.6,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 4
   },
   {
@@ -319,12 +334,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.8",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 17,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 5
   },
   {
@@ -370,21 +385,6 @@
     "bgm_id": "621108",
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "632061",
-    "type": "link",
-    "title": "决斗大师 LOST ～断罪的少年～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/632061",
-    "bgm_id": "632061",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
     "bgm_weekday_id": 5
   }
 ]

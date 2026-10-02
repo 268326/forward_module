@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.6,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 7
   },
   {
@@ -42,6 +42,21 @@
     "bgm_id": "555605",
     "bgm_score": 7.4,
     "bgm_rating_total": 8,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "630160",
+    "type": "link",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/630160",
+    "bgm_id": "630160",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 7
   },
   {
@@ -89,21 +104,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/630160",
-    "bgm_id": "630160",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "536270",
     "type": "link",
     "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
@@ -139,6 +139,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
   },
   {
     "id": "312359",
@@ -193,21 +208,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "9.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
@@ -228,6 +228,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
   },
   {
     "id": "688797",
@@ -310,21 +325,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   },
   {
     "id": "636058",

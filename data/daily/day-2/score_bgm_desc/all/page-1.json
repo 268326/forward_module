@@ -74,6 +74,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "634708",
+    "type": "link",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/634708",
+    "bgm_id": "634708",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "326788",
     "type": "tmdb",
     "title": "赛博朋克：边缘行者 2",
@@ -95,21 +110,6 @@
       "PL"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
   },
   {
     "id": "285710",
@@ -161,6 +161,21 @@
     "bgm_id": "584847",
     "bgm_score": 4.5,
     "bgm_rating_total": 40,
+    "bgm_weekday_id": 2
+  },
+  {
+    "id": "709326",
+    "type": "link",
+    "title": "Kiff: Scarm II: The Screamwriter",
+    "posterPath": null,
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/709326",
+    "bgm_id": "709326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 2
   }
 ]
