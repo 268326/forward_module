@@ -1,5 +1,35 @@
 [
   {
+    "id": "636512",
+    "type": "link",
+    "title": "至高之力",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "8.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/636512",
+    "bgm_id": "636512",
+    "bgm_score": 8.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "536270",
+    "type": "link",
+    "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/536270",
+    "bgm_id": "536270",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "624923",
     "type": "link",
     "title": "你好，我是受心上人所托来做恋爱药的魔女。",
@@ -60,36 +90,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "617273",
-    "type": "link",
-    "title": "Keroro军曹☆",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/617273",
-    "bgm_id": "617273",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "536270",
-    "type": "link",
-    "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/536270",
-    "bgm_id": "536270",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "34158",
     "type": "tmdb",
     "title": "魔法骑士雷阿斯 (2026)",
@@ -140,21 +140,6 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "563508",
-    "type": "link",
-    "title": "神秘面包小子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/563508",
-    "bgm_id": "563508",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "621108",
     "type": "link",
     "title": "萤火虫的出嫁",
@@ -166,6 +151,21 @@
     "link": "http://bgm.tv/subject/621108",
     "bgm_id": "621108",
     "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "Welsh &amp; Shedar",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 6.5,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },

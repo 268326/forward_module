@@ -42,5 +42,27 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "337195",
+    "type": "tmdb",
+    "title": "しろたん",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dlYiEcuj9YSJQ1JKQfFaedVxFtV.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "637206",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "337195",
+    "tmdb_site_id": "tv/337195",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14799,
+    "bgm_rating_total": 14788,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 600,
+    "bgm_rating_total": 631,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -53,7 +53,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 124,
+    "bgm_rating_total": 138,
     "bgm_weekday_id": 4
   },
   {
@@ -68,7 +68,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 3
   },
   {
@@ -83,7 +83,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 2
   },
   {
@@ -128,7 +128,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.7,
-    "bgm_rating_total": 20,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 4
   },
   {
@@ -191,6 +191,28 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "316891",
+    "type": "tmdb",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
+    "link": null,
+    "bgm_id": "634708",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316891",
+    "tmdb_site_id": "tv/316891",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "206630",
     "type": "tmdb",
     "title": "佐佐木与文鸟小哔 第二季",
@@ -209,21 +231,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2
   },
   {
     "id": "650428",

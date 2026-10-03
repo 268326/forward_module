@@ -76,7 +76,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14799,
+    "bgm_rating_total": 14788,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -175,21 +175,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "617273",
-    "type": "link",
-    "title": "Keroro军曹☆",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/617273",
-    "bgm_id": "617273",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -201,7 +186,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11594,
+    "bgm_rating_total": 11586,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -221,7 +206,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 124,
+    "bgm_rating_total": 138,
     "bgm_weekday_id": 4
   },
   {
@@ -255,21 +240,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "617948",
-    "type": "link",
-    "title": "桃源暗鬼 ～日光・华严之泷篇～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/617948",
-    "bgm_id": "617948",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "567896",
     "type": "link",
     "title": "黑色五叶草 第二季",
@@ -285,19 +255,19 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "634708",
+    "id": "568244",
     "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "releaseDate": "2026-10-02",
     "mediaType": "anime",
     "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/568244",
+    "bgm_id": "568244",
     "bgm_score": 7.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2
+    "bgm_rating_total": 80,
+    "bgm_weekday_id": 5
   },
   {
     "id": "283938",
@@ -318,21 +288,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/568244",
-    "bgm_id": "568244",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 45,
-    "bgm_weekday_id": 5
   },
   {
     "id": "513878",
@@ -378,5 +333,50 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "568525",
+    "type": "link",
+    "title": "朱色假面",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/3a/11/568525_ovn2M.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/568525",
+    "bgm_id": "568525",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "617273",
+    "type": "link",
+    "title": "Keroro军曹☆",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/617273",
+    "bgm_id": "617273",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
   }
 ]

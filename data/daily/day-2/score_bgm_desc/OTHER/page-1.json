@@ -30,21 +30,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "513878",
     "type": "link",
     "title": "赛博朋克：边缘行者 2",
@@ -86,7 +71,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 2
   },
   {

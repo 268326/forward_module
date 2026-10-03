@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11594,
+    "bgm_rating_total": 11586,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 64,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 6
   },
   {
@@ -61,12 +61,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.3",
+    "rating": "6.4",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 7,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -85,6 +85,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "617273",
+    "type": "link",
+    "title": "Keroro军曹☆",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/617273",
+    "bgm_id": "617273",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "636512",
     "type": "link",
     "title": "至高之力",
@@ -97,21 +112,6 @@
     "bgm_id": "636512",
     "bgm_score": 8.3,
     "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "617273",
-    "type": "link",
-    "title": "Keroro军曹☆",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/617273",
-    "bgm_id": "617273",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
     "bgm_weekday_id": 6
   },
   {
@@ -185,21 +185,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/613256",
     "bgm_id": "613256",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "637206",
-    "type": "link",
-    "title": "しろたん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/62/0c/637206_BoQXi.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637206",
-    "bgm_id": "637206",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

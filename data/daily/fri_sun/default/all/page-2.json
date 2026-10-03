@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 64,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 6
   },
   {
@@ -36,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.0",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/617273",
     "bgm_id": "617273",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 6
   },
   {
@@ -60,19 +60,26 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "637206",
-    "type": "link",
+    "id": "337195",
+    "type": "tmdb",
     "title": "しろたん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/62/0c/637206_BoQXi.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dlYiEcuj9YSJQ1JKQfFaedVxFtV.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637206",
+    "link": null,
     "bgm_id": "637206",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "337195",
+    "tmdb_site_id": "tv/337195",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "637802",
@@ -81,12 +88,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.3",
+    "rating": "6.4",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 7,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -171,12 +178,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/536270",
     "bgm_id": "536270",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -287,8 +294,8 @@
     "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
     "link": null,
     "bgm_id": "621073",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 4,
+    "bgm_score": 5.4,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 7,
     "tmdb_id": "288588",
     "tmdb_site_id": "tv/288588",

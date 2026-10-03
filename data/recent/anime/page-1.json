@@ -93,6 +93,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "117120",
     "type": "tmdb",
     "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
@@ -107,6 +118,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "12话 /  2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "link": "https://bgm.tv/subject/568244"
   },
   {
     "id": "288971",
@@ -125,31 +147,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "513878",
+    "id": "665390",
     "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
-    "releaseDate": "2026-10-20",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.0",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
-  },
-  {
-    "id": "286345",
-    "type": "tmdb",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": null,
-    "tmdb_id": "286345",
-    "tmdb_site_id": "tv/286345",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "rating": "7.4",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": "https://bgm.tv/subject/665390"
   },
   {
     "id": "79166",
@@ -164,6 +170,22 @@
     "tmdb_id": "79166",
     "tmdb_site_id": "tv/79166/season/3",
     "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": null,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -200,17 +222,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_0D00X.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "12话 /  2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
-    "link": "https://bgm.tv/subject/568244"
-  },
-  {
     "id": "285574",
     "type": "tmdb",
     "title": "与你相恋到生命尽头",
@@ -243,17 +254,35 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312266",
+    "id": "284580",
     "type": "tmdb",
-    "title": "花织即使是转生也想打架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
+    "title": "某暗部的少女共栖",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+    "releaseDate": "2026-10-09",
     "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "rating": "0.0",
+    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
-    "tmdb_id": "312266",
-    "tmdb_site_id": "tv/312266",
+    "tmdb_id": "284580",
+    "tmdb_site_id": "tv/284580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "287028",
+    "type": "tmdb",
+    "title": "画完这个再去死",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "releaseDate": "2026-07-03",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+    "link": null,
+    "tmdb_id": "287028",
+    "tmdb_site_id": "tv/287028",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -275,17 +304,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "287028",
+    "id": "312266",
     "type": "tmdb",
-    "title": "画完这个再去死",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "releaseDate": "2026-07-03",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "12话 /  2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+    "rating": "6.9",
+    "description": "12话 /  2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
-    "tmdb_id": "287028",
-    "tmdb_site_id": "tv/287028",
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -297,7 +326,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
     "releaseDate": "2026-07-06",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "12话 /  2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月、安本朱希(3,6,9-11)",
     "link": null,
     "tmdb_id": "309974",
@@ -307,15 +336,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
+    "id": "616808",
     "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
+    "title": "野生的大魔王出现了！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
+    "rating": "6.5",
+    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
+    "link": "https://bgm.tv/subject/616808"
   },
   {
     "id": "300112",
@@ -329,40 +358,6 @@
     "link": null,
     "tmdb_id": "300112",
     "tmdb_site_id": "tv/300112",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "284580",
-    "type": "tmdb",
-    "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
-    "link": null,
-    "tmdb_id": "284580",
-    "tmdb_site_id": "tv/284580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296101",
-    "type": "tmdb",
-    "title": "Grow Up Show ～向日葵马戏团～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
-    "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

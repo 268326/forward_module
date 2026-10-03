@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.2",
+    "rating": "6.4",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 13,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 5
   },
   {
@@ -36,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.5",
+    "rating": "5.8",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/563508",
     "bgm_id": "563508",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
@@ -51,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.1",
+    "rating": "7.2",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 45,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 5
   },
   {
@@ -81,12 +81,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "6.3",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.3,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 5
   },
   {
@@ -171,12 +171,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -191,7 +191,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11594,
+    "bgm_rating_total": 11586,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -321,7 +321,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 64,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 6
   },
   {
@@ -331,12 +331,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.0",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/617273",
     "bgm_id": "617273",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 6
   },
   {
@@ -355,18 +355,18 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "637206",
+    "id": "637802",
     "type": "link",
-    "title": "しろたん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/62/0c/637206_BoQXi.jpg",
+    "title": "乱马1/2 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.4",
     "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637206",
-    "bgm_id": "637206",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "link": "http://bgm.tv/subject/637802",
+    "bgm_id": "637802",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   }
 ]

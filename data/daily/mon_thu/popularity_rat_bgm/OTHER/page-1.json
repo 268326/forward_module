@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14799,
+    "bgm_rating_total": 14788,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 124,
+    "bgm_rating_total": 138,
     "bgm_weekday_id": 4
   },
   {
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 3
   },
   {
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 2
   },
   {
@@ -106,7 +106,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.7,
-    "bgm_rating_total": 20,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 4
   },
   {
@@ -143,21 +143,6 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2
   },
   {
     "id": "650428",
@@ -370,6 +355,21 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "614640",
+    "type": "link",
+    "title": "PSYREN -决战游戏-",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_ESMLl.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/614640",
+    "bgm_id": "614640",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1

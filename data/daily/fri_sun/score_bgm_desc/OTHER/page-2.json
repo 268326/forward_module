@@ -1,17 +1,32 @@
 [
   {
+    "id": "688797",
+    "type": "link",
+    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/688797",
+    "bgm_id": "688797",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.5",
+    "rating": "5.8",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/563508",
     "bgm_id": "563508",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
@@ -21,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.5",
+    "rating": "5.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 73,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 76,
     "bgm_weekday_id": 7
   },
   {
@@ -105,21 +120,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701782",
-    "type": "link",
-    "title": "Welsh &amp; Shedar",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "606716",
     "type": "link",
     "title": "用【循环利息】强制收回借出的魔力",
@@ -145,21 +145,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/613256",
     "bgm_id": "613256",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "637206",
-    "type": "link",
-    "title": "しろたん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/62/0c/637206_BoQXi.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637206",
-    "bgm_id": "637206",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
@@ -355,6 +340,21 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664395",
     "bgm_id": "664395",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "708612",
+    "type": "link",
+    "title": "ダークサモナーとデキている  ミニアニメ劇場",
+    "posterPath": null,
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/708612",
+    "bgm_id": "708612",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

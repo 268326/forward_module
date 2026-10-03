@@ -1,5 +1,20 @@
 [
   {
+    "id": "542007",
+    "type": "link",
+    "title": "转生后的大圣女，极力隐瞒圣女的身分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/81/542007_wNKJa.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/542007",
+    "bgm_id": "542007",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "568525",
     "type": "link",
     "title": "朱色假面",
@@ -105,21 +120,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701782",
-    "type": "link",
-    "title": "Welsh &amp; Shedar",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "606716",
     "type": "link",
     "title": "用【循环利息】强制收回借出的魔力",
@@ -145,21 +145,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/613256",
     "bgm_id": "613256",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "637206",
-    "type": "link",
-    "title": "しろたん",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/62/0c/637206_BoQXi.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637206",
-    "bgm_id": "637206",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
@@ -355,6 +340,21 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664395",
     "bgm_id": "664395",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "708612",
+    "type": "link",
+    "title": "ダークサモナーとデキている  ミニアニメ劇場",
+    "posterPath": null,
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/708612",
+    "bgm_id": "708612",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

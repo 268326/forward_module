@@ -1,35 +1,5 @@
 [
   {
-    "id": "568244",
-    "type": "link",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/568244",
-    "bgm_id": "568244",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 45,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "513878",
-    "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/513878",
-    "bgm_id": "513878",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 23,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "471844",
     "type": "link",
     "title": "归还者的魔法要特别 第二季",
@@ -90,19 +60,19 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "536270",
+    "id": "617273",
     "type": "link",
-    "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "Keroro军曹☆",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/536270",
-    "bgm_id": "536270",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/617273",
+    "bgm_id": "617273",
     "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 7
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 6
   },
   {
     "id": "589775",
@@ -194,6 +164,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "536270",
+    "type": "link",
+    "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/536270",
+    "bgm_id": "536270",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -205,7 +190,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 3
   },
   {
@@ -220,7 +205,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.7,
-    "bgm_rating_total": 31,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -246,6 +231,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "701782",
+    "type": "link",
+    "title": "Welsh &amp; Shedar",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
@@ -257,22 +257,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 64,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/637802",
-    "bgm_id": "637802",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 6
   },
   {
@@ -282,12 +267,42 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.2",
+    "rating": "6.4",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 13,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 16,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/637802",
+    "bgm_id": "637802",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "617948",
+    "type": "link",
+    "title": "桃源暗鬼 ～日光・华严之泷篇～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/617948",
+    "bgm_id": "617948",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 5
   },
   {
@@ -377,21 +392,6 @@
     "bgm_id": "621108",
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   }
 ]

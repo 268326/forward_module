@@ -71,7 +71,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 2
   },
   {
@@ -131,7 +131,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 3
   },
   {
@@ -280,21 +280,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -368,5 +353,25 @@
     "bgm_score": 8.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "316694",
+    "type": "tmdb",
+    "title": "转生哥布林有问题吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "634587",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "316694",
+    "tmdb_site_id": "tv/316694",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

@@ -1,20 +1,5 @@
 [
   {
-    "id": "701779",
-    "type": "link",
-    "title": "マゼンチュ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/78/a0/701779_0phov.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/701779",
-    "bgm_id": "701779",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "709475",
     "type": "link",
     "title": "ゲルぴよ 第2期",
@@ -71,7 +56,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.7,
-    "bgm_rating_total": 20,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 4
   },
   {
@@ -116,7 +101,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 124,
+    "bgm_rating_total": 138,
     "bgm_weekday_id": 4
   },
   {
@@ -156,12 +141,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.2",
+    "rating": "6.4",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 13,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 5
   },
   {
@@ -186,12 +171,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.5",
+    "rating": "5.8",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/563508",
     "bgm_id": "563508",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
@@ -201,12 +186,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.1",
+    "rating": "7.2",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 45,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 5
   },
   {
@@ -231,12 +216,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "6.3",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.3,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 5
   },
   {
@@ -321,12 +306,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -341,7 +326,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11594,
+    "bgm_rating_total": 11586,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -361,6 +346,21 @@
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
     "bgm_score": 8.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "542007",
+    "type": "link",
+    "title": "转生后的大圣女，极力隐瞒圣女的身分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/81/542007_wNKJa.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/542007",
+    "bgm_id": "542007",
+    "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 6
   }

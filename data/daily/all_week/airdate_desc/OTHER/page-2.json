@@ -60,21 +60,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "634708",
-    "type": "link",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/634708",
-    "bgm_id": "634708",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -206,12 +191,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/fc/536270_51P45.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/536270",
     "bgm_id": "536270",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -360,6 +345,21 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/638081",
     "bgm_id": "638081",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "646586",
+    "type": "link",
+    "title": "ぷにるんず ぷに４",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b7/a4/646586_DcbJB.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/646586",
+    "bgm_id": "646586",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7
