@@ -1,5 +1,20 @@
 [
   {
+    "id": "705980",
+    "type": "link",
+    "title": "熊出没之神奇宝物 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/705980",
+    "bgm_id": "705980",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "544378",
     "type": "link",
     "title": "战斗之魂[Re] 绝界之空",
@@ -58,21 +73,6 @@
     "bgm_score": 8.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "705980",
-    "type": "link",
-    "title": "熊出没之神奇宝物 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/705980",
-    "bgm_id": "705980",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4
   },
   {
     "id": "390200",

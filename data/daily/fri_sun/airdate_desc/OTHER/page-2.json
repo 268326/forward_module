@@ -1,50 +1,5 @@
 [
   {
-    "id": "688797",
-    "type": "link",
-    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/688797",
-    "bgm_id": "688797",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "708612",
-    "type": "link",
-    "title": "ダークサモナーとデキている  ミニアニメ劇場",
-    "posterPath": null,
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/708612",
-    "bgm_id": "708612",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "507820",
-    "type": "link",
-    "title": "大王饶命 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/507820",
-    "bgm_id": "507820",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "542007",
     "type": "link",
     "title": "转生后的大圣女，极力隐瞒圣女的身分",
@@ -56,7 +11,7 @@
     "link": "http://bgm.tv/subject/542007",
     "bgm_id": "542007",
     "bgm_score": 6.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -66,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "7.2",
+    "rating": "7.4",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "554779",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 33,
+    "bgm_score": 7.4,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -86,12 +41,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "6.9",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.9,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6
   },
   {
@@ -121,22 +76,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 69,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "617273",
-    "type": "link",
-    "title": "Keroro军曹☆",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/617273",
-    "bgm_id": "617273",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 4,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 6
   },
   {
@@ -146,12 +86,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "8.3",
+    "rating": "7.2",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/636512",
     "bgm_id": "636512",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 6
   },
   {
@@ -191,12 +131,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.1",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/657084",
     "bgm_id": "657084",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -251,12 +191,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.1",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 16,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 5
   },
   {
@@ -281,12 +221,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 80,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 5
   },
   {
@@ -301,7 +241,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 6.3,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 5
   },
   {
@@ -337,7 +277,7 @@
   {
     "id": "701782",
     "type": "link",
-    "title": "Welsh &amp; Shedar",
+    "title": "苍蓝传承",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
@@ -346,7 +286,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 6.5,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {

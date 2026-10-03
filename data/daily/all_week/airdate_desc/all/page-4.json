@@ -26,23 +26,30 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.5,
-    "bgm_rating_total": 69,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 6
   },
   {
-    "id": "617273",
-    "type": "link",
-    "title": "Keroro军曹☆",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_YNyyP.jpg",
+    "id": "308977",
+    "type": "tmdb",
+    "title": "青蛙军曹☆",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/617273",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
+    "link": null,
     "bgm_id": "617273",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
+    "bgm_score": 6.7,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "636512",
@@ -51,12 +58,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/42/ae/636512_oOtDt.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "8.3",
+    "rating": "7.2",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/636512",
     "bgm_id": "636512",
-    "bgm_score": 8.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 6
   },
   {
@@ -118,12 +125,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.1",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/657084",
     "bgm_id": "657084",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -178,12 +185,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.1",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 16,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 5
   },
   {
@@ -208,12 +215,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 80,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 5
   },
   {
@@ -228,7 +235,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 6.3,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 5
   },
   {
@@ -242,8 +249,8 @@
     "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
     "link": null,
     "bgm_id": "657656",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 34,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -286,7 +293,7 @@
   {
     "id": "701782",
     "type": "link",
-    "title": "Welsh &amp; Shedar",
+    "title": "苍蓝传承",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
@@ -295,7 +302,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 6.5,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
@@ -310,7 +317,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.7,
-    "bgm_rating_total": 21,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 4
   },
   {
@@ -325,7 +332,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.1,
-    "bgm_rating_total": 631,
+    "bgm_rating_total": 714,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -362,7 +369,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 138,
+    "bgm_rating_total": 171,
     "bgm_weekday_id": 4
   },
   {

@@ -51,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 23,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 2
   },
   {
@@ -140,12 +140,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "4.6",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 42,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 2
   },
   {
@@ -264,7 +264,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.1,
-    "bgm_rating_total": 13,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -290,19 +290,26 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "621108",
-    "type": "link",
+    "id": "320909",
+    "type": "tmdb",
     "title": "萤火虫的出嫁",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
     "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/621108",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
+    "link": null,
     "bgm_id": "621108",
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
+    "bgm_weekday_id": 5,
+    "tmdb_id": "320909",
+    "tmdb_site_id": "tv/320909",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "632061",
@@ -393,12 +400,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_7SNBy.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.9",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 26,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 3
   }
 ]

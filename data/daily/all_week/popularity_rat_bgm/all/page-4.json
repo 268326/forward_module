@@ -1,5 +1,20 @@
 [
   {
+    "id": "708080",
+    "type": "link",
+    "title": "Family Guy: Happy Hell-O-Ween",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/708080",
+    "bgm_id": "708080",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -239,21 +254,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "657084",
-    "type": "link",
-    "title": "七叶树王国的七名骑士",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/657084",
-    "bgm_id": "657084",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "694622",
     "type": "link",
     "title": "ねずみくんのチョッキ 第2期",
@@ -366,18 +366,25 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "636058",
-    "type": "link",
+    "id": "329096",
+    "type": "tmdb",
     "title": "来自远方",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/58/0c/636058_bDwNj.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1qp1bKIQgYbgKVP0MBabADtbKyS.jpg",
     "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636058",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
+    "link": null,
     "bgm_id": "636058",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "329096",
+    "tmdb_site_id": "tv/329096",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

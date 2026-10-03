@@ -76,7 +76,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14788,
+    "bgm_rating_total": 14789,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -141,7 +141,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 138,
+    "bgm_rating_total": 171,
     "bgm_weekday_id": 4
   },
   {
@@ -166,12 +166,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 23,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 2
   },
   {
@@ -190,21 +190,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "646154",
-    "type": "link",
-    "title": "世界最强的魔女，就此开始",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/89/fc/646154_uQi81.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/646154",
-    "bgm_id": "646154",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -216,7 +201,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 3
   },
   {
@@ -246,7 +231,7 @@
     "link": "http://bgm.tv/subject/705980",
     "bgm_id": "705980",
     "bgm_score": 6.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 4
   },
   {
@@ -256,12 +241,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_7SNBy.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.9",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 26,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 3
   },
   {
@@ -276,7 +261,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.7,
-    "bgm_rating_total": 21,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 4
   },
   {
@@ -286,12 +271,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "tv",
-    "rating": "5.0",
+    "rating": "5.5",
     "description": "[星期三]",
     "link": null,
     "bgm_id": "486456",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 7,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -321,12 +306,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "4.6",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 42,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 2
   },
   {
@@ -373,5 +358,25 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "316694",
+    "type": "tmdb",
+    "title": "转生哥布林有问题吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "634587",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "316694",
+    "tmdb_site_id": "tv/316694",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

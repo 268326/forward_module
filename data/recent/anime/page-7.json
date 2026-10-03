@@ -91,15 +91,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "617273",
-    "type": "link",
-    "title": "Keroro军曹☆",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/14/617273_YNyyP.jpg",
+    "id": "308977",
+    "type": "tmdb",
+    "title": "青蛙军曹☆",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月3日 / 佐野聡彦 / 吉崎観音（角川コミックス・エース『ケロロ軍曹』/KADOKAWA刊） / 中山初絵",
-    "link": "https://bgm.tv/subject/617273"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
+    "link": null,
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "613256",

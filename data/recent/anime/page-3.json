@@ -187,15 +187,15 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月3日 / 高村和宏",
+    "rating": "7.2",
+    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
     "link": "https://bgm.tv/subject/636512"
   },
   {
     "id": "335194",
     "type": "tmdb",
     "title": "魔法★探险家",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "0.0",
@@ -232,7 +232,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/61/393010_7SNBy.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.9",
     "description": "13话 /  2026年10月7日 / 栗原学 / 二語十（MF文库J「探偵はもう、死んでいる。」/KADOKAWA刊） / 伊藤陽祐",
     "link": "https://bgm.tv/subject/393010"
   },
@@ -254,7 +254,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "",
+    "rating": "7.3",
     "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
     "link": "https://bgm.tv/subject/555605"
   },

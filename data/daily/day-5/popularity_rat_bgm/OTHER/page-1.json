@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/568244",
     "bgm_id": "568244",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 80,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 5
   },
   {
@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.1",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 16,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 5
   },
   {
@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 6.3,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 5
   },
   {
@@ -60,24 +60,9 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "621108",
-    "type": "link",
-    "title": "萤火虫的出嫁",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/621108",
-    "bgm_id": "621108",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "701782",
     "type": "link",
-    "title": "Welsh &amp; Shedar",
+    "title": "苍蓝传承",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
@@ -86,7 +71,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 6.5,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {

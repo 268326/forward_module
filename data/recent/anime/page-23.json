@@ -22,7 +22,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/48/bc/708197_9K9kZ.jpg",
     "releaseDate": "2027-01-01",
     "mediaType": "anime",
-    "rating": "7.6",
+    "rating": "",
     "description": "2027年 / 理不尽な孫の手（MFブックス／KADOKAWA刊）",
     "link": "https://bgm.tv/subject/708197"
   },
@@ -75,22 +75,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "335788",
-    "type": "tmdb",
-    "title": "蒼き伝承 ウェルシュ＆シェダー",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "2026年10月2日 / 堀内直樹 / Tot / 仲敷沙織",
-    "link": null,
-    "tmdb_id": "335788",
-    "tmdb_site_id": "tv/335788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "anime",
+    "rating": "",
+    "description": "2026年10月2日 / 堀内直樹 / Tot(Anthony Roux) / 仲敷沙織",
+    "link": "https://bgm.tv/subject/701782"
   },
   {
     "id": "208829",
