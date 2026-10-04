@@ -6,8 +6,8 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.7",
-    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "rating": "7.1",
+    "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
     "link": "https://bgm.tv/subject/548156"
   },
   {
@@ -70,15 +70,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "630160",
-    "type": "link",
+    "id": "335790",
+    "type": "tmdb",
     "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
     "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
-    "link": "https://bgm.tv/subject/630160"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
+    "link": null,
+    "tmdb_id": "335790",
+    "tmdb_site_id": "tv/335790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "412008",

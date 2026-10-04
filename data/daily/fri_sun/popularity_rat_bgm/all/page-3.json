@@ -1,5 +1,65 @@
 [
   {
+    "id": "701310",
+    "type": "link",
+    "title": "格林姐妹大冒险 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701310",
+    "bgm_id": "701310",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "613256",
+    "type": "link",
+    "title": "恐怖收集者",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/613256",
+    "bgm_id": "613256",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "654678",
+    "type": "link",
+    "title": "屁屁侦探 第11季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/8d/0c/654678_mR190.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/654678",
+    "bgm_id": "654678",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "694622",
+    "type": "link",
+    "title": "ねずみくんのチョッキ 第2期",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/1b/694622_NhQb3.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/694622",
+    "bgm_id": "694622",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "337260",
     "type": "tmdb",
     "title": "ふんばるず",
@@ -22,19 +82,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "702192",
-    "type": "link",
+    "id": "231801",
+    "type": "tmdb",
     "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事背景为近未来的洛杉矶，整座城市被“美食秩序”彻底掌控：顶级主厨的权势堪比黑帮大佬，餐厅就是各方势力的权力中心，为了拿下顶级餐厅的一席位，有人不惜突破底线，不同的烹饪理念更是分化出针锋相对的派系。",
+    "link": null,
     "bgm_id": "702192",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "231801",
+    "tmdb_site_id": "tv/231801",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "551304",
@@ -50,28 +117,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "330505",
-    "type": "tmdb",
-    "title": "大叔喜欢可爱小玩意",
-    "posterPath": "https://image.tmdb.org/t/p/w500/l5RosRt3Fe85WJZl65WFWzo4Q9X.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
-    "link": null,
-    "bgm_id": "605533",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "330505",
-    "tmdb_site_id": "tv/330505",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "632817",
@@ -111,43 +156,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "329096",
-    "type": "tmdb",
-    "title": "来自远方",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1qp1bKIQgYbgKVP0MBabADtbKyS.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
-    "link": null,
-    "bgm_id": "636058",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "329096",
-    "tmdb_site_id": "tv/329096",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "638081",
-    "type": "link",
-    "title": "小狸猫与小狐狸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/638081",
-    "bgm_id": "638081",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "646586",
     "type": "link",
     "title": "ぷにるんず ぷに４",
@@ -183,21 +191,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "664395",
-    "type": "link",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664395",
-    "bgm_id": "664395",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   },
   {
     "id": "708612",

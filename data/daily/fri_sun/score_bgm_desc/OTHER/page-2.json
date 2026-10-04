@@ -75,21 +75,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "551304",
     "type": "link",
     "title": "我的幸福婚姻 特别篇",
@@ -120,21 +105,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "638081",
-    "type": "link",
-    "title": "小狸猫与小狐狸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/638081",
-    "bgm_id": "638081",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "646586",
     "type": "link",
     "title": "ぷにるんず ぷに４",
@@ -145,21 +115,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/646586",
     "bgm_id": "646586",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "664395",
-    "type": "link",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664395",
-    "bgm_id": "664395",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

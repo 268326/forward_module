@@ -20,5 +20,27 @@
       "FR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "231801",
+    "type": "tmdb",
+    "title": "极道寿司次郎！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "故事背景为近未来的洛杉矶，整座城市被“美食秩序”彻底掌控：顶级主厨的权势堪比黑帮大佬，餐厅就是各方势力的权力中心，为了拿下顶级餐厅的一席位，有人不惜突破底线，不同的烹饪理念更是分化出针锋相对的派系。",
+    "link": null,
+    "bgm_id": "702192",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "231801",
+    "tmdb_site_id": "tv/231801",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

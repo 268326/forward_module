@@ -1,20 +1,5 @@
 [
   {
-    "id": "390200",
-    "type": "link",
-    "title": "列女战纪：女娲石记",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/390200",
-    "bgm_id": "390200",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "614640",
     "type": "link",
     "title": "PSYREN -决战游戏-",
@@ -86,12 +71,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_n0qcY.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.1",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 20,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 7
   },
   {
@@ -101,12 +86,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_cLCw5.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 11,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 7
   },
   {
@@ -122,21 +107,6 @@
     "bgm_id": "589775",
     "bgm_score": 7.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/630160",
-    "bgm_id": "630160",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 7,
     "bgm_weekday_id": 7
   },
   {
@@ -161,12 +131,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "8.0",
+    "rating": "7.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 4,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 7
   },
   {
@@ -176,12 +146,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.3",
+    "rating": "6.1",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/636023",
     "bgm_id": "636023",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 3,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 7
   },
   {
@@ -191,12 +161,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "7.3",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/638081",
     "bgm_id": "638081",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -226,7 +196,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 86,
+    "bgm_rating_total": 92,
     "bgm_weekday_id": 7
   },
   {
@@ -241,7 +211,7 @@
     "link": "http://bgm.tv/subject/688797",
     "bgm_id": "688797",
     "bgm_score": 6.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 7
   },
   {
@@ -266,12 +236,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "8.0",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 8.0,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -286,28 +256,13 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.3,
-    "bgm_rating_total": 242,
+    "bgm_rating_total": 419,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "567896",
-    "type": "link",
-    "title": "黑色五叶草 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/567896",
-    "bgm_id": "567896",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 6
   },
   {
     "id": "616808",
@@ -321,22 +276,22 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 92,
+    "bgm_rating_total": 107,
     "bgm_weekday_id": 6
   },
   {
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 45,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 81,
     "bgm_weekday_id": 6
   },
   {
@@ -368,5 +323,50 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "499474",
+    "type": "link",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/499474",
+    "bgm_id": "499474",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 23,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "563508",
+    "type": "link",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "568244",
+    "type": "link",
+    "title": "药屋少女的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/568244",
+    "bgm_id": "568244",
+    "bgm_score": 7.4,
+    "bgm_rating_total": 201,
+    "bgm_weekday_id": 5
   }
 ]
