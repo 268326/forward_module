@@ -1,16 +1,38 @@
 [
   {
-    "id": "701782",
+    "id": "288588",
+    "type": "tmdb",
+    "title": "和没有信徒的女神大人一起攻略异世界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
+    "link": null,
+    "bgm_id": "621073",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "288588",
+    "tmdb_site_id": "tv/288588",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "563508",
     "type": "link",
-    "title": "苍蓝传承",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "5.8",
     "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 6.5,
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.8,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
@@ -49,6 +71,21 @@
     "bgm_id": "634210",
     "bgm_score": 8.0,
     "bgm_rating_total": 4,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 7
   },
   {
@@ -114,7 +151,7 @@
     "id": "312359",
     "type": "tmdb",
     "title": "龙珠超 比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/l3jo8H7Wdr8deirwPwqgupKr40C.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "tv",
     "rating": "0.0",
@@ -131,21 +168,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
   },
   {
     "id": "664389",
@@ -215,25 +237,32 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "568525",
-    "type": "link",
+    "id": "295420",
+    "type": "tmdb",
     "title": "朱色假面",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3a/11/568525_ovn2M.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
     "releaseDate": "2026-10-10",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/568525",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
+    "link": null,
     "bgm_id": "568525",
     "bgm_score": 7.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
-    "posterPath": "https://image.tmdb.org/t/p/w500/AaRhe35vnq05pQr9WHvOzzGPISS.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
     "rating": "0.0",
@@ -325,21 +354,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "606716",
-    "type": "link",
-    "title": "用【循环利息】强制收回借出的魔力",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/11/606716_Om183.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/606716",
-    "bgm_id": "606716",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "613256",

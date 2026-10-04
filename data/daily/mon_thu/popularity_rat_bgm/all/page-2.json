@@ -30,19 +30,26 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "593565",
-    "type": "link",
+    "id": "327765",
+    "type": "tmdb",
     "title": "超巡！超条前辈",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/c1/593565_nno0j.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
     "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/593565",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为\"大猩猩\"的新人警察一本木直，最强（？）搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
+    "link": null,
     "bgm_id": "593565",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
+    "bgm_weekday_id": 2,
+    "tmdb_id": "327765",
+    "tmdb_site_id": "tv/327765",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "573707",

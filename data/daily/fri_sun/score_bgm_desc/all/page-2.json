@@ -1,79 +1,5 @@
 [
   {
-    "id": "301139",
-    "type": "tmdb",
-    "title": "僵尸搜寻中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
-    "link": null,
-    "bgm_id": "586255",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "301139",
-    "tmdb_site_id": "tv/301139",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "657084",
-    "type": "link",
-    "title": "七叶树王国的七名骑士",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.1",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/657084",
-    "bgm_id": "657084",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "320909",
-    "type": "tmdb",
-    "title": "萤火虫的出嫁",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
-    "link": null,
-    "bgm_id": "621108",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "320909",
-    "tmdb_site_id": "tv/320909",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "335194",
     "type": "tmdb",
     "title": "魔法★探险家",
@@ -81,11 +7,11 @@
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+    "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
     "link": null,
     "bgm_id": "456078",
     "bgm_score": 6.0,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 6,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
@@ -94,21 +20,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "542007",
-    "type": "link",
-    "title": "转生后的大圣女，极力隐瞒圣女的身分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/81/542007_wNKJa.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/542007",
-    "bgm_id": "542007",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 6
   },
   {
     "id": "204084",
@@ -129,28 +40,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "FR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "290019",
-    "type": "tmdb",
-    "title": "和班上第二可爱的女孩子成为了朋友",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "8.2",
-    "description": "连熟人都没有的我——前原真树，结交的第一个朋友是朝凪海。\n\n朝凪小姐被男生们称为\"班上第二可爱\"，对天真烂漫的头号美少女天海小姐百般照顾。然而，只有周五放学后，她才会偷偷来我家玩。我和兴趣相投（电影、游戏、漫画）的她，共度了快乐的时光。她那无邪又爱撒娇的真实一面，完全无法让人联想到平日里那个干练可靠的她。\n\n“喂，快到我旁边来。我们一起看漫画吧。”“这里是我的床啊……”“现在是我的床啦。来，快过来？”朝凪小姐，你的距离感是不是有点问题？\n\n内向男生与班上第二漂亮的女生之间，真实自然、充满生活感的‘朋友’式恋爱喜剧就此开幕！",
-    "link": null,
-    "bgm_id": "647220",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -185,19 +74,115 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "636023",
+    "id": "499474",
     "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
+    "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
+    "rating": "5.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/499474",
+    "bgm_id": "499474",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 22,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "285899",
+    "type": "tmdb",
+    "title": "转生后的大圣女，极力隐瞒圣女的身份",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
+    "link": null,
+    "bgm_id": "542007",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 21,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "285899",
+    "tmdb_site_id": "tv/285899",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "301139",
+    "type": "tmdb",
+    "title": "僵尸搜寻中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+    "link": null,
+    "bgm_id": "586255",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 35,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "301139",
+    "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "617948",
+    "type": "link",
+    "title": "桃源暗鬼 ～日光・华严之泷篇～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/617948",
+    "bgm_id": "617948",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 13,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "290019",
+    "type": "tmdb",
+    "title": "和班上第二可爱的女孩子成为了朋友",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "8.2",
+    "description": "连熟人都没有的我——前原真树，结交的第一个朋友是朝凪海。\n\n朝凪小姐被男生们称为\"班上第二可爱\"，对天真烂漫的头号美少女天海小姐百般照顾。然而，只有周五放学后，她才会偷偷来我家玩。我和兴趣相投（电影、游戏、漫画）的她，共度了快乐的时光。她那无邪又爱撒娇的真实一面，完全无法让人联想到平日里那个干练可靠的她。\n\n“喂，快到我旁边来。我们一起看漫画吧。”“这里是我的床啊……”“现在是我的床啦。来，快过来？”朝凪小姐，你的距离感是不是有点问题？\n\n内向男生与班上第二漂亮的女生之间，真实自然、充满生活感的‘朋友’式恋爱喜剧就此开幕！",
+    "link": null,
+    "bgm_id": "647220",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "290019",
+    "tmdb_site_id": "tv/290019",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "656083",
@@ -211,14 +196,14 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 83,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 7
   },
   {
     "id": "288588",
     "type": "tmdb",
     "title": "和没有信徒的女神大人一起攻略异世界",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pGRpgwTNGdgp8STDVNB2kFeXPr2.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "tv",
     "rating": "0.0",
@@ -235,6 +220,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7
   },
   {
     "id": "334779",
@@ -259,10 +259,32 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "333622",
+    "type": "tmdb",
+    "title": "借出去的魔力要用【分期还款】强制收回",
+    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
+    "link": null,
+    "bgm_id": "606716",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "333622",
+    "tmdb_site_id": "tv/333622",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
-    "posterPath": "https://image.tmdb.org/t/p/w500/AaRhe35vnq05pQr9WHvOzzGPISS.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
     "rating": "0.0",
@@ -339,21 +361,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "606716",
-    "type": "link",
-    "title": "用【循环利息】强制收回借出的魔力",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/11/606716_Om183.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/606716",
-    "bgm_id": "606716",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "613256",

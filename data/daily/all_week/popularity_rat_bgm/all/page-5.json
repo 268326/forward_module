@@ -30,19 +30,26 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "661278",
-    "type": "link",
+    "id": "337299",
+    "type": "tmdb",
     "title": "ゆるゆる図鑑",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e3/df/661278_g29RR.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/46yezKNjJ1WPKhImfCqkyS2qTS2.jpg",
     "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/661278",
+    "link": null,
     "bgm_id": "661278",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337299",
+    "tmdb_site_id": "tv/337299",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "664395",

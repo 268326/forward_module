@@ -15,21 +15,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "418229",
-    "type": "link",
-    "title": "魔法少女育成计划 restart",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/52/fe/418229_gcFij.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/418229",
-    "bgm_id": "418229",
-    "bgm_score": 7.9,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "614640",
     "type": "link",
     "title": "PSYREN -决战游戏-",
@@ -42,21 +27,6 @@
     "bgm_id": "614640",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "624923",
-    "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/624923",
-    "bgm_id": "624923",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 3,
     "bgm_weekday_id": 1
   },
   {

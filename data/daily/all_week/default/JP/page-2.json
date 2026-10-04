@@ -22,21 +22,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "694622",
-    "type": "link",
-    "title": "ねずみくんのチョッキ 第2期",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/1b/694622_NhQb3.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/694622",
-    "bgm_id": "694622",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "337260",
     "type": "tmdb",
     "title": "ふんばるず",
@@ -59,21 +44,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "283692",
     "type": "tmdb",
     "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
@@ -94,66 +64,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_n0qcY.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/548156",
-    "bgm_id": "548156",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "551304",
-    "type": "link",
-    "title": "我的幸福婚姻 特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_5sWb1.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/551304",
-    "bgm_id": "551304",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "555605",
-    "type": "link",
-    "title": "青之芦苇 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_cLCw5.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/555605",
-    "bgm_id": "555605",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
   },
   {
     "id": "303060",
@@ -244,51 +154,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/630160",
-    "bgm_id": "630160",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "632817",
-    "type": "link",
-    "title": "肥志百科 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/632817",
-    "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "634210",
-    "type": "link",
-    "title": "魔法姐妹露露特莉莉 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/634210",
-    "bgm_id": "634210",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "315682",
     "type": "tmdb",
     "title": "ポップパップポルターズ",
@@ -309,21 +174,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 7
   },
   {
     "id": "329096",
@@ -348,36 +198,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "638081",
-    "type": "link",
-    "title": "小狸猫与小狐狸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/638081",
-    "bgm_id": "638081",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "646586",
-    "type": "link",
-    "title": "ぷにるんず ぷに４",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b7/a4/646586_DcbJB.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/646586",
-    "bgm_id": "646586",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "290019",
     "type": "tmdb",
     "title": "和班上第二可爱的女孩子成为了朋友",
@@ -400,21 +220,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "656083",
-    "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/656083",
-    "bgm_id": "656083",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 86,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "337299",
     "type": "tmdb",
     "title": "ゆるゆる図鑑",
@@ -430,6 +235,28 @@
     "bgm_weekday_id": 7,
     "tmdb_id": "337299",
     "tmdb_site_id": "tv/337299",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "334779",
+    "type": "tmdb",
+    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "698032",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "334779",
+    "tmdb_site_id": "tv/334779",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

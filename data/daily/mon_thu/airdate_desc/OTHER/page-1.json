@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "7.1",
+    "rating": "7.2",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 26,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 31,
     "bgm_weekday_id": 2
   },
   {
@@ -116,7 +116,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.9,
-    "bgm_rating_total": 27,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 3
   },
   {
@@ -131,7 +131,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.7,
-    "bgm_rating_total": 55,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 3
   },
   {
@@ -235,36 +235,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "593565",
-    "type": "link",
-    "title": "超巡！超条前辈",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/c1/593565_nno0j.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/593565",
-    "bgm_id": "593565",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "625799",
-    "type": "link",
-    "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/3a/625799_ycox6.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/625799",
-    "bgm_id": "625799",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -295,21 +265,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "418229",
-    "type": "link",
-    "title": "魔法少女育成计划 restart",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/52/fe/418229_gcFij.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.9",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/418229",
-    "bgm_id": "418229",
-    "bgm_score": 7.9,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "614640",
     "type": "link",
     "title": "PSYREN -决战游戏-",
@@ -322,21 +277,6 @@
     "bgm_id": "614640",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "624923",
-    "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/624923",
-    "bgm_id": "624923",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 3,
     "bgm_weekday_id": 1
   },
   {
@@ -373,5 +313,65 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "708080",
+    "type": "link",
+    "title": "Family Guy: Happy Hell-O-Ween",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/708080",
+    "bgm_id": "708080",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 24,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "665390",
+    "type": "link",
+    "title": "冰之城墙 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/665390",
+    "bgm_id": "665390",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 190,
+    "bgm_weekday_id": 4
   }
 ]

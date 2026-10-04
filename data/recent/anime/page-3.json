@@ -1,57 +1,71 @@
 [
   {
-    "id": "625799",
-    "type": "link",
-    "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/3a/625799_ycox6.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月6日 / 本間修 / 六志麻あさ；漫画：業務用餅（講談社「月マガ基地」連載） / 清澤唯人",
-    "link": "https://bgm.tv/subject/625799"
-  },
-  {
-    "id": "250008",
+    "id": "209867/season/1/episode/29",
     "type": "tmdb",
-    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "葬送的芙莉莲 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
+    "releaseDate": "2026-01-16",
     "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
-    "link": null,
-    "tmdb_id": "250008",
-    "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "551918",
-    "type": "link",
-    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
-    "releaseDate": "2026-03-19",
-    "mediaType": "anime",
     "rating": "7.5",
-    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
-    "link": "https://bgm.tv/subject/551918"
-  },
-  {
-    "id": "302051",
-    "type": "tmdb",
-    "title": "『你们先走我断后』，于是10年后我成为了传说",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "5.4",
-    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
     "link": null,
-    "tmdb_id": "302051",
-    "tmdb_site_id": "tv/302051",
+    "tmdb_id": "209867/season/1/episode/29",
+    "tmdb_site_id": "tv/209867/season/1/episode/29",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "308874",
+    "type": "tmdb",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": null,
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "335194",
+    "type": "tmdb",
+    "title": "魔法★探险家",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+    "link": null,
+    "tmdb_id": "335194",
+    "tmdb_site_id": "tv/335194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316891",
+    "type": "tmdb",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
+    "link": null,
+    "tmdb_id": "316891",
+    "tmdb_site_id": "tv/316891",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "324502",
@@ -72,17 +86,73 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "312849",
+    "id": "313068",
     "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "rating": "6.0",
+    "description": "“希望你能帮我制作迷情药” 隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。 他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。 即便如此，她依然无法拒绝他的委托。 心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。 哪怕明知这是一场无望的单恋，这份心意也无法抹去。 这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。 以迷情药为契机交织而成的，令人揪心的恋爱物语。",
     "link": null,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
+    "tmdb_id": "313068",
+    "tmdb_site_id": "tv/313068",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "551918",
+    "type": "link",
+    "title": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "releaseDate": "2026-03-19",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "1话 /  2026年3月19日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
+    "link": "https://bgm.tv/subject/551918"
+  },
+  {
+    "id": "250008",
+    "type": "tmdb",
+    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
+    "link": null,
+    "tmdb_id": "250008",
+    "tmdb_site_id": "tv/250008",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "393010",
+    "type": "link",
+    "title": "侦探已经死了。 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/61/393010_7SNBy.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "13话 /  2026年10月7日 / 栗原学 / 二語十（MF文库J「探偵はもう、死んでいる。」/KADOKAWA刊） / 伊藤陽祐",
+    "link": "https://bgm.tv/subject/393010"
+  },
+  {
+    "id": "302051",
+    "type": "tmdb",
+    "title": "『你们先走我断后』，于是10年后我成为了传说",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_vA6R5.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "5.4",
+    "description": "12话 /  2026年7月6日 / 神戸洋行 / えぞぎんぎつね（GAノベル／SBクリエイティブ刊） / まじろ",
+    "link": null,
+    "tmdb_id": "302051",
+    "tmdb_site_id": "tv/302051",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -104,24 +174,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "316891",
-    "type": "tmdb",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
-    "link": null,
-    "tmdb_id": "316891",
-    "tmdb_site_id": "tv/316891",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -136,6 +188,40 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312849",
+    "type": "tmdb",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "link": null,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "337277",
+    "type": "tmdb",
+    "title": "魔法少女育成计划 restart",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "获得「魔法王国」所赐之魔力、每日勤奋奔走于助人的魔法少女们——她们收到了来自神秘寄信人所寄出，名为『魔法少女育成计划』的游戏邀请函。受到隐藏着死亡风险、毫无逻辑可言的游戏所囚禁的十六位魔法少女，在幕后黑手策划的诡计玩弄下，开始为了存活下来而绞尽脑汁苦思对策……",
+    "link": null,
+    "tmdb_id": "337277",
+    "tmdb_site_id": "tv/337277",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "283905",
@@ -154,15 +240,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "624923",
+    "id": "555605",
     "type": "link",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/99/624923_4u99L.jpg",
-    "releaseDate": "2026-10-05",
+    "title": "青之芦苇 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月5日 / 草川啓造 / 六つ花えいこ / 石川雅一",
-    "link": "https://bgm.tv/subject/624923"
+    "rating": "7.2",
+    "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
+    "link": "https://bgm.tv/subject/555605"
   },
   {
     "id": "284029",
@@ -181,35 +267,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "636512",
-    "type": "link",
-    "title": "至高之力",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
-    "link": "https://bgm.tv/subject/636512"
-  },
-  {
-    "id": "335194",
-    "type": "tmdb",
-    "title": "魔法★探险家",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-    "link": null,
-    "tmdb_id": "335194",
-    "tmdb_site_id": "tv/335194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "222623",
     "type": "tmdb",
     "title": "擅长逃跑的殿下 第二季",
@@ -226,37 +283,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "393010",
-    "type": "link",
-    "title": "侦探已经死了。 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/61/393010_7SNBy.jpg",
+    "id": "206630",
+    "type": "tmdb",
+    "title": "佐佐木与文鸟小哔 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_XO5B0.jpg",
     "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "13话 /  2026年10月7日 / 栗原学 / 二語十（MF文库J「探偵はもう、死んでいる。」/KADOKAWA刊） / 伊藤陽祐",
-    "link": "https://bgm.tv/subject/393010"
-  },
-  {
-    "id": "418229",
-    "type": "link",
-    "title": "魔法少女育成计划 restart",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/52/fe/418229_gcFij.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "",
-    "description": "2026年10月5日 / 橋本裕之 / 遠藤浅蜊（このライトノベルがすごい！文庫『魔法少女育成計画』シリーズ（宝島社刊）） / 伊藤雅子",
-    "link": "https://bgm.tv/subject/418229"
-  },
-  {
-    "id": "555605",
-    "type": "link",
-    "title": "青之芦苇 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
-    "link": "https://bgm.tv/subject/555605"
+    "description": "12话 /  2026年10月7日 / 伊部勇志 / ぶんころり (MF文庫J刊) / 仲敷沙織",
+    "link": null,
+    "tmdb_id": "206630",
+    "tmdb_site_id": "tv/206630/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "636023",
@@ -270,6 +310,24 @@
     "link": "https://bgm.tv/subject/636023"
   },
   {
+    "id": "321518",
+    "type": "tmdb",
+    "title": "世界最强魔女，始动",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
+    "link": null,
+    "tmdb_id": "321518",
+    "tmdb_site_id": "tv/321518",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
@@ -281,22 +339,6 @@
     "link": null,
     "tmdb_id": "280049",
     "tmdb_site_id": "tv/280049/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "260823",
-    "type": "tmdb",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
-    "link": null,
-    "tmdb_id": "260823",
-    "tmdb_site_id": "tv/260823/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -318,35 +360,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "139512",
+    "id": "305313",
     "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "罗梅莉亚战记",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+    "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
+    "rating": "0.0",
+    "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
     "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "206630",
-    "type": "tmdb",
-    "title": "佐佐木与文鸟小哔 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_XO5B0.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "",
-    "description": "12话 /  2026年10月7日 / 伊部勇志 / ぶんころり (MF文庫J刊) / 仲敷沙織",
-    "link": null,
-    "tmdb_id": "206630",
-    "tmdb_site_id": "tv/206630/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_id": "305313",
+    "tmdb_site_id": "tv/305313",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

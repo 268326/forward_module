@@ -1,20 +1,57 @@
 [
   {
-    "id": "306565",
+    "id": "321518",
     "type": "tmdb",
-    "title": "DARK MACHINE THE ANIMATION",
-    "posterPath": "https://image.tmdb.org/t/p/w500/la8qGpQt7MLvG71i48pzxEHSc9H.jpg",
-    "releaseDate": "2026-10-13",
+    "title": "世界最强魔女，始动",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "[星期二]",
+    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
     "link": null,
-    "bgm_id": "505550",
-    "bgm_score": 9.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "306565",
-    "tmdb_site_id": "tv/306565",
+    "bgm_id": "646154",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "321518",
+    "tmdb_site_id": "tv/321518",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "636023",
+    "type": "link",
+    "title": "战车椅子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/636023",
+    "bgm_id": "636023",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "334779",
+    "type": "tmdb",
+    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "698032",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "334779",
+    "tmdb_site_id": "tv/334779",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -127,7 +164,7 @@
     "id": "312359",
     "type": "tmdb",
     "title": "龙珠超 比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/l3jo8H7Wdr8deirwPwqgupKr40C.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "tv",
     "rating": "0.0",
@@ -144,21 +181,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "636023",
-    "type": "link",
-    "title": "战车椅子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/c9/636023_iF8j7.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/636023",
-    "bgm_id": "636023",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
   },
   {
     "id": "664389",
@@ -191,19 +213,26 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "593565",
-    "type": "link",
+    "id": "327765",
+    "type": "tmdb",
     "title": "超巡！超条前辈",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/c1/593565_nno0j.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
     "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/593565",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为\"大猩猩\"的新人警察一本木直，最强（？）搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
+    "link": null,
     "bgm_id": "593565",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
+    "bgm_weekday_id": 2,
+    "tmdb_id": "327765",
+    "tmdb_site_id": "tv/327765",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "573707",
@@ -288,25 +317,32 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "568525",
-    "type": "link",
+    "id": "295420",
+    "type": "tmdb",
     "title": "朱色假面",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3a/11/568525_ovn2M.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
     "releaseDate": "2026-10-10",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/568525",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
+    "link": null,
     "bgm_id": "568525",
     "bgm_score": 7.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
-    "posterPath": "https://image.tmdb.org/t/p/w500/AaRhe35vnq05pQr9WHvOzzGPISS.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
     "rating": "0.0",
@@ -388,20 +424,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "688204",
-    "type": "link",
-    "title": "ゆうさんち！from 遊ハち",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/688204",
-    "bgm_id": "688204",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
   }
 ]

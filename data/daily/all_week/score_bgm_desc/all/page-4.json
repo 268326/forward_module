@@ -1,5 +1,20 @@
 [
   {
+    "id": "688204",
+    "type": "link",
+    "title": "ゆうさんち！from 遊ハち",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/688204",
+    "bgm_id": "688204",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "708080",
     "type": "link",
     "title": "Family Guy: Happy Hell-O-Ween",
@@ -187,21 +202,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "606716",
-    "type": "link",
-    "title": "用【循环利息】强制收回借出的魔力",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/15/11/606716_Om183.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/606716",
-    "bgm_id": "606716",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "613256",
     "type": "link",
     "title": "恐怖收集者",
@@ -269,19 +269,26 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "701565",
-    "type": "link",
+    "id": "337260",
+    "type": "tmdb",
     "title": "ふんばるず",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/79/c2/701565_WkAaz.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gvUIcR5ZXKQRWoeIoWMqbT2fbpN.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期六]",
-    "link": "http://bgm.tv/subject/701565",
+    "link": null,
     "bgm_id": "701565",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "337260",
+    "tmdb_site_id": "tv/337260",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "702192",
@@ -314,19 +321,26 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "605533",
-    "type": "link",
+    "id": "330505",
+    "type": "tmdb",
     "title": "大叔喜欢可爱小玩意",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/l5RosRt3Fe85WJZl65WFWzo4Q9X.jpg",
     "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/605533",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
+    "link": null,
     "bgm_id": "605533",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "330505",
+    "tmdb_site_id": "tv/330505",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "632817",

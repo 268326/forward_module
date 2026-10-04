@@ -1,5 +1,16 @@
 [
   {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "link": "https://bgm.tv/subject/548156"
+  },
+  {
     "id": "296101",
     "type": "tmdb",
     "title": "Grow Up Show ～向日葵马戏团～",
@@ -14,6 +25,33 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "300112",
+    "type": "tmdb",
+    "title": "BanG Dream! YUME∞MITA",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/e4/583729_KxOZV.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "13话 /  2026年7月2日 / 梅津朋美 / ブシロード / 信澤収、もちぶよ；动画人物设定：茶之原拓也、八森優香、石神直紀",
+    "link": null,
+    "tmdb_id": "300112",
+    "tmdb_site_id": "tv/300112",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
+    "link": "https://bgm.tv/subject/656083"
   },
   {
     "id": "223564/season/1/episode/25",
@@ -32,37 +70,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
+    "id": "630160",
     "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_oS0EQ.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
+    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
+    "link": "https://bgm.tv/subject/630160"
   },
   {
-    "id": "548156",
+    "id": "412008",
     "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "转生就是剑 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "7.7",
-    "description": "2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
-    "link": "https://bgm.tv/subject/548156"
-  },
-  {
-    "id": "656083",
-    "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
-    "link": "https://bgm.tv/subject/656083"
+    "rating": "6.7",
+    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
+    "link": "https://bgm.tv/subject/412008"
   },
   {
     "id": "69346",
@@ -100,48 +127,10 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "630160",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王 / 佐々木貴宏",
-    "link": "https://bgm.tv/subject/630160"
-  },
-  {
-    "id": "412008",
-    "type": "link",
-    "title": "转生就是剑 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
-    "link": "https://bgm.tv/subject/412008"
-  },
-  {
-    "id": "258348",
-    "type": "tmdb",
-    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "6.9",
-    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
-    "link": null,
-    "tmdb_id": "258348",
-    "tmdb_site_id": "tv/258348/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "302020",
     "type": "tmdb",
-    "title": "铁旅 邂逅铁道少女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/joiFJ8iP3MIdM1BTQXO9BC81ZEm.jpg",
+    "title": "铁旅！邂逅铁道少女",
+    "posterPath": "https://image.tmdb.org/t/p/w500/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "tv",
     "rating": "0.0",
@@ -165,6 +154,58 @@
     "rating": "4.6",
     "description": "2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
     "link": "https://bgm.tv/subject/584847"
+  },
+  {
+    "id": "301139",
+    "type": "tmdb",
+    "title": "僵尸搜寻中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+    "link": null,
+    "tmdb_id": "301139",
+    "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312850",
+    "type": "tmdb",
+    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "link": null,
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "258348",
+    "type": "tmdb",
+    "title": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "6.9",
+    "description": "13话 /  2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+    "link": null,
+    "tmdb_id": "258348",
+    "tmdb_site_id": "tv/258348/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "153217",
@@ -199,20 +240,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "255358",
+    "id": "290019",
     "type": "tmdb",
-    "title": "攻壳机动队 THE GHOST IN THE SHELL",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "和班上第二可爱的女孩子成为了朋友",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "7.1",
-    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "rating": "8.2",
+    "description": "连熟人都没有的我——前原真树，结交的第一个朋友是朝凪海。\n\n朝凪小姐被男生们称为\"班上第二可爱\"，对天真烂漫的头号美少女天海小姐百般照顾。然而，只有周五放学后，她才会偷偷来我家玩。我和兴趣相投（电影、游戏、漫画）的她，共度了快乐的时光。她那无邪又爱撒娇的真实一面，完全无法让人联想到平日里那个干练可靠的她。\n\n“喂，快到我旁边来。我们一起看漫画吧。”“这里是我的床啊……”“现在是我的床啦。来，快过来？”朝凪小姐，你的距离感是不是有点问题？\n\n内向男生与班上第二漂亮的女生之间，真实自然、充满生活感的‘朋友’式恋爱喜剧就此开幕！",
     "link": null,
-    "tmdb_id": "255358",
-    "tmdb_site_id": "tv/255358",
+    "tmdb_id": "290019",
+    "tmdb_site_id": "tv/290019",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "65942/season/1/episode/67",
@@ -229,6 +272,40 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "255358",
+    "type": "tmdb",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": null,
+    "tmdb_id": "255358",
+    "tmdb_site_id": "tv/255358",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "313346",
+    "type": "tmdb",
+    "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
+    "posterPath": "https://image.tmdb.org/t/p/w500/d2twigOlajyMBmqjZY0z0XCBwGC.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
+    "link": null,
+    "tmdb_id": "313346",
+    "tmdb_site_id": "tv/313346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "325052",
@@ -263,56 +340,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312850",
+    "id": "317259",
     "type": "tmdb",
-    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
-    "link": null,
-    "tmdb_id": "312850",
-    "tmdb_site_id": "tv/312850",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "301139",
-    "type": "tmdb",
-    "title": "僵尸搜寻中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "title": "至高之力",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+    "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
     "link": null,
-    "tmdb_id": "301139",
-    "tmdb_site_id": "tv/301139",
+    "tmdb_id": "317259",
+    "tmdb_site_id": "tv/317259",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278043",
@@ -326,40 +369,6 @@
     "link": null,
     "tmdb_id": "278043",
     "tmdb_site_id": "tv/278043",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "290019",
-    "type": "tmdb",
-    "title": "和班上第二可爱的女孩子成为了朋友",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "8.2",
-    "description": "连熟人都没有的我——前原真树，结交的第一个朋友是朝凪海。\n\n朝凪小姐被男生们称为\"班上第二可爱\"，对天真烂漫的头号美少女天海小姐百般照顾。然而，只有周五放学后，她才会偷偷来我家玩。我和兴趣相投（电影、游戏、漫画）的她，共度了快乐的时光。她那无邪又爱撒娇的真实一面，完全无法让人联想到平日里那个干练可靠的她。\n\n“喂，快到我旁边来。我们一起看漫画吧。”“这里是我的床啊……”“现在是我的床啦。来，快过来？”朝凪小姐，你的距离感是不是有点问题？\n\n内向男生与班上第二漂亮的女生之间，真实自然、充满生活感的‘朋友’式恋爱喜剧就此开幕！",
-    "link": null,
-    "tmdb_id": "290019",
-    "tmdb_site_id": "tv/290019",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "209867/season/1/episode/29",
-    "type": "tmdb",
-    "title": "葬送的芙莉莲 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg",
-    "releaseDate": "2026-01-16",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "10话 /  2026年1月16日 / 北川朋哉 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 高瀬丸(高瀬亜貴子)、小嶋慶祐、藤中友里",
-    "link": null,
-    "tmdb_id": "209867/season/1/episode/29",
-    "tmdb_site_id": "tv/209867/season/1/episode/29",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

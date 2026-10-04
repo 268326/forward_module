@@ -1,20 +1,5 @@
 [
   {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 23,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "206630",
     "type": "tmdb",
     "title": "佐佐木与文鸟小哔 第二季",
@@ -33,6 +18,28 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285710",
+    "type": "tmdb",
+    "title": "幻想水浒传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“曾以为只要拥有那份力量，就能守护一切。”隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。",
+    "link": null,
+    "bgm_id": "541538",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 16,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "285710",
+    "tmdb_site_id": "tv/285710",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "573707",
@@ -71,12 +78,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "3.2",
+    "rating": "4.0",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/650428",
     "bgm_id": "650428",
-    "bgm_score": 3.2,
-    "bgm_rating_total": 5,
+    "bgm_score": 4.0,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 4
   },
   {

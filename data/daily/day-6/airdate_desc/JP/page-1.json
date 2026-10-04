@@ -1,5 +1,27 @@
 [
   {
+    "id": "295420",
+    "type": "tmdb",
+    "title": "朱色假面",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
+    "link": null,
+    "bgm_id": "568525",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "335194",
     "type": "tmdb",
     "title": "魔法★探险家",
@@ -7,14 +29,36 @@
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "传说级美少女游戏《魔法★探险家》。\n\n我转生成为凭借作弊能力被众多女角簇拥的主角────身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！\n\n而且，这个好友角色还有着「世界顶尖的魔力量」这个隐藏设定，甚至具备超越主角的潜力……？\n\n为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+    "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
     "link": null,
     "bgm_id": "456078",
     "bgm_score": 6.0,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 6,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "285899",
+    "type": "tmdb",
+    "title": "转生后的大圣女，极力隐瞒圣女的身份",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
+    "link": null,
+    "bgm_id": "542007",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 21,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "285899",
+    "tmdb_site_id": "tv/285899",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -32,11 +76,33 @@
     "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
     "link": null,
     "bgm_id": "586255",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 10,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 35,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "333622",
+    "type": "tmdb",
+    "title": "借出去的魔力要用【分期还款】强制收回",
+    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
+    "link": null,
+    "bgm_id": "606716",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "333622",
+    "tmdb_site_id": "tv/333622",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -54,11 +120,33 @@
     "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
     "link": null,
     "bgm_id": "617273",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 10,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 6,
     "tmdb_id": "308977",
     "tmdb_site_id": "tv/308977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317259",
+    "type": "tmdb",
+    "title": "至高之力",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
+    "link": null,
+    "bgm_id": "636512",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 46,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "317259",
+    "tmdb_site_id": "tv/317259",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -81,6 +169,50 @@
     "bgm_weekday_id": 6,
     "tmdb_id": "337195",
     "tmdb_site_id": "tv/337195",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "324326",
+    "type": "tmdb",
+    "title": "马罗尼耶王国的七骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/g3G9DHjjRBKdm8SbHVU2w3Cmp51.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在这片由八个王国组成的大陆中央，坐落着马罗尼耶王国。王国的将军巴里巴拉有七个儿子，他们各有所长，并且都担任骑士长。他们有一个共同崇高目标，那就是有朝一日英勇地救出公主，于是七兄弟作为友好大使，踏上了前往邻近七国的旅程。\n\n在这些陌生的国度，他们将经历怎样的奇遇和考验，最终走向怎样的命运？",
+    "link": null,
+    "bgm_id": "657084",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 19,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "324326",
+    "tmdb_site_id": "tv/324326",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "337260",
+    "type": "tmdb",
+    "title": "ふんばるず",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gvUIcR5ZXKQRWoeIoWMqbT2fbpN.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "701565",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "337260",
+    "tmdb_site_id": "tv/337260",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
