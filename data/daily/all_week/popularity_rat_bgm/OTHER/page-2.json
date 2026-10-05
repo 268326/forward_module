@@ -1,5 +1,20 @@
 [
   {
+    "id": "563508",
+    "type": "link",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.2",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "638081",
     "type": "link",
     "title": "小狸猫与小狐狸",
@@ -36,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664389",
     "bgm_id": "664389",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -58,6 +73,21 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "707667",
+    "type": "link",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 1
   },
   {
     "id": "34158",
@@ -123,6 +153,36 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "390200",
+    "type": "link",
+    "title": "列女战纪：女娲石记",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/390200",
+    "bgm_id": "390200",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
   },
   {
     "id": "544378",
@@ -200,21 +260,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "3.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 3.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "664395",
     "type": "link",
     "title": "钻石王牌 act2 第二季 第2部分",
@@ -228,71 +273,6 @@
     "bgm_score": 8.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "390200",
-    "type": "link",
-    "title": "列女战纪：女娲石记",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/390200",
-    "bgm_id": "390200",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "614640",
-    "type": "link",
-    "title": "PSYREN -决战游戏-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_ESMLl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/614640",
-    "bgm_id": "614640",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "316694",
-    "type": "tmdb",
-    "title": "转生哥布林有问题吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": null,
-    "bgm_id": "634587",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "316694",
-    "tmdb_site_id": "tv/316694",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "688204",
-    "type": "link",
-    "title": "ゆうさんち！from 遊ハち",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/688204",
-    "bgm_id": "688204",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
   },
   {
     "id": "708080",
@@ -368,5 +348,20 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "576783",
+    "type": "link",
+    "title": "狂王 第2季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_fzZXD.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/576783",
+    "bgm_id": "576783",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
   }
 ]

@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
     "bgm_score": 7.2,
-    "bgm_rating_total": 34,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 2
   },
   {
@@ -71,7 +71,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 46,
+    "bgm_rating_total": 48,
     "bgm_weekday_id": 2
   },
   {
@@ -108,7 +108,7 @@
     "id": "393010",
     "type": "link",
     "title": "侦探已经死了。 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_7SNBy.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
     "rating": "5.9",
@@ -116,7 +116,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.9,
-    "bgm_rating_total": 29,
+    "bgm_rating_total": 30,
     "bgm_weekday_id": 3
   },
   {
@@ -126,12 +126,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 71,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 3
   },
   {
@@ -241,27 +241,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "7.0",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "614640",
-    "type": "link",
-    "title": "PSYREN -决战游戏-",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1b/1e/614640_ESMLl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/614640",
-    "bgm_id": "614640",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
   {
@@ -271,12 +256,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "N/A",
+    "rating": "5.6",
     "description": "[星期一]",
     "link": null,
     "bgm_id": "634587",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -285,18 +270,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "688204",
+    "id": "707667",
     "type": "link",
-    "title": "ゆうさんち！from 遊ハち",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.0",
     "description": "[星期一]",
-    "link": "http://bgm.tv/subject/688204",
-    "bgm_id": "688204",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 1
   },
   {
@@ -326,7 +311,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.9,
-    "bgm_rating_total": 33,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 4
   },
   {
@@ -356,7 +341,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 226,
+    "bgm_rating_total": 248,
     "bgm_weekday_id": 4
   },
   {
@@ -372,6 +357,21 @@
     "bgm_id": "704737",
     "bgm_score": 0,
     "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "705980",
+    "type": "link",
+    "title": "熊出没之神奇宝物 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/705980",
+    "bgm_id": "705980",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 4
   }
 ]

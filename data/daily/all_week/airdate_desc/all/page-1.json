@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
     "bgm_score": 7.2,
-    "bgm_rating_total": 34,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 2
   },
   {
@@ -122,8 +122,8 @@
     "description": "在世界范围内拥有压倒性人气的电竞项目“Dark Machine”让人们为之狂热，甚至改变了日本的经济体系。日本唯一被指定为“Dark Machine”经济特区的城市——黄金谷。君临其顶点的，是继承了“Dark Machine”最强玩家称号“千鬼”、第七代“千鬼”阿吉玛。阿吉玛通过“Dark Machine”成为了黄金谷的实际统治者。主人公海里将亡故祖父的遗言“去找千鬼”铭记于心来到了黄金谷，偶然遇到了正被阿吉玛手下“阿流堕美瑠”追捕的少女鲁朵拉。海里被卷入其中，成为了“Dark Machine”的玩家，在经历了数次激战后，他的才能逐渐绽放。海里能否与“千鬼”对峙，并开辟自己的命运——以“Dark Machine”顶点为目标，海里的战斗现在开始。",
     "link": null,
     "bgm_id": "505550",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 7.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 2,
     "tmdb_id": "306565",
     "tmdb_site_id": "tv/306565",
@@ -145,7 +145,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.5,
-    "bgm_rating_total": 46,
+    "bgm_rating_total": 48,
     "bgm_weekday_id": 2
   },
   {
@@ -199,12 +199,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664389",
     "bgm_id": "664389",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {
@@ -278,7 +278,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.1,
-    "bgm_rating_total": 54,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -382,7 +382,7 @@
     "link": null,
     "bgm_id": "590553",
     "bgm_score": 6.8,
-    "bgm_rating_total": 10,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 4,
     "tmdb_id": "302020",
     "tmdb_site_id": "tv/302020",
@@ -411,7 +411,7 @@
     "id": "393010",
     "type": "link",
     "title": "侦探已经死了。 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_7SNBy.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
     "rating": "5.9",
@@ -419,7 +419,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.9,
-    "bgm_rating_total": 29,
+    "bgm_rating_total": 30,
     "bgm_weekday_id": 3
   }
 ]

@@ -33,7 +33,7 @@
     "id": "393010",
     "type": "link",
     "title": "侦探已经死了。 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_7SNBy.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
     "rating": "5.9",
@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.9,
-    "bgm_rating_total": 29,
+    "bgm_rating_total": 30,
     "bgm_weekday_id": 3
   },
   {
@@ -51,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 71,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 3
   },
   {
@@ -141,7 +141,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14796,
+    "bgm_rating_total": 14799,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",

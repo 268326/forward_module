@@ -1,5 +1,25 @@
 [
   {
+    "id": "34158",
+    "type": "tmdb",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "502123",
+    "bgm_score": 9.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "573707",
     "type": "link",
     "title": "极恶老大 第三季",
@@ -47,8 +67,8 @@
     "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
     "link": null,
     "bgm_id": "657778",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1,
+    "bgm_score": 7.5,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -145,7 +165,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.9,
-    "bgm_rating_total": 33,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 4
   },
   {
@@ -160,7 +180,7 @@
     "link": null,
     "bgm_id": "590553",
     "bgm_score": 6.8,
-    "bgm_rating_total": 10,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 4,
     "tmdb_id": "302020",
     "tmdb_site_id": "tv/302020",
@@ -181,8 +201,8 @@
     "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
     "link": null,
     "bgm_id": "622288",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 887,
+    "bgm_score": 7.0,
+    "bgm_rating_total": 951,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -234,7 +254,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 226,
+    "bgm_rating_total": 248,
     "bgm_weekday_id": 4
   },
   {
@@ -301,7 +321,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 5
   },
   {
@@ -316,7 +336,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.1,
-    "bgm_rating_total": 54,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -348,12 +368,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "5.2",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/563508",
     "bgm_id": "563508",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 5.2,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 5
   },
   {
@@ -368,7 +388,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 215,
+    "bgm_rating_total": 248,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -389,21 +409,6 @@
     "bgm_id": "593863",
     "bgm_score": 7.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "617948",
-    "type": "link",
-    "title": "桃源暗鬼 ～日光・华严之泷篇～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/617948",
-    "bgm_id": "617948",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 16,
     "bgm_weekday_id": 5
   }
 ]

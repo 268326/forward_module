@@ -1,5 +1,27 @@
 [
   {
+    "id": "337069",
+    "type": "tmdb",
+    "title": "ちょこっとヤバシティ",
+    "posterPath": "https://image.tmdb.org/t/p/w500/21B8lbtKam0H1qFLWQT5OaraVDn.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期四]",
+    "link": null,
+    "bgm_id": "700127",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4,
+    "tmdb_id": "337069",
+    "tmdb_site_id": "tv/337069",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "704737",
     "type": "link",
     "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
@@ -41,7 +63,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14796,
+    "bgm_rating_total": 14799,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -61,7 +83,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11589,
+    "bgm_rating_total": 11593,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
