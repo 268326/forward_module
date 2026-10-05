@@ -1,25 +1,62 @@
 [
   {
-    "id": "329096",
+    "id": "295420",
     "type": "tmdb",
-    "title": "来自远方",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1qp1bKIQgYbgKVP0MBabADtbKyS.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "朱色假面",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
+    "releaseDate": "2026-10-10",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
+    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
     "link": null,
-    "bgm_id": "636058",
+    "bgm_id": "568525",
     "bgm_score": 7.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "329096",
-    "tmdb_site_id": "tv/329096",
+    "bgm_weekday_id": 6,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "337195",
+    "type": "tmdb",
+    "title": "しろたん",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dlYiEcuj9YSJQ1JKQfFaedVxFtV.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "637206",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "337195",
+    "tmdb_site_id": "tv/337195",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "3.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
   },
   {
     "id": "664395",
@@ -120,7 +157,7 @@
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
-    "posterPath": null,
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/b5/709326_Fsz6K.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "anime",
     "rating": "N/A",
@@ -274,34 +311,26 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701310",
-    "type": "link",
-    "title": "格林姐妹大冒险 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701310",
-    "bgm_id": "701310",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "613256",
-    "type": "link",
+    "id": "307903",
+    "type": "tmdb",
     "title": "恐怖收集者",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
     "releaseDate": "2026-10-10",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/613256",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
     "bgm_id": "613256",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "654678",
@@ -352,28 +381,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "231801",
-    "type": "tmdb",
-    "title": "极道寿司次郎！",
-    "posterPath": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事背景为近未来的洛杉矶，整座城市被“美食秩序”彻底掌控：顶级主厨的权势堪比黑帮大佬，餐厅就是各方势力的权力中心，为了拿下顶级餐厅的一席位，有人不惜突破底线，不同的烹饪理念更是分化出针锋相对的派系。",
-    "link": null,
-    "bgm_id": "702192",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "231801",
-    "tmdb_site_id": "tv/231801",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },

@@ -51,12 +51,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 32,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 2
   },
   {
@@ -140,12 +140,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.6",
+    "rating": "4.5",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 45,
+    "bgm_score": 4.5,
+    "bgm_rating_total": 46,
     "bgm_weekday_id": 2
   },
   {
@@ -204,7 +204,7 @@
     "link": "http://bgm.tv/subject/664389",
     "bgm_id": "664389",
     "bgm_score": 7.0,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 7
   },
   {
@@ -245,19 +245,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "613256",
-    "type": "link",
+    "id": "307903",
+    "type": "tmdb",
     "title": "恐怖收集者",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
     "releaseDate": "2026-10-10",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/613256",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
     "bgm_id": "613256",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "284580",
@@ -270,8 +277,8 @@
     "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
     "bgm_id": "537738",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 49,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 54,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "576783",
+    "type": "link",
+    "title": "狂王 第2季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_fzZXD.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/576783",
+    "bgm_id": "576783",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "704737",
     "type": "link",
     "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
@@ -58,36 +73,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "701310",
-    "type": "link",
-    "title": "格林姐妹大冒险 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701310",
-    "bgm_id": "701310",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "613256",
-    "type": "link",
-    "title": "恐怖收集者",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
-    "releaseDate": "2026-10-10",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/613256",
-    "bgm_id": "613256",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "654678",
@@ -168,7 +153,7 @@
     "id": "708612",
     "type": "link",
     "title": "ダークサモナーとデキている  ミニアニメ劇場",
-    "posterPath": null,
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "N/A",

@@ -1,5 +1,71 @@
 [
   {
+    "id": "288588",
+    "type": "tmdb",
+    "title": "和没有信徒的女神大人一起攻略异世界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
+    "link": null,
+    "bgm_id": "621073",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "288588",
+    "tmdb_site_id": "tv/288588",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "329096",
+    "type": "tmdb",
+    "title": "来自远方",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
+    "link": null,
+    "bgm_id": "636058",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "329096",
+    "tmdb_site_id": "tv/329096",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "334779",
+    "type": "tmdb",
+    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "698032",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "334779",
+    "tmdb_site_id": "tv/334779",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "306565",
     "type": "tmdb",
     "title": "DARK MACHINE THE ANIMATION",
@@ -59,28 +125,6 @@
     "bgm_weekday_id": 3,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "334779",
-    "type": "tmdb",
-    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "698032",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "334779",
-    "tmdb_site_id": "tv/334779",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -220,28 +264,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "329096",
-    "type": "tmdb",
-    "title": "来自远方",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1qp1bKIQgYbgKVP0MBabADtbKyS.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
-    "link": null,
-    "bgm_id": "636058",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "329096",
-    "tmdb_site_id": "tv/329096",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "337069",
     "type": "tmdb",
     "title": "ちょこっとヤバシティ",
@@ -257,6 +279,28 @@
     "bgm_weekday_id": 4,
     "tmdb_id": "337069",
     "tmdb_site_id": "tv/337069",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307903",
+    "type": "tmdb",
+    "title": "恐怖收集者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
+    "bgm_id": "613256",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

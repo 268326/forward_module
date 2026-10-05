@@ -1,18 +1,47 @@
 [
   {
-    "id": "563508",
-    "type": "link",
-    "title": "神秘面包小子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/563508",
-    "bgm_id": "563508",
+    "id": "288588",
+    "type": "tmdb",
+    "title": "和没有信徒的女神大人一起攻略异世界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
+    "link": null,
+    "bgm_id": "621073",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "288588",
+    "tmdb_site_id": "tv/288588",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "329096",
+    "type": "tmdb",
+    "title": "来自远方",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
+    "link": null,
+    "bgm_id": "636058",
     "bgm_score": 5.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 5
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "329096",
+    "tmdb_site_id": "tv/329096",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "638081",
@@ -21,13 +50,50 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "6.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/638081",
     "bgm_id": "638081",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "334779",
+    "type": "tmdb",
+    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "698032",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "334779",
+    "tmdb_site_id": "tv/334779",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "306565",
@@ -96,26 +162,34 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "334779",
-    "type": "tmdb",
-    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
+    "id": "664389",
+    "type": "link",
+    "title": "夜樱家的大作战 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "anime",
+    "rating": "7.0",
     "description": "[星期日]",
-    "link": null,
-    "bgm_id": "698032",
-    "bgm_score": 5.0,
+    "link": "http://bgm.tv/subject/664389",
+    "bgm_id": "664389",
+    "bgm_score": 7.0,
     "bgm_rating_total": 3,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "334779",
-    "tmdb_site_id": "tv/334779",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "688797",
+    "type": "link",
+    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/688797",
+    "bgm_id": "688797",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7
   },
   {
     "id": "34158",
@@ -205,21 +279,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "312359",
     "type": "tmdb",
     "title": "龙珠超 比鲁斯",
@@ -240,36 +299,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "664389",
-    "type": "link",
-    "title": "夜樱家的大作战 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664389",
-    "bgm_id": "664389",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "688797",
-    "type": "link",
-    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/688797",
-    "bgm_id": "688797",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
   },
   {
     "id": "544378",
@@ -376,6 +405,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "701310",
+    "type": "link",
+    "title": "格林姐妹大冒险 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701310",
+    "bgm_id": "701310",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "204084",
     "type": "tmdb",
     "title": "梦幻之境",
@@ -394,50 +438,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "FR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "295420",
-    "type": "tmdb",
-    "title": "朱色假面",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
-    "releaseDate": "2026-10-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
-    "link": null,
-    "bgm_id": "568525",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "295420",
-    "tmdb_site_id": "tv/295420",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "337195",
-    "type": "tmdb",
-    "title": "しろたん",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dlYiEcuj9YSJQ1JKQfFaedVxFtV.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "637206",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "337195",
-    "tmdb_site_id": "tv/337195",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   }

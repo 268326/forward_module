@@ -1,5 +1,20 @@
 [
   {
+    "id": "632061",
+    "type": "link",
+    "title": "决斗大师 LOST ～断罪的少年～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/632061",
+    "bgm_id": "632061",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -13,36 +28,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "701310",
-    "type": "link",
-    "title": "格林姐妹大冒险 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701310",
-    "bgm_id": "701310",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "613256",
-    "type": "link",
-    "title": "恐怖收集者",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
-    "releaseDate": "2026-10-10",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/613256",
-    "bgm_id": "613256",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   },
   {
     "id": "654678",
@@ -123,7 +108,7 @@
     "id": "708612",
     "type": "link",
     "title": "ダークサモナーとデキている  ミニアニメ劇場",
-    "posterPath": null,
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "N/A",

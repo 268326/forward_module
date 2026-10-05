@@ -1,33 +1,55 @@
 [
   {
-    "id": "701310",
+    "id": "632061",
     "type": "link",
-    "title": "格林姐妹大冒险 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
-    "releaseDate": "2026-10-02",
+    "title": "决斗大师 LOST ～断罪的少年～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+    "releaseDate": "2026-10-09",
     "mediaType": "anime",
     "rating": "N/A",
     "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701310",
-    "bgm_id": "701310",
+    "link": "http://bgm.tv/subject/632061",
+    "bgm_id": "632061",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
   },
   {
-    "id": "613256",
+    "id": "700678",
     "type": "link",
-    "title": "恐怖收集者",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7b/a7/613256_fxVvG.jpg",
-    "releaseDate": "2026-10-10",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
     "mediaType": "anime",
     "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/613256",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "307903",
+    "type": "tmdb",
+    "title": "恐怖收集者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
     "bgm_id": "613256",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "654678",
@@ -78,28 +100,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "231801",
-    "type": "tmdb",
-    "title": "极道寿司次郎！",
-    "posterPath": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "故事背景为近未来的洛杉矶，整座城市被“美食秩序”彻底掌控：顶级主厨的权势堪比黑帮大佬，餐厅就是各方势力的权力中心，为了拿下顶级餐厅的一席位，有人不惜突破底线，不同的烹饪理念更是分化出针锋相对的派系。",
-    "link": null,
-    "bgm_id": "702192",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "231801",
-    "tmdb_site_id": "tv/231801",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -196,7 +196,7 @@
     "id": "708612",
     "type": "link",
     "title": "ダークサモナーとデキている  ミニアニメ劇場",
-    "posterPath": null,
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "N/A",
