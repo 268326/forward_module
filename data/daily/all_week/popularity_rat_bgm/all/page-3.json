@@ -1,5 +1,27 @@
 [
   {
+    "id": "316891",
+    "type": "tmdb",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
+    "link": null,
+    "bgm_id": "634708",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316891",
+    "tmdb_site_id": "tv/316891",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "650428",
     "type": "link",
     "title": "黑化吧！圣女大人 第二季",
@@ -15,21 +37,21 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "316891",
+    "id": "334779",
     "type": "tmdb",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
-    "releaseDate": "2026-10-06",
+    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
+    "description": "[星期日]",
     "link": null,
-    "bgm_id": "634708",
-    "bgm_score": 7.0,
+    "bgm_id": "698032",
+    "bgm_score": 5.0,
     "bgm_rating_total": 7,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "316891",
-    "tmdb_site_id": "tv/316891",
+    "bgm_weekday_id": 7,
+    "tmdb_id": "334779",
+    "tmdb_site_id": "tv/334779",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -111,28 +133,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "334779",
-    "type": "tmdb",
-    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "698032",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "334779",
-    "tmdb_site_id": "tv/334779",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "306565",
     "type": "tmdb",
     "title": "DARK MACHINE THE ANIMATION",
@@ -185,6 +185,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "707667",
+    "type": "link",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "321518",
     "type": "tmdb",
     "title": "世界最强魔女，始动",
@@ -207,6 +222,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -220,21 +250,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "707667",
-    "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "327765",
@@ -366,21 +381,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "312359",

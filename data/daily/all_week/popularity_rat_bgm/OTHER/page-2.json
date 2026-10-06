@@ -60,6 +60,36 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "707667",
+    "type": "link",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -73,21 +103,6 @@
     "bgm_score": 4.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "707667",
-    "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "34158",
@@ -155,21 +170,6 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "390200",
     "type": "link",
     "title": "列女战纪：女娲石记",
@@ -181,6 +181,21 @@
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
     "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "708080",
+    "type": "link",
+    "title": "Family Guy: Happy Hell-O-Ween",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/708080",
+    "bgm_id": "708080",
+    "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
@@ -273,21 +288,6 @@
     "bgm_score": 8.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "708080",
-    "type": "link",
-    "title": "Family Guy: Happy Hell-O-Ween",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/708080",
-    "bgm_id": "708080",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
   },
   {
     "id": "709326",

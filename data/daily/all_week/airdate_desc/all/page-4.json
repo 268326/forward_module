@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.6,
-    "bgm_rating_total": 90,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -33,7 +33,7 @@
     "link": null,
     "bgm_id": "606716",
     "bgm_score": 4.0,
-    "bgm_rating_total": 44,
+    "bgm_rating_total": 47,
     "bgm_weekday_id": 6,
     "tmdb_id": "333622",
     "tmdb_site_id": "tv/333622",
@@ -55,7 +55,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 6
   },
   {
@@ -91,8 +91,8 @@
     "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
     "link": null,
     "bgm_id": "636512",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 111,
+    "bgm_score": 6.1,
+    "bgm_rating_total": 117,
     "bgm_weekday_id": 6,
     "tmdb_id": "317259",
     "tmdb_site_id": "tv/317259",
@@ -136,7 +136,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 107,
+    "bgm_rating_total": 114,
     "bgm_weekday_id": 6
   },
   {
@@ -220,12 +220,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "5.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 6
   },
   {
@@ -270,7 +270,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 248,
+    "bgm_rating_total": 259,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -305,7 +305,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.2,
-    "bgm_rating_total": 60,
+    "bgm_rating_total": 61,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -352,12 +352,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 5
   },
   {
@@ -372,7 +372,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 4
   },
   {
@@ -387,7 +387,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.0,
-    "bgm_rating_total": 951,
+    "bgm_rating_total": 975,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -424,7 +424,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 248,
+    "bgm_rating_total": 257,
     "bgm_weekday_id": 4
   }
 ]

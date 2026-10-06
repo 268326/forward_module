@@ -15,21 +15,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701782",
-    "type": "link",
-    "title": "苍蓝传承",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "617948",
     "type": "link",
     "title": "桃源暗鬼 ～日光・华严之泷篇～",
@@ -67,6 +52,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "589775",
     "type": "link",
     "title": "杀手旅店 第二季",
@@ -93,7 +93,7 @@
     "link": null,
     "bgm_id": "636058",
     "bgm_score": 5.3,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
@@ -117,6 +117,28 @@
     "bgm_score": 7.9,
     "bgm_rating_total": 9,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "334779",
+    "type": "tmdb",
+    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "698032",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "334779",
+    "tmdb_site_id": "tv/334779",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "563508",
@@ -171,28 +193,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "334779",
-    "type": "tmdb",
-    "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "698032",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "334779",
-    "tmdb_site_id": "tv/334779",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "664389",
     "type": "link",
     "title": "夜樱家的大作战 第二季 第2部分",
@@ -206,6 +206,21 @@
     "bgm_score": 6.8,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
   },
   {
     "id": "688797",
@@ -243,21 +258,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "312359",

@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11593,
+    "bgm_rating_total": 11595,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -61,7 +61,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 624,
+    "bgm_rating_total": 671,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -81,7 +81,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 248,
+    "bgm_rating_total": 259,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -101,7 +101,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 107,
+    "bgm_rating_total": 114,
     "bgm_weekday_id": 6
   },
   {
@@ -116,7 +116,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 51,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 7
   },
   {
@@ -161,7 +161,7 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.6,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 33,
     "bgm_weekday_id": 7
   },
   {
@@ -176,7 +176,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 6
   },
   {
@@ -191,7 +191,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 123,
+    "bgm_rating_total": 131,
     "bgm_weekday_id": 7
   },
   {
@@ -276,12 +276,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 5
   },
   {
@@ -296,8 +296,23 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 101,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
   },
   {
     "id": "589775",
@@ -328,21 +343,6 @@
     "bgm_score": 5.2,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "688797",

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 248,
+    "bgm_rating_total": 259,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -35,21 +35,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701782",
-    "type": "link",
-    "title": "苍蓝传承",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "617948",
     "type": "link",
     "title": "桃源暗鬼 ～日光・华严之泷篇～",
@@ -62,6 +47,21 @@
     "bgm_id": "617948",
     "bgm_score": 5.6,
     "bgm_rating_total": 19,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 5
   },
   {

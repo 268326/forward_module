@@ -1,5 +1,27 @@
 [
   {
+    "id": "335194",
+    "type": "tmdb",
+    "title": "魔法★探险家",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+    "link": null,
+    "bgm_id": "456078",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 94,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "335194",
+    "tmdb_site_id": "tv/335194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "204084",
     "type": "tmdb",
     "title": "梦幻之境",
@@ -52,28 +74,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "335194",
-    "type": "tmdb",
-    "title": "魔法★探险家",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
-    "link": null,
-    "bgm_id": "456078",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 91,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "335194",
-    "tmdb_site_id": "tv/335194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "283692",
     "type": "tmdb",
     "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
@@ -85,7 +85,7 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.9,
-    "bgm_rating_total": 59,
+    "bgm_rating_total": 62,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -106,8 +106,8 @@
     "description": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
     "link": null,
     "bgm_id": "605533",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 27,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 7,
     "tmdb_id": "330505",
     "tmdb_site_id": "tv/330505",
@@ -155,21 +155,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701782",
-    "type": "link",
-    "title": "苍蓝传承",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "301139",
     "type": "tmdb",
     "title": "僵尸搜寻中",
@@ -181,7 +166,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.6,
-    "bgm_rating_total": 90,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -190,6 +175,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 5
   },
   {
     "id": "285899",
@@ -203,7 +203,7 @@
     "link": null,
     "bgm_id": "542007",
     "bgm_score": 5.5,
-    "bgm_rating_total": 46,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 6,
     "tmdb_id": "285899",
     "tmdb_site_id": "tv/285899",
@@ -225,7 +225,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 101,
     "bgm_weekday_id": 7
   },
   {
@@ -249,6 +249,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
   },
   {
     "id": "589775",
@@ -277,7 +292,7 @@
     "link": null,
     "bgm_id": "636058",
     "bgm_score": 5.3,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
@@ -314,7 +329,7 @@
     "link": null,
     "bgm_id": "698032",
     "bgm_score": 5.0,
-    "bgm_rating_total": 5,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",
@@ -347,21 +362,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
@@ -373,7 +373,7 @@
     "link": null,
     "bgm_id": "596771",
     "bgm_score": 4.5,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 7,
     "tmdb_id": "303060",
     "tmdb_site_id": "tv/303060",
@@ -410,7 +410,7 @@
     "link": null,
     "bgm_id": "606716",
     "bgm_score": 4.0,
-    "bgm_rating_total": 44,
+    "bgm_rating_total": 47,
     "bgm_weekday_id": 6,
     "tmdb_id": "333622",
     "tmdb_site_id": "tv/333622",

@@ -50,22 +50,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312949",
-    "type": "tmdb",
-    "title": "尼古喵喵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": null,
-    "tmdb_id": "312949",
-    "tmdb_site_id": "tv/312949",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "220542/season/1/episode/49",
     "type": "tmdb",
     "title": "药屋少女的呢喃 第三季",
@@ -77,6 +61,22 @@
     "link": null,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312949",
+    "type": "tmdb",
+    "title": "尼古喵喵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "12话 /  2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+    "link": null,
+    "tmdb_id": "312949",
+    "tmdb_site_id": "tv/312949",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -120,7 +120,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
     "link": "https://bgm.tv/subject/513878"
   },
@@ -134,22 +134,6 @@
     "rating": "7.3",
     "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": "https://bgm.tv/subject/665390"
-  },
-  {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "284580",
@@ -170,6 +154,44 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "117120",
+    "type": "tmdb",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "link": null,
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
+    "link": "https://bgm.tv/subject/637802"
+  },
+  {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "link": "https://bgm.tv/subject/548156"
+  },
+  {
     "id": "288971",
     "type": "tmdb",
     "title": "穹庐下的魔女",
@@ -181,22 +203,6 @@
     "link": null,
     "tmdb_id": "288971",
     "tmdb_site_id": "tv/288971",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "286345",
-    "type": "tmdb",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": null,
-    "tmdb_id": "286345",
-    "tmdb_site_id": "tv/286345",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -218,15 +224,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
+    "id": "286345",
+    "type": "tmdb",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
+    "link": null,
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "616808",
@@ -238,6 +249,24 @@
     "rating": "6.4",
     "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
     "link": "https://bgm.tv/subject/616808"
+  },
+  {
+    "id": "335790",
+    "type": "tmdb",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
+    "link": null,
+    "tmdb_id": "335790",
+    "tmdb_site_id": "tv/335790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "296286",
@@ -256,17 +285,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
-    "link": "https://bgm.tv/subject/548156"
-  },
-  {
     "id": "278043/season/1/episode/13",
     "type": "tmdb",
     "title": "相反的你和我 第二季",
@@ -278,22 +296,6 @@
     "link": null,
     "tmdb_id": "278043/season/1/episode/13",
     "tmdb_site_id": "tv/278043/season/1/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "295071",
-    "type": "tmdb",
-    "title": "再见菈菈",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
-    "link": null,
-    "tmdb_id": "295071",
-    "tmdb_site_id": "tv/295071",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -315,17 +317,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
+    "id": "295071",
     "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "再见菈菈",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "6.6",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "rating": "6.5",
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
     "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
+    "tmdb_id": "295071",
+    "tmdb_site_id": "tv/295071",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -347,17 +349,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312266",
+    "id": "285574",
     "type": "tmdb",
-    "title": "花织即使是转生也想打架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "6.9",
-    "description": "12话 /  2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+    "rating": "6.6",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
     "link": null,
-    "tmdb_id": "312266",
-    "tmdb_site_id": "tv/312266",
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

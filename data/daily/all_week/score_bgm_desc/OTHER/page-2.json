@@ -1,5 +1,20 @@
 [
   {
+    "id": "705980",
+    "type": "link",
+    "title": "熊出没之神奇宝物 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/705980",
+    "bgm_id": "705980",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "698981",
     "type": "link",
     "title": "探险时光：支线任务 第二季",
@@ -91,7 +106,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 4
   },
   {
@@ -110,26 +125,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "316694",
-    "type": "tmdb",
-    "title": "转生哥布林有问题吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "[星期一]",
-    "link": null,
-    "bgm_id": "634587",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 18,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "316694",
-    "tmdb_site_id": "tv/316694",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "617948",
     "type": "link",
     "title": "桃源暗鬼 ～日光・华严之泷篇～",
@@ -145,18 +140,38 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "316694",
+    "type": "tmdb",
+    "title": "转生哥布林有问题吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "634587",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 25,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "316694",
+    "tmdb_site_id": "tv/316694",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "701782",
     "type": "link",
     "title": "苍蓝传承",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.6",
+    "rating": "5.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 5
   },
   {
@@ -171,8 +186,23 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 101,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6
   },
   {
     "id": "589775",
@@ -226,28 +256,13 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "4.3",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 48,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 2
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "4.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6
   },
   {
     "id": "688797",
@@ -278,21 +293,6 @@
     "bgm_score": 3.9,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "708080",
-    "type": "link",
-    "title": "Family Guy: Happy Hell-O-Ween",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/708080",
-    "bgm_id": "708080",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
   },
   {
     "id": "709326",

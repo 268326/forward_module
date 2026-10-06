@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.0,
-    "bgm_rating_total": 951,
+    "bgm_rating_total": 975,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -140,6 +140,28 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "337277",
+    "type": "tmdb",
+    "title": "魔法少女育成计划 restart",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "获得「魔法王国」所赐之魔力、每日勤奋奔走于助人的魔法少女们——她们收到了来自神秘寄信人所寄出，名为『魔法少女育成计划』的游戏邀请函。受到隐藏着死亡风险、毫无逻辑可言的游戏所囚禁的十六位魔法少女，在幕后黑手策划的诡计玩弄下，开始为了存活下来而绞尽脑汁苦思对策……",
+    "link": null,
+    "bgm_id": "418229",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "337277",
+    "tmdb_site_id": "tv/337277",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -166,7 +188,7 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.6,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 33,
     "bgm_weekday_id": 7
   },
   {
@@ -181,32 +203,10 @@
     "link": null,
     "bgm_id": "511936",
     "bgm_score": 6.4,
-    "bgm_rating_total": 94,
+    "bgm_rating_total": 98,
     "bgm_weekday_id": 1,
     "tmdb_id": "305313",
     "tmdb_site_id": "tv/305313",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "313068",
-    "type": "tmdb",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
-    "link": null,
-    "bgm_id": "624923",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 47,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "313068",
-    "tmdb_site_id": "tv/313068",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -225,7 +225,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 6
   },
   {
@@ -240,7 +240,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 123,
+    "bgm_rating_total": 131,
     "bgm_weekday_id": 7
   },
   {
@@ -250,15 +250,37 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "10.0",
     "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
     "link": null,
     "bgm_id": "630160",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 62,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 75,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313068",
+    "type": "tmdb",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
+    "link": null,
+    "bgm_id": "624923",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 68,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "313068",
+    "tmdb_site_id": "tv/313068",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -277,32 +299,10 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.2,
-    "bgm_rating_total": 60,
+    "bgm_rating_total": 61,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "317259",
-    "type": "tmdb",
-    "title": "至高之力",
-    "posterPath": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
-    "link": null,
-    "bgm_id": "636512",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 111,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "317259",
-    "tmdb_site_id": "tv/317259",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -332,6 +332,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "317259",
+    "type": "tmdb",
+    "title": "至高之力",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
+    "link": null,
+    "bgm_id": "636512",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 117,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "317259",
+    "tmdb_site_id": "tv/317259",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "320377",
     "type": "tmdb",
     "title": "战车椅子",
@@ -343,7 +365,7 @@
     "link": null,
     "bgm_id": "636023",
     "bgm_score": 6.1,
-    "bgm_rating_total": 60,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 7,
     "tmdb_id": "320377",
     "tmdb_site_id": "tv/320377",
@@ -354,18 +376,18 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "707667",
+    "id": "708080",
     "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "title": "Family Guy: Happy Hell-O-Ween",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
     "rating": "6.0",
     "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
+    "link": "http://bgm.tv/subject/708080",
+    "bgm_id": "708080",
     "bgm_score": 6.0,
-    "bgm_rating_total": 2,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
   {
@@ -434,27 +456,5 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "204084",
-    "type": "tmdb",
-    "title": "梦幻之境",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lZ88hdOO2J7EX40fctU1leGgZFu.jpg",
-    "releaseDate": "2026-10-17",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "自从母亲在一场火灾中丧生后，特伦斯就把自己封闭在一个没有情感的世界里。他麻木地过着每天的青少年生活……只有一个例外！仅仅是看到火焰的景象，就会让他陷入恐惧的世界，唤醒他噩梦般的记忆——因为每次入睡，他都会无助地重温那场悲剧，从而重新点燃他的恐火症。直到有一天晚上他再也无法忍受，停止了逃离那恶魔般的火焰。他几乎不知道，通过这样做，他克服了最大的恐惧，成为了一名旅行者：一种非常特殊的梦者，能够探索梦境之地——那个由人类的梦想……和噩梦所诞生的维度！",
-    "link": null,
-    "bgm_id": "559080",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "204084",
-    "tmdb_site_id": "tv/204084",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "FR"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]
