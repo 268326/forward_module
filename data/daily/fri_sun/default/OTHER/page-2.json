@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 33,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 7
   },
   {
@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 101,
+    "bgm_rating_total": 109,
     "bgm_weekday_id": 7
   },
   {
@@ -96,12 +96,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "4.3",
+    "rating": "5.8",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/688797",
     "bgm_id": "688797",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 3,
+    "bgm_score": 5.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 7
   },
   {

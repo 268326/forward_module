@@ -1,20 +1,5 @@
 [
   {
-    "id": "544378",
-    "type": "link",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/544378",
-    "bgm_id": "544378",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "34158",
     "type": "tmdb",
     "title": "魔法骑士雷阿斯 (2026)",
@@ -76,7 +61,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14802,
+    "bgm_rating_total": 14809,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -126,23 +111,8 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 257,
+    "bgm_rating_total": 266,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "390200",
-    "type": "link",
-    "title": "列女战纪：女娲石记",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/390200",
-    "bgm_id": "390200",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1
   },
   {
     "id": "471844",
@@ -160,6 +130,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "544378",
+    "type": "link",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/544378",
+    "bgm_id": "544378",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -171,7 +156,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 85,
     "bgm_weekday_id": 3
   },
   {
@@ -188,6 +173,21 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 41,
+    "bgm_weekday_id": 4
   },
   {
     "id": "705980",
@@ -216,7 +216,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.9,
-    "bgm_rating_total": 30,
+    "bgm_rating_total": 31,
     "bgm_weekday_id": 3
   },
   {
@@ -240,33 +240,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 37,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "316694",
     "type": "tmdb",
     "title": "转生哥布林有问题吗？",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "5.5",
+    "rating": "5.6",
     "description": "[星期一]",
     "link": null,
     "bgm_id": "634587",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 25,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -296,13 +281,28 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.3",
+    "rating": "4.5",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 51,
+    "bgm_score": 4.5,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 2
+  },
+  {
+    "id": "390200",
+    "type": "link",
+    "title": "列女战纪：女娲石记",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/390200",
+    "bgm_id": "390200",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 1
   },
   {
     "id": "650428",

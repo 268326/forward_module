@@ -1,20 +1,5 @@
 [
   {
-    "id": "544378",
-    "type": "link",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/544378",
-    "bgm_id": "544378",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "513878",
     "type": "link",
     "title": "赛博朋克：边缘行者 2",
@@ -30,18 +15,33 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "544378",
+    "type": "link",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/544378",
+    "bgm_id": "544378",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "584847",
     "type": "link",
     "title": "弹珠汽水瓶里的千岁同学 第2部分",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.3",
+    "rating": "4.5",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 51,
+    "bgm_score": 4.5,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 2
   },
   {
