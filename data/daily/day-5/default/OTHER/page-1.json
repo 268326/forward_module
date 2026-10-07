@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.9",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 24,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 5
   },
   {
@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.0",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/538631",
     "bgm_id": "538631",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
   {
@@ -56,7 +56,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 273,
+    "bgm_rating_total": 279,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -166,7 +166,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 5.7,
-    "bgm_rating_total": 22,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 5
   }
 ]

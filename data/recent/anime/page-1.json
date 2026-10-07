@@ -98,6 +98,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "65942/season/1/episode/78",
     "type": "tmdb",
     "title": "Re：从零开始的异世界生活 第四季 夺还篇",
@@ -114,17 +125,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "513878",
-    "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
-  },
-  {
     "id": "665390",
     "type": "link",
     "title": "冰之城墙 第二季",
@@ -139,7 +139,7 @@
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/h5IN8zBryhPu36ZZHlm7rA8zwhr.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q7J6Nt0Ml6FI8ReSFX2t8YynGqX.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "tv",
     "rating": "0.0",
@@ -152,22 +152,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "637802",
@@ -187,9 +171,43 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
     "link": "https://bgm.tv/subject/548156"
+  },
+  {
+    "id": "117120",
+    "type": "tmdb",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "link": null,
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "335790",
+    "type": "tmdb",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
+    "link": null,
+    "tmdb_id": "335790",
+    "tmdb_site_id": "tv/335790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "288971",
@@ -206,6 +224,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "616808",
+    "type": "link",
+    "title": "野生的大魔王出现了！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
+    "link": "https://bgm.tv/subject/616808"
   },
   {
     "id": "79166",
@@ -240,35 +269,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "616808",
-    "type": "link",
-    "title": "野生的大魔王出现了！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
-    "link": "https://bgm.tv/subject/616808"
-  },
-  {
-    "id": "335790",
-    "type": "tmdb",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
-    "link": null,
-    "tmdb_id": "335790",
-    "tmdb_site_id": "tv/335790",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "296286",
     "type": "tmdb",
     "title": "在超市后门吸烟的二人",
@@ -301,36 +301,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308403",
+    "id": "312850",
     "type": "tmdb",
-    "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
+    "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
+    "rating": "0.0",
+    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
     "link": null,
-    "tmdb_id": "308403",
-    "tmdb_site_id": "tv/308403",
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "295071",
-    "type": "tmdb",
-    "title": "再见菈菈",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
-    "link": null,
-    "tmdb_id": "295071",
-    "tmdb_site_id": "tv/295071",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "287028",
@@ -349,17 +335,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285574",
+    "id": "308403",
     "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "炒翻天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "6.6",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
     "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "309974",
+    "type": "tmdb",
+    "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "12话 /  2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月、安本朱希(3,6,9-11)",
+    "link": null,
+    "tmdb_id": "309974",
+    "tmdb_site_id": "tv/309974",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

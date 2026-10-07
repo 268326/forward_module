@@ -1,42 +1,5 @@
 [
   {
-    "id": "316891",
-    "type": "tmdb",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
-    "link": null,
-    "bgm_id": "634708",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 45,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "316891",
-    "tmdb_site_id": "tv/316891",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "393010",
-    "type": "link",
-    "title": "侦探已经死了。 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/393010",
-    "bgm_id": "393010",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 31,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "206630",
     "type": "tmdb",
     "title": "佐佐木与文鸟小哔 第二季",
@@ -55,6 +18,28 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "316891",
+    "type": "tmdb",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
+    "link": null,
+    "bgm_id": "634708",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 69,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316891",
+    "tmdb_site_id": "tv/316891",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "297903",
@@ -79,24 +64,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "316694",
+    "id": "316551",
     "type": "tmdb",
-    "title": "转生哥布林有问题吗？",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
-    "releaseDate": "2026-10-05",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6jjfwGwjaLIGKstXq2XITgbddAX.jpg",
+    "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "5.6",
-    "description": "[星期一]",
+    "rating": "0.0",
+    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
     "link": null,
-    "bgm_id": "634587",
+    "bgm_id": "544378",
     "bgm_score": 5.6,
-    "bgm_rating_total": 36,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "316694",
-    "tmdb_site_id": "tv/316694",
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316551",
+    "tmdb_site_id": "tv/316551",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "285710",
@@ -110,7 +97,7 @@
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 5.4,
-    "bgm_rating_total": 35,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 2,
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
@@ -119,6 +106,26 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316694",
+    "type": "tmdb",
+    "title": "转生哥布林有问题吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "5.3",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "634587",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 42,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "316694",
+    "tmdb_site_id": "tv/316694",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "573707",
@@ -142,12 +149,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "4.6",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 55,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 65,
     "bgm_weekday_id": 2
   },
   {
@@ -157,12 +164,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "4.0",
+    "rating": "4.3",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 1
   },
   {

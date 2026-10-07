@@ -1,20 +1,5 @@
 [
   {
-    "id": "701310",
-    "type": "link",
-    "title": "格林姐妹大冒险 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701310",
-    "bgm_id": "701310",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "701782",
     "type": "link",
     "title": "苍蓝传承",
@@ -26,7 +11,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 5.7,
-    "bgm_rating_total": 22,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 5
   },
   {
@@ -71,7 +56,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 266,
+    "bgm_rating_total": 271,
     "bgm_weekday_id": 4
   },
   {
@@ -116,7 +101,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14809,
+    "bgm_rating_total": 14811,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -136,7 +121,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11599,
+    "bgm_rating_total": 11600,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",

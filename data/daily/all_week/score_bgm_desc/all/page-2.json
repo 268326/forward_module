@@ -1,20 +1,5 @@
 [
   {
-    "id": "555605",
-    "type": "link",
-    "title": "青之芦苇 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_cLCw5.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/555605",
-    "bgm_id": "555605",
-    "bgm_score": 7.1,
-    "bgm_rating_total": 67,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "471844",
     "type": "link",
     "title": "归还者的魔法要特别 第二季",
@@ -85,7 +70,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1028,
+    "bgm_rating_total": 1050,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -118,6 +103,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "312850",
+    "type": "tmdb",
+    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "link": null,
+    "bgm_id": "624085",
+    "bgm_score": 6.9,
+    "bgm_rating_total": 125,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "664389",
     "type": "link",
     "title": "夜樱家的大作战 第二季 第2部分",
@@ -133,28 +140,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "312850",
-    "type": "tmdb",
-    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
-    "link": null,
-    "bgm_id": "624085",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 70,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "312850",
-    "tmdb_site_id": "tv/312850",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "634210",
     "type": "link",
     "title": "魔法姐妹露露特莉莉 第2部分",
@@ -166,14 +151,14 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.7,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7
   },
   {
     "id": "337277",
     "type": "tmdb",
     "title": "魔法少女育成计划 restart",
-    "posterPath": "https://image.tmdb.org/t/p/w500/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/s7WJ5gQSLwk5vVxwhzJDx94mMf6.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
     "rating": "0.0",
@@ -181,7 +166,7 @@
     "link": null,
     "bgm_id": "418229",
     "bgm_score": 6.6,
-    "bgm_rating_total": 45,
+    "bgm_rating_total": 48,
     "bgm_weekday_id": 1,
     "tmdb_id": "337277",
     "tmdb_site_id": "tv/337277",
@@ -190,21 +175,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "544378",
-    "type": "link",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/544378",
-    "bgm_id": "544378",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
   },
   {
     "id": "412008",
@@ -218,7 +188,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 3
   },
   {
@@ -237,10 +207,25 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/548156",
+    "bgm_id": "548156",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 155,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "305313",
     "type": "tmdb",
     "title": "罗梅莉亚战记",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
     "rating": "0.0",
@@ -248,7 +233,7 @@
     "link": null,
     "bgm_id": "511936",
     "bgm_score": 6.4,
-    "bgm_rating_total": 102,
+    "bgm_rating_total": 106,
     "bgm_weekday_id": 1,
     "tmdb_id": "305313",
     "tmdb_site_id": "tv/305313",
@@ -270,23 +255,8 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/548156",
-    "bgm_id": "548156",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 149,
-    "bgm_weekday_id": 7
   },
   {
     "id": "335790",
@@ -300,7 +270,7 @@
     "link": null,
     "bgm_id": "630160",
     "bgm_score": 6.4,
-    "bgm_rating_total": 100,
+    "bgm_rating_total": 109,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
@@ -322,32 +292,10 @@
     "link": null,
     "bgm_id": "624923",
     "bgm_score": 6.3,
-    "bgm_rating_total": 90,
+    "bgm_rating_total": 101,
     "bgm_weekday_id": 1,
     "tmdb_id": "313068",
     "tmdb_site_id": "tv/313068",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "327765",
-    "type": "tmdb",
-    "title": "超巡！超条前辈",
-    "posterPath": "https://image.tmdb.org/t/p/w500/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为\"大猩猩\"的新人警察一本木直，最强（？）搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
-    "link": null,
-    "bgm_id": "593565",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 24,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "327765",
-    "tmdb_site_id": "tv/327765",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -366,10 +314,32 @@
     "link": null,
     "bgm_id": "636023",
     "bgm_score": 6.2,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 83,
     "bgm_weekday_id": 7,
     "tmdb_id": "320377",
     "tmdb_site_id": "tv/320377",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "327765",
+    "type": "tmdb",
+    "title": "超巡！超条前辈",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为“大猩猩”的新人警察一本木直，最强(?)搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
+    "link": null,
+    "bgm_id": "593565",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 54,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "327765",
+    "tmdb_site_id": "tv/327765",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -388,7 +358,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.1,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -410,7 +380,7 @@
     "link": null,
     "bgm_id": "636512",
     "bgm_score": 6.1,
-    "bgm_rating_total": 130,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 6,
     "tmdb_id": "317259",
     "tmdb_site_id": "tv/317259",
@@ -449,5 +419,35 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 41,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "705980",
+    "type": "link",
+    "title": "熊出没之神奇宝物 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/705980",
+    "bgm_id": "705980",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
   }
 ]

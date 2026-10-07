@@ -10,77 +10,11 @@
     "description": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
     "link": null,
     "bgm_id": "605533",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 29,
+    "bgm_score": 5.9,
+    "bgm_rating_total": 30,
     "bgm_weekday_id": 7,
     "tmdb_id": "330505",
     "tmdb_site_id": "tv/330505",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "288588",
-    "type": "tmdb",
-    "title": "和没有信徒的女神大人一起攻略异世界",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
-    "link": null,
-    "bgm_id": "621073",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "288588",
-    "tmdb_site_id": "tv/288588",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316891",
-    "type": "tmdb",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。\n\n从不向任何人展露笑容，绰号\"冷淡的佐藤同学\"。\n\n然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……\n\n为了拍摄甜品照片而拼尽全力、毫无防备的模样！？\n\n其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。\n\n两人的距离，以甜品和相机为契机，一点点地拉近。\n\n令人焦心，又令人心生怜爱。\n\n世界上最甜的\"双向暗恋\"，你一定会为之融化——。\n\n笨拙的两人交织出的\"又甜又咸\"青春恋爱喜剧！",
-    "link": null,
-    "bgm_id": "634708",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 45,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "316891",
-    "tmdb_site_id": "tv/316891",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "324326",
-    "type": "tmdb",
-    "title": "七叶树王国的七名骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/g3G9DHjjRBKdm8SbHVU2w3Cmp51.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "在这片由八个王国组成的大陆中央，坐落着马罗尼耶王国。王国的将军巴里巴拉有七个儿子，他们各有所长，并且都担任骑士长。他们有一个共同崇高目标，那就是有朝一日英勇地救出公主，于是七兄弟作为友好大使，踏上了前往邻近七国的旅程。\n\n在这些陌生的国度，他们将经历怎样的奇遇和考验，最终走向怎样的命运？",
-    "link": null,
-    "bgm_id": "657084",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 32,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "324326",
-    "tmdb_site_id": "tv/324326",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -99,10 +33,32 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 74,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316891",
+    "type": "tmdb",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
+    "link": null,
+    "bgm_id": "634708",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 69,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316891",
+    "tmdb_site_id": "tv/316891",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -121,10 +77,32 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.7,
-    "bgm_rating_total": 100,
+    "bgm_rating_total": 106,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "324326",
+    "type": "tmdb",
+    "title": "七叶树王国的七名骑士",
+    "posterPath": "https://image.tmdb.org/t/p/w500/g3G9DHjjRBKdm8SbHVU2w3Cmp51.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在这片由八个王国组成的大陆中央，坐落着马罗尼耶王国。王国的将军巴里巴拉有七个儿子，他们各有所长，并且都担任骑士长。他们有一个共同崇高目标，那就是有朝一日英勇地救出公主，于是七兄弟作为友好大使，踏上了前往邻近七国的旅程。\n\n在这些陌生的国度，他们将经历怎样的奇遇和考验，最终走向怎样的命运？",
+    "link": null,
+    "bgm_id": "657084",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 33,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "324326",
+    "tmdb_site_id": "tv/324326",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -154,21 +132,65 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "316551",
+    "type": "tmdb",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6jjfwGwjaLIGKstXq2XITgbddAX.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
+    "link": null,
+    "bgm_id": "544378",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316551",
+    "tmdb_site_id": "tv/316551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "285899",
     "type": "tmdb",
     "title": "转生后的大圣女，极力隐瞒圣女的身份",
     "posterPath": "https://image.tmdb.org/t/p/w500/dwnkFRVIpT2eJEhfFsiVG1I4Crv.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "3.0",
+    "rating": "6.5",
     "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
     "link": null,
     "bgm_id": "542007",
     "bgm_score": 5.5,
-    "bgm_rating_total": 57,
+    "bgm_rating_total": 58,
     "bgm_weekday_id": 6,
     "tmdb_id": "285899",
     "tmdb_site_id": "tv/285899",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "337299",
+    "type": "tmdb",
+    "title": "ゆるゆる図鑑",
+    "posterPath": "https://image.tmdb.org/t/p/w500/46yezKNjJ1WPKhImfCqkyS2qTS2.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "661278",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337299",
+    "tmdb_site_id": "tv/337299",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -187,32 +209,10 @@
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 5.4,
-    "bgm_rating_total": 35,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 2,
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "329096",
-    "type": "tmdb",
-    "title": "来自远方",
-    "posterPath": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
-    "link": null,
-    "bgm_id": "636058",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 17,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "329096",
-    "tmdb_site_id": "tv/329096",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -242,6 +242,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "329096",
+    "type": "tmdb",
+    "title": "来自远方",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
+    "link": null,
+    "bgm_id": "636058",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 18,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "329096",
+    "tmdb_site_id": "tv/329096",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
@@ -253,7 +275,7 @@
     "link": null,
     "bgm_id": "596771",
     "bgm_score": 4.8,
-    "bgm_rating_total": 31,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 7,
     "tmdb_id": "303060",
     "tmdb_site_id": "tv/303060",
@@ -274,33 +296,11 @@
     "description": "“要不要跟我出轨试试？”人生中第一次交往的可爱女友。然而她的闺蜜，却拥有比她更丰满动人的身材，还在不断引诱着我……如果被女友的闺蜜这样步步紧逼，换作是你，该如何抉择？",
     "link": null,
     "bgm_id": "647220",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 52,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 58,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "333622",
-    "type": "tmdb",
-    "title": "借出去的魔力要用【分期还款】强制收回",
-    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "4.0",
-    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
-    "link": null,
-    "bgm_id": "606716",
-    "bgm_score": 4.1,
-    "bgm_rating_total": 58,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "333622",
-    "tmdb_site_id": "tv/333622",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -323,6 +323,28 @@
     "bgm_weekday_id": 1,
     "tmdb_id": "337456",
     "tmdb_site_id": "tv/337456",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "333622",
+    "type": "tmdb",
+    "title": "借出去的魔力要用【分期还款】强制收回",
+    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "4.0",
+    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
+    "link": null,
+    "bgm_id": "606716",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 62,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "333622",
+    "tmdb_site_id": "tv/333622",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

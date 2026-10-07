@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.9",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 24,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 5
   },
   {
@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 5.7,
-    "bgm_rating_total": 22,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 5
   },
   {
@@ -77,8 +77,8 @@
     "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
     "link": null,
     "bgm_id": "636058",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 17,
+    "bgm_score": 5.2,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
@@ -178,6 +178,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "638081",
     "type": "link",
     "title": "小狸猫与小狐狸",
@@ -191,21 +206,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 6
   },
   {
     "id": "664389",
@@ -341,6 +341,43 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "337299",
+    "type": "tmdb",
+    "title": "ゆるゆる図鑑",
+    "posterPath": "https://image.tmdb.org/t/p/w500/46yezKNjJ1WPKhImfCqkyS2qTS2.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "661278",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337299",
+    "tmdb_site_id": "tv/337299",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "698981",
     "type": "link",
     "title": "探险时光：支线任务 第二季",
@@ -391,42 +428,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "337195",
-    "type": "tmdb",
-    "title": "しろたん",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dlYiEcuj9YSJQ1JKQfFaedVxFtV.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "637206",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "337195",
-    "tmdb_site_id": "tv/337195",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "551304",
-    "type": "link",
-    "title": "我的幸福婚姻 特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_5sWb1.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/551304",
-    "bgm_id": "551304",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
   }
 ]

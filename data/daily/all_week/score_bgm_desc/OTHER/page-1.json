@@ -15,26 +15,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "34158",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "9.5",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "34158",
-    "tmdb_site_id": "tv/34158",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -76,7 +56,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14809,
+    "bgm_rating_total": 14811,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -115,6 +95,26 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "34158",
+    "type": "tmdb",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "502123",
+    "bgm_score": 7.6,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -126,7 +126,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11599,
+    "bgm_rating_total": 11600,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -146,7 +146,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 776,
+    "bgm_rating_total": 811,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -196,7 +196,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 266,
+    "bgm_rating_total": 271,
     "bgm_weekday_id": 4
   },
   {
@@ -211,7 +211,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 273,
+    "bgm_rating_total": 279,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -231,7 +231,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 128,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 6
   },
   {
@@ -246,7 +246,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 67,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 7
   },
   {
@@ -291,23 +291,8 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.7,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "544378",
-    "type": "link",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/544378",
-    "bgm_id": "544378",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
   },
   {
     "id": "412008",
@@ -321,7 +306,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 3
   },
   {
@@ -340,6 +325,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/548156",
+    "bgm_id": "548156",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 155,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
@@ -351,23 +351,8 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/548156",
-    "bgm_id": "548156",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 149,
-    "bgm_weekday_id": 7
   },
   {
     "id": "708080",
@@ -383,5 +368,20 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 41,
+    "bgm_weekday_id": 4
   }
 ]

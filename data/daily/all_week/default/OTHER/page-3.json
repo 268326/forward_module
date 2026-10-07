@@ -1,20 +1,5 @@
 [
   {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 15,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "632817",
     "type": "link",
     "title": "肥志百科 第15季",
@@ -41,7 +26,7 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.7,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7
   },
   {
@@ -86,7 +71,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 110,
     "bgm_weekday_id": 7
   },
   {

@@ -1,25 +1,5 @@
 [
   {
-    "id": "34158",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "9.5",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "34158",
-    "tmdb_site_id": "tv/34158",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -61,10 +41,30 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14809,
+    "bgm_rating_total": 14811,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "34158",
+    "type": "tmdb",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "502123",
+    "bgm_score": 7.6,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -111,7 +111,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 266,
+    "bgm_rating_total": 271,
     "bgm_weekday_id": 4
   },
   {
@@ -130,21 +130,6 @@
     "bgm_weekday_id": 3
   },
   {
-    "id": "544378",
-    "type": "link",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/544378",
-    "bgm_id": "544378",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -156,7 +141,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 3
   },
   {
@@ -246,12 +231,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "5.6",
+    "rating": "5.3",
     "description": "[星期一]",
     "link": null,
     "bgm_id": "634587",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 36,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -281,12 +266,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.5",
+    "rating": "4.6",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 55,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 65,
     "bgm_weekday_id": 2
   },
   {
@@ -296,12 +281,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "4.0",
+    "rating": "4.3",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 2,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 1
   },
   {
@@ -378,5 +363,20 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "576783",
+    "type": "link",
+    "title": "狂王 第2季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_fzZXD.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/576783",
+    "bgm_id": "576783",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
   }
 ]

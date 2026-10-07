@@ -1,5 +1,35 @@
 [
   {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "390200",
+    "type": "link",
+    "title": "列女战纪：女娲石记",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "4.3",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/390200",
+    "bgm_id": "390200",
+    "bgm_score": 4.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "707667",
     "type": "link",
     "title": "猫猫的呢喃 第三季",
@@ -57,41 +87,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "390200",
-    "type": "link",
-    "title": "列女战纪：女娲石记",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_1IA55.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/390200",
-    "bgm_id": "390200",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "34158",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "9.5",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 9.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "34158",
-    "tmdb_site_id": "tv/34158",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "449346",

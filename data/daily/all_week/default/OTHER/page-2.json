@@ -1,20 +1,5 @@
 [
   {
-    "id": "704737",
-    "type": "link",
-    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/704737",
-    "bgm_id": "704737",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "705980",
     "type": "link",
     "title": "熊出没之神奇宝物 第二季",
@@ -36,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.9",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 24,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 5
   },
   {
@@ -51,12 +36,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "6.0",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/538631",
     "bgm_id": "538631",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
   {
@@ -86,7 +71,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 273,
+    "bgm_rating_total": 279,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -196,7 +181,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 5.7,
-    "bgm_rating_total": 22,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 5
   },
   {
@@ -211,7 +196,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11599,
+    "bgm_rating_total": 11600,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -246,7 +231,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 776,
+    "bgm_rating_total": 811,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -266,7 +251,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 6
   },
   {
@@ -281,7 +266,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 128,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 6
   },
   {
@@ -321,12 +306,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "4.8",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 6
   },
   {
@@ -336,12 +321,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 149,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 155,
     "bgm_weekday_id": 7
   },
   {
@@ -371,7 +356,22 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 67,
+    "bgm_rating_total": 69,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 15,
     "bgm_weekday_id": 7
   }
 ]

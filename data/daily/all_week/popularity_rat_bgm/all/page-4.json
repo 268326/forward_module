@@ -66,6 +66,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "337299",
+    "type": "tmdb",
+    "title": "ゆるゆる図鑑",
+    "posterPath": "https://image.tmdb.org/t/p/w500/46yezKNjJ1WPKhImfCqkyS2qTS2.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "661278",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337299",
+    "tmdb_site_id": "tv/337299",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "337456",
     "type": "tmdb",
     "title": "ゆうさんち！from 遊ハち",
@@ -116,6 +138,21 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
   },
   {
     "id": "698981",
@@ -205,28 +242,6 @@
     "bgm_score": 10.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "337299",
-    "type": "tmdb",
-    "title": "ゆるゆる図鑑",
-    "posterPath": "https://image.tmdb.org/t/p/w500/46yezKNjJ1WPKhImfCqkyS2qTS2.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "661278",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "337299",
-    "tmdb_site_id": "tv/337299",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "664395",
@@ -354,21 +369,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "538631",
-    "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
   },
   {
     "id": "632061",

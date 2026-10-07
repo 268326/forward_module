@@ -1,20 +1,5 @@
 [
   {
-    "id": "707667",
-    "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "708080",
     "type": "link",
     "title": "Family Guy: Happy Hell-O-Ween",
@@ -36,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 149,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 155,
     "bgm_weekday_id": 7
   },
   {
@@ -56,7 +41,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 67,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 7
   },
   {
@@ -101,7 +86,7 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.7,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 7
   },
   {
@@ -146,7 +131,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 110,
     "bgm_weekday_id": 7
   },
   {
@@ -206,7 +191,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 776,
+    "bgm_rating_total": 811,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -226,7 +211,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 6
   },
   {
@@ -241,7 +226,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 128,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 6
   },
   {
@@ -281,12 +266,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "4.8",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
+    "bgm_score": 4.8,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 6
   },
   {
@@ -296,12 +281,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.9",
+    "rating": "5.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 24,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 5
   },
   {
@@ -331,7 +316,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 273,
+    "bgm_rating_total": 279,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -365,6 +350,21 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/698981",
     "bgm_id": "698981",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "701310",
+    "type": "link",
+    "title": "格林姐妹大冒险 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/cc/701310_t4Gsn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701310",
+    "bgm_id": "701310",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
