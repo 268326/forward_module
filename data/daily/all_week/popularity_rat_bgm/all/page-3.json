@@ -1,5 +1,57 @@
 [
   {
+    "id": "617948",
+    "type": "link",
+    "title": "桃源暗鬼 ～日光・华严之泷篇～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/617948",
+    "bgm_id": "617948",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 19,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "323937",
+    "type": "tmdb",
+    "title": "兽王武神丹帝拜恩",
+    "posterPath": "https://image.tmdb.org/t/p/w500/6hBvqy6OKi0OcFLQOeulmlC5hr0.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
+    "link": null,
+    "bgm_id": "657778",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "323937",
+    "tmdb_site_id": "tv/323937",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "302020",
     "type": "tmdb",
     "title": "铁旅！邂逅铁道少女",
@@ -22,26 +74,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "206630",
-    "type": "tmdb",
-    "title": "佐佐木与文鸟小哔 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "486456",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "206630",
-    "tmdb_site_id": "tv/206630/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "334779",
     "type": "tmdb",
     "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
@@ -52,8 +84,8 @@
     "description": "[星期日]",
     "link": null,
     "bgm_id": "698032",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 10,
+    "bgm_score": 5.0,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",
@@ -64,19 +96,61 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "34158",
+    "type": "tmdb",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "502123",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "507820",
     "type": "link",
     "title": "大王饶命 第三季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "7.9",
+    "rating": "7.4",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
-    "bgm_score": 7.9,
-    "bgm_rating_total": 9,
+    "bgm_score": 7.4,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "316551",
+    "type": "tmdb",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
+    "link": null,
+    "bgm_id": "544378",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316551",
+    "tmdb_site_id": "tv/316551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "650428",
@@ -94,28 +168,6 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "316551",
-    "type": "tmdb",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6jjfwGwjaLIGKstXq2XITgbddAX.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
-    "link": null,
-    "bgm_id": "544378",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "316551",
-    "tmdb_site_id": "tv/316551",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -129,6 +181,21 @@
     "bgm_score": 5.9,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 6
   },
   {
     "id": "288588",
@@ -153,39 +220,19 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "34158",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "34158",
-    "tmdb_site_id": "tv/34158",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "702192",
+    "id": "471844",
     "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 4.8,
+    "rating": "6.8",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 6.8,
     "bgm_rating_total": 5,
-    "bgm_weekday_id": 6
+    "bgm_weekday_id": 3
   },
   {
     "id": "638081",
@@ -223,21 +270,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "471844",
-    "type": "link",
-    "title": "归还者的魔法要特别 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/471844",
-    "bgm_id": "471844",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 3
   },
   {
     "id": "664389",
@@ -300,50 +332,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "321518",
-    "type": "tmdb",
-    "title": "世界最强魔女，始动",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
-    "link": null,
-    "bgm_id": "646154",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "321518",
-    "tmdb_site_id": "tv/321518",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323937",
-    "type": "tmdb",
-    "title": "兽王武神丹帝拜恩",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6hBvqy6OKi0OcFLQOeulmlC5hr0.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
-    "link": null,
-    "bgm_id": "657778",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "323937",
-    "tmdb_site_id": "tv/323937",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "320909",
     "type": "tmdb",
     "title": "萤火虫的出嫁",
@@ -359,6 +347,28 @@
     "bgm_weekday_id": 5,
     "tmdb_id": "320909",
     "tmdb_site_id": "tv/320909",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "295420",
+    "type": "tmdb",
+    "title": "朱色假面",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
+    "link": null,
+    "bgm_id": "568525",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -409,20 +419,5 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   }
 ]

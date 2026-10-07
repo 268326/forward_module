@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.4",
     "description": "[星期五]",
     "link": null,
     "bgm_id": "568244",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 279,
+    "bgm_score": 7.4,
+    "bgm_rating_total": 303,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.7,
-    "bgm_rating_total": 26,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 5
   },
   {
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 5.6,
-    "bgm_rating_total": 19,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 5
   },
   {

@@ -1,5 +1,20 @@
 [
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "204084",
     "type": "tmdb",
     "title": "梦幻之境",
@@ -18,28 +33,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "FR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "295420",
-    "type": "tmdb",
-    "title": "朱色假面",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
-    "releaseDate": "2026-10-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
-    "link": null,
-    "bgm_id": "568525",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "295420",
-    "tmdb_site_id": "tv/295420",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },

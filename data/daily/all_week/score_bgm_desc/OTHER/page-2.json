@@ -1,5 +1,20 @@
 [
   {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 42,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "705980",
     "type": "link",
     "title": "熊出没之神奇宝物 第二季",
@@ -75,41 +90,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "393010",
-    "type": "link",
-    "title": "侦探已经死了。 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/393010",
-    "bgm_id": "393010",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 31,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "206630",
-    "type": "tmdb",
-    "title": "佐佐木与文鸟小哔 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "486456",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "206630",
-    "tmdb_site_id": "tv/206630/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -140,6 +120,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "393010",
+    "type": "link",
+    "title": "侦探已经死了。 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/393010",
+    "bgm_id": "393010",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 52,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "499474",
     "type": "link",
     "title": "东京复仇者 三天战争篇",
@@ -151,7 +146,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.7,
-    "bgm_rating_total": 26,
+    "bgm_rating_total": 27,
     "bgm_weekday_id": 5
   },
   {
@@ -181,7 +176,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 5.6,
-    "bgm_rating_total": 19,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 5
   },
   {
@@ -196,7 +191,22 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.5,
-    "bgm_rating_total": 110,
+    "bgm_rating_total": 115,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 19,
     "bgm_weekday_id": 7
   },
   {
@@ -211,28 +221,13 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.3,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 54,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 15,
-    "bgm_weekday_id": 7
   },
   {
     "id": "573707",
@@ -256,12 +251,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "5.0",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 5,
+    "bgm_score": 5.0,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 6
   },
   {
@@ -271,12 +266,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.6",
+    "rating": "4.5",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 65,
+    "bgm_score": 4.5,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 2
   },
   {

@@ -1,18 +1,55 @@
 [
   {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "3.9",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 3.9,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "471844",
     "type": "link",
     "title": "归还者的魔法要特别 第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "6.8",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.8,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "306565",
+    "type": "tmdb",
+    "title": "DARK MACHINE THE ANIMATION",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在世界范围内拥有压倒性人气的电竞项目“Dark Machine”让人们为之狂热，甚至改变了日本的经济体系。日本唯一被指定为“Dark Machine”经济特区的城市——黄金谷。君临其顶点的，是继承了“Dark Machine”最强玩家称号“千鬼”、第七代“千鬼”阿吉玛。阿吉玛通过“Dark Machine”成为了黄金谷的实际统治者。主人公海里将亡故祖父的遗言“去找千鬼”铭记于心来到了黄金谷，偶然遇到了正被阿吉玛手下“阿流堕美瑠”追捕的少女鲁朵拉。海里被卷入其中，成为了“Dark Machine”的玩家，在经历了数次激战后，他的才能逐渐绽放。海里能否与“千鬼”对峙，并开辟自己的命运——以“Dark Machine”顶点为目标，海里的战斗现在开始。",
+    "link": null,
+    "bgm_id": "505550",
+    "bgm_score": 7.8,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "306565",
+    "tmdb_site_id": "tv/306565",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "390200",
@@ -43,50 +80,6 @@
     "bgm_score": 7.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "321518",
-    "type": "tmdb",
-    "title": "世界最强魔女，始动",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
-    "link": null,
-    "bgm_id": "646154",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "321518",
-    "tmdb_site_id": "tv/321518",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "323937",
-    "type": "tmdb",
-    "title": "兽王武神丹帝拜恩",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6hBvqy6OKi0OcFLQOeulmlC5hr0.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
-    "link": null,
-    "bgm_id": "657778",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "323937",
-    "tmdb_site_id": "tv/323937",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "449346",
