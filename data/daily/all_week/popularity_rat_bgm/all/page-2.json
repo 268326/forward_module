@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "647220",
     "bgm_score": 4.6,
-    "bgm_rating_total": 73,
+    "bgm_rating_total": 76,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -33,7 +33,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 71,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -66,6 +66,28 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "324502",
+    "type": "tmdb",
+    "title": "装备我最强",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
+    "link": null,
+    "bgm_id": "657656",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 70,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "324502",
+    "tmdb_site_id": "tv/324502",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "584847",
     "type": "link",
     "title": "弹珠汽水瓶里的千岁同学 第2部分",
@@ -81,28 +103,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "324502",
-    "type": "tmdb",
-    "title": "装备我最强",
-    "posterPath": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
-    "link": null,
-    "bgm_id": "657656",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 69,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "324502",
-    "tmdb_site_id": "tv/324502",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "285899",
     "type": "tmdb",
     "title": "转生后的大圣女，极力隐瞒圣女的身份",
@@ -113,8 +113,8 @@
     "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
     "link": null,
     "bgm_id": "542007",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 67,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 68,
     "bgm_weekday_id": 6,
     "tmdb_id": "285899",
     "tmdb_site_id": "tv/285899",
@@ -123,6 +123,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "393010",
+    "type": "link",
+    "title": "侦探已经死了。 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/393010",
+    "bgm_id": "393010",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 64,
+    "bgm_weekday_id": 3
   },
   {
     "id": "337277",
@@ -158,10 +173,32 @@
     "link": null,
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 55,
+    "bgm_rating_total": 58,
     "bgm_weekday_id": 6,
     "tmdb_id": "337334",
     "tmdb_site_id": "tv/337334",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "321518",
+    "type": "tmdb",
+    "title": "世界最强魔女，就此开始",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。然而那项技能的真面目，居然是能够浏览这个世界的“攻略网站”的SSS级作弊技能“互联网”！为了追求自由和平的生活而踏上旅程的“世界最强的魔女”罗娜，她那无厘头的冒险日常，终于动画化！",
+    "link": null,
+    "bgm_id": "646154",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 57,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "321518",
+    "tmdb_site_id": "tv/321518",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -180,7 +217,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.3,
-    "bgm_rating_total": 54,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -189,33 +226,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "393010",
-    "type": "link",
-    "title": "侦探已经死了。 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/65/61/393010_EIOi9.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/393010",
-    "bgm_id": "393010",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 52,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "634210",
     "type": "link",
     "title": "魔法姐妹露露特莉莉 第2部分",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/44/ed/634210_O7aNK.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.7",
+    "rating": "6.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 46,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 47,
     "bgm_weekday_id": 7
   },
   {
@@ -271,6 +293,26 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "206630",
+    "type": "tmdb",
+    "title": "佐佐木与文鸟小哔 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "486456",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 40,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "206630",
+    "tmdb_site_id": "tv/206630/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "285710",
     "type": "tmdb",
     "title": "幻想水浒传",
@@ -293,28 +335,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "321518",
-    "type": "tmdb",
-    "title": "世界最强魔女，始动",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。\n\n然而那项技能的真面目，居然是能够浏览这个世界的「攻略网站」的SSS级作弊技能【互联网】！\n\n为了追求自由和平的生活而踏上旅程的「世界最强的魔女」罗娜，她那无厘头的冒险日常，终于动画化！",
-    "link": null,
-    "bgm_id": "646154",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 37,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "321518",
-    "tmdb_site_id": "tv/321518",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "330505",
     "type": "tmdb",
     "title": "大叔喜欢可爱小玩意",
@@ -326,7 +346,7 @@
     "link": null,
     "bgm_id": "605533",
     "bgm_score": 5.9,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 36,
     "bgm_weekday_id": 7,
     "tmdb_id": "330505",
     "tmdb_site_id": "tv/330505",
@@ -347,11 +367,33 @@
     "description": "在这片由八个王国组成的大陆中央，坐落着马罗尼耶王国。王国的将军巴里巴拉有七个儿子，他们各有所长，并且都担任骑士长。他们有一个共同崇高目标，那就是有朝一日英勇地救出公主，于是七兄弟作为友好大使，踏上了前往邻近七国的旅程。\n\n在这些陌生的国度，他们将经历怎样的奇遇和考验，最终走向怎样的命运？",
     "link": null,
     "bgm_id": "657084",
-    "bgm_score": 5.7,
+    "bgm_score": 5.6,
     "bgm_rating_total": 35,
     "bgm_weekday_id": 6,
     "tmdb_id": "324326",
     "tmdb_site_id": "tv/324326",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "323937",
+    "type": "tmdb",
+    "title": "兽王武神丹帝拜恩",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3G9dxjQs9jjoObWu1hEhFgCiLYl.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
+    "link": null,
+    "bgm_id": "657778",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "323937",
+    "tmdb_site_id": "tv/323937",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -381,26 +423,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "206630",
-    "type": "tmdb",
-    "title": "佐佐木与文鸟小哔 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "486456",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 27,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "206630",
-    "tmdb_site_id": "tv/206630/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "499474",
     "type": "link",
     "title": "东京复仇者 三天战争篇",
@@ -416,43 +438,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "701782",
-    "type": "link",
-    "title": "苍蓝传承",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 23,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "308977",
-    "type": "tmdb",
-    "title": "青蛙军曹☆",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
-    "link": null,
-    "bgm_id": "617273",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 23,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "308977",
-    "tmdb_site_id": "tv/308977",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "329096",
     "type": "tmdb",
     "title": "来自远方",
@@ -463,8 +448,8 @@
     "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
     "link": null,
     "bgm_id": "636058",
-    "bgm_score": 5.3,
-    "bgm_rating_total": 22,
+    "bgm_score": 5.4,
+    "bgm_rating_total": 25,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
@@ -473,5 +458,20 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 24,
+    "bgm_weekday_id": 5
   }
 ]

@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 898,
+    "bgm_rating_total": 933,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 145,
+    "bgm_rating_total": 147,
     "bgm_weekday_id": 6
   },
   {
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 148,
+    "bgm_rating_total": 152,
     "bgm_weekday_id": 6
   },
   {
@@ -101,12 +101,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.0",
+    "rating": "5.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 7,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 6
   },
   {
@@ -121,7 +121,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11625,
+    "bgm_rating_total": 11606,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",

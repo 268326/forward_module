@@ -1,35 +1,5 @@
 [
   {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 42,
-    "bgm_weekday_id": 4
-  },
-  {
-    "id": "705980",
-    "type": "link",
-    "title": "熊出没之神奇宝物 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/705980",
-    "bgm_id": "705980",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "538631",
     "type": "link",
     "title": "降世神通：七个避风港 第一季",
@@ -105,6 +75,36 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 24,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -131,8 +131,28 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.7,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 64,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "206630",
+    "type": "tmdb",
+    "title": "佐佐木与文鸟小哔 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "486456",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 40,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "206630",
+    "tmdb_site_id": "tv/206630/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "499474",
@@ -147,21 +167,6 @@
     "bgm_id": "499474",
     "bgm_score": 5.7,
     "bgm_rating_total": 27,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "701782",
-    "type": "link",
-    "title": "苍蓝传承",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/701782",
-    "bgm_id": "701782",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 23,
     "bgm_weekday_id": 5
   },
   {
@@ -180,6 +185,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "589775",
+    "type": "link",
+    "title": "杀手旅店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/589775",
+    "bgm_id": "589775",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "656083",
     "type": "link",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -195,21 +215,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "589775",
-    "type": "link",
-    "title": "杀手旅店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.4",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/589775",
-    "bgm_id": "589775",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 19,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "316694",
     "type": "tmdb",
     "title": "转生哥布林有问题吗？",
@@ -221,13 +226,28 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.3,
-    "bgm_rating_total": 54,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 6
   },
   {
     "id": "573707",
@@ -243,21 +263,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 6
   },
   {
     "id": "584847",

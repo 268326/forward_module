@@ -278,7 +278,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 71,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -359,7 +359,7 @@
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_fzZXD.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_nqMmz.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "anime",
     "rating": "N/A",
@@ -419,7 +419,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.7,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 64,
     "bgm_weekday_id": 3
   }
 ]

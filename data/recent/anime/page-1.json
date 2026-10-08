@@ -56,7 +56,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_0D00X.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "12话 /  2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
     "link": null,
     "tmdb_id": "220542/season/1/episode/49",
@@ -82,6 +82,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "94664",
     "type": "tmdb",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -98,15 +109,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "513878",
+    "id": "665390",
     "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
-    "releaseDate": "2026-10-20",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.2",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
+    "rating": "7.4",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": "https://bgm.tv/subject/665390"
   },
   {
     "id": "65942/season/1/episode/78",
@@ -125,17 +136,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
-    "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
-  },
-  {
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
@@ -147,6 +147,42 @@
     "link": null,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312850",
+    "type": "tmdb",
+    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "link": null,
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "313346",
+    "type": "tmdb",
+    "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
+    "link": null,
+    "tmdb_id": "313346",
+    "tmdb_site_id": "tv/313346",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -171,25 +207,9 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.4",
     "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
     "link": "https://bgm.tv/subject/548156"
-  },
-  {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "335790",
@@ -210,17 +230,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "288971",
+    "id": "117120",
     "type": "tmdb",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
     "link": null,
-    "tmdb_id": "288971",
-    "tmdb_site_id": "tv/288971",
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -235,6 +255,22 @@
     "rating": "6.4",
     "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
     "link": "https://bgm.tv/subject/616808"
+  },
+  {
+    "id": "288971",
+    "type": "tmdb",
+    "title": "穹庐下的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+    "link": null,
+    "tmdb_id": "288971",
+    "tmdb_site_id": "tv/288971",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "79166",
@@ -285,40 +321,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043/season/1/episode/13",
-    "type": "tmdb",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043/season/1/episode/13",
-    "tmdb_site_id": "tv/278043/season/1/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "312850",
-    "type": "tmdb",
-    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
-    "link": null,
-    "tmdb_id": "312850",
-    "tmdb_site_id": "tv/312850",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "287028",
     "type": "tmdb",
     "title": "画完这个再去死",
@@ -335,35 +337,37 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308403",
+    "id": "278043/season/1/episode/13",
     "type": "tmdb",
-    "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
+    "title": "相反的你和我 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
+    "rating": "8.0",
+    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
-    "tmdb_id": "308403",
-    "tmdb_site_id": "tv/308403",
+    "tmdb_id": "278043/season/1/episode/13",
+    "tmdb_site_id": "tv/278043/season/1/episode/13",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "309974",
+    "id": "313068",
     "type": "tmdb",
-    "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "7.3",
-    "description": "12话 /  2026年7月6日 / 吉崎譲 / 志馬なにがし(GA文庫/SBクリエイティブ刊) / 澤田慶宏、石井優月、安本朱希(3,6,9-11)",
+    "rating": "6.0",
+    "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
     "link": null,
-    "tmdb_id": "309974",
-    "tmdb_site_id": "tv/309974",
+    "tmdb_id": "313068",
+    "tmdb_site_id": "tv/313068",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

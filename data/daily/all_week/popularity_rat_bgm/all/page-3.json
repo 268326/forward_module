@@ -1,5 +1,27 @@
 [
   {
+    "id": "308977",
+    "type": "tmdb",
+    "title": "青蛙军曹☆",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
+    "link": null,
+    "bgm_id": "617273",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 23,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "617948",
     "type": "link",
     "title": "桃源暗鬼 ～日光・华严之泷篇～",
@@ -21,35 +43,33 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/5d/8c/589775_QZq4Z.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/589775",
     "bgm_id": "589775",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 19,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 7
   },
   {
-    "id": "323937",
+    "id": "34158",
     "type": "tmdb",
-    "title": "兽王武神丹帝拜恩",
-    "posterPath": "https://image.tmdb.org/t/p/w500/6hBvqy6OKi0OcFLQOeulmlC5hr0.jpg",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "自从合体机器人「丹帝拜恩」击败了神秘敌人「暗波斯多」后，已经过了20年。世界一片和平，然而过去将丹帝拜恩制成玩具风靡一时的「玩具制造商凯斯加」，却也因过度依赖丹帝拜恩，导致公司营运状况每况愈下。凯斯加社长「静寂弦十郎」因此盼望，即便搅乱和平，也要让丹帝拜恩复活。也许是上天听见了他的愿望，暗波斯多再次现身于东京。20年来无忧无虑、耽溺于和平的人们突然陷入了恐慌之中。正当所有人仓皇逃跑时，过去曾是主要驾驶员的叔叔「黑田勇作」，引领着高中生「静寂戟刃」坐进了丹帝拜恩。究竟，再次现身的暗波斯多，他究竟有什么目的？凯斯加会再次称霸玩具业界吗？全新的战斗即将揭开序幕！",
+    "rating": "6.6",
+    "description": "[星期三]",
     "link": null,
-    "bgm_id": "657778",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 15,
+    "bgm_id": "502123",
+    "bgm_score": 6.6,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 3,
-    "tmdb_id": "323937",
-    "tmdb_site_id": "tv/323937",
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "302020",
@@ -96,26 +116,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "34158",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "34158",
-    "tmdb_site_id": "tv/34158",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "507820",
     "type": "link",
     "title": "大王饶命 第三季",
@@ -137,7 +137,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "8.0",
     "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
     "link": null,
     "bgm_id": "544378",
@@ -151,6 +151,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 3
   },
   {
     "id": "650428",
@@ -168,6 +183,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -181,21 +211,6 @@
     "bgm_score": 5.9,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 6
   },
   {
     "id": "288588",
@@ -218,21 +233,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "471844",
-    "type": "link",
-    "title": "归还者的魔法要特别 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/471844",
-    "bgm_id": "471844",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 3
   },
   {
     "id": "638081",

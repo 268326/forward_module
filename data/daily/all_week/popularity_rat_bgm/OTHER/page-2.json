@@ -1,5 +1,20 @@
 [
   {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "650428",
     "type": "link",
     "title": "黑化吧！圣女大人 第二季",
@@ -15,6 +30,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -28,36 +58,6 @@
     "bgm_score": 5.9,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "471844",
-    "type": "link",
-    "title": "归还者的魔法要特别 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/471844",
-    "bgm_id": "471844",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 3
   },
   {
     "id": "638081",
