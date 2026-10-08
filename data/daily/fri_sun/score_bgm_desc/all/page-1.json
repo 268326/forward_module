@@ -52,6 +52,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "507820",
+    "type": "link",
+    "title": "大王饶命 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/507820",
+    "bgm_id": "507820",
+    "bgm_score": 7.6,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -63,7 +78,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11606,
+    "bgm_rating_total": 11608,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -105,7 +120,7 @@
     "link": null,
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 58,
+    "bgm_rating_total": 62,
     "bgm_weekday_id": 6,
     "tmdb_id": "337334",
     "tmdb_site_id": "tv/337334",
@@ -114,21 +129,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "507820",
-    "type": "link",
-    "title": "大王饶命 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/507820",
-    "bgm_id": "507820",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 6
   },
   {
     "id": "283938",
@@ -142,7 +142,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 933,
+    "bgm_rating_total": 998,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -162,7 +162,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 306,
+    "bgm_rating_total": 328,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -226,7 +226,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 152,
+    "bgm_rating_total": 163,
     "bgm_weekday_id": 6
   },
   {
@@ -241,7 +241,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 77,
+    "bgm_rating_total": 82,
     "bgm_weekday_id": 7
   },
   {
@@ -256,7 +256,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 77,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -315,7 +315,7 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.6,
-    "bgm_rating_total": 47,
+    "bgm_rating_total": 49,
     "bgm_weekday_id": 7
   },
   {
@@ -345,7 +345,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 147,
+    "bgm_rating_total": 154,
     "bgm_weekday_id": 6
   },
   {
@@ -360,7 +360,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 171,
+    "bgm_rating_total": 182,
     "bgm_weekday_id": 7
   },
   {
@@ -371,11 +371,11 @@
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
     "rating": "10.0",
-    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——\n\n驱使恶魔之力的美丽暗黑召唤师（*注：原文此处似缺角色名字*）。\n\n圣洁与邪恶，人类与亚人。\n\n本以为这两人会水火不容、势同水火，\n\n却在入队的第一天早晨，就发生了关系……！？\n\n揣着这个不可告人的秘密，他们与性格各异的队友们，\n\n以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！\n\n背德与心动相互交织。\n\n亚人少女 × 神官少年\n\n奇幻欢喜冤家恋爱喜剧，正式开幕！",
+    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——驱使恶魔之力的美丽暗黑召唤师·阿莫娜。圣洁与邪恶，人类与亚人。本以为这两人会水火不容、势同水火，却在入队的第一天早晨，就发生了关系……！？揣着这个不可告人的秘密，他们与性格各异的队友们，以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！背德与心动相互交织。亚人少女×神官少年，奇幻欢喜冤家恋爱喜剧，正式开幕！",
     "link": null,
     "bgm_id": "630160",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 133,
+    "bgm_score": 6.4,
+    "bgm_rating_total": 152,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
@@ -397,7 +397,7 @@
     "link": null,
     "bgm_id": "636023",
     "bgm_score": 6.2,
-    "bgm_rating_total": 99,
+    "bgm_rating_total": 109,
     "bgm_weekday_id": 7,
     "tmdb_id": "320377",
     "tmdb_site_id": "tv/320377",
@@ -419,7 +419,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.1,
-    "bgm_rating_total": 70,
+    "bgm_rating_total": 73,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -441,7 +441,7 @@
     "link": null,
     "bgm_id": "636512",
     "bgm_score": 6.1,
-    "bgm_rating_total": 152,
+    "bgm_rating_total": 156,
     "bgm_weekday_id": 6,
     "tmdb_id": "317259",
     "tmdb_site_id": "tv/317259",

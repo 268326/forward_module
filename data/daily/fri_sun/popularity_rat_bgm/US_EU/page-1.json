@@ -1,5 +1,28 @@
 [
   {
+    "id": "335788",
+    "type": "tmdb",
+    "title": "苍蓝传承  WELSH & SHEDAR",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "该动画是由曾开发 MMORPG《龙梦幻境》 (Dofus) 等作品的法国 Ankama 公司打造的原创电视动画。故事中，擅长料理、心地善良的少年威尔士原本在乡村过着平静的生活，然而一场巨龙袭击村庄的遭遇彻底改变了他的日常。另一边，大陆最大国家邦塔的王子谢达尔，在支持身为女王的母亲扎贝尔的同时，却因某件事开始对母亲的行为产生质疑。围绕传说中创造世界的秘宝“Dofus”，两位出身迥异的少年命运交织，一场冒险奇幻故事就此展开。（豆瓣）",
+    "link": null,
+    "bgm_id": "701782",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 25,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "335788",
+    "tmdb_site_id": "tv/335788",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "FR",
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "204084",
     "type": "tmdb",
     "title": "梦幻之境",
