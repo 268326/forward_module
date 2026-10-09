@@ -1,5 +1,20 @@
 [
   {
+    "id": "632817",
+    "type": "link",
+    "title": "肥志百科 第15季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/632817",
+    "bgm_id": "632817",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "634210",
     "type": "link",
     "title": "魔法姐妹露露特莉莉 第2部分",
@@ -51,12 +66,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.5",
+    "rating": "5.4",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 122,
+    "bgm_score": 5.4,
+    "bgm_rating_total": 126,
     "bgm_weekday_id": 7
   },
   {

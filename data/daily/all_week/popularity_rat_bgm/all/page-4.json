@@ -252,6 +252,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "710874",
+    "type": "link",
+    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/710874",
+    "bgm_id": "710874",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -392,20 +407,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "654678",
-    "type": "link",
-    "title": "屁屁侦探 第11季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/8d/0c/654678_mR190.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/654678",
-    "bgm_id": "654678",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
   }
 ]

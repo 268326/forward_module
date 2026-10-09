@@ -56,7 +56,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 328,
+    "bgm_rating_total": 341,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -166,7 +166,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11608,
+    "bgm_rating_total": 11609,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -201,7 +201,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 998,
+    "bgm_rating_total": 1016,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -221,7 +221,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 154,
+    "bgm_rating_total": 156,
     "bgm_weekday_id": 6
   },
   {
@@ -236,7 +236,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 163,
+    "bgm_rating_total": 166,
     "bgm_weekday_id": 6
   },
   {
@@ -291,12 +291,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 182,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 187,
     "bgm_weekday_id": 7
   },
   {
@@ -326,7 +326,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 82,
+    "bgm_rating_total": 85,
     "bgm_weekday_id": 7
   },
   {

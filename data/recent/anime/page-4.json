@@ -1,16 +1,16 @@
 [
   {
-    "id": "284029",
+    "id": "308874",
     "type": "tmdb",
-    "title": "猫与龙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c5/16/538760_T0rxN.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
     "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月4日 / オジング / アマラ（宝島社刊）；漫画：佐々木泉（宝島社刊） / 倉員千晶、西野理恵",
+    "rating": "6.3",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
     "link": null,
-    "tmdb_id": "284029",
-    "tmdb_site_id": "tv/284029",
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -48,6 +48,38 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "283428",
+    "type": "tmdb",
+    "title": "冰之城墙",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "releaseDate": "2026-04-02",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428",
+    "tmdb_site_id": "tv/283428",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "34158",
+    "type": "tmdb",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "2026年10月7日 / 三浦唯[梅本唯] / CLAMP（講談社「なかよし」刊） / 渡部里美",
+    "link": null,
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "270603",
     "type": "tmdb",
     "title": "遭到流放的转生重骑士凭借游戏知识大开无双",
@@ -62,6 +94,60 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "285710",
+    "type": "tmdb",
+    "title": "幻想水浒传",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "“曾以为只要拥有那份力量，就能守护一切。”隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。",
+    "link": null,
+    "tmdb_id": "285710",
+    "tmdb_site_id": "tv/285710",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "320909",
+    "type": "tmdb",
+    "title": "萤火虫的出嫁",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
+    "link": null,
+    "tmdb_id": "320909",
+    "tmdb_site_id": "tv/320909",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "306565",
+    "type": "tmdb",
+    "title": "DARK MACHINE THE ANIMATION",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在世界范围内拥有压倒性人气的电竞项目“Dark Machine”让人们为之狂热，甚至改变了日本的经济体系。日本唯一被指定为“Dark Machine”经济特区的城市——黄金谷。君临其顶点的，是继承了“Dark Machine”最强玩家称号“千鬼”、第七代“千鬼”阿吉玛。阿吉玛通过“Dark Machine”成为了黄金谷的实际统治者。主人公海里将亡故祖父的遗言“去找千鬼”铭记于心来到了黄金谷，偶然遇到了正被阿吉玛手下“阿流堕美瑠”追捕的少女鲁朵拉。海里被卷入其中，成为了“Dark Machine”的玩家，在经历了数次激战后，他的才能逐渐绽放。海里能否与“千鬼”对峙，并开辟自己的命运——以“Dark Machine”顶点为目标，海里的战斗现在开始。",
+    "link": null,
+    "tmdb_id": "306565",
+    "tmdb_site_id": "tv/306565",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "250008",
@@ -96,33 +182,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283428",
+    "id": "308977",
     "type": "tmdb",
-    "title": "冰之城墙",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
-    "releaseDate": "2026-04-02",
+    "title": "青蛙军曹☆",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "7.3",
-    "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "rating": "10.0",
+    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
     "link": null,
-    "tmdb_id": "283428",
-    "tmdb_site_id": "tv/283428",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "306565",
-    "type": "tmdb",
-    "title": "DARK MACHINE THE ANIMATION",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "在世界范围内拥有压倒性人气的电竞项目“Dark Machine”让人们为之狂热，甚至改变了日本的经济体系。日本唯一被指定为“Dark Machine”经济特区的城市——黄金谷。君临其顶点的，是继承了“Dark Machine”最强玩家称号“千鬼”、第七代“千鬼”阿吉玛。阿吉玛通过“Dark Machine”成为了黄金谷的实际统治者。主人公海里将亡故祖父的遗言“去找千鬼”铭记于心来到了黄金谷，偶然遇到了正被阿吉玛手下“阿流堕美瑠”追捕的少女鲁朵拉。海里被卷入其中，成为了“Dark Machine”的玩家，在经历了数次激战后，他的才能逐渐绽放。海里能否与“千鬼”对峙，并开辟自己的命运——以“Dark Machine”顶点为目标，海里的战斗现在开始。",
-    "link": null,
-    "tmdb_id": "306565",
-    "tmdb_site_id": "tv/306565",
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -146,58 +216,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285710",
-    "type": "tmdb",
-    "title": "幻想水浒传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "“曾以为只要拥有那份力量，就能守护一切。”隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。",
-    "link": null,
-    "tmdb_id": "285710",
-    "tmdb_site_id": "tv/285710",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "308977",
-    "type": "tmdb",
-    "title": "青蛙军曹☆",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
-    "link": null,
-    "tmdb_id": "308977",
-    "tmdb_site_id": "tv/308977",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "320909",
-    "type": "tmdb",
-    "title": "萤火虫的出嫁",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
-    "link": null,
-    "tmdb_id": "320909",
-    "tmdb_site_id": "tv/320909",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "654294",
+    "type": "link",
+    "title": "冰剑的魔术师将要统一世界 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/2f/654294_ckrD9.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "12话 /  2026年10月8日 / たかたまさひろ / 御子柴奈々『冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する』（講談社ラノベ文庫刊）",
+    "link": "https://bgm.tv/subject/654294"
   },
   {
     "id": "1575337",
@@ -232,22 +259,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280049",
-    "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
-    "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "303060",
     "type": "tmdb",
     "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
@@ -259,6 +270,24 @@
     "link": null,
     "tmdb_id": "303060",
     "tmdb_site_id": "tv/303060",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "297903",
+    "type": "tmdb",
+    "title": "PSYREN -决战游戏-",
+    "posterPath": "https://image.tmdb.org/t/p/w500/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "高中一年级学生·夜科扬羽，某天捡到了被遗弃在公共电话亭里的“红色电话卡”。\n\n　　几天后，持有相同电话卡的青梅竹马兼同学·雨宫樱子失去了踪影。\n\n　　为了寻找她，扬羽联系了传闻中在全国范围内制造连续“神隐”失踪事件的黑幕——“秘密结社PSYREN”。\n\n　　随后，一场赌上性命的游戏开始了——",
+    "link": null,
+    "tmdb_id": "297903",
+    "tmdb_site_id": "tv/297903",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -278,22 +307,6 @@
     "tmdb_id": "277513",
     "tmdb_site_id": "tv/277513",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "139512",
-    "type": "tmdb",
-    "title": "恋爱游戏世界对路人角色很不友好 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg",
-    "releaseDate": "2026-07-08",
-    "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月8日 / 三浦和也 / 三嶋与夢（GCノベルズ/マイクロマガジン社刊） / 鈴木政彦",
-    "link": null,
-    "tmdb_id": "139512",
-    "tmdb_site_id": "tv/139512/season/2",
-    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -348,46 +361,37 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "95479/season/1/episode/48",
+    "id": "280049",
     "type": "tmdb",
-    "title": "咒术回战 死灭回游 前篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_MqsB8.jpg",
-    "releaseDate": "2026-01-08",
+    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
+    "releaseDate": "2026-07-03",
     "mediaType": "tv",
-    "rating": "7.9",
-    "description": "12话 /  2026年1月8日 / 御所園翔太 / 芥見下々（集英社ジャンプコミックス刊） / 矢島陽介・丹羽弘美",
+    "rating": "5.7",
+    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
     "link": null,
-    "tmdb_id": "95479/season/1/episode/48",
-    "tmdb_site_id": "tv/95479/season/1/episode/48",
-    "tmdb_season_number": null,
+    "tmdb_id": "280049",
+    "tmdb_site_id": "tv/280049/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "654294",
-    "type": "link",
-    "title": "冰剑的魔术师将要统一世界 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/2f/654294_ckrD9.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年10月8日 / たかたまさひろ / 御子柴奈々『冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する』（講談社ラノベ文庫刊）",
-    "link": "https://bgm.tv/subject/654294"
-  },
-  {
-    "id": "105248",
+    "id": "288588",
     "type": "tmdb",
-    "title": "赛博朋克：边缘行者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/83/309311_dJU58.jpg",
-    "releaseDate": "2022-09-13",
+    "title": "和没有信徒的女神大人一起攻略异世界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "releaseDate": "2026-10-11",
     "mediaType": "tv",
-    "rating": "8.3",
-    "description": "10话 /  2022年9月13日 / 今石洋之 / CD Projekt（Cyberpunk 2077, set in a universe created by Mike Pondsmith） / 吉成曜",
+    "rating": "0.0",
+    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
     "link": null,
-    "tmdb_id": "105248",
-    "tmdb_site_id": "tv/105248",
+    "tmdb_id": "288588",
+    "tmdb_site_id": "tv/288588",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

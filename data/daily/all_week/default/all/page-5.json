@@ -1,5 +1,20 @@
 [
   {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/656083",
+    "bgm_id": "656083",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 126,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "337299",
     "type": "tmdb",
     "title": "ゆるゆる図鑑",
@@ -78,7 +93,7 @@
     "link": null,
     "bgm_id": "698032",
     "bgm_score": 4.5,
-    "bgm_rating_total": 14,
+    "bgm_rating_total": 15,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",
