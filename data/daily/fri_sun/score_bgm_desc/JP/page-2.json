@@ -1,27 +1,5 @@
 [
   {
-    "id": "333622",
-    "type": "tmdb",
-    "title": "借出去的魔力要用【分期还款】强制收回",
-    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
-    "link": null,
-    "bgm_id": "606716",
-    "bgm_score": 4.1,
-    "bgm_rating_total": 77,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "333622",
-    "tmdb_site_id": "tv/333622",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "337195",
     "type": "tmdb",
     "title": "しろたん",

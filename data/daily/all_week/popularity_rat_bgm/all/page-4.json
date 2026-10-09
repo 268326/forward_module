@@ -1,5 +1,20 @@
 [
   {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -131,21 +146,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "538631",
-    "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
   },
   {
     "id": "698981",

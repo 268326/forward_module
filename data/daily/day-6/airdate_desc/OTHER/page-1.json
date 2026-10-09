@@ -26,13 +26,28 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1016,
+    "bgm_rating_total": 1071,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "567896",
+    "type": "link",
+    "title": "黑色五叶草 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/567896",
+    "bgm_id": "567896",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 66,
+    "bgm_weekday_id": 6
   },
   {
     "id": "616808",
@@ -61,7 +76,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 166,
+    "bgm_rating_total": 176,
     "bgm_weekday_id": 6
   },
   {
@@ -101,12 +116,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.1",
+    "rating": "5.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.1,
-    "bgm_rating_total": 9,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 6
   },
   {
@@ -121,7 +136,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11609,
+    "bgm_rating_total": 11611,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",

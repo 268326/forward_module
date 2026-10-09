@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14882,
+    "bgm_rating_total": 14827,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -91,13 +91,28 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11609,
+    "bgm_rating_total": 11611,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "567896",
+    "type": "link",
+    "title": "黑色五叶草 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/567896",
+    "bgm_id": "567896",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 66,
+    "bgm_weekday_id": 6
   },
   {
     "id": "665390",
@@ -111,7 +126,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 310,
+    "bgm_rating_total": 325,
     "bgm_weekday_id": 4
   },
   {
@@ -126,7 +141,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1016,
+    "bgm_rating_total": 1071,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -146,7 +161,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 7.3,
-    "bgm_rating_total": 3,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 1
   },
   {
@@ -161,7 +176,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 341,
+    "bgm_rating_total": 346,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -181,7 +196,7 @@
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
     "bgm_score": 7.2,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 2
   },
   {
@@ -196,7 +211,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 166,
+    "bgm_rating_total": 176,
     "bgm_weekday_id": 6
   },
   {
@@ -211,7 +226,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 89,
     "bgm_weekday_id": 7
   },
   {
@@ -241,7 +256,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 108,
+    "bgm_rating_total": 114,
     "bgm_weekday_id": 3
   },
   {
@@ -256,8 +271,23 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.6,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
   },
   {
     "id": "593863",
@@ -286,28 +316,8 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.5,
-    "bgm_rating_total": 187,
+    "bgm_rating_total": 193,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "34158",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 25,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "34158",
-    "tmdb_site_id": "tv/34158",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "616808",
@@ -323,6 +333,26 @@
     "bgm_score": 6.4,
     "bgm_rating_total": 156,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "34158",
+    "type": "tmdb",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "502123",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 29,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "34158",
+    "tmdb_site_id": "tv/34158",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "708080",
@@ -353,35 +383,5 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "538631",
-    "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
   }
 ]

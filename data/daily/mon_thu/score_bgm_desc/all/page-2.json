@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.5,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 130,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
@@ -33,32 +33,10 @@
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 5.4,
-    "bgm_rating_total": 44,
+    "bgm_rating_total": 45,
     "bgm_weekday_id": 2,
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316551",
-    "type": "tmdb",
-    "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
-    "link": null,
-    "bgm_id": "544378",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "316551",
-    "tmdb_site_id": "tv/316551",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -77,7 +55,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.4,
-    "bgm_rating_total": 57,
+    "bgm_rating_total": 68,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -99,7 +77,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.4,
-    "bgm_rating_total": 21,
+    "bgm_rating_total": 25,
     "bgm_weekday_id": 4
   },
   {
@@ -109,18 +87,40 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "5.2",
+    "rating": "5.3",
     "description": "[星期一]",
     "link": null,
     "bgm_id": "634587",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 58,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 60,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "316551",
+    "type": "tmdb",
+    "title": "战斗之魂[Re] 绝界之空",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
+    "link": null,
+    "bgm_id": "544378",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "316551",
+    "tmdb_site_id": "tv/316551",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "573707",
@@ -149,7 +149,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.6,
-    "bgm_rating_total": 75,
+    "bgm_rating_total": 77,
     "bgm_weekday_id": 2
   },
   {

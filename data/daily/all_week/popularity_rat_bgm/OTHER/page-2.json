@@ -1,17 +1,32 @@
 [
   {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "702192",
     "type": "link",
     "title": "极道寿司次郎！",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.1",
+    "rating": "5.3",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.1,
-    "bgm_rating_total": 9,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 6
   },
   {
@@ -75,6 +90,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "707667",
+    "type": "link",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "664389",
     "type": "link",
     "title": "夜樱家的大作战 第二季 第2部分",
@@ -120,21 +150,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "707667",
-    "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -163,6 +178,21 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
   },
   {
     "id": "593863",
@@ -208,21 +238,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "538631",
-    "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
   },
   {
     "id": "698981",
@@ -340,21 +355,6 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/701779",
     "bgm_id": "701779",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "709475",
-    "type": "link",
-    "title": "ゲルぴよ 第2期",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
-    "releaseDate": "2026-10-21",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/709475",
-    "bgm_id": "709475",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

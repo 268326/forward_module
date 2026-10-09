@@ -131,22 +131,15 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "337334",
-    "type": "tmdb",
-    "title": "黑色五叶草",
-    "posterPath": "https://image.tmdb.org/t/p/w500/58NUAlo3wlBY7MWZsjmcmQqeKJl.jpg",
+    "id": "567896",
+    "type": "link",
+    "title": "黑色五叶草 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/be/e7/567896_RWffW.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "幸运草的第五片叶子里，栖息着恶魔——\n\n在魔法即是一切的世界里，亚斯塔是唯一一个没有魔力的人。\n\n而他所得到的，是能够抹消一切魔法的「反（Anti）魔法」。\n\n如今，寄宿着冥府恶魔之力的黑桃王国支配者「漆黑的三极性（Dark Triad）」开始蹂躏世界。\n\n侵略行动随着时间推移而愈发猛烈，红心王国的女王洛洛佩琪卡，以及三叶草王国的魔法骑士团团长夜见与凡强斯，也接连遭到掳走。\n\n为了夺回失去的一切，亚斯塔踏入了取得「真正的恶魔之力」这项禁忌！",
-    "link": null,
-    "tmdb_id": "337334",
-    "tmdb_site_id": "tv/337334",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "2026年10月3日 / 種村綾隆 / 田畠裕基（集英社ジャンプコミックス刊） / 竹田逸子",
+    "link": "https://bgm.tv/subject/567896"
   },
   {
     "id": "316694",
@@ -155,7 +148,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/05/25/634587_8k4k7.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "5.2",
+    "rating": "5.3",
     "description": "2026年10月5日 / 河原龍太 / 三木なずな；漫画：荒木宰（集英社 となりのヤングジャンプ『転生ゴブリンだけど質問ある？』） / 齊田博之",
     "link": null,
     "tmdb_id": "316694",
