@@ -7,7 +7,7 @@
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
     "rating": "10.0",
-    "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
+    "description": "“这个是，一名美少女开始接触FX的故事……”大学生福贺久留美终于迎来了梦寐以求的FX（外汇保证金交易）出道，她的目标是夺回过世母亲因为FX赔掉的2000万日圆。“区区2000万，看我轻松把它赚回来！”发下豪语的她，一头栽进了这个随时从天堂跌入地狱的世界。未实现亏损、强制平仓、不能平复的心情……即便如此，她还是想要买进、想要卖出、想要赚钱！萌智子、芽吹、安子——加上这群性格超独特的FX战士们，市场行情变得愈发白热化！ 随着图表起伏一喜一忧、可爱又有点危险（！？）的金钱游戏就此踏入，无法回头！久留美等人究竟能不能在这疯狂的世界中存活下来呢！？",
     "link": null,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -93,6 +93,35 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "665390",
+    "type": "link",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": "https://bgm.tv/subject/665390"
+  },
+  {
+    "id": "313346",
+    "type": "tmdb",
+    "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
+    "link": null,
+    "tmdb_id": "313346",
+    "tmdb_site_id": "tv/313346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "94664",
     "type": "tmdb",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -109,62 +138,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
-    "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
-  },
-  {
-    "id": "65942/season/1/episode/78",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942/season/1/episode/78",
-    "tmdb_site_id": "tv/65942/season/1/episode/78",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/q7J6Nt0Ml6FI8ReSFX2t8YynGqX.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "10.0",
     "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "313346",
-    "type": "tmdb",
-    "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了！”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了——！！",
-    "link": null,
-    "tmdb_id": "313346",
-    "tmdb_site_id": "tv/313346",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -188,6 +172,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "65942/season/1/episode/78",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942/season/1/episode/78",
+    "tmdb_site_id": "tv/65942/season/1/episode/78",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "335790",
@@ -225,9 +225,20 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.4",
     "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
     "link": "https://bgm.tv/subject/548156"
+  },
+  {
+    "id": "616808",
+    "type": "link",
+    "title": "野生的大魔王出现了！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
+    "link": "https://bgm.tv/subject/616808"
   },
   {
     "id": "117120",
@@ -244,17 +255,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "616808",
-    "type": "link",
-    "title": "野生的大魔王出现了！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
-    "link": "https://bgm.tv/subject/616808"
   },
   {
     "id": "288971",
@@ -289,6 +289,24 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "313068",
+    "type": "tmdb",
+    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
+    "link": null,
+    "tmdb_id": "313068",
+    "tmdb_site_id": "tv/313068",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -321,38 +339,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "313068",
+    "id": "302020",
     "type": "tmdb",
-    "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-    "releaseDate": "2026-10-05",
+    "title": "铁旅！邂逅铁道少女",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
+    "releaseDate": "2026-10-08",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
+    "rating": "2.0",
+    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
     "link": null,
-    "tmdb_id": "313068",
-    "tmdb_site_id": "tv/313068",
+    "tmdb_id": "302020",
+    "tmdb_site_id": "tv/302020",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "296286",
-    "type": "tmdb",
-    "title": "在超市后门吸烟的二人",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
-    "releaseDate": "2026-07-09",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
-    "link": null,
-    "tmdb_id": "296286",
-    "tmdb_site_id": "tv/296286",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "278043/season/1/episode/13",

@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 346,
+    "bgm_rating_total": 352,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -71,12 +71,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/538631",
     "bgm_id": "538631",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 5
   },
   {
@@ -95,6 +95,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "632061",
+    "type": "link",
+    "title": "决斗大师 LOST ～断罪的少年～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/632061",
+    "bgm_id": "632061",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "698981",
     "type": "link",
     "title": "探险时光：支线任务 第二季",
@@ -106,6 +121,21 @@
     "link": "http://bgm.tv/subject/698981",
     "bgm_id": "698981",
     "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },
@@ -122,36 +152,6 @@
     "bgm_id": "701310",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "632061",
-    "type": "link",
-    "title": "决斗大师 LOST ～断罪的少年～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/632061",
-    "bgm_id": "632061",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "700678",
-    "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
     "bgm_weekday_id": 5
   }
 ]

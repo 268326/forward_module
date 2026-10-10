@@ -1,5 +1,16 @@
 [
   {
+    "id": "656083",
+    "type": "link",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
+    "link": "https://bgm.tv/subject/656083"
+  },
+  {
     "id": "317259",
     "type": "tmdb",
     "title": "至高之力",
@@ -18,15 +29,31 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "656083",
+    "id": "296286",
+    "type": "tmdb",
+    "title": "在超市后门吸烟的二人",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg",
+    "releaseDate": "2026-07-09",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月9日 / 鈴木理人、森あおい / 地主（掲載 月刊「ビッグガンガン」スクウェア・エニックス刊） / 大滝那佳",
+    "link": null,
+    "tmdb_id": "296286",
+    "tmdb_site_id": "tv/296286",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "412008",
     "type": "link",
-    "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "转生就是剑 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "5.4",
-    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
-    "link": "https://bgm.tv/subject/656083"
+    "rating": "6.6",
+    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
+    "link": "https://bgm.tv/subject/412008"
   },
   {
     "id": "309974",
@@ -45,17 +72,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "412008",
-    "type": "link",
-    "title": "转生就是剑 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
-    "link": "https://bgm.tv/subject/412008"
-  },
-  {
     "id": "301139",
     "type": "tmdb",
     "title": "僵尸搜寻中",
@@ -67,6 +83,24 @@
     "link": null,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "316891",
+    "type": "tmdb",
+    "title": "冷淡的佐藤同学只对我撒娇",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9BmkXWYIOkNTgvI6RS83QbLkElh.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
+    "link": null,
+    "tmdb_id": "316891",
+    "tmdb_site_id": "tv/316891",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -90,24 +124,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "316891",
-    "type": "tmdb",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9BmkXWYIOkNTgvI6RS83QbLkElh.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
-    "link": null,
-    "tmdb_id": "316891",
-    "tmdb_site_id": "tv/316891",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "336654",
     "type": "tmdb",
     "title": "女友的朋友",
@@ -119,6 +135,42 @@
     "link": null,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "321518",
+    "type": "tmdb",
+    "title": "世界最强魔女，就此开始",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。然而那项技能的真面目，居然是能够浏览这个世界的“攻略网站”的SSS级作弊技能“互联网”！为了追求自由和平的生活而踏上旅程的“世界最强的魔女”罗娜，她那无厘头的冒险日常，终于动画化！",
+    "link": null,
+    "tmdb_id": "321518",
+    "tmdb_site_id": "tv/321518",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "305313",
+    "type": "tmdb",
+    "title": "罗梅莉亚战记",
+    "posterPath": "https://image.tmdb.org/t/p/w500/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
+    "link": null,
+    "tmdb_id": "305313",
+    "tmdb_site_id": "tv/305313",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -142,42 +194,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305313",
-    "type": "tmdb",
-    "title": "罗梅莉亚战记",
-    "posterPath": "https://image.tmdb.org/t/p/w500/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
-    "link": null,
-    "tmdb_id": "305313",
-    "tmdb_site_id": "tv/305313",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "302020",
-    "type": "tmdb",
-    "title": "铁旅！邂逅铁道少女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "tv",
-    "rating": "2.0",
-    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
-    "link": null,
-    "tmdb_id": "302020",
-    "tmdb_site_id": "tv/302020",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "584847",
     "type": "link",
     "title": "弹珠汽水瓶里的千岁同学 第2部分",
@@ -187,22 +203,6 @@
     "rating": "4.6",
     "description": "2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
     "link": "https://bgm.tv/subject/584847"
-  },
-  {
-    "id": "312266",
-    "type": "tmdb",
-    "title": "花织即使是转生也想打架",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "releaseDate": "2026-07-11",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
-    "link": null,
-    "tmdb_id": "312266",
-    "tmdb_site_id": "tv/312266",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "335194",
@@ -216,24 +216,6 @@
     "link": null,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "321518",
-    "type": "tmdb",
-    "title": "世界最强魔女，就此开始",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。然而那项技能的真面目，居然是能够浏览这个世界的“攻略网站”的SSS级作弊技能“互联网”！为了追求自由和平的生活而踏上旅程的“世界最强的魔女”罗娜，她那无厘头的冒险日常，终于动画化！",
-    "link": null,
-    "tmdb_id": "321518",
-    "tmdb_site_id": "tv/321518",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -259,17 +241,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "295071",
+    "id": "312266",
     "type": "tmdb",
-    "title": "再见菈菈",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "花织即使是转生也想打架",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "releaseDate": "2026-07-11",
     "mediaType": "tv",
-    "rating": "6.5",
-    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
     "link": null,
-    "tmdb_id": "295071",
-    "tmdb_site_id": "tv/295071",
+    "tmdb_id": "312266",
+    "tmdb_site_id": "tv/312266",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -293,20 +275,65 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "296101",
+    "id": "206630",
     "type": "tmdb",
-    "title": "Grow Up Show ～向日葵马戏团～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "佐佐木与文鸟小哔 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_XO5B0.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "tv",
-    "rating": "7.2",
-    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+    "rating": "5.8",
+    "description": "12话 /  2026年10月7日 / 伊部勇志 / ぶんころり (MF文庫J刊) / 仲敷沙織",
     "link": null,
-    "tmdb_id": "296101",
-    "tmdb_site_id": "tv/296101",
+    "tmdb_id": "206630",
+    "tmdb_site_id": "tv/206630/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "295071",
+    "type": "tmdb",
+    "title": "再见菈菈",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "releaseDate": "2026-07-05",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "12话 /  2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+    "link": null,
+    "tmdb_id": "295071",
+    "tmdb_site_id": "tv/295071",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "555605",
+    "type": "link",
+    "title": "青之芦苇 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
+    "link": "https://bgm.tv/subject/555605"
+  },
+  {
+    "id": "283692",
+    "type": "tmdb",
+    "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "9.0",
+    "description": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的宇宙飞船玤驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵。掌握了这个宇宙的最强装备的孝弘决定改名为“西罗”，并以这个身分活下去。“我是西罗舰长，是一名佣兵。”后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到——在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，虽然价格高得惊人，但他下定决心要“在行星上买一栋附带庭院的独栋住宅”！就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
+    "link": null,
+    "tmdb_id": "283692",
+    "tmdb_site_id": "tv/283692",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326247",
@@ -328,66 +355,30 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "555605",
-    "type": "link",
-    "title": "青之芦苇 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.1",
-    "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
-    "link": "https://bgm.tv/subject/555605"
-  },
-  {
-    "id": "206630",
+    "id": "296101",
     "type": "tmdb",
-    "title": "佐佐木与文鸟小哔 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_XO5B0.jpg",
-    "releaseDate": "2026-10-07",
+    "title": "Grow Up Show ～向日葵马戏团～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "releaseDate": "2026-07-04",
     "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年10月7日 / 伊部勇志 / ぶんころり (MF文庫J刊) / 仲敷沙織",
+    "rating": "7.2",
+    "description": "13话 /  2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
     "link": null,
-    "tmdb_id": "206630",
-    "tmdb_site_id": "tv/206630/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "296101",
+    "tmdb_site_id": "tv/296101",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283692",
-    "type": "tmdb",
-    "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的宇宙飞船玤驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵。掌握了这个宇宙的最强装备的孝弘决定改名为“西罗”，并以这个身分活下去。“我是西罗舰长，是一名佣兵。”后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到——在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，虽然价格高得惊人，但他下定决心要“在行星上买一栋附带庭院的独栋住宅”！就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
-    "link": null,
-    "tmdb_id": "283692",
-    "tmdb_site_id": "tv/283692",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "327765",
-    "type": "tmdb",
-    "title": "超巡！超条前辈",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为“大猩猩”的新人警察一本木直，最强(?)搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
-    "link": null,
-    "tmdb_id": "327765",
-    "tmdb_site_id": "tv/327765",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "id": "393010",
+    "type": "link",
+    "title": "侦探已经死了。 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/61/393010_EIOi9.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "13话 /  2026年10月7日 / 栗原学 / 二語十（MF文库J「探偵はもう、死んでいる。」/KADOKAWA刊） / 伊藤陽祐",
+    "link": "https://bgm.tv/subject/393010"
   }
 ]

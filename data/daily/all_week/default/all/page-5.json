@@ -1,5 +1,27 @@
 [
   {
+    "id": "336654",
+    "type": "tmdb",
+    "title": "女友的朋友",
+    "posterPath": "https://image.tmdb.org/t/p/w500/saOqlHkybF06dYdFycUTROZI75o.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "“要不要跟我出轨试试？”人生中第一次交往的可爱女友。然而她的闺蜜，却拥有比她更丰满动人的身材，还在不断引诱着我……如果被女友的闺蜜这样步步紧逼，换作是你，该如何抉择？",
+    "link": null,
+    "bgm_id": "647220",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 98,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "336654",
+    "tmdb_site_id": "tv/336654",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "656083",
     "type": "link",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -11,7 +33,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 7
   },
   {

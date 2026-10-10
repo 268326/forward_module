@@ -1,5 +1,20 @@
 [
   {
+    "id": "555605",
+    "type": "link",
+    "title": "青之芦苇 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/67/5a/555605_cLCw5.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/555605",
+    "bgm_id": "555605",
+    "bgm_score": 7.1,
+    "bgm_rating_total": 91,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "589775",
     "type": "link",
     "title": "杀手旅店 第二季",
@@ -86,7 +101,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 7
   },
   {

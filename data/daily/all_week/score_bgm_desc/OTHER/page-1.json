@@ -1,5 +1,20 @@
 [
   {
+    "id": "632061",
+    "type": "link",
+    "title": "决斗大师 LOST ～断罪的少年～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/632061",
+    "bgm_id": "632061",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "551304",
     "type": "link",
     "title": "我的幸福婚姻 特别篇",
@@ -26,7 +41,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14827,
+    "bgm_rating_total": 14828,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -91,7 +106,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11611,
+    "bgm_rating_total": 11614,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -111,7 +126,7 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 6
   },
   {
@@ -126,7 +141,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 325,
+    "bgm_rating_total": 327,
     "bgm_weekday_id": 4
   },
   {
@@ -141,7 +156,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1071,
+    "bgm_rating_total": 1089,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -176,7 +191,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 346,
+    "bgm_rating_total": 352,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -211,7 +226,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 176,
+    "bgm_rating_total": 177,
     "bgm_weekday_id": 6
   },
   {
@@ -226,8 +241,23 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
   },
   {
     "id": "664389",
@@ -245,6 +275,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -256,7 +301,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 114,
+    "bgm_rating_total": 115,
     "bgm_weekday_id": 3
   },
   {
@@ -275,21 +320,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "538631",
-    "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -305,21 +335,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/548156",
-    "bgm_id": "548156",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 193,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
@@ -331,8 +346,23 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 156,
+    "bgm_rating_total": 157,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/548156",
+    "bgm_id": "548156",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 193,
+    "bgm_weekday_id": 7
   },
   {
     "id": "34158",
@@ -346,42 +376,12 @@
     "link": null,
     "bgm_id": "502123",
     "bgm_score": 6.3,
-    "bgm_rating_total": 29,
+    "bgm_rating_total": 33,
     "bgm_weekday_id": 3,
     "tmdb_id": "34158",
     "tmdb_site_id": "tv/34158",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "708080",
-    "type": "link",
-    "title": "Family Guy: Happy Hell-O-Ween",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/708080",
-    "bgm_id": "708080",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "705980",
-    "type": "link",
-    "title": "熊出没之神奇宝物 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/705980",
-    "bgm_id": "705980",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 4
   }
 ]

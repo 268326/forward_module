@@ -1,5 +1,20 @@
 [
   {
+    "id": "632061",
+    "type": "link",
+    "title": "决斗大师 LOST ～断罪的少年～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/632061",
+    "bgm_id": "632061",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "307903",
     "type": "tmdb",
     "title": "恐怖收集者",
@@ -48,7 +63,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14827,
+    "bgm_rating_total": 14828,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -135,7 +150,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11611,
+    "bgm_rating_total": 11614,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -177,7 +192,7 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 6
   },
   {
@@ -192,7 +207,7 @@
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 325,
+    "bgm_rating_total": 327,
     "bgm_weekday_id": 4
   },
   {
@@ -207,7 +222,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1071,
+    "bgm_rating_total": 1089,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -242,7 +257,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 346,
+    "bgm_rating_total": 352,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -288,28 +303,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "320909",
-    "type": "tmdb",
-    "title": "萤火虫的出嫁",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
-    "link": null,
-    "bgm_id": "621108",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "320909",
-    "tmdb_site_id": "tv/320909",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
@@ -321,7 +314,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 176,
+    "bgm_rating_total": 177,
     "bgm_weekday_id": 6
   },
   {
@@ -336,13 +329,13 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 7
   },
   {
     "id": "313346",
     "type": "tmdb",
-    "title": "被流放的开挂魔术师讴歌随心所欲第二人生",
+    "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
     "posterPath": "https://image.tmdb.org/t/p/w500/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
@@ -351,7 +344,7 @@
     "link": null,
     "bgm_id": "625799",
     "bgm_score": 7.0,
-    "bgm_rating_total": 328,
+    "bgm_rating_total": 339,
     "bgm_weekday_id": 2,
     "tmdb_id": "313346",
     "tmdb_site_id": "tv/313346",
@@ -369,11 +362,11 @@
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
     "rating": "10.0",
-    "description": "女大学生久留美为了拯救在雷曼兄弟事件中将家中 2000 万圆赔光的妈妈，发誓要藉由 FX 发大财！ 这是一段描述踏入 FX 深坑的女大学生们，有点危险（！？）的赚钱故事！",
+    "description": "“这个是，一名美少女开始接触FX的故事……”大学生福贺久留美终于迎来了梦寐以求的FX（外汇保证金交易）出道，她的目标是夺回过世母亲因为FX赔掉的2000万日圆。“区区2000万，看我轻松把它赚回来！”发下豪语的她，一头栽进了这个随时从天堂跌入地狱的世界。未实现亏损、强制平仓、不能平复的心情……即便如此，她还是想要买进、想要卖出、想要赚钱！萌智子、芽吹、安子——加上这群性格超独特的FX战士们，市场行情变得愈发白热化！ 随着图表起伏一喜一忧、可爱又有点危险（！？）的金钱游戏就此踏入，无法回头！久留美等人究竟能不能在这疯狂的世界中存活下来呢！？",
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1253,
+    "bgm_rating_total": 1275,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -382,6 +375,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
   },
   {
     "id": "312359",
@@ -409,15 +417,15 @@
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/q7J6Nt0Ml6FI8ReSFX2t8YynGqX.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "10.0",
     "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 6.9,
-    "bgm_rating_total": 103,
+    "bgm_rating_total": 140,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -426,20 +434,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "664389",
-    "type": "link",
-    "title": "夜樱家的大作战 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664389",
-    "bgm_id": "664389",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
   }
 ]

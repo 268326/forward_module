@@ -1,5 +1,49 @@
 [
   {
+    "id": "320377",
+    "type": "tmdb",
+    "title": "战车椅子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "3.0",
+    "description": "在被称为“宇宙最危险城镇”的鬼城岛，当地黑帮普遍使用基因兴奋剂来获取终极力量。少女平良静接下了最危险的刺杀任务，但动手的并不是她，而是她的哥哥凪——一名曾为保护妹妹中弹的顶尖杀手，如今陷入昏迷，只能依靠轮椅行动。然而，平良静发现了唤醒哥哥的方法：他必须直面杀意！于是妹妹平良静开始带着哥哥与强敌们进行“康复训练”。",
+    "link": null,
+    "bgm_id": "636023",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 118,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "320377",
+    "tmdb_site_id": "tv/320377",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "324502",
+    "type": "tmdb",
+    "title": "装备我最强",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
+    "link": null,
+    "bgm_id": "657656",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 80,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "324502",
+    "tmdb_site_id": "tv/324502",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "317259",
     "type": "tmdb",
     "title": "至高之力",
@@ -11,7 +55,7 @@
     "link": null,
     "bgm_id": "636512",
     "bgm_score": 6.1,
-    "bgm_rating_total": 166,
+    "bgm_rating_total": 168,
     "bgm_weekday_id": 6,
     "tmdb_id": "317259",
     "tmdb_site_id": "tv/317259",
@@ -63,32 +107,10 @@
     "link": null,
     "bgm_id": "456078",
     "bgm_score": 6.0,
-    "bgm_rating_total": 118,
+    "bgm_rating_total": 120,
     "bgm_weekday_id": 6,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "308977",
-    "type": "tmdb",
-    "title": "青蛙军曹☆",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
-    "link": null,
-    "bgm_id": "617273",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 28,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "308977",
-    "tmdb_site_id": "tv/308977",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -133,6 +155,28 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "308977",
+    "type": "tmdb",
+    "title": "青蛙军曹☆",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
+    "link": null,
+    "bgm_id": "617273",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "330505",
     "type": "tmdb",
     "title": "大叔喜欢可爱小玩意",
@@ -170,41 +214,18 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "335788",
-    "type": "tmdb",
-    "title": "苍蓝传承  威尔什与榭达",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "本片是由曾打造知名 MMORPG《龙梦幻境》（Dofus）的法国 Ankama 公司倾力制作的原创电视动画。故事中，擅长料理且心地善良的少年威尔什，原本在布拉希卡村过着与世无争的平静生活，直到一场突如其来的巨龙袭击，彻底打破了他安稳的日常。与此同时，大陆第一大国邦塔的王子榭达，在一边全力辅佐女王母亲莎贝尔的同时，心中却因某起事件对母亲的所作所为隐隐产生了怀疑。围绕着传说中创造世界的至宝“多夫斯（Dofus）”，两位出身截然不同的少年命运交织，一场波澜壮阔的奇幻冒险史诗就此揭开序幕。",
-    "link": null,
-    "bgm_id": "701782",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 28,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "335788",
-    "tmdb_site_id": "tv/335788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "FR",
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "283692",
     "type": "tmdb",
     "title": "一觉醒来就有了最强装备跟太空船，决定以自家独栋建筑为目标当佣兵自由过活",
     "posterPath": "https://image.tmdb.org/t/p/w500/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "9.0",
     "description": "身为上班族的佐藤孝弘每天都过着无趣又劳累的生活。然而某天醒来时，他发现自己身处平时最爱玩的SF游戏世界里，而且还坐在搭载最强装备的宇宙飞船玤驾驶舱里。不仅可以去冒险，也可以贸易，甚至成为佣兵。掌握了这个宇宙的最强装备的孝弘决定改名为“西罗”，并以这个身分活下去。“我是西罗舰长，是一名佣兵。”后来，西罗遇到了其他伙伴，并在一次又一次的战斗中察觉到——在外太空喝不到自己唯一喜欢的碳酸饮料。而且，他没有一个能和伙伴们一起回去的家。因此，虽然价格高得惊人，但他下定决心要“在行星上买一栋附带庭院的独栋住宅”！就这样，西罗带着最强的装备与伙伴们展开了他的佣兵生涯。",
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 100,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -241,7 +262,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.7,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 132,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -299,8 +320,8 @@
     "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
     "link": null,
     "bgm_id": "542007",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 79,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 6,
     "tmdb_id": "285899",
     "tmdb_site_id": "tv/285899",
@@ -348,6 +369,29 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "335788",
+    "type": "tmdb",
+    "title": "苍蓝传承  威尔什与榭达",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "本片是由曾打造知名 MMORPG《龙梦幻境》（Dofus）的法国 Ankama 公司倾力制作的原创电视动画。故事中，擅长料理且心地善良的少年威尔什，原本在布拉希卡村过着与世无争的平静生活，直到一场突如其来的巨龙袭击，彻底打破了他安稳的日常。与此同时，大陆第一大国邦塔的王子榭达，在一边全力辅佐女王母亲莎贝尔的同时，心中却因某起事件对母亲的所作所为隐隐产生了怀疑。围绕着传说中创造世界的至宝“多夫斯（Dofus）”，两位出身截然不同的少年命运交织，一场波澜壮阔的奇幻冒险史诗就此揭开序幕。",
+    "link": null,
+    "bgm_id": "701782",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "335788",
+    "tmdb_site_id": "tv/335788",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "FR",
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "656083",
     "type": "link",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -359,7 +403,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 7
   },
   {
@@ -404,54 +448,10 @@
     "link": null,
     "bgm_id": "636058",
     "bgm_score": 5.3,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "303060",
-    "type": "tmdb",
-    "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　一个平凡的研究生，转生成了乙女游戏里的路人恶役千金——皮娅。\n\n　　在游戏的高潮部分，等待她的是毕业舞会上的“定罪事件”——在那里，她将被当众宣布婚约破裂并流放国外，这就是皮娅的命运！\n\n　　“与其被心爱的人讨厌……”\n\n　　彻底失去勇气的皮娅，向宰相之子路法斯提出解除婚约。然而这反而点燃了路法斯的自尊心。\n\n　　“要不要赌一把——看我是不是真的会解除婚约？”\n\n　　路法斯一个接一个地摧毁挡在皮娅面前的“流放FLAG”！？\n\n　　最弱恶役千金 × 最强未婚夫的“命运赌局”，最终将迎来怎样的结局——？",
-    "link": null,
-    "bgm_id": "596771",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 48,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "303060",
-    "tmdb_site_id": "tv/303060",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "336654",
-    "type": "tmdb",
-    "title": "女友的朋友",
-    "posterPath": "https://image.tmdb.org/t/p/w500/saOqlHkybF06dYdFycUTROZI75o.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "“要不要跟我出轨试试？”人生中第一次交往的可爱女友。然而她的闺蜜，却拥有比她更丰满动人的身材，还在不断引诱着我……如果被女友的闺蜜这样步步紧逼，换作是你，该如何抉择？",
-    "link": null,
-    "bgm_id": "647220",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 96,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "336654",
-    "tmdb_site_id": "tv/336654",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

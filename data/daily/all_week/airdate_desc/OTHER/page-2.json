@@ -1,5 +1,25 @@
 [
   {
+    "id": "316694",
+    "type": "tmdb",
+    "title": "转生哥布林有问题吗？",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/05/25/634587_8k4k7.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "634587",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 61,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "316694",
+    "tmdb_site_id": "tv/316694",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "707667",
     "type": "link",
     "title": "猫猫的呢喃 第三季",
@@ -36,11 +56,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "6.4",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
-    "bgm_score": 6.5,
+    "bgm_score": 6.4,
     "bgm_rating_total": 193,
     "bgm_weekday_id": 7
   },
@@ -56,7 +76,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 7
   },
   {
@@ -146,7 +166,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.4,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 7
   },
   {
@@ -206,7 +226,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1071,
+    "bgm_rating_total": 1089,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -226,7 +246,7 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 6
   },
   {
@@ -241,7 +261,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 156,
+    "bgm_rating_total": 157,
     "bgm_weekday_id": 6
   },
   {
@@ -256,7 +276,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 176,
+    "bgm_rating_total": 177,
     "bgm_weekday_id": 6
   },
   {
@@ -346,27 +366,12 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 346,
+    "bgm_rating_total": 352,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "617948",
-    "type": "link",
-    "title": "桃源暗鬼 ～日光・华严之泷篇～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/617948",
-    "bgm_id": "617948",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 5
   }
 ]

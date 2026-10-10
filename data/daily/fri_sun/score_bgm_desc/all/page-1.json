@@ -1,5 +1,20 @@
 [
   {
+    "id": "632061",
+    "type": "link",
+    "title": "决斗大师 LOST ～断罪的少年～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "10.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/632061",
+    "bgm_id": "632061",
+    "bgm_score": 10.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "307903",
     "type": "tmdb",
     "title": "恐怖收集者",
@@ -78,7 +93,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11611,
+    "bgm_rating_total": 11614,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -120,7 +135,7 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 6
   },
   {
@@ -135,7 +150,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1071,
+    "bgm_rating_total": 1089,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -155,7 +170,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 346,
+    "bgm_rating_total": 352,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -186,28 +201,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "320909",
-    "type": "tmdb",
-    "title": "萤火虫的出嫁",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
-    "link": null,
-    "bgm_id": "621108",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "320909",
-    "tmdb_site_id": "tv/320909",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
@@ -219,7 +212,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 176,
+    "bgm_rating_total": 177,
     "bgm_weekday_id": 6
   },
   {
@@ -234,8 +227,23 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 89,
+    "bgm_rating_total": 91,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
   },
   {
     "id": "312359",
@@ -263,18 +271,40 @@
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/q7J6Nt0Ml6FI8ReSFX2t8YynGqX.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "10.0",
     "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 6.9,
-    "bgm_rating_total": 103,
+    "bgm_rating_total": 140,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "320909",
+    "type": "tmdb",
+    "title": "萤火虫的出嫁",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
+    "link": null,
+    "bgm_id": "621108",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 21,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "320909",
+    "tmdb_site_id": "tv/320909",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -297,6 +327,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "634210",
     "type": "link",
     "title": "魔法姐妹露露特莉莉 第2部分",
@@ -310,21 +355,6 @@
     "bgm_score": 6.6,
     "bgm_rating_total": 51,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "538631",
-    "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "593863",
@@ -342,21 +372,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/548156",
-    "bgm_id": "548156",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 193,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
@@ -368,8 +383,23 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 156,
+    "bgm_rating_total": 157,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "548156",
+    "type": "link",
+    "title": "青之箱 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/548156",
+    "bgm_id": "548156",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 193,
+    "bgm_weekday_id": 7
   },
   {
     "id": "335790",
@@ -383,54 +413,10 @@
     "link": null,
     "bgm_id": "630160",
     "bgm_score": 6.4,
-    "bgm_rating_total": 163,
+    "bgm_rating_total": 168,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "320377",
-    "type": "tmdb",
-    "title": "战车椅子",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "3.0",
-    "description": "在被称为“宇宙最危险城镇”的鬼城岛，当地黑帮普遍使用基因兴奋剂来获取终极力量。少女平良静接下了最危险的刺杀任务，但动手的并不是她，而是她的哥哥凪——一名曾为保护妹妹中弹的顶尖杀手，如今陷入昏迷，只能依靠轮椅行动。然而，平良静发现了唤醒哥哥的方法：他必须直面杀意！于是妹妹平良静开始带着哥哥与强敌们进行“康复训练”。",
-    "link": null,
-    "bgm_id": "636023",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 117,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "320377",
-    "tmdb_site_id": "tv/320377",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "324502",
-    "type": "tmdb",
-    "title": "装备我最强",
-    "posterPath": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
-    "link": null,
-    "bgm_id": "657656",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 79,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "324502",
-    "tmdb_site_id": "tv/324502",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
