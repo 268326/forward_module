@@ -11,8 +11,23 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.8,
-    "bgm_rating_total": 17,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "507820",
+    "type": "link",
+    "title": "大王饶命 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/507820",
+    "bgm_id": "507820",
+    "bgm_score": 7.1,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 6
   },
   {
     "id": "702192",
@@ -60,19 +75,34 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "507820",
+    "id": "664389",
     "type": "link",
-    "title": "大王饶命 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "夜樱家的大作战 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
+    "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "7.6",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/507820",
-    "bgm_id": "507820",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 6
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/664389",
+    "bgm_id": "664389",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "707667",
+    "type": "link",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 7.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 1
   },
   {
     "id": "638081",
@@ -103,36 +133,6 @@
     "bgm_score": 3.5,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "707667",
-    "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "664389",
-    "type": "link",
-    "title": "夜樱家的大作战 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664389",
-    "bgm_id": "664389",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
   },
   {
     "id": "688797",
@@ -180,6 +180,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "705980",
     "type": "link",
     "title": "熊出没之神奇宝物 第二季",
@@ -193,21 +208,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "708080",

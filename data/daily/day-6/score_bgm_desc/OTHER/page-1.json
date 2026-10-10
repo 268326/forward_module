@@ -1,17 +1,17 @@
 [
   {
-    "id": "507820",
+    "id": "567896",
     "type": "link",
-    "title": "大王饶命 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_9O2xR.jpg",
+    "title": "黑色五叶草 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "7.6",
     "description": "[星期六]",
-    "link": "http://bgm.tv/subject/507820",
-    "bgm_id": "507820",
+    "link": "http://bgm.tv/subject/567896",
+    "bgm_id": "567896",
     "bgm_score": 7.6,
-    "bgm_rating_total": 8,
+    "bgm_rating_total": 69,
     "bgm_weekday_id": 6
   },
   {
@@ -26,28 +26,13 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11614,
+    "bgm_rating_total": 11615,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "567896",
-    "type": "link",
-    "title": "黑色五叶草 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/be/e7/567896_RWffW.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/567896",
-    "bgm_id": "567896",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 67,
-    "bgm_weekday_id": 6
   },
   {
     "id": "283938",
@@ -61,7 +46,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.4,
-    "bgm_rating_total": 1089,
+    "bgm_rating_total": 1130,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -81,7 +66,22 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.2,
-    "bgm_rating_total": 177,
+    "bgm_rating_total": 181,
+    "bgm_weekday_id": 6
+  },
+  {
+    "id": "507820",
+    "type": "link",
+    "title": "大王饶命 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/507820",
+    "bgm_id": "507820",
+    "bgm_score": 7.1,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 6
   },
   {
@@ -96,7 +96,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 157,
+    "bgm_rating_total": 161,
     "bgm_weekday_id": 6
   },
   {

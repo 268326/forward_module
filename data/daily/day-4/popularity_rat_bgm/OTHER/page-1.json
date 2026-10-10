@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 327,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 342,
     "bgm_weekday_id": 4
   },
   {
@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 6.0,
-    "bgm_rating_total": 47,
+    "bgm_rating_total": 48,
     "bgm_weekday_id": 4
   },
   {
@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.4,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 4
   },
   {
@@ -93,7 +93,7 @@
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_nqMmz.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "anime",
     "rating": "N/A",

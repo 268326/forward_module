@@ -1,27 +1,5 @@
 [
   {
-    "id": "320377",
-    "type": "tmdb",
-    "title": "战车椅子",
-    "posterPath": "https://image.tmdb.org/t/p/w500/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "3.0",
-    "description": "在被称为“宇宙最危险城镇”的鬼城岛，当地黑帮普遍使用基因兴奋剂来获取终极力量。少女平良静接下了最危险的刺杀任务，但动手的并不是她，而是她的哥哥凪——一名曾为保护妹妹中弹的顶尖杀手，如今陷入昏迷，只能依靠轮椅行动。然而，平良静发现了唤醒哥哥的方法：他必须直面杀意！于是妹妹平良静开始带着哥哥与强敌们进行“康复训练”。",
-    "link": null,
-    "bgm_id": "636023",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 118,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "320377",
-    "tmdb_site_id": "tv/320377",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "324502",
     "type": "tmdb",
     "title": "装备我最强",
@@ -33,10 +11,32 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.1,
-    "bgm_rating_total": 80,
+    "bgm_rating_total": 84,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "295420",
+    "type": "tmdb",
+    "title": "朱色假面",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hsMd1zUdZGMQpLr55wM0OKK07X5.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
+    "link": null,
+    "bgm_id": "568525",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 20,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -55,7 +55,7 @@
     "link": null,
     "bgm_id": "636512",
     "bgm_score": 6.1,
-    "bgm_rating_total": 168,
+    "bgm_rating_total": 170,
     "bgm_weekday_id": 6,
     "tmdb_id": "317259",
     "tmdb_site_id": "tv/317259",
@@ -107,7 +107,7 @@
     "link": null,
     "bgm_id": "456078",
     "bgm_score": 6.0,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 123,
     "bgm_weekday_id": 6,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
@@ -129,7 +129,7 @@
     "link": null,
     "bgm_id": "621073",
     "bgm_score": 6.0,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 7,
     "tmdb_id": "288588",
     "tmdb_site_id": "tv/288588",
@@ -153,28 +153,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "308977",
-    "type": "tmdb",
-    "title": "青蛙军曹☆",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
-    "link": null,
-    "bgm_id": "617273",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 30,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "308977",
-    "tmdb_site_id": "tv/308977",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "330505",
@@ -210,8 +188,30 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.8,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 35,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "308977",
+    "type": "tmdb",
+    "title": "青蛙军曹☆",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9ifgbxI7iCw6BhNx1IihJzoYb7c.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "为了侵略地球而从宇宙来到这里的K隆星人——“Keroro军曹”，潜入日向家时，被中学生男孩日向冬树和他的姐姐日向夏美给逮了个正着。被凯隆军主力部队抛弃、孤零零留在地球上的Keroro军曹，他……他和喜欢超自然事物的冬树成了“好朋友”，并以正式配属的名义，在日向家蹭吃蹭喝住了下来。在地球上过着充实(?)的每一天，却仍未放弃侵略野心的Keroro军曹。他的伙伴们，以及冬树等地球人也被卷入其中，一段愉快又非比寻常的故事即将拉开序幕！",
+    "link": null,
+    "bgm_id": "617273",
+    "bgm_score": 5.8,
+    "bgm_rating_total": 32,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "283692",
@@ -225,7 +225,7 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 103,
+    "bgm_rating_total": 104,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -251,26 +251,19 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "301139",
-    "type": "tmdb",
-    "title": "僵尸搜寻中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
-    "link": null,
-    "bgm_id": "586255",
+    "id": "617948",
+    "type": "link",
+    "title": "桃源暗鬼 ～日光・华严之泷篇～",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/617948",
+    "bgm_id": "617948",
     "bgm_score": 5.7,
-    "bgm_rating_total": 132,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "301139",
-    "tmdb_site_id": "tv/301139",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_rating_total": 21,
+    "bgm_weekday_id": 5
   },
   {
     "id": "324326",
@@ -295,19 +288,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "617948",
-    "type": "link",
-    "title": "桃源暗鬼 ～日光・华严之泷篇～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/70/c2/617948_Mm3mn.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/617948",
-    "bgm_id": "617948",
+    "id": "301139",
+    "type": "tmdb",
+    "title": "僵尸搜寻中",
+    "posterPath": "https://image.tmdb.org/t/p/w500/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“这是认错人了…… 不对，是认错僵尸了。”\n\n距离那场导致九成人类感染身亡的神秘传染病爆发的「猩红之日」，已经过去了十三年。\n\n幸存的人们远离城市，在与世隔绝的村落里度日。生长在新时代的少女亚纪对世界毁灭前的记忆一片空白，为了寻找早年离开村子的父亲，\n\n她和青梅竹马的夏树、春一同逃出了村落。\n\n踏出村子后，放眼望去遍地都是僵尸。\n\n可即便如此，人生中第一次感受到的「外界」，却如此辽阔、鲜活，又充满美好。\n\n途中结识的悠与樱也加入了队伍，少年少女们这场残酷却又满是欢乐的全新冒险，就此开启 ——",
+    "link": null,
+    "bgm_id": "586255",
     "bgm_score": 5.6,
-    "bgm_rating_total": 20,
-    "bgm_weekday_id": 5
+    "bgm_rating_total": 140,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "301139",
+    "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "285899",
@@ -320,8 +320,8 @@
     "description": "被认为「没有使剑的才能」的骑士家的少女·菲亚。她在濒死之际，回想起自己前世是拥有规格外能力的「大圣女」，并且使最强的魔物·黑龙成为她的从魔。但是回想起在前世魔王的右腕曾威胁她说「若是依旧作为圣女转生那我依旧会继续杀你」，菲亚决定一边隐藏大圣女的力量一边以骑士为目标，可是却引发了众多骚动！？",
     "link": null,
     "bgm_id": "542007",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 80,
+    "bgm_score": 5.5,
+    "bgm_rating_total": 86,
     "bgm_weekday_id": 6,
     "tmdb_id": "285899",
     "tmdb_site_id": "tv/285899",
@@ -343,7 +343,7 @@
     "link": "http://bgm.tv/subject/589775",
     "bgm_id": "589775",
     "bgm_score": 5.5,
-    "bgm_rating_total": 21,
+    "bgm_rating_total": 22,
     "bgm_weekday_id": 7
   },
   {
@@ -380,7 +380,7 @@
     "link": null,
     "bgm_id": "701782",
     "bgm_score": 5.4,
-    "bgm_rating_total": 30,
+    "bgm_rating_total": 33,
     "bgm_weekday_id": 5,
     "tmdb_id": "335788",
     "tmdb_site_id": "tv/335788",
@@ -403,7 +403,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.4,
-    "bgm_rating_total": 134,
+    "bgm_rating_total": 139,
     "bgm_weekday_id": 7
   },
   {
@@ -443,7 +443,7 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "10.0",
     "description": "过着极其平凡日子的女高中生·立木典子，某天早晨仿佛被不可思议的梦境引导一般，迷失到了一个陌生的异世界。\n\n在这个语言不通、常识也不管用的世界里，救下无处可去、只能四处彷徨的典子的，是独自一人旅行的流浪战士·伊札克。\n\n与此同时，世界各地都在流传着“能够唤醒带来毁灭的‘天上鬼’的人出现了”、“必须比任何国家都先得到手”的传言。\n\n所谓的觉醒，以及天上鬼到底是什么——\n\n仿佛知晓答案一般，伊札克看着典子喃喃自语道。\n\n“我必须杀了这个女孩。”\n\n尽管语言和文化都存在隔阂，两人之间依然一点点萌生了细微的羁绊。\n\n这样的两人，最终将被卷入宏大的命运旋涡之中——。",
     "link": null,
     "bgm_id": "636058",

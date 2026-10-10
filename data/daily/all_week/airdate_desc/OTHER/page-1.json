@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
     "releaseDate": "2026-10-30",
     "mediaType": "anime",
-    "rating": "6.5",
+    "rating": "7.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
+    "bgm_score": 7.7,
+    "bgm_rating_total": 3,
     "bgm_weekday_id": 5
   },
   {
@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
     "bgm_score": 7.2,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 2
   },
   {
@@ -101,7 +101,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.6,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 79,
     "bgm_weekday_id": 2
   },
   {
@@ -126,12 +126,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
     "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/664389",
     "bgm_id": "664389",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 7
   },
   {
@@ -198,7 +198,7 @@
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_nqMmz.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "anime",
     "rating": "N/A",
@@ -221,7 +221,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.4,
-    "bgm_rating_total": 28,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 4
   },
   {
@@ -236,7 +236,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.6,
-    "bgm_rating_total": 84,
+    "bgm_rating_total": 93,
     "bgm_weekday_id": 3
   },
   {
@@ -246,12 +246,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "6.6",
+    "rating": "6.5",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
-    "bgm_score": 6.6,
-    "bgm_rating_total": 115,
+    "bgm_score": 6.5,
+    "bgm_rating_total": 117,
     "bgm_weekday_id": 3
   },
   {
@@ -266,7 +266,7 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.8,
-    "bgm_rating_total": 17,
+    "bgm_rating_total": 20,
     "bgm_weekday_id": 3
   },
   {
@@ -281,7 +281,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 80,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -301,7 +301,7 @@
     "link": null,
     "bgm_id": "502123",
     "bgm_score": 6.3,
-    "bgm_rating_total": 33,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 3,
     "tmdb_id": "34158",
     "tmdb_site_id": "tv/34158",

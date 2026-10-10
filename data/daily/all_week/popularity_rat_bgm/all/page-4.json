@@ -1,5 +1,20 @@
 [
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "705980",
     "type": "link",
     "title": "熊出没之神奇宝物 第二季",
@@ -13,21 +28,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "204084",
@@ -375,7 +375,7 @@
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_nqMmz.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "anime",
     "rating": "N/A",
