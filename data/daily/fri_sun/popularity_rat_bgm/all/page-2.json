@@ -1,20 +1,20 @@
 [
   {
-    "id": "324326",
+    "id": "330505",
     "type": "tmdb",
-    "title": "七叶树王国的七名骑士",
-    "posterPath": "https://image.tmdb.org/t/p/w500/5zsuK5vjSWPuQfkR64i8cYekSBu.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "大叔喜欢可爱小玩意",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gCfXAqp5CiiGnDnAt8jSoTCU9yr.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "在这片由八个王国组成的大陆中央，坐落着马罗尼耶王国。王国的将军巴里巴拉有七个儿子，他们各有所长，并且都担任骑士长。他们有一个共同崇高目标，那就是有朝一日英勇地救出公主，于是七兄弟作为友好大使，踏上了前往邻近七国的旅程。\n\n在这些陌生的国度，他们将经历怎样的奇遇和考验，最终走向怎样的命运？",
+    "description": "长相帅气、工作能力出众的小路三贵，其实对可爱的东西毫无抵抗力。在公司里，他深受部下们信赖，而回到家后，却会尽情疼爱自己的最爱角色「巴哥太郎」，享受至福的时光。然而，小路始终无法向任何人坦白自己「最喜欢可爱小玩意」的这个秘密，每天都怀着提心吊胆的心情生活着。请敬请期待他对巴哥太郎满溢而出的爱，以及因某件事为契机逐渐产生变化的日常。",
     "link": null,
-    "bgm_id": "657084",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 42,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "324326",
-    "tmdb_site_id": "tv/324326",
+    "bgm_id": "605533",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 43,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "330505",
+    "tmdb_site_id": "tv/330505",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -33,31 +33,23 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 5
   },
   {
-    "id": "335788",
-    "type": "tmdb",
-    "title": "苍蓝传承  威尔什与榭达",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承 威尔什&amp;榭达",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "本片是由曾打造知名 MMORPG《龙梦幻境》（Dofus）的法国 Ankama 公司倾力制作的原创电视动画。故事中，擅长料理且心地善良的少年威尔什，原本在布拉希卡村过着与世无争的平静生活，直到一场突如其来的巨龙袭击，彻底打破了他安稳的日常。与此同时，大陆第一大国邦塔的王子榭达，在一边全力辅佐女王母亲莎贝尔的同时，心中却因某起事件对母亲的所作所为隐隐产生了怀疑。围绕着传说中创造世界的至宝“多夫斯（Dofus）”，两位出身截然不同的少年命运交织，一场波澜壮阔的奇幻冒险史诗就此揭开序幕。",
-    "link": null,
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 5.4,
     "bgm_rating_total": 34,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "335788",
-    "tmdb_site_id": "tv/335788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "FR",
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 5
   },
   {
     "id": "308977",
@@ -115,10 +107,32 @@
     "link": null,
     "bgm_id": "568525",
     "bgm_score": 5.8,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 6,
     "tmdb_id": "295420",
     "tmdb_site_id": "tv/295420",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307903",
+    "type": "tmdb",
+    "title": "恐怖收集者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
+    "bgm_id": "613256",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -166,8 +180,8 @@
     "description": "某天上课时，宅男拓海发现自己的鼠标光标竟然飞到了屏幕外。\n\n他慌忙向坐在旁边的青梅竹马萌音确认，但对方根本不理他……\n\n得知自己居然真的能操作光标后，拓海便用起只有自己能看见的鼠标光标，\n\n让光标钻进萌音衣服的缝隙里，\n\n咔嗒咔嗒地疯狂点击——！？\n\n日本首部（大概）新类型\n\n《用鼠标光标狂点对宅男不友好的辣妹》系恋爱喜剧，开幕！",
     "link": null,
     "bgm_id": "698032",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 20,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",
@@ -178,26 +192,56 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "307903",
+    "id": "664389",
+    "type": "link",
+    "title": "夜樱家的大作战 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/664389",
+    "bgm_id": "664389",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "288588",
     "type": "tmdb",
-    "title": "恐怖收集者",
-    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
-    "releaseDate": "2026-10-10",
+    "title": "和没有信徒的女神大人一起攻略异世界",
+    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "releaseDate": "2026-10-11",
     "mediaType": "tv",
     "rating": "0.0",
-    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
     "link": null,
-    "bgm_id": "613256",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 13,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "307903",
-    "tmdb_site_id": "tv/307903",
+    "bgm_id": "621073",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 16,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "288588",
+    "tmdb_site_id": "tv/288588",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "702192",
+    "type": "link",
+    "title": "极道寿司次郎！",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "5.6",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/702192",
+    "bgm_id": "702192",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 12,
+    "bgm_weekday_id": 6
   },
   {
     "id": "507820",
@@ -215,21 +259,6 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "702192",
-    "type": "link",
-    "title": "极道寿司次郎！",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "5.4",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/702192",
-    "bgm_id": "702192",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -243,43 +272,6 @@
     "bgm_score": 5.3,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "288588",
-    "type": "tmdb",
-    "title": "和没有信徒的女神大人一起攻略异世界",
-    "posterPath": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "游戏成瘾的高中生高月诚人于校外教学回程中遭遇意外事故，与全班同学一同转移到了异世界。异世界的神明们赐予了全班同学特殊能力，然而，只有诚人被赋予的是较为基础的“魔法师学徒”身份。此后，诚人在梦中遇见了一位没有信徒的无名女神诺雅。诺雅请求诚人信仰她，诚人便决定成为其信徒。随后，女神下达神谕，要求诚人前往人迹未至的迷宫进行拯救。诚人以游戏成瘾者的经验应对这项挑战。在得到诺雅的庇护与神器后，他试图通过非常规方法提升自身能力。故事讲述了诚人与女神诺雅在异世界展开的奇幻冒险。",
-    "link": null,
-    "bgm_id": "621073",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "288588",
-    "tmdb_site_id": "tv/288588",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "664389",
-    "type": "link",
-    "title": "夜樱家的大作战 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664389",
-    "bgm_id": "664389",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
   },
   {
     "id": "638081",
@@ -312,6 +304,28 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "312359",
+    "type": "tmdb",
+    "title": "龙珠超 比鲁斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
+    "link": null,
+    "bgm_id": "623249",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "312359",
+    "tmdb_site_id": "tv/312359",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "538631",
     "type": "link",
     "title": "降世神通：七个避风港 第一季",
@@ -342,6 +356,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "204084",
     "type": "tmdb",
     "title": "梦幻之境",
@@ -360,28 +389,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "FR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "312359",
-    "type": "tmdb",
-    "title": "龙珠超 比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
-    "link": null,
-    "bgm_id": "623249",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "312359",
-    "tmdb_site_id": "tv/312359",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },
@@ -408,33 +415,18 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "632061",
+    "id": "664395",
     "type": "link",
-    "title": "决斗大师 LOST ～断罪的少年～",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/93/3c/632061_9qy7P.jpg",
-    "releaseDate": "2026-10-09",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
     "mediaType": "anime",
-    "rating": "10.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/632061",
-    "bgm_id": "632061",
-    "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/664395",
+    "bgm_id": "664395",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
   }
 ]

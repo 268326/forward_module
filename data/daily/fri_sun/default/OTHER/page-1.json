@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 5
   },
   {
@@ -56,7 +56,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 376,
+    "bgm_rating_total": 388,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -136,7 +136,7 @@
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -155,6 +155,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承 威尔什&amp;榭达",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 34,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -166,7 +181,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11617,
+    "bgm_rating_total": 11619,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -201,7 +216,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1210,
+    "bgm_rating_total": 1283,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -221,7 +236,7 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 6
   },
   {
@@ -236,14 +251,14 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 165,
+    "bgm_rating_total": 173,
     "bgm_weekday_id": 6
   },
   {
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "7.3",
@@ -251,7 +266,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.3,
-    "bgm_rating_total": 188,
+    "bgm_rating_total": 208,
     "bgm_weekday_id": 6
   },
   {
@@ -291,12 +306,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 11,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 6
   },
   {
@@ -311,7 +326,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 204,
+    "bgm_rating_total": 214,
     "bgm_weekday_id": 7
   },
   {
@@ -341,7 +356,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 7
   },
   {
@@ -357,21 +372,6 @@
     "bgm_id": "589775",
     "bgm_score": 5.5,
     "bgm_rating_total": 22,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "632817",
-    "type": "link",
-    "title": "肥志百科 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/632817",
-    "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
     "bgm_weekday_id": 7
   }
 ]

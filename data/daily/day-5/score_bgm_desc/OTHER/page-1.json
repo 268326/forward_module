@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 376,
+    "bgm_rating_total": 388,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 5
   },
   {
@@ -121,7 +121,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 5
   },
   {
@@ -137,6 +137,21 @@
     "bgm_id": "617948",
     "bgm_score": 5.7,
     "bgm_rating_total": 21,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承 威尔什&amp;榭达",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 34,
     "bgm_weekday_id": 5
   },
   {

@@ -1,17 +1,32 @@
 [
   {
+    "id": "694622",
+    "type": "link",
+    "title": "ねずみくんのチョッキ 第2期",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/1b/694622_NhQb3.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/694622",
+    "bgm_id": "694622",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "702192",
     "type": "link",
     "title": "极道寿司次郎！",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 11,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 6
   },
   {
@@ -26,7 +41,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 5
   },
   {
@@ -56,7 +71,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 376,
+    "bgm_rating_total": 388,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -110,6 +125,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "701782",
+    "type": "link",
+    "title": "苍蓝传承 威尔什&amp;榭达",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.4",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/701782",
+    "bgm_id": "701782",
+    "bgm_score": 5.4,
+    "bgm_rating_total": 34,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "30983",
     "type": "tmdb",
     "title": "名侦探柯南",
@@ -121,7 +151,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11617,
+    "bgm_rating_total": 11619,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",

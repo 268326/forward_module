@@ -41,28 +41,13 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14833,
+    "bgm_rating_total": 14838,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "664395",
-    "type": "link",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664395",
-    "bgm_id": "664395",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
   },
   {
     "id": "306565",
@@ -128,7 +113,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11617,
+    "bgm_rating_total": 11619,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -148,7 +133,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1210,
+    "bgm_rating_total": 1283,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -190,8 +175,30 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "312359",
+    "type": "tmdb",
+    "title": "龙珠超 比鲁斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
+    "link": null,
+    "bgm_id": "623249",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "312359",
+    "tmdb_site_id": "tv/312359",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "665390",
@@ -200,12 +207,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/665390",
     "bgm_id": "665390",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 351,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 359,
     "bgm_weekday_id": 4
   },
   {
@@ -220,7 +227,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 376,
+    "bgm_rating_total": 388,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -232,7 +239,7 @@
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "7.3",
@@ -240,7 +247,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.3,
-    "bgm_rating_total": 188,
+    "bgm_rating_total": 208,
     "bgm_weekday_id": 6
   },
   {
@@ -255,7 +262,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 7.2,
-    "bgm_rating_total": 5,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 1
   },
   {
@@ -300,7 +307,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 7
   },
   {
@@ -315,7 +322,7 @@
     "link": null,
     "bgm_id": "625799",
     "bgm_score": 7.0,
-    "bgm_rating_total": 403,
+    "bgm_rating_total": 434,
     "bgm_weekday_id": 2,
     "tmdb_id": "313346",
     "tmdb_site_id": "tv/313346",
@@ -337,7 +344,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1344,
+    "bgm_rating_total": 1393,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -359,7 +366,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 207,
+    "bgm_rating_total": 236,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -381,30 +388,8 @@
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "312359",
-    "type": "tmdb",
-    "title": "龙珠超 比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
-    "link": null,
-    "bgm_id": "623249",
-    "bgm_score": 7.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "312359",
-    "tmdb_site_id": "tv/312359",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 5
   },
   {
     "id": "312850",
@@ -418,7 +403,7 @@
     "link": null,
     "bgm_id": "624085",
     "bgm_score": 6.7,
-    "bgm_rating_total": 290,
+    "bgm_rating_total": 306,
     "bgm_weekday_id": 2,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
@@ -427,5 +412,20 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
   }
 ]

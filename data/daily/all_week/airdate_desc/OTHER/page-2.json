@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.2,
-    "bgm_rating_total": 65,
+    "bgm_rating_total": 68,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 7.2,
-    "bgm_rating_total": 5,
+    "bgm_rating_total": 6,
     "bgm_weekday_id": 1
   },
   {
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 204,
+    "bgm_rating_total": 214,
     "bgm_weekday_id": 7
   },
   {
@@ -76,7 +76,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 7
   },
   {
@@ -121,7 +121,22 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.6,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 53,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "635258",
+    "type": "link",
+    "title": "啵普与帕噗与珀尔嗒",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/df/29/635258_JqFf3.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/635258",
+    "bgm_id": "635258",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
     "bgm_weekday_id": 7
   },
   {
@@ -161,12 +176,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.3",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 141,
+    "bgm_score": 5.3,
+    "bgm_rating_total": 148,
     "bgm_weekday_id": 7
   },
   {
@@ -226,7 +241,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1210,
+    "bgm_rating_total": 1283,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -246,7 +261,7 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 6
   },
   {
@@ -261,14 +276,14 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 165,
+    "bgm_rating_total": 173,
     "bgm_weekday_id": 6
   },
   {
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "7.3",
@@ -276,7 +291,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.3,
-    "bgm_rating_total": 188,
+    "bgm_rating_total": 208,
     "bgm_weekday_id": 6
   },
   {
@@ -316,12 +331,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/27/2f/702192_311Ln.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
-    "rating": "5.4",
+    "rating": "5.6",
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 11,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 6
   },
   {
@@ -336,7 +351,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 36,
+    "bgm_rating_total": 38,
     "bgm_weekday_id": 5
   },
   {
@@ -353,25 +368,5 @@
     "bgm_score": 5.3,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "220542/season/1/episode/49",
-    "type": "tmdb",
-    "title": "药屋少女的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/55/e2/568244_0D00X.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "[星期五]",
-    "link": null,
-    "bgm_id": "568244",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 376,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "220542/season/1/episode/49",
-    "tmdb_site_id": "tv/220542/season/1/episode/49",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

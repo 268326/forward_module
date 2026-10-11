@@ -30,21 +30,6 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "664395",
-    "type": "link",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664395",
-    "bgm_id": "664395",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -71,7 +56,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11617,
+    "bgm_rating_total": 11619,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -91,7 +76,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1210,
+    "bgm_rating_total": 1283,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -133,8 +118,30 @@
     "link": "http://bgm.tv/subject/567896",
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 78,
     "bgm_weekday_id": 6
+  },
+  {
+    "id": "312359",
+    "type": "tmdb",
+    "title": "龙珠超 比鲁斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
+    "link": null,
+    "bgm_id": "623249",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "312359",
+    "tmdb_site_id": "tv/312359",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "220542/season/1/episode/49",
@@ -148,7 +155,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 376,
+    "bgm_rating_total": 388,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -160,7 +167,7 @@
     "id": "637802",
     "type": "link",
     "title": "乱马1/2 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_oS0EQ.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "anime",
     "rating": "7.3",
@@ -168,7 +175,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.3,
-    "bgm_rating_total": 188,
+    "bgm_rating_total": 208,
     "bgm_weekday_id": 6
   },
   {
@@ -198,7 +205,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 98,
+    "bgm_rating_total": 103,
     "bgm_weekday_id": 7
   },
   {
@@ -213,7 +220,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 207,
+    "bgm_rating_total": 236,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -235,30 +242,8 @@
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
     "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "312359",
-    "type": "tmdb",
-    "title": "龙珠超 比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "距离与魔人布欧的激战已过去数年，地球终于迎来了一段短暂的和平时期。与此同时，破坏神比鲁斯也从沉睡中苏醒。就连界王神和界王神都惊叹不已，比鲁斯觉醒了，他拥有足以毁灭星辰的压倒性力量……然而，比鲁斯听闻有赛亚人击败了弗利萨，便突然出现在悟空面前。随着比鲁斯前所未有的力量即将到来，地球面临着毁灭的威胁……破坏神与悟空…",
-    "link": null,
-    "bgm_id": "623249",
-    "bgm_score": 7.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "312359",
-    "tmdb_site_id": "tv/312359",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 5
   },
   {
     "id": "538631",
@@ -276,21 +261,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "664389",
-    "type": "link",
-    "title": "夜樱家的大作战 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/95/5d/664389_zP36V.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/664389",
-    "bgm_id": "664389",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "634210",
     "type": "link",
     "title": "魔法姐妹露露特莉莉 第2部分",
@@ -302,7 +272,7 @@
     "link": "http://bgm.tv/subject/634210",
     "bgm_id": "634210",
     "bgm_score": 6.6,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 7
   },
   {
@@ -321,6 +291,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "664395",
+    "type": "link",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/664395",
+    "bgm_id": "664395",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "616808",
     "type": "link",
     "title": "野生的大魔王出现了！第二季",
@@ -332,7 +317,7 @@
     "link": "http://bgm.tv/subject/616808",
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 165,
+    "bgm_rating_total": 173,
     "bgm_weekday_id": 6
   },
   {
@@ -347,7 +332,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 204,
+    "bgm_rating_total": 214,
     "bgm_weekday_id": 7
   },
   {
@@ -362,7 +347,7 @@
     "link": null,
     "bgm_id": "630160",
     "bgm_score": 6.3,
-    "bgm_rating_total": 184,
+    "bgm_rating_total": 201,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
@@ -384,10 +369,32 @@
     "link": null,
     "bgm_id": "621108",
     "bgm_score": 6.2,
-    "bgm_rating_total": 46,
+    "bgm_rating_total": 56,
     "bgm_weekday_id": 5,
     "tmdb_id": "320909",
     "tmdb_site_id": "tv/320909",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "335194",
+    "type": "tmdb",
+    "title": "魔法★探险家",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7V70UHOfMRef1vlsNX396MJQMmT.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "传说级美少女游戏《魔法★探险家》。我转生成为凭借作弊能力被众多女角簇拥的主角——身边负责陪笑的不幸好友角色泷音幸助……！在原作游戏中毫不起眼，得不到回报，一直到最后都只是个配角。但我可是拥有将这款游戏彻底玩透的前世的知识！！而且，这个好友角色还有着“世界顶尖的魔力量”这个隐藏设定，甚至具备超越主角的潜力……？为了让在这个世界邂逅的憧憬女角们迎来幸福结局，身为好友角色的幸助将在这个世界展开奋斗！",
+    "link": null,
+    "bgm_id": "456078",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 143,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "335194",
+    "tmdb_site_id": "tv/335194",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -401,12 +408,12 @@
     "posterPath": "https://image.tmdb.org/t/p/w500/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "3.0",
+    "rating": "7.8",
     "description": "在被称为“宇宙最危险城镇”的鬼城岛，当地黑帮普遍使用基因兴奋剂来获取终极力量。少女平良静接下了最危险的刺杀任务，但动手的并不是她，而是她的哥哥凪——一名曾为保护妹妹中弹的顶尖杀手，如今陷入昏迷，只能依靠轮椅行动。然而，平良静发现了唤醒哥哥的方法：他必须直面杀意！于是妹妹平良静开始带着哥哥与强敌们进行“康复训练”。",
     "link": null,
     "bgm_id": "636023",
     "bgm_score": 6.2,
-    "bgm_rating_total": 131,
+    "bgm_rating_total": 138,
     "bgm_weekday_id": 7,
     "tmdb_id": "320377",
     "tmdb_site_id": "tv/320377",
