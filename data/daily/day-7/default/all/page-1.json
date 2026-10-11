@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 104,
+    "bgm_rating_total": 106,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -33,7 +33,7 @@
     "link": "http://bgm.tv/subject/548156",
     "bgm_id": "548156",
     "bgm_score": 6.4,
-    "bgm_rating_total": 201,
+    "bgm_rating_total": 204,
     "bgm_weekday_id": 7
   },
   {
@@ -63,7 +63,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.1,
-    "bgm_rating_total": 95,
+    "bgm_rating_total": 98,
     "bgm_weekday_id": 7
   },
   {
@@ -180,8 +180,8 @@
     "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——驱使恶魔之力的美丽暗黑召唤师·阿莫娜。圣洁与邪恶，人类与亚人。本以为这两人会水火不容、势同水火，却在入队的第一天早晨，就发生了关系……！？揣着这个不可告人的秘密，他们与性格各异的队友们，以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！背德与心动相互交织。亚人少女×神官少年，奇幻欢喜冤家恋爱喜剧，正式开幕！",
     "link": null,
     "bgm_id": "630160",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 177,
+    "bgm_score": 6.3,
+    "bgm_rating_total": 184,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
@@ -255,7 +255,7 @@
     "link": null,
     "bgm_id": "636023",
     "bgm_score": 6.2,
-    "bgm_rating_total": 127,
+    "bgm_rating_total": 131,
     "bgm_weekday_id": 7,
     "tmdb_id": "320377",
     "tmdb_site_id": "tv/320377",
@@ -351,7 +351,7 @@
     "link": "http://bgm.tv/subject/656083",
     "bgm_id": "656083",
     "bgm_score": 5.4,
-    "bgm_rating_total": 139,
+    "bgm_rating_total": 141,
     "bgm_weekday_id": 7
   },
   {
@@ -413,12 +413,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "6.6",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/688797",
     "bgm_id": "688797",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.6,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 7
   },
   {
