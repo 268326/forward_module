@@ -52,6 +52,41 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "60761/season/4/episode/14",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "664395",
+    "bgm_score": 4.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "60761/season/4/episode/14",
+    "tmdb_site_id": "tv/60761/season/4/episode/14",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "705980",
     "type": "link",
     "title": "熊出没之神奇宝物 第二季",
@@ -65,21 +100,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "700678",
-    "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "204084",
@@ -124,26 +144,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "60761/season/4/episode/14",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "664395",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "60761/season/4/episode/14",
-    "tmdb_site_id": "tv/60761/season/4/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "337456",

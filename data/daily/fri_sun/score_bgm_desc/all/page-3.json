@@ -1,27 +1,5 @@
 [
   {
-    "id": "303060",
-    "type": "tmdb",
-    "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　一个平凡的研究生，转生成了乙女游戏里的路人恶役千金——皮娅。\n\n　　在游戏的高潮部分，等待她的是毕业舞会上的“定罪事件”——在那里，她将被当众宣布婚约破裂并流放国外，这就是皮娅的命运！\n\n　　“与其被心爱的人讨厌……”\n\n　　彻底失去勇气的皮娅，向宰相之子路法斯提出解除婚约。然而这反而点燃了路法斯的自尊心。\n\n　　“要不要赌一把——看我是不是真的会解除婚约？”\n\n　　路法斯一个接一个地摧毁挡在皮娅面前的“流放FLAG”！？\n\n　　最弱恶役千金 × 最强未婚夫的“命运赌局”，最终将迎来怎样的结局——？",
-    "link": null,
-    "bgm_id": "596771",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 52,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "303060",
-    "tmdb_site_id": "tv/303060",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "698032",
     "type": "link",
     "title": "マウスカーソルで 現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
@@ -33,8 +11,30 @@
     "link": "http://bgm.tv/subject/698032",
     "bgm_id": "698032",
     "bgm_score": 4.6,
-    "bgm_rating_total": 21,
+    "bgm_rating_total": 23,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "307903",
+    "type": "tmdb",
+    "title": "恐怖收集者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/mnhGQ2mfwSYS4xuAljOIwBaLyXK.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
+    "bgm_id": "613256",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 36,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "336654",
@@ -48,7 +48,7 @@
     "link": null,
     "bgm_id": "647220",
     "bgm_score": 4.4,
-    "bgm_rating_total": 108,
+    "bgm_rating_total": 114,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -90,7 +90,7 @@
     "link": null,
     "bgm_id": "606716",
     "bgm_score": 3.9,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 111,
     "bgm_weekday_id": 6,
     "tmdb_id": "333622",
     "tmdb_site_id": "tv/333622",
