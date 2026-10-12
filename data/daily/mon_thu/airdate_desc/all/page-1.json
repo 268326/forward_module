@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/db/94/513878_54i56.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 43,
+    "bgm_score": 7.3,
+    "bgm_rating_total": 44,
     "bgm_weekday_id": 2
   },
   {
@@ -129,24 +129,22 @@
   {
     "id": "302020",
     "type": "tmdb",
-    "title": "铁旅！邂逅铁道少女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
+    "title": "铁旅！meet with 铁道少女",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "tv",
     "rating": "6.0",
-    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
+    "description": "[星期四]",
     "link": null,
     "bgm_id": "590553",
     "bgm_score": 6.0,
-    "bgm_rating_total": 125,
+    "bgm_rating_total": 133,
     "bgm_weekday_id": 4,
     "tmdb_id": "302020",
     "tmdb_site_id": "tv/302020",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "654294",
@@ -160,7 +158,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.2,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 4
   },
   {
@@ -175,7 +173,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.6,
-    "bgm_rating_total": 99,
+    "bgm_rating_total": 101,
     "bgm_weekday_id": 3
   },
   {
@@ -190,7 +188,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 126,
+    "bgm_rating_total": 127,
     "bgm_weekday_id": 3
   },
   {
@@ -200,12 +198,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.7",
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 20,
+    "bgm_score": 5.7,
+    "bgm_rating_total": 21,
     "bgm_weekday_id": 3
   },
   {
@@ -220,7 +218,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 93,
+    "bgm_rating_total": 95,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -240,7 +238,7 @@
     "link": null,
     "bgm_id": "502123",
     "bgm_score": 6.3,
-    "bgm_rating_total": 37,
+    "bgm_rating_total": 39,
     "bgm_weekday_id": 3,
     "tmdb_id": "34158",
     "tmdb_site_id": "tv/34158",
@@ -260,7 +258,7 @@
     "link": null,
     "bgm_id": "646154",
     "bgm_score": 6.2,
-    "bgm_rating_total": 133,
+    "bgm_rating_total": 142,
     "bgm_weekday_id": 3,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
@@ -282,7 +280,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.3,
-    "bgm_rating_total": 84,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -341,7 +339,7 @@
     "link": null,
     "bgm_id": "593565",
     "bgm_score": 5.9,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 2,
     "tmdb_id": "327765",
     "tmdb_site_id": "tv/327765",
@@ -354,24 +352,22 @@
   {
     "id": "312850",
     "type": "tmdb",
-    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c6/8d/624085_5dXDL.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "6.5",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "rating": "6.7",
+    "description": "[星期二]",
     "link": null,
     "bgm_id": "624085",
     "bgm_score": 6.7,
-    "bgm_rating_total": 306,
+    "bgm_rating_total": 315,
     "bgm_weekday_id": 2,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "313346",
@@ -385,7 +381,7 @@
     "link": null,
     "bgm_id": "625799",
     "bgm_score": 7.0,
-    "bgm_rating_total": 434,
+    "bgm_rating_total": 444,
     "bgm_weekday_id": 2,
     "tmdb_id": "313346",
     "tmdb_site_id": "tv/313346",
@@ -399,23 +395,21 @@
     "id": "316891",
     "type": "tmdb",
     "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9BmkXWYIOkNTgvI6RS83QbLkElh.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
+    "rating": "5.5",
+    "description": "[星期二]",
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.5,
-    "bgm_rating_total": 151,
+    "bgm_rating_total": 152,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "709326",

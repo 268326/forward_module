@@ -3,19 +3,17 @@
     "id": "311842",
     "type": "tmdb",
     "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "“这个是，一名美少女开始接触FX的故事……”大学生福贺久留美终于迎来了梦寐以求的FX（外汇保证金交易）出道，她的目标是夺回过世母亲因为FX赔掉的2000万日圆。“区区2000万，看我轻松把它赚回来！”发下豪语的她，一头栽进了这个随时从天堂跌入地狱的世界。未实现亏损、强制平仓、不能平复的心情……即便如此，她还是想要买进、想要卖出、想要赚钱！萌智子、芽吹、安子——加上这群性格超独特的FX战士们，市场行情变得愈发白热化！ 随着图表起伏一喜一忧、可爱又有点危险（！？）的金钱游戏就此踏入，无法回头！久留美等人究竟能不能在这疯狂的世界中存活下来呢！？",
+    "rating": "7.0",
+    "description": "12话 /  2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
     "link": null,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "283938",
@@ -24,7 +22,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "7.5",
+    "rating": "7.4",
     "description": "12话 /  2026年10月3日 / 龍輪直征 / むちまろ（講談社「週刊少年マガジン」連載） / 今村亮",
     "link": null,
     "tmdb_id": "283938",
@@ -66,17 +64,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "513878",
-    "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
-  },
-  {
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
@@ -113,6 +100,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_54i56.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "312949",
     "type": "tmdb",
     "title": "尼古喵喵",
@@ -129,33 +127,36 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "665390",
-    "type": "link",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": "https://bgm.tv/subject/665390"
-  },
-  {
     "id": "312850",
     "type": "tmdb",
-    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/624085_5dXDL.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "6.5",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
+    "rating": "6.7",
+    "description": "25话 /  2026年10月6日 / 中西基樹 / 南野海風「凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録」（HJ文庫／ホビージャパン） / 土佐岡加奈、伊藤優希",
     "link": null,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "283428/season/1/episode/15",
+    "type": "tmdb",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428/season/1/episode/15",
+    "tmdb_site_id": "tv/283428/season/1/episode/15",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "94664",
@@ -177,19 +178,44 @@
     "id": "335790",
     "type": "tmdb",
     "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://image.tmdb.org/t/p/w500/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "9.0",
-    "description": "死脑筋又一本正经的神官·罗尼所在的队伍里，新加入了一名成员——驱使恶魔之力的美丽暗黑召唤师·阿莫娜。圣洁与邪恶，人类与亚人。本以为这两人会水火不容、势同水火，却在入队的第一天早晨，就发生了关系……！？揣着这个不可告人的秘密，他们与性格各异的队友们，以及召唤出来的恶魔小恶魔（Imp）们一同踏上了旅途！背德与心动相互交织。亚人少女×神官少年，奇幻欢喜冤家恋爱喜剧，正式开幕！",
+    "rating": "6.3",
+    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王（KADOKAWA「ドラドラしゃーぷ#」連載） / 佐々木貴宏",
     "link": null,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
+    "link": "https://bgm.tv/subject/637802"
+  },
+  {
+    "id": "207347/season/1/episode/26",
+    "type": "tmdb",
+    "title": "青之箱 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "link": null,
+    "tmdb_id": "207347/season/1/episode/26",
+    "tmdb_site_id": "tv/207347/season/1/episode/26",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942/season/1/episode/78",
@@ -208,37 +234,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
-  },
-  {
-    "id": "548156",
-    "type": "link",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
-    "link": "https://bgm.tv/subject/548156"
-  },
-  {
-    "id": "616808",
-    "type": "link",
+    "id": "280042/season/1/episode/13",
+    "type": "tmdb",
     "title": "野生的大魔王出现了！第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "6.4",
     "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
-    "link": "https://bgm.tv/subject/616808"
+    "link": null,
+    "tmdb_id": "280042/season/1/episode/13",
+    "tmdb_site_id": "tv/280042/season/1/episode/13",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "117120",
@@ -252,22 +261,6 @@
     "link": null,
     "tmdb_id": "117120",
     "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "288971",
-    "type": "tmdb",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
-    "link": null,
-    "tmdb_id": "288971",
-    "tmdb_site_id": "tv/288971",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -291,17 +284,65 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "288971",
+    "type": "tmdb",
+    "title": "穹庐下的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+    "link": null,
+    "tmdb_id": "288971",
+    "tmdb_site_id": "tv/288971",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "302020",
     "type": "tmdb",
-    "title": "铁旅！邂逅铁道少女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
+    "title": "铁旅！meet with 铁道少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "tv",
     "rating": "6.0",
-    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
+    "description": "12话 /  2026年10月8日 / 星野美鈴 / トミーテック / 橋本尚典",
     "link": null,
     "tmdb_id": "302020",
     "tmdb_site_id": "tv/302020",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "317259",
+    "type": "tmdb",
+    "title": "至高之力",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
+    "link": null,
+    "tmdb_id": "317259",
+    "tmdb_site_id": "tv/317259",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "337408",
+    "type": "tmdb",
+    "title": "不擅交际的未亡人雪女与诅咒戒指",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pyrsMpfHJLggLVx92JF7MIEPYDI.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "为了继承突然逝去的父亲的遗产而在数月前到来的，位于幽静的住宅街的妖怪专用出租公寓。那里有一位丈夫去世，非常之梦幻而美丽的未亡人雪女雪乃小姐。然后在父亲留下的房间里有着个本不应在那里的，可随心所欲地控制妖怪的戒指。本是想要帮助改善陷入困难的雪乃小姐的生活可是却跟随了内心的欲望，事态开始走向未曾设想的方向……",
+    "link": null,
+    "tmdb_id": "337408",
+    "tmdb_site_id": "tv/337408",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -309,20 +350,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "79166",
+    "id": "321518",
     "type": "tmdb",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
+    "title": "世界最强魔女，就此开始",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "rating": "7.3",
+    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。然而那项技能的真面目，居然是能够浏览这个世界的“攻略网站”的SSS级作弊技能“互联网”！为了追求自由和平的生活而踏上旅程的“世界最强的魔女”罗娜，她那无厘头的冒险日常，终于动画化！",
     "link": null,
-    "tmdb_id": "79166",
-    "tmdb_site_id": "tv/79166/season/3",
-    "tmdb_season_number": 3,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_id": "321518",
+    "tmdb_site_id": "tv/321518",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "287028",
@@ -339,39 +382,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "286345",
-    "type": "tmdb",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": null,
-    "tmdb_id": "286345",
-    "tmdb_site_id": "tv/286345",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "317259",
-    "type": "tmdb",
-    "title": "至高之力",
-    "posterPath": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "住在冲绳北部的初中生东道明，与姐姐晴香、经营咖啡馆的母亲三人过着平静的日常生活。然而，这个家庭却隐藏着一个秘密。晴香继承了父亲被称为“引擎”的力量，一直隐瞒着这份能力生活。另一方面，明并未继承父亲的力量，对自身的弱小心怀自卑。就在此时，世界各地接连发生异变。逼近明他们身边的身份不明的敌人，其目的究竟是什么——\n\n肩负着宇宙命运的少年少女之战，此刻拉开序幕。",
-    "link": null,
-    "tmdb_id": "317259",
-    "tmdb_site_id": "tv/317259",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]

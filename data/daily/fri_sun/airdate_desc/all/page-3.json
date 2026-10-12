@@ -1,5 +1,25 @@
 [
   {
+    "id": "324326",
+    "type": "tmdb",
+    "title": "七叶树王国的七名骑士",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "657084",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 44,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "324326",
+    "tmdb_site_id": "tv/324326",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "694622",
     "type": "link",
     "title": "ねずみくんのチョッキ 第2期",
@@ -48,7 +68,7 @@
     "link": "http://bgm.tv/subject/702192",
     "bgm_id": "702192",
     "bgm_score": 5.6,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 6
   },
   {
@@ -93,7 +113,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 388,
+    "bgm_rating_total": 400,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -128,7 +148,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.1,
-    "bgm_rating_total": 88,
+    "bgm_rating_total": 93,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",

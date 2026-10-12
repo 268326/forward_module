@@ -22,28 +22,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "302020",
-    "type": "tmdb",
-    "title": "铁旅！邂逅铁道少女",
-    "posterPath": "https://image.tmdb.org/t/p/w500/ep7YyHdPtRwQgsB8v8S7lFIGPrC.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "想要跳出日常，去某个地方旅行。这样的念头曾多次浮现。在不知未来想成为什么的日子里，仍渴望着哪一天能找到令自己沉迷的事物。\n\n在崭新日子启程的欢腾校园里，向美咲伸出手的，是铁路旅行同好会（通称：铁旅会）的成员们。通过铁轨延伸的世界，让美咲的心开始怦然跳动！",
-    "link": null,
-    "bgm_id": "590553",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 125,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "302020",
-    "tmdb_site_id": "tv/302020",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "321518",
     "type": "tmdb",
     "title": "世界最强魔女，就此开始",
@@ -55,7 +33,7 @@
     "link": null,
     "bgm_id": "646154",
     "bgm_score": 6.2,
-    "bgm_rating_total": 133,
+    "bgm_rating_total": 142,
     "bgm_weekday_id": 3,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
@@ -77,7 +55,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.3,
-    "bgm_rating_total": 84,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -121,32 +99,10 @@
     "link": null,
     "bgm_id": "593565",
     "bgm_score": 5.9,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 2,
     "tmdb_id": "327765",
     "tmdb_site_id": "tv/327765",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "312850",
-    "type": "tmdb",
-    "title": "乱世千金倪亚·利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://image.tmdb.org/t/p/w500/b3G09ehxxquTWvBfc3qnlOjlB6m.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "拥有最强前世的转生千金，第二人生也要大闹天下！！“既然人难免一死，我宁可死在战斗中。”过去曾有个达成弑神伟业的大英雄。强大过头的她在临死之际，仍梦想着能遇见杀得了自己的强大对手──想不到在死亡的另一端等待着她的，竟是转生成为娇弱贵族千金的崭新人生！？她在未来的世界成为有着美丽容貌，身体却过于孱弱的千金小姐倪亚·利斯顿，获得第二人生后，仍追求与强者的邂逅，愉悦地投身于接连不断的战场之中!“啊哈哈！还愣着干什么呢！再不快点摆好架式，可就只能任我蹂躏了！”由美如天使的乱世千金主演的最强无双传说，在此揭开序幕！！",
-    "link": null,
-    "bgm_id": "624085",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 306,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "312850",
-    "tmdb_site_id": "tv/312850",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -165,32 +121,10 @@
     "link": null,
     "bgm_id": "625799",
     "bgm_score": 7.0,
-    "bgm_rating_total": 434,
+    "bgm_rating_total": 444,
     "bgm_weekday_id": 2,
     "tmdb_id": "313346",
     "tmdb_site_id": "tv/313346",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "316891",
-    "type": "tmdb",
-    "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9BmkXWYIOkNTgvI6RS83QbLkElh.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
-    "link": null,
-    "bgm_id": "634708",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 151,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "316891",
-    "tmdb_site_id": "tv/316891",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -209,32 +143,10 @@
     "link": null,
     "bgm_id": "418229",
     "bgm_score": 6.4,
-    "bgm_rating_total": 78,
+    "bgm_rating_total": 81,
     "bgm_weekday_id": 1,
     "tmdb_id": "337277",
     "tmdb_site_id": "tv/337277",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "305313",
-    "type": "tmdb",
-    "title": "罗梅莉亚战记",
-    "posterPath": "https://image.tmdb.org/t/p/w500/47NrmoMEaZ2noGQeYgkU6crWora.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "9.5",
-    "description": "“罗梅，不，罗梅莉亚伯爵千金。我和你已经没法再继续下去了，我要解除跟你的婚约，一回国便分手吧。”当亨利王子夙愿以偿打倒了魔王塞尔吉斯，喜悦未平的时候，他突然这么跟我说道。但王子他们不知道。我拥有名为“恩宠”的奇迹之力……这是在打倒魔王后被王子当场宣布退婚的女主角罗梅莉亚，开启了“战后”重建新世界的传奇故事。",
-    "link": null,
-    "bgm_id": "511936",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 162,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "305313",
-    "tmdb_site_id": "tv/305313",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -274,8 +186,8 @@
     "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
     "link": null,
     "bgm_id": "624923",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 159,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 163,
     "bgm_weekday_id": 1,
     "tmdb_id": "313068",
     "tmdb_site_id": "tv/313068",
@@ -301,50 +213,6 @@
     "bgm_weekday_id": 1,
     "tmdb_id": "337456",
     "tmdb_site_id": "tv/337456",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "285710",
-    "type": "tmdb",
-    "title": "幻想水浒传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "“曾以为只要拥有那份力量，就能守护一切。”隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。",
-    "link": null,
-    "bgm_id": "541538",
-    "bgm_score": 5.4,
-    "bgm_rating_total": 47,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "285710",
-    "tmdb_site_id": "tv/285710",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "311842",
-    "type": "tmdb",
-    "title": "FX战士久留美",
-    "posterPath": "https://image.tmdb.org/t/p/w500/fm6Mzk8e1sGvuOasuCtWhdKl7xx.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "“这个是，一名美少女开始接触FX的故事……”大学生福贺久留美终于迎来了梦寐以求的FX（外汇保证金交易）出道，她的目标是夺回过世母亲因为FX赔掉的2000万日圆。“区区2000万，看我轻松把它赚回来！”发下豪语的她，一头栽进了这个随时从天堂跌入地狱的世界。未实现亏损、强制平仓、不能平复的心情……即便如此，她还是想要买进、想要卖出、想要赚钱！萌智子、芽吹、安子——加上这群性格超独特的FX战士们，市场行情变得愈发白热化！ 随着图表起伏一喜一忧、可爱又有点危险（！？）的金钱游戏就此踏入，无法回头！久留美等人究竟能不能在这疯狂的世界中存活下来呢！？",
-    "link": null,
-    "bgm_id": "622288",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1393,
-    "bgm_weekday_id": 4,
-    "tmdb_id": "311842",
-    "tmdb_site_id": "tv/311842",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"

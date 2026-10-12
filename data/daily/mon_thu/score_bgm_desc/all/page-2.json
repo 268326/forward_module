@@ -3,33 +3,31 @@
     "id": "316891",
     "type": "tmdb",
     "title": "冷淡的佐藤同学只对我撒娇",
-    "posterPath": "https://image.tmdb.org/t/p/w500/9BmkXWYIOkNTgvI6RS83QbLkElh.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/84/634708_NnWAS.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "班上的高岭之花——佐藤小春。从不向任何人展露笑容，绰号“冷淡的佐藤同学”。然而某天，同班的押尾颯太在自家经营的咖啡厅里看到的佐藤同学，竟是……为了拍摄甜品照片而拼尽全力、毫无防备的模样！？其实只是害羞又笨拙的佐藤同学，以及喜欢着这样的佐藤同学的押尾君。两人的距离，以甜品和相机为契机，一点点地拉近。令人焦心，又令人心生怜爱。世界上最甜的“双向暗恋”，你一定会为之融化。笨拙的两人交织出的“又甜又咸”青春恋爱喜剧！",
+    "rating": "5.5",
+    "description": "[星期二]",
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.5,
-    "bgm_rating_total": 151,
+    "bgm_rating_total": 152,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "285710",
     "type": "tmdb",
     "title": "幻想水浒传",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gP4Pm8UnD4QjN1R5ZR1f3jaSkAe.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/12/541538_LxzAg.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "“曾以为只要拥有那份力量，就能守护一切。”隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。",
+    "rating": "5.4",
+    "description": "[星期二]",
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 5.4,
@@ -38,10 +36,8 @@
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "323937",
@@ -55,7 +51,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.3,
-    "bgm_rating_total": 84,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -77,7 +73,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.2,
-    "bgm_rating_total": 68,
+    "bgm_rating_total": 71,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -97,7 +93,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.2,
-    "bgm_rating_total": 41,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 4
   },
   {
