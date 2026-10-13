@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
     "releaseDate": "2026-10-30",
     "mediaType": "anime",
-    "rating": "7.7",
+    "rating": "7.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
+    "bgm_score": 7.5,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
@@ -41,28 +41,13 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 401,
+    "bgm_rating_total": 402,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "700678",
-    "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 5
   },
   {
     "id": "538631",
@@ -77,6 +62,21 @@
     "bgm_id": "538631",
     "bgm_score": 6.8,
     "bgm_rating_total": 5,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
   {
