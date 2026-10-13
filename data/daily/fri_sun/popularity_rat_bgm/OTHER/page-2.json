@@ -15,6 +15,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -30,17 +45,17 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "538631",
+    "id": "700678",
     "type": "link",
-    "title": "降世神通：七个避风港 第一季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "7.2",
     "description": "[星期五]",
-    "link": "http://bgm.tv/subject/538631",
-    "bgm_id": "538631",
-    "bgm_score": 6.8,
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 5
   },
@@ -71,21 +86,6 @@
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
     "bgm_score": 7.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "700678",
-    "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
-    "bgm_score": 6.8,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
   },
