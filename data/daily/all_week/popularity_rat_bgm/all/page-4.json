@@ -1,18 +1,18 @@
 [
   {
-    "id": "700678",
+    "id": "688797",
     "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
+    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "7.2",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
-    "bgm_score": 7.2,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 5
+    "rating": "6.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/688797",
+    "bgm_id": "688797",
+    "bgm_score": 6.3,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
   },
   {
     "id": "638081",
@@ -139,26 +139,19 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "337456",
-    "type": "tmdb",
-    "title": "ゆうさんち！from 遊ハち",
-    "posterPath": "https://image.tmdb.org/t/p/w500/hrtFhQtCZiwmFhpN6pze0B5vqwW.jpg",
+    "id": "688204",
+    "type": "link",
+    "title": "欢迎光临游之家！from Yu-hachi",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
     "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "0.0",
+    "mediaType": "anime",
+    "rating": "4.0",
     "description": "[星期一]",
-    "link": null,
+    "link": "http://bgm.tv/subject/688204",
     "bgm_id": "688204",
     "bgm_score": 4.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "337456",
-    "tmdb_site_id": "tv/337456",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "bgm_weekday_id": 1
   },
   {
     "id": "708080",
@@ -174,21 +167,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "573707",
-    "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 3
   },
   {
     "id": "632061",
@@ -331,6 +309,21 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2
+  },
+  {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
   },
   {
     "id": "665014",

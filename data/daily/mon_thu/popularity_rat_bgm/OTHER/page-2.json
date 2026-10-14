@@ -1,18 +1,18 @@
 [
   {
-    "id": "573707",
+    "id": "708080",
     "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
+    "title": "Family Guy: Happy Hell-O-Ween",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/42/85/708080_kx2E6.jpg",
+    "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 5.0,
+    "rating": "6.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/708080",
+    "bgm_id": "708080",
+    "bgm_score": 6.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 1
   },
   {
     "id": "498559",
@@ -58,6 +58,21 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2
+  },
+  {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
   },
   {
     "id": "665014",
