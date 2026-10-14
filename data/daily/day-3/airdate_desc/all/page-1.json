@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.5,
-    "bgm_rating_total": 105,
+    "bgm_rating_total": 107,
     "bgm_weekday_id": 3
   },
   {
@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 135,
+    "bgm_rating_total": 136,
     "bgm_weekday_id": 3
   },
   {
@@ -185,7 +185,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14844,
+    "bgm_rating_total": 14847,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",

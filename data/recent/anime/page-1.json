@@ -64,24 +64,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "284580",
-    "type": "tmdb",
-    "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
-    "link": null,
-    "tmdb_id": "284580",
-    "tmdb_site_id": "tv/284580",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "313346",
     "type": "tmdb",
     "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
@@ -93,6 +75,24 @@
     "link": null,
     "tmdb_id": "313346",
     "tmdb_site_id": "tv/313346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "284580",
+    "type": "tmdb",
+    "title": "某暗部的少女共栖",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力（Level 0）”到“超能力（Level 5）”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。\n\n　　“道具（Item）”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者（Level 5）”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……\n\n　　这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
+    "link": null,
+    "tmdb_id": "284580",
+    "tmdb_site_id": "tv/284580",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -127,22 +127,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "312949",
-    "type": "tmdb",
-    "title": "尼古喵喵",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "12话 /  2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
-    "link": null,
-    "tmdb_id": "312949",
-    "tmdb_site_id": "tv/312949",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283428/season/1/episode/15",
     "type": "tmdb",
     "title": "冰之城墙 第二季",
@@ -170,6 +154,22 @@
     "link": null,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312949",
+    "type": "tmdb",
+    "title": "尼古喵喵",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "12话 /  2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+    "link": null,
+    "tmdb_id": "312949",
+    "tmdb_site_id": "tv/312949",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -284,22 +284,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "321518",
     "type": "tmdb",
     "title": "世界最强魔女，就此开始",
@@ -318,17 +302,49 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "288971",
+    "id": "117120",
     "type": "tmdb",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "releaseDate": "2026-07-04",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
     "link": null,
-    "tmdb_id": "288971",
-    "tmdb_site_id": "tv/288971",
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305313",
+    "type": "tmdb",
+    "title": "罗梅莉亚战记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
+    "link": null,
+    "tmdb_id": "305313",
+    "tmdb_site_id": "tv/305313",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "317259",
+    "type": "tmdb",
+    "title": "至高之力",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
+    "link": null,
+    "tmdb_id": "317259",
+    "tmdb_site_id": "tv/317259",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -350,22 +366,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "317259",
-    "type": "tmdb",
-    "title": "至高之力",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
-    "link": null,
-    "tmdb_id": "317259",
-    "tmdb_site_id": "tv/317259",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "412008",

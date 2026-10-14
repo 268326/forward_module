@@ -1,5 +1,20 @@
 [
   {
+    "id": "499474",
+    "type": "link",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/499474",
+    "bgm_id": "499474",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 38,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "283692",
     "type": "tmdb",
     "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
@@ -11,7 +26,7 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 130,
+    "bgm_rating_total": 132,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -66,7 +81,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 5.6,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 5
   },
   {
@@ -81,7 +96,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.6,
-    "bgm_rating_total": 169,
+    "bgm_rating_total": 170,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -275,21 +290,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/708612",
     "bgm_id": "708612",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

@@ -1,5 +1,49 @@
 [
   {
+    "id": "320377",
+    "type": "tmdb",
+    "title": "战车椅子",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "7.8",
+    "description": "在被称为“宇宙最危险城镇”的鬼城岛，当地黑帮普遍使用基因兴奋剂来获取终极力量。少女平良静接下了最危险的刺杀任务，但动手的并不是她，而是她的哥哥凪——一名曾为保护妹妹中弹的顶尖杀手，如今陷入昏迷，只能依靠轮椅行动。然而，平良静发现了唤醒哥哥的方法：他必须直面杀意！于是妹妹平良静开始带着哥哥与强敌们进行“康复训练”。",
+    "link": null,
+    "bgm_id": "636023",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 163,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "320377",
+    "tmdb_site_id": "tv/320377",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "324502",
+    "type": "tmdb",
+    "title": "装备我最强",
+    "posterPath": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "　　全世界有20亿人游玩的超人气VR游戏《SATISFY》。\n\n　　在这个游戏内获得的财富与名声也会影响现实世界的背景下，\n\n　　长岭巧以玩家名“贪婪”为名，目标是摆脱平淡无奇的日常，实现人生逆袭。\n\n　　某天，贪婪在完成一项超高难度任务后，\n\n　　获得了传说级道具，并转职成为传说中的锻造工匠“法格玛的后裔”。\n\n　　虽然等级归零、装备几乎等于全裸，一切要从头开始——但……\n\n　　“既然打不到强力的装备，那就自己造！”\n\n　　贪婪既贪婪又工于算计，却也有着古怪的毅力和重情义的一面。\n\n　　他凭借制作装备的力量，开始剧烈撼动《SATISFY》的世界。\n\n　　一无所有者创造传说，\n\n　　逆袭成王幻想剧，开幕！",
+    "link": null,
+    "bgm_id": "657656",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 97,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "324502",
+    "tmdb_site_id": "tv/324502",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "698981",
     "type": "link",
     "title": "探险时光：支线任务 第二季",
@@ -63,7 +107,7 @@
     "link": null,
     "bgm_id": "636512",
     "bgm_score": 6.0,
-    "bgm_rating_total": 201,
+    "bgm_rating_total": 202,
     "bgm_weekday_id": 6,
     "tmdb_id": "317259",
     "tmdb_site_id": "tv/317259",
@@ -85,26 +129,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "60761/season/4/episode/14",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "664395",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "60761/season/4/episode/14",
-    "tmdb_site_id": "tv/60761/season/4/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "499474",
@@ -133,7 +157,7 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 130,
+    "bgm_rating_total": 132,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -232,7 +256,7 @@
     "link": "http://bgm.tv/subject/617948",
     "bgm_id": "617948",
     "bgm_score": 5.6,
-    "bgm_rating_total": 23,
+    "bgm_rating_total": 24,
     "bgm_weekday_id": 5
   },
   {
@@ -247,7 +271,7 @@
     "link": null,
     "bgm_id": "542007",
     "bgm_score": 5.6,
-    "bgm_rating_total": 108,
+    "bgm_rating_total": 109,
     "bgm_weekday_id": 6,
     "tmdb_id": "285899",
     "tmdb_site_id": "tv/285899",
@@ -269,7 +293,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.6,
-    "bgm_rating_total": 169,
+    "bgm_rating_total": 170,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -324,7 +348,7 @@
     "link": null,
     "bgm_id": "621073",
     "bgm_score": 5.5,
-    "bgm_rating_total": 52,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 7,
     "tmdb_id": "288588",
     "tmdb_site_id": "tv/288588",
@@ -405,7 +429,7 @@
     "link": null,
     "bgm_id": "656083",
     "bgm_score": 5.3,
-    "bgm_rating_total": 168,
+    "bgm_rating_total": 170,
     "bgm_weekday_id": 7,
     "tmdb_id": "337408",
     "tmdb_site_id": "tv/337408",
@@ -429,27 +453,5 @@
     "bgm_score": 5.2,
     "bgm_rating_total": 38,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "303060",
-    "type": "tmdb",
-    "title": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
-    "posterPath": "https://image.tmdb.org/t/p/w500/kiTkyPRsOxfS8YiIGUGlRdviaHl.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "　　一个平凡的研究生，转生成了乙女游戏里的路人恶役千金——皮娅。\n\n　　在游戏的高潮部分，等待她的是毕业舞会上的“定罪事件”——在那里，她将被当众宣布婚约破裂并流放国外，这就是皮娅的命运！\n\n　　“与其被心爱的人讨厌……”\n\n　　彻底失去勇气的皮娅，向宰相之子路法斯提出解除婚约。然而这反而点燃了路法斯的自尊心。\n\n　　“要不要赌一把——看我是不是真的会解除婚约？”\n\n　　路法斯一个接一个地摧毁挡在皮娅面前的“流放FLAG”！？\n\n　　最弱恶役千金 × 最强未婚夫的“命运赌局”，最终将迎来怎样的结局——？",
-    "link": null,
-    "bgm_id": "596771",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 58,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "303060",
-    "tmdb_site_id": "tv/303060",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   }
 ]
