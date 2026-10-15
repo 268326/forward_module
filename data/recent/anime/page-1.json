@@ -127,22 +127,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "283428/season/1/episode/15",
-    "type": "tmdb",
-    "title": "冰之城墙 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
-    "link": null,
-    "tmdb_id": "283428/season/1/episode/15",
-    "tmdb_site_id": "tv/283428/season/1/episode/15",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "335790",
     "type": "tmdb",
     "title": "黑暗召唤师在地下恋爱中",
@@ -154,6 +138,22 @@
     "link": null,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "283428/season/1/episode/15",
+    "type": "tmdb",
+    "title": "冰之城墙 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
+    "link": null,
+    "tmdb_id": "283428/season/1/episode/15",
+    "tmdb_site_id": "tv/283428/season/1/episode/15",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -268,22 +268,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "302020",
-    "type": "tmdb",
-    "title": "铁旅！meet with 铁道少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年10月8日 / 星野美鈴 / トミーテック / 橋本尚典",
-    "link": null,
-    "tmdb_id": "302020",
-    "tmdb_site_id": "tv/302020",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "321518",
     "type": "tmdb",
     "title": "世界最强魔女，就此开始",
@@ -302,17 +286,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "117120",
+    "id": "302020",
     "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "铁旅！meet with 铁道少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
+    "releaseDate": "2026-10-08",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "rating": "5.9",
+    "description": "12话 /  2026年10月8日 / 星野美鈴 / トミーテック / 橋本尚典",
     "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
+    "tmdb_id": "302020",
+    "tmdb_site_id": "tv/302020",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -324,7 +308,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "6.4",
+    "rating": "6.5",
     "description": "2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
     "link": null,
     "tmdb_id": "305313",
@@ -332,6 +316,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "584847",
+    "type": "link",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
+    "link": "https://bgm.tv/subject/584847"
   },
   {
     "id": "317259",
