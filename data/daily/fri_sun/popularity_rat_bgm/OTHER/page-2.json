@@ -1,5 +1,20 @@
 [
   {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "538631",
     "type": "link",
     "title": "降世神通：七个避风港 第一季",
@@ -10,21 +25,6 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/538631",
     "bgm_id": "538631",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "700678",
-    "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
     "bgm_score": 6.8,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 5
@@ -95,6 +95,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "712000",
+    "type": "link",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "releaseDate": "2026-10-18",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "632061",
     "type": "link",
     "title": "决斗大师 LOST ～断罪的少年～",
@@ -151,21 +166,6 @@
     "link": "http://bgm.tv/subject/551304",
     "bgm_id": "551304",
     "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 8.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
   },

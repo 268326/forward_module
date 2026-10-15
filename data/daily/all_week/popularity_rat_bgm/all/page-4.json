@@ -80,6 +80,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "712000",
+    "type": "link",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "releaseDate": "2026-10-18",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "705980",
     "type": "link",
     "title": "熊出没之神奇宝物 第二季",
@@ -247,21 +262,6 @@
     "link": "http://bgm.tv/subject/551304",
     "bgm_id": "551304",
     "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 8.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
   },

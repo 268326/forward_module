@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 434,
+    "bgm_rating_total": 441,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 5.1,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 37,
     "bgm_weekday_id": 5
   },
   {
@@ -80,6 +80,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "700678",
+    "type": "link",
+    "title": "闹鬼酒店 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/700678",
+    "bgm_id": "700678",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "538631",
     "type": "link",
     "title": "降世神通：七个避风港 第一季",
@@ -90,21 +105,6 @@
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/538631",
     "bgm_id": "538631",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "700678",
-    "type": "link",
-    "title": "闹鬼酒店 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/700678",
-    "bgm_id": "700678",
     "bgm_score": 6.8,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 5
