@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14865,
+    "bgm_rating_total": 14867,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.5,
-    "bgm_rating_total": 110,
+    "bgm_rating_total": 112,
     "bgm_weekday_id": 3
   },
   {
@@ -46,7 +46,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 147,
+    "bgm_rating_total": 150,
     "bgm_weekday_id": 3
   },
   {
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 26,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 3
   },
   {
@@ -76,7 +76,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 117,
+    "bgm_rating_total": 123,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -160,6 +160,21 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/709475",
     "bgm_id": "709475",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "712926",
+    "type": "link",
+    "title": "都市古医仙2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/712926",
+    "bgm_id": "712926",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

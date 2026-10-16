@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14865,
+    "bgm_rating_total": 14867,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "899",
     "bgm_score": 7.5,
-    "bgm_rating_total": 11630,
+    "bgm_rating_total": 11629,
     "bgm_weekday_id": 6,
     "tmdb_id": "30983",
     "tmdb_site_id": "tv/30983",
@@ -111,7 +111,7 @@
     "link": null,
     "bgm_id": "554779",
     "bgm_score": 7.5,
-    "bgm_rating_total": 1573,
+    "bgm_rating_total": 1606,
     "bgm_weekday_id": 6,
     "tmdb_id": "283938",
     "tmdb_site_id": "tv/283938",
@@ -153,7 +153,7 @@
     "link": null,
     "bgm_id": "567896",
     "bgm_score": 7.5,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 88,
     "bgm_weekday_id": 6,
     "tmdb_id": "73223",
     "tmdb_site_id": "tv/73223/season/2",
@@ -173,7 +173,7 @@
     "link": null,
     "bgm_id": "623249",
     "bgm_score": 7.5,
-    "bgm_rating_total": 40,
+    "bgm_rating_total": 46,
     "bgm_weekday_id": 7,
     "tmdb_id": "312359",
     "tmdb_site_id": "tv/312359",
@@ -195,7 +195,7 @@
     "link": "http://bgm.tv/subject/637802",
     "bgm_id": "637802",
     "bgm_score": 7.4,
-    "bgm_rating_total": 249,
+    "bgm_rating_total": 255,
     "bgm_weekday_id": 6
   },
   {
@@ -210,7 +210,7 @@
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
     "bgm_score": 7.3,
-    "bgm_rating_total": 50,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 2
   },
   {
@@ -225,7 +225,7 @@
     "link": null,
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 409,
+    "bgm_rating_total": 423,
     "bgm_weekday_id": 4,
     "tmdb_id": "283428/season/1/episode/15",
     "tmdb_site_id": "tv/283428/season/1/episode/15",
@@ -245,7 +245,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 443,
+    "bgm_rating_total": 458,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -280,7 +280,7 @@
     "link": "http://bgm.tv/subject/555605",
     "bgm_id": "555605",
     "bgm_score": 7.2,
-    "bgm_rating_total": 120,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 7
   },
   {
@@ -310,7 +310,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 340,
+    "bgm_rating_total": 363,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -347,7 +347,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 6.9,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 1
   },
   {
@@ -362,7 +362,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 6.9,
-    "bgm_rating_total": 1596,
+    "bgm_rating_total": 1633,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -382,35 +382,13 @@
     "link": null,
     "bgm_id": "624085",
     "bgm_score": 6.8,
-    "bgm_rating_total": 433,
+    "bgm_rating_total": 449,
     "bgm_weekday_id": 2,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "313346",
-    "type": "tmdb",
-    "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-    "posterPath": "https://image.tmdb.org/t/p/w500/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "9.5",
-    "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了！！",
-    "link": null,
-    "bgm_id": "625799",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 636,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "313346",
-    "tmdb_site_id": "tv/313346",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "538631",
@@ -426,5 +404,27 @@
     "bgm_score": 6.8,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "313346",
+    "type": "tmdb",
+    "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
+    "posterPath": "https://image.tmdb.org/t/p/w500/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "9.5",
+    "description": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了！！",
+    "link": null,
+    "bgm_id": "625799",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 651,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "313346",
+    "tmdb_site_id": "tv/313346",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   }
 ]

@@ -15,6 +15,26 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "60761/season/4/episode/14",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "664395",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "60761/season/4/episode/14",
+    "tmdb_site_id": "tv/60761/season/4/episode/14",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -28,26 +48,6 @@
     "bgm_score": 7.5,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "60761/season/4/episode/14",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "664395",
-    "bgm_score": 6.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "60761/season/4/episode/14",
-    "tmdb_site_id": "tv/60761/season/4/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "449346",
@@ -297,6 +297,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "712926",
+    "type": "link",
+    "title": "都市古医仙2",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/712926",
+    "bgm_id": "712926",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
@@ -352,21 +367,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/694622",
     "bgm_id": "694622",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "712500",
-    "type": "link",
-    "title": "万圣街 特别篇 古堡的秘密",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
-    "releaseDate": "2026-10-31",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/712500",
-    "bgm_id": "712500",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

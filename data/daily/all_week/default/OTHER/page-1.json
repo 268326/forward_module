@@ -48,7 +48,7 @@
     "link": null,
     "bgm_id": "511936",
     "bgm_score": 6.5,
-    "bgm_rating_total": 218,
+    "bgm_rating_total": 227,
     "bgm_weekday_id": 1,
     "tmdb_id": "305313",
     "tmdb_site_id": "tv/305313",
@@ -68,7 +68,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.2,
-    "bgm_rating_total": 85,
+    "bgm_rating_total": 87,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -103,7 +103,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 6.9,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 1
   },
   {
@@ -148,7 +148,7 @@
     "link": "http://bgm.tv/subject/513878",
     "bgm_id": "513878",
     "bgm_score": 7.3,
-    "bgm_rating_total": 50,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 2
   },
   {
@@ -183,7 +183,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.9,
-    "bgm_rating_total": 207,
+    "bgm_rating_total": 214,
     "bgm_weekday_id": 2
   },
   {
@@ -198,7 +198,7 @@
     "link": null,
     "bgm_id": "624085",
     "bgm_score": 6.8,
-    "bgm_rating_total": 433,
+    "bgm_rating_total": 449,
     "bgm_weekday_id": 2,
     "tmdb_id": "312850",
     "tmdb_site_id": "tv/312850",
@@ -218,7 +218,7 @@
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.4,
-    "bgm_rating_total": 187,
+    "bgm_rating_total": 189,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
@@ -253,7 +253,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14865,
+    "bgm_rating_total": 14867,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -273,7 +273,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.5,
-    "bgm_rating_total": 110,
+    "bgm_rating_total": 112,
     "bgm_weekday_id": 3
   },
   {
@@ -288,7 +288,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 147,
+    "bgm_rating_total": 150,
     "bgm_weekday_id": 3
   },
   {
@@ -303,7 +303,7 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 26,
+    "bgm_rating_total": 28,
     "bgm_weekday_id": 3
   },
   {
@@ -318,7 +318,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 117,
+    "bgm_rating_total": 123,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
