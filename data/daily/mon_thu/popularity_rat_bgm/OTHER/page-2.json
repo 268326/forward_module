@@ -15,19 +15,26 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "498559",
-    "type": "link",
+    "id": "337388",
+    "type": "tmdb",
     "title": "Electro Andes",
-    "posterPath": null,
+    "posterPath": "https://image.tmdb.org/t/p/w500/4h7EHqWsPQLXdg26DxIUowD8YGL.jpg",
     "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期一]",
-    "link": "http://bgm.tv/subject/498559",
+    "link": null,
     "bgm_id": "498559",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
+    "bgm_weekday_id": 1,
+    "tmdb_id": "337388",
+    "tmdb_site_id": "tv/337388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "AR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "710874",

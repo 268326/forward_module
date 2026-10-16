@@ -185,19 +185,26 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "498559",
-    "type": "link",
+    "id": "337388",
+    "type": "tmdb",
     "title": "Electro Andes",
-    "posterPath": null,
+    "posterPath": "https://image.tmdb.org/t/p/w500/4h7EHqWsPQLXdg26DxIUowD8YGL.jpg",
     "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "N/A",
+    "mediaType": "tv",
+    "rating": "0.0",
     "description": "[星期一]",
-    "link": "http://bgm.tv/subject/498559",
+    "link": null,
     "bgm_id": "498559",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
+    "bgm_weekday_id": 1,
+    "tmdb_id": "337388",
+    "tmdb_site_id": "tv/337388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "AR"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "710874",
@@ -350,18 +357,18 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "632817",
+    "id": "712500",
     "type": "link",
-    "title": "肥志百科 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "万圣街 特别篇 古堡的秘密",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
+    "releaseDate": "2026-10-31",
     "mediaType": "anime",
     "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/632817",
-    "bgm_id": "632817",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/712500",
+    "bgm_id": "712500",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 6
   }
 ]

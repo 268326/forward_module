@@ -6,7 +6,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
-    "rating": "7.0",
+    "rating": "6.9",
     "description": "12话 /  2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
     "link": null,
     "tmdb_id": "311842",
@@ -51,7 +51,7 @@
     "id": "220542/season/1/episode/49",
     "type": "tmdb",
     "title": "药屋少女的呢喃 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_0D00X.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_e64dA.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "tv",
     "rating": "7.3",
@@ -100,17 +100,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "513878",
-    "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
-  },
-  {
     "id": "312850",
     "type": "tmdb",
     "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
@@ -125,6 +114,17 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_e6beR.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
   },
   {
     "id": "335790",
@@ -218,22 +218,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "65942/season/1/episode/78",
-    "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "releaseDate": "2026-08-12",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
-    "link": null,
-    "tmdb_id": "65942/season/1/episode/78",
-    "tmdb_site_id": "tv/65942/season/1/episode/78",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "280042/season/1/episode/13",
     "type": "tmdb",
     "title": "野生的大魔王出现了！第二季",
@@ -266,6 +250,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "65942/season/1/episode/78",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942/season/1/episode/78",
+    "tmdb_site_id": "tv/65942/season/1/episode/78",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "321518",
@@ -329,6 +329,17 @@
     "link": "https://bgm.tv/subject/584847"
   },
   {
+    "id": "412008",
+    "type": "link",
+    "title": "转生就是剑 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "6.6",
+    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
+    "link": "https://bgm.tv/subject/412008"
+  },
+  {
     "id": "317259",
     "type": "tmdb",
     "title": "至高之力",
@@ -361,16 +372,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "412008",
-    "type": "link",
-    "title": "转生就是剑 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "6.6",
-    "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
-    "link": "https://bgm.tv/subject/412008"
   }
 ]

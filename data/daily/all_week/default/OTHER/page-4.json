@@ -1,5 +1,25 @@
 [
   {
+    "id": "60761/season/4/episode/14",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "664395",
+    "bgm_score": 6.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "60761/season/4/episode/14",
+    "tmdb_site_id": "tv/60761/season/4/episode/14",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "688797",
     "type": "link",
     "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
@@ -17,7 +37,7 @@
   {
     "id": "708612",
     "type": "link",
-    "title": "ダークサモナーとデキている  ミニアニメ劇場",
+    "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "646586",
+    "type": "link",
+    "title": "ぷにるんず ぷに４",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b7/a4/646586_DcbJB.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/646586",
+    "bgm_id": "646586",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "336654",
     "type": "tmdb",
     "title": "女友的朋友",
@@ -11,7 +26,7 @@
     "link": null,
     "bgm_id": "647220",
     "bgm_score": 4.3,
-    "bgm_rating_total": 133,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -31,7 +46,7 @@
     "link": null,
     "bgm_id": "656083",
     "bgm_score": 5.3,
-    "bgm_rating_total": 180,
+    "bgm_rating_total": 182,
     "bgm_weekday_id": 7,
     "tmdb_id": "337408",
     "tmdb_site_id": "tv/337408",
@@ -143,7 +158,7 @@
   {
     "id": "708612",
     "type": "link",
-    "title": "ダークサモナーとデキている  ミニアニメ劇場",
+    "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
