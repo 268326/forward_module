@@ -32,22 +32,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "301139",
     "type": "tmdb",
     "title": "僵尸搜寻中",
@@ -59,6 +43,22 @@
     "link": null,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "336654",
+    "type": "tmdb",
+    "title": "女友的朋友",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/df/647220_cZZjY.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "4.3",
+    "description": "12话 /  2026年10月4日 / 安ドウタカシ[安藤貴史] / じゅら（講談社「ヤンマガWeb」連載中） / 岩田竜治",
+    "link": null,
+    "tmdb_id": "336654",
+    "tmdb_site_id": "tv/336654",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -80,33 +80,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "336654",
+    "id": "117120",
     "type": "tmdb",
-    "title": "女友的朋友",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/24/df/647220_cZZjY.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "4.4",
-    "description": "12话 /  2026年10月4日 / 安ドウタカシ[安藤貴史] / じゅら（講談社「ヤンマガWeb」連載中） / 岩田竜治",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
     "link": null,
-    "tmdb_id": "336654",
-    "tmdb_site_id": "tv/336654",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "288971",
-    "type": "tmdb",
-    "title": "穹庐下的魔女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_jJsJj.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
-    "link": null,
-    "tmdb_id": "288971",
-    "tmdb_site_id": "tv/288971",
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -128,13 +112,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "288971",
+    "type": "tmdb",
+    "title": "穹庐下的魔女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "12话 /  2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+    "link": null,
+    "tmdb_id": "288971",
+    "tmdb_site_id": "tv/288971",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "278043/season/1/episode/13",
     "type": "tmdb",
     "title": "相反的你和我 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
     "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "8.1",
+    "rating": "8.0",
     "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
     "link": null,
     "tmdb_id": "278043/season/1/episode/13",
@@ -178,22 +178,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "79166",
-    "type": "tmdb",
-    "title": "碧蓝之海 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "12话 /  2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
-    "link": null,
-    "tmdb_id": "79166",
-    "tmdb_site_id": "tv/79166/season/3",
-    "tmdb_season_number": 3,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "283692",
     "type": "tmdb",
     "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
@@ -228,6 +212,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "79166",
+    "type": "tmdb",
+    "title": "碧蓝之海 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/bf/569116_n6dPq.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "12话 /  2026年7月6日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
+    "link": null,
+    "tmdb_id": "79166",
+    "tmdb_site_id": "tv/79166/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -260,6 +260,28 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "393010",
+    "type": "link",
+    "title": "侦探已经死了。 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/61/393010_EIOi9.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "13话 /  2026年10月7日 / 栗原学 / 二語十（MF文库J「探偵はもう、死んでいる。」/KADOKAWA刊） / 伊藤陽祐",
+    "link": "https://bgm.tv/subject/393010"
+  },
+  {
+    "id": "555605",
+    "type": "link",
+    "title": "青之芦苇 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
+    "link": "https://bgm.tv/subject/555605"
+  },
+  {
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
@@ -274,28 +296,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "555605",
-    "type": "link",
-    "title": "青之芦苇 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/67/5a/555605_cLCw5.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "2026年10月4日 / 横山和基 / 小林有吾（小学館「ビッグスピリッツコミックス」刊） / 中武学・田口麻美・山中純子",
-    "link": "https://bgm.tv/subject/555605"
-  },
-  {
-    "id": "393010",
-    "type": "link",
-    "title": "侦探已经死了。 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/65/61/393010_EIOi9.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "13话 /  2026年10月7日 / 栗原学 / 二語十（MF文库J「探偵はもう、死んでいる。」/KADOKAWA刊） / 伊藤陽祐",
-    "link": "https://bgm.tv/subject/393010"
   },
   {
     "id": "327765",
@@ -316,20 +316,22 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "285574",
+    "id": "333622",
     "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "借出去的魔力要用【分期还款】强制收回",
+    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "6.6",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "rating": "7.5",
+    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
     "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
+    "tmdb_id": "333622",
+    "tmdb_site_id": "tv/333622",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "326247",
@@ -351,22 +353,20 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "333622",
+    "id": "285574",
     "type": "tmdb",
-    "title": "借出去的魔力要用【分期还款】强制收回",
-    "posterPath": "https://image.tmdb.org/t/p/w500/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
-    "releaseDate": "2026-10-03",
+    "title": "与你相恋到生命尽头",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+    "releaseDate": "2026-07-07",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "这是一个被创世神赐予的“天赋”所主宰命运的世界。在边境村庄生活的善良少年伦特，获得了能将自身魔力借给同伴的稀有辅助能力“魔藏库”，与村里的青梅竹马们共同组建了名为“断空之剑”的冒险小队，怀抱着作为支援者的使命踏上了冒险旅程。然而始终弱小的伦特被视作累赘，竟被队伍无情驱逐！在熊熊怒火与复仇之心的浇灌下，伦特的天赋完成蜕变，终将绽放真正的力量——那竟是能将长期外借的庞大魔力【强制回收】的特殊技能。被昔日同伴背叛的伦特，如今开始向那些背信弃义者追讨魔力，以此为养分不断变强的复仇故事，就此拉开序幕！",
+    "rating": "6.6",
+    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
     "link": null,
-    "tmdb_id": "333622",
-    "tmdb_site_id": "tv/333622",
+    "tmdb_id": "285574",
+    "tmdb_site_id": "tv/285574",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "312266",

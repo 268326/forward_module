@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 150,
+    "bgm_rating_total": 152,
     "bgm_weekday_id": 3
   },
   {
@@ -46,13 +46,35 @@
     "link": null,
     "bgm_id": "511936",
     "bgm_score": 6.5,
-    "bgm_rating_total": 227,
+    "bgm_rating_total": 228,
     "bgm_weekday_id": 1,
     "tmdb_id": "305313",
     "tmdb_site_id": "tv/305313",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "337277",
+    "type": "tmdb",
+    "title": "魔法少女育成计划 restart",
+    "posterPath": "https://image.tmdb.org/t/p/w500/s7WJ5gQSLwk5vVxwhzJDx94mMf6.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "获得「魔法王国」所赐之魔力、每日勤奋奔走于助人的魔法少女们——她们收到了来自神秘寄信人所寄出，名为『魔法少女育成计划』的游戏邀请函。受到隐藏着死亡风险、毫无逻辑可言的游戏所囚禁的十六位魔法少女，在幕后黑手策划的诡计玩弄下，开始为了存活下来而绞尽脑汁苦思对策……",
+    "link": null,
+    "bgm_id": "418229",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 114,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "337277",
+    "tmdb_site_id": "tv/337277",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "313068",
@@ -66,7 +88,7 @@
     "link": null,
     "bgm_id": "624923",
     "bgm_score": 6.4,
-    "bgm_rating_total": 230,
+    "bgm_rating_total": 233,
     "bgm_weekday_id": 1,
     "tmdb_id": "313068",
     "tmdb_site_id": "tv/313068",
@@ -88,7 +110,7 @@
     "link": null,
     "bgm_id": "646154",
     "bgm_score": 6.4,
-    "bgm_rating_total": 204,
+    "bgm_rating_total": 205,
     "bgm_weekday_id": 3,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
@@ -110,35 +132,13 @@
     "link": null,
     "bgm_id": "616808",
     "bgm_score": 6.4,
-    "bgm_rating_total": 202,
+    "bgm_rating_total": 204,
     "bgm_weekday_id": 6,
     "tmdb_id": "280042/season/1/episode/13",
     "tmdb_site_id": "tv/280042/season/1/episode/13",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "337277",
-    "type": "tmdb",
-    "title": "魔法少女育成计划 restart",
-    "posterPath": "https://image.tmdb.org/t/p/w500/s7WJ5gQSLwk5vVxwhzJDx94mMf6.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "获得「魔法王国」所赐之魔力、每日勤奋奔走于助人的魔法少女们——她们收到了来自神秘寄信人所寄出，名为『魔法少女育成计划』的游戏邀请函。受到隐藏着死亡风险、毫无逻辑可言的游戏所囚禁的十六位魔法少女，在幕后黑手策划的诡计玩弄下，开始为了存活下来而绞尽脑汁苦思对策……",
-    "link": null,
-    "bgm_id": "418229",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 113,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "337277",
-    "tmdb_site_id": "tv/337277",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "34158",
@@ -172,7 +172,7 @@
     "link": null,
     "bgm_id": "548156",
     "bgm_score": 6.3,
-    "bgm_rating_total": 249,
+    "bgm_rating_total": 252,
     "bgm_weekday_id": 7,
     "tmdb_id": "207347/season/1/episode/26",
     "tmdb_site_id": "tv/207347/season/1/episode/26",
@@ -192,7 +192,7 @@
     "link": null,
     "bgm_id": "630160",
     "bgm_score": 6.3,
-    "bgm_rating_total": 275,
+    "bgm_rating_total": 279,
     "bgm_weekday_id": 7,
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
@@ -214,28 +214,6 @@
     "bgm_score": 6.3,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "320909",
-    "type": "tmdb",
-    "title": "萤火虫的出嫁",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
-    "releaseDate": "2026-10-09",
-    "mediaType": "tv",
-    "rating": "10.0",
-    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
-    "link": null,
-    "bgm_id": "621108",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 81,
-    "bgm_weekday_id": 5,
-    "tmdb_id": "320909",
-    "tmdb_site_id": "tv/320909",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "335194",
@@ -330,6 +308,28 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "320909",
+    "type": "tmdb",
+    "title": "萤火虫的出嫁",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "10.0",
+    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
+    "link": null,
+    "bgm_id": "621108",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 88,
+    "bgm_weekday_id": 5,
+    "tmdb_id": "320909",
+    "tmdb_site_id": "tv/320909",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "324502",
     "type": "tmdb",
     "title": "装备我最强",
@@ -341,7 +341,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 6.0,
-    "bgm_rating_total": 109,
+    "bgm_rating_total": 110,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -393,7 +393,7 @@
     "link": null,
     "bgm_id": "617273",
     "bgm_score": 6.0,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 6,
     "tmdb_id": "308977",
     "tmdb_site_id": "tv/308977",
@@ -419,6 +419,28 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "306565",
+    "type": "tmdb",
+    "title": "DARK MACHINE THE ANIMATION",
+    "posterPath": "https://image.tmdb.org/t/p/w500/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "在世界范围内拥有压倒性人气的电竞项目“Dark Machine”让人们为之狂热，甚至改变了日本的经济体系。日本唯一被指定为“Dark Machine”经济特区的城市——黄金谷。君临其顶点的，是继承了“Dark Machine”最强玩家称号“千鬼”、第七代“千鬼”阿吉玛。阿吉玛通过“Dark Machine”成为了黄金谷的实际统治者。主人公海里将亡故祖父的遗言“去找千鬼”铭记于心来到了黄金谷，偶然遇到了正被阿吉玛手下“阿流堕美瑠”追捕的少女鲁朵拉。海里被卷入其中，成为了“Dark Machine”的玩家，在经历了数次激战后，他的才能逐渐绽放。海里能否与“千鬼”对峙，并开辟自己的命运——以“Dark Machine”顶点为目标，海里的战斗现在开始。",
+    "link": null,
+    "bgm_id": "505550",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 73,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "306565",
+    "tmdb_site_id": "tv/306565",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "577237",
     "type": "link",
     "title": "仙逆剧场版 弑仙之战",
@@ -432,20 +454,5 @@
     "bgm_score": 5.9,
     "bgm_rating_total": 50,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "499474",
-    "type": "link",
-    "title": "东京复仇者 三天战争篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/499474",
-    "bgm_id": "499474",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 38,
-    "bgm_weekday_id": 5
   }
 ]

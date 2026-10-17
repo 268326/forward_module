@@ -50,21 +50,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "449346",
-    "type": "link",
-    "title": "大理寺日志 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
-    "releaseDate": "2026-10-15",
-    "mediaType": "anime",
-    "rating": "7.7",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/449346",
-    "bgm_id": "449346",
-    "bgm_score": 7.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 4
-  },
-  {
     "id": "712000",
     "type": "link",
     "title": "牧神记5",
@@ -78,6 +63,21 @@
     "bgm_score": 7.3,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "449346",
+    "type": "link",
+    "title": "大理寺日志 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "8.5",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/449346",
+    "bgm_id": "449346",
+    "bgm_score": 8.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
   },
   {
     "id": "705980",
@@ -222,6 +222,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "713219",
+    "type": "link",
+    "title": "萤火虫的出嫁 迷你动画",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713219",
+    "bgm_id": "713219",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -352,21 +367,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/654678",
     "bgm_id": "654678",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "694622",
-    "type": "link",
-    "title": "ねずみくんのチョッキ 第2期",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fe/1b/694622_NhQb3.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/694622",
-    "bgm_id": "694622",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

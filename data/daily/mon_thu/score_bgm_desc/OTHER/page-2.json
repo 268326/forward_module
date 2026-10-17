@@ -52,6 +52,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "713219",
+    "type": "link",
+    "title": "萤火虫的出嫁 迷你动画",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713219",
+    "bgm_id": "713219",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
