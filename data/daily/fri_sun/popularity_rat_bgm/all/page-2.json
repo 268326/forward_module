@@ -10,11 +10,55 @@
     "description": "挺身迎战。面对强大的敌人。以及自己的命运。「面具」会赋予佩戴者力量。有时能无限拓展可能性，有时却会带来难以想象的灾祸。传说中的面具职人的弟子佩尔，被偶然拿起的「武神面具」所操纵而失去理智暴走，无意间亲手杀害了同伴与师父。在绝望中，佩尔立志要销毁世界上全部由师父打造的面具。他直面自己犯下的错误，踏上了赎罪的旅程。与新友人的相遇，以及与强敌的对峙。围绕「面具」的战斗幻想曲，正式开幕！",
     "link": null,
     "bgm_id": "568525",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 55,
+    "bgm_score": 5.6,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 6,
     "tmdb_id": "295420",
     "tmdb_site_id": "tv/295420",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "312359",
+    "type": "tmdb",
+    "title": "七龙珠超：比鲁斯",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "9.8",
+    "description": "魔人布欧之战结束数年后，地球重归和平。沉睡已久的破坏神比鲁斯苏醒，听闻打败弗利萨的赛亚人孙悟空后，突然现身地球。面对拥有毁灭星球之力的比鲁斯，悟空和伙伴们迎来关乎地球存亡的宇宙级战斗。",
+    "link": null,
+    "bgm_id": "623249",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 52,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "312359",
+    "tmdb_site_id": "tv/312359",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "307903",
+    "type": "tmdb",
+    "title": "恐怖收集者",
+    "posterPath": "https://image.tmdb.org/t/p/w500/s5UFn4SrNFTjTeYKQvyC7ImPlgw.jpg",
+    "releaseDate": "2026-10-10",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
+    "link": null,
+    "bgm_id": "613256",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 51,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "307903",
+    "tmdb_site_id": "tv/307903",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -37,50 +81,6 @@
     "bgm_weekday_id": 7,
     "tmdb_id": "330505",
     "tmdb_site_id": "tv/330505",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "307903",
-    "type": "tmdb",
-    "title": "恐怖收集者",
-    "posterPath": "https://image.tmdb.org/t/p/w500/s5UFn4SrNFTjTeYKQvyC7ImPlgw.jpg",
-    "releaseDate": "2026-10-10",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "那些曾被视为谣言的“都市传说”，正一个接一个地化为现实……头戴红色兜帽的少年千野不思议，为了将实体化的都市传说收进自己的手账，正四处旅行。他的目标是要抓住那位能让都市传说具现化的少女——秘密。不思议与搭档人面犬吉米一起，不断挑战接踵而至的灵异现象，逐步逼近秘密的所在。少年少女的追逐戏码，最终将走向何方？",
-    "link": null,
-    "bgm_id": "613256",
-    "bgm_score": 4.5,
-    "bgm_rating_total": 49,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "307903",
-    "tmdb_site_id": "tv/307903",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "312359",
-    "type": "tmdb",
-    "title": "七龙珠超：比鲁斯",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "9.8",
-    "description": "魔人布欧之战结束数年后，地球重归和平。沉睡已久的破坏神比鲁斯苏醒，听闻打败弗利萨的赛亚人孙悟空后，突然现身地球。面对拥有毁灭星球之力的比鲁斯，悟空和伙伴们迎来关乎地球存亡的宇宙级战斗。",
-    "link": null,
-    "bgm_id": "623249",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 48,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "312359",
-    "tmdb_site_id": "tv/312359",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -119,7 +119,7 @@
     "link": null,
     "bgm_id": "617273",
     "bgm_score": 6.0,
-    "bgm_rating_total": 43,
+    "bgm_rating_total": 44,
     "bgm_weekday_id": 6,
     "tmdb_id": "308977",
     "tmdb_site_id": "tv/308977",

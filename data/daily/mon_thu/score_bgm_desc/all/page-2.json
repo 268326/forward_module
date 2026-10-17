@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.4,
-    "bgm_rating_total": 194,
+    "bgm_rating_total": 195,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
@@ -40,26 +40,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "285710",
-    "type": "tmdb",
-    "title": "幻想水浒传",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/12/541538_LxzAg.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "[星期二]",
-    "link": null,
-    "bgm_id": "541538",
-    "bgm_score": 5.2,
-    "bgm_rating_total": 51,
-    "bgm_weekday_id": 2,
-    "tmdb_id": "285710",
-    "tmdb_site_id": "tv/285710",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "297903",
     "type": "tmdb",
     "title": "PSYREN -决战游戏-",
@@ -82,6 +62,26 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "285710",
+    "type": "tmdb",
+    "title": "幻想水浒传",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ee/12/541538_LxzAg.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "[星期二]",
+    "link": null,
+    "bgm_id": "541538",
+    "bgm_score": 5.1,
+    "bgm_rating_total": 52,
+    "bgm_weekday_id": 2,
+    "tmdb_id": "285710",
+    "tmdb_site_id": "tv/285710",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "323937",
     "type": "tmdb",
     "title": "兽王武神丹帝拜恩",
@@ -93,7 +93,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.1,
-    "bgm_rating_total": 113,
+    "bgm_rating_total": 115,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -119,6 +119,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "584847",
+    "type": "link",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "anime",
+    "rating": "4.9",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/584847",
+    "bgm_id": "584847",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 224,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "316551",
     "type": "tmdb",
     "title": "战斗之魂[Re] 绝界之空",
@@ -139,21 +154,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "584847",
-    "type": "link",
-    "title": "弹珠汽水瓶里的千岁同学 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/584847",
-    "bgm_id": "584847",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 219,
-    "bgm_weekday_id": 2
   },
   {
     "id": "688204",
