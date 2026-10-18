@@ -1,16 +1,16 @@
 [
   {
-    "id": "277513",
+    "id": "324326",
     "type": "tmdb",
-    "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
-    "releaseDate": "2025-07-07",
+    "title": "七叶树王国的七名骑士",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ed/4a/657084_PZj4J.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2025年7月7日 / 内沼菜摘 / みかみてれん（集英社ダッシュエックス文庫刊） / kojikoji（小島大和）",
+    "rating": "5.7",
+    "description": "2026年10月3日 / 佐山聖子 / 岩本ナオ『マロニエ王国の七人の騎士』（小学館「月刊フラワーズ」連載中） / 前田ゆり子",
     "link": null,
-    "tmdb_id": "277513",
-    "tmdb_site_id": "tv/277513",
+    "tmdb_id": "324326",
+    "tmdb_site_id": "tv/324326",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -28,6 +28,22 @@
     "tmdb_id": "1575337",
     "tmdb_site_id": "movie/1575337",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "222623",
+    "type": "tmdb",
+    "title": "擅长逃跑的殿下 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "releaseDate": "2026-07-17",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+    "link": null,
+    "tmdb_id": "222623",
+    "tmdb_site_id": "tv/222623/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -66,38 +82,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "250008",
-    "type": "tmdb",
-    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
-    "releaseDate": "2026-07-06",
-    "mediaType": "tv",
-    "rating": "4.9",
-    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
-    "link": null,
-    "tmdb_id": "250008",
-    "tmdb_site_id": "tv/250008",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "222623",
-    "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
-    "link": null,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "95479/season/1/episode/48",
     "type": "tmdb",
     "title": "咒术回战 死灭回游 前篇",
@@ -130,6 +114,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "250008",
+    "type": "tmdb",
+    "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg",
+    "releaseDate": "2026-07-06",
+    "mediaType": "tv",
+    "rating": "4.9",
+    "description": "12话 /  2026年7月6日 / 徐傳峰 / 雲雀湯（KADOKAWA「角川スニーカー文庫」刊） / 倉橋N濘",
+    "link": null,
+    "tmdb_id": "250008",
+    "tmdb_site_id": "tv/250008",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "94664/season/2/episode/13",
     "type": "tmdb",
     "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
@@ -141,22 +141,6 @@
     "link": null,
     "tmdb_id": "94664/season/2/episode/13",
     "tmdb_site_id": "tv/94664/season/2/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "312849",
-    "type": "tmdb",
-    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
-    "link": null,
-    "tmdb_id": "312849",
-    "tmdb_site_id": "tv/312849",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -174,6 +158,22 @@
     "tmdb_id": "260823",
     "tmdb_site_id": "tv/260823/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "312849",
+    "type": "tmdb",
+    "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年7月4日 / 森下柊聖[後藤圭二] / 坂石遊作（HJ文庫/ホビージャパン） / 川島尚",
+    "link": null,
+    "tmdb_id": "312849",
+    "tmdb_site_id": "tv/312849",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -210,6 +210,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "220542/season/1/episode/25",
+    "type": "tmdb",
+    "title": "药屋少女的呢喃 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg",
+    "releaseDate": "2025-01-10",
+    "mediaType": "tv",
+    "rating": "7.5",
+    "description": "24话 /  2025年1月10日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
+    "link": null,
+    "tmdb_id": "220542/season/1/episode/25",
+    "tmdb_site_id": "tv/220542/season/1/episode/25",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "280049",
     "type": "tmdb",
     "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
@@ -237,22 +253,6 @@
     "link": null,
     "tmdb_id": "42509",
     "tmdb_site_id": "tv/42509",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "220542/season/1/episode/25",
-    "type": "tmdb",
-    "title": "药屋少女的呢喃 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg",
-    "releaseDate": "2025-01-10",
-    "mediaType": "tv",
-    "rating": "7.5",
-    "description": "24话 /  2025年1月10日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
-    "link": null,
-    "tmdb_id": "220542/season/1/episode/25",
-    "tmdb_site_id": "tv/220542/season/1/episode/25",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -301,6 +301,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "334105",
+    "type": "link",
+    "title": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_0Yb0c.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "1话 /  2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "link": "https://bgm.tv/subject/334105"
+  },
+  {
     "id": "67676",
     "type": "tmdb",
     "title": "齐木楠雄的灾难",
@@ -333,22 +344,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "209867",
-    "type": "tmdb",
-    "title": "葬送的芙莉莲",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/c5/400602_ZI8Y9.jpg",
-    "releaseDate": "2023-09-29",
-    "mediaType": "tv",
-    "rating": "8.5",
-    "description": "28话 /  2023年9月29日 / 斎藤圭一郎 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 長澤礼子",
-    "link": null,
-    "tmdb_id": "209867",
-    "tmdb_site_id": "tv/209867",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "335788",
     "type": "tmdb",
     "title": "苍蓝传承  威尔什与榭达",
@@ -368,14 +363,19 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_0Yb0c.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "1话 /  2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
+    "id": "209867",
+    "type": "tmdb",
+    "title": "葬送的芙莉莲",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/13/c5/400602_ZI8Y9.jpg",
+    "releaseDate": "2023-09-29",
+    "mediaType": "tv",
+    "rating": "8.5",
+    "description": "28话 /  2023年9月29日 / 斎藤圭一郎 / 山田鐘人・アベツカサ（小学館「週刊少年サンデー」連載中） / 長澤礼子",
+    "link": null,
+    "tmdb_id": "209867",
+    "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

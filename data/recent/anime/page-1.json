@@ -19,7 +19,7 @@
     "id": "283938",
     "type": "tmdb",
     "title": "学生会也有洞！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_8C9JY.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "7.5",
@@ -38,7 +38,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ab/4f/639938_2JKQ7.jpg",
     "releaseDate": "2026-09-25",
     "mediaType": "tv",
-    "rating": "7.6",
+    "rating": "7.5",
     "description": "11话 /  2026年9月25日 / 木村泰大・髙橋秀弥 / 荒木飛呂彦（集英社ジャンプ コミックス刊） / 津曲大介",
     "link": null,
     "tmdb_id": "45790/season/6/episode/2",
@@ -106,7 +106,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/624085_5dXDL.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "25话 /  2026年10月6日 / 中西基樹 / 南野海風「凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録」（HJ文庫／ホビージャパン） / 土佐岡加奈、伊藤優希",
     "link": null,
     "tmdb_id": "312850",
@@ -119,7 +119,7 @@
     "id": "513878",
     "type": "link",
     "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_e6beR.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
     "rating": "7.3",
@@ -149,7 +149,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": null,
     "tmdb_id": "283428/season/1/episode/15",
@@ -175,6 +175,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "637802",
+    "type": "link",
+    "title": "乱马1/2 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
+    "link": "https://bgm.tv/subject/637802"
+  },
+  {
     "id": "94664",
     "type": "tmdb",
     "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -191,24 +202,13 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
-    "type": "link",
-    "title": "乱马1/2 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
-  },
-  {
     "id": "207347/season/1/episode/26",
     "type": "tmdb",
     "title": "青之箱 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_L3fC6.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "6.4",
+    "rating": "6.3",
     "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
     "link": null,
     "tmdb_id": "207347/season/1/episode/26",
@@ -340,22 +340,6 @@
     "link": "https://bgm.tv/subject/412008"
   },
   {
-    "id": "317259",
-    "type": "tmdb",
-    "title": "至高之力",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
-    "link": null,
-    "tmdb_id": "317259",
-    "tmdb_site_id": "tv/317259",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "337408",
     "type": "tmdb",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -372,5 +356,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "317259",
+    "type": "tmdb",
+    "title": "至高之力",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/42/ae/636512_oOtDt.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "5.8",
+    "description": "2026年10月3日 / 高村和宏 / Team VERTEX / 高村和宏",
+    "link": null,
+    "tmdb_id": "317259",
+    "tmdb_site_id": "tv/317259",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
