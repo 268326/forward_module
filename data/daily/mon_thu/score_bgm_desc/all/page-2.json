@@ -1,5 +1,20 @@
 [
   {
+    "id": "471844",
+    "type": "link",
+    "title": "归还者的魔法要特别 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1d/7c/471844_5G6H8.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/471844",
+    "bgm_id": "471844",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 30,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "316891",
     "type": "tmdb",
     "title": "冷淡的佐藤同学只对我撒娇",
@@ -11,7 +26,7 @@
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.4,
-    "bgm_rating_total": 197,
+    "bgm_rating_total": 199,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
@@ -31,7 +46,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.3,
-    "bgm_rating_total": 88,
+    "bgm_rating_total": 92,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -51,7 +66,7 @@
     "link": null,
     "bgm_id": "614640",
     "bgm_score": 5.1,
-    "bgm_rating_total": 50,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 1,
     "tmdb_id": "297903",
     "tmdb_site_id": "tv/297903",
@@ -93,7 +108,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.1,
-    "bgm_rating_total": 116,
+    "bgm_rating_total": 117,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -102,6 +117,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "710874",
+    "type": "link",
+    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/710874",
+    "bgm_id": "710874",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
   },
   {
     "id": "650428",
@@ -117,21 +147,6 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 10,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "584847",
-    "type": "link",
-    "title": "弹珠汽水瓶里的千岁同学 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "anime",
-    "rating": "4.9",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/584847",
-    "bgm_id": "584847",
-    "bgm_score": 4.9,
-    "bgm_rating_total": 230,
-    "bgm_weekday_id": 2
   },
   {
     "id": "316551",
@@ -154,6 +169,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "584847",
+    "type": "link",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/584847",
+    "bgm_id": "584847",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 237,
+    "bgm_weekday_id": 2
   },
   {
     "id": "688204",
@@ -208,21 +238,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "710874",
-    "type": "link",
-    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
-    "releaseDate": "2026-10-12",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/710874",
-    "bgm_id": "710874",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "713219",
     "type": "link",
     "title": "萤火虫的出嫁 迷你动画",
@@ -233,6 +248,21 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/713219",
     "bgm_id": "713219",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "713654",
+    "type": "link",
+    "title": "The Marsupilamis",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/80/91/713654_mxUL7.jpg",
+    "releaseDate": "2026-10-19",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713654",
+    "bgm_id": "713654",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
@@ -326,21 +356,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "576783",
-    "type": "link",
-    "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_f7d1l.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/576783",
-    "bgm_id": "576783",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "337069",
