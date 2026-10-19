@@ -21,12 +21,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/24/df/647220_cZZjY.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "4.3",
+    "rating": "4.2",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "647220",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 148,
+    "bgm_score": 4.2,
+    "bgm_rating_total": 153,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -116,7 +116,7 @@
     "link": "http://bgm.tv/subject/712000",
     "bgm_id": "712000",
     "bgm_score": 7.0,
-    "bgm_rating_total": 4,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 7
   }
 ]

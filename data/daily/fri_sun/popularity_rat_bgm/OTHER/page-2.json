@@ -80,6 +80,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "712000",
+    "type": "link",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "releaseDate": "2026-10-18",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -93,21 +108,6 @@
     "bgm_score": 7.5,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 7
   },
   {
     "id": "632061",
@@ -158,7 +158,7 @@
     "id": "551304",
     "type": "link",
     "title": "我的幸福婚姻 特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_5sWb1.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_FbmZ9.jpg",
     "releaseDate": "2026-10-25",
     "mediaType": "anime",
     "rating": "10.0",
