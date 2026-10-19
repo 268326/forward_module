@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
     "releaseDate": "2026-10-15",
     "mediaType": "anime",
-    "rating": "6.3",
+    "rating": "6.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/449346",
     "bgm_id": "449346",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 4
   },
   {
@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "590553",
     "bgm_score": 5.8,
-    "bgm_rating_total": 186,
+    "bgm_rating_total": 197,
     "bgm_weekday_id": 4,
     "tmdb_id": "302020",
     "tmdb_site_id": "tv/302020",
@@ -61,7 +61,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.5,
-    "bgm_rating_total": 56,
+    "bgm_rating_total": 61,
     "bgm_weekday_id": 4
   },
   {
@@ -76,7 +76,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 6.0,
-    "bgm_rating_total": 51,
+    "bgm_rating_total": 53,
     "bgm_weekday_id": 4
   },
   {
@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 6.9,
-    "bgm_rating_total": 1758,
+    "bgm_rating_total": 1787,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -111,7 +111,7 @@
     "link": "http://bgm.tv/subject/650428",
     "bgm_id": "650428",
     "bgm_score": 5.0,
-    "bgm_rating_total": 10,
+    "bgm_rating_total": 11,
     "bgm_weekday_id": 4
   },
   {
@@ -126,7 +126,7 @@
     "link": null,
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 448,
+    "bgm_rating_total": 461,
     "bgm_weekday_id": 4,
     "tmdb_id": "283428/season/1/episode/15",
     "tmdb_site_id": "tv/283428/season/1/episode/15",

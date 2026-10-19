@@ -1,17 +1,32 @@
 [
   {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "584847",
     "type": "link",
     "title": "弹珠汽水瓶里的千岁同学 第2部分",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "4.9",
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 240,
+    "bgm_score": 4.9,
+    "bgm_rating_total": 248,
     "bgm_weekday_id": 2
   },
   {
@@ -41,7 +56,7 @@
     "link": "http://bgm.tv/subject/390200",
     "bgm_id": "390200",
     "bgm_score": 3.6,
-    "bgm_rating_total": 7,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 1
   },
   {
@@ -112,21 +127,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "573707",
-    "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "665014",
     "type": "link",
     "title": "黑暗学院 第二季",
@@ -137,21 +137,6 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/665014",
     "bgm_id": "665014",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "701779",
-    "type": "link",
-    "title": "マゼンチュ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/78/a0/701779_0phov.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/701779",
-    "bgm_id": "701779",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

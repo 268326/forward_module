@@ -1,18 +1,40 @@
 [
   {
-    "id": "701779",
+    "id": "665014",
     "type": "link",
-    "title": "マゼンチュ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/78/a0/701779_0phov.jpg",
-    "releaseDate": "2026-10-07",
+    "title": "黑暗学院 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
+    "releaseDate": "0000-00-00",
     "mediaType": "anime",
     "rating": "N/A",
     "description": "[星期三]",
-    "link": "http://bgm.tv/subject/701779",
-    "bgm_id": "701779",
+    "link": "http://bgm.tv/subject/665014",
+    "bgm_id": "665014",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
+  },
+  {
+    "id": "339181",
+    "type": "tmdb",
+    "title": "マゼンチュ",
+    "posterPath": "https://image.tmdb.org/t/p/w500/8pFPVfTzTKONHVQmyDisDAItBVe.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期三]",
+    "link": null,
+    "bgm_id": "701779",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3,
+    "tmdb_id": "339181",
+    "tmdb_site_id": "tv/339181",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "709475",
@@ -147,21 +169,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "632817",
-    "type": "link",
-    "title": "肥志百科 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/632817",
-    "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   },
   {
     "id": "635258",

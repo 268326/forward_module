@@ -45,6 +45,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "712000",
+    "type": "link",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "releaseDate": "2026-10-18",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "638081",
     "type": "link",
     "title": "小狸猫与小狐狸",
@@ -78,21 +93,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
   },
   {
     "id": "593863",
@@ -170,6 +170,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "632817",
+    "type": "link",
+    "title": "肥志百科 第15季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/632817",
+    "bgm_id": "632817",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "654678",
     "type": "link",
     "title": "屁屁侦探 第11季",
@@ -213,21 +228,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "632817",
-    "type": "link",
-    "title": "肥志百科 第15季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/632817",
-    "bgm_id": "632817",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
   },
   {
     "id": "635258",

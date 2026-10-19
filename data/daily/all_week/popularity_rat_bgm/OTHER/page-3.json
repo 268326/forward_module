@@ -1,5 +1,35 @@
 [
   {
+    "id": "712000",
+    "type": "link",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "releaseDate": "2026-10-18",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "449346",
+    "type": "link",
+    "title": "大理寺日志 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "6.2",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/449346",
+    "bgm_id": "449346",
+    "bgm_score": 6.2,
+    "bgm_rating_total": 5,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "638081",
     "type": "link",
     "title": "小狸猫与小狐狸",
@@ -33,36 +63,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 5,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "449346",
-    "type": "link",
-    "title": "大理寺日志 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
-    "releaseDate": "2026-10-15",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/449346",
-    "bgm_id": "449346",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 4
   },
   {
     "id": "593863",
@@ -140,6 +140,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
@@ -215,6 +230,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "632817",
+    "type": "link",
+    "title": "肥志百科 第15季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/3e/4b/632817_iiHlp.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/632817",
+    "bgm_id": "632817",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "337388",
     "type": "tmdb",
     "title": "Electro Andes",
@@ -282,21 +312,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "573707",
-    "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
     "id": "665014",
     "type": "link",
     "title": "黑暗学院 第二季",
@@ -307,21 +322,6 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/665014",
     "bgm_id": "665014",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "701779",
-    "type": "link",
-    "title": "マゼンチュ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/78/a0/701779_0phov.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/701779",
-    "bgm_id": "701779",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
