@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/589775",
     "bgm_id": "589775",
     "bgm_score": 5.6,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 7
   },
   {
@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.5,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 125,
     "bgm_weekday_id": 3
   },
   {
@@ -56,7 +56,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.5,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 4
   },
   {
@@ -86,7 +86,7 @@
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.4,
-    "bgm_rating_total": 201,
+    "bgm_rating_total": 202,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.2,
-    "bgm_rating_total": 96,
+    "bgm_rating_total": 95,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -180,6 +180,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "584847",
+    "type": "link",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "anime",
+    "rating": "4.9",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/584847",
+    "bgm_id": "584847",
+    "bgm_score": 4.9,
+    "bgm_rating_total": 258,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "701782",
     "type": "link",
     "title": "苍蓝传承 威尔什&amp;榭达",
@@ -191,23 +206,8 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 4.9,
-    "bgm_rating_total": 42,
+    "bgm_rating_total": 43,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "584847",
-    "type": "link",
-    "title": "弹珠汽水瓶里的千岁同学 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/49/584847_5nM0F.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/584847",
-    "bgm_id": "584847",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 249,
-    "bgm_weekday_id": 2
   },
   {
     "id": "336654",
@@ -216,33 +216,18 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/24/df/647220_cZZjY.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "4.2",
+    "rating": "4.3",
     "description": "[星期日]",
     "link": null,
     "bgm_id": "647220",
-    "bgm_score": 4.2,
-    "bgm_rating_total": 157,
+    "bgm_score": 4.3,
+    "bgm_rating_total": 162,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "688204",
-    "type": "link",
-    "title": "欢迎光临游之家！from Yu-hachi",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/688204",
-    "bgm_id": "688204",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1
   },
   {
     "id": "390200",
@@ -257,6 +242,21 @@
     "bgm_id": "390200",
     "bgm_score": 3.6,
     "bgm_rating_total": 8,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "688204",
+    "type": "link",
+    "title": "欢迎光临游之家！from Yu-hachi",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "3.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/688204",
+    "bgm_id": "688204",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
   {

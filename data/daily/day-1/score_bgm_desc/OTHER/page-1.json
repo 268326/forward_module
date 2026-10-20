@@ -6,12 +6,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "anime",
-    "rating": "6.8",
+    "rating": "6.7",
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 11,
+    "bgm_score": 6.7,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 1
   },
   {
@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "511936",
     "bgm_score": 6.5,
-    "bgm_rating_total": 267,
+    "bgm_rating_total": 278,
     "bgm_weekday_id": 1,
     "tmdb_id": "305313",
     "tmdb_site_id": "tv/305313",
@@ -61,7 +61,7 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.2,
-    "bgm_rating_total": 96,
+    "bgm_rating_total": 95,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
@@ -85,21 +85,6 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "688204",
-    "type": "link",
-    "title": "欢迎光临游之家！from Yu-hachi",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/688204",
-    "bgm_id": "688204",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "390200",
     "type": "link",
     "title": "列女战纪：女娲石记",
@@ -112,6 +97,21 @@
     "bgm_id": "390200",
     "bgm_score": 3.6,
     "bgm_rating_total": 8,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "688204",
+    "type": "link",
+    "title": "欢迎光临游之家！from Yu-hachi",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "3.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/688204",
+    "bgm_id": "688204",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
   {
