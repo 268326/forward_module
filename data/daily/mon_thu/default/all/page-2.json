@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.5,
-    "bgm_rating_total": 121,
+    "bgm_rating_total": 122,
     "bgm_weekday_id": 3
   },
   {
@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 161,
+    "bgm_rating_total": 164,
     "bgm_weekday_id": 3
   },
   {
@@ -41,7 +41,7 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 31,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 3
   },
   {
@@ -56,7 +56,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 133,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -111,7 +111,7 @@
     "link": null,
     "bgm_id": "646154",
     "bgm_score": 6.4,
-    "bgm_rating_total": 280,
+    "bgm_rating_total": 282,
     "bgm_weekday_id": 3,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
@@ -133,7 +133,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.1,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -287,7 +287,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 6.9,
-    "bgm_rating_total": 1787,
+    "bgm_rating_total": 1796,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -307,7 +307,7 @@
     "link": "http://bgm.tv/subject/650428",
     "bgm_id": "650428",
     "bgm_score": 5.0,
-    "bgm_rating_total": 11,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 4
   },
   {
@@ -322,7 +322,7 @@
     "link": "http://bgm.tv/subject/654294",
     "bgm_id": "654294",
     "bgm_score": 5.5,
-    "bgm_rating_total": 61,
+    "bgm_rating_total": 62,
     "bgm_weekday_id": 4
   },
   {
@@ -337,7 +337,7 @@
     "link": null,
     "bgm_id": "665390",
     "bgm_score": 7.3,
-    "bgm_rating_total": 461,
+    "bgm_rating_total": 463,
     "bgm_weekday_id": 4,
     "tmdb_id": "283428/season/1/episode/15",
     "tmdb_site_id": "tv/283428/season/1/episode/15",

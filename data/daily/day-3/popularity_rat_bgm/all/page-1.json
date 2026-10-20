@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "646154",
     "bgm_score": 6.4,
-    "bgm_rating_total": 280,
+    "bgm_rating_total": 282,
     "bgm_weekday_id": 3,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
@@ -53,7 +53,7 @@
     "link": "http://bgm.tv/subject/412008",
     "bgm_id": "412008",
     "bgm_score": 6.6,
-    "bgm_rating_total": 161,
+    "bgm_rating_total": 164,
     "bgm_weekday_id": 3
   },
   {
@@ -68,7 +68,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 133,
+    "bgm_rating_total": 134,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -88,7 +88,7 @@
     "link": null,
     "bgm_id": "657778",
     "bgm_score": 5.1,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
@@ -110,7 +110,7 @@
     "link": "http://bgm.tv/subject/393010",
     "bgm_id": "393010",
     "bgm_score": 5.5,
-    "bgm_rating_total": 121,
+    "bgm_rating_total": 122,
     "bgm_weekday_id": 3
   },
   {
@@ -145,7 +145,7 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 31,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 3
   },
   {

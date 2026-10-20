@@ -31,7 +31,7 @@
     "link": "http://bgm.tv/subject/471844",
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 31,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 3
   },
   {
@@ -57,6 +57,21 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "650428",
+    "type": "link",
+    "title": "黑化吧！圣女大人 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/650428",
+    "bgm_id": "650428",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 12,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "707667",
     "type": "link",
     "title": "猫猫的呢喃 第三季",
@@ -70,21 +85,6 @@
     "bgm_score": 6.8,
     "bgm_rating_total": 11,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "650428",
-    "type": "link",
-    "title": "黑化吧！圣女大人 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/650428",
-    "bgm_id": "650428",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 4
   },
   {
     "id": "390200",
