@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "634708",
     "bgm_score": 5.4,
-    "bgm_rating_total": 202,
+    "bgm_rating_total": 204,
     "bgm_weekday_id": 2,
     "tmdb_id": "316891",
     "tmdb_site_id": "tv/316891",
@@ -61,35 +61,13 @@
     "link": null,
     "bgm_id": "634587",
     "bgm_score": 5.2,
-    "bgm_rating_total": 95,
+    "bgm_rating_total": 96,
     "bgm_weekday_id": 1,
     "tmdb_id": "316694",
     "tmdb_site_id": "tv/316694",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "297903",
-    "type": "tmdb",
-    "title": "PSYREN -决战游戏-",
-    "posterPath": "https://image.tmdb.org/t/p/w500/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "7.2",
-    "description": "高中一年级学生·夜科扬羽，某天捡到了被遗弃在公共电话亭里的“红色电话卡”。\n\n　　几天后，持有相同电话卡的青梅竹马兼同学·雨宫樱子失去了踪影。\n\n　　为了寻找她，扬羽联系了传闻中在全国范围内制造连续“神隐”失踪事件的黑幕——“秘密结社PSYREN”。\n\n　　随后，一场赌上性命的游戏开始了——",
-    "link": null,
-    "bgm_id": "614640",
-    "bgm_score": 5.1,
-    "bgm_rating_total": 58,
-    "bgm_weekday_id": 1,
-    "tmdb_id": "297903",
-    "tmdb_site_id": "tv/297903",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "285710",
@@ -103,7 +81,7 @@
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 5.1,
-    "bgm_rating_total": 55,
+    "bgm_rating_total": 56,
     "bgm_weekday_id": 2,
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
@@ -127,6 +105,28 @@
     "bgm_weekday_id": 3,
     "tmdb_id": "323937",
     "tmdb_site_id": "tv/323937",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "297903",
+    "type": "tmdb",
+    "title": "PSYREN -决战游戏-",
+    "posterPath": "https://image.tmdb.org/t/p/w500/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "高中一年级学生·夜科扬羽，某天捡到了被遗弃在公共电话亭里的“红色电话卡”。\n\n　　几天后，持有相同电话卡的青梅竹马兼同学·雨宫樱子失去了踪影。\n\n　　为了寻找她，扬羽联系了传闻中在全国范围内制造连续“神隐”失踪事件的黑幕——“秘密结社PSYREN”。\n\n　　随后，一场赌上性命的游戏开始了——",
+    "link": null,
+    "bgm_id": "614640",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 58,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "297903",
+    "tmdb_site_id": "tv/297903",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
@@ -175,7 +175,7 @@
     "link": "http://bgm.tv/subject/584847",
     "bgm_id": "584847",
     "bgm_score": 4.9,
-    "bgm_rating_total": 258,
+    "bgm_rating_total": 266,
     "bgm_weekday_id": 2
   },
   {

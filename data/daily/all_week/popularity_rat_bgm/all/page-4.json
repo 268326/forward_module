@@ -125,6 +125,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "698981",
+    "type": "link",
+    "title": "探险时光：支线任务 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/698981",
+    "bgm_id": "698981",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "551304",
     "type": "link",
     "title": "我的幸福婚姻 特别篇",
@@ -248,21 +263,6 @@
     "link": "http://bgm.tv/subject/632061",
     "bgm_id": "632061",
     "bgm_score": 10.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 5
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
-    "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 5
   },

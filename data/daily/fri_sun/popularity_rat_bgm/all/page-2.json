@@ -33,7 +33,7 @@
     "link": null,
     "bgm_id": "568525",
     "bgm_score": 5.5,
-    "bgm_rating_total": 64,
+    "bgm_rating_total": 66,
     "bgm_weekday_id": 6,
     "tmdb_id": "295420",
     "tmdb_site_id": "tv/295420",
@@ -88,26 +88,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "324326",
-    "type": "tmdb",
-    "title": "七叶树王国的七名骑士",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "657084",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 50,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "324326",
-    "tmdb_site_id": "tv/324326",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "308977",
     "type": "tmdb",
     "title": "青蛙军曹☆",
@@ -128,6 +108,26 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "324326",
+    "type": "tmdb",
+    "title": "七叶树王国的七名骑士",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ed/4a/657084_PZj4J.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "657084",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 49,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "324326",
+    "tmdb_site_id": "tv/324326",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "216467/season/2/episode/13",
@@ -176,7 +176,7 @@
     "link": null,
     "bgm_id": "636058",
     "bgm_score": 5.3,
-    "bgm_rating_total": 43,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
@@ -280,7 +280,7 @@
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
     "bgm_score": 6.9,
-    "bgm_rating_total": 15,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 6
   },
   {

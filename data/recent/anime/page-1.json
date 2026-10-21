@@ -48,6 +48,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "513878",
+    "type": "link",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "anime",
+    "rating": "5.8",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
+    "link": "https://bgm.tv/subject/513878"
+  },
+  {
     "id": "220542/season/1/episode/49",
     "type": "tmdb",
     "title": "药屋少女的呢喃 第三季",
@@ -116,17 +127,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "513878",
-    "type": "link",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
-  },
-  {
     "id": "335790",
     "type": "tmdb",
     "title": "黑暗召唤师在地下恋爱中",
@@ -149,7 +149,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_UCHPM.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "2026年10月1日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": null,
     "tmdb_id": "283428/season/1/episode/15",
@@ -202,22 +202,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "releaseDate": "2026-07-04",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/3",
-    "tmdb_season_number": 3,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "321518",
     "type": "tmdb",
     "title": "世界最强魔女，就此开始",
@@ -234,6 +218,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "releaseDate": "2026-07-04",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "14话 /  2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/3",
+    "tmdb_season_number": 3,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "313068",
@@ -297,22 +297,6 @@
     "link": "https://bgm.tv/subject/584847"
   },
   {
-    "id": "302020",
-    "type": "tmdb",
-    "title": "铁旅！meet with 铁道少女",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "12话 /  2026年10月8日 / 星野美鈴 / トミーテック / 橋本尚典",
-    "link": null,
-    "tmdb_id": "302020",
-    "tmdb_site_id": "tv/302020",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "412008",
     "type": "link",
     "title": "转生就是剑 第二季",
@@ -324,17 +308,17 @@
     "link": "https://bgm.tv/subject/412008"
   },
   {
-    "id": "65942/season/1/episode/78",
+    "id": "302020",
     "type": "tmdb",
-    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "releaseDate": "2026-08-12",
+    "title": "铁旅！meet with 铁道少女",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b6/e8/590553_Xz5PO.jpg",
+    "releaseDate": "2026-10-08",
     "mediaType": "tv",
-    "rating": "7.2",
-    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "rating": "5.8",
+    "description": "12话 /  2026年10月8日 / 星野美鈴 / トミーテック / 橋本尚典",
     "link": null,
-    "tmdb_id": "65942/season/1/episode/78",
-    "tmdb_site_id": "tv/65942/season/1/episode/78",
+    "tmdb_id": "302020",
+    "tmdb_site_id": "tv/302020",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -372,5 +356,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "65942/season/1/episode/78",
+    "type": "tmdb",
+    "title": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "releaseDate": "2026-08-12",
+    "mediaType": "tv",
+    "rating": "7.2",
+    "description": "8话 /  2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+    "link": null,
+    "tmdb_id": "65942/season/1/episode/78",
+    "tmdb_site_id": "tv/65942/season/1/episode/78",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

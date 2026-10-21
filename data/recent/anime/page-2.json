@@ -48,22 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "301139",
-    "type": "tmdb",
-    "title": "僵尸搜寻中",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/00/586255_FcfsN.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "12话 /  2026年10月3日 / 宇根信也 / カツヲ（KADOKAWA刊） / 下地なるみ",
-    "link": null,
-    "tmdb_id": "301139",
-    "tmdb_site_id": "tv/301139",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "206630",
     "type": "tmdb",
     "title": "佐佐木与文鸟小哔 第二季",
@@ -76,6 +60,38 @@
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
     "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "283692",
+    "type": "tmdb",
+    "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/fc/536270_51P45.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "13话 /  2026年10月4日 / ながはまのりひこ / リュート（カドカワBOOKS刊） / 末岡正美、山本善弥",
+    "link": null,
+    "tmdb_id": "283692",
+    "tmdb_site_id": "tv/283692",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "301139",
+    "type": "tmdb",
+    "title": "僵尸搜寻中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/00/586255_FcfsN.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "12话 /  2026年10月3日 / 宇根信也 / カツヲ（KADOKAWA刊） / 下地なるみ",
+    "link": null,
+    "tmdb_id": "301139",
+    "tmdb_site_id": "tv/301139",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -96,22 +112,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "283692",
-    "type": "tmdb",
-    "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3e/fc/536270_51P45.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "13话 /  2026年10月4日 / ながはまのりひこ / リュート（カドカワBOOKS刊） / 末岡正美、山本善弥",
-    "link": null,
-    "tmdb_id": "283692",
-    "tmdb_site_id": "tv/283692",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "287028",
@@ -162,22 +162,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "117120",
-    "type": "tmdb",
-    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
-    "releaseDate": "2026-07-07",
-    "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
-    "link": null,
-    "tmdb_id": "117120",
-    "tmdb_site_id": "tv/117120",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "337277",
     "type": "tmdb",
     "title": "魔法少女育成计划 restart",
@@ -194,6 +178,22 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "117120",
+    "type": "tmdb",
+    "title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月7日 / 井畑翔太 / 江島絵理（MFコミックス フラッパーシリーズ／KADOKAWA刊） / 松本麻友子",
+    "link": null,
+    "tmdb_id": "117120",
+    "tmdb_site_id": "tv/117120",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "288971",
@@ -266,24 +266,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "327765",
-    "type": "tmdb",
-    "title": "超巡！超条前辈",
-    "posterPath": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为“大猩猩”的新人警察一本木直，最强(?)搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
-    "link": null,
-    "tmdb_id": "327765",
-    "tmdb_site_id": "tv/327765",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "333622",
     "type": "tmdb",
     "title": "借出去的魔力要用【分期还款】强制收回",
@@ -302,6 +284,24 @@
     "tmdb_source": "tmdb_api"
   },
   {
+    "id": "327765",
+    "type": "tmdb",
+    "title": "超巡！超条前辈",
+    "posterPath": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "能够运用读心术、千里眼、心灵感应等所有超能力进行犯罪调查的专家超条巡，拥有柔道段位，因怪力而被称为“大猩猩”的新人警察一本木直，最强(?)搭档今天也在守护珍宿的和平，超能力刑警喜剧开幕！",
+    "link": null,
+    "tmdb_id": "327765",
+    "tmdb_site_id": "tv/327765",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "308403",
     "type": "tmdb",
     "title": "炒翻天",
@@ -313,22 +313,6 @@
     "link": null,
     "tmdb_id": "308403",
     "tmdb_site_id": "tv/308403",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "286345",
-    "type": "tmdb",
-    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
-    "releaseDate": "2026-07-12",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
-    "link": null,
-    "tmdb_id": "286345",
-    "tmdb_site_id": "tv/286345",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -353,17 +337,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "285574",
+    "id": "286345",
     "type": "tmdb",
-    "title": "与你相恋到生命尽头",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
-    "releaseDate": "2026-07-07",
+    "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg",
+    "releaseDate": "2026-07-12",
     "mediaType": "tv",
-    "rating": "6.6",
-    "description": "13话 /  2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+    "rating": "7.0",
+    "description": "11话 /  2026年7月12日 / 山﨑みつえ / 中村颯希（一迅社ノベルス/一迅社刊） / 菊池愛",
     "link": null,
-    "tmdb_id": "285574",
-    "tmdb_site_id": "tv/285574",
+    "tmdb_id": "286345",
+    "tmdb_site_id": "tv/286345",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -380,6 +364,24 @@
     "link": null,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "320909",
+    "type": "tmdb",
+    "title": "萤火虫的出嫁",
+    "posterPath": "https://image.tmdb.org/t/p/w500/1Ai8YqNqe2PYEJGvWRdGTAnpBEr.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "tv",
+    "rating": "9.9",
+    "description": "在女人被视为家中财产的时代。故事起始生于名门世家又天生丽质，却被宣告时日无多的伯爵家千金·桐谷纱都子。她的梦想是嫁入名门，成为父亲的骄傲。可是在某天夜里，她遭不明人士算计，被绑架了。面对正好在紧要关头时出现的杀手·后藤进平，纱都子情急之下撒谎说道：“我们结婚吧！只要跟我在一起，便能获得一切。”认定纱都子是“真命天女”，疯狂爱着她的进平；以及在自身使命与对进平的感情间摇摆不定的纱都子。在此展现的，是两人专一却不被容许的恋情。这是个爱太沉重的杀手与命不久矣千金的狂爱故事。",
+    "link": null,
+    "tmdb_id": "320909",
+    "tmdb_site_id": "tv/320909",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
       "JP"
