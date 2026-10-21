@@ -99,19 +99,17 @@
     "id": "316551",
     "type": "tmdb",
     "title": "战斗之魂[Re] 绝界之空",
-    "posterPath": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/af/544378_j3ouu.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "8.0",
-    "description": "唯有武士才被允许、以性命相搏、被称为 \"永恒\" 的决斗之战 ——\n\n而在民众之间，不涉及生死的 \"标准之战\" 正逐渐普及开来。\n\n两个灵魂相互交汇，历史由此转动 ——",
+    "rating": "4.8",
+    "description": "2026年10月6日 / 工藤昌史 / BN Pictures / 小金丸篤美、村上真紀、西村貴世",
     "link": null,
     "tmdb_id": "316551",
     "tmdb_site_id": "tv/316551",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "507820",
@@ -190,7 +188,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d3/a3/467930_jH4s4.jpg",
     "releaseDate": "2025-07-05",
     "mediaType": "tv",
-    "rating": "6.8",
+    "rating": "6.9",
     "description": "13话 /  2025年7月5日 / 増井壮一 / 鴨志田一（電撃文庫刊「『青春ブタ野郎』シリーズ」） / 田村里美",
     "link": null,
     "tmdb_id": "82739",

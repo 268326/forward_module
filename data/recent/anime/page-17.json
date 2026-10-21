@@ -1,14 +1,19 @@
 [
   {
-    "id": "650428",
-    "type": "link",
+    "id": "293124",
+    "type": "tmdb",
     "title": "黑化吧！圣女大人 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.0",
     "description": "2026年10月1日 / 深瀬沙哉 / 『傷だらけ聖女より報復をこめて』　編乃肌、SORAJIMA",
-    "link": "https://bgm.tv/subject/650428"
+    "link": null,
+    "tmdb_id": "293124",
+    "tmdb_site_id": "tv/293124",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "208891",

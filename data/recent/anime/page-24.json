@@ -2,20 +2,18 @@
   {
     "id": "334103",
     "type": "tmdb",
-    "title": "ごーすと・みーつ・ぎゃる！",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lmckivRH2w5KDzCaX3jc9EWAFPj.jpg",
+    "title": "Ghost Meets Gal!",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/b8/83/675448_GDFw2.jpg",
     "releaseDate": "2026-09-05",
     "mediaType": "tv",
-    "rating": "4.0",
+    "rating": "",
     "description": "2026年9月5日 / 森井ケンシロウ / ブシロード、カエルDX / 月海充",
     "link": null,
     "tmdb_id": "334103",
     "tmdb_site_id": "tv/334103",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "127532/season/1/episode/13",

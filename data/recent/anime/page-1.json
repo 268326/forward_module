@@ -54,7 +54,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
     "releaseDate": "2026-10-20",
     "mediaType": "anime",
-    "rating": "5.8",
+    "rating": "5.6",
     "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
     "link": "https://bgm.tv/subject/513878"
   },
@@ -96,19 +96,17 @@
     "id": "284580",
     "type": "tmdb",
     "title": "某暗部的少女共栖",
-    "posterPath": "https://image.tmdb.org/t/p/w500/sQc41tH2TJP2dIiXZtXlfXpVGbc.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_6rr67.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "tv",
-    "rating": "10.0",
-    "description": "位于东京西部的巨大的“学园都市”，这座总人口达230万的城市中，学生比例约占八成。为了开发学生的超能力，这里实施着特殊的课程体系能力，从“无能力(Level0)”到“超能力(Level5)”，共分为六个等级进行评定。这是一所拥有远超世间常识的科学技术，让每个人都能获得科学能力、安全生活的梦幻般教育机构——在这份和平的表象之下，存在着名为“暗部”的组织，他们专门接手那些永远无法见光的“脏活”。“道具(Item)”是由四名少女组成的精锐部队：能够自由操控氮气，构筑铁壁防御的绢旗最爱；善用爆炸物与陷阱，将战场玩弄于股掌之间的芙兰达·塞维伦；能够读取并追踪能力者所释放的微弱力量的泷壶理后；在学园都市中仅有的七位“超能力者(Level5)”之一的麦野沉利。出现在她们面前的第五位少女，这份相遇将“道具”引向了新的黑暗深渊……这是一个描绘暴力、不义与背德交织，一群相当特立独行的超能力少女们的日常、羁绊，以及那深邃无边的“黑暗”的故事。",
+    "rating": "7.1",
+    "description": "2026年10月9日 / 長井龍雪 / 鎌池和馬（電撃文庫刊） / 木本茂樹",
     "link": null,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "312850",
@@ -175,15 +173,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "637802",
-    "type": "link",
+    "id": "259140",
+    "type": "tmdb",
     "title": "乱马1/2 第三季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7a/49/637802_YVTam.jpg",
     "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.4",
+    "mediaType": "tv",
+    "rating": "7.5",
     "description": "2026年10月3日 / 宇田鋼之介 / 高橋留美子（小学館「少年サンデーコミックス」刊） / 谷口宏美",
-    "link": "https://bgm.tv/subject/637802"
+    "link": null,
+    "tmdb_id": "259140",
+    "tmdb_site_id": "tv/259140",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "207347/season/1/episode/26",
@@ -204,20 +207,18 @@
   {
     "id": "321518",
     "type": "tmdb",
-    "title": "世界最强魔女，就此开始",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pw9Ha86plPe344JED6ij85UPZKZ.jpg",
+    "title": "世界最强的魔女，就此开始",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/89/fc/646154_uQi81.jpg",
     "releaseDate": "2026-10-07",
     "mediaType": "tv",
-    "rating": "7.5",
-    "description": "因为觉醒了最弱等级技能，而被家族扫地出门的少女·罗娜。然而那项技能的真面目，居然是能够浏览这个世界的“攻略网站”的SSS级作弊技能“互联网”！为了追求自由和平的生活而踏上旅程的“世界最强的魔女”罗娜，她那无厘头的冒险日常，终于动画化！",
+    "rating": "6.4",
+    "description": "12话 /  2026年10月7日 / 古田丈司 / 坂木持丸（SQEXノベル/スクウェア・エニックス刊）；戸賀環（講談社「月マガ基地」連載） / 森本由布希",
     "link": null,
     "tmdb_id": "321518",
     "tmdb_site_id": "tv/321518",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "94664",
@@ -239,19 +240,17 @@
     "id": "313068",
     "type": "tmdb",
     "title": "你好，我是受心上人所托来做恋爱药的魔女。",
-    "posterPath": "https://image.tmdb.org/t/p/w500/lWiO7BNH31GOxTFFUOa2fMviFTr.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/73/99/624923_4u99L.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "8.3",
-    "description": "“希望你能帮我制作迷情药”隐居在湖畔的魔女萝赛，从她暗恋的骑士哈利玖口中听到了这句话。他心里挂念着别人，而非自己——面对这一现实，萝赛失恋了。即便如此，她依然无法拒绝他的委托。心想哪怕只在迷情药完成前的这段时间里能和他待在一起也好，萝赛将这份苦涩的爱恋深藏心底，度过着每一天。哪怕明知这是一场无望的单恋，这份心意也无法抹去。这是一位笨拙的家里蹲魔女×一位爱照顾人又一本正经的骑士。以迷情药为契机交织而成的，令人揪心的恋爱物语。",
+    "rating": "6.4",
+    "description": "12话 /  2026年10月5日 / 草川啓造 / 六つ花えいこ / 石川雅一",
     "link": null,
     "tmdb_id": "313068",
     "tmdb_site_id": "tv/313068",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "280042/season/1/episode/13",
@@ -276,7 +275,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
     "releaseDate": "2026-10-05",
     "mediaType": "tv",
-    "rating": "6.5",
+    "rating": "6.6",
     "description": "24话 /  2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
     "link": null,
     "tmdb_id": "305313",
@@ -286,26 +285,36 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "584847",
-    "type": "link",
+    "id": "261343",
+    "type": "tmdb",
     "title": "弹珠汽水瓶里的千岁同学 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
     "releaseDate": "2026-10-13",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "4.9",
     "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
-    "link": "https://bgm.tv/subject/584847"
+    "link": null,
+    "tmdb_id": "261343",
+    "tmdb_site_id": "tv/261343",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
-    "id": "412008",
-    "type": "link",
+    "id": "134667",
+    "type": "tmdb",
     "title": "转生就是剑 第二季",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ed/412008_vuyt4.jpg",
     "releaseDate": "2026-10-07",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "6.6",
     "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
-    "link": "https://bgm.tv/subject/412008"
+    "link": null,
+    "tmdb_id": "134667",
+    "tmdb_site_id": "tv/134667",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "302020",
@@ -343,19 +352,17 @@
     "id": "337408",
     "type": "tmdb",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
-    "posterPath": "https://image.tmdb.org/t/p/w500/pyrsMpfHJLggLVx92JF7MIEPYDI.jpg",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/af/7e/656083_B22Yt.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "tv",
-    "rating": "10.0",
-    "description": "为了继承突然逝去的父亲的遗产而在数月前到来的，位于幽静的住宅街的妖怪专用出租公寓。那里有一位丈夫去世，非常之梦幻而美丽的未亡人雪女雪乃小姐。然后在父亲留下的房间里有着个本不应在那里的，可随心所欲地控制妖怪的戒指。本是想要帮助改善陷入困难的雪乃小姐的生活可是却跟随了内心的欲望，事态开始走向未曾设想的方向……",
+    "rating": "5.3",
+    "description": "2026年10月4日 / ぷぅ崎ぷぅ奈",
     "link": null,
     "tmdb_id": "337408",
     "tmdb_site_id": "tv/337408",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "65942/season/1/episode/78",

@@ -48,15 +48,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "617948",
-    "type": "link",
+    "id": "253811",
+    "type": "tmdb",
     "title": "桃源暗鬼 ～日光・华严之泷篇～",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/617948_Mm3mn.jpg",
     "releaseDate": "2026-10-02",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.6",
     "description": "12话 /  2026年10月2日 / 漆原侑来（秋田書店「週刊少年チャンピオン」連載）",
-    "link": "https://bgm.tv/subject/617948"
+    "link": null,
+    "tmdb_id": "253811",
+    "tmdb_site_id": "tv/253811",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "207250",

@@ -137,10 +137,10 @@
     "id": "337260",
     "type": "tmdb",
     "title": "ふんばるず",
-    "posterPath": "https://image.tmdb.org/t/p/w500/gvUIcR5ZXKQRWoeIoWMqbT2fbpN.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/79/c2/701565_WkAaz.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "0.0",
+    "rating": "N/A",
     "description": "[星期六]",
     "link": null,
     "bgm_id": "701565",
@@ -150,10 +150,8 @@
     "tmdb_id": "337260",
     "tmdb_site_id": "tv/337260",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "712500",
@@ -171,19 +169,24 @@
     "bgm_weekday_id": 6
   },
   {
-    "id": "635258",
-    "type": "link",
+    "id": "315682",
+    "type": "tmdb",
     "title": "啵普与帕噗与珀尔嗒",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/df/29/635258_JqFf3.jpg",
     "releaseDate": "2026-10-04",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "N/A",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/635258",
+    "link": null,
     "bgm_id": "635258",
     "bgm_score": 0,
     "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "315682",
+    "tmdb_site_id": "tv/315682",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "646586",
