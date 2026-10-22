@@ -176,7 +176,7 @@
     "link": null,
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 32,
+    "bgm_rating_total": 33,
     "bgm_weekday_id": 3,
     "tmdb_id": "230050",
     "tmdb_site_id": "tv/230050",
@@ -271,7 +271,7 @@
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
     "bgm_score": 6.9,
-    "bgm_rating_total": 16,
+    "bgm_rating_total": 18,
     "bgm_weekday_id": 6
   },
   {
@@ -400,18 +400,23 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "688797",
-    "type": "link",
-    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
+    "id": "337290",
+    "type": "tmdb",
+    "title": "小狸猫与小狐狸",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
     "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.3",
+    "mediaType": "tv",
+    "rating": "5.7",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/688797",
-    "bgm_id": "688797",
-    "bgm_score": 6.3,
+    "link": null,
+    "bgm_id": "638081",
+    "bgm_score": 5.7,
     "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337290",
+    "tmdb_site_id": "tv/337290",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]
