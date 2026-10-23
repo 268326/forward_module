@@ -267,6 +267,21 @@
     "bgm_weekday_id": 2
   },
   {
+    "id": "715233",
+    "type": "link",
+    "title": "那年那兔那些事儿 长征番外篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
+    "releaseDate": "2026-10-27",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/715233",
+    "bgm_id": "715233",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "665014",
     "type": "link",
     "title": "黑暗学院 第二季",
