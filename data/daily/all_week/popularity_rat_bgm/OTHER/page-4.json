@@ -1,5 +1,20 @@
 [
   {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "337290",
     "type": "tmdb",
     "title": "小狸猫与小狐狸",
@@ -35,6 +50,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "705980",
+    "type": "link",
+    "title": "熊出没之神奇宝物 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "7.3",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/705980",
+    "bgm_id": "705980",
+    "bgm_score": 7.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "593863",
     "type": "link",
     "title": "罗小黑战记 学前篇",
@@ -48,21 +78,6 @@
     "bgm_score": 7.5,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "705980",
-    "type": "link",
-    "title": "熊出没之神奇宝物 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "7.3",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/705980",
-    "bgm_id": "705980",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 4
   },
   {
     "id": "698981",
@@ -367,21 +382,6 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/709475",
     "bgm_id": "709475",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "712926",
-    "type": "link",
-    "title": "都市古医仙2",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/f5/be/712926_i4vqi.jpg",
-    "releaseDate": "2026-10-14",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/712926",
-    "bgm_id": "712926",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

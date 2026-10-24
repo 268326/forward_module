@@ -32,15 +32,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "513878",
-    "type": "link",
+    "id": "105248",
+    "type": "tmdb",
     "title": "赛博朋克：边缘行者 2",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
     "releaseDate": "2026-10-20",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "5.6",
     "description": "10话 /  2026年10月20日 / 五十嵐海 / 菅野一期",
-    "link": "https://bgm.tv/subject/513878"
+    "link": null,
+    "tmdb_id": "105248",
+    "tmdb_site_id": "tv/105248/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "45790/season/6/episode/2",
@@ -65,7 +70,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/55/e2/568244_e64dA.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "tv",
-    "rating": "7.4",
+    "rating": "7.3",
     "description": "12话 /  2026年10月2日 / 筆坂明規 / 日向夏（ヒーロー文庫／イマジカインフォス刊） / 中谷友紀子",
     "link": null,
     "tmdb_id": "220542/season/1/episode/49",
@@ -243,7 +248,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
     "releaseDate": "2026-10-03",
     "mediaType": "tv",
-    "rating": "6.5",
+    "rating": "6.4",
     "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
     "link": null,
     "tmdb_id": "280042/season/1/episode/13",
@@ -285,7 +290,7 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "261343",
+    "id": "261343/season/1/episode/14",
     "type": "tmdb",
     "title": "弹珠汽水瓶里的千岁同学 第2部分",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
@@ -294,8 +299,8 @@
     "rating": "4.8",
     "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
     "link": null,
-    "tmdb_id": "261343",
-    "tmdb_site_id": "tv/261343",
+    "tmdb_id": "261343/season/1/episode/14",
+    "tmdb_site_id": "tv/261343/season/1/episode/14",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -311,8 +316,8 @@
     "description": "12话 /  2026年10月7日 / 石平信司 / 棚架ユウ（GCノベルズ『転生したら剣でした』／マイクロマガジン社刊） / 齋藤温子",
     "link": null,
     "tmdb_id": "134667",
-    "tmdb_site_id": "tv/134667",
-    "tmdb_season_number": null,
+    "tmdb_site_id": "tv/134667/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

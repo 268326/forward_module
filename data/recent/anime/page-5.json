@@ -1,17 +1,17 @@
 [
   {
-    "id": "1575337",
+    "id": "94664",
     "type": "tmdb",
-    "title": "超辉夜姬！",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f6/0f/604826_2XWRN.jpg",
-    "releaseDate": "2026-01-22",
-    "mediaType": "movie",
-    "rating": "8.1",
-    "description": "1话 /  2026年1月22日 / 山下清悟 / 月夜见人设：へちま(加藤ふみ)；现实人设：永江彰浩",
+    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+    "releaseDate": "2023-07-02",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
     "link": null,
-    "tmdb_id": "1575337",
-    "tmdb_site_id": "movie/1575337",
-    "tmdb_season_number": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -96,22 +96,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "37854",
-    "type": "tmdb",
-    "title": "航海王",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/97/975_GFGYI.jpg",
-    "releaseDate": "1999-10-20",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "1155话 /  1999年10月20日 / 尾田栄一郎（集英社「週刊少年ジャンプ」連載） / 小泉昇（1-425）→久田和也（385-891）→松田翠（780-782、892-）",
-    "link": null,
-    "tmdb_id": "37854",
-    "tmdb_site_id": "tv/37854",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "94664/season/2/episode/13",
     "type": "tmdb",
     "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
@@ -123,6 +107,22 @@
     "link": null,
     "tmdb_id": "94664/season/2/episode/13",
     "tmdb_site_id": "tv/94664/season/2/episode/13",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "37854",
+    "type": "tmdb",
+    "title": "航海王",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/92/97/975_GFGYI.jpg",
+    "releaseDate": "1999-10-20",
+    "mediaType": "tv",
+    "rating": "8.3",
+    "description": "1155话 /  1999年10月20日 / 尾田栄一郎（集英社「週刊少年ジャンプ」連載） / 小泉昇（1-425）→久田和也（385-891）→松田翠（780-782、892-）",
+    "link": null,
+    "tmdb_id": "37854",
+    "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -203,6 +203,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "312522",
+    "type": "tmdb",
+    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
+    "releaseDate": "2026-04-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "12话 /  2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
+    "link": null,
+    "tmdb_id": "312522",
+    "tmdb_site_id": "tv/312522",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲",
@@ -235,6 +251,25 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "335788",
+    "type": "tmdb",
+    "title": "苍蓝传承  威尔什与榭达",
+    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "tv",
+    "rating": "7.0",
+    "description": "本片是由曾打造知名 MMORPG《龙梦幻境》（Dofus）的法国 Ankama 公司倾力制作的原创电视动画。故事中，擅长料理且心地善良的少年威尔什，原本在布拉希卡村过着与世无争的平静生活，直到一场突如其来的巨龙袭击，彻底打破了他安稳的日常。与此同时，大陆第一大国邦塔的王子榭达，在一边全力辅佐女王母亲莎贝尔的同时，心中却因某起事件对母亲的所作所为隐隐产生了怀疑。围绕着传说中创造世界的至宝“多夫斯（Dofus）”，两位出身截然不同的少年命运交织，一场波澜壮阔的奇幻冒险史诗就此揭开序幕。",
+    "link": null,
+    "tmdb_id": "335788",
+    "tmdb_site_id": "tv/335788",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP",
+      "FR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "250008",
     "type": "tmdb",
     "title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿",
@@ -262,41 +297,6 @@
     "link": "https://bgm.tv/subject/334105"
   },
   {
-    "id": "312522",
-    "type": "tmdb",
-    "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg",
-    "releaseDate": "2026-04-07",
-    "mediaType": "tv",
-    "rating": "7.1",
-    "description": "12话 /  2026年4月7日 / ソエジマヤスフミ / 安泰（宝島社刊） / 松元美季",
-    "link": null,
-    "tmdb_id": "312522",
-    "tmdb_site_id": "tv/312522",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "335788",
-    "type": "tmdb",
-    "title": "苍蓝传承  威尔什与榭达",
-    "posterPath": "https://image.tmdb.org/t/p/w500/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "本片是由曾打造知名 MMORPG《龙梦幻境》（Dofus）的法国 Ankama 公司倾力制作的原创电视动画。故事中，擅长料理且心地善良的少年威尔什，原本在布拉希卡村过着与世无争的平静生活，直到一场突如其来的巨龙袭击，彻底打破了他安稳的日常。与此同时，大陆第一大国邦塔的王子榭达，在一边全力辅佐女王母亲莎贝尔的同时，心中却因某起事件对母亲的所作所为隐隐产生了怀疑。围绕着传说中创造世界的至宝“多夫斯（Dofus）”，两位出身截然不同的少年命运交织，一场波澜壮阔的奇幻冒险史诗就此揭开序幕。",
-    "link": null,
-    "tmdb_id": "335788",
-    "tmdb_site_id": "tv/335788",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "FR"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "253476",
     "type": "tmdb",
     "title": "异国日记",
@@ -313,20 +313,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "79166",
-    "type": "tmdb",
-    "title": "碧蓝之海 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
-    "releaseDate": "2025-07-07",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "12话 /  2025年7月7日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
-    "link": null,
-    "tmdb_id": "79166",
-    "tmdb_site_id": "tv/79166/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "589284",
+    "type": "link",
+    "title": "青春猪头少年不会梦到亲爱好朋友",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/6d/79/589284_sJqTE.jpg",
+    "releaseDate": "2026-10-16",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "1话 /  2026年10月16日 / 増井壮一 / 鴨志田一（電撃文庫刊「『青春ブタ野郎』シリーズ」） / 田村里美",
+    "link": "https://bgm.tv/subject/589284"
   },
   {
     "id": "241535",
@@ -361,17 +356,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280049",
+    "id": "79166",
     "type": "tmdb",
-    "title": "地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/0b/638151_q95Ls.jpg",
-    "releaseDate": "2026-07-03",
+    "title": "碧蓝之海 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
+    "releaseDate": "2025-07-07",
     "mediaType": "tv",
-    "rating": "5.7",
-    "description": "13话 /  2026年7月3日 / 玉川真人 / ハム男（アース・スターノベル／アース・スター エンターテイメント刊） / 津島桂",
+    "rating": "7.3",
+    "description": "12话 /  2025年7月7日 / 高松信司 / 井上堅二・吉岡公威（講談社「good!アフタヌーン」連載） / 草間英興",
     "link": null,
-    "tmdb_id": "280049",
-    "tmdb_site_id": "tv/280049/season/2",
+    "tmdb_id": "79166",
+    "tmdb_site_id": "tv/79166/season/2",
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

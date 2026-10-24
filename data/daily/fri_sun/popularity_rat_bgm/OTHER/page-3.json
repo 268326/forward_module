@@ -1,5 +1,25 @@
 [
   {
+    "id": "337299",
+    "type": "tmdb",
+    "title": "ゆるゆる図鑑",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/e3/df/661278_g29RR.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "661278",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337299",
+    "tmdb_site_id": "tv/337299",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "632061",
     "type": "link",
     "title": "决斗大师 LOST ～断罪的少年～",
