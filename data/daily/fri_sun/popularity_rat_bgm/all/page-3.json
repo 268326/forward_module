@@ -1,5 +1,35 @@
 [
   {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 6,
+    "bgm_weekday_id": 7
+  },
+  {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "698981",
     "type": "link",
     "title": "探险时光：支线任务 第二季",
@@ -13,21 +43,6 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "551304",
-    "type": "link",
-    "title": "我的幸福婚姻 特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_FbmZ9.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/551304",
-    "bgm_id": "551304",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 7
   },
   {
     "id": "337299",
@@ -230,16 +245,16 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "715907",
+    "id": "716251",
     "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
+    "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "N/A",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
+    "link": "http://bgm.tv/subject/716251",
+    "bgm_id": "716251",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

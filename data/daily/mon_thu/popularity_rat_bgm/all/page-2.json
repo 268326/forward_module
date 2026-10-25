@@ -1,23 +1,18 @@
 [
   {
-    "id": "303272",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "[星期三]",
-    "link": null,
-    "bgm_id": "502123",
-    "bgm_score": 6.2,
-    "bgm_rating_total": 54,
-    "bgm_weekday_id": 3,
-    "tmdb_id": "303272",
-    "tmdb_site_id": "tv/303272",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 57,
+    "bgm_weekday_id": 4
   },
   {
     "id": "230050",
@@ -71,7 +66,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 6.5,
-    "bgm_rating_total": 13,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 1
   },
   {
@@ -116,12 +111,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
     "releaseDate": "2026-10-15",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/449346",
     "bgm_id": "449346",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 7,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 8,
     "bgm_weekday_id": 4
   },
   {
@@ -131,12 +126,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/83/75/705980_zVjkX.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/705980",
     "bgm_id": "705980",
-    "bgm_score": 7.3,
-    "bgm_rating_total": 4,
+    "bgm_score": 7.2,
+    "bgm_rating_total": 5,
     "bgm_weekday_id": 4
   },
   {

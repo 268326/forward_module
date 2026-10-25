@@ -1,5 +1,20 @@
 [
   {
+    "id": "698981",
+    "type": "link",
+    "title": "探险时光：支线任务 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/698981",
+    "bgm_id": "698981",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "337299",
     "type": "tmdb",
     "title": "ゆるゆる図鑑",
@@ -200,16 +215,16 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "715907",
+    "id": "716251",
     "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
+    "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "N/A",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
+    "link": "http://bgm.tv/subject/716251",
+    "bgm_id": "716251",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7

@@ -1,5 +1,20 @@
 [
   {
+    "id": "709326",
+    "type": "link",
+    "title": "Kiff: Scarm II: The Screamwriter",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/b5/709326_Fsz6K.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/709326",
+    "bgm_id": "709326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
     "id": "715233",
     "type": "link",
     "title": "那年那兔那些事儿 长征篇",
@@ -234,16 +249,16 @@
     "bgm_weekday_id": 7
   },
   {
-    "id": "715907",
+    "id": "716251",
     "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
+    "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
+    "releaseDate": "2026-10-04",
     "mediaType": "anime",
     "rating": "N/A",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
+    "link": "http://bgm.tv/subject/716251",
+    "bgm_id": "716251",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7
