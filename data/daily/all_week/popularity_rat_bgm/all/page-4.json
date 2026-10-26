@@ -1,5 +1,20 @@
 [
   {
+    "id": "390200",
+    "type": "link",
+    "title": "列女战纪：女娲石记",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "3.6",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/390200",
+    "bgm_id": "390200",
+    "bgm_score": 3.6,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -28,21 +43,6 @@
     "bgm_score": 6.9,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "551304",
-    "type": "link",
-    "title": "我的幸福婚姻 特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_FbmZ9.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "5.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/551304",
-    "bgm_id": "551304",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 7
   },
   {
     "id": "60761/season/4/episode/14",
@@ -80,6 +80,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "337290",
     "type": "tmdb",
     "title": "小狸猫与小狐狸",
@@ -111,21 +126,6 @@
     "link": "http://bgm.tv/subject/688797",
     "bgm_id": "688797",
     "bgm_score": 6.3,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.7,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 7
   },

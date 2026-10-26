@@ -1,25 +1,5 @@
 [
   {
-    "id": "60761/season/4/episode/14",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "664395",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "60761/season/4/episode/14",
-    "tmdb_site_id": "tv/60761/season/4/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -33,6 +13,21 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 7
   },
   {
     "id": "337290",
@@ -66,21 +61,6 @@
     "link": "http://bgm.tv/subject/688797",
     "bgm_id": "688797",
     "bgm_score": 6.3,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.7,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 7
   },
@@ -342,6 +322,21 @@
     "description": "[星期一]",
     "link": "http://bgm.tv/subject/713654",
     "bgm_id": "713654",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
+    "id": "716367",
+    "type": "link",
+    "title": "歯ならび～ズ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/97/3a/716367_cx1FD.jpg",
+    "releaseDate": "2026-10-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/716367",
+    "bgm_id": "716367",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1

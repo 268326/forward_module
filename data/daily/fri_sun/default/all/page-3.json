@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "636023",
     "bgm_score": 6.1,
-    "bgm_rating_total": 233,
+    "bgm_rating_total": 236,
     "bgm_weekday_id": 7,
     "tmdb_id": "320377",
     "tmdb_site_id": "tv/320377",
@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "636058",
     "bgm_score": 5.3,
-    "bgm_rating_total": 43,
+    "bgm_rating_total": 42,
     "bgm_weekday_id": 7,
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "647220",
     "bgm_score": 4.3,
-    "bgm_rating_total": 170,
+    "bgm_rating_total": 172,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -126,7 +126,7 @@
     "link": null,
     "bgm_id": "656083",
     "bgm_score": 5.3,
-    "bgm_rating_total": 221,
+    "bgm_rating_total": 220,
     "bgm_weekday_id": 7,
     "tmdb_id": "337408",
     "tmdb_site_id": "tv/337408",
@@ -258,7 +258,7 @@
     "link": "http://bgm.tv/subject/712000",
     "bgm_id": "712000",
     "bgm_score": 6.0,
-    "bgm_rating_total": 9,
+    "bgm_rating_total": 10,
     "bgm_weekday_id": 7
   },
   {
@@ -273,7 +273,7 @@
     "link": "http://bgm.tv/subject/715907",
     "bgm_id": "715907",
     "bgm_score": 6.7,
-    "bgm_rating_total": 6,
+    "bgm_rating_total": 7,
     "bgm_weekday_id": 7
   },
   {
