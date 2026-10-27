@@ -1,5 +1,20 @@
 [
   {
+    "id": "449346",
+    "type": "link",
+    "title": "大理寺日志 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/449346",
+    "bgm_id": "449346",
+    "bgm_score": 7.1,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -13,21 +28,6 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.7",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.7,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 7
   },
   {
     "id": "337290",
@@ -93,6 +93,21 @@
     "bgm_score": 7.5,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "576783",
+    "type": "link",
+    "title": "狂王 第2季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/576783",
+    "bgm_id": "576783",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 4
   },
   {
     "id": "698981",
@@ -193,21 +208,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "576783",
-    "type": "link",
-    "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/576783",
-    "bgm_id": "576783",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4
   },
   {
     "id": "632061",
@@ -357,21 +357,6 @@
     "bgm_weekday_id": 2
   },
   {
-    "id": "715233",
-    "type": "link",
-    "title": "那年那兔那些事儿 长征篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
-    "releaseDate": "2026-10-27",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/715233",
-    "bgm_id": "715233",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
     "id": "665014",
     "type": "link",
     "title": "黑暗学院 第二季",
@@ -382,6 +367,21 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/665014",
     "bgm_id": "665014",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
+    "id": "709475",
+    "type": "link",
+    "title": "ゲルぴよ 第2期",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
+    "releaseDate": "2026-10-21",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/709475",
+    "bgm_id": "709475",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 6.0,
-    "bgm_rating_total": 58,
+    "bgm_rating_total": 59,
     "bgm_weekday_id": 4
   },
   {
@@ -46,7 +46,7 @@
     "link": null,
     "bgm_id": "544378",
     "bgm_score": 4.7,
-    "bgm_rating_total": 27,
+    "bgm_rating_total": 29,
     "bgm_weekday_id": 2,
     "tmdb_id": "316551",
     "tmdb_site_id": "tv/316551",
@@ -76,11 +76,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
-    "rating": "4.5",
+    "rating": "3.9",
     "description": "[星期四]",
     "link": null,
     "bgm_id": "650428",
-    "bgm_score": 4.5,
+    "bgm_score": 3.9,
     "bgm_rating_total": 14,
     "bgm_weekday_id": 4,
     "tmdb_id": "293124",
@@ -132,6 +132,21 @@
     "bgm_id": "705980",
     "bgm_score": 7.2,
     "bgm_rating_total": 5,
+    "bgm_weekday_id": 4
+  },
+  {
+    "id": "576783",
+    "type": "link",
+    "title": "狂王 第2季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/576783",
+    "bgm_id": "576783",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 4
   },
   {
@@ -198,21 +213,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "576783",
-    "type": "link",
-    "title": "狂王 第2季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/576783",
-    "bgm_id": "576783",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 4
   },
   {
     "id": "337388",
@@ -292,21 +292,6 @@
     "description": "[星期二]",
     "link": "http://bgm.tv/subject/709326",
     "bgm_id": "709326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "715233",
-    "type": "link",
-    "title": "那年那兔那些事儿 长征篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b1/5d/715233_E9Z2Z.jpg",
-    "releaseDate": "2026-10-27",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/715233",
-    "bgm_id": "715233",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 2
@@ -399,5 +384,20 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "704737",
+    "type": "link",
+    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/704737",
+    "bgm_id": "704737",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 4
   }
 ]
