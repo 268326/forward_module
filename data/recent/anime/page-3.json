@@ -16,23 +16,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326247",
+    "id": "308403",
     "type": "tmdb",
-    "title": "愚者之夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/id15rr4VKQOrxBBBgMe7MfITzTT.jpg",
-    "releaseDate": "2026-11-26",
+    "title": "炒翻天",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
+    "releaseDate": "2026-07-05",
     "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
+    "rating": "7.4",
+    "description": "12话 /  2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
     "link": null,
-    "tmdb_id": "326247",
-    "tmdb_site_id": "tv/326247",
+    "tmdb_id": "308403",
+    "tmdb_site_id": "tv/308403",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "323937",
@@ -51,20 +48,23 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "308403",
+    "id": "326247",
     "type": "tmdb",
-    "title": "炒翻天",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/27/b5/615835_IbNAh.jpg",
-    "releaseDate": "2026-07-05",
+    "title": "愚者之夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/id15rr4VKQOrxBBBgMe7MfITzTT.jpg",
+    "releaseDate": "2026-11-26",
     "mediaType": "tv",
-    "rating": "7.4",
-    "description": "12话 /  2026年7月5日 / あおきえい / 西条真二（KADOKAWA刊） / 松本昌子",
+    "rating": "0.0",
+    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
     "link": null,
-    "tmdb_id": "308403",
-    "tmdb_site_id": "tv/308403",
+    "tmdb_id": "326247",
+    "tmdb_site_id": "tv/326247",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "312359",
@@ -131,6 +131,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "278043",
+    "type": "tmdb",
+    "title": "相反的你和我",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
+    "releaseDate": "2026-01-11",
+    "mediaType": "tv",
+    "rating": "7.7",
+    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "link": null,
+    "tmdb_id": "278043",
+    "tmdb_site_id": "tv/278043",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "312266",
     "type": "tmdb",
     "title": "花织即使是转生也想打架",
@@ -147,17 +163,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043",
+    "id": "200777",
     "type": "tmdb",
-    "title": "相反的你和我",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/71/50/525565_OxOv7.jpg",
-    "releaseDate": "2026-01-11",
+    "title": "冰剑的魔术师将要统一世界 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/2f/654294_ckrD9.jpg",
+    "releaseDate": "2026-10-08",
     "mediaType": "tv",
-    "rating": "7.7",
-    "description": "12话 /  2026年1月11日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+    "rating": "5.6",
+    "description": "12话 /  2026年10月8日 / たかたまさひろ / 御子柴奈々『冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する』（講談社ラノベ文庫刊） / 川元まりこ",
     "link": null,
-    "tmdb_id": "278043",
-    "tmdb_site_id": "tv/278043",
+    "tmdb_id": "200777",
+    "tmdb_site_id": "tv/200777",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -195,22 +211,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "200777",
-    "type": "tmdb",
-    "title": "冰剑的魔术师将要统一世界 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/2f/654294_ckrD9.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年10月8日 / たかたまさひろ / 御子柴奈々『冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する』（講談社ラノベ文庫刊） / 川元まりこ",
-    "link": null,
-    "tmdb_id": "200777",
-    "tmdb_site_id": "tv/200777",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "223564/season/1/episode/25",
     "type": "tmdb",
     "title": "超超超超超喜欢你的100个女朋友 第三季",
@@ -243,17 +243,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "237150",
+    "id": "105248",
     "type": "tmdb",
-    "title": "转生贵族凭鉴定技能扭转人生 第三季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/32/530104_8pzHh.jpg",
-    "releaseDate": "2026-09-27",
+    "title": "赛博朋克：边缘行者",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/83/309311_dJU58.jpg",
+    "releaseDate": "2022-09-13",
     "mediaType": "tv",
-    "rating": "5.1",
-    "description": "2026年9月27日 / 加戸誉夫 / 未来人A『転生貴族、鑑定スキルで成り上がる〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜』（講談社「Kラノベブックス」刊）；漫画：井上菜摘 （講談社「マガジンポケット」連載） / 八尋裕子",
+    "rating": "8.3",
+    "description": "10话 /  2022年9月13日 / 今石洋之 / CD Projekt（Cyberpunk 2077, set in a universe created by Mike Pondsmith） / 吉成曜",
     "link": null,
-    "tmdb_id": "237150",
-    "tmdb_site_id": "tv/237150",
+    "tmdb_id": "105248",
+    "tmdb_site_id": "tv/105248",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -270,22 +270,6 @@
     "link": null,
     "tmdb_id": "303272",
     "tmdb_site_id": "tv/303272",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "105248",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/39/83/309311_dJU58.jpg",
-    "releaseDate": "2022-09-13",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "10话 /  2022年9月13日 / 今石洋之 / CD Projekt（Cyberpunk 2077, set in a universe created by Mike Pondsmith） / 吉成曜",
-    "link": null,
-    "tmdb_id": "105248",
-    "tmdb_site_id": "tv/105248",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -323,22 +307,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "216467/season/2/episode/13",
-    "type": "tmdb",
-    "title": "夜樱家的大作战 第二季 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/95/5d/664389_zP36V.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "5.9",
-    "description": "2026年10月11日 / 中津川孝広 / 権平ひつじ『夜桜さんちの大作戦』 （集英社ジャンプコミックス刊） / 髙橋瑞紀",
-    "link": null,
-    "tmdb_id": "216467/season/2/episode/13",
-    "tmdb_site_id": "tv/216467/season/2/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "295420",
     "type": "tmdb",
     "title": "朱色假面",
@@ -355,13 +323,29 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "216467/season/2/episode/13",
+    "type": "tmdb",
+    "title": "夜樱家的大作战 第二季 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/95/5d/664389_zP36V.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "2026年10月11日 / 中津川孝広 / 権平ひつじ『夜桜さんちの大作戦』 （集英社ジャンプコミックス刊） / 髙橋瑞紀",
+    "link": null,
+    "tmdb_id": "216467/season/2/episode/13",
+    "tmdb_site_id": "tv/216467/season/2/episode/13",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "283428",
     "type": "tmdb",
     "title": "冰之城墙",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "7.2",
+    "rating": "7.3",
     "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": null,
     "tmdb_id": "283428",
@@ -387,5 +371,21 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "237150",
+    "type": "tmdb",
+    "title": "转生贵族凭鉴定技能扭转人生 第三季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/32/530104_8pzHh.jpg",
+    "releaseDate": "2026-09-27",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "2026年9月27日 / 加戸誉夫 / 未来人A『転生貴族、鑑定スキルで成り上がる〜弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた〜』（講談社「Kラノベブックス」刊）；漫画：井上菜摘 （講談社「マガジンポケット」連載） / 八尋裕子",
+    "link": null,
+    "tmdb_id": "237150",
+    "tmdb_site_id": "tv/237150",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   }
 ]

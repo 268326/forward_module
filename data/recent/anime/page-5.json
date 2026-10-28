@@ -1,5 +1,21 @@
 [
   {
+    "id": "255358",
+    "type": "tmdb",
+    "title": "攻壳机动队 THE GHOST IN THE SHELL",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg",
+    "releaseDate": "2026-07-07",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "10话 /  2026年7月7日 / モコちゃん / 士郎正宗（講談社 KCデラックス刊） / 半田修平",
+    "link": null,
+    "tmdb_id": "255358",
+    "tmdb_site_id": "tv/255358",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "220542/season/1/episode/25",
     "type": "tmdb",
     "title": "药屋少女的呢喃 第二季",
@@ -14,17 +30,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "502499",
-    "type": "link",
-    "title": "GROTESQQQUE -グロテスク-",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fc/502499_oxoci.jpg",
-    "releaseDate": "2026-11-06",
-    "mediaType": "anime",
-    "rating": "6.5",
-    "description": "3话 /  2026年11月6日 / 錦織敦史 / 安野将人 / tarou2[岩崎将大] / 錦織敦史",
-    "link": "https://bgm.tv/subject/502499"
   },
   {
     "id": "330505",
@@ -43,22 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "94664",
-    "type": "tmdb",
-    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
-    "releaseDate": "2023-07-02",
-    "mediaType": "tv",
-    "rating": "7.3",
-    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
-    "link": null,
-    "tmdb_id": "94664",
-    "tmdb_site_id": "tv/94664/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "95479/season/1/episode/48",
     "type": "tmdb",
     "title": "咒术回战 死灭回游 前篇",
@@ -71,6 +60,22 @@
     "tmdb_id": "95479/season/1/episode/48",
     "tmdb_site_id": "tv/95479/season/1/episode/48",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "94664",
+    "type": "tmdb",
+    "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+    "releaseDate": "2023-07-02",
+    "mediaType": "tv",
+    "rating": "7.3",
+    "description": "13话 /  2023年7月2日 / 平野宏樹 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
+    "link": null,
+    "tmdb_id": "94664",
+    "tmdb_site_id": "tv/94664/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -102,22 +107,6 @@
     "link": "https://bgm.tv/subject/499474"
   },
   {
-    "id": "42509",
-    "type": "tmdb",
-    "title": "命运石之门",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg",
-    "releaseDate": "2011-04-06",
-    "mediaType": "tv",
-    "rating": "8.8",
-    "description": "25话 /  2011年4月6日 / 佐藤卓哉・浜崎博嗣 (第1-24话) / 小林智樹 (第25话) / 5pb. / Nitro+ / 坂井久太",
-    "link": null,
-    "tmdb_id": "42509",
-    "tmdb_site_id": "tv/42509",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "95479",
     "type": "tmdb",
     "title": "咒术回战",
@@ -134,6 +123,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "42509",
+    "type": "tmdb",
+    "title": "命运石之门",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg",
+    "releaseDate": "2011-04-06",
+    "mediaType": "tv",
+    "rating": "8.8",
+    "description": "25话 /  2011年4月6日 / 佐藤卓哉・浜崎博嗣 (第1-24话) / 小林智樹 (第25话) / 5pb. / Nitro+ / 坂井久太",
+    "link": null,
+    "tmdb_id": "42509",
+    "tmdb_site_id": "tv/42509",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "302051",
     "type": "tmdb",
     "title": "『你们先走我断后』，于是10年后我成为了传说",
@@ -145,22 +150,6 @@
     "link": null,
     "tmdb_id": "302051",
     "tmdb_site_id": "tv/302051",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "94664/season/2/episode/13",
-    "type": "tmdb",
-    "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
-    "releaseDate": "2024-04-07",
-    "mediaType": "tv",
-    "rating": "7.6",
-    "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
-    "link": null,
-    "tmdb_id": "94664/season/2/episode/13",
-    "tmdb_site_id": "tv/94664/season/2/episode/13",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -198,6 +187,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "334105",
+    "type": "link",
+    "title": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_0Yb0c.jpg",
+    "releaseDate": "2026-08-28",
+    "mediaType": "anime",
+    "rating": "7.2",
+    "description": "1话 /  2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
+    "link": "https://bgm.tv/subject/334105"
+  },
+  {
     "id": "312522",
     "type": "tmdb",
     "title": "女神“异世界转生想成为什么”我“勇者的肋骨”",
@@ -214,17 +214,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "334105",
-    "type": "link",
-    "title": "剧场版 魔法少女小圆〈瓦尔普吉斯的回天〉",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/df/56/334105_0Yb0c.jpg",
-    "releaseDate": "2026-08-28",
-    "mediaType": "anime",
-    "rating": "7.2",
-    "description": "1话 /  2026年8月28日 / 宮本幸裕 / Magica Quartet / 谷口淳一郎",
-    "link": "https://bgm.tv/subject/334105"
-  },
-  {
     "id": "209867",
     "type": "tmdb",
     "title": "葬送的芙莉莲",
@@ -236,6 +225,22 @@
     "link": null,
     "tmdb_id": "209867",
     "tmdb_site_id": "tv/209867",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "94664/season/2/episode/13",
+    "type": "tmdb",
+    "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
+    "releaseDate": "2024-04-07",
+    "mediaType": "tv",
+    "rating": "7.6",
+    "description": "12话 /  2024年4月7日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・齊藤佳子",
+    "link": null,
+    "tmdb_id": "94664/season/2/episode/13",
+    "tmdb_site_id": "tv/94664/season/2/episode/13",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -260,22 +265,6 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "94664/season/1/episode/12",
-    "type": "tmdb",
-    "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
-    "releaseDate": "2021-10-03",
-    "mediaType": "tv",
-    "rating": "8.3",
-    "description": "12话 /  2021年10月3日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆、髙橋瑞紀",
-    "link": null,
-    "tmdb_id": "94664/season/1/episode/12",
-    "tmdb_site_id": "tv/94664/season/1/episode/12",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "589284",
     "type": "link",
     "title": "青春猪头少年不会梦到亲爱好朋友",
@@ -287,33 +276,17 @@
     "link": "https://bgm.tv/subject/589284"
   },
   {
-    "id": "222623",
+    "id": "94664/season/1/episode/12",
     "type": "tmdb",
-    "title": "擅长逃跑的殿下 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "releaseDate": "2026-07-17",
+    "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
+    "releaseDate": "2021-10-03",
     "mediaType": "tv",
-    "rating": "6.8",
-    "description": "12话 /  2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+    "rating": "8.3",
+    "description": "12话 /  2021年10月3日 / 岡本学 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 杉山和隆、髙橋瑞紀",
     "link": null,
-    "tmdb_id": "222623",
-    "tmdb_site_id": "tv/222623/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "308874",
-    "type": "tmdb",
-    "title": "少女怪兽焦糖味",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
-    "releaseDate": "2026-07-02",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
-    "link": null,
-    "tmdb_id": "308874",
-    "tmdb_site_id": "tv/308874",
+    "tmdb_id": "94664/season/1/episode/12",
+    "tmdb_site_id": "tv/94664/season/1/episode/12",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -335,18 +308,34 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "260823",
+    "id": "65844",
     "type": "tmdb",
-    "title": "乡下大叔成为剑圣 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "为美好的世界献上祝福！",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/56/de/135275_G3liq.jpg",
+    "releaseDate": "2016-01-13",
     "mediaType": "tv",
-    "rating": "5.9",
-    "description": "12话 /  2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "rating": "7.7",
+    "description": "10话 /  2016年1月13日 / 金﨑貴臣 / 暁なつめ（株式会社KADOKAWA 角川スニーカー文庫刊） / 菊田幸一",
     "link": null,
-    "tmdb_id": "260823",
-    "tmdb_site_id": "tv/260823/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "65844",
+    "tmdb_site_id": "tv/65844",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "308874",
+    "type": "tmdb",
+    "title": "少女怪兽焦糖味",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg",
+    "releaseDate": "2026-07-02",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年7月2日 / 大峰輝之 / 蒼木スピカ（KADOKAWA「月刊コミックアライブ」連載） / 中山見都美",
+    "link": null,
+    "tmdb_id": "308874",
+    "tmdb_site_id": "tv/308874",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -363,6 +352,22 @@
     "tmdb_id": "329096",
     "tmdb_site_id": "tv/329096",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "260823",
+    "type": "tmdb",
+    "title": "乡下大叔成为剑圣 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/85/7f/565701_JKCaL.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "5.9",
+    "description": "12话 /  2026年7月8日 / 鹿住朗生 / 佐賀崎しげる・鍋島テツヒロ（SQEXノベル／スクウェア・エニックス刊） / 早坂皐月",
+    "link": null,
+    "tmdb_id": "260823",
+    "tmdb_site_id": "tv/260823/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   }

@@ -35,21 +35,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "390200",
     "type": "link",
     "title": "列女战纪：女娲石记",
@@ -78,6 +63,21 @@
     "bgm_score": 7.1,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 7
   },
   {
     "id": "700678",

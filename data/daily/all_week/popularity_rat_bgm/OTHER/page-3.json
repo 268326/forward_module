@@ -20,6 +20,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "330505",
+    "type": "tmdb",
+    "title": "大叔喜欢可爱小玩意",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "5.7",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "605533",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 60,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "330505",
+    "tmdb_site_id": "tv/330505",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "303272",
     "type": "tmdb",
     "title": "魔法骑士雷阿斯 (2026)",
@@ -55,21 +75,21 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "330505",
+    "id": "308977",
     "type": "tmdb",
-    "title": "大叔喜欢可爱小玩意",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "Keroro军曹☆",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_dhFwZ.jpg",
+    "releaseDate": "2026-10-03",
     "mediaType": "tv",
     "rating": "5.7",
-    "description": "[星期日]",
+    "description": "[星期六]",
     "link": null,
-    "bgm_id": "605533",
+    "bgm_id": "617273",
     "bgm_score": 5.7,
-    "bgm_rating_total": 59,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "330505",
-    "tmdb_site_id": "tv/330505",
+    "bgm_rating_total": 57,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "308977",
+    "tmdb_site_id": "tv/308977",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -90,26 +110,6 @@
     "bgm_weekday_id": 6,
     "tmdb_id": "324326",
     "tmdb_site_id": "tv/324326",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "308977",
-    "type": "tmdb",
-    "title": "Keroro军曹☆",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/60/14/617273_dhFwZ.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "5.8",
-    "description": "[星期六]",
-    "link": null,
-    "bgm_id": "617273",
-    "bgm_score": 5.8,
-    "bgm_rating_total": 56,
-    "bgm_weekday_id": 6,
-    "tmdb_id": "308977",
-    "tmdb_site_id": "tv/308977",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -245,6 +245,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "551304",
+    "type": "link",
+    "title": "我的幸福婚姻 特别篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_FbmZ9.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/551304",
+    "bgm_id": "551304",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 29,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "276288",
     "type": "tmdb",
     "title": "杀手旅店 第二季",
@@ -263,21 +278,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "551304",
-    "type": "link",
-    "title": "我的幸福婚姻 特别篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/40/551304_FbmZ9.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/551304",
-    "bgm_id": "551304",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 28,
-    "bgm_weekday_id": 7
   },
   {
     "id": "507820",
@@ -395,21 +395,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "390200",
     "type": "link",
     "title": "列女战纪：女娲石记",
@@ -423,5 +408,20 @@
     "bgm_score": 3.6,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 1
+  },
+  {
+    "id": "449346",
+    "type": "link",
+    "title": "大理寺日志 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "7.1",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/449346",
+    "bgm_id": "449346",
+    "bgm_score": 7.1,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 4
   }
 ]
