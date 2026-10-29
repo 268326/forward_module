@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 616,
+    "bgm_rating_total": 617,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -196,7 +196,7 @@
     "link": null,
     "bgm_id": "621108",
     "bgm_score": 5.3,
-    "bgm_rating_total": 122,
+    "bgm_rating_total": 124,
     "bgm_weekday_id": 5,
     "tmdb_id": "320909",
     "tmdb_site_id": "tv/320909",
@@ -231,7 +231,7 @@
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
     "bgm_score": 4.8,
-    "bgm_rating_total": 50,
+    "bgm_rating_total": 51,
     "bgm_weekday_id": 5
   }
 ]
