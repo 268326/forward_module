@@ -1,5 +1,20 @@
 [
   {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.9",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.9,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "390200",
     "type": "link",
     "title": "列女战纪：女娲石记",
@@ -13,21 +28,6 @@
     "bgm_score": 3.6,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "8.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 8.0,
-    "bgm_rating_total": 7,
-    "bgm_weekday_id": 5
   },
   {
     "id": "700678",
@@ -275,6 +275,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "716251",
+    "type": "link",
+    "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/716251",
+    "bgm_id": "716251",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "337388",
     "type": "tmdb",
     "title": "Electro Andes",
@@ -367,21 +382,6 @@
     "description": "[星期三]",
     "link": "http://bgm.tv/subject/665014",
     "bgm_id": "665014",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
-  },
-  {
-    "id": "709475",
-    "type": "link",
-    "title": "ゲルぴよ 第2期",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/6f/24/709475_zpW8A.jpg",
-    "releaseDate": "2026-10-21",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/709475",
-    "bgm_id": "709475",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3

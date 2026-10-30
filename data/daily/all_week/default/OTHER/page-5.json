@@ -181,12 +181,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
     "releaseDate": "2026-10-04",
     "mediaType": "anime",
-    "rating": "N/A",
+    "rating": "5.0",
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/716251",
     "bgm_id": "716251",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
     "bgm_weekday_id": 7
   }
 ]

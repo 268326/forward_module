@@ -1,5 +1,20 @@
 [
   {
+    "id": "713654",
+    "type": "link",
+    "title": "The Marsupilamis",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/80/91/713654_mxUL7.jpg",
+    "releaseDate": "2026-10-19",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713654",
+    "bgm_id": "713654",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "716367",
     "type": "link",
     "title": "歯ならび～ズ",
@@ -259,21 +274,6 @@
     "description": "[星期日]",
     "link": "http://bgm.tv/subject/708612",
     "bgm_id": "708612",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7
-  },
-  {
-    "id": "716251",
-    "type": "link",
-    "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/716251",
-    "bgm_id": "716251",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 7
