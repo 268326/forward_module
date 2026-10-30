@@ -151,7 +151,7 @@
     "link": null,
     "bgm_id": "698032",
     "bgm_score": 4.4,
-    "bgm_rating_total": 54,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",
@@ -406,6 +406,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -419,25 +434,5 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 7,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "337290",
-    "type": "tmdb",
-    "title": "小狸猫与小狐狸",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "5.7",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "638081",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "337290",
-    "tmdb_site_id": "tv/337290",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

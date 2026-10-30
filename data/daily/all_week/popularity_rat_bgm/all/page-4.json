@@ -1,5 +1,20 @@
 [
   {
+    "id": "538631",
+    "type": "link",
+    "title": "降世神通：七个避风港 第一季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/17/cc/538631_ll0LH.jpg",
+    "releaseDate": "2026-10-09",
+    "mediaType": "anime",
+    "rating": "6.7",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/538631",
+    "bgm_id": "538631",
+    "bgm_score": 6.7,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -65,19 +80,19 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "449346",
+    "id": "593863",
     "type": "link",
-    "title": "大理寺日志 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
-    "releaseDate": "2026-10-15",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
     "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/449346",
-    "bgm_id": "449346",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 4
+    "rating": "8.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 5
   },
   {
     "id": "700678",
@@ -143,21 +158,6 @@
     "bgm_score": 7.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 5
   },
   {
     "id": "576783",

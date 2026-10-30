@@ -75,6 +75,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "449346",
+    "type": "link",
+    "title": "大理寺日志 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/449346",
+    "bgm_id": "449346",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "390200",
     "type": "link",
     "title": "列女战纪：女娲石记",
@@ -88,21 +103,6 @@
     "bgm_score": 3.6,
     "bgm_rating_total": 8,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "449346",
-    "type": "link",
-    "title": "大理寺日志 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
-    "releaseDate": "2026-10-15",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/449346",
-    "bgm_id": "449346",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 4
   },
   {
     "id": "705980",

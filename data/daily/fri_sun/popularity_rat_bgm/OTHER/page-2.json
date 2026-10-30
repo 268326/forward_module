@@ -340,6 +340,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "8.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 8.0,
+    "bgm_rating_total": 7,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -388,21 +403,6 @@
     "bgm_score": 6.3,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 4,
-    "bgm_weekday_id": 5
   },
   {
     "id": "698981",
