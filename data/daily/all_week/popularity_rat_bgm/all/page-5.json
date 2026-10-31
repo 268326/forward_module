@@ -1,5 +1,42 @@
 [
   {
+    "id": "337388",
+    "type": "tmdb",
+    "title": "Electro Andes",
+    "posterPath": "https://image.tmdb.org/t/p/w500/4h7EHqWsPQLXdg26DxIUowD8YGL.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "498559",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "337388",
+    "tmdb_site_id": "tv/337388",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "AR"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "713219",
+    "type": "link",
+    "title": "萤火虫的出嫁 迷你动画",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713219",
+    "bgm_id": "713219",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "713654",
     "type": "link",
     "title": "The Marsupilamis",
@@ -132,21 +169,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "704737",
-    "type": "link",
-    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/704737",
-    "bgm_id": "704737",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "716967",

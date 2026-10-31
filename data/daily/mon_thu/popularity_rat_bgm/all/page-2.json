@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 38,
+    "bgm_rating_total": 40,
     "bgm_weekday_id": 3,
     "tmdb_id": "230050",
     "tmdb_site_id": "tv/230050",
@@ -66,12 +66,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/77/63/650428_G3GgP.jpg",
     "releaseDate": "2026-10-01",
     "mediaType": "tv",
-    "rating": "4.3",
+    "rating": "3.8",
     "description": "[星期四]",
     "link": null,
     "bgm_id": "650428",
-    "bgm_score": 4.3,
-    "bgm_rating_total": 16,
+    "bgm_score": 3.8,
+    "bgm_rating_total": 17,
     "bgm_weekday_id": 4,
     "tmdb_id": "293124",
     "tmdb_site_id": "tv/293124",
@@ -140,6 +140,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
@@ -205,19 +220,19 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "573707",
+    "id": "704737",
     "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
+    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
+    "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 6.0,
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/704737",
+    "bgm_id": "704737",
+    "bgm_score": 5.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 4
   },
   {
     "id": "337388",
@@ -389,20 +404,5 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "704737",
-    "type": "link",
-    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/704737",
-    "bgm_id": "704737",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   }
 ]

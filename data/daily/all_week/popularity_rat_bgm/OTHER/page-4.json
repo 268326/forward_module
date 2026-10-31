@@ -1,18 +1,23 @@
 [
   {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.9",
+    "id": "60761/season/4/episode/14",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "6.7",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.9,
+    "link": null,
+    "bgm_id": "664395",
+    "bgm_score": 6.7,
     "bgm_rating_total": 9,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "60761/season/4/episode/14",
+    "tmdb_site_id": "tv/60761/season/4/episode/14",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "390200",
@@ -93,6 +98,21 @@
     "bgm_score": 7.2,
     "bgm_rating_total": 5,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 3
   },
   {
     "id": "576783",
@@ -195,19 +215,19 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "573707",
+    "id": "704737",
     "type": "link",
-    "title": "极恶老大 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
-    "releaseDate": "2026-10-14",
+    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
+    "releaseDate": "2026-10-01",
     "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/573707",
-    "bgm_id": "573707",
-    "bgm_score": 6.0,
+    "rating": "5.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/704737",
+    "bgm_id": "704737",
+    "bgm_score": 5.0,
     "bgm_rating_total": 1,
-    "bgm_weekday_id": 3
+    "bgm_weekday_id": 4
   },
   {
     "id": "632061",
@@ -258,6 +278,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "717907",
+    "type": "link",
+    "title": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/b8/717907_zIFiJ.jpg",
+    "releaseDate": "2026-10-31",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/717907",
+    "bgm_id": "717907",
+    "bgm_score": 4.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 6
   },
   {
     "id": "632817",
@@ -355,35 +390,5 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 1
-  },
-  {
-    "id": "709326",
-    "type": "link",
-    "title": "Kiff: Scarm II: The Screamwriter",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/b5/709326_Fsz6K.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期二]",
-    "link": "http://bgm.tv/subject/709326",
-    "bgm_id": "709326",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 2
-  },
-  {
-    "id": "665014",
-    "type": "link",
-    "title": "黑暗学院 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
-    "releaseDate": "0000-00-00",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/665014",
-    "bgm_id": "665014",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   }
 ]

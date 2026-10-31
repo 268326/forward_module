@@ -1,5 +1,35 @@
 [
   {
+    "id": "709326",
+    "type": "link",
+    "title": "Kiff: Scarm II: The Screamwriter",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/94/b5/709326_Fsz6K.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期二]",
+    "link": "http://bgm.tv/subject/709326",
+    "bgm_id": "709326",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 2
+  },
+  {
+    "id": "665014",
+    "type": "link",
+    "title": "黑暗学院 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
+    "releaseDate": "0000-00-00",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/665014",
+    "bgm_id": "665014",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "709475",
     "type": "link",
     "title": "ゲルぴよ 第2期",
@@ -28,21 +58,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "704737",
-    "type": "link",
-    "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/7d/06/704737_iWzS7.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/704737",
-    "bgm_id": "704737",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "716967",
