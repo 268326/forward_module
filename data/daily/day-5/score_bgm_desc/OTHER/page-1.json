@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
     "bgm_score": 7.4,
-    "bgm_rating_total": 25,
+    "bgm_rating_total": 26,
     "bgm_weekday_id": 5
   },
   {
@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 641,
+    "bgm_rating_total": 647,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -61,7 +61,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.1,
-    "bgm_rating_total": 596,
+    "bgm_rating_total": 601,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -115,6 +115,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "499474",
+    "type": "link",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/499474",
+    "bgm_id": "499474",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 47,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "701310",
     "type": "link",
     "title": "格林姐妹大冒险 第二季",
@@ -130,21 +145,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "499474",
-    "type": "link",
-    "title": "东京复仇者 三天战争篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "5.9",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/499474",
-    "bgm_id": "499474",
-    "bgm_score": 5.9,
-    "bgm_rating_total": 46,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "324502",
     "type": "tmdb",
     "title": "装备我最强",
@@ -156,7 +156,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 5.8,
-    "bgm_rating_total": 158,
+    "bgm_rating_total": 160,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
