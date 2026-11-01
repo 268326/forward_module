@@ -1,21 +1,5 @@
 [
   {
-    "id": "323937",
-    "type": "tmdb",
-    "title": "兽王武神丹帝拜恩",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/a5/657778_7HXP5.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "5.2",
-    "description": "12话 /  2026年10月7日 / 曹毅 / グッドスマイルカンパニー[Good Smile Company]・ライデンフィルム / robin",
-    "link": null,
-    "tmdb_id": "323937",
-    "tmdb_site_id": "tv/323937",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "312359",
     "type": "tmdb",
     "title": "龙珠超 比鲁斯",
@@ -27,6 +11,22 @@
     "link": null,
     "tmdb_id": "312359",
     "tmdb_site_id": "tv/312359",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "323937",
+    "type": "tmdb",
+    "title": "兽王武神丹帝拜恩",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3b/a5/657778_7HXP5.jpg",
+    "releaseDate": "2026-10-07",
+    "mediaType": "tv",
+    "rating": "5.2",
+    "description": "12话 /  2026年10月7日 / 曹毅 / グッドスマイルカンパニー[Good Smile Company]・ライデンフィルム / robin",
+    "link": null,
+    "tmdb_id": "323937",
+    "tmdb_site_id": "tv/323937",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -80,25 +80,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "326247",
-    "type": "tmdb",
-    "title": "愚者之夜",
-    "posterPath": "https://image.tmdb.org/t/p/w500/id15rr4VKQOrxBBBgMe7MfITzTT.jpg",
-    "releaseDate": "2026-11-26",
-    "mediaType": "tv",
-    "rating": "0.0",
-    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
-    "link": null,
-    "tmdb_id": "326247",
-    "tmdb_site_id": "tv/326247",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP",
-      "US"
-    ],
-    "tmdb_source": "tmdb_api"
-  },
-  {
     "id": "285574",
     "type": "tmdb",
     "title": "与你相恋到生命尽头",
@@ -110,22 +91,6 @@
     "link": null,
     "tmdb_id": "285574",
     "tmdb_site_id": "tv/285574",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "200777",
-    "type": "tmdb",
-    "title": "冰剑的魔术师将要统一世界 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/2f/654294_ckrD9.jpg",
-    "releaseDate": "2026-10-08",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "12话 /  2026年10月8日 / たかたまさひろ / 御子柴奈々『冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する』（講談社ラノベ文庫刊） / 川元まりこ",
-    "link": null,
-    "tmdb_id": "200777",
-    "tmdb_site_id": "tv/200777",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -147,6 +112,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "200777",
+    "type": "tmdb",
+    "title": "冰剑的魔术师将要统一世界 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/2f/654294_ckrD9.jpg",
+    "releaseDate": "2026-10-08",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "12话 /  2026年10月8日 / たかたまさひろ / 御子柴奈々『冰剣の魔術師が世界を統べる 世界最強の魔術師である少年は、魔術学院に入学する』（講談社ラノベ文庫刊） / 川元まりこ",
+    "link": null,
+    "tmdb_id": "200777",
+    "tmdb_site_id": "tv/200777",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "286345",
     "type": "tmdb",
     "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～",
@@ -163,20 +144,23 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "306565",
+    "id": "326247",
     "type": "tmdb",
-    "title": "暗机 DARK MACHINE",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg",
-    "releaseDate": "2026-10-13",
+    "title": "愚者之夜",
+    "posterPath": "https://image.tmdb.org/t/p/w500/id15rr4VKQOrxBBBgMe7MfITzTT.jpg",
+    "releaseDate": "2026-11-26",
     "mediaType": "tv",
-    "rating": "5.1",
-    "description": "2026年10月13日 / 寺田和生 / Project Carbuncle / 吉成鋼(主人设)",
+    "rating": "0.0",
+    "description": "　　一项将种子植入命不久矣之人的肉体、使其转化为植物的技术 ——“转花”。\n\n　　这，是人类为了存续下去而选择的手段。\n\n　　厚重的云层遮蔽天空，在永远被寒冬与黑夜笼罩的遥远未来地球 ——绝大多数植物早已枯萎殆尽，陷入缺氧危机的人类，构建起了一个依赖 “转花” 所产生的微薄氧气而生存的社会。\n\n　　在贫困中苦苦挣扎的青年神谷十四郎，为了税金、生活费，以及患有精神疾病的母亲的药费，始终拼命工作，可残酷无情的现实，却一点点夺走了他心中的希望。\n\n　　—— 活着…… 根本没有半分快乐可言 ——\n\n　　在这片没有光明的世界里，他所选择的道路，是化作由人类蜕变而成的植物 ——“灵花”。\n\n　　是继续以人类的身份活下去，还是舍弃痛苦，以植物的形态迈向新生？\n\n　　如果是你，会做出怎样的选择？",
     "link": null,
-    "tmdb_id": "306565",
-    "tmdb_site_id": "tv/306565",
+    "tmdb_id": "326247",
+    "tmdb_site_id": "tv/326247",
     "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "tmdb_origin_countries": [
+      "JP",
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "45790",
@@ -191,6 +175,22 @@
     "tmdb_id": "45790",
     "tmdb_site_id": "tv/45790/season/6",
     "tmdb_season_number": 6,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "306565",
+    "type": "tmdb",
+    "title": "暗机 DARK MACHINE",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/84/86/505550_OLQmz.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "tv",
+    "rating": "5.1",
+    "description": "2026年10月13日 / 寺田和生 / Project Carbuncle / 吉成鋼(主人设)",
+    "link": null,
+    "tmdb_id": "306565",
+    "tmdb_site_id": "tv/306565",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -259,22 +259,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "303272",
-    "type": "tmdb",
-    "title": "魔法骑士雷阿斯 (2026)",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/6f/502123_IiVB6.jpg",
-    "releaseDate": "2026-10-07",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "2026年10月7日 / 三浦唯[梅本唯] / CLAMP（講談社「なかよし」刊） / 渡部里美",
-    "link": null,
-    "tmdb_id": "303272",
-    "tmdb_site_id": "tv/303272",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "334779",
     "type": "tmdb",
     "title": "因为鼠标光标似乎可以操控现实，所以我要疯狂点击女孩子",
@@ -293,17 +277,17 @@
     "tmdb_source": "tmdb_api"
   },
   {
-    "id": "295420",
+    "id": "303272",
     "type": "tmdb",
-    "title": "朱色假面",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/11/568525_ovn2M.jpg",
-    "releaseDate": "2026-10-10",
+    "title": "魔法骑士雷阿斯 (2026)",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/e1/6f/502123_IiVB6.jpg",
+    "releaseDate": "2026-10-07",
     "mediaType": "tv",
-    "rating": "5.4",
-    "description": "2026年10月10日 / 渡邉徹明 / Dr.Poro・那波なばな（那波歩才）（少年画報社「ヤングキングアワーズ」連載中） / 東島久志",
+    "rating": "6.1",
+    "description": "2026年10月7日 / 三浦唯[梅本唯] / CLAMP（講談社「なかよし」刊） / 渡部里美",
     "link": null,
-    "tmdb_id": "295420",
-    "tmdb_site_id": "tv/295420",
+    "tmdb_id": "303272",
+    "tmdb_site_id": "tv/303272",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -315,7 +299,7 @@
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg",
     "releaseDate": "2026-04-02",
     "mediaType": "tv",
-    "rating": "7.3",
+    "rating": "7.2",
     "description": "14话 /  2026年4月2日 / まんきゅう / 阿賀沢紅茶（集英社ジャンプ コミックス刊） / 荻野美希",
     "link": null,
     "tmdb_id": "283428",
@@ -341,6 +325,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "69346",
+    "type": "tmdb",
+    "title": "幼女战记 第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "releaseDate": "2026-07-08",
+    "mediaType": "tv",
+    "rating": "7.1",
+    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+    "link": null,
+    "tmdb_id": "69346",
+    "tmdb_site_id": "tv/69346/season/2",
+    "tmdb_season_number": 2,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "216467/season/2/episode/13",
     "type": "tmdb",
     "title": "夜樱家的大作战 第二季 第2部分",
@@ -357,18 +357,18 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "69346",
+    "id": "295420",
     "type": "tmdb",
-    "title": "幼女战记 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "releaseDate": "2026-07-08",
+    "title": "朱色假面",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/3a/11/568525_ovn2M.jpg",
+    "releaseDate": "2026-10-10",
     "mediaType": "tv",
-    "rating": "7.1",
-    "description": "12话 /  2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+    "rating": "5.4",
+    "description": "2026年10月10日 / 渡邉徹明 / Dr.Poro・那波なばな（那波歩才）（少年画報社「ヤングキングアワーズ」連載中） / 東島久志",
     "link": null,
-    "tmdb_id": "69346",
-    "tmdb_site_id": "tv/69346/season/2",
-    "tmdb_season_number": 2,
+    "tmdb_id": "295420",
+    "tmdb_site_id": "tv/295420",
+    "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },

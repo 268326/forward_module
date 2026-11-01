@@ -1,5 +1,20 @@
 [
   {
+    "id": "716367",
+    "type": "link",
+    "title": "歯ならび～ズ",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/97/3a/716367_cx1FD.jpg",
+    "releaseDate": "2026-10-26",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/716367",
+    "bgm_id": "716367",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "709326",
     "type": "link",
     "title": "Kiff: Scarm II: The Screamwriter",
@@ -138,26 +153,6 @@
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6
-  },
-  {
-    "id": "315682",
-    "type": "tmdb",
-    "title": "啵普与帕噗与珀尔嗒",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/df/29/635258_JqFf3.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "N/A",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "635258",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "315682",
-    "tmdb_site_id": "tv/315682",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "646586",
