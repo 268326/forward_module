@@ -116,7 +116,7 @@
     "link": null,
     "bgm_id": "486456",
     "bgm_score": 5.8,
-    "bgm_rating_total": 188,
+    "bgm_rating_total": 189,
     "bgm_weekday_id": 3,
     "tmdb_id": "206630",
     "tmdb_site_id": "tv/206630/season/2",
@@ -218,27 +218,12 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14950,
+    "bgm_rating_total": 14924,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "665014",
-    "type": "link",
-    "title": "黑暗学院 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
-    "releaseDate": "0000-00-00",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/665014",
-    "bgm_id": "665014",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   }
 ]

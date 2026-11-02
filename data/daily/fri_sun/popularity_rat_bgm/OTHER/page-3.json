@@ -165,6 +165,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "665014",
+    "type": "link",
+    "title": "黑暗学院 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
+    "releaseDate": "2026-10-31",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665014",
+    "bgm_id": "665014",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "694622",
     "type": "link",
     "title": "ねずみくんのチョッキ 第2期",

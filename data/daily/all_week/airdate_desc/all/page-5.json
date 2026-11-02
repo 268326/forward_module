@@ -1,5 +1,27 @@
 [
   {
+    "id": "231801",
+    "type": "tmdb",
+    "title": "极道寿司次郎！",
+    "posterPath": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "9.1",
+    "description": "故事背景为近未来的洛杉矶，整座城市被“美食秩序”彻底掌控：顶级主厨的权势堪比黑帮大佬，餐厅就是各方势力的权力中心，为了拿下顶级餐厅的一席位，有人不惜突破底线，不同的烹饪理念更是分化出针锋相对的派系。",
+    "link": null,
+    "bgm_id": "702192",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 24,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "231801",
+    "tmdb_site_id": "tv/231801",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "US"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "499474",
     "type": "link",
     "title": "东京复仇者 三天战争篇",
@@ -41,7 +63,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 647,
+    "bgm_rating_total": 650,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -161,7 +183,7 @@
     "link": null,
     "bgm_id": "622288",
     "bgm_score": 6.8,
-    "bgm_rating_total": 2223,
+    "bgm_rating_total": 2230,
     "bgm_weekday_id": 4,
     "tmdb_id": "311842",
     "tmdb_site_id": "tv/311842",
@@ -201,7 +223,7 @@
     "link": null,
     "bgm_id": "665390",
     "bgm_score": 7.4,
-    "bgm_rating_total": 605,
+    "bgm_rating_total": 604,
     "bgm_weekday_id": 4,
     "tmdb_id": "283428/season/1/episode/15",
     "tmdb_site_id": "tv/283428/season/1/episode/15",
@@ -273,7 +295,7 @@
     "link": null,
     "bgm_id": "975",
     "bgm_score": 8.3,
-    "bgm_rating_total": 14950,
+    "bgm_rating_total": 14924,
     "bgm_weekday_id": 3,
     "tmdb_id": "37854",
     "tmdb_site_id": "tv/37854",
@@ -300,20 +322,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "665014",
-    "type": "link",
-    "title": "黑暗学院 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
-    "releaseDate": "0000-00-00",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期三]",
-    "link": "http://bgm.tv/subject/665014",
-    "bgm_id": "665014",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 3
   }
 ]
