@@ -1,20 +1,5 @@
 [
   {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -30,19 +15,19 @@
     "bgm_weekday_id": 4
   },
   {
-    "id": "390200",
+    "id": "563508",
     "type": "link",
-    "title": "列女战纪：女娲石记",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
-    "releaseDate": "2026-10-05",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "3.6",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/390200",
-    "bgm_id": "390200",
-    "bgm_score": 3.6,
-    "bgm_rating_total": 8,
-    "bgm_weekday_id": 1
+    "rating": "5.2",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.2,
+    "bgm_rating_total": 9,
+    "bgm_weekday_id": 5
   },
   {
     "id": "700678",
@@ -56,8 +41,23 @@
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
     "bgm_score": 7.1,
-    "bgm_rating_total": 8,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 5
+  },
+  {
+    "id": "390200",
+    "type": "link",
+    "title": "列女战纪：女娲石记",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/1c/b4/390200_Z9jPp.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "3.6",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/390200",
+    "bgm_id": "390200",
+    "bgm_score": 3.6,
+    "bgm_rating_total": 8,
+    "bgm_weekday_id": 1
   },
   {
     "id": "688797",

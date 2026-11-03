@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 658,
+    "bgm_rating_total": 667,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.1,
-    "bgm_rating_total": 610,
+    "bgm_rating_total": 616,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -51,7 +51,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 5.7,
-    "bgm_rating_total": 163,
+    "bgm_rating_total": 167,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -110,6 +110,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.4",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.4,
+    "bgm_rating_total": 31,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "253811",
     "type": "tmdb",
     "title": "桃源暗鬼 ～日光・华严之泷篇～",
@@ -128,21 +143,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.4",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.4,
-    "bgm_rating_total": 28,
-    "bgm_weekday_id": 5
   },
   {
     "id": "538631",
@@ -166,12 +166,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "5.7",
+    "rating": "5.2",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/563508",
     "bgm_id": "563508",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 10,
+    "bgm_score": 5.2,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 5
   },
   {
@@ -186,7 +186,7 @@
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
     "bgm_score": 7.1,
-    "bgm_rating_total": 8,
+    "bgm_rating_total": 9,
     "bgm_weekday_id": 5
   },
   {
