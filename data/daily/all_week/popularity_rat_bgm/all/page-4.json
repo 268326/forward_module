@@ -20,6 +20,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "60761/season/4/episode/14",
+    "type": "tmdb",
+    "title": "钻石王牌 act2 第二季 第2部分",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
+    "releaseDate": "2026-10-11",
+    "mediaType": "tv",
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "664395",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 12,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "60761/season/4/episode/14",
+    "tmdb_site_id": "tv/60761/season/4/episode/14",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "715907",
     "type": "link",
     "title": "罗德岛学院",
@@ -33,26 +53,6 @@
     "bgm_score": 6.8,
     "bgm_rating_total": 12,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "60761/season/4/episode/14",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "664395",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "60761/season/4/episode/14",
-    "tmdb_site_id": "tv/60761/season/4/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "712000",
@@ -290,6 +290,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "716967",
+    "type": "link",
+    "title": "乱世千金倪亚‧利斯顿 迷你动画",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/43/67/716967_cp68P.jpg",
+    "releaseDate": "2026-10-15",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/716967",
+    "bgm_id": "716967",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "632061",
     "type": "link",
     "title": "决斗大师 LOST ～断罪的少年～",
@@ -368,25 +383,5 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
-  },
-  {
-    "id": "315682",
-    "type": "tmdb",
-    "title": "啵普与帕噗与珀尔嗒",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/df/29/635258_JqFf3.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "635258",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "315682",
-    "tmdb_site_id": "tv/315682",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   }
 ]

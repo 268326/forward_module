@@ -1,5 +1,20 @@
 [
   {
+    "id": "573707",
+    "type": "link",
+    "title": "极恶老大 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/37/37/573707_EjKKu.jpg",
+    "releaseDate": "2026-10-14",
+    "mediaType": "anime",
+    "rating": "3.3",
+    "description": "[星期三]",
+    "link": "http://bgm.tv/subject/573707",
+    "bgm_id": "573707",
+    "bgm_score": 3.3,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 3
+  },
+  {
     "id": "337456",
     "type": "tmdb",
     "title": "欢迎光临游之家！from Yu-hachi",
@@ -194,21 +209,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "716967",
-    "type": "link",
-    "title": "乱世千金倪亚‧利斯顿 迷你动画",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/43/67/716967_cp68P.jpg",
-    "releaseDate": "2026-10-15",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/716967",
-    "bgm_id": "716967",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 4
   },
   {
     "id": "654678",
