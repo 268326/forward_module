@@ -1,18 +1,18 @@
 [
   {
-    "id": "449346",
+    "id": "712000",
     "type": "link",
-    "title": "大理寺日志 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
-    "releaseDate": "2026-10-15",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "releaseDate": "2026-10-18",
     "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/449346",
-    "bgm_id": "449346",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 9,
-    "bgm_weekday_id": 4
+    "rating": "6.0",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 7
   },
   {
     "id": "563508",
@@ -111,11 +111,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/c8/1a/576783_a355J.jpg",
     "releaseDate": "2026-10-08",
     "mediaType": "anime",
-    "rating": "5.0",
+    "rating": "3.0",
     "description": "[星期四]",
     "link": "http://bgm.tv/subject/576783",
     "bgm_id": "576783",
-    "bgm_score": 5.0,
+    "bgm_score": 3.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
   },
