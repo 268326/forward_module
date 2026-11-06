@@ -173,8 +173,8 @@
     "tmdb_site_id": "tv/335788",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "JP",
-      "FR"
+      "FR",
+      "JP"
     ],
     "tmdb_source": "tmdb_api"
   },

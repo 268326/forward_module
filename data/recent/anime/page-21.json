@@ -128,15 +128,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "612608",
-    "type": "link",
+    "id": "328010",
+    "type": "tmdb",
     "title": "恶魔纹章",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/2d/77/612608_imf4d.jpg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kimx6VeIKhNQH0sqyT2OXfWUO07.jpg",
     "releaseDate": "2026-11-06",
-    "mediaType": "anime",
-    "rating": "",
-    "description": "2026年11月6日 / 駒屋健一郎 / 川原礫（電撃文庫/KADOKAWA刊） / 堀口悠紀子",
-    "link": "https://bgm.tv/subject/612608"
+    "mediaType": "tv",
+    "rating": "0.0",
+    "description": "“哥哥，这里是现实啊！”\n\n　　雪花小学六年级一班的芦原佑马，在游玩世界第一款 VRMMORPG《Actual Magic》时，踏入了游戏与现实融合的“新世界”。正当佑马因无法理解现状而陷入混乱时，班级第一美少女绵卷澄香出现在他面前。但她的容貌已发生近乎悲剧性的异变——那副姿态，简直只能让人联想到游戏里的“怪物”……\n\n　　“这既是游戏，亦是现实。”",
+    "link": null,
+    "tmdb_id": "328010",
+    "tmdb_site_id": "tv/328010",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
   },
   {
     "id": "35753",
