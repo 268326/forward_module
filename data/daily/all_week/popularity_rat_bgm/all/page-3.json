@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "502123",
     "bgm_score": 6.1,
-    "bgm_rating_total": 72,
+    "bgm_rating_total": 73,
     "bgm_weekday_id": 3,
     "tmdb_id": "303272",
     "tmdb_site_id": "tv/303272",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 4.7,
-    "bgm_rating_total": 66,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 2,
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
@@ -51,7 +51,7 @@
     "link": "http://bgm.tv/subject/551304",
     "bgm_id": "551304",
     "bgm_score": 5.7,
-    "bgm_rating_total": 65,
+    "bgm_rating_total": 67,
     "bgm_weekday_id": 7
   },
   {
@@ -66,7 +66,7 @@
     "link": "http://bgm.tv/subject/577237",
     "bgm_id": "577237",
     "bgm_score": 6.0,
-    "bgm_rating_total": 64,
+    "bgm_rating_total": 65,
     "bgm_weekday_id": 4
   },
   {
@@ -303,12 +303,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/ec/af/544378_j3ouu.jpg",
     "releaseDate": "2026-10-06",
     "mediaType": "tv",
-    "rating": "4.6",
+    "rating": "4.7",
     "description": "[星期二]",
     "link": null,
     "bgm_id": "544378",
-    "bgm_score": 4.6,
-    "bgm_rating_total": 31,
+    "bgm_score": 4.7,
+    "bgm_rating_total": 32,
     "bgm_weekday_id": 2,
     "tmdb_id": "316551",
     "tmdb_site_id": "tv/316551",
@@ -335,6 +335,21 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "507820",
+    "type": "link",
+    "title": "大王饶命 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/507820",
+    "bgm_id": "507820",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 25,
+    "bgm_weekday_id": 6
   },
   {
     "id": "204084",
@@ -379,21 +394,6 @@
       "US"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "507820",
-    "type": "link",
-    "title": "大王饶命 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/32/ed/507820_nLOH8.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/507820",
-    "bgm_id": "507820",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 24,
-    "bgm_weekday_id": 6
   },
   {
     "id": "293124",
