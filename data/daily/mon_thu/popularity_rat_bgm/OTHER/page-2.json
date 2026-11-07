@@ -14,8 +14,8 @@
     "bgm_rating_total": 42,
     "bgm_weekday_id": 3,
     "tmdb_id": "230050",
-    "tmdb_site_id": "tv/230050",
-    "tmdb_season_number": null,
+    "tmdb_site_id": "tv/230050/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -54,8 +54,8 @@
     "bgm_rating_total": 17,
     "bgm_weekday_id": 4,
     "tmdb_id": "293124",
-    "tmdb_site_id": "tv/293124",
-    "tmdb_season_number": null,
+    "tmdb_site_id": "tv/293124/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
