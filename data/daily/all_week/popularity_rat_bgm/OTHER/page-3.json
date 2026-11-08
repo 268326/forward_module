@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "541538",
     "bgm_score": 4.7,
-    "bgm_rating_total": 67,
+    "bgm_rating_total": 68,
     "bgm_weekday_id": 2,
     "tmdb_id": "285710",
     "tmdb_site_id": "tv/285710",
@@ -185,6 +185,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.6,
+    "bgm_rating_total": 47,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "329096",
     "type": "tmdb",
     "title": "来自远方",
@@ -203,21 +218,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 45,
-    "bgm_weekday_id": 5
   },
   {
     "id": "230050",
@@ -298,6 +298,21 @@
     "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "559080",
+    "type": "link",
+    "title": "梦境世界",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/dc/559080_4QJvx.jpg",
+    "releaseDate": "2026-10-17",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/559080",
+    "bgm_id": "559080",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 26,
+    "bgm_weekday_id": 6
   },
   {
     "id": "507820",
@@ -418,20 +433,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 11,
-    "bgm_weekday_id": 7
   }
 ]
