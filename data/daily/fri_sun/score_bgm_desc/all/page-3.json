@@ -1,20 +1,5 @@
 [
   {
-    "id": "708612",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/708612",
-    "bgm_id": "708612",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "716251",
     "type": "link",
     "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
@@ -91,7 +76,7 @@
     "link": null,
     "bgm_id": "698032",
     "bgm_score": 4.4,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",
@@ -133,7 +118,7 @@
     "link": null,
     "bgm_id": "647220",
     "bgm_score": 4.2,
-    "bgm_rating_total": 197,
+    "bgm_rating_total": 199,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -153,7 +138,7 @@
     "link": "http://bgm.tv/subject/717907",
     "bgm_id": "717907",
     "bgm_score": 4.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 6
   },
   {
@@ -168,7 +153,7 @@
     "link": null,
     "bgm_id": "606716",
     "bgm_score": 3.7,
-    "bgm_rating_total": 201,
+    "bgm_rating_total": 202,
     "bgm_weekday_id": 6,
     "tmdb_id": "333622",
     "tmdb_site_id": "tv/333622",

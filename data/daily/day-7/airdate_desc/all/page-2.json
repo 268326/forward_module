@@ -1,20 +1,5 @@
 [
   {
-    "id": "688797",
-    "type": "link",
-    "title": "数码宝贝30周年纪念：我们选出的最佳冒险",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/14/2d/688797_z3waa.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "6.3",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/688797",
-    "bgm_id": "688797",
-    "bgm_score": 6.3,
-    "bgm_rating_total": 6,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "334779",
     "type": "tmdb",
     "title": "因为鼠标光标似乎可以操控现实，所以我要疯狂点击女孩子",
@@ -26,7 +11,7 @@
     "link": null,
     "bgm_id": "698032",
     "bgm_score": 4.4,
-    "bgm_rating_total": 62,
+    "bgm_rating_total": 63,
     "bgm_weekday_id": 7,
     "tmdb_id": "334779",
     "tmdb_site_id": "tv/334779",

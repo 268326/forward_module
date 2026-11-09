@@ -48,6 +48,22 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "312850",
+    "type": "tmdb",
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/624085_5dXDL.jpg",
+    "releaseDate": "2026-10-06",
+    "mediaType": "tv",
+    "rating": "6.8",
+    "description": "25话 /  2026年10月6日 / 中西基樹 / 南野海風「凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録」（HJ文庫／ホビージャパン） / 土佐岡加奈、伊藤優希",
+    "link": null,
+    "tmdb_id": "312850",
+    "tmdb_site_id": "tv/312850",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "313346",
     "type": "tmdb",
     "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
@@ -64,22 +80,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "312850",
-    "type": "tmdb",
-    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/624085_5dXDL.jpg",
-    "releaseDate": "2026-10-06",
-    "mediaType": "tv",
-    "rating": "6.8",
-    "description": "25话 /  2026年10月6日 / 中西基樹 / 南野海風「凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録」（HJ文庫／ホビージャパン） / 土佐岡加奈、伊藤優希",
-    "link": null,
-    "tmdb_id": "312850",
-    "tmdb_site_id": "tv/312850",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "284580",
@@ -242,22 +242,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "261343/season/1/episode/14",
-    "type": "tmdb",
-    "title": "弹珠汽水瓶里的千岁同学 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
-    "link": null,
-    "tmdb_id": "261343/season/1/episode/14",
-    "tmdb_site_id": "tv/261343/season/1/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "334504",
     "type": "tmdb",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -269,6 +253,22 @@
     "link": null,
     "tmdb_id": "334504",
     "tmdb_site_id": "tv/334504",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "261343/season/1/episode/14",
+    "type": "tmdb",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
+    "link": null,
+    "tmdb_id": "261343/season/1/episode/14",
+    "tmdb_site_id": "tv/261343/season/1/episode/14",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -338,22 +338,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "280042/season/1/episode/13",
-    "type": "tmdb",
-    "title": "野生的大魔王出现了！第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
-    "releaseDate": "2026-10-03",
-    "mediaType": "tv",
-    "rating": "6.5",
-    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
-    "link": null,
-    "tmdb_id": "280042/season/1/episode/13",
-    "tmdb_site_id": "tv/280042/season/1/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "134667",
     "type": "tmdb",
     "title": "转生就是剑 第二季",
@@ -370,17 +354,33 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "207347/season/1/episode/26",
+    "id": "312359",
     "type": "tmdb",
-    "title": "青之箱 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f1/6c/548156_n0qcY.jpg",
-    "releaseDate": "2026-10-04",
+    "title": "龙珠超 比鲁斯",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/0f/0f/623249_zCdly.jpg",
+    "releaseDate": "2026-10-11",
     "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年10月4日 / 酒向大輔 / 三浦糀（集英社「週刊少年ジャンプ」連載） / 谷野美穂",
+    "rating": "7.1",
+    "description": "2026年10月11日 / 鳥山明（集英社『ジャンプコミックス』刊） / 动画人物设定：山室直儀",
     "link": null,
-    "tmdb_id": "207347/season/1/episode/26",
-    "tmdb_site_id": "tv/207347/season/1/episode/26",
+    "tmdb_id": "312359",
+    "tmdb_site_id": "tv/312359",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "280042/season/1/episode/13",
+    "type": "tmdb",
+    "title": "野生的大魔王出现了！第二季",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f9/ae/616808_F80Sl.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "6.5",
+    "description": "2026年10月3日 / ほりうちゆうや / 炎頭（アース・スターノベル アース・スター エンターテイメント刊） / 中村統子・小林多加志・上野翔太・佐藤秋子・水谷麻美子・三浦貴弘・海老澤舞子",
+    "link": null,
+    "tmdb_id": "280042/season/1/episode/13",
+    "tmdb_site_id": "tv/280042/season/1/episode/13",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"

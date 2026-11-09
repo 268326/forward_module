@@ -1,20 +1,5 @@
 [
   {
-    "id": "716251",
-    "type": "link",
-    "title": "【活動記録】間章 Dream Interlude「陽ノ下に咲く蓮」（蓮ノ空女学院スクールアイドルクラブ）",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/20/716251_y0b05.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/716251",
-    "bgm_id": "716251",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "563508",
     "type": "link",
     "title": "神秘面包小子",
@@ -96,7 +81,7 @@
     "link": null,
     "bgm_id": "647220",
     "bgm_score": 4.2,
-    "bgm_rating_total": 197,
+    "bgm_rating_total": 199,
     "bgm_weekday_id": 7,
     "tmdb_id": "336654",
     "tmdb_site_id": "tv/336654",
@@ -116,7 +101,7 @@
     "link": "http://bgm.tv/subject/717907",
     "bgm_id": "717907",
     "bgm_score": 4.0,
-    "bgm_rating_total": 1,
+    "bgm_rating_total": 2,
     "bgm_weekday_id": 6
   },
   {
@@ -131,7 +116,7 @@
     "link": null,
     "bgm_id": "606716",
     "bgm_score": 3.7,
-    "bgm_rating_total": 201,
+    "bgm_rating_total": 202,
     "bgm_weekday_id": 6,
     "tmdb_id": "333622",
     "tmdb_site_id": "tv/333622",

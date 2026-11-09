@@ -1,25 +1,5 @@
 [
   {
-    "id": "315682",
-    "type": "tmdb",
-    "title": "啵普与帕噗与珀尔嗒",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/df/29/635258_JqFf3.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "7.0",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "635258",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "315682",
-    "tmdb_site_id": "tv/315682",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "708612",
     "type": "link",
     "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",

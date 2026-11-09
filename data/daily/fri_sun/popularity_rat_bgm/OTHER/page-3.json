@@ -15,24 +15,19 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "337299",
-    "type": "tmdb",
-    "title": "ゆるゆる図鑑",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/e3/df/661278_g29RR.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "661278",
-    "bgm_score": 5.5,
+    "id": "717907",
+    "type": "link",
+    "title": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/b8/717907_zIFiJ.jpg",
+    "releaseDate": "2026-10-31",
+    "mediaType": "anime",
+    "rating": "4.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/717907",
+    "bgm_id": "717907",
+    "bgm_score": 4.0,
     "bgm_rating_total": 2,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "337299",
-    "tmdb_site_id": "tv/337299",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "bgm_weekday_id": 6
   },
   {
     "id": "632061",
@@ -83,21 +78,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "717907",
-    "type": "link",
-    "title": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/ac/b8/717907_zIFiJ.jpg",
-    "releaseDate": "2026-10-31",
-    "mediaType": "anime",
-    "rating": "4.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/717907",
-    "bgm_id": "717907",
-    "bgm_score": 4.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
   },
   {
     "id": "632817",
