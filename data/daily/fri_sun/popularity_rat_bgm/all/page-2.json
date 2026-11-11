@@ -91,7 +91,7 @@
     "link": null,
     "bgm_id": "664389",
     "bgm_score": 5.9,
-    "bgm_rating_total": 71,
+    "bgm_rating_total": 72,
     "bgm_weekday_id": 7,
     "tmdb_id": "216467/season/2/episode/13",
     "tmdb_site_id": "tv/216467/season/2/episode/13",
@@ -374,6 +374,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "60761/season/4/episode/14",
     "type": "tmdb",
     "title": "钻石王牌 act2 第二季 第2部分",
@@ -392,21 +407,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 7
   },
   {
     "id": "700678",
