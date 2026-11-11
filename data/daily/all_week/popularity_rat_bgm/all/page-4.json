@@ -65,6 +65,21 @@
     "bgm_weekday_id": 7
   },
   {
+    "id": "563508",
+    "type": "link",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 11,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -78,21 +93,6 @@
     "bgm_score": 7.0,
     "bgm_rating_total": 10,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "563508",
-    "type": "link",
-    "title": "神秘面包小子",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "4.8",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/563508",
-    "bgm_id": "563508",
-    "bgm_score": 4.8,
-    "bgm_rating_total": 10,
-    "bgm_weekday_id": 5
   },
   {
     "id": "390200",
@@ -265,6 +265,21 @@
     "bgm_weekday_id": 1
   },
   {
+    "id": "713219",
+    "type": "link",
+    "title": "萤火虫的出嫁 迷你动画",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713219",
+    "bgm_id": "713219",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "704737",
     "type": "link",
     "title": "シルバニアファミリー フレアのカラフル・エブリデイ",
@@ -363,20 +378,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "708612",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/708612",
-    "bgm_id": "708612",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
   }
 ]
