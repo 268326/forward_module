@@ -1,5 +1,20 @@
 [
   {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "707667",
     "type": "link",
     "title": "猫猫的呢喃 第三季",
@@ -15,38 +30,18 @@
     "bgm_weekday_id": 1
   },
   {
-    "id": "60761/season/4/episode/14",
-    "type": "tmdb",
-    "title": "钻石王牌 act2 第二季 第2部分",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/61/d5/664395_diPLi.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "6.1",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "664395",
-    "bgm_score": 6.1,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "60761/season/4/episode/14",
-    "tmdb_site_id": "tv/60761/season/4/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/cb/da/700678_4sTY4.jpg",
     "releaseDate": "2026-10-09",
     "mediaType": "anime",
-    "rating": "7.0",
+    "rating": "7.1",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/700678",
     "bgm_id": "700678",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 12,
+    "bgm_score": 7.1,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 5
   },
   {
@@ -155,6 +150,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "698981",
+    "type": "link",
+    "title": "探险时光：支线任务 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/698981",
+    "bgm_id": "698981",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "710874",
     "type": "link",
     "title": "宝可梦动画图鉴 第六季 云岫寻踪",
@@ -198,21 +208,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "698981",
-    "type": "link",
-    "title": "探险时光：支线任务 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/698981",
-    "bgm_id": "698981",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 5
   },
   {
     "id": "717907",
