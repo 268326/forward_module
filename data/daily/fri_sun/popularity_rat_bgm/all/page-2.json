@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "596771",
     "bgm_score": 4.6,
-    "bgm_rating_total": 87,
+    "bgm_rating_total": 88,
     "bgm_weekday_id": 7,
     "tmdb_id": "303060",
     "tmdb_site_id": "tv/303060",
@@ -71,7 +71,7 @@
     "link": null,
     "bgm_id": "551304",
     "bgm_score": 5.7,
-    "bgm_rating_total": 79,
+    "bgm_rating_total": 80,
     "bgm_weekday_id": 7,
     "tmdb_id": "196944/season/0/episode/2",
     "tmdb_site_id": "tv/196944/season/0/episode/2",
@@ -162,6 +162,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 62,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "324326",
     "type": "tmdb",
     "title": "七叶树王国的七名骑士",
@@ -182,32 +197,17 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 59,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "701782",
     "type": "link",
     "title": "苍蓝传承 威尔什&amp;榭达",
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "4.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 4.8,
+    "bgm_score": 4.7,
     "bgm_rating_total": 51,
     "bgm_weekday_id": 5
   },
@@ -223,7 +223,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 50,
     "bgm_weekday_id": 5
   },
   {

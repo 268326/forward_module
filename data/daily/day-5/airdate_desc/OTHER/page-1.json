@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
     "bgm_score": 7.5,
-    "bgm_rating_total": 59,
+    "bgm_rating_total": 62,
     "bgm_weekday_id": 5
   },
   {
@@ -26,7 +26,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.1,
-    "bgm_rating_total": 678,
+    "bgm_rating_total": 683,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -111,7 +111,7 @@
     "link": "http://bgm.tv/subject/499474",
     "bgm_id": "499474",
     "bgm_score": 5.9,
-    "bgm_rating_total": 49,
+    "bgm_rating_total": 50,
     "bgm_weekday_id": 5
   },
   {
@@ -141,7 +141,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 690,
+    "bgm_rating_total": 693,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -226,11 +226,11 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "4.8",
+    "rating": "4.7",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 4.8,
+    "bgm_score": 4.7,
     "bgm_rating_total": 51,
     "bgm_weekday_id": 5
   }
