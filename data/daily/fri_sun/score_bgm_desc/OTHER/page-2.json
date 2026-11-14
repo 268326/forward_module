@@ -1,20 +1,5 @@
 [
   {
-    "id": "559080",
-    "type": "link",
-    "title": "梦境世界",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/dc/559080_4QJvx.jpg",
-    "releaseDate": "2026-10-17",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/559080",
-    "bgm_id": "559080",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 27,
-    "bgm_weekday_id": 6
-  },
-  {
     "id": "632817",
     "type": "link",
     "title": "肥志百科 第15季",
@@ -131,7 +116,7 @@
     "link": null,
     "bgm_id": "536270",
     "bgm_score": 5.8,
-    "bgm_rating_total": 262,
+    "bgm_rating_total": 264,
     "bgm_weekday_id": 7,
     "tmdb_id": "283692",
     "tmdb_site_id": "tv/283692",
@@ -251,7 +236,7 @@
     "link": null,
     "bgm_id": "586255",
     "bgm_score": 5.6,
-    "bgm_rating_total": 259,
+    "bgm_rating_total": 260,
     "bgm_weekday_id": 6,
     "tmdb_id": "301139",
     "tmdb_site_id": "tv/301139",
@@ -411,7 +396,7 @@
     "link": null,
     "bgm_id": "621108",
     "bgm_score": 5.1,
-    "bgm_rating_total": 148,
+    "bgm_rating_total": 150,
     "bgm_weekday_id": 5,
     "tmdb_id": "320909",
     "tmdb_site_id": "tv/320909",
@@ -448,5 +433,20 @@
     "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "563508",
+    "type": "link",
+    "title": "神秘面包小子",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/56/5e/563508_t2XEq.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "4.8",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/563508",
+    "bgm_id": "563508",
+    "bgm_score": 4.8,
+    "bgm_rating_total": 10,
+    "bgm_weekday_id": 5
   }
 ]

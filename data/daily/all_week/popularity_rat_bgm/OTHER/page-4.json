@@ -1,20 +1,5 @@
 [
   {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 12,
-    "bgm_weekday_id": 7
-  },
-  {
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
@@ -380,5 +365,20 @@
       "AR"
     ],
     "tmdb_source": "tmdb_api"
+  },
+  {
+    "id": "713654",
+    "type": "link",
+    "title": "The Marsupilamis",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/80/91/713654_mxUL7.jpg",
+    "releaseDate": "2026-10-19",
+    "mediaType": "anime",
+    "rating": "N/A",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713654",
+    "bgm_id": "713654",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 1
   }
 ]

@@ -120,6 +120,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.5",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/593863",
+    "bgm_id": "593863",
+    "bgm_score": 7.5,
+    "bgm_rating_total": 63,
+    "bgm_weekday_id": 5
+  },
+  {
     "id": "330505",
     "type": "tmdb",
     "title": "大叔喜欢可爱小玩意",
@@ -138,21 +153,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.5",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.5,
-    "bgm_rating_total": 62,
-    "bgm_weekday_id": 5
   },
   {
     "id": "324326",
@@ -181,12 +181,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/e8/30/701782_CGGYY.jpg",
     "releaseDate": "2026-10-02",
     "mediaType": "anime",
-    "rating": "4.7",
+    "rating": "4.6",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/701782",
     "bgm_id": "701782",
-    "bgm_score": 4.7,
-    "bgm_rating_total": 51,
+    "bgm_score": 4.6,
+    "bgm_rating_total": 52,
     "bgm_weekday_id": 5
   },
   {
@@ -276,21 +276,6 @@
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
     "bgm_score": 7.1,
-    "bgm_rating_total": 27,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "559080",
-    "type": "link",
-    "title": "梦境世界",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/dc/559080_4QJvx.jpg",
-    "releaseDate": "2026-10-17",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/559080",
-    "bgm_id": "559080",
-    "bgm_score": 6.0,
     "bgm_rating_total": 27,
     "bgm_weekday_id": 6
   },
@@ -423,5 +408,20 @@
     "bgm_score": 6.3,
     "bgm_rating_total": 6,
     "bgm_weekday_id": 7
+  },
+  {
+    "id": "698981",
+    "type": "link",
+    "title": "探险时光：支线任务 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/91/f3/698981_S7sct.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/698981",
+    "bgm_id": "698981",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 5
   }
 ]
