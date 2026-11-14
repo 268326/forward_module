@@ -130,6 +130,21 @@
     "bgm_weekday_id": 3
   },
   {
+    "id": "710874",
+    "type": "link",
+    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "5.7",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/710874",
+    "bgm_id": "710874",
+    "bgm_score": 5.7,
+    "bgm_rating_total": 3,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "716967",
     "type": "link",
     "title": "乱世千金倪亚‧利斯顿 迷你动画",
@@ -143,21 +158,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 3,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "710874",
-    "type": "link",
-    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
-    "releaseDate": "2026-10-12",
-    "mediaType": "anime",
-    "rating": "5.5",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/710874",
-    "bgm_id": "710874",
-    "bgm_score": 5.5,
-    "bgm_rating_total": 2,
-    "bgm_weekday_id": 1
   },
   {
     "id": "576783",
