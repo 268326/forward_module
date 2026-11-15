@@ -135,6 +135,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "710874",
+    "type": "link",
+    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "5.3",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/710874",
+    "bgm_id": "710874",
+    "bgm_score": 5.3,
+    "bgm_rating_total": 4,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "573707",
     "type": "link",
     "title": "极恶老大 第三季",
@@ -148,21 +163,6 @@
     "bgm_score": 3.3,
     "bgm_rating_total": 4,
     "bgm_weekday_id": 3
-  },
-  {
-    "id": "710874",
-    "type": "link",
-    "title": "宝可梦动画图鉴 第六季 云岫寻踪",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/75/89/710874_99X5Q.jpg",
-    "releaseDate": "2026-10-12",
-    "mediaType": "anime",
-    "rating": "5.7",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/710874",
-    "bgm_id": "710874",
-    "bgm_score": 5.7,
-    "bgm_rating_total": 3,
-    "bgm_weekday_id": 1
   },
   {
     "id": "716967",
@@ -208,6 +208,21 @@
     "bgm_score": 3.0,
     "bgm_rating_total": 2,
     "bgm_weekday_id": 4
+  },
+  {
+    "id": "665014",
+    "type": "link",
+    "title": "黑暗学院 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
+    "releaseDate": "2026-10-31",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665014",
+    "bgm_id": "665014",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6
   },
   {
     "id": "717907",
@@ -338,21 +353,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "665014",
-    "type": "link",
-    "title": "黑暗学院 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
-    "releaseDate": "2026-10-31",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665014",
-    "bgm_id": "665014",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
   },
   {
     "id": "632817",

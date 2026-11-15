@@ -1,5 +1,20 @@
 [
   {
+    "id": "665014",
+    "type": "link",
+    "title": "黑暗学院 第二季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
+    "releaseDate": "2026-10-31",
+    "mediaType": "anime",
+    "rating": "7.0",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/665014",
+    "bgm_id": "665014",
+    "bgm_score": 7.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "717907",
     "type": "link",
     "title": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
@@ -63,21 +78,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "665014",
-    "type": "link",
-    "title": "黑暗学院 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
-    "releaseDate": "2026-10-31",
-    "mediaType": "anime",
-    "rating": "7.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665014",
-    "bgm_id": "665014",
-    "bgm_score": 7.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
   },
   {
     "id": "632817",
