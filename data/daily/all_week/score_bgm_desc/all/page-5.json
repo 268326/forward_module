@@ -1,5 +1,25 @@
 [
   {
+    "id": "337456",
+    "type": "tmdb",
+    "title": "欢迎光临游之家！from Yu-hachi",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0b/d4/688204_mSshl.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "3.0",
+    "description": "[星期一]",
+    "link": null,
+    "bgm_id": "688204",
+    "bgm_score": 3.0,
+    "bgm_rating_total": 1,
+    "bgm_weekday_id": 1,
+    "tmdb_id": "337456",
+    "tmdb_site_id": "tv/337456",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
@@ -186,21 +206,6 @@
     "description": "[星期六]",
     "link": "http://bgm.tv/subject/654678",
     "bgm_id": "654678",
-    "bgm_score": 0,
-    "bgm_rating_total": 0,
-    "bgm_weekday_id": 6
-  },
-  {
-    "id": "665014",
-    "type": "link",
-    "title": "黑暗学院 第二季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/74/5e/665014_YbeJ2.jpg",
-    "releaseDate": "2026-10-31",
-    "mediaType": "anime",
-    "rating": "N/A",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/665014",
-    "bgm_id": "665014",
     "bgm_score": 0,
     "bgm_rating_total": 0,
     "bgm_weekday_id": 6

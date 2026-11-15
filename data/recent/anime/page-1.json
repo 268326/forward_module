@@ -98,22 +98,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "335790",
-    "type": "tmdb",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王（KADOKAWA「ドラドラしゃーぷ#」連載） / 佐々木貴宏",
-    "link": null,
-    "tmdb_id": "335790",
-    "tmdb_site_id": "tv/335790",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "45790/season/6/episode/2",
     "type": "tmdb",
     "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
@@ -125,6 +109,22 @@
     "link": null,
     "tmdb_id": "45790/season/6/episode/2",
     "tmdb_site_id": "tv/45790/season/6/episode/2",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "335790",
+    "type": "tmdb",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王（KADOKAWA「ドラドラしゃーぷ#」連載） / 佐々木貴宏",
+    "link": null,
+    "tmdb_id": "335790",
+    "tmdb_site_id": "tv/335790",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -338,22 +338,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "261343/season/1/episode/14",
-    "type": "tmdb",
-    "title": "弹珠汽水瓶里的千岁同学 第2部分",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
-    "releaseDate": "2026-10-13",
-    "mediaType": "tv",
-    "rating": "4.7",
-    "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
-    "link": null,
-    "tmdb_id": "261343/season/1/episode/14",
-    "tmdb_site_id": "tv/261343/season/1/episode/14",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "288588",
     "type": "tmdb",
     "title": "和没有信徒的女神大人一起攻略异世界",
@@ -365,6 +349,22 @@
     "link": null,
     "tmdb_id": "288588",
     "tmdb_site_id": "tv/288588",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "261343/season/1/episode/14",
+    "type": "tmdb",
+    "title": "弹珠汽水瓶里的千岁同学 第2部分",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/83/49/584847_5nM0F.jpg",
+    "releaseDate": "2026-10-13",
+    "mediaType": "tv",
+    "rating": "4.7",
+    "description": "11话 /  2026年10月13日 / 徳野雄士 / 裕夢（小学館「ガガガ文庫」刊） / 木野下澄江",
+    "link": null,
+    "tmdb_id": "261343/season/1/episode/14",
+    "tmdb_site_id": "tv/261343/season/1/episode/14",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
