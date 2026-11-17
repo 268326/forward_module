@@ -128,15 +128,20 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "369304",
-    "type": "link",
+    "id": "95479/season/1/episode/25",
+    "type": "tmdb",
     "title": "咒术回战 怀玉･玉折 / 涩谷事变",
     "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg",
     "releaseDate": "2023-07-06",
-    "mediaType": "anime",
+    "mediaType": "tv",
     "rating": "7.2",
     "description": "23话 /  2023年7月6日 / 御所園翔太 / 芥見下々（集英社「週刊少年ジャンプ」連載） / 平松禎史、小磯沙矢香",
-    "link": "https://bgm.tv/subject/369304"
+    "link": null,
+    "tmdb_id": "95479/season/1/episode/25",
+    "tmdb_site_id": "tv/95479/season/1/episode/25",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "94664/season/1/episode/12",
