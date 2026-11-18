@@ -86,12 +86,12 @@
     "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
     "releaseDate": "2026-10-30",
     "mediaType": "anime",
-    "rating": "7.6",
+    "rating": "7.5",
     "description": "[星期五]",
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 80,
+    "bgm_score": 7.5,
+    "bgm_rating_total": 82,
     "bgm_weekday_id": 5
   },
   {
@@ -106,7 +106,7 @@
     "link": null,
     "bgm_id": "664389",
     "bgm_score": 5.9,
-    "bgm_rating_total": 77,
+    "bgm_rating_total": 76,
     "bgm_weekday_id": 7,
     "tmdb_id": "216467/season/2/episode/13",
     "tmdb_site_id": "tv/216467/season/2/episode/13",
@@ -278,7 +278,7 @@
     "link": null,
     "bgm_id": "617948",
     "bgm_score": 5.6,
-    "bgm_rating_total": 34,
+    "bgm_rating_total": 35,
     "bgm_weekday_id": 5,
     "tmdb_id": "253811",
     "tmdb_site_id": "tv/253811/season/2",
@@ -381,6 +381,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "715907",
+    "type": "link",
+    "title": "罗德岛学院",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
+    "releaseDate": "2026-10-25",
+    "mediaType": "anime",
+    "rating": "6.8",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/715907",
+    "bgm_id": "715907",
+    "bgm_score": 6.8,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "337290",
     "type": "tmdb",
     "title": "小狸猫与小狐狸",
@@ -399,21 +414,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.8",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.8,
-    "bgm_rating_total": 16,
-    "bgm_weekday_id": 7
   },
   {
     "id": "700678",
