@@ -98,22 +98,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "335790",
-    "type": "tmdb",
-    "title": "黑暗召唤师在地下恋爱中",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "6.2",
-    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王（KADOKAWA「ドラドラしゃーぷ#」連載） / 佐々木貴宏",
-    "link": null,
-    "tmdb_id": "335790",
-    "tmdb_site_id": "tv/335790",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "45790/season/6/episode/2",
     "type": "tmdb",
     "title": "飙马野郎 JOJO的奇妙冒险 第二&第三赛段",
@@ -125,6 +109,22 @@
     "link": null,
     "tmdb_id": "45790/season/6/episode/2",
     "tmdb_site_id": "tv/45790/season/6/episode/2",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "335790",
+    "type": "tmdb",
+    "title": "黑暗召唤师在地下恋爱中",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "6.2",
+    "description": "12话 /  2026年10月4日 / 宮嶋星矢 / 車王（KADOKAWA「ドラドラしゃーぷ#」連載） / 佐々木貴宏",
+    "link": null,
+    "tmdb_id": "335790",
+    "tmdb_site_id": "tv/335790",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -178,22 +178,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305313",
-    "type": "tmdb",
-    "title": "罗梅莉亚战记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "6.4",
-    "description": "12话 /  2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
-    "link": null,
-    "tmdb_id": "305313",
-    "tmdb_site_id": "tv/305313",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "313068",
     "type": "tmdb",
     "title": "你好，我是受心上人所托来做恋爱药的魔女。",
@@ -205,6 +189,22 @@
     "link": null,
     "tmdb_id": "313068",
     "tmdb_site_id": "tv/313068",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305313",
+    "type": "tmdb",
+    "title": "罗梅莉亚战记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "6.4",
+    "description": "12话 /  2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
+    "link": null,
+    "tmdb_id": "305313",
+    "tmdb_site_id": "tv/305313",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -338,20 +338,15 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "288588",
-    "type": "tmdb",
-    "title": "和没有信徒的女神大人一起攻略异世界",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/ec/f9/621073_oFcZ3.jpg",
-    "releaseDate": "2026-10-11",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "2026年10月11日 / 福島利規 / 大崎アイル （オーバーラップ文庫刊）、しろいはくと （「コミックガルド」連載） / 伊藤憲子",
-    "link": null,
-    "tmdb_id": "288588",
-    "tmdb_site_id": "tv/288588",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "593863",
+    "type": "link",
+    "title": "罗小黑战记 学前篇",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/86/cd/593863_7u0XX.jpg",
+    "releaseDate": "2026-10-30",
+    "mediaType": "anime",
+    "rating": "7.6",
+    "description": "6话 /  2026年10月30日 / 呆尾(周达炜) / 小黄(黄黎婕)、小鳄鱼、毛獭",
+    "link": "https://bgm.tv/subject/593863"
   },
   {
     "id": "296286",
@@ -370,19 +365,14 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "278043/season/1/episode/13",
-    "type": "tmdb",
-    "title": "相反的你和我 第二季",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
-    "releaseDate": "2026-07-05",
-    "mediaType": "tv",
-    "rating": "8.1",
-    "description": "13话 /  2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
-    "link": null,
-    "tmdb_id": "278043/season/1/episode/13",
-    "tmdb_site_id": "tv/278043/season/1/episode/13",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
+    "id": "502499",
+    "type": "link",
+    "title": "GROTESQQQUE -怪异-",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fc/502499_oxoci.jpg",
+    "releaseDate": "2026-11-06",
+    "mediaType": "anime",
+    "rating": "6.5",
+    "description": "3话 /  2026年11月6日 / 錦織敦史 / 安野将人 / tarou2[岩崎将大] / 錦織敦史",
+    "link": "https://bgm.tv/subject/502499"
   }
 ]
