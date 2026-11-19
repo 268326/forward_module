@@ -73,7 +73,7 @@
     "id": "449346",
     "type": "link",
     "title": "大理寺日志 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_0ql6W.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/fc/d2/449346_x5y5r.jpg",
     "releaseDate": "2026-10-15",
     "mediaType": "anime",
     "rating": "7.0",
@@ -160,6 +160,21 @@
     "bgm_weekday_id": 4
   },
   {
+    "id": "713219",
+    "type": "link",
+    "title": "萤火虫的出嫁 迷你动画",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
+    "releaseDate": "2026-10-12",
+    "mediaType": "anime",
+    "rating": "5.0",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/713219",
+    "bgm_id": "713219",
+    "bgm_score": 5.0,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "576783",
     "type": "link",
     "title": "狂王 第2季",
@@ -206,21 +221,6 @@
     "link": "http://bgm.tv/subject/708080",
     "bgm_id": "708080",
     "bgm_score": 6.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 1
-  },
-  {
-    "id": "713219",
-    "type": "link",
-    "title": "萤火虫的出嫁 迷你动画",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/26/18/713219_TtQVj.jpg",
-    "releaseDate": "2026-10-12",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/713219",
-    "bgm_id": "713219",
-    "bgm_score": 5.0,
     "bgm_rating_total": 1,
     "bgm_weekday_id": 1
   },
