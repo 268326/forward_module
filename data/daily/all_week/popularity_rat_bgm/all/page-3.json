@@ -1,18 +1,23 @@
 [
   {
-    "id": "593863",
-    "type": "link",
-    "title": "罗小黑战记 学前篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/86/cd/593863_7u0XX.jpg",
-    "releaseDate": "2026-10-30",
-    "mediaType": "anime",
-    "rating": "7.6",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/593863",
-    "bgm_id": "593863",
-    "bgm_score": 7.6,
-    "bgm_rating_total": 88,
-    "bgm_weekday_id": 5
+    "id": "303060",
+    "type": "tmdb",
+    "title": "极致软弱千金小姐，不小心答应了精明未婚夫的赌局",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/39/bd/596771_y75Tw.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "4.6",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "596771",
+    "bgm_score": 4.6,
+    "bgm_rating_total": 90,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "303060",
+    "tmdb_site_id": "tv/303060",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "307903",
@@ -115,6 +120,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 68,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "334779",
     "type": "tmdb",
     "title": "因为鼠标光标似乎可以操控现实，所以我要疯狂点击女孩子",
@@ -135,21 +155,6 @@
       "JP"
     ],
     "tmdb_source": "tmdb_api"
-  },
-  {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 67,
-    "bgm_weekday_id": 4
   },
   {
     "id": "308977",
