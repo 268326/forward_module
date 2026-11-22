@@ -1,18 +1,23 @@
 [
   {
-    "id": "715907",
-    "type": "link",
-    "title": "罗德岛学院",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/b4/fc/715907_1Llil.jpg",
-    "releaseDate": "2026-10-25",
-    "mediaType": "anime",
-    "rating": "6.8",
+    "id": "337290",
+    "type": "tmdb",
+    "title": "小狸猫与小狐狸",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/49/6a/638081_tc7A0.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "4.8",
     "description": "[星期日]",
-    "link": "http://bgm.tv/subject/715907",
-    "bgm_id": "715907",
-    "bgm_score": 6.8,
+    "link": null,
+    "bgm_id": "638081",
+    "bgm_score": 4.8,
     "bgm_rating_total": 17,
-    "bgm_weekday_id": 7
+    "bgm_weekday_id": 7,
+    "tmdb_id": "337290",
+    "tmdb_site_id": "tv/337290",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
   },
   {
     "id": "707667",
@@ -48,7 +53,7 @@
     "id": "712000",
     "type": "link",
     "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_Z5S1J.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_lL46X.jpg",
     "releaseDate": "2026-10-18",
     "mediaType": "anime",
     "rating": "6.0",
@@ -56,7 +61,7 @@
     "link": "http://bgm.tv/subject/712000",
     "bgm_id": "712000",
     "bgm_score": 6.0,
-    "bgm_rating_total": 12,
+    "bgm_rating_total": 13,
     "bgm_weekday_id": 7
   },
   {
@@ -71,7 +76,7 @@
     "link": "http://bgm.tv/subject/449346",
     "bgm_id": "449346",
     "bgm_score": 6.7,
-    "bgm_rating_total": 11,
+    "bgm_rating_total": 12,
     "bgm_weekday_id": 4
   },
   {

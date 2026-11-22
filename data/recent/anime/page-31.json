@@ -349,7 +349,8 @@
     "tmdb_site_id": "tv/204084",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [
-      "FR"
+      "FR",
+      "US"
     ],
     "tmdb_source": "tmdb_api"
   },
