@@ -1,0 +1,22 @@
+[
+  {
+    "id": "337260",
+    "type": "tmdb",
+    "title": "ふんばるず",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/79/c2/701565_WkAaz.jpg",
+    "releaseDate": "2026-10-03",
+    "mediaType": "tv",
+    "rating": "N/A",
+    "description": "[星期六]",
+    "link": null,
+    "bgm_id": "701565",
+    "bgm_score": 0,
+    "bgm_rating_total": 0,
+    "bgm_weekday_id": 6,
+    "tmdb_id": "337260",
+    "tmdb_site_id": "tv/337260",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  }
+]
