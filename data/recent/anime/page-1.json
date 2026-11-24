@@ -48,22 +48,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "105248",
-    "type": "tmdb",
-    "title": "赛博朋克：边缘行者 2",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
-    "releaseDate": "2026-10-20",
-    "mediaType": "tv",
-    "rating": "5.5",
-    "description": "10话 /  2026年10月20日 / 五十嵐海 / CD Projekt（Cyberpunk 2077, set in a universe created by Mike Pondsmith） / 菅野一期",
-    "link": null,
-    "tmdb_id": "105248",
-    "tmdb_site_id": "tv/105248/season/2",
-    "tmdb_season_number": 2,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "313346",
     "type": "tmdb",
     "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
@@ -94,6 +78,22 @@
     "tmdb_id": "335790",
     "tmdb_site_id": "tv/335790",
     "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "105248",
+    "type": "tmdb",
+    "title": "赛博朋克：边缘行者 2",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg",
+    "releaseDate": "2026-10-20",
+    "mediaType": "tv",
+    "rating": "5.5",
+    "description": "10话 /  2026年10月20日 / 五十嵐海 / CD Projekt（Cyberpunk 2077, set in a universe created by Mike Pondsmith） / 菅野一期",
+    "link": null,
+    "tmdb_id": "105248",
+    "tmdb_site_id": "tv/105248/season/2",
+    "tmdb_season_number": 2,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
   },
@@ -194,22 +194,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "305313",
-    "type": "tmdb",
-    "title": "罗梅莉亚战记",
-    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "tv",
-    "rating": "6.3",
-    "description": "12话 /  2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
-    "link": null,
-    "tmdb_id": "305313",
-    "tmdb_site_id": "tv/305313",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
-  },
-  {
     "id": "335194",
     "type": "tmdb",
     "title": "魔法★探险家",
@@ -221,6 +205,22 @@
     "link": null,
     "tmdb_id": "335194",
     "tmdb_site_id": "tv/335194",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
+    "id": "305313",
+    "type": "tmdb",
+    "title": "罗梅莉亚战记",
+    "posterPath": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f7/511936_XDkXO.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "tv",
+    "rating": "6.3",
+    "description": "12话 /  2026年10月5日 / 有山リョウ（小学館「ガガガブックス」刊）；漫画：上戸亮（マッグガーデン「BLADEコミックス」刊） / 齊藤佳子·大髙雄太",
+    "link": null,
+    "tmdb_id": "305313",
+    "tmdb_site_id": "tv/305313",
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
@@ -253,6 +253,24 @@
     "link": "https://bgm.tv/subject/593863"
   },
   {
+    "id": "328010",
+    "type": "tmdb",
+    "title": "恶魔纹章",
+    "posterPath": "https://image.tmdb.org/t/p/w500/69KzrOgunPvoQ80uj83DLxVMPBl.jpg",
+    "releaseDate": "2026-11-06",
+    "mediaType": "tv",
+    "rating": "8.0",
+    "description": "“哥哥，这里是现实啊！”\n\n　　雪花小学六年级一班的芦原佑马，在游玩世界第一款 VRMMORPG《Actual Magic》时，踏入了游戏与现实融合的“新世界”。正当佑马因无法理解现状而陷入混乱时，班级第一美少女绵卷澄香出现在他面前。但她的容貌已发生近乎悲剧性的异变——那副姿态，简直只能让人联想到游戏里的“怪物”……\n\n　　“这既是游戏，亦是现实。”",
+    "link": null,
+    "tmdb_id": "328010",
+    "tmdb_site_id": "tv/328010",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [
+      "JP"
+    ],
+    "tmdb_source": "tmdb_api"
+  },
+  {
     "id": "334504",
     "type": "tmdb",
     "title": "不擅交际的未亡人雪女与诅咒戒指",
@@ -283,24 +301,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "328010",
-    "type": "tmdb",
-    "title": "恶魔纹章",
-    "posterPath": "https://image.tmdb.org/t/p/w500/69KzrOgunPvoQ80uj83DLxVMPBl.jpg",
-    "releaseDate": "2026-11-06",
-    "mediaType": "tv",
-    "rating": "8.0",
-    "description": "“哥哥，这里是现实啊！”\n\n　　雪花小学六年级一班的芦原佑马，在游玩世界第一款 VRMMORPG《Actual Magic》时，踏入了游戏与现实融合的“新世界”。正当佑马因无法理解现状而陷入混乱时，班级第一美少女绵卷澄香出现在他面前。但她的容貌已发生近乎悲剧性的异变——那副姿态，简直只能让人联想到游戏里的“怪物”……\n\n　　“这既是游戏，亦是现实。”",
-    "link": null,
-    "tmdb_id": "328010",
-    "tmdb_site_id": "tv/328010",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [
-      "JP"
-    ],
-    "tmdb_source": "tmdb_api"
   },
   {
     "id": "94664",

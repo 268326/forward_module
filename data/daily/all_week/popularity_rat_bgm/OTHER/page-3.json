@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "502123",
     "bgm_score": 6.0,
-    "bgm_rating_total": 82,
+    "bgm_rating_total": 81,
     "bgm_weekday_id": 3,
     "tmdb_id": "303272",
     "tmdb_site_id": "tv/303272",
@@ -80,6 +80,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "577237",
+    "type": "link",
+    "title": "仙逆剧场版 弑仙之战",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
+    "releaseDate": "2026-10-01",
+    "mediaType": "anime",
+    "rating": "6.0",
+    "description": "[星期四]",
+    "link": "http://bgm.tv/subject/577237",
+    "bgm_id": "577237",
+    "bgm_score": 6.0,
+    "bgm_rating_total": 69,
+    "bgm_weekday_id": 4
+  },
+  {
     "id": "330505",
     "type": "tmdb",
     "title": "大叔喜欢可爱小玩意",
@@ -98,21 +113,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "577237",
-    "type": "link",
-    "title": "仙逆剧场版 弑仙之战",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/33/a4/577237_Cd0Cm.jpg",
-    "releaseDate": "2026-10-01",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期四]",
-    "link": "http://bgm.tv/subject/577237",
-    "bgm_id": "577237",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 68,
-    "bgm_weekday_id": 4
   },
   {
     "id": "297903",
@@ -401,7 +401,7 @@
     "link": "http://bgm.tv/subject/707667",
     "bgm_id": "707667",
     "bgm_score": 6.4,
-    "bgm_rating_total": 15,
+    "bgm_rating_total": 16,
     "bgm_weekday_id": 1
   },
   {
