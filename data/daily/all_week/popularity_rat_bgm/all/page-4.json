@@ -1,5 +1,20 @@
 [
   {
+    "id": "707667",
+    "type": "link",
+    "title": "猫猫的呢喃 第三季",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
+    "releaseDate": "2026-10-05",
+    "mediaType": "anime",
+    "rating": "6.4",
+    "description": "[星期一]",
+    "link": "http://bgm.tv/subject/707667",
+    "bgm_id": "707667",
+    "bgm_score": 6.4,
+    "bgm_rating_total": 17,
+    "bgm_weekday_id": 1
+  },
+  {
     "id": "337290",
     "type": "tmdb",
     "title": "小狸猫与小狐狸",
@@ -20,21 +35,6 @@
     "tmdb_source": "bangumi_data"
   },
   {
-    "id": "707667",
-    "type": "link",
-    "title": "猫猫的呢喃 第三季",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/44/89/707667_JL0l8.jpg",
-    "releaseDate": "2026-10-05",
-    "mediaType": "anime",
-    "rating": "6.4",
-    "description": "[星期一]",
-    "link": "http://bgm.tv/subject/707667",
-    "bgm_id": "707667",
-    "bgm_score": 6.4,
-    "bgm_rating_total": 16,
-    "bgm_weekday_id": 1
-  },
-  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -53,7 +53,7 @@
     "id": "712000",
     "type": "link",
     "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_lL46X.jpg",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_U6uYG.jpg",
     "releaseDate": "2026-10-18",
     "mediaType": "anime",
     "rating": "6.0",
