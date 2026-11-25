@@ -80,6 +80,26 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "330505",
+    "type": "tmdb",
+    "title": "大叔喜欢可爱小玩意",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "tv",
+    "rating": "5.6",
+    "description": "[星期日]",
+    "link": null,
+    "bgm_id": "605533",
+    "bgm_score": 5.6,
+    "bgm_rating_total": 70,
+    "bgm_weekday_id": 7,
+    "tmdb_id": "330505",
+    "tmdb_site_id": "tv/330505",
+    "tmdb_season_number": null,
+    "tmdb_origin_countries": [],
+    "tmdb_source": "bangumi_data"
+  },
+  {
     "id": "577237",
     "type": "link",
     "title": "仙逆剧场版 弑仙之战",
@@ -93,26 +113,6 @@
     "bgm_score": 6.0,
     "bgm_rating_total": 69,
     "bgm_weekday_id": 4
-  },
-  {
-    "id": "330505",
-    "type": "tmdb",
-    "title": "大叔喜欢可爱小玩意",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/d1/e7/605533_97NSn.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "tv",
-    "rating": "5.6",
-    "description": "[星期日]",
-    "link": null,
-    "bgm_id": "605533",
-    "bgm_score": 5.6,
-    "bgm_rating_total": 69,
-    "bgm_weekday_id": 7,
-    "tmdb_id": "330505",
-    "tmdb_site_id": "tv/330505",
-    "tmdb_season_number": null,
-    "tmdb_origin_countries": [],
-    "tmdb_source": "bangumi_data"
   },
   {
     "id": "297903",
@@ -256,7 +256,7 @@
     "link": "http://bgm.tv/subject/507820",
     "bgm_id": "507820",
     "bgm_score": 7.1,
-    "bgm_rating_total": 39,
+    "bgm_rating_total": 41,
     "bgm_weekday_id": 6
   },
   {
