@@ -35,6 +35,21 @@
     "tmdb_source": "bangumi_data"
   },
   {
+    "id": "712000",
+    "type": "link",
+    "title": "牧神记5",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_U6uYG.jpg",
+    "releaseDate": "2026-10-18",
+    "mediaType": "anime",
+    "rating": "6.1",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/712000",
+    "bgm_id": "712000",
+    "bgm_score": 6.1,
+    "bgm_rating_total": 15,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "700678",
     "type": "link",
     "title": "闹鬼酒店 第二季",
@@ -48,21 +63,6 @@
     "bgm_score": 7.1,
     "bgm_rating_total": 14,
     "bgm_weekday_id": 5
-  },
-  {
-    "id": "712000",
-    "type": "link",
-    "title": "牧神记5",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/da/c8/712000_U6uYG.jpg",
-    "releaseDate": "2026-10-18",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/712000",
-    "bgm_id": "712000",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 14,
-    "bgm_weekday_id": 7
   },
   {
     "id": "449346",
