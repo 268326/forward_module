@@ -75,6 +75,21 @@
     "bgm_weekday_id": 5
   },
   {
+    "id": "712500",
+    "type": "link",
+    "title": "万圣街 特别篇 古堡的秘密",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
+    "releaseDate": "2026-10-31",
+    "mediaType": "anime",
+    "rating": "5.5",
+    "description": "[星期六]",
+    "link": "http://bgm.tv/subject/712500",
+    "bgm_id": "712500",
+    "bgm_score": 5.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 6
+  },
+  {
     "id": "717907",
     "type": "link",
     "title": "世界计划 缤纷舞台！ feat. 初音未来 6周年纪念曲『Emerald』2DMV",
@@ -123,21 +138,6 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "712500",
-    "type": "link",
-    "title": "万圣街 特别篇 古堡的秘密",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/bb/77/712500_Ene6m.jpg",
-    "releaseDate": "2026-10-31",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期六]",
-    "link": "http://bgm.tv/subject/712500",
-    "bgm_id": "712500",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 6
   },
   {
     "id": "733809",
