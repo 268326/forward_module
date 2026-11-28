@@ -11,7 +11,7 @@
     "link": "http://bgm.tv/subject/449346",
     "bgm_id": "449346",
     "bgm_score": 6.6,
-    "bgm_rating_total": 13,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 4
   },
   {
@@ -225,6 +225,21 @@
     "bgm_weekday_id": 6
   },
   {
+    "id": "708612",
+    "type": "link",
+    "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
+    "releaseDate": "2026-10-04",
+    "mediaType": "anime",
+    "rating": "4.5",
+    "description": "[星期日]",
+    "link": "http://bgm.tv/subject/708612",
+    "bgm_id": "708612",
+    "bgm_score": 4.5,
+    "bgm_rating_total": 2,
+    "bgm_weekday_id": 7
+  },
+  {
     "id": "337456",
     "type": "tmdb",
     "title": "欢迎光临游之家！from Yu-hachi",
@@ -358,20 +373,5 @@
     "tmdb_season_number": null,
     "tmdb_origin_countries": [],
     "tmdb_source": "bangumi_data"
-  },
-  {
-    "id": "708612",
-    "type": "link",
-    "title": "黑暗召唤师在地下恋爱中 迷你动画剧场",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/9c/1d/708612_jks1j.jpg",
-    "releaseDate": "2026-10-04",
-    "mediaType": "anime",
-    "rating": "5.0",
-    "description": "[星期日]",
-    "link": "http://bgm.tv/subject/708612",
-    "bgm_id": "708612",
-    "bgm_score": 5.0,
-    "bgm_rating_total": 1,
-    "bgm_weekday_id": 7
   }
 ]

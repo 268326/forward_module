@@ -11,7 +11,7 @@
     "link": null,
     "bgm_id": "614640",
     "bgm_score": 4.9,
-    "bgm_rating_total": 67,
+    "bgm_rating_total": 68,
     "bgm_weekday_id": 1,
     "tmdb_id": "297903",
     "tmdb_site_id": "tv/297903",
@@ -31,7 +31,7 @@
     "link": null,
     "bgm_id": "471844",
     "bgm_score": 5.5,
-    "bgm_rating_total": 53,
+    "bgm_rating_total": 55,
     "bgm_weekday_id": 3,
     "tmdb_id": "230050",
     "tmdb_site_id": "tv/230050/season/2",
@@ -86,7 +86,7 @@
     "link": "http://bgm.tv/subject/449346",
     "bgm_id": "449346",
     "bgm_score": 6.6,
-    "bgm_rating_total": 13,
+    "bgm_rating_total": 14,
     "bgm_weekday_id": 4
   },
   {

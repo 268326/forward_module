@@ -26,7 +26,7 @@
     "link": "http://bgm.tv/subject/593863",
     "bgm_id": "593863",
     "bgm_score": 7.8,
-    "bgm_rating_total": 133,
+    "bgm_rating_total": 140,
     "bgm_weekday_id": 5
   },
   {
@@ -41,7 +41,7 @@
     "link": null,
     "bgm_id": "568244",
     "bgm_score": 7.3,
-    "bgm_rating_total": 767,
+    "bgm_rating_total": 772,
     "bgm_weekday_id": 5,
     "tmdb_id": "220542/season/1/episode/49",
     "tmdb_site_id": "tv/220542/season/1/episode/49",
@@ -76,7 +76,7 @@
     "link": null,
     "bgm_id": "537738",
     "bgm_score": 7.0,
-    "bgm_rating_total": 767,
+    "bgm_rating_total": 771,
     "bgm_weekday_id": 5,
     "tmdb_id": "284580",
     "tmdb_site_id": "tv/284580",
@@ -115,21 +115,6 @@
     "bgm_weekday_id": 5
   },
   {
-    "id": "499474",
-    "type": "link",
-    "title": "东京复仇者 三天战争篇",
-    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
-    "releaseDate": "2026-10-02",
-    "mediaType": "anime",
-    "rating": "6.0",
-    "description": "[星期五]",
-    "link": "http://bgm.tv/subject/499474",
-    "bgm_id": "499474",
-    "bgm_score": 6.0,
-    "bgm_rating_total": 56,
-    "bgm_weekday_id": 5
-  },
-  {
     "id": "701310",
     "type": "link",
     "title": "格林姐妹大冒险 第二季",
@@ -142,6 +127,21 @@
     "bgm_id": "701310",
     "bgm_score": 6.0,
     "bgm_rating_total": 1,
+    "bgm_weekday_id": 5
+  },
+  {
+    "id": "499474",
+    "type": "link",
+    "title": "东京复仇者 三天战争篇",
+    "posterPath": "http://lain.bgm.tv/pic/cover/l/0f/d4/499474_bheyE.jpg",
+    "releaseDate": "2026-10-02",
+    "mediaType": "anime",
+    "rating": "5.9",
+    "description": "[星期五]",
+    "link": "http://bgm.tv/subject/499474",
+    "bgm_id": "499474",
+    "bgm_score": 5.9,
+    "bgm_rating_total": 57,
     "bgm_weekday_id": 5
   },
   {
@@ -176,7 +176,7 @@
     "link": null,
     "bgm_id": "657656",
     "bgm_score": 5.5,
-    "bgm_rating_total": 222,
+    "bgm_rating_total": 224,
     "bgm_weekday_id": 5,
     "tmdb_id": "324502",
     "tmdb_site_id": "tv/324502",
@@ -196,7 +196,7 @@
     "link": null,
     "bgm_id": "621108",
     "bgm_score": 5.1,
-    "bgm_rating_total": 165,
+    "bgm_rating_total": 166,
     "bgm_weekday_id": 5,
     "tmdb_id": "320909",
     "tmdb_site_id": "tv/320909",
